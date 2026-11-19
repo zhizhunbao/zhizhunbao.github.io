@@ -1,10 +1,10 @@
 ---
-title: "3.1.12 Business Analytics (Course 15-2)"
+title: "3.2.12 Business Analytics (Course 15-2)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Business Analytics (Course 15-2): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.12 Business Analytics (Course 15-2)
+# 3.2.12 Business Analytics (Course 15-2)
 
 ## Glossary
 

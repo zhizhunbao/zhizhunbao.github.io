@@ -1,10 +1,10 @@
 ---
-title: "3.2.168 East Asian Languages and Cultures, Doctor of Philosophy"
+title: "3.3.168 East Asian Languages and Cultures, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > East Asian Languages and Cultures, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.168 East Asian Languages and Cultures, Doctor of Philosophy
+# 3.3.168 East Asian Languages and Cultures, Doctor of Philosophy
 
 ## Glossary
 

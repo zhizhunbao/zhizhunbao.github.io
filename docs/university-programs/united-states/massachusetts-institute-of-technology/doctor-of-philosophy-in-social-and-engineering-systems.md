@@ -1,10 +1,10 @@
 ---
-title: "3.1.112 Doctor of Philosophy in Social and Engineering Systems"
+title: "3.2.112 Doctor of Philosophy in Social and Engineering Systems"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Social and Engineering Systems: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.112 Doctor of Philosophy in Social and Engineering Systems
+# 3.2.112 Doctor of Philosophy in Social and Engineering Systems
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.1.80 Supply Chain Management (MASc)"
+title: "3.2.80 Supply Chain Management (MASc)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Supply Chain Management (MASc): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.80 Supply Chain Management (MASc)
+# 3.2.80 Supply Chain Management (MASc)
 
 ## Glossary
 

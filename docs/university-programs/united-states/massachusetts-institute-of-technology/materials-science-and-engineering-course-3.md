@@ -1,10 +1,10 @@
 ---
-title: "3.1.40 Materials Science and Engineering (Course 3)"
+title: "3.2.40 Materials Science and Engineering (Course 3)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Materials Science and Engineering (Course 3): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.40 Materials Science and Engineering (Course 3)
+# 3.2.40 Materials Science and Engineering (Course 3)
 
 ## Glossary
 

@@ -9776,703 +9776,1317 @@ items:
 - name: "3. United States"
   href: united-states/index.md
   items:
-  - name: "3.1 Massachusetts Institute of Technology"
+  - name: "3.1 Harvard University"
+    href: united-states/harvard-university/index.md
+    items:
+    - name: "3.1.1 African and African American Studies (B.A.)"
+      href: united-states/harvard-university/african-and-african-american-studies-b-a.md
+    - name: "3.1.2 Anthropology (B.A.)"
+      href: united-states/harvard-university/anthropology-b-a.md
+    - name: "3.1.3 Applied Math (B.A.)"
+      href: united-states/harvard-university/applied-math-b-a.md
+    - name: "3.1.4 Art, Film, and Visual Studies (B.A.)"
+      href: united-states/harvard-university/art-film-and-visual-studies-b-a.md
+    - name: "3.1.5 Astrophysics (B.A.)"
+      href: united-states/harvard-university/astrophysics-b-a.md
+    - name: "3.1.6 Biomedical Engineering (B.A.)"
+      href: united-states/harvard-university/biomedical-engineering-b-a.md
+    - name: "3.1.7 Chemical and Physical Biology (B.A.)"
+      href: united-states/harvard-university/chemical-and-physical-biology-b-a.md
+    - name: "3.1.8 Chemistry and Physics (B.A.)"
+      href: united-states/harvard-university/chemistry-and-physics-b-a.md
+    - name: "3.1.9 Classics (B.A.)"
+      href: united-states/harvard-university/classics-b-a.md
+    - name: "3.1.10 Comparative Literature (B.A.)"
+      href: united-states/harvard-university/comparative-literature-b-a.md
+    - name: "3.1.11 Comparative Study of Religion (B.A.)"
+      href: united-states/harvard-university/comparative-study-of-religion-b-a.md
+    - name: "3.1.12 Computer Science (B.A.)"
+      href: united-states/harvard-university/computer-science-b-a.md
+    - name: "3.1.13 Earth and Planetary Sciences (B.A.)"
+      href: united-states/harvard-university/earth-and-planetary-sciences-b-a.md
+    - name: "3.1.14 East Asian Studies (B.A.)"
+      href: united-states/harvard-university/east-asian-studies-b-a.md
+    - name: "3.1.15 Economics (B.A.)"
+      href: united-states/harvard-university/economics-b-a.md
+    - name: "3.1.16 Electrical Engineering (B.A.)"
+      href: united-states/harvard-university/electrical-engineering-b-a.md
+    - name: "3.1.17 Electrical Engineering (B.S.)"
+      href: united-states/harvard-university/electrical-engineering-b-s.md
+    - name: "3.1.18 English (B.A.)"
+      href: united-states/harvard-university/english-b-a.md
+    - name: "3.1.19 Environmental Science and Engineering (B.A.)"
+      href: united-states/harvard-university/environmental-science-and-engineering-b-a.md
+    - name: "3.1.20 Environmental Science and Public Policy (B.A.)"
+      href: united-states/harvard-university/environmental-science-and-public-policy-b-a.md
+    - name: "3.1.21 Folklore and Mythology (B.A.)"
+      href: united-states/harvard-university/folklore-and-mythology-b-a.md
+    - name: "3.1.22 Germanic Languages and Literature (B.A.)"
+      href: united-states/harvard-university/germanic-languages-and-literature-b-a.md
+    - name: "3.1.23 Government (B.A.)"
+      href: united-states/harvard-university/government-b-a.md
+    - name: "3.1.24 History (B.A.)"
+      href: united-states/harvard-university/history-b-a.md
+    - name: "3.1.25 History and Literature (B.A.)"
+      href: united-states/harvard-university/history-and-literature-b-a.md
+    - name: "3.1.26 History and Science (B.A.)"
+      href: united-states/harvard-university/history-and-science-b-a.md
+    - name: "3.1.27 History of Art and Architecture (B.A.)"
+      href: united-states/harvard-university/history-of-art-and-architecture-b-a.md
+    - name: "3.1.28 Human Evolutionary Biology (B.A.)"
+      href: united-states/harvard-university/human-evolutionary-biology-b-a.md
+    - name: "3.1.29 Integrative Biology (B.A.)"
+      href: united-states/harvard-university/integrative-biology-b-a.md
+    - name: "3.1.30 Linguistics (B.A.)"
+      href: united-states/harvard-university/linguistics-b-a.md
+    - name: "3.1.31 Mathematics (B.A.)"
+      href: united-states/harvard-university/mathematics-b-a.md
+    - name: "3.1.32 Mechanical Engineering (B.S.)"
+      href: united-states/harvard-university/mechanical-engineering-b-s.md
+    - name: "3.1.33 Molecular and Cellular Biology (B.A.)"
+      href: united-states/harvard-university/molecular-and-cellular-biology-b-a.md
+    - name: "3.1.34 Music (B.A.)"
+      href: united-states/harvard-university/music-b-a.md
+    - name: "3.1.35 Near Eastern Languages and Civilizations (B.A.)"
+      href: united-states/harvard-university/near-eastern-languages-and-civilizations-b-a.md
+    - name: "3.1.36 Neuroscience (B.A.)"
+      href: united-states/harvard-university/neuroscience-b-a.md
+    - name: "3.1.37 Philosophy (B.A.)"
+      href: united-states/harvard-university/philosophy-b-a.md
+    - name: "3.1.38 Physics (B.A.)"
+      href: united-states/harvard-university/physics-b-a.md
+    - name: "3.1.39 Psychology (B.A.)"
+      href: united-states/harvard-university/psychology-b-a.md
+    - name: "3.1.40 Romance Languages and Literature (B.A.)"
+      href: united-states/harvard-university/romance-languages-and-literature-b-a.md
+    - name: "3.1.41 Slavic Literatures and Cultures (B.A.)"
+      href: united-states/harvard-university/slavic-literatures-and-cultures-b-a.md
+    - name: "3.1.42 Social Studies (B.A.)"
+      href: united-states/harvard-university/social-studies-b-a.md
+    - name: "3.1.43 Sociology (B.A.)"
+      href: united-states/harvard-university/sociology-b-a.md
+    - name: "3.1.44 South Asian Studies (B.A.)"
+      href: united-states/harvard-university/south-asian-studies-b-a.md
+    - name: "3.1.45 Statistics (B.A.)"
+      href: united-states/harvard-university/statistics-b-a.md
+    - name: "3.1.46 Studies of Women, Gender, and Sexuality (B.A.)"
+      href: united-states/harvard-university/studies-of-women-gender-and-sexuality-b-a.md
+    - name: "3.1.47 Computer Science, Master of Liberal Arts (A.L.M.)"
+      href: united-states/harvard-university/computer-science-master-of-liberal-arts-a-l-m.md
+    - name: "3.1.48 Cybersecurity, Master of Liberal Arts (A.L.M.)"
+      href: united-states/harvard-university/cybersecurity-master-of-liberal-arts-a-l-m.md
+    - name: "3.1.49 Data Science and Artificial Intelligence, Master of Liberal Arts (A.L.M.)"
+      href: united-states/harvard-university/data-science-and-artificial-intelligence-master-of-liberal-arts-a-l-m.md
+    - name: "3.1.50 History of Science, Master of Arts (AM)"
+      href: united-states/harvard-university/history-of-science-master-of-arts-am.md
+    - name: "3.1.51 Master in Business Administration (M.B.A.)"
+      href: united-states/harvard-university/master-in-business-administration-m-b-a.md
+    - name: "3.1.52 Master in Design Studies (MDes)"
+      href: united-states/harvard-university/master-in-design-studies-mdes.md
+    - name: "3.1.53 Master in Health Care Management"
+      href: united-states/harvard-university/master-in-health-care-management.md
+    - name: "3.1.54 Master in Landscape Architecture I (MLA I)"
+      href: united-states/harvard-university/master-in-landscape-architecture-i-mla-i.md
+    - name: "3.1.55 Master in Landscape Architecture I AP (MLA I AP)"
+      href: united-states/harvard-university/master-in-landscape-architecture-i-ap-mla-i-ap.md
+    - name: "3.1.56 Master in Landscape Architecture II (MLA II)"
+      href: united-states/harvard-university/master-in-landscape-architecture-ii-mla-ii.md
+    - name: "3.1.57 Master in Public Administration (MPA)"
+      href: united-states/harvard-university/master-in-public-administration-mpa.md
+    - name: "3.1.58 Master in Public Administration in International Development (MPA/ID)"
+      href: united-states/harvard-university/master-in-public-administration-in-international-development-mpa-id.md
+    - name: "3.1.59 Master in Public Policy (MPP)"
+      href: united-states/harvard-university/master-in-public-policy-mpp.md
+    - name: "3.1.60 Master in Real Estate (MRE)"
+      href: united-states/harvard-university/master-in-real-estate-mre.md
+    - name: "3.1.61 Master in Urban Planning (MUP)"
+      href: united-states/harvard-university/master-in-urban-planning-mup.md
+    - name: "3.1.62 Master of Architecture I (MArch I)"
+      href: united-states/harvard-university/master-of-architecture-i-march-i.md
+    - name: "3.1.63 Master of Architecture I AP (MArch I AP)"
+      href: united-states/harvard-university/master-of-architecture-i-ap-march-i-ap.md
+    - name: "3.1.64 Master of Architecture II (MArch II)"
+      href: united-states/harvard-university/master-of-architecture-ii-march-ii.md
+    - name: "3.1.65 Master of Architecture in Urban Design (MAUD)"
+      href: united-states/harvard-university/master-of-architecture-in-urban-design-maud.md
+    - name: "3.1.66 Master of Landscape Architecture in Urban Design (MLAUD)"
+      href: united-states/harvard-university/master-of-landscape-architecture-in-urban-design-mlaud.md
+    - name: "3.1.67 Master of Public Health – Clinical Effectiveness"
+      href: united-states/harvard-university/master-of-public-health-clinical-effectiveness.md
+    - name: "3.1.68 Master of Public Health – Epidemiology"
+      href: united-states/harvard-university/master-of-public-health-epidemiology.md
+    - name: "3.1.69 Master of Public Health – Generalist"
+      href: united-states/harvard-university/master-of-public-health-generalist.md
+    - name: "3.1.70 Master of Public Health – Global Health"
+      href: united-states/harvard-university/master-of-public-health-global-health.md
+    - name: "3.1.71 Master of Public Health – Health and Social Behavior (45-credit)"
+      href: united-states/harvard-university/master-of-public-health-health-and-social-behavior-45-credit.md
+    - name: "3.1.72 Master of Public Health – Health and Social Behavior (65-credit)"
+      href: united-states/harvard-university/master-of-public-health-health-and-social-behavior-65-credit.md
+    - name: "3.1.73 Master of Public Health – Health Management (45-credit)"
+      href: united-states/harvard-university/master-of-public-health-health-management-45-credit.md
+    - name: "3.1.74 Master of Public Health – Health Management (65-credit)"
+      href: united-states/harvard-university/master-of-public-health-health-management-65-credit.md
+    - name: "3.1.75 Master of Public Health – Health Policy (45-credit)"
+      href: united-states/harvard-university/master-of-public-health-health-policy-45-credit.md
+    - name: "3.1.76 Master of Public Health – Health Policy (65-credit)"
+      href: united-states/harvard-university/master-of-public-health-health-policy-65-credit.md
+    - name: "3.1.77 Master of Public Health – Nutrition"
+      href: united-states/harvard-university/master-of-public-health-nutrition.md
+    - name: "3.1.78 Master of Public Health – Occupational and Environmental Health"
+      href: united-states/harvard-university/master-of-public-health-occupational-and-environmental-health.md
+    - name: "3.1.79 Master of Public Health – Quantitative Methods"
+      href: united-states/harvard-university/master-of-public-health-quantitative-methods.md
+    - name: "3.1.80 Master of Science – Biostatistics (42.5-credit)"
+      href: united-states/harvard-university/master-of-science-biostatistics-42-5-credit.md
+    - name: "3.1.81 Master of Science – Biostatistics (60-credit)"
+      href: united-states/harvard-university/master-of-science-biostatistics-60-credit.md
+    - name: "3.1.82 Master of Science – Biostatistics (80-credit)"
+      href: united-states/harvard-university/master-of-science-biostatistics-80-credit.md
+    - name: "3.1.83 Master of Science – Computational Biology and Quantitative Genetics"
+      href: united-states/harvard-university/master-of-science-computational-biology-and-quantitative-genetics.md
+    - name: "3.1.84 Master of Science – Environmental Health"
+      href: united-states/harvard-university/master-of-science-environmental-health.md
+    - name: "3.1.85 Master of Science – Epidemiology (42.5-credit)"
+      href: united-states/harvard-university/master-of-science-epidemiology-42-5-credit.md
+    - name: "3.1.86 Master of Science – Epidemiology (80-credit)"
+      href: united-states/harvard-university/master-of-science-epidemiology-80-credit.md
+    - name: "3.1.87 Master of Science – Global Health and Population"
+      href: united-states/harvard-university/master-of-science-global-health-and-population.md
+    - name: "3.1.88 Master of Science – Health Data Science"
+      href: united-states/harvard-university/master-of-science-health-data-science.md
+    - name: "3.1.89 Regional Studies–East Asia, Master of Arts (AM)"
+      href: united-states/harvard-university/regional-studieseast-asia-master-of-arts-am.md
+    - name: "3.1.90 Regional Studies–Middle East, Master of Arts (AM)"
+      href: united-states/harvard-university/regional-studiesmiddle-east-master-of-arts-am.md
+    - name: "3.1.91 Regional Studies–Russia, Eastern Europe, and Central Asia, Master of Arts (AM)"
+      href: united-states/harvard-university/regional-studiesrussia-eastern-europe-and-central-asia-master-of-arts-am.md
+    - name: "3.1.92 Systems Engineering, Master of Liberal Arts (A.L.M.)"
+      href: united-states/harvard-university/systems-engineering-master-of-liberal-arts-a-l-m.md
+    - name: "3.1.93 African and African American Studies, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/african-and-african-american-studies-doctor-of-philosophy-phd.md
+    - name: "3.1.94 American Studies, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/american-studies-doctor-of-philosophy-phd.md
+    - name: "3.1.95 Anthropology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/anthropology-doctor-of-philosophy-phd.md
+    - name: "3.1.96 Astronomy, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/astronomy-doctor-of-philosophy-phd.md
+    - name: "3.1.97 Biological and Biomedical Sciences, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/biological-and-biomedical-sciences-doctor-of-philosophy-phd.md
+    - name: "3.1.98 Biological Sciences in Public Health, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/biological-sciences-in-public-health-doctor-of-philosophy-phd.md
+    - name: "3.1.99 Biomedical Informatics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/biomedical-informatics-doctor-of-philosophy-phd.md
+    - name: "3.1.100 Biophysics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/biophysics-doctor-of-philosophy-phd.md
+    - name: "3.1.101 Business Administration, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/business-administration-doctor-of-philosophy-phd.md
+    - name: "3.1.102 Business Economics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/business-economics-doctor-of-philosophy-phd.md
+    - name: "3.1.103 Celtic Languages and Literatures, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/celtic-languages-and-literatures-doctor-of-philosophy-phd.md
+    - name: "3.1.104 Chemical Biology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/chemical-biology-doctor-of-philosophy-phd.md
+    - name: "3.1.105 Chemical Physics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/chemical-physics-doctor-of-philosophy-phd.md
+    - name: "3.1.106 Chemistry and Chemical Biology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/chemistry-and-chemical-biology-doctor-of-philosophy-phd.md
+    - name: "3.1.107 Comparative Literature, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/comparative-literature-doctor-of-philosophy-phd.md
+    - name: "3.1.108 Doctor of Design (DDes)"
+      href: united-states/harvard-university/doctor-of-design-ddes.md
+    - name: "3.1.109 Doctor of Public Health"
+      href: united-states/harvard-university/doctor-of-public-health.md
+    - name: "3.1.110 Earth and Planetary Sciences, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/earth-and-planetary-sciences-doctor-of-philosophy-phd.md
+    - name: "3.1.111 East Asian Languages and Civilizations, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/east-asian-languages-and-civilizations-doctor-of-philosophy-phd.md
+    - name: "3.1.112 Economics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/economics-doctor-of-philosophy-phd.md
+    - name: "3.1.113 English, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/english-doctor-of-philosophy-phd.md
+    - name: "3.1.114 Film and Visual Studies, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/film-and-visual-studies-doctor-of-philosophy-phd.md
+    - name: "3.1.115 Germanic Languages and Literatures, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/germanic-languages-and-literatures-doctor-of-philosophy-phd.md
+    - name: "3.1.116 Government, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/government-doctor-of-philosophy-phd.md
+    - name: "3.1.117 History of Art and Architecture, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/history-of-art-and-architecture-doctor-of-philosophy-phd.md
+    - name: "3.1.118 History of Science, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/history-of-science-doctor-of-philosophy-phd.md
+    - name: "3.1.119 History, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/history-doctor-of-philosophy-phd.md
+    - name: "3.1.120 Immunology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/immunology-doctor-of-philosophy-phd.md
+    - name: "3.1.121 Linguistics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/linguistics-doctor-of-philosophy-phd.md
+    - name: "3.1.122 Mathematics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/mathematics-doctor-of-philosophy-phd.md
+    - name: "3.1.123 Middle Eastern Studies, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/middle-eastern-studies-doctor-of-philosophy-phd.md
+    - name: "3.1.124 Molecular and Cellular Biology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/molecular-and-cellular-biology-doctor-of-philosophy-phd.md
+    - name: "3.1.125 Music, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/music-doctor-of-philosophy-phd.md
+    - name: "3.1.126 Neuroscience, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/neuroscience-doctor-of-philosophy-phd.md
+    - name: "3.1.127 Organismic and Evolutionary Biology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/organismic-and-evolutionary-biology-doctor-of-philosophy-phd.md
+    - name: "3.1.128 Organizational Behavior, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/organizational-behavior-doctor-of-philosophy-phd.md
+    - name: "3.1.129 Philosophy, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/philosophy-doctor-of-philosophy-phd.md
+    - name: "3.1.130 Physics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/physics-doctor-of-philosophy-phd.md
+    - name: "3.1.131 Political Economy and Government, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/political-economy-and-government-doctor-of-philosophy-phd.md
+    - name: "3.1.132 Population Health Sciences, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/population-health-sciences-doctor-of-philosophy-phd.md
+    - name: "3.1.133 Psychology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/psychology-doctor-of-philosophy-phd.md
+    - name: "3.1.134 Public Policy, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/public-policy-doctor-of-philosophy-phd.md
+    - name: "3.1.135 Quantum Science and Engineering, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/quantum-science-and-engineering-doctor-of-philosophy-phd.md
+    - name: "3.1.136 Romance Languages and Literatures, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/romance-languages-and-literatures-doctor-of-philosophy-phd.md
+    - name: "3.1.137 Social Policy, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/social-policy-doctor-of-philosophy-phd.md
+    - name: "3.1.138 Sociology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/sociology-doctor-of-philosophy-phd.md
+    - name: "3.1.139 Speech and Hearing Bioscience and Technology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/speech-and-hearing-bioscience-and-technology-doctor-of-philosophy-phd.md
+    - name: "3.1.140 Statistics, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/statistics-doctor-of-philosophy-phd.md
+    - name: "3.1.141 Systems, Synthetic, and Quantitative Biology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/systems-synthetic-and-quantitative-biology-doctor-of-philosophy-phd.md
+    - name: "3.1.142 Virology, Doctor of Philosophy (PhD)"
+      href: united-states/harvard-university/virology-doctor-of-philosophy-phd.md
+  - name: "3.2 Massachusetts Institute of Technology"
     href: united-states/massachusetts-institute-of-technology/index.md
     items:
-    - name: "3.1.1 Aerospace Engineering (Course 16)"
+    - name: "3.2.1 Aerospace Engineering (Course 16)"
       href: united-states/massachusetts-institute-of-technology/aerospace-engineering-course-16.md
-    - name: "3.1.2 Anthropology (Course 21A)"
+    - name: "3.2.2 Anthropology (Course 21A)"
       href: united-states/massachusetts-institute-of-technology/anthropology-course-21a.md
-    - name: "3.1.3 Archaeology and Materials (Course 3-C)"
+    - name: "3.2.3 Archaeology and Materials (Course 3-C)"
       href: united-states/massachusetts-institute-of-technology/archaeology-and-materials-course-3-c.md
-    - name: "3.1.4 Architecture (Course 4)"
+    - name: "3.2.4 Architecture (Course 4)"
       href: united-states/massachusetts-institute-of-technology/architecture-course-4.md
-    - name: "3.1.5 Art and Design (Course 4-B)"
+    - name: "3.2.5 Art and Design (Course 4-B)"
       href: united-states/massachusetts-institute-of-technology/art-and-design-course-4-b.md
-    - name: "3.1.6 Artificial Intelligence and Decision Making (Course 6-4)"
+    - name: "3.2.6 Artificial Intelligence and Decision Making (Course 6-4)"
       href: united-states/massachusetts-institute-of-technology/artificial-intelligence-and-decision-making-course-6-4.md
-    - name: "3.1.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)"
+    - name: "3.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)"
       href: united-states/massachusetts-institute-of-technology/bachelor-of-science-as-recommended-by-the-department-of-chemical-engineering-course-10-c.md
-    - name: "3.1.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)"
+    - name: "3.2.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)"
       href: united-states/massachusetts-institute-of-technology/bachelor-of-science-as-recommended-by-the-department-of-materials-science-and-engineering.md
-    - name: "3.1.9 Biological Engineering (Course 20)"
+    - name: "3.2.9 Biological Engineering (Course 20)"
       href: united-states/massachusetts-institute-of-technology/biological-engineering-course-20.md
-    - name: "3.1.10 Biology (Course 7)"
+    - name: "3.2.10 Biology (Course 7)"
       href: united-states/massachusetts-institute-of-technology/biology-course-7.md
-    - name: "3.1.11 Brain and Cognitive Sciences (Course 9)"
+    - name: "3.2.11 Brain and Cognitive Sciences (Course 9)"
       href: united-states/massachusetts-institute-of-technology/brain-and-cognitive-sciences-course-9.md
-    - name: "3.1.12 Business Analytics (Course 15-2)"
+    - name: "3.2.12 Business Analytics (Course 15-2)"
       href: united-states/massachusetts-institute-of-technology/business-analytics-course-15-2.md
-    - name: "3.1.13 Chemical Engineering (Course 10)"
+    - name: "3.2.13 Chemical Engineering (Course 10)"
       href: united-states/massachusetts-institute-of-technology/chemical-engineering-course-10.md
-    - name: "3.1.14 Chemical-Biological Engineering (Course 10-B)"
+    - name: "3.2.14 Chemical-Biological Engineering (Course 10-B)"
       href: united-states/massachusetts-institute-of-technology/chemical-biological-engineering-course-10-b.md
-    - name: "3.1.15 Chemistry (Course 5)"
+    - name: "3.2.15 Chemistry (Course 5)"
       href: united-states/massachusetts-institute-of-technology/chemistry-course-5.md
-    - name: "3.1.16 Chemistry and Biology (Course 5-7)"
+    - name: "3.2.16 Chemistry and Biology (Course 5-7)"
       href: united-states/massachusetts-institute-of-technology/chemistry-and-biology-course-5-7.md
-    - name: "3.1.17 Climate System Science and Engineering (Course 1-12)"
+    - name: "3.2.17 Climate System Science and Engineering (Course 1-12)"
       href: united-states/massachusetts-institute-of-technology/climate-system-science-and-engineering-course-1-12.md
-    - name: "3.1.18 Comparative Media Studies (CMS)"
+    - name: "3.2.18 Comparative Media Studies (CMS)"
       href: united-states/massachusetts-institute-of-technology/comparative-media-studies-cms.md
-    - name: "3.1.19 Computation and Cognition (Course 6-9)"
+    - name: "3.2.19 Computation and Cognition (Course 6-9)"
       href: united-states/massachusetts-institute-of-technology/computation-and-cognition-course-6-9.md
-    - name: "3.1.20 Computer Science and Engineering (Course 6-3)"
+    - name: "3.2.20 Computer Science and Engineering (Course 6-3)"
       href: united-states/massachusetts-institute-of-technology/computer-science-and-engineering-course-6-3.md
-    - name: "3.1.21 Computer Science and Molecular Biology (Course 6-7)"
+    - name: "3.2.21 Computer Science and Molecular Biology (Course 6-7)"
       href: united-states/massachusetts-institute-of-technology/computer-science-and-molecular-biology-course-6-7.md
-    - name: "3.1.22 Computer Science, Economics, and Data Science (Course 6-14)"
+    - name: "3.2.22 Computer Science, Economics, and Data Science (Course 6-14)"
       href: united-states/massachusetts-institute-of-technology/computer-science-economics-and-data-science-course-6-14.md
-    - name: "3.1.23 Earth, Atmospheric, and Planetary Sciences (Course 12)"
+    - name: "3.2.23 Earth, Atmospheric, and Planetary Sciences (Course 12)"
       href: united-states/massachusetts-institute-of-technology/earth-atmospheric-and-planetary-sciences-course-12.md
-    - name: "3.1.24 Economics (Course 14-1)"
+    - name: "3.2.24 Economics (Course 14-1)"
       href: united-states/massachusetts-institute-of-technology/economics-course-14-1.md
-    - name: "3.1.25 Electrical Engineering with Computing (Course 6-5)"
+    - name: "3.2.25 Electrical Engineering with Computing (Course 6-5)"
       href: united-states/massachusetts-institute-of-technology/electrical-engineering-with-computing-course-6-5.md
-    - name: "3.1.26 Engineering (Course 1-ENG)"
+    - name: "3.2.26 Engineering (Course 1-ENG)"
       href: united-states/massachusetts-institute-of-technology/engineering-course-1-eng.md
-    - name: "3.1.27 Engineering (Course 10-ENG)"
+    - name: "3.2.27 Engineering (Course 10-ENG)"
       href: united-states/massachusetts-institute-of-technology/engineering-course-10-eng.md
-    - name: "3.1.28 Engineering (Course 16-ENG)"
+    - name: "3.2.28 Engineering (Course 16-ENG)"
       href: united-states/massachusetts-institute-of-technology/engineering-course-16-eng.md
-    - name: "3.1.29 Engineering (Course 2-A)"
+    - name: "3.2.29 Engineering (Course 2-A)"
       href: united-states/massachusetts-institute-of-technology/engineering-course-2-a.md
-    - name: "3.1.30 Engineering (Course 22-ENG)"
+    - name: "3.2.30 Engineering (Course 22-ENG)"
       href: united-states/massachusetts-institute-of-technology/engineering-course-22-eng.md
-    - name: "3.1.31 Finance (Course 15-3)"
+    - name: "3.2.31 Finance (Course 15-3)"
       href: united-states/massachusetts-institute-of-technology/finance-course-15-3.md
-    - name: "3.1.32 Global Studies and Languages (Course 21G)"
+    - name: "3.2.32 Global Studies and Languages (Course 21G)"
       href: united-states/massachusetts-institute-of-technology/global-studies-and-languages-course-21g.md
-    - name: "3.1.33 History (Course 21H)"
+    - name: "3.2.33 History (Course 21H)"
       href: united-states/massachusetts-institute-of-technology/history-course-21h.md
-    - name: "3.1.34 Humanities (Course 21)"
+    - name: "3.2.34 Humanities (Course 21)"
       href: united-states/massachusetts-institute-of-technology/humanities-course-21.md
-    - name: "3.1.35 Humanities and Engineering (Course 21E)"
+    - name: "3.2.35 Humanities and Engineering (Course 21E)"
       href: united-states/massachusetts-institute-of-technology/humanities-and-engineering-course-21e.md
-    - name: "3.1.36 Humanities and Science (Course 21S)"
+    - name: "3.2.36 Humanities and Science (Course 21S)"
       href: united-states/massachusetts-institute-of-technology/humanities-and-science-course-21s.md
-    - name: "3.1.37 Linguistics and Philosophy (Course 24-2)"
+    - name: "3.2.37 Linguistics and Philosophy (Course 24-2)"
       href: united-states/massachusetts-institute-of-technology/linguistics-and-philosophy-course-24-2.md
-    - name: "3.1.38 Literature (Course 21L)"
+    - name: "3.2.38 Literature (Course 21L)"
       href: united-states/massachusetts-institute-of-technology/literature-course-21l.md
-    - name: "3.1.39 Management (Course 15-1)"
+    - name: "3.2.39 Management (Course 15-1)"
       href: united-states/massachusetts-institute-of-technology/management-course-15-1.md
-    - name: "3.1.40 Materials Science and Engineering (Course 3)"
+    - name: "3.2.40 Materials Science and Engineering (Course 3)"
       href: united-states/massachusetts-institute-of-technology/materials-science-and-engineering-course-3.md
-    - name: "3.1.41 Mathematical Economics (Course 14-2)"
+    - name: "3.2.41 Mathematical Economics (Course 14-2)"
       href: united-states/massachusetts-institute-of-technology/mathematical-economics-course-14-2.md
-    - name: "3.1.42 Mathematics (Course 18)"
+    - name: "3.2.42 Mathematics (Course 18)"
       href: united-states/massachusetts-institute-of-technology/mathematics-course-18.md
-    - name: "3.1.43 Mathematics with Computer Science (Course 18-C)"
+    - name: "3.2.43 Mathematics with Computer Science (Course 18-C)"
       href: united-states/massachusetts-institute-of-technology/mathematics-with-computer-science-course-18-c.md
-    - name: "3.1.44 Mechanical and Ocean Engineering (Course 2-OE)"
+    - name: "3.2.44 Mechanical and Ocean Engineering (Course 2-OE)"
       href: united-states/massachusetts-institute-of-technology/mechanical-and-ocean-engineering-course-2-oe.md
-    - name: "3.1.45 Mechanical Engineering (Course 2)"
+    - name: "3.2.45 Mechanical Engineering (Course 2)"
       href: united-states/massachusetts-institute-of-technology/mechanical-engineering-course-2.md
-    - name: "3.1.46 Music (Course 21M)"
+    - name: "3.2.46 Music (Course 21M)"
       href: united-states/massachusetts-institute-of-technology/music-course-21m.md
-    - name: "3.1.47 Nuclear Science and Engineering (Course 22)"
+    - name: "3.2.47 Nuclear Science and Engineering (Course 22)"
       href: united-states/massachusetts-institute-of-technology/nuclear-science-and-engineering-course-22.md
-    - name: "3.1.48 Philosophy (Course 24-1)"
+    - name: "3.2.48 Philosophy (Course 24-1)"
       href: united-states/massachusetts-institute-of-technology/philosophy-course-24-1.md
-    - name: "3.1.49 Physics (Course 8)"
+    - name: "3.2.49 Physics (Course 8)"
       href: united-states/massachusetts-institute-of-technology/physics-course-8.md
-    - name: "3.1.50 Planning (Course 11)"
+    - name: "3.2.50 Planning (Course 11)"
       href: united-states/massachusetts-institute-of-technology/planning-course-11.md
-    - name: "3.1.51 Political Science (Course 17)"
+    - name: "3.2.51 Political Science (Course 17)"
       href: united-states/massachusetts-institute-of-technology/political-science-course-17.md
-    - name: "3.1.52 Science, Technology, and Society/Second Major (STS)"
+    - name: "3.2.52 Science, Technology, and Society/Second Major (STS)"
       href: united-states/massachusetts-institute-of-technology/science-technology-and-society-second-major-sts.md
-    - name: "3.1.53 Theater Arts (Course 21T)"
+    - name: "3.2.53 Theater Arts (Course 21T)"
       href: united-states/massachusetts-institute-of-technology/theater-arts-course-21t.md
-    - name: "3.1.54 Urban Science and Planning with Computer Science (Course 11-6)"
+    - name: "3.2.54 Urban Science and Planning with Computer Science (Course 11-6)"
       href: united-states/massachusetts-institute-of-technology/urban-science-and-planning-with-computer-science-course-11-6.md
-    - name: "3.1.55 Writing (Course 21W)"
+    - name: "3.2.55 Writing (Course 21W)"
       href: united-states/massachusetts-institute-of-technology/writing-course-21w.md
-    - name: "3.1.56 Biomedical Engineering (MEng)"
+    - name: "3.2.56 Biomedical Engineering (MEng)"
       href: united-states/massachusetts-institute-of-technology/biomedical-engineering-meng.md
-    - name: "3.1.57 Computation and Cognition (Course 6-9P)"
+    - name: "3.2.57 Computation and Cognition (Course 6-9P)"
       href: united-states/massachusetts-institute-of-technology/computation-and-cognition-course-6-9p.md
-    - name: "3.1.58 Computer Science and Molecular Biology (Course 6-7P)"
+    - name: "3.2.58 Computer Science and Molecular Biology (Course 6-7P)"
       href: united-states/massachusetts-institute-of-technology/computer-science-and-molecular-biology-course-6-7p.md
-    - name: "3.1.59 Computer Science, Economics, and Data Science (Course 6-14P)"
+    - name: "3.2.59 Computer Science, Economics, and Data Science (Course 6-14P)"
       href: united-states/massachusetts-institute-of-technology/computer-science-economics-and-data-science-course-6-14p.md
-    - name: "3.1.60 Electrical Engineering and Computer Science (Course 6-P)"
+    - name: "3.2.60 Electrical Engineering and Computer Science (Course 6-P)"
       href: united-states/massachusetts-institute-of-technology/electrical-engineering-and-computer-science-course-6-p.md
-    - name: "3.1.61 Master in City Planning"
+    - name: "3.2.61 Master in City Planning"
       href: united-states/massachusetts-institute-of-technology/master-in-city-planning.md
-    - name: "3.1.62 Master of Applied Science in Data, Economics, and Design of Policy"
+    - name: "3.2.62 Master of Applied Science in Data, Economics, and Design of Policy"
       href: united-states/massachusetts-institute-of-technology/master-of-applied-science-in-data-economics-and-design-of-policy.md
-    - name: "3.1.63 Master of Architecture"
+    - name: "3.2.63 Master of Architecture"
       href: united-states/massachusetts-institute-of-technology/master-of-architecture.md
-    - name: "3.1.64 Master of Business Administration"
+    - name: "3.2.64 Master of Business Administration"
       href: united-states/massachusetts-institute-of-technology/master-of-business-administration.md
-    - name: "3.1.65 Master of Engineering in Civil and Environmental Engineering"
+    - name: "3.2.65 Master of Engineering in Civil and Environmental Engineering"
       href: united-states/massachusetts-institute-of-technology/master-of-engineering-in-civil-and-environmental-engineering.md
-    - name: "3.1.66 Master of Finance"
+    - name: "3.2.66 Master of Finance"
       href: united-states/massachusetts-institute-of-technology/master-of-finance.md
-    - name: "3.1.67 Master of Science in Architecture Studies"
+    - name: "3.2.67 Master of Science in Architecture Studies"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-architecture-studies.md
-    - name: "3.1.68 Master of Science in Art, Culture, and Technology"
+    - name: "3.2.68 Master of Science in Art, Culture, and Technology"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-art-culture-and-technology.md
-    - name: "3.1.69 Master of Science in Civil and Environmental Engineering"
+    - name: "3.2.69 Master of Science in Civil and Environmental Engineering"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-civil-and-environmental-engineering.md
-    - name: "3.1.70 Master of Science in Computational Science and Engineering"
+    - name: "3.2.70 Master of Science in Computational Science and Engineering"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-computational-science-and-engineering.md
-    - name: "3.1.71 Master of Science in Engineering and Management"
+    - name: "3.2.71 Master of Science in Engineering and Management"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-engineering-and-management.md
-    - name: "3.1.72 Master of Science in Linguistics"
+    - name: "3.2.72 Master of Science in Linguistics"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-linguistics.md
-    - name: "3.1.73 Master of Science in Mathematics of Data"
+    - name: "3.2.73 Master of Science in Mathematics of Data"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-mathematics-of-data.md
-    - name: "3.1.74 Master of Science in Science Writing"
+    - name: "3.2.74 Master of Science in Science Writing"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-science-writing.md
-    - name: "3.1.75 Master of Science in Technology and Policy"
+    - name: "3.2.75 Master of Science in Technology and Policy"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-technology-and-policy.md
-    - name: "3.1.76 Master of Science in Transportation"
+    - name: "3.2.76 Master of Science in Transportation"
       href: united-states/massachusetts-institute-of-technology/master-of-science-in-transportation.md
-    - name: "3.1.77 Music Technology and Computation (MASc)"
+    - name: "3.2.77 Music Technology and Computation (MASc)"
       href: united-states/massachusetts-institute-of-technology/music-technology-and-computation-masc.md
-    - name: "3.1.78 Music Technology and Computation (SM)"
+    - name: "3.2.78 Music Technology and Computation (SM)"
       href: united-states/massachusetts-institute-of-technology/music-technology-and-computation-sm.md
-    - name: "3.1.79 Real Estate Development"
+    - name: "3.2.79 Real Estate Development"
       href: united-states/massachusetts-institute-of-technology/real-estate-development.md
-    - name: "3.1.80 Supply Chain Management (MASc)"
+    - name: "3.2.80 Supply Chain Management (MASc)"
       href: united-states/massachusetts-institute-of-technology/supply-chain-management-masc.md
-    - name: "3.1.81 Supply Chain Management (MEng)"
+    - name: "3.2.81 Supply Chain Management (MEng)"
       href: united-states/massachusetts-institute-of-technology/supply-chain-management-meng.md
-    - name: "3.1.82 Aeronautics, Astronautics, and Statistics (PhD)"
+    - name: "3.2.82 Aeronautics, Astronautics, and Statistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/aeronautics-astronautics-and-statistics-phd.md
-    - name: "3.1.83 Aerospace Computational Engineering (PhD, ScD)"
+    - name: "3.2.83 Aerospace Computational Engineering (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/aerospace-computational-engineering-phd-scd.md
-    - name: "3.1.84 Aerospace Engineering and Computational Science (PhD, ScD)"
+    - name: "3.2.84 Aerospace Engineering and Computational Science (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/aerospace-engineering-and-computational-science-phd-scd.md
-    - name: "3.1.85 Aerospace, Energy, and the Environment (PhD, ScD)"
+    - name: "3.2.85 Aerospace, Energy, and the Environment (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/aerospace-energy-and-the-environment-phd-scd.md
-    - name: "3.1.86 Air Transportation Systems (PhD, ScD)"
+    - name: "3.2.86 Air Transportation Systems (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/air-transportation-systems-phd-scd.md
-    - name: "3.1.87 Air-Breathing Propulsion (PhD, ScD)"
+    - name: "3.2.87 Air-Breathing Propulsion (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/air-breathing-propulsion-phd-scd.md
-    - name: "3.1.88 Aircraft Systems Engineering (PhD, ScD)"
+    - name: "3.2.88 Aircraft Systems Engineering (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/aircraft-systems-engineering-phd-scd.md
-    - name: "3.1.89 Atmospheric Chemistry (PhD, ScD)"
+    - name: "3.2.89 Atmospheric Chemistry (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/atmospheric-chemistry-phd-scd.md
-    - name: "3.1.90 Atmospheric Science (PhD, ScD)"
+    - name: "3.2.90 Atmospheric Science (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/atmospheric-science-phd-scd.md
-    - name: "3.1.91 Autonomous Systems (PhD, ScD)"
+    - name: "3.2.91 Autonomous Systems (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/autonomous-systems-phd-scd.md
-    - name: "3.1.92 Biology (PhD)"
+    - name: "3.2.92 Biology (PhD)"
       href: united-states/massachusetts-institute-of-technology/biology-phd.md
-    - name: "3.1.93 Chemical Engineering and Computation (PhD, ScD)"
+    - name: "3.2.93 Chemical Engineering and Computation (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/chemical-engineering-and-computation-phd-scd.md
-    - name: "3.1.94 Civil Engineering and Computation (PhD, ScD)"
+    - name: "3.2.94 Civil Engineering and Computation (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/civil-engineering-and-computation-phd-scd.md
-    - name: "3.1.95 Climate Science (PhD, ScD)"
+    - name: "3.2.95 Climate Science (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/climate-science-phd-scd.md
-    - name: "3.1.96 Cognitive Science (PhD)"
+    - name: "3.2.96 Cognitive Science (PhD)"
       href: united-states/massachusetts-institute-of-technology/cognitive-science-phd.md
-    - name: "3.1.97 Cognitive Science and Statistics (PhD)"
+    - name: "3.2.97 Cognitive Science and Statistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/cognitive-science-and-statistics-phd.md
-    - name: "3.1.98 Communications and Networks (PhD, ScD)"
+    - name: "3.2.98 Communications and Networks (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/communications-and-networks-phd-scd.md
-    - name: "3.1.99 Computational Earth, Atmospheric and Planetary Sciences (PhD, ScD)"
+    - name: "3.2.99 Computational Earth, Atmospheric and Planetary Sciences (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/computational-earth-atmospheric-and-planetary-sciences-phd-scd.md
-    - name: "3.1.100 Computational Materials Science and Engineering (PhD, ScD)"
+    - name: "3.2.100 Computational Materials Science and Engineering (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/computational-materials-science-and-engineering-phd-scd.md
-    - name: "3.1.101 Computational Nuclear Science and Engineering (PhD, ScD)"
+    - name: "3.2.101 Computational Nuclear Science and Engineering (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/computational-nuclear-science-and-engineering-phd-scd.md
-    - name: "3.1.102 Computational Science and Engineering (PhD)"
+    - name: "3.2.102 Computational Science and Engineering (PhD)"
       href: united-states/massachusetts-institute-of-technology/computational-science-and-engineering-phd.md
-    - name: "3.1.103 Controls (PhD, ScD)"
+    - name: "3.2.103 Controls (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/controls-phd-scd.md
-    - name: "3.1.104 Doctor of Philosophy in Biological Engineering"
+    - name: "3.2.104 Doctor of Philosophy in Biological Engineering"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-biological-engineering.md
-    - name: "3.1.105 Doctor of Philosophy in Chemistry"
+    - name: "3.2.105 Doctor of Philosophy in Chemistry"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-chemistry.md
-    - name: "3.1.106 Doctor of Philosophy in Civil and Environmental Engineering"
+    - name: "3.2.106 Doctor of Philosophy in Civil and Environmental Engineering"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-civil-and-environmental-engineering.md
-    - name: "3.1.107 Doctor of Philosophy in Economics"
+    - name: "3.2.107 Doctor of Philosophy in Economics"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-economics.md
-    - name: "3.1.108 Doctor of Philosophy in Materials Science and Engineering"
+    - name: "3.2.108 Doctor of Philosophy in Materials Science and Engineering"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-materials-science-and-engineering.md
-    - name: "3.1.109 Doctor of Philosophy in Mathematics"
+    - name: "3.2.109 Doctor of Philosophy in Mathematics"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-mathematics.md
-    - name: "3.1.110 Doctor of Philosophy in Microbiology"
+    - name: "3.2.110 Doctor of Philosophy in Microbiology"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-microbiology.md
-    - name: "3.1.111 Doctor of Philosophy in Nuclear Science and Engineering"
+    - name: "3.2.111 Doctor of Philosophy in Nuclear Science and Engineering"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-nuclear-science-and-engineering.md
-    - name: "3.1.112 Doctor of Philosophy in Social and Engineering Systems"
+    - name: "3.2.112 Doctor of Philosophy in Social and Engineering Systems"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-social-and-engineering-systems.md
-    - name: "3.1.113 Doctor of Philosophy in Transportation"
+    - name: "3.2.113 Doctor of Philosophy in Transportation"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosophy-in-transportation.md
-    - name: "3.1.114 Doctor of Philosopy in Computational and Systems Biology"
+    - name: "3.2.114 Doctor of Philosopy in Computational and Systems Biology"
       href: united-states/massachusetts-institute-of-technology/doctor-of-philosopy-in-computational-and-systems-biology.md
-    - name: "3.1.115 Economics and Statistics (PhD)"
+    - name: "3.2.115 Economics and Statistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/economics-and-statistics-phd.md
-    - name: "3.1.116 Engineering Systems (PhD, ScD)"
+    - name: "3.2.116 Engineering Systems (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/engineering-systems-phd-scd.md
-    - name: "3.1.117 Environmental Engineering and Computation (PhD, ScD)"
+    - name: "3.2.117 Environmental Engineering and Computation (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/environmental-engineering-and-computation-phd-scd.md
-    - name: "3.1.118 Geochemistry (PhD, ScD)"
+    - name: "3.2.118 Geochemistry (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/geochemistry-phd-scd.md
-    - name: "3.1.119 Geology (PhD, ScD)"
+    - name: "3.2.119 Geology (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/geology-phd-scd.md
-    - name: "3.1.120 Geophysics (PhD, ScD)"
+    - name: "3.2.120 Geophysics (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/geophysics-phd-scd.md
-    - name: "3.1.121 History, Anthropology, and Science, Technology, and Society (PhD)"
+    - name: "3.2.121 History, Anthropology, and Science, Technology, and Society (PhD)"
       href: united-states/massachusetts-institute-of-technology/history-anthropology-and-science-technology-and-society-phd.md
-    - name: "3.1.122 Humans in Aerospace (PhD, ScD)"
+    - name: "3.2.122 Humans in Aerospace (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/humans-in-aerospace-phd-scd.md
-    - name: "3.1.123 Linguistics (PhD)"
+    - name: "3.2.123 Linguistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/linguistics-phd.md
-    - name: "3.1.124 Materials and Structures (PhD, ScD)"
+    - name: "3.2.124 Materials and Structures (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/materials-and-structures-phd-scd.md
-    - name: "3.1.125 Mathematics and Computational Science (PhD, ScD)"
+    - name: "3.2.125 Mathematics and Computational Science (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/mathematics-and-computational-science-phd-scd.md
-    - name: "3.1.126 Mathematics and Statistics (PhD)"
+    - name: "3.2.126 Mathematics and Statistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/mathematics-and-statistics-phd.md
-    - name: "3.1.127 Mechanical Engineering and Computation (PhD, ScD)"
+    - name: "3.2.127 Mechanical Engineering and Computation (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/mechanical-engineering-and-computation-phd-scd.md
-    - name: "3.1.128 Mechanical Engineering and Statistics (PhD)"
+    - name: "3.2.128 Mechanical Engineering and Statistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/mechanical-engineering-and-statistics-phd.md
-    - name: "3.1.129 Neuroscience (PhD)"
+    - name: "3.2.129 Neuroscience (PhD)"
       href: united-states/massachusetts-institute-of-technology/neuroscience-phd.md
-    - name: "3.1.130 Neuroscience and Statistics (PhD)"
+    - name: "3.2.130 Neuroscience and Statistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/neuroscience-and-statistics-phd.md
-    - name: "3.1.131 Nuclear Engineering and Computation (PhD, ScD)"
+    - name: "3.2.131 Nuclear Engineering and Computation (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/nuclear-engineering-and-computation-phd-scd.md
-    - name: "3.1.132 Physics, Statistics, and Data Science (PhD)"
+    - name: "3.2.132 Physics, Statistics, and Data Science (PhD)"
       href: united-states/massachusetts-institute-of-technology/physics-statistics-and-data-science-phd.md
-    - name: "3.1.133 Planetary Sciences (PhD, ScD)"
+    - name: "3.2.133 Planetary Sciences (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/planetary-sciences-phd-scd.md
-    - name: "3.1.134 Political Science and Statistics (PhD)"
+    - name: "3.2.134 Political Science and Statistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/political-science-and-statistics-phd.md
-    - name: "3.1.135 Social and Engineering Systems and Statistics (PhD)"
+    - name: "3.2.135 Social and Engineering Systems and Statistics (PhD)"
       href: united-states/massachusetts-institute-of-technology/social-and-engineering-systems-and-statistics-phd.md
-    - name: "3.1.136 Space Propulsion (PhD, ScD)"
+    - name: "3.2.136 Space Propulsion (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/space-propulsion-phd-scd.md
-    - name: "3.1.137 Space Systems (PhD, ScD)"
+    - name: "3.2.137 Space Systems (PhD, ScD)"
       href: united-states/massachusetts-institute-of-technology/space-systems-phd-scd.md
-  - name: "3.2 Stanford University"
+  - name: "3.3 Stanford University"
     href: united-states/stanford-university/index.md
     items:
-    - name: "3.2.1 Aeronautics and Astronautics, Major: Bachelor of Science"
+    - name: "3.3.1 Aeronautics and Astronautics, Major: Bachelor of Science"
       href: united-states/stanford-university/aeronautics-and-astronautics-major-bachelor-of-science.md
-    - name: "3.2.2 African and African American Studies, Major: Bachelor of Arts"
+    - name: "3.3.2 African and African American Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/african-and-african-american-studies-major-bachelor-of-arts.md
-    - name: "3.2.3 American Studies, Major: Bachelor of Arts"
+    - name: "3.3.3 American Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/american-studies-major-bachelor-of-arts.md
-    - name: "3.2.4 Anthropology, Major: Bachelor of Arts"
+    - name: "3.3.4 Anthropology, Major: Bachelor of Arts"
       href: united-states/stanford-university/anthropology-major-bachelor-of-arts.md
-    - name: "3.2.5 Archaeology, Major: Bachelor of Arts"
+    - name: "3.3.5 Archaeology, Major: Bachelor of Arts"
       href: united-states/stanford-university/archaeology-major-bachelor-of-arts.md
-    - name: "3.2.6 Art History, Major: Bachelor of Arts"
+    - name: "3.3.6 Art History, Major: Bachelor of Arts"
       href: united-states/stanford-university/art-history-major-bachelor-of-arts.md
-    - name: "3.2.7 Art Practice, Major: Bachelor of Arts"
+    - name: "3.3.7 Art Practice, Major: Bachelor of Arts"
       href: united-states/stanford-university/art-practice-major-bachelor-of-arts.md
-    - name: "3.2.8 Asian American Studies, Major: Bachelor of Arts"
+    - name: "3.3.8 Asian American Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/asian-american-studies-major-bachelor-of-arts.md
-    - name: "3.2.9 Bioengineering, Major: Bachelor of Science"
+    - name: "3.3.9 Bioengineering, Major: Bachelor of Science"
       href: united-states/stanford-university/bioengineering-major-bachelor-of-science.md
-    - name: "3.2.10 Biology, Major: Bachelor of Science"
+    - name: "3.3.10 Biology, Major: Bachelor of Science"
       href: united-states/stanford-university/biology-major-bachelor-of-science.md
-    - name: "3.2.11 Chemical Engineering, Major: Bachelor of Science"
+    - name: "3.3.11 Chemical Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/chemical-engineering-major-bachelor-of-science.md
-    - name: "3.2.12 Chemistry, Major: Bachelor of Science"
+    - name: "3.3.12 Chemistry, Major: Bachelor of Science"
       href: united-states/stanford-university/chemistry-major-bachelor-of-science.md
-    - name: "3.2.13 Chicana/o - Latina/o Studies, Major: Bachelor of Arts"
+    - name: "3.3.13 Chicana/o - Latina/o Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/chicana-o-latina-o-studies-major-bachelor-of-arts.md
-    - name: "3.2.14 Civil Engineering, Major: Bachelor of Science"
+    - name: "3.3.14 Civil Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/civil-engineering-major-bachelor-of-science.md
-    - name: "3.2.15 Classics, Major: Bachelor of Arts"
+    - name: "3.3.15 Classics, Major: Bachelor of Arts"
       href: united-states/stanford-university/classics-major-bachelor-of-arts.md
-    - name: "3.2.16 Communication, Major: Bachelor of Arts"
+    - name: "3.3.16 Communication, Major: Bachelor of Arts"
       href: united-states/stanford-university/communication-major-bachelor-of-arts.md
-    - name: "3.2.17 Comparative Literature, Major: Bachelor of Arts"
+    - name: "3.3.17 Comparative Literature, Major: Bachelor of Arts"
       href: united-states/stanford-university/comparative-literature-major-bachelor-of-arts.md
-    - name: "3.2.18 Comparative Studies in Race and Ethnicity, Major: Bachelor of Arts"
+    - name: "3.3.18 Comparative Studies in Race and Ethnicity, Major: Bachelor of Arts"
       href: united-states/stanford-university/comparative-studies-in-race-and-ethnicity-major-bachelor-of-arts.md
-    - name: "3.2.19 Computer Science, Major: Bachelor of Science"
+    - name: "3.3.19 Computer Science, Major: Bachelor of Science"
       href: united-states/stanford-university/computer-science-major-bachelor-of-science.md
-    - name: "3.2.20 Data Science, Major: Bachelor of Arts"
+    - name: "3.3.20 Data Science, Major: Bachelor of Arts"
       href: united-states/stanford-university/data-science-major-bachelor-of-arts.md
-    - name: "3.2.21 Data Science, Major: Bachelor of Science"
+    - name: "3.3.21 Data Science, Major: Bachelor of Science"
       href: united-states/stanford-university/data-science-major-bachelor-of-science.md
-    - name: "3.2.22 Design, Major: Bachelor of Science"
+    - name: "3.3.22 Design, Major: Bachelor of Science"
       href: united-states/stanford-university/design-major-bachelor-of-science.md
-    - name: "3.2.23 Earth and Planetary Sciences, Major: Bachelor of Science"
+    - name: "3.3.23 Earth and Planetary Sciences, Major: Bachelor of Science"
       href: united-states/stanford-university/earth-and-planetary-sciences-major-bachelor-of-science.md
-    - name: "3.2.24 Earth Systems, Major: Bachelor of Science"
+    - name: "3.3.24 Earth Systems, Major: Bachelor of Science"
       href: united-states/stanford-university/earth-systems-major-bachelor-of-science.md
-    - name: "3.2.25 East Asian Studies, Major: Bachelor of Arts"
+    - name: "3.3.25 East Asian Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/east-asian-studies-major-bachelor-of-arts.md
-    - name: "3.2.26 Economics, Major: Bachelor of Arts"
+    - name: "3.3.26 Economics, Major: Bachelor of Arts"
       href: united-states/stanford-university/economics-major-bachelor-of-arts.md
-    - name: "3.2.27 Economics, Major: Bachelor of Science"
+    - name: "3.3.27 Economics, Major: Bachelor of Science"
       href: united-states/stanford-university/economics-major-bachelor-of-science.md
-    - name: "3.2.28 Electrical Engineering, Major: Bachelor of Science"
+    - name: "3.3.28 Electrical Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/electrical-engineering-major-bachelor-of-science.md
-    - name: "3.2.29 Energy Science and Engineering, Major: Bachelor of Science"
+    - name: "3.3.29 Energy Science and Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/energy-science-and-engineering-major-bachelor-of-science.md
-    - name: "3.2.30 Engineering, Major: Bachelor of Science"
+    - name: "3.3.30 Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/engineering-major-bachelor-of-science.md
-    - name: "3.2.31 English, Major: Bachelor of Arts"
+    - name: "3.3.31 English, Major: Bachelor of Arts"
       href: united-states/stanford-university/english-major-bachelor-of-arts.md
-    - name: "3.2.32 Environmental Systems Engineering, Major: Bachelor of Science"
+    - name: "3.3.32 Environmental Systems Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/environmental-systems-engineering-major-bachelor-of-science.md
-    - name: "3.2.33 Feminist, Gender, and Sexuality Studies, Major: Bachelor of Arts"
+    - name: "3.3.33 Feminist, Gender, and Sexuality Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/feminist-gender-and-sexuality-studies-major-bachelor-of-arts.md
-    - name: "3.2.34 Film and Media Studies, Major: Bachelor of Arts"
+    - name: "3.3.34 Film and Media Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/film-and-media-studies-major-bachelor-of-arts.md
-    - name: "3.2.35 French, Major: Bachelor of Arts"
+    - name: "3.3.35 French, Major: Bachelor of Arts"
       href: united-states/stanford-university/french-major-bachelor-of-arts.md
-    - name: "3.2.36 Geophysics, Major: Bachelor of Science"
+    - name: "3.3.36 Geophysics, Major: Bachelor of Science"
       href: united-states/stanford-university/geophysics-major-bachelor-of-science.md
-    - name: "3.2.37 German Studies, Major: Bachelor of Arts"
+    - name: "3.3.37 German Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/german-studies-major-bachelor-of-arts.md
-    - name: "3.2.38 History, Major: Bachelor of Arts"
+    - name: "3.3.38 History, Major: Bachelor of Arts"
       href: united-states/stanford-university/history-major-bachelor-of-arts.md
-    - name: "3.2.39 Human Biology, Major: Bachelor of Arts"
+    - name: "3.3.39 Human Biology, Major: Bachelor of Arts"
       href: united-states/stanford-university/human-biology-major-bachelor-of-arts.md
-    - name: "3.2.40 Human Biology, Major: Bachelor of Science"
+    - name: "3.3.40 Human Biology, Major: Bachelor of Science"
       href: united-states/stanford-university/human-biology-major-bachelor-of-science.md
-    - name: "3.2.41 Iberian & Latin American Cultures, Major: Bachelor of Arts"
+    - name: "3.3.41 Iberian & Latin American Cultures, Major: Bachelor of Arts"
       href: united-states/stanford-university/iberian-latin-american-cultures-major-bachelor-of-arts.md
-    - name: "3.2.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science"
+    - name: "3.3.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science"
       href: united-states/stanford-university/individually-designed-major-in-engineering-inddesmjr-bachelor-of-science.md
-    - name: "3.2.43 International Relations, Major: Bachelor of Arts"
+    - name: "3.3.43 International Relations, Major: Bachelor of Arts"
       href: united-states/stanford-university/international-relations-major-bachelor-of-arts.md
-    - name: "3.2.44 Italian, Major: Bachelor of Arts"
+    - name: "3.3.44 Italian, Major: Bachelor of Arts"
       href: united-states/stanford-university/italian-major-bachelor-of-arts.md
-    - name: "3.2.45 Jewish Studies, Major: Bachelor of Arts"
+    - name: "3.3.45 Jewish Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/jewish-studies-major-bachelor-of-arts.md
-    - name: "3.2.46 Linguistics, Major: Bachelor of Arts"
+    - name: "3.3.46 Linguistics, Major: Bachelor of Arts"
       href: united-states/stanford-university/linguistics-major-bachelor-of-arts.md
-    - name: "3.2.47 Management Science and Engineering, Major: Bachelor of Science"
+    - name: "3.3.47 Management Science and Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/management-science-and-engineering-major-bachelor-of-science.md
-    - name: "3.2.48 Materials Science and Engineering, Major: Bachelor of Science"
+    - name: "3.3.48 Materials Science and Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/materials-science-and-engineering-major-bachelor-of-science.md
-    - name: "3.2.49 Mathematics, Major: Bachelor of Science"
+    - name: "3.3.49 Mathematics, Major: Bachelor of Science"
       href: united-states/stanford-university/mathematics-major-bachelor-of-science.md
-    - name: "3.2.50 Mechanical Engineering, Major: Bachelor of Science"
+    - name: "3.3.50 Mechanical Engineering, Major: Bachelor of Science"
       href: united-states/stanford-university/mechanical-engineering-major-bachelor-of-science.md
-    - name: "3.2.51 Music, Major: Bachelor of Arts"
+    - name: "3.3.51 Music, Major: Bachelor of Arts"
       href: united-states/stanford-university/music-major-bachelor-of-arts.md
-    - name: "3.2.52 Native American Studies, Major: Bachelor of Arts"
+    - name: "3.3.52 Native American Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/native-american-studies-major-bachelor-of-arts.md
-    - name: "3.2.53 Philosophy and Religious Studies, Major: Bachelor of Arts"
+    - name: "3.3.53 Philosophy and Religious Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/philosophy-and-religious-studies-major-bachelor-of-arts.md
-    - name: "3.2.54 Philosophy, Major: Bachelor of Arts"
+    - name: "3.3.54 Philosophy, Major: Bachelor of Arts"
       href: united-states/stanford-university/philosophy-major-bachelor-of-arts.md
-    - name: "3.2.55 Physics, Major: Bachelor of Science"
+    - name: "3.3.55 Physics, Major: Bachelor of Science"
       href: united-states/stanford-university/physics-major-bachelor-of-science.md
-    - name: "3.2.56 Political Science, Major: Bachelor of Arts"
+    - name: "3.3.56 Political Science, Major: Bachelor of Arts"
       href: united-states/stanford-university/political-science-major-bachelor-of-arts.md
-    - name: "3.2.57 Psychology, Major: Bachelor of Arts"
+    - name: "3.3.57 Psychology, Major: Bachelor of Arts"
       href: united-states/stanford-university/psychology-major-bachelor-of-arts.md
-    - name: "3.2.58 Public Policy, Major: Bachelor of Arts"
+    - name: "3.3.58 Public Policy, Major: Bachelor of Arts"
       href: united-states/stanford-university/public-policy-major-bachelor-of-arts.md
-    - name: "3.2.59 Religious Studies, Major: Bachelor of Arts"
+    - name: "3.3.59 Religious Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/religious-studies-major-bachelor-of-arts.md
-    - name: "3.2.60 Science, Technology, and Society, Major: Bachelor of Arts"
+    - name: "3.3.60 Science, Technology, and Society, Major: Bachelor of Arts"
       href: united-states/stanford-university/science-technology-and-society-major-bachelor-of-arts.md
-    - name: "3.2.61 Science, Technology, and Society, Major: Bachelor of Science"
+    - name: "3.3.61 Science, Technology, and Society, Major: Bachelor of Science"
       href: united-states/stanford-university/science-technology-and-society-major-bachelor-of-science.md
-    - name: "3.2.62 Slavic Languages and Literatures, Major: Bachelor of Arts"
+    - name: "3.3.62 Slavic Languages and Literatures, Major: Bachelor of Arts"
       href: united-states/stanford-university/slavic-languages-and-literatures-major-bachelor-of-arts.md
-    - name: "3.2.63 Sociology, Major: Bachelor of Arts"
+    - name: "3.3.63 Sociology, Major: Bachelor of Arts"
       href: united-states/stanford-university/sociology-major-bachelor-of-arts.md
-    - name: "3.2.64 Spanish, Major: Bachelor of Arts"
+    - name: "3.3.64 Spanish, Major: Bachelor of Arts"
       href: united-states/stanford-university/spanish-major-bachelor-of-arts.md
-    - name: "3.2.65 Symbolic Systems, Major: Bachelor of Science"
+    - name: "3.3.65 Symbolic Systems, Major: Bachelor of Science"
       href: united-states/stanford-university/symbolic-systems-major-bachelor-of-science.md
-    - name: "3.2.66 Theater and Performance Studies, Major: Bachelor of Arts"
+    - name: "3.3.66 Theater and Performance Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/theater-and-performance-studies-major-bachelor-of-arts.md
-    - name: "3.2.67 Urban Studies, Major: Bachelor of Arts"
+    - name: "3.3.67 Urban Studies, Major: Bachelor of Arts"
       href: united-states/stanford-university/urban-studies-major-bachelor-of-arts.md
-    - name: "3.2.68 Aeronautics and Astronautics, Master of Science"
+    - name: "3.3.68 Aeronautics and Astronautics, Master of Science"
       href: united-states/stanford-university/aeronautics-and-astronautics-master-of-science.md
-    - name: "3.2.69 Anthropology, Master of Arts"
+    - name: "3.3.69 Anthropology, Master of Arts"
       href: united-states/stanford-university/anthropology-master-of-arts.md
-    - name: "3.2.70 Applied and Engineering Physics, Master of Science"
+    - name: "3.3.70 Applied and Engineering Physics, Master of Science"
       href: united-states/stanford-university/applied-and-engineering-physics-master-of-science.md
-    - name: "3.2.71 Applied Physics, Master of Science"
+    - name: "3.3.71 Applied Physics, Master of Science"
       href: united-states/stanford-university/applied-physics-master-of-science.md
-    - name: "3.2.72 Art Practice, Master of Fine Arts"
+    - name: "3.3.72 Art Practice, Master of Fine Arts"
       href: united-states/stanford-university/art-practice-master-of-fine-arts.md
-    - name: "3.2.73 Bioengineering, Master of Science"
+    - name: "3.3.73 Bioengineering, Master of Science"
       href: united-states/stanford-university/bioengineering-master-of-science.md
-    - name: "3.2.74 Biology, Master of Science"
+    - name: "3.3.74 Biology, Master of Science"
       href: united-states/stanford-university/biology-master-of-science.md
-    - name: "3.2.75 Biomedical Data Science, Master of Science"
+    - name: "3.3.75 Biomedical Data Science, Master of Science"
       href: united-states/stanford-university/biomedical-data-science-master-of-science.md
-    - name: "3.2.76 Biophysics, Master of Science"
+    - name: "3.3.76 Biophysics, Master of Science"
       href: united-states/stanford-university/biophysics-master-of-science.md
-    - name: "3.2.77 Business Administration, Master of Business Administration"
+    - name: "3.3.77 Business Administration, Master of Business Administration"
       href: united-states/stanford-university/business-administration-master-of-business-administration.md
-    - name: "3.2.78 Chemical and Systems Biology, Master of Science"
+    - name: "3.3.78 Chemical and Systems Biology, Master of Science"
       href: united-states/stanford-university/chemical-and-systems-biology-master-of-science.md
-    - name: "3.2.79 Chemical Engineering, Engineer"
+    - name: "3.3.79 Chemical Engineering, Engineer"
       href: united-states/stanford-university/chemical-engineering-engineer.md
-    - name: "3.2.80 Chemical Engineering, Master of Science"
+    - name: "3.3.80 Chemical Engineering, Master of Science"
       href: united-states/stanford-university/chemical-engineering-master-of-science.md
-    - name: "3.2.81 Chemistry, Master of Science"
+    - name: "3.3.81 Chemistry, Master of Science"
       href: united-states/stanford-university/chemistry-master-of-science.md
-    - name: "3.2.82 Civil and Environmental Engineering, Engineer"
+    - name: "3.3.82 Civil and Environmental Engineering, Engineer"
       href: united-states/stanford-university/civil-and-environmental-engineering-engineer.md
-    - name: "3.2.83 Civil and Environmental Engineering, Master of Science"
+    - name: "3.3.83 Civil and Environmental Engineering, Master of Science"
       href: united-states/stanford-university/civil-and-environmental-engineering-master-of-science.md
-    - name: "3.2.84 Classics, Master of Arts"
+    - name: "3.3.84 Classics, Master of Arts"
       href: united-states/stanford-university/classics-master-of-arts.md
-    - name: "3.2.85 Clinical Informatics Management, Master of Science"
+    - name: "3.3.85 Clinical Informatics Management, Master of Science"
       href: united-states/stanford-university/clinical-informatics-management-master-of-science.md
-    - name: "3.2.86 Communication, Master of Arts"
+    - name: "3.3.86 Communication, Master of Arts"
       href: united-states/stanford-university/communication-master-of-arts.md
-    - name: "3.2.87 Community Health and Prevention Research, Master of Science"
+    - name: "3.3.87 Community Health and Prevention Research, Master of Science"
       href: united-states/stanford-university/community-health-and-prevention-research-master-of-science.md
-    - name: "3.2.88 Computational and Mathematical Engineering, Master of Science"
+    - name: "3.3.88 Computational and Mathematical Engineering, Master of Science"
       href: united-states/stanford-university/computational-and-mathematical-engineering-master-of-science.md
-    - name: "3.2.89 Computer Science, Master of Science"
+    - name: "3.3.89 Computer Science, Master of Science"
       href: united-states/stanford-university/computer-science-master-of-science.md
-    - name: "3.2.90 Design, Master of Science"
+    - name: "3.3.90 Design, Master of Science"
       href: united-states/stanford-university/design-master-of-science.md
-    - name: "3.2.91 Developmental Biology, Master of Science"
+    - name: "3.3.91 Developmental Biology, Master of Science"
       href: united-states/stanford-university/developmental-biology-master-of-science.md
-    - name: "3.2.92 Documentary Film and Video, Master of Fine Arts"
+    - name: "3.3.92 Documentary Film and Video, Master of Fine Arts"
       href: united-states/stanford-university/documentary-film-and-video-master-of-fine-arts.md
-    - name: "3.2.93 Earth System Science, Master of Science"
+    - name: "3.3.93 Earth System Science, Master of Science"
       href: united-states/stanford-university/earth-system-science-master-of-science.md
-    - name: "3.2.94 Earth Systems, Master of Arts"
+    - name: "3.3.94 Earth Systems, Master of Arts"
       href: united-states/stanford-university/earth-systems-master-of-arts.md
-    - name: "3.2.95 Earth Systems, Master of Science"
+    - name: "3.3.95 Earth Systems, Master of Science"
       href: united-states/stanford-university/earth-systems-master-of-science.md
-    - name: "3.2.96 East Asian Languages and Cultures, Master of Arts"
+    - name: "3.3.96 East Asian Languages and Cultures, Master of Arts"
       href: united-states/stanford-university/east-asian-languages-and-cultures-master-of-arts.md
-    - name: "3.2.97 East Asian Studies, Master of Arts"
+    - name: "3.3.97 East Asian Studies, Master of Arts"
       href: united-states/stanford-university/east-asian-studies-master-of-arts.md
-    - name: "3.2.98 Economics, Master of Arts"
+    - name: "3.3.98 Economics, Master of Arts"
       href: united-states/stanford-university/economics-master-of-arts.md
-    - name: "3.2.99 Education, Master of Arts"
+    - name: "3.3.99 Education, Master of Arts"
       href: united-states/stanford-university/education-master-of-arts.md
-    - name: "3.2.100 Education, Master of Science"
+    - name: "3.3.100 Education, Master of Science"
       href: united-states/stanford-university/education-master-of-science.md
-    - name: "3.2.101 Electrical Engineering, Master of Science"
+    - name: "3.3.101 Electrical Engineering, Master of Science"
       href: united-states/stanford-university/electrical-engineering-master-of-science.md
-    - name: "3.2.102 Energy Science and Engineering, Master of Science"
+    - name: "3.3.102 Energy Science and Engineering, Master of Science"
       href: united-states/stanford-university/energy-science-and-engineering-master-of-science.md
-    - name: "3.2.103 Engineering, Master of Science"
+    - name: "3.3.103 Engineering, Master of Science"
       href: united-states/stanford-university/engineering-master-of-science.md
-    - name: "3.2.104 English, Master of Arts"
+    - name: "3.3.104 English, Master of Arts"
       href: united-states/stanford-university/english-master-of-arts.md
-    - name: "3.2.105 Environment and Resources, Master of Science"
+    - name: "3.3.105 Environment and Resources, Master of Science"
       href: united-states/stanford-university/environment-and-resources-master-of-science.md
-    - name: "3.2.106 Environmental Social Sciences, Master of Arts"
+    - name: "3.3.106 Environmental Social Sciences, Master of Arts"
       href: united-states/stanford-university/environmental-social-sciences-master-of-arts.md
-    - name: "3.2.107 Epidemiology and Clinical Research, Master of Science"
+    - name: "3.3.107 Epidemiology and Clinical Research, Master of Science"
       href: united-states/stanford-university/epidemiology-and-clinical-research-master-of-science.md
-    - name: "3.2.108 Geophysics, Master of Science"
+    - name: "3.3.108 Geophysics, Master of Science"
       href: united-states/stanford-university/geophysics-master-of-science.md
-    - name: "3.2.109 German Studies, Master of Arts"
+    - name: "3.3.109 German Studies, Master of Arts"
       href: united-states/stanford-university/german-studies-master-of-arts.md
-    - name: "3.2.110 Health Policy, Master of Science"
+    - name: "3.3.110 Health Policy, Master of Science"
       href: united-states/stanford-university/health-policy-master-of-science.md
-    - name: "3.2.111 Human Genetics and Genetic Counseling, Master of Science"
+    - name: "3.3.111 Human Genetics and Genetic Counseling, Master of Science"
       href: united-states/stanford-university/human-genetics-and-genetic-counseling-master-of-science.md
-    - name: "3.2.112 Immunology, Master of Science"
+    - name: "3.3.112 Immunology, Master of Science"
       href: united-states/stanford-university/immunology-master-of-science.md
-    - name: "3.2.113 International Policy, Master of Arts"
+    - name: "3.3.113 International Policy, Master of Arts"
       href: united-states/stanford-university/international-policy-master-of-arts.md
-    - name: "3.2.114 Italian, Master of Arts"
+    - name: "3.3.114 Italian, Master of Arts"
       href: united-states/stanford-university/italian-master-of-arts.md
-    - name: "3.2.115 Laboratory Animal Science, Master of Science"
+    - name: "3.3.115 Laboratory Animal Science, Master of Science"
       href: united-states/stanford-university/laboratory-animal-science-master-of-science.md
-    - name: "3.2.116 Latin American Studies, Master of Arts"
+    - name: "3.3.116 Latin American Studies, Master of Arts"
       href: united-states/stanford-university/latin-american-studies-master-of-arts.md
-    - name: "3.2.117 Law, Master of Laws"
+    - name: "3.3.117 Law, Master of Laws"
       href: united-states/stanford-university/law-master-of-laws.md
-    - name: "3.2.118 Law, Master of the Science of Law"
+    - name: "3.3.118 Law, Master of the Science of Law"
       href: united-states/stanford-university/law-master-of-the-science-of-law.md
-    - name: "3.2.119 Linguistics, Master of Arts"
+    - name: "3.3.119 Linguistics, Master of Arts"
       href: united-states/stanford-university/linguistics-master-of-arts.md
-    - name: "3.2.120 Management Science and Engineering, Master of Science"
+    - name: "3.3.120 Management Science and Engineering, Master of Science"
       href: united-states/stanford-university/management-science-and-engineering-master-of-science.md
-    - name: "3.2.121 Master of Liberal Arts, Master of Liberal Arts"
+    - name: "3.3.121 Master of Liberal Arts, Master of Liberal Arts"
       href: united-states/stanford-university/master-of-liberal-arts-master-of-liberal-arts.md
-    - name: "3.2.122 Materials Science and Engineering, Master of Science"
+    - name: "3.3.122 Materials Science and Engineering, Master of Science"
       href: united-states/stanford-university/materials-science-and-engineering-master-of-science.md
-    - name: "3.2.123 Mechanical Engineering, Master of Science"
+    - name: "3.3.123 Mechanical Engineering, Master of Science"
       href: united-states/stanford-university/mechanical-engineering-master-of-science.md
-    - name: "3.2.124 Medicine, Master of Science"
+    - name: "3.3.124 Medicine, Master of Science"
       href: united-states/stanford-university/medicine-master-of-science.md
-    - name: "3.2.125 Modern Thought and Literature, Master of Arts"
+    - name: "3.3.125 Modern Thought and Literature, Master of Arts"
       href: united-states/stanford-university/modern-thought-and-literature-master-of-arts.md
-    - name: "3.2.126 Molecular and Cellular Physiology, Master of Science"
+    - name: "3.3.126 Molecular and Cellular Physiology, Master of Science"
       href: united-states/stanford-university/molecular-and-cellular-physiology-master-of-science.md
-    - name: "3.2.127 Music, Master of Arts"
+    - name: "3.3.127 Music, Master of Arts"
       href: united-states/stanford-university/music-master-of-arts.md
-    - name: "3.2.128 Neurosciences, Master of Science"
+    - name: "3.3.128 Neurosciences, Master of Science"
       href: united-states/stanford-university/neurosciences-master-of-science.md
-    - name: "3.2.129 Philosophy, Master of Arts"
+    - name: "3.3.129 Philosophy, Master of Arts"
       href: united-states/stanford-university/philosophy-master-of-arts.md
-    - name: "3.2.130 Physician Assistant Studies, Master of Science"
+    - name: "3.3.130 Physician Assistant Studies, Master of Science"
       href: united-states/stanford-university/physician-assistant-studies-master-of-science.md
-    - name: "3.2.131 Physics, Master of Science"
+    - name: "3.3.131 Physics, Master of Science"
       href: united-states/stanford-university/physics-master-of-science.md
-    - name: "3.2.132 Political Science, Master of Arts"
+    - name: "3.3.132 Political Science, Master of Arts"
       href: united-states/stanford-university/political-science-master-of-arts.md
-    - name: "3.2.133 Psychology, Master of Arts"
+    - name: "3.3.133 Psychology, Master of Arts"
       href: united-states/stanford-university/psychology-master-of-arts.md
-    - name: "3.2.134 Public Policy, Master of Arts"
+    - name: "3.3.134 Public Policy, Master of Arts"
       href: united-states/stanford-university/public-policy-master-of-arts.md
-    - name: "3.2.135 Public Policy, Master of Public Policy"
+    - name: "3.3.135 Public Policy, Master of Public Policy"
       href: united-states/stanford-university/public-policy-master-of-public-policy.md
-    - name: "3.2.136 Religious Studies, Master of Arts"
+    - name: "3.3.136 Religious Studies, Master of Arts"
       href: united-states/stanford-university/religious-studies-master-of-arts.md
-    - name: "3.2.137 Russian, East European and Eurasian Studies, Master of Arts"
+    - name: "3.3.137 Russian, East European and Eurasian Studies, Master of Arts"
       href: united-states/stanford-university/russian-east-european-and-eurasian-studies-master-of-arts.md
-    - name: "3.2.138 Sociology, Master of Arts"
+    - name: "3.3.138 Sociology, Master of Arts"
       href: united-states/stanford-university/sociology-master-of-arts.md
-    - name: "3.2.139 Statistics, Master of Science"
+    - name: "3.3.139 Statistics, Master of Science"
       href: united-states/stanford-university/statistics-master-of-science.md
-    - name: "3.2.140 Stem Cell Biology and Regenerative Medicine, Master of Science"
+    - name: "3.3.140 Stem Cell Biology and Regenerative Medicine, Master of Science"
       href: united-states/stanford-university/stem-cell-biology-and-regenerative-medicine-master-of-science.md
-    - name: "3.2.141 Sustainability Science and Practice, Master of Arts"
+    - name: "3.3.141 Sustainability Science and Practice, Master of Arts"
       href: united-states/stanford-university/sustainability-science-and-practice-master-of-arts.md
-    - name: "3.2.142 Sustainability Science and Practice, Master of Science"
+    - name: "3.3.142 Sustainability Science and Practice, Master of Science"
       href: united-states/stanford-university/sustainability-science-and-practice-master-of-science.md
-    - name: "3.2.143 Symbolic Systems, Master of Science"
+    - name: "3.3.143 Symbolic Systems, Master of Science"
       href: united-states/stanford-university/symbolic-systems-master-of-science.md
-    - name: "3.2.144 Translational Research and Applied Medicine, Master of Science"
+    - name: "3.3.144 Translational Research and Applied Medicine, Master of Science"
       href: united-states/stanford-university/translational-research-and-applied-medicine-master-of-science.md
-    - name: "3.2.145 Anthropology, Doctor of Philosophy"
+    - name: "3.3.145 Anthropology, Doctor of Philosophy"
       href: united-states/stanford-university/anthropology-doctor-of-philosophy.md
-    - name: "3.2.146 Applied Physics, Doctor of Philosophy"
+    - name: "3.3.146 Applied Physics, Doctor of Philosophy"
       href: united-states/stanford-university/applied-physics-doctor-of-philosophy.md
-    - name: "3.2.147 Art History, Doctor of Philosophy"
+    - name: "3.3.147 Art History, Doctor of Philosophy"
       href: united-states/stanford-university/art-history-doctor-of-philosophy.md
-    - name: "3.2.148 Biochemistry, Doctor of Philosophy"
+    - name: "3.3.148 Biochemistry, Doctor of Philosophy"
       href: united-states/stanford-university/biochemistry-doctor-of-philosophy.md
-    - name: "3.2.149 Bioengineering, Doctor of Philosophy"
+    - name: "3.3.149 Bioengineering, Doctor of Philosophy"
       href: united-states/stanford-university/bioengineering-doctor-of-philosophy.md
-    - name: "3.2.150 Biology, Doctor of Philosophy"
+    - name: "3.3.150 Biology, Doctor of Philosophy"
       href: united-states/stanford-university/biology-doctor-of-philosophy.md
-    - name: "3.2.151 Biomedical Data Science, Doctor of Philosophy"
+    - name: "3.3.151 Biomedical Data Science, Doctor of Philosophy"
       href: united-states/stanford-university/biomedical-data-science-doctor-of-philosophy.md
-    - name: "3.2.152 Biomedical Physics, Doctor of Philosophy"
+    - name: "3.3.152 Biomedical Physics, Doctor of Philosophy"
       href: united-states/stanford-university/biomedical-physics-doctor-of-philosophy.md
-    - name: "3.2.153 Biophysics, Doctor of Philosophy"
+    - name: "3.3.153 Biophysics, Doctor of Philosophy"
       href: united-states/stanford-university/biophysics-doctor-of-philosophy.md
-    - name: "3.2.154 Business Administration, Doctor of Philosophy"
+    - name: "3.3.154 Business Administration, Doctor of Philosophy"
       href: united-states/stanford-university/business-administration-doctor-of-philosophy.md
-    - name: "3.2.155 Cancer Biology, Doctor of Philosophy"
+    - name: "3.3.155 Cancer Biology, Doctor of Philosophy"
       href: united-states/stanford-university/cancer-biology-doctor-of-philosophy.md
-    - name: "3.2.156 Chemical and Systems Biology, Doctor of Philosophy"
+    - name: "3.3.156 Chemical and Systems Biology, Doctor of Philosophy"
       href: united-states/stanford-university/chemical-and-systems-biology-doctor-of-philosophy.md
-    - name: "3.2.157 Chemical Engineering, Doctor of Philosophy"
+    - name: "3.3.157 Chemical Engineering, Doctor of Philosophy"
       href: united-states/stanford-university/chemical-engineering-doctor-of-philosophy.md
-    - name: "3.2.158 Chemistry, Doctor of Philosophy"
+    - name: "3.3.158 Chemistry, Doctor of Philosophy"
       href: united-states/stanford-university/chemistry-doctor-of-philosophy.md
-    - name: "3.2.159 Civil and Environmental Engineering, Doctor of Philosophy"
+    - name: "3.3.159 Civil and Environmental Engineering, Doctor of Philosophy"
       href: united-states/stanford-university/civil-and-environmental-engineering-doctor-of-philosophy.md
-    - name: "3.2.160 Classics, Doctor of Philosophy"
+    - name: "3.3.160 Classics, Doctor of Philosophy"
       href: united-states/stanford-university/classics-doctor-of-philosophy.md
-    - name: "3.2.161 Communication, Doctor of Philosophy"
+    - name: "3.3.161 Communication, Doctor of Philosophy"
       href: united-states/stanford-university/communication-doctor-of-philosophy.md
-    - name: "3.2.162 Comparative Literature, Doctor of Philosophy"
+    - name: "3.3.162 Comparative Literature, Doctor of Philosophy"
       href: united-states/stanford-university/comparative-literature-doctor-of-philosophy.md
-    - name: "3.2.163 Computational and Mathematical Engineering, Doctor of Philosophy"
+    - name: "3.3.163 Computational and Mathematical Engineering, Doctor of Philosophy"
       href: united-states/stanford-university/computational-and-mathematical-engineering-doctor-of-philosophy.md
-    - name: "3.2.164 Computer Science, Doctor of Philosophy"
+    - name: "3.3.164 Computer Science, Doctor of Philosophy"
       href: united-states/stanford-university/computer-science-doctor-of-philosophy.md
-    - name: "3.2.165 Developmental Biology, Doctor of Philosophy"
+    - name: "3.3.165 Developmental Biology, Doctor of Philosophy"
       href: united-states/stanford-university/developmental-biology-doctor-of-philosophy.md
-    - name: "3.2.166 Earth and Planetary Sciences, Doctor of Philosophy"
+    - name: "3.3.166 Earth and Planetary Sciences, Doctor of Philosophy"
       href: united-states/stanford-university/earth-and-planetary-sciences-doctor-of-philosophy.md
-    - name: "3.2.167 Earth System Science, Doctor of Philosophy"
+    - name: "3.3.167 Earth System Science, Doctor of Philosophy"
       href: united-states/stanford-university/earth-system-science-doctor-of-philosophy.md
-    - name: "3.2.168 East Asian Languages and Cultures, Doctor of Philosophy"
+    - name: "3.3.168 East Asian Languages and Cultures, Doctor of Philosophy"
       href: united-states/stanford-university/east-asian-languages-and-cultures-doctor-of-philosophy.md
-    - name: "3.2.169 Economics, Doctor of Philosophy"
+    - name: "3.3.169 Economics, Doctor of Philosophy"
       href: united-states/stanford-university/economics-doctor-of-philosophy.md
-    - name: "3.2.170 Education, Doctor of Philosophy"
+    - name: "3.3.170 Education, Doctor of Philosophy"
       href: united-states/stanford-university/education-doctor-of-philosophy.md
-    - name: "3.2.171 Electrical Engineering, Doctor of Philosophy"
+    - name: "3.3.171 Electrical Engineering, Doctor of Philosophy"
       href: united-states/stanford-university/electrical-engineering-doctor-of-philosophy.md
-    - name: "3.2.172 Energy Science and Engineering, Doctor of Philosophy"
+    - name: "3.3.172 Energy Science and Engineering, Doctor of Philosophy"
       href: united-states/stanford-university/energy-science-and-engineering-doctor-of-philosophy.md
-    - name: "3.2.173 English, Doctor of Philosophy"
+    - name: "3.3.173 English, Doctor of Philosophy"
       href: united-states/stanford-university/english-doctor-of-philosophy.md
-    - name: "3.2.174 Environment and Resources, Doctor of Philosophy"
+    - name: "3.3.174 Environment and Resources, Doctor of Philosophy"
       href: united-states/stanford-university/environment-and-resources-doctor-of-philosophy.md
-    - name: "3.2.175 Environmental Social Sciences, Doctor of Philosophy"
+    - name: "3.3.175 Environmental Social Sciences, Doctor of Philosophy"
       href: united-states/stanford-university/environmental-social-sciences-doctor-of-philosophy.md
-    - name: "3.2.176 Epidemiology and Clinical Research, Doctor of Philosophy"
+    - name: "3.3.176 Epidemiology and Clinical Research, Doctor of Philosophy"
       href: united-states/stanford-university/epidemiology-and-clinical-research-doctor-of-philosophy.md
-    - name: "3.2.177 French and Italian, Doctor of Philosophy"
+    - name: "3.3.177 French and Italian, Doctor of Philosophy"
       href: united-states/stanford-university/french-and-italian-doctor-of-philosophy.md
-    - name: "3.2.178 French, Doctor of Philosophy"
+    - name: "3.3.178 French, Doctor of Philosophy"
       href: united-states/stanford-university/french-doctor-of-philosophy.md
-    - name: "3.2.179 Genetics, Doctor of Philosophy"
+    - name: "3.3.179 Genetics, Doctor of Philosophy"
       href: united-states/stanford-university/genetics-doctor-of-philosophy.md
-    - name: "3.2.180 Geophysics, Doctor of Philosophy"
+    - name: "3.3.180 Geophysics, Doctor of Philosophy"
       href: united-states/stanford-university/geophysics-doctor-of-philosophy.md
-    - name: "3.2.181 German Studies, Doctor of Philosophy"
+    - name: "3.3.181 German Studies, Doctor of Philosophy"
       href: united-states/stanford-university/german-studies-doctor-of-philosophy.md
-    - name: "3.2.182 Health Policy, Doctor of Philosophy"
+    - name: "3.3.182 Health Policy, Doctor of Philosophy"
       href: united-states/stanford-university/health-policy-doctor-of-philosophy.md
-    - name: "3.2.183 History, Doctor of Philosophy"
+    - name: "3.3.183 History, Doctor of Philosophy"
       href: united-states/stanford-university/history-doctor-of-philosophy.md
-    - name: "3.2.184 Iberian & Latin American Cultures, Doctor of Philosophy"
+    - name: "3.3.184 Iberian & Latin American Cultures, Doctor of Philosophy"
       href: united-states/stanford-university/iberian-latin-american-cultures-doctor-of-philosophy.md
-    - name: "3.2.185 Immunology, Doctor of Philosophy"
+    - name: "3.3.185 Immunology, Doctor of Philosophy"
       href: united-states/stanford-university/immunology-doctor-of-philosophy.md
-    - name: "3.2.186 Italian, Doctor of Philosophy"
+    - name: "3.3.186 Italian, Doctor of Philosophy"
       href: united-states/stanford-university/italian-doctor-of-philosophy.md
-    - name: "3.2.187 Law, Doctor of Jurisprudence"
+    - name: "3.3.187 Law, Doctor of Jurisprudence"
       href: united-states/stanford-university/law-doctor-of-jurisprudence.md
-    - name: "3.2.188 Law, Doctor of the Science of Law"
+    - name: "3.3.188 Law, Doctor of the Science of Law"
       href: united-states/stanford-university/law-doctor-of-the-science-of-law.md
-    - name: "3.2.189 Linguistics, Doctor of Philosophy"
+    - name: "3.3.189 Linguistics, Doctor of Philosophy"
       href: united-states/stanford-university/linguistics-doctor-of-philosophy.md
-    - name: "3.2.190 Management Science and Engineering, Doctor of Philosophy"
+    - name: "3.3.190 Management Science and Engineering, Doctor of Philosophy"
       href: united-states/stanford-university/management-science-and-engineering-doctor-of-philosophy.md
-    - name: "3.2.191 Materials Science and Engineering, Doctor of Philosophy"
+    - name: "3.3.191 Materials Science and Engineering, Doctor of Philosophy"
       href: united-states/stanford-university/materials-science-and-engineering-doctor-of-philosophy.md
-    - name: "3.2.192 Medicine, Doctor of Medicine"
+    - name: "3.3.192 Medicine, Doctor of Medicine"
       href: united-states/stanford-university/medicine-doctor-of-medicine.md
-    - name: "3.2.193 Microbiology and Immunology, Doctor of Philosophy"
+    - name: "3.3.193 Microbiology and Immunology, Doctor of Philosophy"
       href: united-states/stanford-university/microbiology-and-immunology-doctor-of-philosophy.md
-    - name: "3.2.194 Modern Thought and Literature, Doctor of Philosophy"
+    - name: "3.3.194 Modern Thought and Literature, Doctor of Philosophy"
       href: united-states/stanford-university/modern-thought-and-literature-doctor-of-philosophy.md
-    - name: "3.2.195 Molecular and Cellular Physiology, Doctor of Philosophy"
+    - name: "3.3.195 Molecular and Cellular Physiology, Doctor of Philosophy"
       href: united-states/stanford-university/molecular-and-cellular-physiology-doctor-of-philosophy.md
-    - name: "3.2.196 Music, Doctor of Philosophy"
+    - name: "3.3.196 Music, Doctor of Philosophy"
       href: united-states/stanford-university/music-doctor-of-philosophy.md
-    - name: "3.2.197 Musical Arts, Doctor of Musical Arts"
+    - name: "3.3.197 Musical Arts, Doctor of Musical Arts"
       href: united-states/stanford-university/musical-arts-doctor-of-musical-arts.md
-    - name: "3.2.198 Neurosciences, Doctor of Philosophy"
+    - name: "3.3.198 Neurosciences, Doctor of Philosophy"
       href: united-states/stanford-university/neurosciences-doctor-of-philosophy.md
-    - name: "3.2.199 Oceans, Doctor of Philosophy"
+    - name: "3.3.199 Oceans, Doctor of Philosophy"
       href: united-states/stanford-university/oceans-doctor-of-philosophy.md
-    - name: "3.2.200 Philosophy, Doctor of Philosophy"
+    - name: "3.3.200 Philosophy, Doctor of Philosophy"
       href: united-states/stanford-university/philosophy-doctor-of-philosophy.md
-    - name: "3.2.201 Physics, Doctor of Philosophy"
+    - name: "3.3.201 Physics, Doctor of Philosophy"
       href: united-states/stanford-university/physics-doctor-of-philosophy.md
-    - name: "3.2.202 Political Science, Doctor of Philosophy"
+    - name: "3.3.202 Political Science, Doctor of Philosophy"
       href: united-states/stanford-university/political-science-doctor-of-philosophy.md
-    - name: "3.2.203 Psychology, Doctor of Philosophy"
+    - name: "3.3.203 Psychology, Doctor of Philosophy"
       href: united-states/stanford-university/psychology-doctor-of-philosophy.md
-    - name: "3.2.204 Religious Studies, Doctor of Philosophy"
+    - name: "3.3.204 Religious Studies, Doctor of Philosophy"
       href: united-states/stanford-university/religious-studies-doctor-of-philosophy.md
-    - name: "3.2.205 Slavic Languages and Literatures, Doctor of Philosophy"
+    - name: "3.3.205 Slavic Languages and Literatures, Doctor of Philosophy"
       href: united-states/stanford-university/slavic-languages-and-literatures-doctor-of-philosophy.md
-    - name: "3.2.206 Sociology, Doctor of Philosophy"
+    - name: "3.3.206 Sociology, Doctor of Philosophy"
       href: united-states/stanford-university/sociology-doctor-of-philosophy.md
-    - name: "3.2.207 Statistics, Doctor of Philosophy"
+    - name: "3.3.207 Statistics, Doctor of Philosophy"
       href: united-states/stanford-university/statistics-doctor-of-philosophy.md
-    - name: "3.2.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy"
+    - name: "3.3.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy"
       href: united-states/stanford-university/stem-cell-biology-and-regenerative-medicine-doctor-of-philosophy.md
-    - name: "3.2.209 Structural Biology, Doctor of Philosophy"
+    - name: "3.3.209 Structural Biology, Doctor of Philosophy"
       href: united-states/stanford-university/structural-biology-doctor-of-philosophy.md
-    - name: "3.2.210 Theater and Performance Studies, Doctor of Philosophy"
+    - name: "3.3.210 Theater and Performance Studies, Doctor of Philosophy"
       href: united-states/stanford-university/theater-and-performance-studies-doctor-of-philosophy.md
+  - name: "3.4 Yale University"
+    href: united-states/yale-university/index.md
+    items:
+    - name: "3.4.1 African Studies (B.A.)"
+      href: united-states/yale-university/african-studies-b-a.md
+    - name: "3.4.2 American Studies (B.A.)"
+      href: united-states/yale-university/american-studies-b-a.md
+    - name: "3.4.3 Anthropology (B.A.)"
+      href: united-states/yale-university/anthropology-b-a.md
+    - name: "3.4.4 Applied Mathematics (B.A. or B.S.)"
+      href: united-states/yale-university/applied-mathematics-b-a-or-b-s.md
+    - name: "3.4.5 Applied Physics (B.S.)"
+      href: united-states/yale-university/applied-physics-b-s.md
+    - name: "3.4.6 Archaeological Studies (B.A.)"
+      href: united-states/yale-university/archaeological-studies-b-a.md
+    - name: "3.4.7 Architecture (B.A.)"
+      href: united-states/yale-university/architecture-b-a.md
+    - name: "3.4.8 Art (B.A.)"
+      href: united-states/yale-university/art-b-a.md
+    - name: "3.4.9 Astronomy (B.A.)"
+      href: united-states/yale-university/astronomy-b-a.md
+    - name: "3.4.10 Astrophysics (B.S.)"
+      href: united-states/yale-university/astrophysics-b-s.md
+    - name: "3.4.11 Biomedical Engineering (B.S.)"
+      href: united-states/yale-university/biomedical-engineering-b-s.md
+    - name: "3.4.12 Black Studies (B.A.)"
+      href: united-states/yale-university/black-studies-b-a.md
+    - name: "3.4.13 Chemical Engineering (B.S.)"
+      href: united-states/yale-university/chemical-engineering-b-s.md
+    - name: "3.4.14 Chemistry (B.A. or B.S.)"
+      href: united-states/yale-university/chemistry-b-a-or-b-s.md
+    - name: "3.4.15 Classical Civilization (B.A.)"
+      href: united-states/yale-university/classical-civilization-b-a.md
+    - name: "3.4.16 Classics (B.A.)"
+      href: united-states/yale-university/classics-b-a.md
+    - name: "3.4.17 Cognitive Science (B.A. or B.S.)"
+      href: united-states/yale-university/cognitive-science-b-a-or-b-s.md
+    - name: "3.4.18 Comparative Literature (B.A.)"
+      href: united-states/yale-university/comparative-literature-b-a.md
+    - name: "3.4.19 Computer Science (B.A. or B.S.)"
+      href: united-states/yale-university/computer-science-b-a-or-b-s.md
+    - name: "3.4.20 Computer Science and Economics (B.S.)"
+      href: united-states/yale-university/computer-science-and-economics-b-s.md
+    - name: "3.4.21 Computer Science and Mathematics (B.S.)"
+      href: united-states/yale-university/computer-science-and-mathematics-b-s.md
+    - name: "3.4.22 Computer Science and Psychology (B.A.)"
+      href: united-states/yale-university/computer-science-and-psychology-b-a.md
+    - name: "3.4.23 Computing and Linguistics (B.A. or B.S.)"
+      href: united-states/yale-university/computing-and-linguistics-b-a-or-b-s.md
+    - name: "3.4.24 Computing and the Arts (B.A.)"
+      href: united-states/yale-university/computing-and-the-arts-b-a.md
+    - name: "3.4.25 Earth and Planetary Sciences (B.A. or B.S.)"
+      href: united-states/yale-university/earth-and-planetary-sciences-b-a-or-b-s.md
+    - name: "3.4.26 East Asian Languages and Literatures (B.A.)"
+      href: united-states/yale-university/east-asian-languages-and-literatures-b-a.md
+    - name: "3.4.27 East Asian Studies (B.A.)"
+      href: united-states/yale-university/east-asian-studies-b-a.md
+    - name: "3.4.28 Ecology and Evolutionary Biology (B.A. or B.S.)"
+      href: united-states/yale-university/ecology-and-evolutionary-biology-b-a-or-b-s.md
+    - name: "3.4.29 Economics (B.A.)"
+      href: united-states/yale-university/economics-b-a.md
+    - name: "3.4.30 Economics and Mathematics (B.A.)"
+      href: united-states/yale-university/economics-and-mathematics-b-a.md
+    - name: "3.4.31 Electrical Engineering (B.S.)"
+      href: united-states/yale-university/electrical-engineering-b-s.md
+    - name: "3.4.32 Electrical Engineering and Computer Science (B.S.)"
+      href: united-states/yale-university/electrical-engineering-and-computer-science-b-s.md
+    - name: "3.4.33 Engineering Sciences (Chemical) (B.S.)"
+      href: united-states/yale-university/engineering-sciences-chemical-b-s.md
+    - name: "3.4.34 Engineering Sciences (Electrical) (B.A. or B.S.)"
+      href: united-states/yale-university/engineering-sciences-electrical-b-a-or-b-s.md
+    - name: "3.4.35 Engineering Sciences (Environmental) (B.A.)"
+      href: united-states/yale-university/engineering-sciences-environmental-b-a.md
+    - name: "3.4.36 Engineering Sciences (Mechanical) (B.A. or B.S.)"
+      href: united-states/yale-university/engineering-sciences-mechanical-b-a-or-b-s.md
+    - name: "3.4.37 English (B.A.)"
+      href: united-states/yale-university/english-b-a.md
+    - name: "3.4.38 Environmental Engineering (B.S.)"
+      href: united-states/yale-university/environmental-engineering-b-s.md
+    - name: "3.4.39 Environmental Studies (B.A. or B.S.)"
+      href: united-states/yale-university/environmental-studies-b-a-or-b-s.md
+    - name: "3.4.40 Ethics, Politics, and Economics (B.A.)"
+      href: united-states/yale-university/ethics-politics-and-economics-b-a.md
+    - name: "3.4.41 Ethnicity, Race, and Migration (B.A.)"
+      href: united-states/yale-university/ethnicity-race-and-migration-b-a.md
+    - name: "3.4.42 Film and Media Studies (B.A.)"
+      href: united-states/yale-university/film-and-media-studies-b-a.md
+    - name: "3.4.43 French (B.A.)"
+      href: united-states/yale-university/french-b-a.md
+    - name: "3.4.44 German Studies (B.A.)"
+      href: united-states/yale-university/german-studies-b-a.md
+    - name: "3.4.45 Global Affairs (B.A.)"
+      href: united-states/yale-university/global-affairs-b-a.md
+    - name: "3.4.46 Greek, Ancient and Modern (B.A.)"
+      href: united-states/yale-university/greek-ancient-and-modern-b-a.md
+    - name: "3.4.47 History (B.A.)"
+      href: united-states/yale-university/history-b-a.md
+    - name: "3.4.48 History of Art (B.A.)"
+      href: united-states/yale-university/history-of-art-b-a.md
+    - name: "3.4.49 History of Science, Medicine, and Public Health (B.A.)"
+      href: united-states/yale-university/history-of-science-medicine-and-public-health-b-a.md
+    - name: "3.4.50 Humanities (B.A.)"
+      href: united-states/yale-university/humanities-b-a.md
+    - name: "3.4.51 Italian Studies (B.A.)"
+      href: united-states/yale-university/italian-studies-b-a.md
+    - name: "3.4.52 Jewish Studies (B.A.)"
+      href: united-states/yale-university/jewish-studies-b-a.md
+    - name: "3.4.53 Latin American Studies (B.A.)"
+      href: united-states/yale-university/latin-american-studies-b-a.md
+    - name: "3.4.54 Linguistics (B.A.)"
+      href: united-states/yale-university/linguistics-b-a.md
+    - name: "3.4.55 Mathematics (B.A. or B.S.)"
+      href: united-states/yale-university/mathematics-b-a-or-b-s.md
+    - name: "3.4.56 Mathematics and Philosophy (B.A.)"
+      href: united-states/yale-university/mathematics-and-philosophy-b-a.md
+    - name: "3.4.57 Mathematics and Physics (B.S.)"
+      href: united-states/yale-university/mathematics-and-physics-b-s.md
+    - name: "3.4.58 Mechanical Engineering (B.S.)"
+      href: united-states/yale-university/mechanical-engineering-b-s.md
+    - name: "3.4.59 Modern Middle East Studies (B.A.)"
+      href: united-states/yale-university/modern-middle-east-studies-b-a.md
+    - name: "3.4.60 Molecular Biophysics and Biochemistry (B.A. or B.S.)"
+      href: united-states/yale-university/molecular-biophysics-and-biochemistry-b-a-or-b-s.md
+    - name: "3.4.61 Molecular, Cellular, and Developmental Biology (B.A. or B.S.)"
+      href: united-states/yale-university/molecular-cellular-and-developmental-biology-b-a-or-b-s.md
+    - name: "3.4.62 Music (B.A.)"
+      href: united-states/yale-university/music-b-a.md
+    - name: "3.4.63 Near Eastern Languages and Civilizations (B.A.)"
+      href: united-states/yale-university/near-eastern-languages-and-civilizations-b-a.md
+    - name: "3.4.64 Neuroscience (B.A. or B.S.)"
+      href: united-states/yale-university/neuroscience-b-a-or-b-s.md
+    - name: "3.4.65 Philosophy (B.A.)"
+      href: united-states/yale-university/philosophy-b-a.md
+    - name: "3.4.66 Physics (B.S.)"
+      href: united-states/yale-university/physics-b-s.md
+    - name: "3.4.67 Physics and Geosciences (B.S.)"
+      href: united-states/yale-university/physics-and-geosciences-b-s.md
+    - name: "3.4.68 Physics and Philosophy (B.A. or B.S.)"
+      href: united-states/yale-university/physics-and-philosophy-b-a-or-b-s.md
+    - name: "3.4.69 Political Science (B.A.)"
+      href: united-states/yale-university/political-science-b-a.md
+    - name: "3.4.70 Portuguese (B.A.)"
+      href: united-states/yale-university/portuguese-b-a.md
+    - name: "3.4.71 Psychology (B.A. or B.S.)"
+      href: united-states/yale-university/psychology-b-a-or-b-s.md
+    - name: "3.4.72 Religious Studies (B.A.)"
+      href: united-states/yale-university/religious-studies-b-a.md
+    - name: "3.4.73 Russian (B.A.)"
+      href: united-states/yale-university/russian-b-a.md
+    - name: "3.4.74 Russian, East European, and Eurasian Studies (B.A.)"
+      href: united-states/yale-university/russian-east-european-and-eurasian-studies-b-a.md
+    - name: "3.4.75 Sociology (B.A.)"
+      href: united-states/yale-university/sociology-b-a.md
+    - name: "3.4.76 Spanish (B.A.)"
+      href: united-states/yale-university/spanish-b-a.md
+    - name: "3.4.77 Statistics and Data Science (B.A. or B.S.)"
+      href: united-states/yale-university/statistics-and-data-science-b-a-or-b-s.md
+    - name: "3.4.78 Theater, Dance, and Performance Studies (B.A.)"
+      href: united-states/yale-university/theater-dance-and-performance-studies-b-a.md
+    - name: "3.4.79 Urban Studies (B.A.)"
+      href: united-states/yale-university/urban-studies-b-a.md
+    - name: "3.4.80 Women’s, Gender, and Sexuality Studies (B.A.)"
+      href: united-states/yale-university/womens-gender-and-sexuality-studies-b-a.md
+    - name: "3.4.81 Advanced Professional M.P.H. Program"
+      href: united-states/yale-university/advanced-professional-m-p-h-program.md
+    - name: "3.4.82 African Studies (M.A.)"
+      href: united-states/yale-university/african-studies-m-a.md
+    - name: "3.4.83 Biomedical Engineering (M.S.)"
+      href: united-states/yale-university/biomedical-engineering-m-s.md
+    - name: "3.4.84 Chemical and Environmental Engineering (M.S.)"
+      href: united-states/yale-university/chemical-and-environmental-engineering-m-s.md
+    - name: "3.4.85 Computational Biology and Biomedical Informatics (M.S.)"
+      href: united-states/yale-university/computational-biology-and-biomedical-informatics-m-s.md
+    - name: "3.4.86 East Asian Studies (M.A.)"
+      href: united-states/yale-university/east-asian-studies-m-a.md
+    - name: "3.4.87 Electrical and Computer Engineering (M.S.)"
+      href: united-states/yale-university/electrical-and-computer-engineering-m-s.md
+    - name: "3.4.88 European and Russian Studies (M.A.)"
+      href: united-states/yale-university/european-and-russian-studies-m-a.md
+    - name: "3.4.89 Executive M.P.H. Program"
+      href: united-states/yale-university/executive-m-p-h-program.md
+    - name: "3.4.90 Executive Master of Environmental Management (E.M.E.M.) or Executive Master of Forestry (E.M.F.)"
+      href: united-states/yale-university/executive-master-of-environmental-management-e-m-e-m-or-executive-master-of-forestry-e-m-f.md
+    - name: "3.4.91 Full-Time M.B.A. Degree Program"
+      href: united-states/yale-university/full-time-m-b-a-degree-program.md
+    - name: "3.4.92 International and Development Economics (M.A.)"
+      href: united-states/yale-university/international-and-development-economics-m-a.md
+    - name: "3.4.93 M.M.S. in Asset Management"
+      href: united-states/yale-university/m-m-s-in-asset-management.md
+    - name: "3.4.94 M.M.S. in Global Business and Society"
+      href: united-states/yale-university/m-m-s-in-global-business-and-society.md
+    - name: "3.4.95 M.M.S. in Public Education Management"
+      href: united-states/yale-university/m-m-s-in-public-education-management.md
+    - name: "3.4.96 M.M.S. in Systemic Risk"
+      href: united-states/yale-university/m-m-s-in-systemic-risk.md
+    - name: "3.4.97 Master in Public Policy in Global Affairs (M.P.P.)"
+      href: united-states/yale-university/master-in-public-policy-in-global-affairs-m-p-p.md
+    - name: "3.4.98 Master of Advanced Management (M.A.M.) Program"
+      href: united-states/yale-university/master-of-advanced-management-m-a-m-program.md
+    - name: "3.4.99 Master of Architecture I Degree Program"
+      href: united-states/yale-university/master-of-architecture-i-degree-program.md
+    - name: "3.4.100 Master of Architecture II Degree Program"
+      href: united-states/yale-university/master-of-architecture-ii-degree-program.md
+    - name: "3.4.101 Master of Arts in Religion"
+      href: united-states/yale-university/master-of-arts-in-religion.md
+    - name: "3.4.102 Master of Divinity"
+      href: united-states/yale-university/master-of-divinity.md
+    - name: "3.4.103 Master of Environmental Design Degree Program"
+      href: united-states/yale-university/master-of-environmental-design-degree-program.md
+    - name: "3.4.104 Master of Environmental Management"
+      href: united-states/yale-university/master-of-environmental-management.md
+    - name: "3.4.105 Master of Environmental Science/Master of Forest Science"
+      href: united-states/yale-university/master-of-environmental-science-master-of-forest-science.md
+    - name: "3.4.106 Master of Fine Arts Degree"
+      href: united-states/yale-university/master-of-fine-arts-degree.md
+    - name: "3.4.107 Master of Forestry"
+      href: united-states/yale-university/master-of-forestry.md
+    - name: "3.4.108 Master of Sacred Theology"
+      href: united-states/yale-university/master-of-sacred-theology.md
+    - name: "3.4.109 Master’s Program (M.S.N.)"
+      href: united-states/yale-university/masters-program-m-s-n.md
+    - name: "3.4.110 Mechanical Engineering (M.S.)"
+      href: united-states/yale-university/mechanical-engineering-m-s.md
+    - name: "3.4.111 Public Health (M.S.)"
+      href: united-states/yale-university/public-health-m-s.md
+    - name: "3.4.112 Traditional Two-Year M.P.H. Program"
+      href: united-states/yale-university/traditional-two-year-m-p-h-program.md
+    - name: "3.4.113 American Studies (Ph.D.)"
+      href: united-states/yale-university/american-studies-ph-d.md
+    - name: "3.4.114 Applied and Computational Mathematics (Ph.D.)"
+      href: united-states/yale-university/applied-and-computational-mathematics-ph-d.md
+    - name: "3.4.115 Applied Physics (Ph.D.)"
+      href: united-states/yale-university/applied-physics-ph-d.md
+    - name: "3.4.116 Architecture (Ph.D.)"
+      href: united-states/yale-university/architecture-ph-d.md
+    - name: "3.4.117 Astronomy (Ph.D.)"
+      href: united-states/yale-university/astronomy-ph-d.md
+    - name: "3.4.118 Biomedical Engineering (Ph.D.)"
+      href: united-states/yale-university/biomedical-engineering-ph-d.md
+    - name: "3.4.119 Cell Biology (Ph.D.)"
+      href: united-states/yale-university/cell-biology-ph-d.md
+    - name: "3.4.120 Cellular and Molecular Physiology (Ph.D.)"
+      href: united-states/yale-university/cellular-and-molecular-physiology-ph-d.md
+    - name: "3.4.121 Chemical and Environmental Engineering (Ph.D.)"
+      href: united-states/yale-university/chemical-and-environmental-engineering-ph-d.md
+    - name: "3.4.122 Chemistry (Ph.D.)"
+      href: united-states/yale-university/chemistry-ph-d.md
+    - name: "3.4.123 Classics (Ph.D.)"
+      href: united-states/yale-university/classics-ph-d.md
+    - name: "3.4.124 Clinical D.N.P. Program"
+      href: united-states/yale-university/clinical-d-n-p-program.md
+    - name: "3.4.125 Comparative Literature (Ph.D.)"
+      href: united-states/yale-university/comparative-literature-ph-d.md
+    - name: "3.4.126 Computational Biology and Biomedical Informatics (Ph.D.)"
+      href: united-states/yale-university/computational-biology-and-biomedical-informatics-ph-d.md
+    - name: "3.4.127 Computer Science (Ph.D.)"
+      href: united-states/yale-university/computer-science-ph-d.md
+    - name: "3.4.128 Earth and Planetary Sciences (Ph.D.)"
+      href: united-states/yale-university/earth-and-planetary-sciences-ph-d.md
+    - name: "3.4.129 Ecology and Evolutionary Biology (Ph.D.)"
+      href: united-states/yale-university/ecology-and-evolutionary-biology-ph-d.md
+    - name: "3.4.130 Economics (Ph.D.)"
+      href: united-states/yale-university/economics-ph-d.md
+    - name: "3.4.131 English Language and Literature (Ph.D.)"
+      href: united-states/yale-university/english-language-and-literature-ph-d.md
+    - name: "3.4.132 Environment (Ph.D.)"
+      href: united-states/yale-university/environment-ph-d.md
+    - name: "3.4.133 Film and Media Studies (Ph.D.)"
+      href: united-states/yale-university/film-and-media-studies-ph-d.md
+    - name: "3.4.134 French (Ph.D.)"
+      href: united-states/yale-university/french-ph-d.md
+    - name: "3.4.135 Genetics (Ph.D.)"
+      href: united-states/yale-university/genetics-ph-d.md
+    - name: "3.4.136 Germanic Languages and Literatures (Ph.D.)"
+      href: united-states/yale-university/germanic-languages-and-literatures-ph-d.md
+    - name: "3.4.137 HealthCare Leadership, Systems, and Policy D.N.P. Program"
+      href: united-states/yale-university/healthcare-leadership-systems-and-policy-d-n-p-program.md
+    - name: "3.4.138 History (Ph.D.)"
+      href: united-states/yale-university/history-ph-d.md
+    - name: "3.4.139 History of Science and Medicine (Ph.D.)"
+      href: united-states/yale-university/history-of-science-and-medicine-ph-d.md
+    - name: "3.4.140 Immunobiology (Ph.D.)"
+      href: united-states/yale-university/immunobiology-ph-d.md
+    - name: "3.4.141 Interdepartmental Neuroscience Program (Ph.D.)"
+      href: united-states/yale-university/interdepartmental-neuroscience-program-ph-d.md
+    - name: "3.4.142 Investigative Medicine (Ph.D.)"
+      href: united-states/yale-university/investigative-medicine-ph-d.md
+    - name: "3.4.143 Linguistics (Ph.D.)"
+      href: united-states/yale-university/linguistics-ph-d.md
+    - name: "3.4.144 Management (Ph.D.)"
+      href: united-states/yale-university/management-ph-d.md
+    - name: "3.4.145 Mathematics (Ph.D.)"
+      href: united-states/yale-university/mathematics-ph-d.md
+    - name: "3.4.146 Mechanical Engineering (Ph.D.)"
+      href: united-states/yale-university/mechanical-engineering-ph-d.md
+    - name: "3.4.147 Microbiology (Ph.D.)"
+      href: united-states/yale-university/microbiology-ph-d.md
+    - name: "3.4.148 Molecular Biophysics and Biochemistry (Ph.D.)"
+      href: united-states/yale-university/molecular-biophysics-and-biochemistry-ph-d.md
+    - name: "3.4.149 Molecular, Cellular, and Developmental Biology (Ph.D.)"
+      href: united-states/yale-university/molecular-cellular-and-developmental-biology-ph-d.md
+    - name: "3.4.150 Nursing (Ph.D.)"
+      href: united-states/yale-university/nursing-ph-d.md
+    - name: "3.4.151 Pathology and Molecular Medicine (Ph.D.)"
+      href: united-states/yale-university/pathology-and-molecular-medicine-ph-d.md
+    - name: "3.4.152 Pharmacology (Ph.D.)"
+      href: united-states/yale-university/pharmacology-ph-d.md
+    - name: "3.4.153 Physics (Ph.D.)"
+      href: united-states/yale-university/physics-ph-d.md
+    - name: "3.4.154 Political Science (Ph.D.)"
+      href: united-states/yale-university/political-science-ph-d.md
+    - name: "3.4.155 Psychology (Ph.D.)"
+      href: united-states/yale-university/psychology-ph-d.md
+    - name: "3.4.156 Public Health (Ph.D.)"
+      href: united-states/yale-university/public-health-ph-d.md
+    - name: "3.4.157 Religious Studies (Ph.D.)"
+      href: united-states/yale-university/religious-studies-ph-d.md
+    - name: "3.4.158 Slavic Languages and Literatures (Ph.D.)"
+      href: united-states/yale-university/slavic-languages-and-literatures-ph-d.md
+    - name: "3.4.159 Sociology (Ph.D.)"
+      href: united-states/yale-university/sociology-ph-d.md
+    - name: "3.4.160 Spanish and Portuguese (Ph.D.)"
+      href: united-states/yale-university/spanish-and-portuguese-ph-d.md
+    - name: "3.4.161 Statistics and Data Science (Ph.D.)"
+      href: united-states/yale-university/statistics-and-data-science-ph-d.md
+    - name: "3.4.162 Translational Biomedicine (Ph.D.)"
+      href: united-states/yale-university/translational-biomedicine-ph-d.md

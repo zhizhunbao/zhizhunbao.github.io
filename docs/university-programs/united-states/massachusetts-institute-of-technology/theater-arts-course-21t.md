@@ -1,10 +1,10 @@
 ---
-title: "3.1.53 Theater Arts (Course 21T)"
+title: "3.2.53 Theater Arts (Course 21T)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Theater Arts (Course 21T): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.53 Theater Arts (Course 21T)
+# 3.2.53 Theater Arts (Course 21T)
 
 ## Glossary
 

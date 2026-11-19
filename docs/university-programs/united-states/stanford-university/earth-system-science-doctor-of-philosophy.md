@@ -1,10 +1,10 @@
 ---
-title: "3.2.167 Earth System Science, Doctor of Philosophy"
+title: "3.3.167 Earth System Science, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Earth System Science, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.167 Earth System Science, Doctor of Philosophy
+# 3.3.167 Earth System Science, Doctor of Philosophy
 
 ## Glossary
 

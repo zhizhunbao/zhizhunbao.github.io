@@ -1,10 +1,10 @@
 ---
-title: "3.1.48 Philosophy (Course 24-1)"
+title: "3.2.48 Philosophy (Course 24-1)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Philosophy (Course 24-1): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.48 Philosophy (Course 24-1)
+# 3.2.48 Philosophy (Course 24-1)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.1.92 Biology (PhD)"
+title: "3.2.92 Biology (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Biology (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.92 Biology (PhD)
+# 3.2.92 Biology (PhD)
 
 ## Glossary
 

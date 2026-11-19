@@ -1,10 +1,10 @@
 ---
-title: "3.2.173 English, Doctor of Philosophy"
+title: "3.3.173 English, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > English, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.173 English, Doctor of Philosophy
+# 3.3.173 English, Doctor of Philosophy
 
 ## Glossary
 

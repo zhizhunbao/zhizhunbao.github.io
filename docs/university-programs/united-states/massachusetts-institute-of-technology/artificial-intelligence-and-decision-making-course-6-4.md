@@ -1,10 +1,10 @@
 ---
-title: "3.1.6 Artificial Intelligence and Decision Making (Course 6-4)"
+title: "3.2.6 Artificial Intelligence and Decision Making (Course 6-4)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Artificial Intelligence and Decision Making (Course 6-4): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.6 Artificial Intelligence and Decision Making (Course 6-4)
+# 3.2.6 Artificial Intelligence and Decision Making (Course 6-4)
 
 ## Glossary
 

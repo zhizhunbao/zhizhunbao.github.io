@@ -1,10 +1,10 @@
 ---
-title: "3.1.123 Linguistics (PhD)"
+title: "3.2.123 Linguistics (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Linguistics (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.123 Linguistics (PhD)
+# 3.2.123 Linguistics (PhD)
 
 ## Glossary
 

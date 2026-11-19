@@ -1,10 +1,10 @@
 ---
-title: "3.1.67 Master of Science in Architecture Studies"
+title: "3.2.67 Master of Science in Architecture Studies"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Architecture Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.67 Master of Science in Architecture Studies
+# 3.2.67 Master of Science in Architecture Studies
 
 ## Glossary
 

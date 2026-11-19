@@ -1,10 +1,10 @@
 ---
-title: "3.1.76 Master of Science in Transportation"
+title: "3.2.76 Master of Science in Transportation"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Transportation: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.76 Master of Science in Transportation
+# 3.2.76 Master of Science in Transportation
 
 ## Glossary
 

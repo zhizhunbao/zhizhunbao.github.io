@@ -1,10 +1,10 @@
 ---
-title: "3.1.79 Real Estate Development"
+title: "3.2.79 Real Estate Development"
 description: "University Programs > United States > Massachusetts Institute of Technology > Real Estate Development: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.79 Real Estate Development
+# 3.2.79 Real Estate Development
 
 ## Glossary
 

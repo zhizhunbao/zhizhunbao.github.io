@@ -1,10 +1,10 @@
 ---
-title: "3.1.52 Science, Technology, and Society/Second Major (STS)"
+title: "3.2.52 Science, Technology, and Society/Second Major (STS)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Science, Technology, and Society/Second Major (STS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.52 Science, Technology, and Society/Second Major (STS)
+# 3.2.52 Science, Technology, and Society/Second Major (STS)
 
 ## Glossary
 

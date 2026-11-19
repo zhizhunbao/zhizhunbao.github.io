@@ -1,10 +1,10 @@
 ---
-title: "3.1.1 Aerospace Engineering (Course 16)"
+title: "3.2.1 Aerospace Engineering (Course 16)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Aerospace Engineering (Course 16): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.1 Aerospace Engineering (Course 16)
+# 3.2.1 Aerospace Engineering (Course 16)
 
 ## Glossary
 

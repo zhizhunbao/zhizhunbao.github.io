@@ -1,10 +1,10 @@
 ---
-title: "3.1.110 Doctor of Philosophy in Microbiology"
+title: "3.2.110 Doctor of Philosophy in Microbiology"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Microbiology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.110 Doctor of Philosophy in Microbiology
+# 3.2.110 Doctor of Philosophy in Microbiology
 
 ## Glossary
 

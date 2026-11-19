@@ -1,10 +1,10 @@
 ---
-title: "3.1.4 Architecture (Course 4)"
+title: "3.2.4 Architecture (Course 4)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Architecture (Course 4): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.4 Architecture (Course 4)
+# 3.2.4 Architecture (Course 4)
 
 ## Glossary
 

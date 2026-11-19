@@ -1,10 +1,10 @@
 ---
-title: "3.1.104 Doctor of Philosophy in Biological Engineering"
+title: "3.2.104 Doctor of Philosophy in Biological Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Biological Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.104 Doctor of Philosophy in Biological Engineering
+# 3.2.104 Doctor of Philosophy in Biological Engineering
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.1.19 Computation and Cognition (Course 6-9)"
+title: "3.2.19 Computation and Cognition (Course 6-9)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computation and Cognition (Course 6-9): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.19 Computation and Cognition (Course 6-9)
+# 3.2.19 Computation and Cognition (Course 6-9)
 
 ## Glossary
 

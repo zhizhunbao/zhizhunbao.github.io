@@ -1,10 +1,10 @@
 ---
-title: "3.2.8 Asian American Studies, Major: Bachelor of Arts"
+title: "3.3.8 Asian American Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Asian American Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.8 Asian American Studies, Major: Bachelor of Arts
+# 3.3.8 Asian American Studies, Major: Bachelor of Arts
 
 ## Glossary
 

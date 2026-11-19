@@ -1,10 +1,10 @@
 ---
-title: "3.1.90 Atmospheric Science (PhD, ScD)"
+title: "3.2.90 Atmospheric Science (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Atmospheric Science (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.90 Atmospheric Science (PhD, ScD)
+# 3.2.90 Atmospheric Science (PhD, ScD)
 
 ## Glossary
 

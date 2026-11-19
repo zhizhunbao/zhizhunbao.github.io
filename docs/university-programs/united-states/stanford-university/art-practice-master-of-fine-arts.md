@@ -1,10 +1,10 @@
 ---
-title: "3.2.72 Art Practice, Master of Fine Arts"
+title: "3.3.72 Art Practice, Master of Fine Arts"
 description: "University Programs > United States > Stanford University > Art Practice, Master of Fine Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.72 Art Practice, Master of Fine Arts
+# 3.3.72 Art Practice, Master of Fine Arts
 
 ## Glossary
 

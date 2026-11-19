@@ -1,10 +1,10 @@
 ---
-title: "3.1.108 Doctor of Philosophy in Materials Science and Engineering"
+title: "3.2.108 Doctor of Philosophy in Materials Science and Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Materials Science and Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.108 Doctor of Philosophy in Materials Science and Engineering
+# 3.2.108 Doctor of Philosophy in Materials Science and Engineering
 
 ## Glossary
 

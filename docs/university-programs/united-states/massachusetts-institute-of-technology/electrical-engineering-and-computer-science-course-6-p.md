@@ -1,10 +1,10 @@
 ---
-title: "3.1.60 Electrical Engineering and Computer Science (Course 6-P)"
+title: "3.2.60 Electrical Engineering and Computer Science (Course 6-P)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Electrical Engineering and Computer Science (Course 6-P): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.60 Electrical Engineering and Computer Science (Course 6-P)
+# 3.2.60 Electrical Engineering and Computer Science (Course 6-P)
 
 ## Glossary
 

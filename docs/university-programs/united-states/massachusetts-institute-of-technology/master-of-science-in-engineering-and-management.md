@@ -1,10 +1,10 @@
 ---
-title: "3.1.71 Master of Science in Engineering and Management"
+title: "3.2.71 Master of Science in Engineering and Management"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Engineering and Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.71 Master of Science in Engineering and Management
+# 3.2.71 Master of Science in Engineering and Management
 
 ## Glossary
 

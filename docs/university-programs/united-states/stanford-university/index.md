@@ -1,10 +1,10 @@
 ---
-title: "3.2 Stanford University"
+title: "3.3 Stanford University"
 description: "University Programs > United States > Stanford University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2 Stanford University
+# 3.3 Stanford University
 
 ## Glossary
 

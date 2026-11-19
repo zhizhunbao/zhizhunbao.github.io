@@ -1,10 +1,10 @@
 ---
-title: "3.1.16 Chemistry and Biology (Course 5-7)"
+title: "3.2.16 Chemistry and Biology (Course 5-7)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Chemistry and Biology (Course 5-7): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.16 Chemistry and Biology (Course 5-7)
+# 3.2.16 Chemistry and Biology (Course 5-7)
 
 ## Glossary
 

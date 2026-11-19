@@ -1,10 +1,10 @@
 ---
-title: "3.1.109 Doctor of Philosophy in Mathematics"
+title: "3.2.109 Doctor of Philosophy in Mathematics"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Mathematics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.109 Doctor of Philosophy in Mathematics
+# 3.2.109 Doctor of Philosophy in Mathematics
 
 ## Glossary
 

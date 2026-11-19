@@ -1,10 +1,10 @@
 ---
-title: "3.1.85 Aerospace, Energy, and the Environment (PhD, ScD)"
+title: "3.2.85 Aerospace, Energy, and the Environment (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Aerospace, Energy, and the Environment (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.85 Aerospace, Energy, and the Environment (PhD, ScD)
+# 3.2.85 Aerospace, Energy, and the Environment (PhD, ScD)
 
 ## Glossary
 

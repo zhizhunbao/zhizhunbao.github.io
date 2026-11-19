@@ -1,10 +1,10 @@
 ---
-title: "3.1.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)"
+title: "3.2.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)
+# 3.2.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)
 
 ## Glossary
 

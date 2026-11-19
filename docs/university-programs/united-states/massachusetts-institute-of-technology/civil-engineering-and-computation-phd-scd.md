@@ -1,10 +1,10 @@
 ---
-title: "3.1.94 Civil Engineering and Computation (PhD, ScD)"
+title: "3.2.94 Civil Engineering and Computation (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Civil Engineering and Computation (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.94 Civil Engineering and Computation (PhD, ScD)
+# 3.2.94 Civil Engineering and Computation (PhD, ScD)
 
 ## Glossary
 

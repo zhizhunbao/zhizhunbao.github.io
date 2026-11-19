@@ -1,10 +1,10 @@
 ---
-title: "3.2.153 Biophysics, Doctor of Philosophy"
+title: "3.3.153 Biophysics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Biophysics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.153 Biophysics, Doctor of Philosophy
+# 3.3.153 Biophysics, Doctor of Philosophy
 
 ## Glossary
 

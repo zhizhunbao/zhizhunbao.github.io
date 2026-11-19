@@ -1,10 +1,10 @@
 ---
-title: "3.2.140 Stem Cell Biology and Regenerative Medicine, Master of Science"
+title: "3.3.140 Stem Cell Biology and Regenerative Medicine, Master of Science"
 description: "University Programs > United States > Stanford University > Stem Cell Biology and Regenerative Medicine, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.140 Stem Cell Biology and Regenerative Medicine, Master of Science
+# 3.3.140 Stem Cell Biology and Regenerative Medicine, Master of Science
 
 ## Glossary
 

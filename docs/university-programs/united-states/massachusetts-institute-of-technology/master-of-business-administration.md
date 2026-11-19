@@ -1,10 +1,10 @@
 ---
-title: "3.1.64 Master of Business Administration"
+title: "3.2.64 Master of Business Administration"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Business Administration: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.64 Master of Business Administration
+# 3.2.64 Master of Business Administration
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.1.57 Computation and Cognition (Course 6-9P)"
+title: "3.2.57 Computation and Cognition (Course 6-9P)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computation and Cognition (Course 6-9P): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.57 Computation and Cognition (Course 6-9P)
+# 3.2.57 Computation and Cognition (Course 6-9P)
 
 ## Glossary
 

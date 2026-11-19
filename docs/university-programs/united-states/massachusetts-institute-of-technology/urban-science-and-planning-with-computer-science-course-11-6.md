@@ -1,10 +1,10 @@
 ---
-title: "3.1.54 Urban Science and Planning with Computer Science (Course 11-6)"
+title: "3.2.54 Urban Science and Planning with Computer Science (Course 11-6)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Urban Science and Planning with Computer Science (Course 11-6): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.54 Urban Science and Planning with Computer Science (Course 11-6)
+# 3.2.54 Urban Science and Planning with Computer Science (Course 11-6)
 
 ## Glossary
 

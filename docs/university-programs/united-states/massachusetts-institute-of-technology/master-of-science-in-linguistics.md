@@ -1,10 +1,10 @@
 ---
-title: "3.1.72 Master of Science in Linguistics"
+title: "3.2.72 Master of Science in Linguistics"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Linguistics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.72 Master of Science in Linguistics
+# 3.2.72 Master of Science in Linguistics
 
 ## Glossary
 

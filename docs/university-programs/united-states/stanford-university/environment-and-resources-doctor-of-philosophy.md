@@ -1,10 +1,10 @@
 ---
-title: "3.2.174 Environment and Resources, Doctor of Philosophy"
+title: "3.3.174 Environment and Resources, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Environment and Resources, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.174 Environment and Resources, Doctor of Philosophy
+# 3.3.174 Environment and Resources, Doctor of Philosophy
 
 ## Glossary
 

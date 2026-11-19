@@ -1,10 +1,10 @@
 ---
-title: "3.1.134 Political Science and Statistics (PhD)"
+title: "3.2.134 Political Science and Statistics (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Political Science and Statistics (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.134 Political Science and Statistics (PhD)
+# 3.2.134 Political Science and Statistics (PhD)
 
 ## Glossary
 

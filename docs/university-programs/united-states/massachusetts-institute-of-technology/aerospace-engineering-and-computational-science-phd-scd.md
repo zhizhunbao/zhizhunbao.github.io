@@ -1,10 +1,10 @@
 ---
-title: "3.1.84 Aerospace Engineering and Computational Science (PhD, ScD)"
+title: "3.2.84 Aerospace Engineering and Computational Science (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Aerospace Engineering and Computational Science (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.84 Aerospace Engineering and Computational Science (PhD, ScD)
+# 3.2.84 Aerospace Engineering and Computational Science (PhD, ScD)
 
 ## Glossary
 

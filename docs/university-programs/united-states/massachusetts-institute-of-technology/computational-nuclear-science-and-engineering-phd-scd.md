@@ -1,10 +1,10 @@
 ---
-title: "3.1.101 Computational Nuclear Science and Engineering (PhD, ScD)"
+title: "3.2.101 Computational Nuclear Science and Engineering (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computational Nuclear Science and Engineering (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.101 Computational Nuclear Science and Engineering (PhD, ScD)
+# 3.2.101 Computational Nuclear Science and Engineering (PhD, ScD)
 
 ## Glossary
 
