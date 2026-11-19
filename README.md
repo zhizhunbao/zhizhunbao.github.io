@@ -20,6 +20,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 - The preview builds into `_site` at the repo root (ignored by git), outside `docs/`: built into `docs/_site` a full build took 390 s instead of about 55 s (measured 2026-10-25).
 - The script writes `docs/docfx.build.json` (ignored by git): `docfx.json` plus each page's last commit time, shown as "Last updated on MM/DD/YYYY HH:MM:SS". Building `docs/docfx.json` directly still works, with the date from `ms.date` only. GitHub Actions does the same two steps.
 - Publish: push to `main`; `.github/workflows/docfx.yml` builds and deploys.
+- Search index (since 2026-11-19): DocFX writes every page's full text into one `index.json`, which reached 110 MB (86% from College and University Programs) and GitHub refused the gh-pages push (100 MB file limit), so no build published from 17:10 that day. After each whole-site build, `templates/kb/split_index.py` (in the workflow and in `watch.py`) splits it unchanged into `index-1.json`, `index-2.json` ... of at most 40 MB, and `index.json` becomes their list, which `kb.js` reads before loading every part. Nothing is shortened or deduplicated (user's decision: repeated words are useful too), so search finds the same pages as before.
 
 ## Look and scripts
 

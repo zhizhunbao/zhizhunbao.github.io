@@ -380,6 +380,15 @@ function outline() {
 }
 
 // ---------- search (DocFX index.json) ----------
+// Since 2026-11-19 split_index.py splits the index into parts under GitHub's 100 MB file limit and index.json lists
+// them ({"parts": ["index-1.json", ...]}); an unsplit index.json (a preview before its first split) is read as it is.
+async function loadIndex() {
+  const top = await load(new URL('index.json', rel)) || {}
+  if (!Array.isArray(top.parts)) return Object.values(top)
+  const parts = await Promise.all(top.parts.map((p) => load(new URL(p, rel))))
+  return parts.flatMap((p) => Object.values(p || {}))
+}
+
 function search() {
   const input = document.getElementById('kb-search-input')
   const list = document.getElementById('kb-search-results')
@@ -387,7 +396,7 @@ function search() {
   const run = async () => {
     const q = input.value.trim().toLowerCase()
     if (!q) { list.hidden = true; return }
-    index ||= Object.values(await load(new URL('index.json', rel)) || {})
+    index ||= await loadIndex()
     const words = q.split(/\s+/)
     const hits = index
       .map((d) => {

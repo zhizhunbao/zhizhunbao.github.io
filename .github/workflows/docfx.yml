@@ -28,6 +28,8 @@ jobs:
       - run: dotnet tool update -g docfx
       - run: python3 docs/templates/kb/git_times.py
       - run: docfx docs/docfx.build.json
+      # 2026-11-19: the search index reached 110 MB and GitHub refused the push; split it into parts under 100 MB
+      - run: python3 docs/templates/kb/split_index.py docs/_site
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

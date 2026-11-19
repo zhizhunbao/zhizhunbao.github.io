@@ -108,6 +108,8 @@ def build():
     start = time.time()
     run_git_times()
     report("whole site", start, run_docfx(BUILD_CONFIG, SITE))
+    # the search index in parts, as GitHub Actions publishes it (split_index.py)
+    subprocess.run([sys.executable, str(Path(__file__).with_name("split_index.py")), str(SITE)])
     (SITE / "kb-build.txt").write_text(str(time.time()), encoding="utf-8")
 
 
