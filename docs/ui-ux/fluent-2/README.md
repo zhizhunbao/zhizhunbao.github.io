@@ -133,3 +133,51 @@ Left out (no terms): Get started (What's new is release notes; Design and Develo
 - 8.3 Button: Extended FABs keep the primary action apparent
 - 8.3 Button: Menu FABs offer distinct but related options under one category, like adding
 - 8.3 Button: When the menu is open, people can take the specific action they need
+
+## 9. Fluent UI React v9
+
+Added 2026-11-19 as a skeleton (pages, menu and Glossary rows; definitions pending, no figures), user's decision the same day: one entry for both sites, since the design site has no table, no date picker and no tokens other than color, and its React component pages link to this documentation (49 cached design-site pages link react.fluentui.dev). Asked for by the job-board project, whose screens follow the Fluent 2 pages of this entry.
+
+- Source: Fluent UI React v9 (Microsoft), a Storybook site; react.fluentui.dev redirects to <https://storybooks.fluentui.dev/react/>. Readers' links are `?path=/docs/<id>`; the cache holds the `iframe.html?viewMode=docs&id=<id>` pages, where the text is rendered (`urls_kb_fluent_gaps_20261119.txt`, its sidebar list `cache/fluentui-react-v9-storybook-index.json`).
+- License: the microsoft/fluentui repository is MIT, which covers "associated documentation files", so rows are quoted word for word.
+- Levels and numbers: its sidebar groups and pages, numbered by their place in the whole sidebar (the order set by `apps/public-docsite-v9/.storybook/preview.js`: Concepts, Theme, Components, Compat Components, Preview Components, Motion, Utilities; Theme in its listed order; the rest alphabetical), so only the pages asked for are here and the numbers have gaps.
+- Left out: 9.1 Concepts and 9.5 Preview Components (nothing asked for; Preview Components/Calendar is a preview that may change), 9.2.2 Colors (the same tokens as 5.1 Color Tokens), 9.2.8 Theme Designer (a tool), 9.4.3 TimePicker (not asked for yet), and Motion's other pages.
+- Not used: the Fluent UI Web Components documentation on Microsoft Learn (another library, not React) and the APG Table, Grid and date picker examples (accessibility, not the Fluent look; their APG pages stay under APG).
+- Cached quirks: each page's Markdown opens with Storybook's hidden "No Preview" template, the text starts at `# <name>`; the Calendar text prints "It�s" (U+FFFD on the live page).
+
+Definitions of the first two levels filled on 2026-11-19 (each quote checked by script against the cached Markdown, backticks and `**` ignored): 9. Fluent UI React v9 quotes Concepts/Introduction, Overview (the page names the library "Fluent UI React Components"); 9.2 Theme quotes Concepts/Developer/Theming; 9.4 Compat Components quotes the "Compat" item of Concepts/Package Maturity Levels (a list fragment); 9.6 Motion quotes Motion/Introduction, "What is Fluent Motion?"; 9.3 Components is (No definition) (the sidebar group has no sentence; the Fluent 2 sentence of group 6 belongs to the other site). The Storybook pages render inside an iframe, so their source links carry no text fragment; the citation names the section instead. Those four pages: `urls_kb_fluent_v9_groups_20261119.txt`.
+
+| Page | Source page | Opening sentence | Read |
+|---|---|---|---|
+| 9. Fluent UI React v9 | Concepts/Introduction | yes (Overview) | yes (2026-11-19) |
+| 9.2 Theme | sidebar group; Concepts/Developer/Theming | yes | yes (2026-11-19) |
+| 9.3 Components | sidebar group | none | yes (2026-11-19) |
+| 9.4 Compat Components | sidebar group; Concepts/Package Maturity Levels | list item "Compat" | yes (2026-11-19) |
+| 9.6 Motion | sidebar group; Motion/Introduction | yes | yes (2026-11-19) |
+| 9.2.1 Border Radii | Theme/Border Radii | none (token table) | yes (2026-11-19) |
+| 9.2.3 Fonts | Theme/Fonts | none (token tables) | yes (2026-11-19) |
+| 9.2.4 Shadows | Theme/Shadows (H1 "Shadow") | none (token tables) | yes (2026-11-19) |
+| 9.2.5 Spacing | Theme/Spacing | none (token tables) | yes (2026-11-19) |
+| 9.2.6 Stroke Widths | Theme/Stroke Widths | none (token table) | yes (2026-11-19) |
+| 9.2.7 Typography | Theme/Typography | yes | yes (2026-11-19) |
+| 9.3.12 DataGrid | Components/DataGrid | yes (the note at the top) | yes (2026-11-19) |
+| 9.3.44 Table | Components/Table | yes | yes (2026-11-19) |
+| 9.4.1 Calendar | Compat Components/Calendar | yes | yes (2026-11-19) |
+| 9.4.2 DatePicker | Compat Components/DatePicker | yes | yes (2026-11-19) |
+| 9.6.6 Motion Tokens | Motion/Tokens (H1 "Motion tokens") | yes | yes (2026-11-19) |
+
+The 11 pages were read and filled on 2026-11-19, 195 rows in all (each quote checked by script against the cached Markdown; 0 unverified). How the terms were chosen:
+
+- Page row: the page's first sentence that says what the subject is (DataGrid: the note at the top of its page; Calendar: only the first sentence, since the second prints "It�s").
+- Story and section headings that name a feature and have a sentence of their own are rows, quoting that sentence; where it only says how to switch the feature on (a prop to set) rather than what it is, the row is marked (context).
+- Token pages have no sentences: the page row and every token are (No definition); each token is a row in the page's order, after its section (Fonts: Font family, Font size, Font weight, Line height; Spacing: Vertical, Horizontal; Motion Tokens: Curves and Durations, which do have a sentence). Token Chinese names are this site's own, built from the token's parts (spacingHorizontalM: 水平间距（M）).
+- Calendar's three views (month, year, decade) are rows quoting the fragment that names them, since the full sentence holds the broken character.
+
+Named words left out (suggested, not added):
+
+- Table: Size Small and Size Extra Small (demos with no sentence); Focusable Elements In Cells (a keyboard guideline); the Controlled variants (Sort Controlled, Multiple Select Controlled, Single Select Controlled) and the Resizable Columns variants (controlled, Disabled container auto-fit), which repeat a term already rowed; Selection With Cell Actions and Memoization (how-to advice); the hook and component names in sentences (useTableSort, useTableSelection, TableHeader, TableCell, TableRow, TableSelectionCell, TableHeaderCell); Slots (the "Customizing components with slots" box on every component page, defined on Concepts/Developer/Customizing Components with Slots).
+- DataGrid: Composite Navigation (no sentence on this page; rowed on Table), Focusable Elements In Cells (guideline), the Controlled variants, Resizable Columns - Disabled container auto-fit (a variant); the focusMode values group and none.
+- DatePicker: the Do and Don't lists (guidelines).
+- Calendar: Selection with negative date range (no sentence); Calendar Custom Day Cell Ref (its sentence repeats the one of Calendar Non Contiguous Work Week Days, a slip of the source); the Layout and Content best practices (guidelines).
+- Shadows: the Light, Dark and High Contrast columns (theme names, not tokens).
+- Typography: How to use, Composing Tokens, Mixing tokens and custom styles (how-to); typographyStyles.

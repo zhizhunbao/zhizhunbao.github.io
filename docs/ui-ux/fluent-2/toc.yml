@@ -193,3 +193,40 @@ items:
     href: components-android/8-4-progress-indicator.md
   - name: "8.5 Shimmer"
     href: components-android/8-5-shimmer.md
+- name: "9. Fluent UI React v9"
+  href: fluent-ui-react-v9/index.md
+  items:
+  - name: "9.2 Theme"
+    href: fluent-ui-react-v9/theme/index.md
+    items:
+    - name: "9.2.1 Border Radii"
+      href: fluent-ui-react-v9/theme/9-2-1-border-radii.md
+    - name: "9.2.3 Fonts"
+      href: fluent-ui-react-v9/theme/9-2-3-fonts.md
+    - name: "9.2.4 Shadows"
+      href: fluent-ui-react-v9/theme/9-2-4-shadows.md
+    - name: "9.2.5 Spacing"
+      href: fluent-ui-react-v9/theme/9-2-5-spacing.md
+    - name: "9.2.6 Stroke Widths"
+      href: fluent-ui-react-v9/theme/9-2-6-stroke-widths.md
+    - name: "9.2.7 Typography"
+      href: fluent-ui-react-v9/theme/9-2-7-typography.md
+  - name: "9.3 Components"
+    href: fluent-ui-react-v9/components/index.md
+    items:
+    - name: "9.3.12 DataGrid"
+      href: fluent-ui-react-v9/components/9-3-12-datagrid.md
+    - name: "9.3.44 Table"
+      href: fluent-ui-react-v9/components/9-3-44-table.md
+  - name: "9.4 Compat Components"
+    href: fluent-ui-react-v9/compat-components/index.md
+    items:
+    - name: "9.4.1 Calendar"
+      href: fluent-ui-react-v9/compat-components/9-4-1-calendar.md
+    - name: "9.4.2 DatePicker"
+      href: fluent-ui-react-v9/compat-components/9-4-2-datepicker.md
+  - name: "9.6 Motion"
+    href: fluent-ui-react-v9/motion/index.md
+    items:
+    - name: "9.6.6 Motion Tokens"
+      href: fluent-ui-react-v9/motion/9-6-6-motion-tokens.md
