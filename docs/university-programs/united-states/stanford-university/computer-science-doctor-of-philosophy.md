@@ -1,10 +1,10 @@
 ---
-title: "3.3.164 Computer Science, Doctor of Philosophy"
+title: "4.3.164 Computer Science, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Computer Science, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.164 Computer Science, Doctor of Philosophy
+# 4.3.164 Computer Science, Doctor of Philosophy
 
 ## Glossary
 
@@ -14,11 +14,11 @@ ms.date: 2026-11-18
 | **Departmental Lecture Series**<br>系列讲座 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Advanced Reading and Research**<br>高级阅读与研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Operating Systems Principles**<br>操作系统原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Statistical Mechanics of Learning and Computation**<br>学习与计算的统计力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Computational Logic**<br>计算逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Advanced Data Structures**<br>高级数据结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **The Modern Algorithmic Toolbox**<br>现代算法工具箱 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
@@ -28,9 +28,9 @@ ms.date: 2026-11-18
 | **Algebraic Error Correcting Codes**<br>代数纠错码 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Computational Complexity**<br>计算复杂性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Computational Complexity II**<br>计算复杂性 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Algorithmic Fairness**<br>算法公平性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Automated Reasoning**<br>自动推理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Automated Reasoning**<br>自动推理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Quantum Cryptography**<br>量子密码学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Quantum Computing**<br>量子计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
@@ -49,9 +49,9 @@ ms.date: 2026-11-18
 | **Convex Optimization II**<br>凸优化 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Information Theory and Statistics**<br>信息论与统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Metalogic**<br>元逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Deep Reinforcement Learning**<br>深度强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Spoken Language Processing**<br>口语语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
@@ -76,7 +76,7 @@ ms.date: 2026-11-18
 | **Computer Graphics: Rendering, Geometry, and Image Manipulation**<br>计算机图形学：渲染、几何与图像处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Fundamentals of Computer Graphics: Animation and Simulation**<br>计算机图形学基础：动画与仿真 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Algorithmic Foundations for Artificial Intelligence in Healthcare**<br>医疗领域人工智能的算法基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Deep Learning in Genomics and Biomedicine**<br>基因组学与生物医学中的深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Foundation Models for Healthcare**<br>面向医疗健康的基础模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
@@ -104,8 +104,8 @@ ms.date: 2026-11-18
 | **Operating systems kernel implementation project**<br>操作系统内核实现项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Operating systems design and implementation**<br>操作系统设计与实现 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Compilers**<br>编译器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Computer Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Computer Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Parallel Computing**<br>并行计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Computer and Network Security**<br>计算机与网络安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Operating Systems and Systems Programming**<br>操作系统与系统编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
@@ -136,8 +136,8 @@ ms.date: 2026-11-18
 | **Media, Technology, and the Body**<br>媒体、技术与身体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Language and Technology**<br>语言与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Data: Algorithms, Tools, Policy, and Society**<br>数据：算法、工具、政策与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Trust and Safety**<br>信任与安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Computers, Ethics, and Public Policy**<br>计算机、伦理与公共政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Ethics, Public Policy, and Technological Change**<br>伦理、公共政策与技术变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
@@ -169,7 +169,7 @@ ms.date: 2026-11-18
 | **Music and AI**<br>音乐与人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **The Design of Data**<br>数据的设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Innovating for Climate and Sustainability**<br>为气候与可持续性创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
-| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 导论：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
+| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 入门：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Knowledge in the Age of AI: New Epistemic Issues in Education**<br>人工智能时代的知识：教育中的新认识论问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment**<br>科学、医学、技术与环境中性别化创新的新方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |
 | **Data: Privacy, Property and Security**<br>数据：隐私、财产与安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/doctor-of-philosophy) |

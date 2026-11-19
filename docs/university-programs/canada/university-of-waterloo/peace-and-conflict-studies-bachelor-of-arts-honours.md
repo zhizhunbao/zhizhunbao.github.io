@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Borders, Boundaries, and Crossings**<br>边界、界限与跨越 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Combating Racisms**<br>反对种族主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Taking B(l)ack History**<br>夺回黑人历史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
-| **Introduction to Anti-Racist Communication**<br>反种族主义传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
+| **Introduction to Anti-Racist Communication**<br>反种族主义传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **The Indigenous Experience in Canada**<br>加拿大的原住民经历 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **History of Ancient Law**<br>古代法律史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Classics in Political Thought**<br>政治思想经典 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
@@ -55,7 +55,7 @@ ms.date: 2026-11-11
 | **Food Systems and Sustainability**<br>食物系统与可持续性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Global Environmental Governance**<br>全球环境治理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Global Food and Agricultural Politics**<br>全球粮食与农业政治 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
-| **Introduction to Canadian Environmental Law**<br>加拿大环境法导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
+| **Introduction to Canadian Environmental Law**<br>加拿大环境法入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Canadian Law, Indigenous Peoples, and Natural Resource Development**<br>加拿大法律、原住民与自然资源开发 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Economy and Development: Spaces of Global Transformation**<br>经济与发展：全球转型的空间 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Climate Change Fundamentals**<br>气候变化基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
@@ -72,7 +72,7 @@ ms.date: 2026-11-11
 | **Racism and Response in Canadian History**<br>加拿大历史中的种族主义与回应 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **The Holocaust in History**<br>历史中的大屠杀 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Canada in World War 2**<br>第2次世界大战中的加拿大 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
-| **Introduction to the Modern Middle East**<br>现代中东导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
+| **Introduction to the Modern Middle East**<br>现代中东入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Law and Society in the Middle Ages**<br>中世纪的法律与社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **History of Modern China, 1911 to the Present**<br>1911年至今的现代中国史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Mennonite History: A Survey**<br>门诺派历史概览 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
@@ -107,13 +107,13 @@ ms.date: 2026-11-11
 | **Probability and Decision Making**<br>概率与决策 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Social and Political Philosophy**<br>社会与政治哲学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Studies in Political Philosophy**<br>政治哲学研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
-| **Introduction to Global Politics**<br>全球政治导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
+| **Introduction to Global Politics**<br>全球政治入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Modern Political Thought**<br>现代政治思想 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Comparative Politics: Democracy and Authoritarianism**<br>比较政治学：民主与威权主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Global South**<br>全球南方 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Religion and Politics**<br>宗教与政治 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
-| **Introduction to Middle East Politics**<br>中东政治导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
+| **Introduction to Middle East Politics**<br>中东政治入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Foreign Policy**<br>外交政策 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Canada in Global Context**<br>全球语境中的加拿大 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Globalization**<br>全球化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
@@ -154,7 +154,7 @@ ms.date: 2026-11-11
 | **Restorative Approaches to Education**<br>教育的恢复性方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Prejudice and Discrimination**<br>偏见与歧视 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **The Dark Side of Sex and Sexualities**<br>性与性取向的阴暗面 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
-| **Introduction to Systemic Therapies and Anti-Oppressive Practices**<br>系统式治疗与反压迫实践导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
+| **Introduction to Systemic Therapies and Anti-Oppressive Practices**<br>系统式治疗与反压迫实践入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Conflict in Close Relationships**<br>亲密关系中的冲突 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Sexual and Relational Ethics**<br>性与关系伦理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |
 | **Social Problems**<br>社会问题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJWn-chWa) |

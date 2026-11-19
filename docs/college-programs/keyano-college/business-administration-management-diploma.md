@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/business-administration-management-diploma/) |
 | **Introductory Financial Accounting I**<br>财务会计入门 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/business-administration-management-diploma/) |
 | **Management**<br>管理学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/business-administration-management-diploma/) |
-| **Introduction to Human Resources Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/business-administration-management-diploma/) |
+| **Introduction to Human Resources Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/business-administration-management-diploma/) |
 | **Statistics I**<br>统计学 1 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/business-administration-management-diploma/) |
 | **Business Communications II**<br>商务沟通 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/business-administration-management-diploma/) |
 | **Introductory Financial Accounting II**<br>财务会计入门 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/business-administration-management-diploma/) |

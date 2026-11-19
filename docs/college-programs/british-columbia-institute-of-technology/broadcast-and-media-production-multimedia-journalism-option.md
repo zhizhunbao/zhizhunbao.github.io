@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Broadcast and Media Production (Multimedia Journalism Option)**<br>广播与媒体制作（多媒体新闻方向） | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/broadcast-and-media-production-multimedia-journalism-option-diploma-full-time-615adipma/) |
-| **Introduction to News Reporting**<br>新闻采写导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/broadcast-and-media-production-multimedia-journalism-option-diploma-full-time-615adipma/) |
+| **Introduction to News Reporting**<br>新闻采写入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/broadcast-and-media-production-multimedia-journalism-option-diploma-full-time-615adipma/) |
 | **Visual Fundamentals for Journalists**<br>新闻记者视觉基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/broadcast-and-media-production-multimedia-journalism-option-diploma-full-time-615adipma/) |
 | **Videography**<br>摄像 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/broadcast-and-media-production-multimedia-journalism-option-diploma-full-time-615adipma/) |
 | **Video Editing**<br>视频剪辑 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/broadcast-and-media-production-multimedia-journalism-option-diploma-full-time-615adipma/) |

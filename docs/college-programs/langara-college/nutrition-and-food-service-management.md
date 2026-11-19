@@ -18,15 +18,15 @@ ms.date: 2026-11-08
 | **Food Production - Standards of Quality II and Recipe Development**<br>食品生产：质量标准 II 与食谱开发 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Nutrition I**<br>营养学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Nutrition II**<br>营养学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
-| **Concepts in Biology: Introduction to Human Biology**<br>生物学概念：人体生物学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
+| **Concepts in Biology: Introduction to Human Biology**<br>生物学概念：人体生物学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **General Biology I**<br>普通生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
-| **Introduction to Human Biology**<br>人体生物学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
+| **Introduction to Human Biology**<br>人体生物学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Health Science I - Human Anatomy and Physiology I**<br>健康科学 I：人体解剖与生理学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
-| **Introduction to Business in Canada**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
+| **Introduction to Business in Canada**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Food Service Management Practicum**<br>餐饮服务管理实习 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Financial Management of Foodservice Operations**<br>餐饮服务运营财务管理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Quality Food Production**<br>优质食品生产 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
@@ -40,8 +40,8 @@ ms.date: 2026-11-08
 | **Business Presentation Skills**<br>商务演示技能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 | **Advanced Written Communications**<br>高级书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
-| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
-| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
+| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
+| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-diploma-we/courses) |
 
 ## Courses
 

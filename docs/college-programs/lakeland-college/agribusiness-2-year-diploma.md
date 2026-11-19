@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Agribusiness Accounting I**<br>农业企业会计 I | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Agribusiness Accounting II**<br>农业企业会计 II | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
-| **Introduction to Agribusiness**<br>农业综合企业导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
+| **Introduction to Agribusiness**<br>农业综合企业入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Applied Technology in Agribusiness**<br>农业企业应用技术 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Agribusiness Simulation**<br>农业企业模拟 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Strategic Marketing**<br>战略营销 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Digital and Graphic Design**<br>数字与平面设计 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Grain, Oilseeds and Pulse Crop Marketing**<br>谷物、油籽和豆类作物营销 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
-| **Introduction to Livestock Nutrition**<br>家畜营养导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
+| **Introduction to Livestock Nutrition**<br>家畜营养入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Beef Production**<br>肉牛生产 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Dairy Cattle Production**<br>奶牛生产 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |
 | **Weed and Herbicide Management**<br>杂草与除草剂管理 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/agribusiness/index.html) |

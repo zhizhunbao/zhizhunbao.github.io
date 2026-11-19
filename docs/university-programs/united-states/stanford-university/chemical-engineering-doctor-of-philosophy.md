@@ -1,10 +1,10 @@
 ---
-title: "3.3.157 Chemical Engineering, Doctor of Philosophy"
+title: "4.3.157 Chemical Engineering, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Chemical Engineering, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.157 Chemical Engineering, Doctor of Philosophy
+# 4.3.157 Chemical Engineering, Doctor of Philosophy
 
 ## Glossary
 
@@ -33,7 +33,7 @@ ms.date: 2026-11-18
 | **Polymer Chemistry**<br>高分子化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemical-engineering/doctor-of-philosophy) |
 | **Polymer Physics**<br>高分子物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemical-engineering/doctor-of-philosophy) |
 | **A Synthetic Menagerie: Why and How We Emulate Nature and Tinker with Animals**<br>合成动物园：我们为何以及如何模仿自然、改造动物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemical-engineering/doctor-of-philosophy) |
-| **Introduction to Nonequilibrium Statistical Mechanics**<br>非平衡统计力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemical-engineering/doctor-of-philosophy) |
+| **Introduction to Nonequilibrium Statistical Mechanics**<br>非平衡统计力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemical-engineering/doctor-of-philosophy) |
 | **Solid Structure and Properties of Polymers**<br>聚合物的固体结构与性能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemical-engineering/doctor-of-philosophy) |
 | **Mechanics of Soft Matter: Rheology**<br>软物质力学：流变学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemical-engineering/doctor-of-philosophy) |
 | **Electrochemical Water Treatment: Materials and Processes**<br>电化学水处理：材料与过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemical-engineering/doctor-of-philosophy) |

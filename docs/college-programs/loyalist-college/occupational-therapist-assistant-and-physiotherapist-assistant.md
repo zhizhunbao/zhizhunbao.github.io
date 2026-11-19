@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Anatomy & Physiology 1**<br>解剖学与生理学 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/occupational-therapist-assistant-and-physiotherapist-assistant/) |
 | **Basic Concepts in Physiotherapy & Occupational Therapy**<br>物理治疗与职业治疗基本概念 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/occupational-therapist-assistant-and-physiotherapist-assistant/) |
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/occupational-therapist-assistant-and-physiotherapist-assistant/) |
-| **Introduction to Clinical Practice**<br>临床实践导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/occupational-therapist-assistant-and-physiotherapist-assistant/) |
+| **Introduction to Clinical Practice**<br>临床实践入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/occupational-therapist-assistant-and-physiotherapist-assistant/) |
 | **Lifespan Development**<br>毕生发展 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/occupational-therapist-assistant-and-physiotherapist-assistant/) |
 | **Professional Development**<br>职业发展 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/occupational-therapist-assistant-and-physiotherapist-assistant/) |
 | **Therapeutic Communicaton**<br>治疗性沟通 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/occupational-therapist-assistant-and-physiotherapist-assistant/) |

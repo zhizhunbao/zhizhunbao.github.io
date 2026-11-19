@@ -1,17 +1,17 @@
 ---
-title: "3.1.43 Sociology (B.A.)"
+title: "4.1.43 Sociology (B.A.)"
 description: "University Programs > United States > Harvard University > Sociology (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.43 Sociology (B.A.)
+# 4.1.43 Sociology (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sociology (B.A.)**<br>社会学（文学学士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Social Inequality**<br>社会不平等 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Political Sociology**<br>政治社会学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Life and Death by Design (not offered 2024-2025)**<br>设计中的生与死（2024-2025学年不开设） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |

@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Cooperative Education and Job Readiness**<br>合作教育与就业准备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519C03FWO.pdf) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519C03FWO.pdf) |
 | **Physics I-II**<br>物理学 I-II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519C03FWO.pdf) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519C03FWO.pdf) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519C03FWO.pdf) |
 | **Principles of Design**<br>设计原理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519C03FWO.pdf) |
 | **Mechatronics**<br>机电一体化 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519C03FWO.pdf) |
 | **Industrial Robot Cells**<br>工业机器人工作站 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519C03FWO.pdf) |

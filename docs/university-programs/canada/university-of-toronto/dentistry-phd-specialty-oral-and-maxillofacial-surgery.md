@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **Dentistry PhD; Specialty: Oral and Maxillofacial Surgery**<br>牙医学（PhD）；专科：口腔与颌面外科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Cone Beam CT Imaging**<br>锥形束CT成像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Research Ethics**<br>研究伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Biostatistics**<br>生物统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Research Methods & Dissemination**<br>研究方法与成果传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Biostatistics**<br>生物统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Research Methods & Dissemination**<br>研究方法与成果传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Graduate Research Dissemination Seminars**<br>研究生研究成果传播研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Oral Pathology**<br>口腔病理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Artificial Intelligence in Dentistry**<br>牙科中的人工智能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
@@ -24,9 +24,9 @@ ms.date: 2026-11-11
 | **Surgical Orthodontics I**<br>外科正畸学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Head and Neck Anatomy**<br>头颈部解剖学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Bates' Guide to Physical Examination**<br>贝茨体格检查指南 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Oral and Maxillofacial Surgery 1**<br>口腔颌面外科导论 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Oral and Maxillofacial Surgery 1**<br>口腔颌面外科入门 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Clinical Conferences**<br>临床研讨会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Oral and Maxillofacial Surgery 2**<br>口腔颌面外科导论 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Oral and Maxillofacial Surgery 2**<br>口腔颌面外科入门 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Advanced Oral Surgical Pathology I**<br>高级口腔外科病理学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Surgical Orthodontics II**<br>外科正畸学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Oral and Maxillofacial Surgery 4: Applied Surgical Anatomy of the Head and Neck**<br>口腔颌面外科学 4：头颈部应用外科解剖学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |

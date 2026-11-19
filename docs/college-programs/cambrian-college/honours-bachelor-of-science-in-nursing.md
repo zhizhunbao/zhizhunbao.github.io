@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Clinical Readiness and Preparedness**<br>临床就绪与准备 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/honours-bachelor-of-science-in-nursing) |
 | **Microbiology and Immunology**<br>微生物学与免疫学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/honours-bachelor-of-science-in-nursing) |
 | **Anatomy and Physiology I**<br>解剖学与生理学 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/honours-bachelor-of-science-in-nursing) |
-| **Introduction to Scholarly Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/honours-bachelor-of-science-in-nursing) |
+| **Introduction to Scholarly Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/honours-bachelor-of-science-in-nursing) |
 | **One Degree Breadth Elective Course.**<br>一门学位广度选修课 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/honours-bachelor-of-science-in-nursing) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/honours-bachelor-of-science-in-nursing) |
 | **Relational Practice**<br>关系性实践 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/honours-bachelor-of-science-in-nursing) |

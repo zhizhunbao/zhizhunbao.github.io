@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Web and Graphic Design Diploma**<br>网页与平面设计文凭 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
-| **Intro to Digital Arts & Media**<br>数字艺术与媒体导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
+| **Intro to Digital Arts & Media**<br>数字艺术与媒体入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Cont Strat for Online Writing**<br>网络写作内容策略 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
-| **Intro to Design Thinking**<br>设计思维导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
-| **Intro to Visual Communication**<br>视觉传达导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
-| **Introduction to Web Design**<br>网页设计导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
+| **Intro to Design Thinking**<br>设计思维入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
+| **Intro to Visual Communication**<br>视觉传达入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
+| **Introduction to Web Design**<br>网页设计入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Intermediate Web Design**<br>中级网页设计 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **The Basics of Typography**<br>字体排印基础 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Graphic Design Fundamentals**<br>平面设计基础 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Applied Skills Lab 1**<br>应用技能实验室 1 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Applied Skills Lab II**<br>应用技能实验室 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
-| **Intro to Bus for Creatives**<br>创意人士商业导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
+| **Intro to Bus for Creatives**<br>创意人士商业入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Print Production Fundamentals**<br>印刷制作基础 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Professional Internship**<br>专业实习 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Visual Showcase**<br>视觉展示 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Drawing the Story**<br>绘制故事 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **3D Design & Rapid Prototyping**<br>3D设计与快速成型 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
-| **Intro Interactive Digital Med**<br>互动数字媒体导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
+| **Intro Interactive Digital Med**<br>互动数字媒体入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Inter Dig Med Production**<br>中级数字媒体制作 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Adv. Web Design Concepts**<br>高级网页设计概念 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |
 | **Digital Media Showcase**<br>数字媒体展示 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-diploma) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Paralegal**<br>律师助理 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Foundations of Legal Analysis**<br>法律分析基础 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
-| **Introduction to the Legal System**<br>法律体系导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
+| **Introduction to the Legal System**<br>法律体系入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Legal Communications**<br>法律沟通 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Legal Computer Applications**<br>法律计算机应用 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Legal Research & Writing 1**<br>法律研究与写作 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Alternative Dispute Resolution**<br>替代性纠纷解决 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Building Links 2**<br>建立联系 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Court & Tribunal Observation**<br>法庭与审裁处观摩 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
-| **Introduction to Administrative Law**<br>行政法导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
+| **Introduction to Administrative Law**<br>行政法入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Legal Accounting**<br>法律会计 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Paralegal Elective Placeholder 1**<br>律师助理选修课占位 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |
 | **Paralegal Elective Placeholder 2**<br>律师助理选修课占位 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/paralegal/) |

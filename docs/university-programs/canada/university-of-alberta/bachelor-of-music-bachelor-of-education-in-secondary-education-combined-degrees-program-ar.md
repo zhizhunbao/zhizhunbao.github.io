@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Choral Ensemble**<br>合唱团 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Instrumental Ensemble**<br>器乐合奏 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Orientation Field Experience**<br>定向实地经历 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
-| **Introduction to Music Technologies**<br>音乐技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
+| **Introduction to Music Technologies**<br>音乐技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Aural and Keyboard Skills II**<br>听觉与键盘技能 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Music Theory III**<br>音乐理论 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Music Theory IV**<br>音乐理论 IV | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
@@ -30,21 +30,21 @@ ms.date: 2026-11-11
 | **Brass Techniques**<br>铜管乐器技巧 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Percussion Techniques**<br>打击乐技巧 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Western Art Music, Ancient-1800**<br>西方艺术音乐：远古至 1800 年 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
-| **Introduction to Conducting**<br>指挥导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
+| **Introduction to Conducting**<br>指挥入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Western Art Music, 1800-Present**<br>西方艺术音乐：1800 年至今 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Instrumental Conducting**<br>器乐指挥 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Choral Conducting and Pedagogy**<br>合唱指挥与教学法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Ethics and Law in Teaching**<br>教学中的伦理与法律 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
-| **Introduction to Inclusive Education: Adapting Classroom Instruction for Students with Special Needs**<br>全纳教育导论：为有特殊需要的学生调整课堂教学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
+| **Introduction to Inclusive Education: Adapting Classroom Instruction for Students with Special Needs**<br>全纳教育入门：为有特殊需要的学生调整课堂教学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Learning and Development from Infancy to Adolescence**<br>从婴儿期到青春期的学习与发展 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
-| **Introduction to Popular Music**<br>流行音乐导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
+| **Introduction to Popular Music**<br>流行音乐入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **History of Jazz**<br>爵士乐史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Music in Canada**<br>加拿大音乐 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Topics in Ethnomusicology**<br>民族音乐学专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Secondary Education Route: Introductory Field Experience**<br>中学教育路径：入门实地经历 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Educational Assessment**<br>教育评估 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Language, Literacy and Society in Educational Contexts**<br>教育情境中的语言、读写与社会 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
-| **Introduction to Curriculum and Teaching in Secondary School Music: Wind Band (Major)**<br>中学音乐课程与教学导论：管乐队（主修） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
+| **Introduction to Curriculum and Teaching in Secondary School Music: Wind Band (Major)**<br>中学音乐课程与教学入门：管乐队（主修） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Secondary Education Route: Advanced Field Experience**<br>中学教育路径：高级实地经历 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 | **Advanced Studies in Curriculum and Teaching in Secondary School Music: Wind Band (6 units)**<br>中学音乐课程与教学高级研究：管乐队（6 学分） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110039&returnto=20844) |
 

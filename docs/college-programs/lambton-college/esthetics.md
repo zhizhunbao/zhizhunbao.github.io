@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Innovative Techniques**<br>创新技术 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/esth) |
 | **Final Applied Spa Experience**<br>水疗应用综合实践 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/esth) |
 | **Field Placement**<br>实地实习 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/esth) |
-| **Introduction to Medical Esthetics & Advanced Treatments**<br>医学美容与高级治疗导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/esth) |
+| **Introduction to Medical Esthetics & Advanced Treatments**<br>医学美容与高级治疗入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/esth) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/esth) |
 
 ## Courses

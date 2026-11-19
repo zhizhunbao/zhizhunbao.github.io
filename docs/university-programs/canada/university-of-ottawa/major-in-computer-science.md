@@ -12,13 +12,13 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Major in Computer Science**<br>计算机科学主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Digital Systems I**<br>数字系统 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
-| **Introduction to Computing I**<br>计算导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
-| **Introduction to Computing II**<br>计算导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
+| **Introduction to Computing I**<br>计算入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
+| **Introduction to Computing II**<br>计算入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Calculus for the Life Sciences I**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Calculus for the Life Sciences II**<br>生命科学微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Discrete Mathematics for Computing**<br>计算机离散数学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Discrete Structures**<br>离散结构 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Professional Practice in Computing**<br>计算机专业实践 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Design and Analysis of Algorithms I**<br>算法设计与分析 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Probability and Statistics for Engineers**<br>工程师的概率与统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Programming Language Concepts**<br>编程语言概念 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Databases II**<br>数据库 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) |

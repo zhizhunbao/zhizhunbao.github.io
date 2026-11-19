@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Paralegal**<br>律师助理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal) |
-| **Introduction to the Canadian Legal System**<br>加拿大法律体系导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal) |
+| **Introduction to the Canadian Legal System**<br>加拿大法律体系入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal) |
 | **Legal Computer Applications**<br>法律计算机应用 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal) |
 | **Legal Research/Writing**<br>法律研究/写作 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal) |
 | **Torts and Contracts**<br>侵权法与合同法 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal) |

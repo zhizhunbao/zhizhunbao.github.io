@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Hospitality Math and Technology**<br>酒店业数学与技术 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1201X01FWO.pdf) |
 | **Sanitation and Safety Training**<br>卫生与安全培训 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1201X01FWO.pdf) |
 | **Nutrition and Food Preparation**<br>营养与食品制备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1201X01FWO.pdf) |
-| **Introduction to Culinary**<br>烹饪导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1201X01FWO.pdf) |
+| **Introduction to Culinary**<br>烹饪入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1201X01FWO.pdf) |
 | **Baking Theory**<br>烘焙理论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1201X01FWO.pdf) |
 | **Baking Practical 1**<br>烘焙实践 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1201X01FWO.pdf) |
 | **Field Placement 1 - Baking and Pastry**<br>现场实习 1：烘焙与糕点 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1201X01FWO.pdf) |

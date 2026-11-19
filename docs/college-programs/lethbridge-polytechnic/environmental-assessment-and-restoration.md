@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Descriptive Statistics**<br>描述统计学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/environmental-assessment-and-restoration) |
 | **Chemistry I**<br>化学 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/environmental-assessment-and-restoration) |
 | **Geographic Information Systems**<br>地理信息系统 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/environmental-assessment-and-restoration) |
-| **Introduction to Environmental Law**<br>环境法导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/environmental-assessment-and-restoration) |
+| **Introduction to Environmental Law**<br>环境法入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/environmental-assessment-and-restoration) |
 | **Rangeland Management 1**<br>牧场管理 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/environmental-assessment-and-restoration) |
 | **Forest Management 1**<br>森林管理 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/environmental-assessment-and-restoration) |
 | **Organic Chemistry**<br>有机化学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/environmental-assessment-and-restoration) |

@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Truck and Transport Technician (Optional Co-op)**<br>卡车与运输技术员（可选带薪实习） | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
-| **Introduction to Hydraulic Systems**<br>液压系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
+| **Introduction to Hydraulic Systems**<br>液压系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Hydraulic Systems for Truck and Transport**<br>卡车与运输车辆液压系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Trades Math I**<br>行业数学 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
-| **Introducton to Electrical Systems**<br>电气系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
+| **Introducton to Electrical Systems**<br>电气系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Electrical Systems II**<br>电气系统 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Mobile Equipment Vehicle Service**<br>移动设备车辆维修 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Frames, Chassis, and Cab Components**<br>机架、底盘与驾驶室部件 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Steering and Suspension Systems**<br>转向与悬架系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Engine Support Systems**<br>发动机辅助系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Power Train Components**<br>传动系统部件 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
-| **Introduction to Steering Systems**<br>转向系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
+| **Introduction to Steering Systems**<br>转向系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Engine Coolant and Lubrication**<br>发动机冷却与润滑 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Truck and Transport Heating, Ventilation, and Air Conditioning Systems**<br>货车与运输车辆供暖、通风与空调系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |
 | **Vehicle Safety Inspections**<br>车辆安全检查 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bd05751d-9168-46c2-bf6f-451b63b41dc3) |

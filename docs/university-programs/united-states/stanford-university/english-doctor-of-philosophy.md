@@ -1,17 +1,17 @@
 ---
-title: "3.3.173 English, Doctor of Philosophy"
+title: "4.3.173 English, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > English, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.173 English, Doctor of Philosophy
+# 4.3.173 English, Doctor of Philosophy
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **English, Doctor of Philosophy**<br>英语，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/english/doctor-of-philosophy) |
-| **Introduction to Graduate Study for Ph.D. Students**<br>博士生研究生学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/english/doctor-of-philosophy) |
+| **Introduction to Graduate Study for Ph.D. Students**<br>博士生研究生学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/english/doctor-of-philosophy) |
 | **Pedagogy Seminar I**<br>教学法研讨课 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/english/doctor-of-philosophy) |
 | **Orals, Publication and Dissertation Workshop**<br>口试、发表与学位论文工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/english/doctor-of-philosophy) |
 | **Old English 2: Beowulf**<br>古英语 2：贝奥武甫 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/english/doctor-of-philosophy) |

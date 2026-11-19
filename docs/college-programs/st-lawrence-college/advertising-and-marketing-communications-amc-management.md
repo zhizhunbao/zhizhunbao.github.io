@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Advertising and Marketing Communications (AMC) Management**<br>广告与营销传播（AMC）管理 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
-| **Introduction to College Communications**<br>学院沟通导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
+| **Introduction to College Communications**<br>学院沟通入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
 | **Computer Skills for Communications**<br>传播专业计算机技能 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
 | **Media Awareness**<br>媒体意识 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
-| **Introduction to Integrated Marketing Communications**<br>整合营销传播导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
+| **Introduction to Integrated Marketing Communications**<br>整合营销传播入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
 | **Analytics for Digital Marketers**<br>数字营销人员分析学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
 | **Professionalism in AMC**<br>AMC职业素养 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
 | **Personal and Team Dynamics**<br>个人与团队动力 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
-| **Introduction to Layout and Design**<br>版面与设计导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
+| **Introduction to Layout and Design**<br>版面与设计入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
 | **Writing for Marketing Communications**<br>营销传播写作 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
 | **Creative Advertising**<br>创意广告 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |
 | **Consumer Behaviour**<br>消费者行为 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/advertising-and-marketing-communications-management/full-time/kingston) |

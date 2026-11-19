@@ -44,13 +44,13 @@ ms.date: 2026-11-08
 | **Oxy-Fuel Welding**<br>氧燃料焊接 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
 | **Plasma Arc Cutting**<br>等离子弧切割 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
 | **Workplace Exposure**<br>职场接触 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
 | **Industrial Math Fundamentals**<br>工业数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/industrial-mechanic-millwright) |
 
 ## Courses
 

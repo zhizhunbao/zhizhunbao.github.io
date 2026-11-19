@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21732&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR SCIENCE**<br>科学统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21732&SelectedCalendar=Live&ArchiveID=) |
 | **MEASUREMENT AND ANALYSIS**<br>测量与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21732&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EPIDEMIOLOGY**<br>流行病学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21732&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EPIDEMIOLOGY**<br>流行病学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21732&SelectedCalendar=Live&ArchiveID=) |
 | **EPIDEMIOLOGY OF MAJOR DISEASES**<br>主要疾病流行病学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21732&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH IN A GLOBAL CONTEXT**<br>全球背景下的健康 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21732&SelectedCalendar=Live&ArchiveID=) |
 | **PUBLIC HEALTH**<br>公共卫生 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21732&SelectedCalendar=Live&ArchiveID=) |

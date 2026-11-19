@@ -59,8 +59,8 @@ ms.date: 2026-11-11
 | **Seminar in Moral and Political Philosophy**<br>道德与政治哲学研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0231) |
 | **Philosophy in Everyday Life**<br>日常生活中的哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0231) |
 | **Critical Reasoning**<br>批判性推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0231) |
-| **Introduction to Philosophy: Knowledge and Reality**<br>哲学导论：知识与实在 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0231) |
-| **Introduction to Philosophy: Persons and Value**<br>哲学导论：人与价值 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0231) |
+| **Introduction to Philosophy: Knowledge and Reality**<br>哲学入门：知识与实在 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0231) |
+| **Introduction to Philosophy: Persons and Value**<br>哲学入门：人与价值 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0231) |
 
 ## Courses
 

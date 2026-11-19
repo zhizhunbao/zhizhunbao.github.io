@@ -15,14 +15,14 @@ ms.date: 2026-11-08
 | **DC Fundamentals**<br>直流电基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Industrial Robotics I**<br>工业机器人 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Microcontrollers I**<br>微控制器 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
-| **Introduction To Engineering Technology**<br>工程技术导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
+| **Introduction To Engineering Technology**<br>工程技术入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Technical Workplace Writing & Presentation Skills**<br>职场技术写作与演示技能 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Computer Applications For EE**<br>电气工程计算机应用 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Mathematics II**<br>数学 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Industrial Robotics II**<br>工业机器人 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Microcontrollers II**<br>微控制器 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **AC Fundamentals**<br>交流电基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
-| **Introduction to Industrial Robotic Technologies and Workshop Practices**<br>工业机器人技术与车间实践导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
+| **Introduction to Industrial Robotic Technologies and Workshop Practices**<br>工业机器人技术与车间实践入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Fluid Power I**<br>流体动力 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Introductory Statics**<br>静力学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Robotic Vision Systems**<br>机器人视觉系统 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Electrical Prints And Troubleshooting**<br>电气图纸与故障排除 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Industrial Project Management**<br>工业项目管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
-| **Introduction To Programmable Controllers**<br>可编程控制器导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
+| **Introduction To Programmable Controllers**<br>可编程控制器入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 | **Fluid Power II**<br>流体动力 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electromechanical-engineering-technician-robotics) |
 
 ## Courses

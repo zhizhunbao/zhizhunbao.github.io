@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Biology - Quantitative Biology Honours (B.Sc.)**<br>生物学－定量生物学荣誉（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
-| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
+| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Cell and Molecular Laboratory.**<br>细胞与分子实验 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Quantitative Biology Seminar.**<br>定量生物学研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Introductory Organic Chemistry 1.**<br>有机化学入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Honours Probability.**<br>荣誉概率论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Honours Statistics.**<br>荣誉统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Basic Genetics.**<br>基础遗传学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
-| **Introduction to Ecology and Evolution.**<br>生态学与进化导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
+| **Introduction to Ecology and Evolution.**<br>生态学与进化入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Dynamics of Simple Systems.**<br>简单系统动力学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Heat and Waves.**<br>热与波 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Classical Mechanics1**<br>经典力学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Advances in Aquatic Ecology.**<br>水生生态学进展 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Ecology of Species Invasions.**<br>物种入侵生态学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Advanced Evolutionary Ecology.**<br>高级进化生态学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
-| **Introduction to Biophysics.**<br>生物物理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
+| **Introduction to Biophysics.**<br>生物物理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Statistical Physics with Biophysical Applications.**<br>生物物理应用统计物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Majors Quantum Physics.**<br>主修量子物理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Molecular Biology of the Gene.**<br>基因分子生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
@@ -58,8 +58,8 @@ ms.date: 2026-11-11
 | **Advances in Neuroethology.**<br>神经行为学进展 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Principles of Cellular Control.**<br>细胞调控原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Advances in Molecular/Cellular Neurobiology.**<br>分子/细胞神经生物学进展 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
-| **Introduction to Software Systems.**<br>软件系统导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
-| **Introduction to Computer Science.**<br>计算机科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
+| **Introduction to Software Systems.**<br>软件系统入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
+| **Introduction to Computer Science.**<br>计算机科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Algorithms and Data Structures.**<br>算法与数据结构 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Numerical Computing.**<br>数值计算 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Algebra 1.**<br>代数 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
@@ -71,8 +71,8 @@ ms.date: 2026-11-11
 | **Matrix Numerical Analysis.**<br>矩阵数值分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Euclidean Geometry.**<br>欧几里得几何 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Mathematical Methods in Biology.**<br>生物学中的数学方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
-| **Introduction to Stochastic Processes.**<br>随机过程导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
-| **Introduction to Biomolecular Engineering.**<br>生物分子工程导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
+| **Introduction to Stochastic Processes.**<br>随机过程入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
+| **Introduction to Biomolecular Engineering.**<br>生物分子工程入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Molecular, Cellular and Tissue Biomechanics.**<br>分子、细胞与组织生物力学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Transport Phenomena in Biological Systems 2.**<br>生物系统中的传输现象 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |
 | **Engineered Nanomaterials for Biomedical Applications.**<br>生物医学应用工程纳米材料 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/) |

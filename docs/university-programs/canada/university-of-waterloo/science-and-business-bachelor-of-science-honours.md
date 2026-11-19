@@ -15,9 +15,9 @@ ms.date: 2026-11-11
 | **General Chemistry Laboratory 1**<br>普通化学实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **General Chemistry 2**<br>普通化学 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **General Chemistry Laboratory 2**<br>普通化学实验 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to Computing Through Applications**<br>通过应用学习计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to Computing Through Applications**<br>通过应用学习计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Microeconomic Theory for Business and Policy**<br>商业与政策的微观经济理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Statistics for Economists**<br>经济学家统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Business Finance 1**<br>企业财务 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **Workshop 3: Technology Development**<br>工作坊 3：技术开发 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Workshop 4: Strategic Management of Science and Business**<br>工作坊 4：科学与商业的战略管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Accounting Information for Managers**<br>管理者会计信息 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to Business in North America**<br>北美商业导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to Business in North America**<br>北美商业入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Communication in the Sciences**<br>科学中的沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Biodiversity, Biomes, and Evolution**<br>生物多样性、生物群系与进化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
@@ -40,12 +40,12 @@ ms.date: 2026-11-11
 | **Diversity of Life**<br>生命的多样性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Introductory Vertebrate Zoology**<br>脊椎动物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to Plant Structure and Function**<br>植物结构与功能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to Plant Structure and Function**<br>植物结构与功能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Fundamentals of Microbiology**<br>微生物学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to Applied Microbiology**<br>应用微生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to Applied Microbiology**<br>应用微生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Fundamentals of Ecology**<br>生态学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to Computational Biology**<br>计算生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to Computational Biology**<br>计算生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Principles of Human Physiology 1**<br>人体生理学原理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Introductory Earth Sciences**<br>地球科学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Introductory Earth Sciences Laboratory**<br>地球科学入门实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
@@ -62,13 +62,13 @@ ms.date: 2026-11-11
 | **Introductory Financial Mathematics**<br>金融数学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **International Business**<br>国际商务 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Foundations of Venture Creation**<br>创业企业创建基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to Mathematical Economics**<br>数理经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to Mathematical Economics**<br>数理经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Mathematical Economics**<br>数理经济学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Cost-Benefit Analysis and Project Evaluation**<br>成本效益分析与项目评估 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Business Finance 2**<br>企业财务 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Basic Human Resources Management**<br>基础人力资源管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Strategic Human Resources Management**<br>战略人力资源管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
-| **Introduction to International Development**<br>国际发展导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
+| **Introduction to International Development**<br>国际发展入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Organizational Design and Technology**<br>组织设计与技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Production and Service Operations Management**<br>生产与服务运营管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk-eekCCj3) |

@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Apprentissage par le jeu et l'enquête**<br>通过游戏与探究学习 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41709) |
 | **Santé mentale et dépendances**<br>心理健康与成瘾 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41709) |
 | **Développement personnel et communication interpersonnelle**<br>个人发展与人际沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41709) |
-| **Introduction au travail social**<br>社会工作导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41709) |
+| **Introduction au travail social**<br>社会工作入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41709) |
 | **Enfance et adolescence**<br>童年与青春期 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41709) |
 | **Conscientisation à la gérontologie**<br>老年学意识培养 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41709) |
 | **Clientèles diversifiées**<br>多元客户群体 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41709) |

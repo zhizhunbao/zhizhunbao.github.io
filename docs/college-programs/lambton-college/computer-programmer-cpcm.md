@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **DevOps Tools & Practices**<br>DevOps工具与实践 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpcm) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpcm) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpcm) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpcm) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpcm) |
 | **Python II**<br>Python II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpcm) |
 | **Cloud Computing**<br>云计算 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpcm) |
 | **General Education Elective (Select 2)**<br>通识教育选修课 (选2门) | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpcm) |

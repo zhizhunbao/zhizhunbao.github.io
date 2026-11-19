@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Community Leadership Development**<br>社区领导力发展 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Writing Essentials**<br>写作要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Human Relations**<br>人际关系 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
-| **Intro to Human Services**<br>人类服务导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
+| **Intro to Human Services**<br>人类服务入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Psychology I**<br>心理学 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
-| **Intro to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
+| **Intro to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Workplace Correspondence**<br>职场书信 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
-| **Intro to Mental Health Issues**<br>心理健康问题导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
+| **Intro to Mental Health Issues**<br>心理健康问题入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Field Placement Preparation**<br>现场实习准备 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Leadership Theory**<br>领导力理论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Media & Public Relations**<br>媒体与公共关系 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Leadership Practice**<br>领导力实践 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Interviewing Skills**<br>访谈技能 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Diverse Populations**<br>多元人群 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
-| **Intro to Social Research**<br>社会研究导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
+| **Intro to Social Research**<br>社会研究入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Development Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Community Leadership Development Elective\***<br>社区领导力发展选修课\* | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Elective (minimum credit value of 3)**<br>选修课（至少 3 学分） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
@@ -43,9 +43,9 @@ ms.date: 2026-11-08
 | **Field Placement II**<br>现场实习 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Field Placement Reflection**<br>现场实习反思 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Professional Certifications II**<br>职业认证 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
-| **Intro to Child & Youth Care**<br>儿童与青少年关怀导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
+| **Intro to Child & Youth Care**<br>儿童与青少年关怀入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Mental Health & Addictions**<br>精神健康与成瘾 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
-| **Intro to Disability Studies**<br>残障研究导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
+| **Intro to Disability Studies**<br>残障研究入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Youth Justice in Canada**<br>加拿大青少年司法 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Disability Studies**<br>残障研究 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |
 | **Understanding Addictions**<br>认识成瘾 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-leadership-development) |

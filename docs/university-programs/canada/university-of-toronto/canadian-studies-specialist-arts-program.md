@@ -14,18 +14,18 @@ ms.date: 2026-11-11
 | **Race and Racialization in Canada**<br>加拿大的种族与种族化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **What is Canada?**<br>什么是加拿大？ | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Canada and Globalization**<br>加拿大与全球化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
-| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
+| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Asian Cultures in Canada**<br>加拿大的亚洲文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Asian Canadian Memory and Practice**<br>亚裔加拿大人的记忆与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Asian Canadian Ecologies and Futurities**<br>亚裔加拿大人的生态与未来性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Black Canadian Studies**<br>加拿大黑人研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Afrofuturisms: Black Canadian Perspectives**<br>非洲未来主义：加拿大黑人视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **The Canadian Short Story**<br>加拿大短篇小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
-| **Introduction to Canadian Literature**<br>加拿大文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
-| **Introduction to Indigenous Literatures**<br>原住民文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
+| **Introduction to Canadian Literature**<br>加拿大文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
+| **Introduction to Indigenous Literatures**<br>原住民文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Canadian Painting 1665-1960**<br>加拿大绘画1665-1960年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Conservation of Canada's Forests**<br>加拿大森林保护 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
-| **Introduction to Québec Literature and Culture**<br>魁北克文学与文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
+| **Introduction to Québec Literature and Culture**<br>魁北克文学与文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Geographies of Colonialism in North America**<br>北美殖民主义的地理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Geography of Canada**<br>加拿大地理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |
 | **Canada: A Short History of Here**<br>加拿大：本地简史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0728) |

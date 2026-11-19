@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Medical Laboratory Technology Science Diploma**<br>医学检验技术科学文凭 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Microbiol & Infect Prevention**<br>微生物学与感染预防 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
-| **Intro to Laboratory Medicine**<br>检验医学导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
+| **Intro to Laboratory Medicine**<br>检验医学入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Anatomy & Physiology**<br>解剖与生理学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Quality Systems**<br>质量体系 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Principles of Lab. Analysis**<br>实验室分析原理 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Histotechnology Principles II**<br>组织技术原理 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Microbiology II**<br>微生物学 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Microbiology III**<br>微生物学 III | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
-| **Introduction to Hematology**<br>血液学导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
+| **Introduction to Hematology**<br>血液学入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Hematopathology**<br>血液病理学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Clinical Chemistry I**<br>临床化学 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |
 | **Clinical Chemistry II**<br>临床化学 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/medical-laboratory-technology-science-diploma) |

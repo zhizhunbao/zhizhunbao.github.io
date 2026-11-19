@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Pre-Health Sciences Pathway to Certificates and Diplomas**<br>健康科学预科升读证书与文凭 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/programs/pcd1-pre-health-sciences-pathway-certificates-and-diplomas) |
-| **Introduction to Human Biology**<br>人体生物学导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6467961/courses-next/) |
+| **Introduction to Human Biology**<br>人体生物学入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6467961/courses-next/) |
 | **Foundational Chemistry for Health 1**<br>健康基础化学 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6467961/courses-next/) |
 | **Foundational Mathematics for Health 1**<br>健康基础数学 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6467961/courses-next/) |
 | **Personal & Professional Development**<br>个人与职业发展 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6467961/courses-next/) |

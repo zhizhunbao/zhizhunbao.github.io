@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **From Genes to Organisms with Advanced Laboratory**<br>从基因到生物体（含高级实验） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1387) |
 | **Concepts in Genetics**<br>遗传学概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1387) |
 | **General & Human Genetics**<br>普通遗传学与人类遗传学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1387) |
-| **An Introduction to Molecular Genetics and Microbiology**<br>分子遗传学与微生物学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1387) |
+| **An Introduction to Molecular Genetics and Microbiology**<br>分子遗传学与微生物学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1387) |
 | **Biochemistry II: Nucleic Acids and Biological Information Flow**<br>生物化学 II：核酸与生物信息流 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1387) |
 | **Eukaryotic Gene Expression**<br>真核基因表达 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1387) |
 | **Molecular Biology**<br>分子生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1387) |

@@ -11,22 +11,22 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours BSc Biology**<br>生物学荣誉（BSc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
-| **Introduction to Organismal Biology**<br>生物体生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
-| **Introduction to Cell and Molecular Biology**<br>细胞与分子生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
+| **Introduction to Organismal Biology**<br>生物体生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
+| **Introduction to Cell and Molecular Biology**<br>细胞与分子生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **BioZoo: An Introduction Laboratory in Biology**<br>BioZoo：生物学入门实验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Principles of Chemistry**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Calculus for the Life Sciences I**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Calculus for the Life Sciences II**<br>生命科学微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Principles of Physics I**<br>物理学原理 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Ecology**<br>生态学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Animal Form and Function**<br>动物形态与功能 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
-| **Introduction to Plant Science**<br>植物科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
+| **Introduction to Plant Science**<br>植物科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
-| **Introduction to Biostatistics**<br>生物统计学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
+| **Introduction to Biostatistics**<br>生物统计学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Evaluating and Developing Science**<br>科学的评估与发展 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Modern Bioanalytical Chemistry**<br>现代生物分析化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |
 | **Field Biology**<br>野外生物学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-biology/) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Advanced Special Effects Makeup, Prosthetics and Props**<br>高级特效化妆、假体与道具 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-special-effects-makeup-prosthetics-and-props) |
-| **Introduction to Industry and Conceptual Process**<br>行业与概念流程导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-special-effects-makeup-prosthetics-and-props) |
+| **Introduction to Industry and Conceptual Process**<br>行业与概念流程入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-special-effects-makeup-prosthetics-and-props) |
 | **Makeup Application and Facial Prosthetics**<br>化妆应用与面部假体 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-special-effects-makeup-prosthetics-and-props) |
 | **Molding and Casting for SPFX MU**<br>SPFX MU的翻模与浇铸 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-special-effects-makeup-prosthetics-and-props) |
 | **Sculpting and Anatomy**<br>雕塑与解剖 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-special-effects-makeup-prosthetics-and-props) |

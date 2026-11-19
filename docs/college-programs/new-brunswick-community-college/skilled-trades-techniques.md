@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Skilled Trades Techniques**<br>技工技能 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Electrical: Theory & Practice**<br>电气：理论与实践 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Carpentry: Theory and Practice**<br>木工：理论与实践 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Skilled Trades Techniques: Introduction to Basic Tools**<br>技能行业技术：基本工具入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Entrepreneurship for Trades**<br>行业创业 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Environmental Awareness for Trades**<br>行业环境意识 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Financial Fundamentals for Trades**<br>行业通用财务基础 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
-| **Introduction to Mathematics and Blueprints**<br>数学与图纸导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
+| **Introduction to Mathematics and Blueprints**<br>数学与图纸入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Marine Diesel Mechanics: Theory and Practice**<br>船用柴油机机械：理论与实践 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Orientation to Community Service**<br>社区服务入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |
 | **Plumbing: Theory & Practice**<br>给排水：理论与实践 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=01348346-aedc-44be-ad9e-7478c61730f6) |

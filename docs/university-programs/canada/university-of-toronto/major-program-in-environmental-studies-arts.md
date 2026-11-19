@@ -11,18 +11,18 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR PROGRAM IN ENVIRONMENTAL STUDIES (ARTS)**<br>环境研究主修项目（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-| **Introduction to Environmental Studies**<br>环境研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+| **Introduction to Environmental Studies**<br>环境研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Political Ecology**<br>政治生态学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Whose Land? Indigenous-Canada-Land Relations**<br>谁的土地？原住民与加拿大的土地关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Foods That Changed the World**<br>改变世界的食物 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Cities and Environments: Urban Life, Livelihoods & Landscapes**<br>城市与环境：城市生活、生计与景观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Critical Issues in Politics I**<br>政治中的关键议题 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Critical Issues in Politics II**<br>政治中的关键议题 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-| **Introduction to International Relations I**<br>国际关系导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-| **Introduction to Planet Earth**<br>地球导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+| **Introduction to International Relations I**<br>国际关系入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Water**<br>水 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Wind**<br>管乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 | **Human Health and the Environment**<br>人类健康与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
@@ -70,11 +70,10 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
-|  | Completion of 8.5 credits as follows |  | 1. Core Courses (2.5 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | Completion of 8.5 credits as follows | EESA01H3 | Introduction to Environmental Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | Completion of 8.5 credits as follows | MGEA01H3 | Introduction to Microeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | Completion of 8.5 credits as follows (or) | MGEA05H3 | Introduction to Macroeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | Completion of 8.5 credits as follows | ESTB01H3 | Introduction to Environmental Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 1. Core Courses (2.5 credits) | EESA01H3 | Introduction to Environmental Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 1. Core Courses (2.5 credits) | MGEA01H3 | Introduction to Microeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 1. Core Courses (2.5 credits) (or) | MGEA05H3 | Introduction to Macroeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 1. Core Courses (2.5 credits) | ESTB01H3 | Introduction to Environmental Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and |  | 0.5 credit chosen from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and | ANTB01H3 | Political Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and | ESTB02H3 | Whose Land? Indigenous-Canada-Land Relations | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
@@ -94,12 +93,11 @@ ms.date: 2026-11-11
 |  | and | FSTA02H3 | Food Futures: Confronting Crises, Improving Lives | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and | FSTB01H3 | Methodologies in Food Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and | SOCB20H3 | The City and the Fight Against Climate Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and |  | 2. Foundations and Skills (4.0 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and | ESTC35H3 | Environmental Science and Technology in Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and (or) | ESTC36H3 | Knowledge, Ethics and Environmental Decision-Making | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and | ESTC34H3 | Sustainability in Practice | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and | IDSB02H3 | Development and Environment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 2. Foundations and Skills (4.0 credits) | ESTC35H3 | Environmental Science and Technology in Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 2. Foundations and Skills (4.0 credits) (or) | ESTC36H3 | Knowledge, Ethics and Environmental Decision-Making | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 2. Foundations and Skills (4.0 credits) | ESTC34H3 | Sustainability in Practice | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 2. Foundations and Skills (4.0 credits) | IDSB02H3 | Development and Environment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 2. Foundations and Skills (4.0 credits) | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and |  | 2.0 credits from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and | EESB03H3 | Principles of Climatology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and | EESB04H3 | Principles of Hydrology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
@@ -127,11 +125,10 @@ ms.date: 2026-11-11
 |  | and | POLC53H3 | Canadian Environmental Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and | POLD89H3 | Global Environmental Politics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 |  | and | SOCC37H3 | Environment and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and |  | 3. Capstone and Applications (2.0 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and | ESTD16H3 | Project Management in Environmental Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and (or) | ESTD19H3 | Risk | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and | ESTD17Y3 | Cohort Capstone Course in Environmental Studies | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
-|  | and | ESTD18H3 | Environmental Studies Seminar Series | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 3. Capstone and Applications (2.0 credits) | ESTD16H3 | Project Management in Environmental Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 3. Capstone and Applications (2.0 credits) (or) | ESTD19H3 | Risk | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 3. Capstone and Applications (2.0 credits) | ESTD17Y3 | Cohort Capstone Course in Environmental Studies | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
+|  | 3. Capstone and Applications (2.0 credits) | ESTD18H3 | Environmental Studies Seminar Series | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2735) |
 
 ## References
 

@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mtim) |
 | **Mechanical Mathematics I**<br>机械数学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mtim) |
 | **Safety & Welding Basics**<br>安全与焊接基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mtim) |
-| **Introduction to Pumps, Machines & Piping**<br>泵、机器与管道导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mtim) |
+| **Introduction to Pumps, Machines & Piping**<br>泵、机器与管道入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mtim) |
 | **Maintenance Machine Shop**<br>维修机械车间 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mtim) |
 | **Advanced Engineering Drawings**<br>高级工程制图 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mtim) |
 | **Power Transmission, Bearings & Lubrication**<br>动力传输、轴承与润滑 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mtim) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **MAJOR PROGRAM IN PHILOSOPHY (ARTS)**<br>哲学主修项目（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231) |
 | **Symbolic Logic I**<br>符号逻辑 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231) |
 | **Puzzles and Paradoxes**<br>谜题与悖论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231) |
-| **Introduction to Mathematical Logic**<br>数理逻辑导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231) |
+| **Introduction to Mathematical Logic**<br>数理逻辑入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231) |
 | **Philosophical Writing and Methodology**<br>哲学写作与方法论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231) |
 
 ## Courses

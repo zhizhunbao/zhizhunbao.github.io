@@ -1,18 +1,18 @@
 ---
-title: "3.4.4 Applied Mathematics (B.A. or B.S.)"
+title: "4.4.4 Applied Mathematics (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Applied Mathematics (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.4 Applied Mathematics (B.A. or B.S.)
+# 4.4.4 Applied Mathematics (B.A. or B.S.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Applied Mathematics (B.A. or B.S.)**<br>应用数学（文学学士或理学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/) |
-| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/) |
+| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/) |
 | **Multivariable Calculus for Engineers**<br>工程师多元微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/) |
 | **Linear Algebra with Applications**<br>线性代数及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/) |

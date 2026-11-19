@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN SOCIOLOGY (21239)**<br>社会学主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21239&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIOLOGY**<br>社会学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21239&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIOLOGY**<br>社会学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21239&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR SOCIOLOGY**<br>社会学统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21239&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN SOCIOLOGY**<br>社会学研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21239&SelectedCalendar=Live&ArchiveID=) |
 | **SURVEY OF SOCIOLOGICAL THEORY**<br>社会学理论概览 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21239&SelectedCalendar=Live&ArchiveID=) |

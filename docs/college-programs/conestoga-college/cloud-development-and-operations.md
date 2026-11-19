@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Cloud Development and Operations**<br>云开发与运维 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses-no-intake?id=15482) |
-| **Introduction to DevOps**<br>DevOps导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses-no-intake?id=15482) |
+| **Introduction to DevOps**<br>DevOps入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses-no-intake?id=15482) |
 | **Network and Security**<br>网络与安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses-no-intake?id=15482) |
 | **Software Architecture**<br>软件架构 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses-no-intake?id=15482) |
 | **Linux Administration**<br>Linux管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses-no-intake?id=15482) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Principles of Accounting I & II**<br>会计原理 1 与 2 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Management Essentials**<br>管理基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Introductory Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
-| **Introduction to Programming I**<br>编程导论 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
+| **Introduction to Programming I**<br>编程入门 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Database I**<br>数据库 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Money and Banking**<br>货币与银行 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **History of Economic Thoughts**<br>经济思想史 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Knowledge, Reason and Experience**<br>知识、理性与经验 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Reality and Existence**<br>实在与存在 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Systems Analysis and Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcomm) |

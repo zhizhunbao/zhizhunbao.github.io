@@ -1,10 +1,10 @@
 ---
-title: "3.3.116 Latin American Studies, Master of Arts"
+title: "4.3.116 Latin American Studies, Master of Arts"
 description: "University Programs > United States > Stanford University > Latin American Studies, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.116 Latin American Studies, Master of Arts
+# 4.3.116 Latin American Studies, Master of Arts
 
 ## Glossary
 
@@ -17,7 +17,7 @@ ms.date: 2026-11-18
 | **Seminar on Contemporary Issues in Latin American Studies**<br>拉丁美洲研究当代议题研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Methods in Latin American Studies**<br>拉丁美洲研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Scholarly Writing and Research in Latin American Studies**<br>拉丁美洲研究中的学术写作与研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
-| **Introduction to Global Black Diaspora Studies II**<br>全球黑人离散研究导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
+| **Introduction to Global Black Diaspora Studies II**<br>全球黑人离散研究入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Black Brazil: Afro-Brazilian Music, Literature, and Art**<br>黑人巴西：非裔巴西音乐、文学与艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Asylum: Knowledge, Politics, and Population**<br>庇护：知识、政治与人口 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Black and Brown: American Artists of Color**<br>黑与棕：美国有色人种艺术家 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
@@ -32,19 +32,19 @@ ms.date: 2026-11-18
 | **CAPITALS: How Cities Shape Cultures, States, and People**<br>首都：城市如何塑造文化、国家与人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **The Literature of the Americas**<br>美洲文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Rivers That Were: Latin American Ecopoetry**<br>曾经的河流：拉丁美洲生态诗歌 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
-| **Intro to English III: Latinx Literature**<br>英语导论 III：拉丁裔文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
+| **Intro to English III: Latinx Literature**<br>英语入门 III：拉丁裔文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Ecopoetry**<br>生态诗歌 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **What Does "Undocumented" Mean?**<br>“无证”意味着什么？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **US-Mexico Border Fictions: Writing La Frontera, Tearing Down the Wall**<br>美墨边境小说：书写边境，推倒高墙 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Indigeneity and Colonialism**<br>原住民性与殖民主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Outcasts, Superheroes, and Rebels: Identity and Social Justice in Latin(x) American Cinema**<br>弃儿、超级英雄与反叛者：拉丁（裔）美洲电影中的身份认同与社会正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Race and Immigration**<br>种族与移民 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Study of the Commons, Commoning, and Cooperative Approaches to Self-Governance and Sustainability**<br>公地、共同体化与合作式自治及可持续性研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Language Issues in Educational Research and Practice**<br>教育研究与实践中的语言问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Freirean Pedagogy: Theory, Praxis, and Contemporary Struggles**<br>弗莱雷教育学：理论、实践与当代斗争 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Topics in Brazilian Education: Public Policy and Innovation for the 21st Century**<br>巴西教育专题：21世纪的公共政策与创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
-| **Introduction to Environmental Ethics**<br>环境伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
+| **Introduction to Environmental Ethics**<br>环境伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Film and History of Latin American Revolutions and Counterrevolutions**<br>电影与拉丁美洲革命及反革命的历史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Global Human Geography: Europe and Americas**<br>全球人文地理：欧洲与美洲 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **The Cold War: An International History**<br>冷战：国际史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
@@ -61,8 +61,8 @@ ms.date: 2026-11-18
 | **Borges and Translation**<br>博尔赫斯与翻译 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Drugs, Literatures and Visual Cultures in Latin America**<br>拉丁美洲的毒品、文学与视觉文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Spanish through Comics**<br>通过漫画学西班牙语 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
-| **Introduction to Iberia: Cultural Perspectives**<br>伊比利亚导论：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
-| **Introduction to Latin America: Cultural Perspectives**<br>拉丁美洲导论：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
+| **Introduction to Iberia: Cultural Perspectives**<br>伊比利亚入门：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
+| **Introduction to Latin America: Cultural Perspectives**<br>拉丁美洲入门：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Modern Iberian Literatures**<br>现代伊比利亚文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Fiction Workshop in Spanish**<br>西班牙语小说创作工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |
 | **Decadent Interiorities: Modernismo in Spanish**<br>颓废的内在性：西班牙语现代主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/latin-american-studies/master-of-arts) |

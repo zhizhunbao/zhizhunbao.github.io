@@ -39,7 +39,7 @@ ms.date: 2026-11-11
 | **Advanced Fire Dynamics**<br>高级火灾动力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/Syly8tXsR) |
 | **Fire Modeling**<br>火灾建模 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/Syly8tXsR) |
 | **Advanced HVAC Systems, Equipment and Energy Efficiency**<br>高级暖通空调系统、设备与能效 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/Syly8tXsR) |
-| **Introduction to Complex Systems**<br>复杂系统导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/Syly8tXsR) |
+| **Introduction to Complex Systems**<br>复杂系统入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/Syly8tXsR) |
 | **Contaminant Transport**<br>污染物迁移 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/Syly8tXsR) |
 | **Engineering for Solid Waste Management**<br>固体废物管理工程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/Syly8tXsR) |
 | **Air Quality Engineering & Impacts**<br>空气质量工程与影响 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/Syly8tXsR) |

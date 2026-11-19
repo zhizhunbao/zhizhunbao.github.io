@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Practical Nurse**<br>实用护士 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=ac752dbb-8fda-4d1f-8d81-ea1ba7609ca7) |
 | **Ethical and Legal Concepts for the Healthcare Professional**<br>医疗专业人员的伦理与法律概念 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=ac752dbb-8fda-4d1f-8d81-ea1ba7609ca7) |
-| **Introduction to Medical Terminology**<br>医学术语导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=ac752dbb-8fda-4d1f-8d81-ea1ba7609ca7) |
+| **Introduction to Medical Terminology**<br>医学术语入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=ac752dbb-8fda-4d1f-8d81-ea1ba7609ca7) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=ac752dbb-8fda-4d1f-8d81-ea1ba7609ca7) |
 | **Fundamentals of Reading and Writing for Healthcare Professionals**<br>医疗专业人员读写基础 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=ac752dbb-8fda-4d1f-8d81-ea1ba7609ca7) |
 | **Human Growth and Development Across the Lifespan**<br>全生命周期人类成长与发展 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=ac752dbb-8fda-4d1f-8d81-ea1ba7609ca7) |

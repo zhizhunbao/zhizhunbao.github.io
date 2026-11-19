@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN MEDICAL BIOPHYSICS**<br>医学生物物理学主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIOPHYSICS FOR ADVANCING MEDICINE**<br>促进医学进步的生物物理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIOPHYSICS FOR ADVANCING MEDICINE**<br>促进医学进步的生物物理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE I**<br>理科生物学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE II**<br>理科生物学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL STRUCTURE**<br>探索化学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
@@ -23,26 +23,26 @@ ms.date: 2026-11-11
 | **CALCULUS II FOR MATHEMATICAL AND PHYSICAL SCIENCES**<br>数学与物理科学微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SCIENCE FUNDAMENTALS I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **CELL BIOLOGY**<br>细胞生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **GENETICS**<br>遗传学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICAL CHEMISTRY FOR LIFE SCIENCES**<br>生命科学物理化学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **DEALING WITH DATA: ANALYSIS AND VISUALIZATION**<br>数据处理：分析与可视化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DATA SCIENCE**<br>数据科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DATA SCIENCE**<br>数据科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICS FOR DATA SCIENCE**<br>数据科学数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE PHYSICS**<br>中级物理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO QUANTUM MECHANICS**<br>量子力学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO QUANTUM MECHANICS**<br>量子力学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN PHYSIOLOGY**<br>人体生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE INTEGRATION OF HUMAN PHYSIOLOGY AND PHARMACOLOGY**<br>人体生理学与药理学整合导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE INTEGRATION OF HUMAN PHYSIOLOGY AND PHARMACOLOGY**<br>人体生理学与药理学整合入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN BIOMECHANICS AND BIOMEDICAL APPLICATIONS 1**<br>人体生物力学及生物医学应用 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **CIRCULATORY AND RESPIRATORY SCIENCES 1**<br>循环与呼吸科学 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **GENERAL BIOPHYSICS LABORATORY**<br>普通生物物理实验 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **CANCER THERAPY**<br>癌症治疗 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **FUNDAMENTALS OF DIGITAL IMAGING**<br>数字成像基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MOLECULAR IMAGING**<br>分子成像导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MOLECULAR IMAGING**<br>分子成像入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **IN VIVO MEDICAL IMAGING**<br>活体医学成像 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **PHOTONICS IN MEDICINE AND BIOLOGY**<br>医学与生物学中的光子学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN BIOMECHANICS AND BIOMEDICAL APPLICATIONS 2**<br>人体生物力学及生物医学应用 2 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21208&SelectedCalendar=Live&ArchiveID=) |

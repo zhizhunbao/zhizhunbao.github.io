@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Mathématiques appliquées I**<br>应用数学 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-du-genie-de-la-construction-civil/) |
 | **Physique**<br>物理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-du-genie-de-la-construction-civil/) |
 | **Communication française professionnelle et scolaire**<br>法语专业与学术沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-du-genie-de-la-construction-civil/) |
-| **Introduction à l'analyse des structures**<br>结构分析导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-du-genie-de-la-construction-civil/) |
+| **Introduction à l'analyse des structures**<br>结构分析入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-du-genie-de-la-construction-civil/) |
 | **Dessin assisté par ordinateur I (2D)**<br>计算机辅助绘图 I（2D） | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-du-genie-de-la-construction-civil/) |
 | **Mécanique des fluides**<br>流体力学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-du-genie-de-la-construction-civil/) |
 | **Topométrie et camp d'arpentage**<br>地形测量与测量营 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-du-genie-de-la-construction-civil/) |

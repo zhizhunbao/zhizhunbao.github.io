@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-accounting) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-accounting) |
 | **Statistics for Business**<br>商务统计学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-accounting) |
-| **Introduction to Financial Accounting 2**<br>财务会计导论 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-accounting) |
+| **Introduction to Financial Accounting 2**<br>财务会计入门 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-accounting) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-accounting) |
 | **Quantitative Methods for Business**<br>商务定量方法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-accounting) |
 | **Intermediate Financial Accounting 1**<br>中级财务会计 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-accounting) |

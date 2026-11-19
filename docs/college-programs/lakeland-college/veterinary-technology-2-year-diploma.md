@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
 | **Animal Handling and Assessment**<br>动物保定与评估 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
 | **Animal Husbandry and Welfare**<br>动物饲养与福利 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
 | **Surgical Preparation**<br>手术准备 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
 | **Clinical Pathology I**<br>临床病理学 I | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
 | **Veterinary Nursing I**<br>兽医护理 I | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
-| **Introduction to Anesthesia**<br>麻醉导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
+| **Introduction to Anesthesia**<br>麻醉入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
 | **Pharmacology**<br>药理学 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
 | **Diagnostic Imaging**<br>诊断影像学 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |
 | **Nutrition and Wellness**<br>营养与健康 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/veterinary-technology/index.html) |

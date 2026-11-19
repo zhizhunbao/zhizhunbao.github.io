@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Bachelor of Social Sciences in Interdisciplinary Studies (Bachelor of Social Sciences)**<br>跨学科研究社会科学学士 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences-major/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences-major/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences-major/) |
-| **Introduction to Social Sciences**<br>社会科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences-major/) |
+| **Introduction to Social Sciences**<br>社会科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences-major/) |
 | **Social Sciences and Research**<br>社会科学与研究 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences-major/) |
 | **Social Sciences and Changing Societies**<br>社会科学与变迁中的社会 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences-major/) |
 | **Social Innovation and Community Engagement**<br>社会创新与社区参与 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-social-sciences-major/) |

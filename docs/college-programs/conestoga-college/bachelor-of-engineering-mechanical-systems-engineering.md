@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Chemistry**<br>化学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Project 1a**<br>项目 1a | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
-| **Introduction to Sustainable Engineering Design**<br>可持续工程设计导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
+| **Introduction to Sustainable Engineering Design**<br>可持续工程设计入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Foundation Module**<br>基础模块 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Mathematics for Engineering I**<br>工程数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Physics for Engineering I**<br>工程物理 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
-| **Introduction to Natural Sciences**<br>自然科学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
+| **Introduction to Natural Sciences**<br>自然科学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Group Dynamics**<br>团体动力学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Electrical and Electronic Foundations**<br>电气与电子基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Project 1b**<br>项目 1b | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-08
 | **Composite Materials**<br>复合材料 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **MSE Program Exemptions**<br>MSE课程豁免 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
-| **Introduction to Welding**<br>焊接导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
+| **Introduction to Welding**<br>焊接入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Control Systems**<br>控制系统 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Design of Machine Elements II**<br>机械零件设计 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |
 | **Manufacturing Processes**<br>制造工艺 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-mechanical-systems-engineering/courses?id=36224) |

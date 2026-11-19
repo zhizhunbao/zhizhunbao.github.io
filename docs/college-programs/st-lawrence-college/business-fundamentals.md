@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Fundamentals**<br>商业基础 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
 | **Communications for College**<br>大学沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
 | **Business Computer Applications**<br>商务计算机应用 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
 | **Introductory Business Mathematics**<br>商业数学入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
 | **Professional and Personal Development**<br>职业与个人发展 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
 | **Accounting Fundamentals**<br>会计基础 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
-| **Introduction to Economics**<br>经济学导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
+| **Introduction to Economics**<br>经济学入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
 | **Principles of Human Resource Management**<br>人力资源管理原理 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |
 | **Marketing Essentials**<br>营销要点 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/business-fundamentals/full-time/kingston) |

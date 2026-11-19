@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN POLITICS, PHILOSOPHY AND ECONOMICS - POLITICS AND PHILOSOPHY (PPE-P)**<br>政治、哲学与经济学－政治与哲学（PPE-P）荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICAL SCIENCE**<br>政治学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICAL SCIENCE**<br>政治学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **PEOPLE, POWER AND THE STATE**<br>人民、权力与国家 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL POLITICS AND CONTEMPORARY (DIS)ORDER**<br>全球政治与当代（失）序 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **POLITICAL IDEAS AND INSTITUTIONS**<br>政治思想与制度 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
@@ -22,13 +22,13 @@ ms.date: 2026-11-11
 | **METHODS OF CALCULUS**<br>微积分方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICS, PHILOSOPHY AND ECONOMICS**<br>政治、哲学与经济学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICS, PHILOSOPHY AND ECONOMICS**<br>政治、哲学与经济学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH DESIGN IN POLITICAL SCIENCE**<br>政治学研究设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN POLITICAL SCIENCE**<br>政治学研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS OF POLITICAL THEORY**<br>政治理论基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **DATA SCIENCE METHODS FOR POLITICS**<br>政治学的数据科学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE THEORY OF KNOWLEDGE**<br>知识论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE THEORY OF KNOWLEDGE**<br>知识论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE MICROECONOMIC THEORY I**<br>中级微观经济理论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE MICROECONOMIC THEORY II**<br>中级微观经济理论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |
 | **SENIOR SEMINAR IN POLITICS, PHILOSOPHY AND ECONOMICS**<br>政治、哲学与经济学高年级研讨课 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21022&SelectedCalendar=Live&ArchiveID=) |

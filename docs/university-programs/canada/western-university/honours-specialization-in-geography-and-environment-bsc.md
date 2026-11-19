@@ -13,13 +13,13 @@ ms.date: 2026-11-11
 | **HONOURS SPECIALIZATION IN GEOGRAPHY AND ENVIRONMENT - BSc**<br>地理与环境荣誉专业方向－BSc | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **FUNDAMENTALS OF GEOGRAPHY**<br>地理学基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **THE CLIMATE EMERGENCY**<br>气候紧急状态 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE PHYSICAL ENVIRONMENT**<br>自然环境导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE HUMAN ENVIRONMENT**<br>人类环境导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE PHYSICAL ENVIRONMENT**<br>自然环境入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE HUMAN ENVIRONMENT**<br>人类环境入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENT AND DEVELOPMENT CHALLENGES**<br>环境与发展挑战 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENTAL SCIENCE AND SUSTAINABILITY**<br>环境科学与可持续性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **ESSENTIALS OF MODERN ASTRONOMY**<br>现代天文学要点 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **GENERAL ASTRONOMY**<br>普通天文学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
-| **AN INTRODUCTION TO THE BIOLOGY OF ORGANISMS**<br>生物体生物学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
+| **AN INTRODUCTION TO THE BIOLOGY OF ORGANISMS**<br>生物体生物学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY: THE SECRETS OF LIFE**<br>生物学：生命的奥秘 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY AND MICROORGANISMS**<br>生物学与微生物 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **EVERYWHERE AND EVERYTHING**<br>无处不在，无所不包 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **CONNECTING FOR CLIMATE CHANGE ACTION (C4CCA)**<br>为气候变化行动而联结 (C4CCA) | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **GEOGRAPHY OF HAZARDS**<br>灾害地理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENT, ECONOMY AND SOCIETY**<br>环境、经济与社会 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS FOR GEOGRAPHERS**<br>地理学者统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS FOR GEOGRAPHERS**<br>地理学者统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **GEOCOMPUTATION**<br>地理计算 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **GEOGRAPHIC INFORMATION SCIENCE I**<br>地理信息科学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **REMOTE SENSING**<br>遥感 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-11
 | **INDIGENOUS HEALTH AND HEALTHCARE ENVIRONMENTS**<br>原住民健康与医疗保健环境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **ECONOMIC GEOGRAPHY**<br>经济地理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **PUBLIC HEALTH AND ENVIRONMENT**<br>公共卫生与环境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO URBAN DEVELOPMENT**<br>城市发展导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO URBAN DEVELOPMENT**<br>城市发展入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **WEATHER AND CLIMATE**<br>天气与气候 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY BIOGEOGRAPHY**<br>生物地理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |
 | **GEOMORPHOLOGY AND HYDROLOGY**<br>地貌学与水文学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21035&SelectedCalendar=Live&ArchiveID=) |

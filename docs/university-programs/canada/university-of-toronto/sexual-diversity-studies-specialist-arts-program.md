@@ -12,13 +12,13 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Sexual Diversity Studies Specialist (Arts Program)**<br>性多元研究专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Sexuality at the Intersections**<br>交叉处的性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Sexuality and Modernity**<br>性与现代性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Histories of Sexuality**<br>性的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Methods in Queer and Trans Studies**<br>酷儿与跨性别研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Theories of Sexuality**<br>性理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
-| **Introduction to HIV/AIDS: Health, Sexuality and Gender**<br>HIV/AIDS导论：健康、性与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
+| **Introduction to HIV/AIDS: Health, Sexuality and Gender**<br>HIV/AIDS入门：健康、性与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Sex and the Epidemic: Social Work, HIV, and Human Sexuality**<br>性与流行病：社会工作、HIV与人类性行为 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Sexuality and Law**<br>性与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Queer Youth Studies in Education**<br>教育中的酷儿青少年研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
@@ -27,8 +27,8 @@ ms.date: 2026-11-11
 | **Queer Religion and Religiosities**<br>酷儿宗教与宗教性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Lesbian Studies: Identity/Theory/Culture**<br>女同性恋研究：身份/理论/文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Sexual Diversity in Transnational Perspective**<br>跨国视角下的性多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
-| **Intro to Trans Studies**<br>跨性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
-| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
+| **Intro to Trans Studies**<br>跨性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
+| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Queer Indigenous Politics and Cultures**<br>酷儿原住民政治与文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Sexuality & Disability**<br>性与残障 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Queer Migrations and Refugee Politics**<br>酷儿移民与难民政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-11
 | **A History of Queer Asia**<br>亚洲酷儿史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Sex and Gender in Contemporary Italy**<br>当代意大利的性与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Love in the Renaissance**<br>文艺复兴中的爱 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
-| **Introduction to Critical Disability Studies**<br>批判残障研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
+| **Introduction to Critical Disability Studies**<br>批判残障研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Body Matters: Oppression, Solidarity and Justice**<br>身体问题：压迫、团结与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Gender and Sexuality in Premodern Arabic Literature**<br>前现代阿拉伯文学中的性别与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |
 | **Gender and Sexuality in Modern Middle Eastern Cultures**<br>现代中东文化中的性别与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1240) |

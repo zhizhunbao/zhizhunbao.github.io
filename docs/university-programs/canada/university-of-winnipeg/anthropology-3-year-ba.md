@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Anthropology, 3-Year BA**<br>人类学，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
-| **Introductory Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
-| **Introductory Biological Anthropology and Archaeology plus one of**<br>生物人类学与考古学导论，加以下之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
-| **Introductory Cultural Anthropology and Linguistics**<br>文化人类学与语言学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
-| **Introductory Cultural Anthropology – Indigenous Focus**<br>文化人类学导论：原住民专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
+| **Introductory Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
+| **Introductory Biological Anthropology and Archaeology plus one of**<br>生物人类学与考古学入门，加以下之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
+| **Introductory Cultural Anthropology and Linguistics**<br>文化人类学与语言学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
+| **Introductory Cultural Anthropology – Indigenous Focus**<br>文化人类学入门：原住民专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
 | **Method and Theory in Cultural Anthropology**<br>文化人类学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
 | **Method and Theory in Archaeology**<br>考古学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |
 | **Method and Theory in Biological Anthropology**<br>生物人类学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/anth.pdf#page=1) |

@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration - Human Resources Major**<br>工商管理，人力资源专业方向 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
-| **Introduction to Organizations and Sustainability**<br>组织与可持续性导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
+| **Introduction to Organizations and Sustainability**<br>组织与可持续性入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |
 | **Change Management**<br>变革管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-human-resources) |

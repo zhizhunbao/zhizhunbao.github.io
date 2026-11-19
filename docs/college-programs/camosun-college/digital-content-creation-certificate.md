@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Digital Content Creation, Certificate**<br>数字内容创作证书 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/digital-content-creation-certificate) |
-| **Introduction to Communication**<br>传播学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4193) |
+| **Introduction to Communication**<br>传播学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4193) |
 | **Digital Media Literacy**<br>数字媒体素养 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4193) |
 | **Digital Journalism**<br>数字新闻 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4193) |
 | **Graphic Communication 1**<br>图形传达 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4193) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Intelligence Data Analysis and Reporting**<br>商业智能数据分析与报告 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-intelligence-data-analysis-and-reporting) |
-| **Introduction to Data Management**<br>数据管理导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-intelligence-data-analysis-and-reporting) |
+| **Introduction to Data Management**<br>数据管理入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-intelligence-data-analysis-and-reporting) |
 | **Architecture and Design**<br>建筑与设计 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-intelligence-data-analysis-and-reporting) |
 | **Data Discovery and Ingestion**<br>数据发现与摄取 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-intelligence-data-analysis-and-reporting) |
 | **Reporting and Analytics**<br>报告与分析 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-intelligence-data-analysis-and-reporting) |

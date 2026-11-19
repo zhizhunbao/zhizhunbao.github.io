@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Materials Aircraft Structures**<br>材料与飞机结构 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/aircraft-maintenance-technician-diploma/) |
 | **Aircraft Hardware Approved Parts**<br>飞机五金件与批准零件 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/aircraft-maintenance-technician-diploma/) |
 | **Aircraft Hydraulic Pneumatic Systems**<br>飞机液压与气动系统 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/aircraft-maintenance-technician-diploma/) |
-| **Aircraft Equipment Introduction**<br>飞机设备导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/aircraft-maintenance-technician-diploma/) |
+| **Aircraft Equipment Introduction**<br>飞机设备入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/aircraft-maintenance-technician-diploma/) |
 | **Basic Aircraft Electricity Dc**<br>飞机直流电基础 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/aircraft-maintenance-technician-diploma/) |
 | **Blueprint Design**<br>蓝图设计 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/aircraft-maintenance-technician-diploma/) |
 | **Hand Tools**<br>手工工具 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/aircraft-maintenance-technician-diploma/) |

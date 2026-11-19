@@ -1,10 +1,10 @@
 ---
-title: "3.3.36 Geophysics, Major: Bachelor of Science"
+title: "4.3.36 Geophysics, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Geophysics, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.36 Geophysics, Major: Bachelor of Science
+# 4.3.36 Geophysics, Major: Bachelor of Science
 
 ## Glossary
 
@@ -12,7 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Geophysics, Major: Bachelor of Science**<br>地球物理学，主修：理学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Frontiers of Geophysical Research at Stanford**<br>斯坦福地球物理研究前沿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Taking the Pulse of the Planet**<br>把脉地球 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Near-Surface Geophysics: Imaging Groundwater Systems**<br>近地表地球物理：地下水系统成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Introductory Seismology**<br>地震学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **Machine Learning and the Physical Sciences**<br>机器学习与物理科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Laboratory Characterization of Properties of Rocks and Geomaterials**<br>岩石与岩土材料性质的实验室表征 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Paleomagnetism**<br>古地磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Introduction to Electronic Techniques for Physics Research Instrumentation**<br>物理研究仪器的电子技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Introduction to Electronic Techniques for Physics Research Instrumentation**<br>物理研究仪器的电子技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Undergraduate Research in Geophysics**<br>地球物理学本科生研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Vector Calculus for Engineers**<br>工程师矢量微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-18
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Linear Algebra and Partial Differential Equations for Engineers**<br>工程师线性代数与偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Computational Physics**<br>计算物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Exploring Geosciences with MATLAB**<br>用 MATLAB 探索地球科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
@@ -40,11 +40,11 @@ ms.date: 2026-11-18
 | **Electricity and Magnetism Using Special Relativity and Vector Calculus**<br>运用狭义相对论与矢量微积分的电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Light and Heat**<br>光与热 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Quantum and Thermal Physics**<br>量子与热物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **The Water Course**<br>水之课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Tectonics Field Trip**<br>构造地质野外考察 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Planetary Surface Processes: Shaping the Landscape of the Solar System**<br>行星表面过程：塑造太阳系的景观 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Introduction to Planetary Science**<br>行星科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Introduction to Planetary Science**<br>行星科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Fundamentals of Atmospheric and Climate Dynamics**<br>大气与气候动力学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Physics of Ice**<br>冰的物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Remote Sensing of the Oceans**<br>海洋遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
@@ -52,13 +52,13 @@ ms.date: 2026-11-18
 | **Fluids and Flow in the Earth: Computational Methods**<br>地球中的流体与流动：计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Stand up: Impactful Presentation and Public Speaking**<br>站起来：有影响力的演示与公开演讲 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Tropical Atmosphere and Climate**<br>热带大气与气候 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **An Introduction to Quantitative X-ray Microanalysis**<br>定量X射线微区分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **An Introduction to Quantitative X-ray Microanalysis**<br>定量X射线微区分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Waves in Solids and Fluids**<br>固体与流体中的波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Planetary Geophysics: Theory, Observational Techniques and Data Analysis**<br>行星地球物理：理论、观测技术与数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Computational Earth System Analysis**<br>计算地球系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Experimental Earth and Planetary System Analysis**<br>实验性地球与行星系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Fiber Sensing for a Sustainable Planet**<br>面向可持续地球的光纤传感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Introduction to Radar Remote Sensing**<br>雷达遥感导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Introduction to Radar Remote Sensing**<br>雷达遥感入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Imaging with Incomplete Information**<br>不完全信息成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Rock Physics**<br>岩石物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Imaging Radar and Applications**<br>成像雷达及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
@@ -67,9 +67,9 @@ ms.date: 2026-11-18
 | **Earthquake Seismology**<br>地震地震学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Crustal Deformation**<br>地壳变形 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Earth and Planetary Processes and Mechanics**<br>地球与行星过程及力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Introduction to Data Science for Geoscience**<br>地球科学数据科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Earth Materials: Introduction to Mineralogy**<br>地球材料：矿物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
-| **Introduction to Sedimentology and Stratigraphy**<br>沉积学与地层学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Introduction to Data Science for Geoscience**<br>地球科学数据科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Earth Materials: Introduction to Mineralogy**<br>地球材料：矿物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
+| **Introduction to Sedimentology and Stratigraphy**<br>沉积学与地层学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Geochemical Thermodynamics**<br>地球化学热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation**<br>大气、海洋与气候动力学：海洋环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |
 | **Physical Hydrogeology**<br>物理水文地质学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/geophysics/bachelor-of-science) |

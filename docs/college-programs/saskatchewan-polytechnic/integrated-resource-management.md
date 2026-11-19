@@ -12,16 +12,16 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Integrated Resource Management**<br>综合资源管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
 | **Indigenous Cultural Awareness**<br>原住民文化意识 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
-| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 导论 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
+| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 入门 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
 | **Work Preparation For Resource Managers**<br>资源管理者工作准备 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
-| **Introduction to Environmental Science and Technology**<br>环境科学与技术导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
+| **Introduction to Environmental Science and Technology**<br>环境科学与技术入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
 | **Small Motors**<br>小型电机 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
-| **Introduction to Forestry**<br>林业导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
+| **Introduction to Forestry**<br>林业入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
 | **Basics of Global Positioning Systems (GPS)**<br>全球定位系统（GPS）基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
-| **Introduction to Mapping and Compassing**<br>制图与罗盘使用导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
-| **Introduction to Resource Legislation**<br>资源法规导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
+| **Introduction to Mapping and Compassing**<br>制图与罗盘使用入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
+| **Introduction to Resource Legislation**<br>资源法规入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
 | **Landscape, Soils and Ecoregions**<br>景观、土壤与生态区 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
 | **Plant Taxonomy and Identification**<br>植物分类与鉴定 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
 | **Winter Camp**<br>冬季营地 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |
 | **Winter Aquatic Surveys**<br>冬季水生生物调查 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Integrated-Resource-Management.aspx) |

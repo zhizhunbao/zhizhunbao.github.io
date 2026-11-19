@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Advanced Accounting**<br>高级会计 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/advanced-accounting) |
 | **Management Accounting II**<br>管理会计 2 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/advanced-accounting) |
-| **Introduction to Personal & Corporate Income Tax**<br>个人与企业所得税导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/advanced-accounting) |
+| **Introduction to Personal & Corporate Income Tax**<br>个人与企业所得税入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/advanced-accounting) |
 | **Advanced Financial Accounting**<br>高级财务会计 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/advanced-accounting) |
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/advanced-accounting) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/advanced-accounting) |

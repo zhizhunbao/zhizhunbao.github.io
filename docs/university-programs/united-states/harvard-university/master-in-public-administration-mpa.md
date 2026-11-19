@@ -1,10 +1,10 @@
 ---
-title: "3.1.57 Master in Public Administration (MPA)"
+title: "4.1.57 Master in Public Administration (MPA)"
 description: "University Programs > United States > Harvard University > Master in Public Administration (MPA): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.57 Master in Public Administration (MPA)
+# 4.1.57 Master in Public Administration (MPA)
 
 ## Glossary
 

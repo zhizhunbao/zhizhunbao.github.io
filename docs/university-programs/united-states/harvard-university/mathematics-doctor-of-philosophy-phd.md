@@ -1,10 +1,10 @@
 ---
-title: "3.1.122 Mathematics, Doctor of Philosophy (PhD)"
+title: "4.1.122 Mathematics, Doctor of Philosophy (PhD)"
 description: "University Programs > United States > Harvard University > Mathematics, Doctor of Philosophy (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.122 Mathematics, Doctor of Philosophy (PhD)
+# 4.1.122 Mathematics, Doctor of Philosophy (PhD)
 
 ## Glossary
 

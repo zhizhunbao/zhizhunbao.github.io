@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Economics, B.A. General**<br>经济学，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
-| **Introduction to Microeconomic Principles and Introduction to Macroeconomic Principles**<br>微观经济学原理导论 与 宏观经济学原理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
-| **Introduction to Canadian Economic Issues and Policies and Introduction to Global and Environmental Economic Issues and Policies**<br>加拿大经济问题与政策导论 与 全球与环境经济问题与政策导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
+| **Introduction to Microeconomic Principles and Introduction to Macroeconomic Principles**<br>微观经济学原理入门 与 宏观经济学原理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
+| **Introduction to Canadian Economic Issues and Policies and Introduction to Global and Environmental Economic Issues and Policies**<br>加拿大经济问题与政策入门 与 全球与环境经济问题与政策入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
 | **Microeconomic Theory 1**<br>微观经济理论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
 | **Macroeconomic Theory 1**<br>宏观经济理论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
 | **Quantitative Methods in Economics**<br>经济学中的定量方法 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
@@ -20,8 +20,8 @@ ms.date: 2026-11-11
 | **Economics of Gender**<br>性别经济学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
 | **Political Economy 1: Production and Distribution**<br>政治经济学 1：生产与分配 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
 | **Political Economy 2: Economic Growth and Fluctuations in a Global Economic Environment**<br>政治经济学 2：全球经济环境中的经济增长与波动 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
-| **An Introduction to the World's Economies**<br>世界经济导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
-| **An Introduction to Development Economics**<br>发展经济学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
+| **An Introduction to the World's Economies**<br>世界经济入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
+| **An Introduction to Development Economics**<br>发展经济学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
 | **Economic Determinants of Health**<br>健康的经济决定因素 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
 | **Alternative Approaches to Macroeconomic Analysis**<br>宏观经济分析的替代方法 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |
 | **History of Economic Thought 1**<br>经济思想史 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-general/) |

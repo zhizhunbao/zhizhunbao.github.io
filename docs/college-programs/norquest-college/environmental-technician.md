@@ -15,14 +15,14 @@ ms.date: 2026-11-08
 | **Scientific and Technical Writing**<br>科技写作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Prep for Employment**<br>就业准备 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Environmental Issues**<br>环境问题 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
-| **Introduction to Plant Identification**<br>植物识别导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
+| **Introduction to Plant Identification**<br>植物识别入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Data Management for Environmental Technician**<br>环境技术员数据管理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Organisms in their Environment**<br>生物与环境 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
-| **Introduction to Earth Sciences**<br>地球科学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
+| **Introduction to Earth Sciences**<br>地球科学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Solid Waste Management**<br>固体废物管理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Energy and Environmental Physics**<br>能源与环境物理学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Environmental Physics Lab**<br>环境物理实验 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
-| **Introduction to Wildlife Management**<br>野生动物管理导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
+| **Introduction to Wildlife Management**<br>野生动物管理入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Ecology**<br>生态学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Environmental Technician Field School**<br>环境技术员野外学校 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |
 | **Field Safety and Environmental Response**<br>现场安全与环境应急 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/environmental-technician/costs-and-courses/) |

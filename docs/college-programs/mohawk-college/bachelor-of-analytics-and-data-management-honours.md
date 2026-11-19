@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Analytics and Data Management (Honours)**<br>分析与数据管理学士（荣誉） | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://www.mohawkcollege.ca/programs/business/bachelor-of-analytics-and-data-management-honours) |
 | **Communications - Degree**<br>沟通 - 学位课程 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=392&prg_ver=26-A) |
-| **Introduction to Data Analytics and Careers**<br>数据分析与职业导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=392&prg_ver=26-A) |
-| **Introduction to MS Excel**<br>MS Excel导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=392&prg_ver=26-A) |
+| **Introduction to Data Analytics and Careers**<br>数据分析与职业入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=392&prg_ver=26-A) |
+| **Introduction to MS Excel**<br>MS Excel入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=392&prg_ver=26-A) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=392&prg_ver=26-A) |
 | **Mathematics - Degree**<br>数学 - 学位课程 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=392&prg_ver=26-A) |
 | **Breadth Elective 1**<br>广度选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=392&prg_ver=26-A) |

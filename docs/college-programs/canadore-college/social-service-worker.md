@@ -17,12 +17,12 @@ ms.date: 2026-11-08
 | **Social Service Worker Interviewing I**<br>社会服务工作者访谈 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Lifespan Development**<br>毕生发展 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Foundations of Sociology**<br>社会学基础 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
-| **Introduction to Social Service Work Practice I**<br>社会服务工作实践导论 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
+| **Introduction to Social Service Work Practice I**<br>社会服务工作实践入门 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Creative Writing**<br>创意写作 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Social Service Work with Families**<br>家庭社会服务工作 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Social Service Worker Interviewing II**<br>社会服务工作者访谈 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **SSW Methods: Community Organization**<br>社会服务工作方法：社区组织 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
-| **Introduction to Social Service Work Practice II**<br>社会服务工作实践导论 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
+| **Introduction to Social Service Work Practice II**<br>社会服务工作实践入门 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Mental Health and Addictions**<br>精神健康与成瘾 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Group Work for Social Service Workers**<br>社会服务工作者团体工作 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **SSW Methods of Intervention**<br>社会服务工作干预方法 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Trauma and Crisis**<br>创伤与危机 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Fieldwork Preparation**<br>实地工作准备 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Accountable Professional**<br>负责任的专业人员 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
-| **Introduction to Gerontology**<br>老年学导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
+| **Introduction to Gerontology**<br>老年学入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **General Education Elective - Online (SSW)**<br>通识教育选修课 - 在线（SSW） | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Fieldwork Integration**<br>实地工作整合 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |
 | **Fieldwork Placement**<br>实地工作实习 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker) |

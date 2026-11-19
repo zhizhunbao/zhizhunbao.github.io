@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Civil Engineering Technology**<br>土木工程技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **The Subsurface Environment**<br>地下环境 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
-| **Introduction to Physics and Team Work**<br>物理与团队合作导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
-| **Introduction to Technical Drafting and AutoCAD**<br>技术制图与AutoCAD导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
+| **Introduction to Physics and Team Work**<br>物理与团队合作入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
+| **Introduction to Technical Drafting and AutoCAD**<br>技术制图与AutoCAD入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Workplace Safety for Civil Technologists**<br>土木技术专家职场安全 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Technical Mathematics**<br>技术数学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Computer Applications in Excel**<br>Excel计算机应用 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Applied Physics**<br>应用物理学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Surveying**<br>测量学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Environmental Management**<br>环境管理 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
-| **Introduction to Building Principles**<br>建筑原理导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
+| **Introduction to Building Principles**<br>建筑原理入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **AutoCAD and Drafting Standards**<br>AutoCAD与制图标准 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Practical Surveying**<br>测量实操 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Intermediate Math for Technologists**<br>技术人员中级数学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **General Education Online**<br>在线通识教育 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Mechanics of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Fluid Mechanics Lab**<br>流体力学实验室 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
-| **Introduction to Concrete and Aggregates**<br>混凝土与骨料导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
+| **Introduction to Concrete and Aggregates**<br>混凝土与骨料入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Hydrology**<br>水文学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Strength of Materials Laboratory**<br>材料强度实验 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |
 | **Civil 3D for Land Development**<br>土地开发Civil 3D | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston) |

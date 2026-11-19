@@ -15,9 +15,9 @@ ms.date: 2026-11-08
 | **Congenital Communication Strategies and Intervenor Principles I**<br>先天性沟通策略与辅导员原则 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 | **Acquired Communication Strategies and Intervenor Principles I**<br>后天性沟通策略与辅导员原则 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 | **American Sign Language 1**<br>美国手语 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
-| **Introduction to Deafblindness**<br>聋盲导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
+| **Introduction to Deafblindness**<br>聋盲入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 | **Value, Ethics, and Professional Practice**<br>价值观、伦理与专业实践 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
-| **Introduction to Sensory Systems and Human Development**<br>感官系统与人类发展导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
+| **Introduction to Sensory Systems and Human Development**<br>感官系统与人类发展入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 | **Congenital Communication Strategies and Principles II**<br>先天性沟通策略与原则 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 | **Acquired Communication Strategies and Intervenor Principles II**<br>后天性沟通策略与辅导员原则 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 | **American Sign Language 2**<br>美国手语 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Accessibility and Program Planning**<br>无障碍与项目规划 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 | **Field Placement Seminar**<br>现场实习研讨 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 | **Field Placement**<br>实地实习 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
-| **Introduction to Sighted Guide**<br>引导盲人导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
+| **Introduction to Sighted Guide**<br>引导盲人入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/deafblind-intervenor-studies-program-c158) |
 
 ## Courses
 

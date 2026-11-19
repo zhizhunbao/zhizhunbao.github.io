@@ -11,15 +11,15 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Craft and Design (Ceramics)**<br>荣誉工艺与设计学士（陶瓷） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
-| **Introduction to Hand Building**<br>手工成型导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
-| **Introduction to Wheel Throwing**<br>拉坯成型导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
+| **Introduction to Hand Building**<br>手工成型入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
+| **Introduction to Wheel Throwing**<br>拉坯成型入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Alternate Media – Furniture**<br>替代媒介：家具 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Alternate Media – Glass**<br>替代媒介：玻璃 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Sketching & Drawing Fundamentals**<br>速写与绘画基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Digital 2D Visual Communication**<br>数字2D视觉传达 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Fundamental Ceramics**<br>陶瓷基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
-| **Introduction to Ceramic Technology**<br>陶瓷技术导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
+| **Introduction to Ceramic Technology**<br>陶瓷技术入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Alternate Media –Industrial Design**<br>替代媒介：工业设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Alternate Media – Textiles**<br>替代媒介：纺织品 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |
 | **Digital Modelling**<br>数字建模 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-ceramics) |

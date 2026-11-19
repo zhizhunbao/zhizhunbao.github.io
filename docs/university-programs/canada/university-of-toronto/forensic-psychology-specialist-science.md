@@ -11,21 +11,21 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Forensic Psychology - Specialist (Science)**<br>法证心理学－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Diversity of Organisms**<br>生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Forensic Science**<br>法医科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Forensic Science**<br>法医科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Quantitative Research in Psychology I**<br>心理学定量研究导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Quantitative Research in Psychology II**<br>心理学定量研究导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Quantitative Research in Psychology I**<br>心理学定量研究入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Quantitative Research in Psychology II**<br>心理学定量研究入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Ethics and Professionalism in Forensic Science**<br>法医学中的伦理与专业精神 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Forensic Psychology**<br>法医心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Developmental Psychology**<br>发展心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Social Psychology**<br>社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Personality Science**<br>人格科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Abnormal Psychology**<br>变态心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Forensic Psychology**<br>法医心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Developmental Psychology**<br>发展心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Social Psychology**<br>社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Personality Science**<br>人格科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Abnormal Psychology**<br>变态心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Cognition: The Machinery of the Mind**<br>认知：心智的机制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Sensation and Perception: Where the World Meets the Brain**<br>感觉与知觉：世界与大脑的交汇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Language, Mind, & Brain**<br>语言、心智与大脑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Forensic Identification**<br>法医鉴定 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Advanced Forensic Identification**<br>高级法医鉴定 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
@@ -64,7 +64,7 @@ ms.date: 2026-11-11
 | **Forensic Pathology**<br>法医病理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Forensic Toxicology**<br>法医毒理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 | **Forensic Analytical Toxicology**<br>法医分析毒理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
-| **Introduction To 3D Crime Scene Mapping And Reconstruction**<br>3D犯罪现场测绘与重建导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
+| **Introduction To 3D Crime Scene Mapping And Reconstruction**<br>3D犯罪现场测绘与重建入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1505) |
 
 ## Courses
 

@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Bachelor of Arts**<br>文学学士 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Recommended: ENGL 104 or ENGL 126**<br>建议：ENGL 104 或 ENGL 126 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Introductory Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
-| **Introduction to Philosophy: Values and Society**<br>哲学导论：价值观与社会 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
-| **Introduction to Government and Politics**<br>政府与政治导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
+| **Introduction to Philosophy: Values and Society**<br>哲学入门：价值观与社会 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
+| **Introduction to Government and Politics**<br>政府与政治入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Non-Arts course (Recommended: Science or Math)**<br>非文科课程（建议：科学或数学） | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Recommended: ENGL 103 or ENGL 125**<br>建议：ENGL 103 或 ENGL 125 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Race and Racism in the Modern World**<br>现代世界中的种族与种族主义 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
@@ -23,8 +23,8 @@ ms.date: 2026-11-08
 | **Reading Politics: Empire and the Postcolonial**<br>阅读政治：帝国与后殖民 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **The Short Story**<br>短篇小说 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Canadian History: 1500–1867**<br>加拿大历史：1500–1867 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
-| **Introduction to Social Statistics**<br>社会统计导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
-| **Introduction to Political Philosophy**<br>政治哲学导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
+| **Introduction to Social Statistics**<br>社会统计入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
+| **Introduction to Political Philosophy**<br>政治哲学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Reading Politics: Class and Ideology**<br>阅读政治：阶级与意识形态 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Canadian History: 1867 to Present**<br>加拿大历史：1867年至今 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |
 | **Sociology of Gender Roles**<br>性别角色社会学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-arts/) |

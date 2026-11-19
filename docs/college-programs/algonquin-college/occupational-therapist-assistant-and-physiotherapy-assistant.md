@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Occupational Therapist Assistant and Physiotherapy Assistant**<br>职业治疗助理与物理治疗助理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/wellness-safety-community/program/occupational-therapist-assistant-physiotherapist-assistant/) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1623X01FWO.pdf) |
-| **Introduction to Occupational Therapy and Physiotherapy**<br>职业治疗与物理治疗导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1623X01FWO.pdf) |
+| **Introduction to Occupational Therapy and Physiotherapy**<br>职业治疗与物理治疗入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1623X01FWO.pdf) |
 | **Introduction to Anatomy and Physiology for Health Care**<br>医疗保健解剖生理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1623X01FWO.pdf) |
 | **Rehabilitation and the Health Care System**<br>康复与医疗保健体系 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1623X01FWO.pdf) |
 | **Rehabilitation Concepts Through the Lifespan**<br>全生命周期康复概念 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1623X01FWO.pdf) |

@@ -27,14 +27,14 @@ ms.date: 2026-11-11
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Linear Algebra II**<br>线性代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Algebra II**<br>代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Ordinary Differential Equations**<br>常微分方程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Ordinary Differential Equations**<br>常微分方程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Advanced Ordinary Differential Equations**<br>高级常微分方程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Groups and Symmetries**<br>群与对称 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Number Theory**<br>数论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Graph Theory**<br>图论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Combinatorics**<br>组合数学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Number Theory**<br>数论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Graph Theory**<br>图论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Combinatorics**<br>组合数学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Real Analysis**<br>实分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Real Analysis**<br>实分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Elements of Analysis**<br>分析学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Mathematics of Finance for Non-Actuaries**<br>非精算师的金融数学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Mathematics of Investment & Credit**<br>投资与信贷数学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
@@ -44,14 +44,14 @@ ms.date: 2026-11-11
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **The Story of Number: Mathematics from the Babylonians to the Scientific Revolution**<br>数的故事：从巴比伦人到科学革命的数学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Rebels Who Count: The History of Mathematics from 1700 to the Present**<br>重要的反叛者：1700年至今的数学史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Mathematical Logic**<br>数理逻辑导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Mathematical Logic**<br>数理逻辑入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Chaos, Fractals and Dynamics**<br>混沌、分形与动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Geometry of Curves and Surfaces**<br>曲线与曲面几何 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **History of Mathematics up to 1700**<br>1700年前的数学史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **History of Mathematics after 1700**<br>1700年后的数学史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Theoretical Physiology**<br>理论生理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Mathematical Modelling**<br>数学建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Mathematical Probability**<br>数学概率导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Mathematical Probability**<br>数学概率入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Polynomial Equations and Fields**<br>多项式方程与域 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Nonlinear Optimization**<br>非线性优化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Classical Geometries**<br>古典几何 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
@@ -60,7 +60,7 @@ ms.date: 2026-11-11
 | **Mathematics and Law**<br>数学与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Concepts in Elementary Mathematics**<br>初等数学概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Computers and Society**<br>计算机与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Community Dis/Engagement and Solidarity**<br>社区脱离/参与与团结 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Conservation Biology**<br>保护生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Assessing Global Change: Science and the Environment**<br>评估全球变化：科学与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
@@ -69,12 +69,12 @@ ms.date: 2026-11-11
 | **Law and History**<br>法律与历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Science and Values**<br>科学与价值 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Technology in the Modern World**<br>现代世界中的技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Physical Science in Contemporary Society**<br>当代社会中的物理科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Political Philosophy**<br>政治哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Political Philosophy**<br>政治哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Law and Morality**<br>法律与道德 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Environmental Ethics**<br>环境伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
-| **Introduction to Ethics**<br>伦理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
+| **Introduction to Ethics**<br>伦理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Bioethics**<br>生物伦理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |
 | **Methods in Queer and Trans Studies**<br>酷儿与跨性别研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1165) |

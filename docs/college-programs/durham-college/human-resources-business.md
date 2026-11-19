@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Human Resources – Business**<br>人力资源 - 商务 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-human-resources) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-human-resources) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-human-resources) |
 | **Business Computer Applications 1**<br>商务计算机应用 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-human-resources) |
 | **Financial Planning**<br>财务规划 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-human-resources) |
 | **Human Resource Management 1**<br>人力资源管理 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-human-resources) |

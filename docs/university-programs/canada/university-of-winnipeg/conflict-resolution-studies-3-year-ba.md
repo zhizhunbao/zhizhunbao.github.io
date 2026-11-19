@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Conflict Resolution Studies, 3-Year BA**<br>冲突解决研究，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/crs.pdf#page=1) |
-| **Introduction to Conflict Resolution Studies**<br>冲突解决研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/crs.pdf#page=1) |
+| **Introduction to Conflict Resolution Studies**<br>冲突解决研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/crs.pdf#page=1) |
 | **Conflict Theory and Analysis**<br>冲突理论与分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/crs.pdf#page=1) |
 | **Coaching Skills Workshop**<br>教练技能工作坊 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/crs.pdf#page=1) |
 | **Conflict and Culture**<br>冲突与文化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/crs.pdf#page=1) |

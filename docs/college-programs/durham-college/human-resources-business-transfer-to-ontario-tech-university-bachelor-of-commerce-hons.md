@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Human Resources – Business – Transfer to Ontario Tech University Bachelor of Commerce (Hons)**<br>人力资源 - 商务 - 转入安大略理工大学商学学士（荣誉） | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/human-resources-business-transfer-to-ontario-tech-university-bachelor-of-commerce-hons) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/human-resources-business-transfer-to-ontario-tech-university-bachelor-of-commerce-hons) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/human-resources-business-transfer-to-ontario-tech-university-bachelor-of-commerce-hons) |
 | **Business Computer Applications 1**<br>商务计算机应用 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/human-resources-business-transfer-to-ontario-tech-university-bachelor-of-commerce-hons) |
 | **Financial Planning**<br>财务规划 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/human-resources-business-transfer-to-ontario-tech-university-bachelor-of-commerce-hons) |
 | **Human Resource Management 1**<br>人力资源管理 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/human-resources-business-transfer-to-ontario-tech-university-bachelor-of-commerce-hons) |

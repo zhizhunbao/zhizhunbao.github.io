@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Taxation - Individual**<br>税务：个人 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Finance**<br>金融 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Histories and Impacts of Colonization**<br>殖民化的历史与影响 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Governance and Organizational Structures**<br>治理与组织结构 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-08
 | **Field School: Fishing, Indigeneity and the Asia Pacific**<br>实地学校：渔业、原住民性与亚太地区 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Domination and Resistance: A History of Imperialism and Colonialism**<br>统治与抵抗：帝国主义与殖民主义史 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **First Nations Sociology**<br>原住民社会学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
-| **Introduction to Non-Profit Management**<br>非营利组织管理导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
+| **Introduction to Non-Profit Management**<br>非营利组织管理入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Consumer Behaviour**<br>消费者行为 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |
 | **Digital Marketing**<br>数字营销 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/business-administration/business-administration-diploma.html) |

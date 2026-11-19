@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Second Language Teaching - Teaching French as a Second Language (FLS)**<br>第二语言教学－法语作为第二语言教学（FLS）主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
-| **Introduction à la didactique des langues secondes I**<br>第二语言教学法导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
-| **Introduction à la didactique des langues secondes II**<br>第二语言教学法导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
-| **Introduction à la linguistique**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
+| **Introduction à la didactique des langues secondes I**<br>第二语言教学法入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
+| **Introduction à la didactique des langues secondes II**<br>第二语言教学法入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
+| **Introduction à la linguistique**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
 | **Écouter et lire en langue seconde**<br>第二语言听与读 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
 | **Parler et écrire en langue seconde**<br>用第二语言说与写 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |
 | **Didactique de la grammaire**<br>语法教学法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-french-second-language/) |

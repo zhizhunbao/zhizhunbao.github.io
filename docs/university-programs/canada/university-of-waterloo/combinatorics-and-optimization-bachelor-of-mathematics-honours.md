@@ -11,24 +11,24 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Combinatorics and Optimization (Bachelor of Mathematics - Honours)**<br>组合数学与最优化（数学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Optimization**<br>最优化导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Optimization (Advanced Level)**<br>最优化导论（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Optimization**<br>最优化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Optimization (Advanced Level)**<br>最优化入门（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Combinatorial Enumeration**<br>组合枚举 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Graph Theory**<br>图论导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Graph Theory**<br>图论入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Network Flow Theory**<br>网络流理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Computational Discrete Optimization**<br>计算离散优化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Nonlinear Optimization**<br>非线性优化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Integer Programming**<br>整数规划 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Scheduling**<br>调度 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Topics in Optimization**<br>最优化专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Convex Optimization and Analysis**<br>凸优化与分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Continuous Optimization**<br>连续优化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Semidefinite Optimization**<br>半定优化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Combinatorics**<br>组合数学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Combinatorics (Advanced Level)**<br>组合数学导论（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Group Theory with Applications**<br>群论及其应用导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Combinatorics**<br>组合数学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Combinatorics (Advanced Level)**<br>组合数学入门（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Group Theory with Applications**<br>群论及其应用入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Groups and Rings**<br>群与环 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Coding Theory**<br>编码理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Algebraic Enumeration**<br>代数枚举 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
@@ -40,21 +40,21 @@ ms.date: 2026-11-11
 | **Graph Theory**<br>图论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Algebraic Graph Theory**<br>代数图论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Matroid Theory**<br>拟阵理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Quantum Information Processing**<br>量子信息处理导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Quantum Information Processing**<br>量子信息处理入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **The Mathematics of Public-Key Cryptography**<br>公钥密码学的数学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Topics in Quantum Information**<br>量子信息专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Applied Cryptography**<br>应用密码学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Formal Languages and Parsing**<br>形式语言与语法分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Algorithm Design and Analysis**<br>算法设计与分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Symbolic Computation**<br>符号计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Symbolic Computation**<br>符号计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Applied Real Analysis**<br>应用实分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Real Analysis**<br>实分析导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Real Analysis**<br>实分析入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Real Analysis**<br>实分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Applied Complex Analysis**<br>应用复分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Complex Analysis**<br>复分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Calculus 3 for Honours Mathematics**<br>荣誉数学微积分 3 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Calculus 3 (Advanced Level)**<br>微积分 3（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
-| **Introduction to Rings and Fields with Applications**<br>环与域及其应用导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
+| **Introduction to Rings and Fields with Applications**<br>环与域及其应用入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Fields and Galois Theory**<br>域与伽罗瓦理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Elementary Number Theory**<br>初等数论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |
 | **Analytic Number Theory**<br>解析数论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyeD110Co2) |

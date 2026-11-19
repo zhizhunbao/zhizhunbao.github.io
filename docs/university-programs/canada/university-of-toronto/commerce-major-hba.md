@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Commerce - Major (HBA)**<br>商学－主修（HBA） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
-| **Introduction to Management Functions**<br>管理职能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
+| **Introduction to Management Functions**<br>管理职能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Integral Calculus for Life Sciences**<br>生命科学积分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Differential Calculus for Mathematical Sciences**<br>数学科学微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Integral Calculus for Mathematical Sciences**<br>数学科学积分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Foundations of Econometrics**<br>计量经济学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Probability and Statistics I**<br>概率与统计 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Statistics with Applied Probability**<br>统计学与应用概率 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
@@ -34,12 +34,12 @@ ms.date: 2026-11-11
 | **Business Finance II**<br>企业财务 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Introductory Financial Accounting I**<br>财务会计入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Introductory Financial Accounting II**<br>财务会计入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Managing the Business Organization**<br>商业组织管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Fundamentals of Management**<br>管理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
-| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
-| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
+| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
+| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1111) |

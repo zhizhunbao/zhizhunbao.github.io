@@ -13,13 +13,13 @@ ms.date: 2026-11-11
 | **Bachelor of Science in Psychiatric Nursing (BScPN)**<br>理学学士，精神科护理（BScPN） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Health Promotion: Developmental Transitions Throughout the Lifespan**<br>健康促进：全生命周期的发展转变 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Fundamentals of Psychiatric Nursing Practice I**<br>精神科护理实践基础 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
-| **Introduction to Interpersonal Communication**<br>人际沟通导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
-| **Intro Psychology: Part I**<br>心理学导论：第 I 部分 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
-| **Intro Psychology: Part II**<br>心理学导论：第 II 部分 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
-| **Intro Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
+| **Introduction to Interpersonal Communication**<br>人际沟通入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
+| **Intro Psychology: Part I**<br>心理学入门：第 I 部分 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
+| **Intro Psychology: Part II**<br>心理学入门：第 II 部分 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
+| **Intro Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Human Anatomy and Physiology I \***<br>人体解剖与生理学 I \* | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Human Anatomy and Physiology II \***<br>人体解剖与生理学 II \* | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Fundamentals of Psychological Research I**<br>心理学研究基础 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Social Research Methods II**<br>社会研究方法 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Principles of Health Assessment**<br>健康评估原理 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
@@ -39,13 +39,13 @@ ms.date: 2026-11-11
 | **Acute Mental Health Challenges**<br>急性心理健康挑战 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Family Counselling**<br>家庭咨询 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Psychiatric Nursing for Elderly Persons**<br>老年人精神科护理 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
-| **Introduction to Palliative Care**<br>姑息治疗导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
+| **Introduction to Palliative Care**<br>姑息治疗入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Developmental Challenges**<br>发展性挑战 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Addictions**<br>成瘾 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Interpersonal Violence**<br>人际暴力 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Integrative Clinical Practicum**<br>综合临床实习 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Transition to Professional Practice**<br>向专业实践过渡 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
-| **Introduction to Health Research Methods**<br>健康研究方法导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
+| **Introduction to Health Research Methods**<br>健康研究方法入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Psychiatric Rehabilitation and Recovery**<br>精神康复与复原 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 | **Philosophical Perspectives for Practice**<br>实践的哲学视角 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=343) |
 

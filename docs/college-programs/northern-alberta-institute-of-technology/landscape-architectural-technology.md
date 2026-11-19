@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Landscape Construction Detailing**<br>景观构造详图设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
-| **Introduction to AutoCAD for Landscape Architecture**<br>风景园林 AutoCAD 导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
+| **Introduction to AutoCAD for Landscape Architecture**<br>风景园林 AutoCAD 入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
 | **Plant Identification and Application**<br>植物识别与应用 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
-| **Introduction to Landscape Presentation Techniques**<br>景观表现技法导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
+| **Introduction to Landscape Presentation Techniques**<br>景观表现技法入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
 | **Landscape Construction Drawings**<br>景观施工图 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
-| **Introduction to Landscape Architectural Design**<br>风景园林设计导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
+| **Introduction to Landscape Architectural Design**<br>风景园林设计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
 | **Technical Mathematics**<br>技术数学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
 | **Presentation Applications for Landscape Architecture**<br>风景园林演示应用 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |
 | **3D Modelling for Landscape Architecture**<br>景观建筑三维建模 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/landscape-architectural-technology) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Classroom Management**<br>课堂管理 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=288) |
 | **Foundations of Literacy Learning and Teaching**<br>读写学习与教学基础 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=288) |
 | **Teaching of Indigenous Studies**<br>原住民研究教学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=288) |
-| **Intro ELA Methods (MY)**<br>英语语言艺术方法导论（MY） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=288) |
+| **Intro ELA Methods (MY)**<br>英语语言艺术方法入门（MY） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=288) |
 | **Social Studies Methods (MY)**<br>社会科学教学方法（MY） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=288) |
 | **Science Methods (MY)**<br>科学方法（MY） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=288) |
 | **Using Information and Communication Technology (ICT) in Education (MY-SY)**<br>教育中的信息与通信技术（ICT）应用（MY-SY） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=288) |

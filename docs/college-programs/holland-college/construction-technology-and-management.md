@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Construction Technology and Management**<br>建筑技术与管理 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **PEI Occupational Health and Safety**<br>PEI职业健康与安全 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
-| **Introduction to CAD**<br>CAD 导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
+| **Introduction to CAD**<br>CAD 入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **Codes and Standards**<br>规范与标准 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
@@ -33,8 +33,8 @@ ms.date: 2026-11-08
 | **Hazardous Materials Awareness**<br>危险品认知 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **Fall Protection Awareness**<br>坠落防护认知 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **Physics**<br>物理学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
-| **Introduction to Statics**<br>静力学导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
-| **Introduction to Structures**<br>结构导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
+| **Introduction to Statics**<br>静力学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
+| **Introduction to Structures**<br>结构入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **Construction Technology and Management OJT**<br>建筑技术与管理在岗培训 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **Surveying Fundamentals**<br>测量学基础 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |
 | **Construction Surveying**<br>施工测量 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/construction-technology-and-management/index.php) |

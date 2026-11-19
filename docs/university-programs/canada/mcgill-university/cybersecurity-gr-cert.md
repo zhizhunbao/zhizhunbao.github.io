@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Cybersecurity (Gr. Cert.)**<br>网络安全（研究生证书） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/information-studies/cybersecurity-gr-cert/) |
-| **Introduction to Cybersecurity and Cryptography.**<br>网络安全与密码学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/information-studies/cybersecurity-gr-cert/) |
+| **Introduction to Cybersecurity and Cryptography.**<br>网络安全与密码学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/information-studies/cybersecurity-gr-cert/) |
 | **Modern Software Exploitation and Defence.**<br>现代软件攻防 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/information-studies/cybersecurity-gr-cert/) |
 | **Network and Endpoint Security.**<br>网络与终端安全 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/information-studies/cybersecurity-gr-cert/) |
 | **Windows and Linux OS Hardening.**<br>Windows 与 Linux 操作系统加固 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/information-studies/cybersecurity-gr-cert/) |

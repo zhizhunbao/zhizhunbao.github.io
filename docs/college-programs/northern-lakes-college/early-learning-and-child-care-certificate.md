@@ -13,15 +13,15 @@ ms.date: 2026-11-08
 | **Early Learning and Child Care Certificate**<br>幼儿学习与托育证书 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care/program/1990) |
 | **Child and Adolescent Development**<br>儿童与青少年发展 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
 | **Interpersonal Communications for the Helping Profession**<br>助人职业人际沟通 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
-| **Introduction to Exceptionalities**<br>特殊需求导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
-| **Introduction to Early Learning and Child Care**<br>早期学习与儿童照护导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
+| **Introduction to Exceptionalities**<br>特殊需求入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
+| **Introduction to Early Learning and Child Care**<br>早期学习与儿童照护入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
 | **Managing and Supporting Children's Behavior**<br>儿童行为管理与支持 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
 | **Learning Through Play**<br>在游戏中学习 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
 | **Infant and Toddler Care**<br>婴幼儿照护 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
 | **Health, Nutrition and Safety**<br>健康、营养与安全 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
 | **Practicum II**<br>实习 II | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
-| **Introduction to English Language and Literature**<br>英语语言与文学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
+| **Introduction to English Language and Literature**<br>英语语言与文学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/early-learning-and-child-care) |
 
 ## Courses
 

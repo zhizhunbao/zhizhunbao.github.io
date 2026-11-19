@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Administration, Post Degree Diploma - HR Management & Leadership Option**<br>工商管理学位后文凭，人力资源管理与领导力方向 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/business-administration-post-degree-diploma-hr-management-leadership-option) |
 | **Financial Management**<br>财务管理 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4245) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4245) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4245) |
 | **HR Management Foundations**<br>人力资源管理基础 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4245) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4245) |
 | **Strategic Compensation**<br>战略薪酬 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4245) |

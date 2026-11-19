@@ -1,10 +1,10 @@
 ---
-title: "3.4.32 Electrical Engineering and Computer Science (B.S.)"
+title: "4.4.32 Electrical Engineering and Computer Science (B.S.)"
 description: "University Programs > United States > Yale University > Electrical Engineering and Computer Science (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.32 Electrical Engineering and Computer Science (B.S.)
+# 4.4.32 Electrical Engineering and Computer Science (B.S.)
 
 ## Glossary
 
@@ -15,13 +15,13 @@ ms.date: 2026-11-18
 | **Calculus of Functions of One Variable II**<br>一元函数微积分 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **Multivariable Calculus for Engineers**<br>工程师多元微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **University Physics**<br>大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **Fundamentals of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **Mathematical Tools for Computer Science**<br>计算机科学数学工具 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **Data Structures and Programming Techniques**<br>数据结构与编程技术 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
-| **Introduction to Systems Programming and Computer Organization**<br>系统编程与计算机组成导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
+| **Introduction to Systems Programming and Computer Organization**<br>系统编程与计算机组成入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **Algorithms**<br>算法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **Linear Algebra with Applications**<br>线性代数及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/) |

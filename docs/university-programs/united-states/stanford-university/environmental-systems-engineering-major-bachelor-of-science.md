@@ -1,10 +1,10 @@
 ---
-title: "3.3.32 Environmental Systems Engineering, Major: Bachelor of Science"
+title: "4.3.32 Environmental Systems Engineering, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Environmental Systems Engineering, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.32 Environmental Systems Engineering, Major: Bachelor of Science
+# 4.3.32 Environmental Systems Engineering, Major: Bachelor of Science
 
 ## Glossary
 
@@ -19,28 +19,28 @@ ms.date: 2026-11-18
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Vector Calculus for Engineers**<br>工程师矢量微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Ordinary Differential Equations for Engineers**<br>工程师常微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Mechanics, Concepts, Calculations, and Context**<br>力学：概念、计算与情境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Chemical Principles I**<br>化学原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Chemical Principles II**<br>化学原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Chemical Foundations and 21st Century Problems**<br>化学基础与21世纪问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Modern Physics for Engineers**<br>工程师近代物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Electricity and Magnetism**<br>电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Light and Heat**<br>光与热 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Legal / Ethical Principles in Design, Construction, Project Delivery**<br>设计、施工与项目交付中的法律与伦理原则 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Environmental Science and Technology**<br>环境科学与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Foundational Biology for Engineers**<br>工程师的基础生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Intro to Solid Mechanics**<br>固体力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Energy Emphasis**<br>材料科学导论，能源方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Intro to Solid Mechanics**<br>固体力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Energy Emphasis**<br>材料科学入门，能源方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Engineering Economics and Sustainability**<br>工程经济学与可持续性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Engineering Thermodynamics**<br>工程热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Coastal Processes**<br>海岸过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Mechanics of Fluids**<br>流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Introduction to Mechanics of Fluids**<br>流体力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Introduction to Mechanics of Fluids**<br>流体力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Planet Ocean**<br>海洋星球 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Introduction to Physical Oceanography**<br>物理海洋学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Introduction to Physical Oceanography**<br>物理海洋学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation**<br>大气、海洋与气候动力学：海洋环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Transport and Mixing in Surface Water Flows**<br>地表水流中的输运与混合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Remote Sensing of the Oceans**<br>海洋遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
@@ -66,10 +66,10 @@ ms.date: 2026-11-18
 | **Building Envelope Design & Construction**<br>建筑围护结构设计与施工 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Studio 1: Architecture - Space, Light, and Movement**<br>设计工作室 1：建筑：空间、光线与运动 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Infrastructure Project Development**<br>基础设施项目开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Introduction to Sensing Networks for CEE**<br>土木与环境工程传感网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Introduction to Sensing Networks for CEE**<br>土木与环境工程传感网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Building Systems Design & Analysis**<br>建筑系统设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation**<br>大气、海洋与气候动力学：大气环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Hydrologic Processes, Water Resources and Hazards**<br>水文过程、水资源与灾害 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Air Quality Management**<br>空气质量管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Electricity Economics**<br>电力经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
@@ -80,7 +80,7 @@ ms.date: 2026-11-18
 | **Providing Safe Water for the Developing and Developed World**<br>为发展中与发达世界提供安全用水 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Wastewater Treatment: From Disposal to Resource Recovery**<br>废水处理：从处置到资源回收 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Techniques and Methods for Decarbonized and Energy Efficient Building Design**<br>脱碳节能建筑设计的技术与方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Intro to Urban Sys Engrg**<br>城市系统工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Intro to Urban Sys Engrg**<br>城市系统工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Physical Hydrogeology**<br>物理水文地质学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Remote Sensing of Hydrology**<br>水文遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Engineering Future Electricity Systems**<br>未来电力系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
@@ -97,7 +97,7 @@ ms.date: 2026-11-18
 | **Optimization of Energy Systems**<br>能源系统优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Fundamentals of Energy Processes**<br>能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution**<br>太阳能电池、燃料电池与蓄电池：能源解决方案的材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
-| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计导论：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
+| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计入门：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 | **Directed Writing Projects**<br>指导性写作项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/environmental-systems-engineering/bachelor-of-science) |
 

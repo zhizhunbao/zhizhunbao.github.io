@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Journalism**<br>新闻学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/journalism) |
 | **Writing Essentials**<br>写作要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/journalism) |
-| **Introduction to Journalism**<br>新闻学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/journalism) |
+| **Introduction to Journalism**<br>新闻学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/journalism) |
 | **Audio Journalism**<br>音频新闻 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/journalism) |
 | **Current Affairs**<br>时事 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/journalism) |
 | **Journalism Ethics**<br>新闻伦理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/journalism) |

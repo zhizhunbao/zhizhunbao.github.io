@@ -35,11 +35,11 @@ ms.date: 2026-11-11
 | Year 2 |  | MMG3005Y | Ethical and Legal Implications of Genomics | 1.00 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
 | Year 2 |  | MMG3007Y | Clinical Practicum in Medical Genomics | 1.00 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
 | Year 2 | or | MMG3008Y | Practicum in Modern Genomics | 1.00 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
-| Year 2 | Four elective modular courses from the following list (1.0 FCE) | MMG3201H | Medical Genomics Graduate Professional Development | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
-| Year 2 | Four elective modular courses from the following list (1.0 FCE) | MMG3202H | Next-Generation Sequencing - Data Generation Laboratory | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
-| Year 2 | Four elective modular courses from the following list (1.0 FCE) | MMG3203H | Next-Generation Sequencing - Data Analysis and Interpretation | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
-| Year 2 | Four elective modular courses from the following list (1.0 FCE) | MMG3204H | Practical Applications of Genome Interpretation | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
-| Year 2 | Four elective modular courses from the following list (1.0 FCE) | MMG3205H | Research Topics in Medical Genomics | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
+| Year 2 | or; Four elective modular courses from the following list (1.0 FCE) | MMG3201H | Medical Genomics Graduate Professional Development | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
+| Year 2 | or; Four elective modular courses from the following list (1.0 FCE) | MMG3202H | Next-Generation Sequencing - Data Generation Laboratory | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
+| Year 2 | or; Four elective modular courses from the following list (1.0 FCE) | MMG3203H | Next-Generation Sequencing - Data Analysis and Interpretation | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
+| Year 2 | or; Four elective modular courses from the following list (1.0 FCE) | MMG3204H | Practical Applications of Genome Interpretation | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
+| Year 2 | or; Four elective modular courses from the following list (1.0 FCE) | MMG3205H | Research Topics in Medical Genomics | 0.25 | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics) |
 
 ## References
 

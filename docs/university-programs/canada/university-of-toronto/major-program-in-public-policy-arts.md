@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR PROGRAM IN PUBLIC POLICY (ARTS)**<br>公共政策主修项目（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Canadian Politics and Government**<br>加拿大政治与政府 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **The Canadian Constitution and the Charter of Rights**<br>加拿大宪法与权利宪章 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Public Policy Making**<br>公共政策制定 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
@@ -22,8 +22,8 @@ ms.date: 2026-11-11
 | **Quantitative Methods in Economics I**<br>经济学定量方法 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Quantitative Reasoning for Political Science and Public Policy**<br>政治学与公共政策定量推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-| **An Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+| **An Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Geographic Information Systems (GIS) and Empirical Reasoning**<br>地理信息系统 (GIS) 与实证推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Policy Communications with Data**<br>数据驱动的政策沟通 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Applied Statistics for Politics and Public Policy**<br>政治与公共政策应用统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Emerging Health Issues and Policy Needs**<br>新兴健康问题与政策需求 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Politics of Canadian Health Policy**<br>加拿大卫生政策的政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Comparative Health Policy Systems**<br>比较卫生政策体系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-| **Introduction to International/Global Health**<br>国际/全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+| **Introduction to International/Global Health**<br>国际/全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Economics of Health Care**<br>医疗保健经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Environmental Impact Assessment and Auditing**<br>环境影响评价与审计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 | **Sustainability in Practice**<br>可持续性实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
@@ -86,29 +86,24 @@ ms.date: 2026-11-11
 |---|---|---|---|---|---|
 |  | Students must complete a total of 8.0 credits as follows |  | 1. 1.0 credit at the A- or B-level in Anthropology, City Studies, Geography, International Development Studies, Political Science, or Sociology |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 |  | Students must complete a total of 8.0 credits as follows |  | Note: at least 0.5 credit at the A-level in Political Science is recommended. We also recommend interested students take introductory courses in disciplines like City Studies, Economics for Management Studies, Environmental Science, Health and Society, International Development Studies, and Sociology that may reflect their particular substantive interests. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows |  | 2. Economics for Public Policy (1.0 credit): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | MGEA01H3 | Introduction to Microeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | MGEA05H3 | Introduction to Macroeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | MGEA02H3 | Introduction to Microeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | MGEA06H3 | Introduction to Macroeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows |  | 3. Canadian Politics (1.0 credit) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | POLB56H3 | Canadian Politics and Government | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | POLB57H3 | The Canadian Constitution and the Charter of Rights | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows |  | 4. Fundamentals of Public Policy (1.0 credit) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | PPGB66H3 | Public Policy Making | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | PPGC67H3 | Public Policy in Canada | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows |  | 5. Statistics 0.5 credit from: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | MGEB11H3 | Quantitative Methods in Economics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | POLB40H3 | Quantitative Reasoning for Political Science and Public Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | STAB57H3 | An Introduction to Statistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows |  | 6. Methods 0.5 credits from: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | GGRA30H3 | Geographic Information Systems (GIS) and Empirical Reasoning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | PPGB11H3 | Policy Communications with Data | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | POLC11H3 | Applied Statistics for Politics and Public Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows | POLC78H3 | Political Analysis I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
-|  | Students must complete a total of 8.0 credits as follows |  | 7. Applications of Public Policy (3.0 credits in Public Policy courses,\* from the following list or other courses with the approval of the supervisor of studies; of these, 2.0 credits must be at the C- or D-level and an additional 0.5 credits at the D-level). |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 2. Economics for Public Policy (1.0 credit) | MGEA01H3 | Introduction to Microeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 2. Economics for Public Policy (1.0 credit) | MGEA05H3 | Introduction to Macroeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 2. Economics for Public Policy (1.0 credit) | MGEA02H3 | Introduction to Microeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 2. Economics for Public Policy (1.0 credit) | MGEA06H3 | Introduction to Macroeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 3. Canadian Politics (1.0 credit) | POLB56H3 | Canadian Politics and Government | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 3. Canadian Politics (1.0 credit) | POLB57H3 | The Canadian Constitution and the Charter of Rights | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 4. Fundamentals of Public Policy (1.0 credit) | PPGB66H3 | Public Policy Making | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 4. Fundamentals of Public Policy (1.0 credit) | PPGC67H3 | Public Policy in Canada | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 5. Statistics 0.5 credit from | MGEB11H3 | Quantitative Methods in Economics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 5. Statistics 0.5 credit from | POLB40H3 | Quantitative Reasoning for Political Science and Public Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 5. Statistics 0.5 credit from | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 5. Statistics 0.5 credit from | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 5. Statistics 0.5 credit from | STAB57H3 | An Introduction to Statistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 6. Methods 0.5 credits from | GGRA30H3 | Geographic Information Systems (GIS) and Empirical Reasoning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 6. Methods 0.5 credits from | PPGB11H3 | Policy Communications with Data | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 6. Methods 0.5 credits from | POLC11H3 | Applied Statistics for Politics and Public Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 6. Methods 0.5 credits from | POLC78H3 | Political Analysis I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
+|  | 6. Methods 0.5 credits from |  | 7. Applications of Public Policy (3.0 credits in Public Policy courses,\* from the following list or other courses with the approval of the supervisor of studies; of these, 2.0 credits must be at the C- or D-level and an additional 0.5 credits at the D-level). |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 |  | Urban Public Policy | CITB04H3 | City Politics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 |  | Urban Public Policy | CITC03H3 | Housing Policy and Planning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |
 |  | Urban Public Policy | CITC04H3 | Current Municipal and Planning Policy and Practice in Toronto | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajpubp) |

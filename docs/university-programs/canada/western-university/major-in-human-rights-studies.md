@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN HUMAN RIGHTS STUDIES**<br>人权研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN RIGHTS**<br>人权导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN RIGHTS**<br>人权入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
 | **RIGHTS IN CANADA**<br>加拿大的权利 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
 | **SPECIAL TOPICS**<br>专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIAL AND POLITICAL THOUGHT**<br>社会与政治思想导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIAL AND POLITICAL THOUGHT**<br>社会与政治思想入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN RIGHTS IN SOCIAL POLITICAL THOUGHT**<br>社会政治思想中的人权 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
 | **CRIME WRITING SINCE THE 18TH CENTURY**<br>18 世纪以来的犯罪写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN RIGHTS AND CREATIVE PRACTICES**<br>人权与创造性实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21652&SelectedCalendar=Live&ArchiveID=) |

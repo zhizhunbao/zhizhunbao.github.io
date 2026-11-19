@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Navigating Canada's Political Landscape**<br>解读加拿大政治格局 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Heat Transfer**<br>传热学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
@@ -53,11 +53,11 @@ ms.date: 2026-11-08
 | **Black Holes, Big Bangs and the Cosmos**<br>黑洞、宇宙大爆炸与宇宙 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Global Perspectives**<br>全球视野 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
-| **Introduction to Structural Analysis and Design**<br>结构分析与设计导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
+| **Introduction to Structural Analysis and Design**<br>结构分析与设计入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Cost Estimating**<br>成本估算 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Co-Op Job Search 2**<br>带薪实习求职 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Work Term II**<br>带薪实习学期 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Applied Numerical Methods**<br>应用数值方法 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |
 | **Renewable Energy**<br>可再生能源 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512D03FWO.pdf) |

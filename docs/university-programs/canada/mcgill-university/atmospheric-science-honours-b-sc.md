@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Atmospheric Science Honours (B.Sc.)**<br>大气科学荣誉（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
-| **Introduction: Physics of the Atmosphere.**<br>导论：大气物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
+| **Introduction: Physics of the Atmosphere.**<br>入门：大气物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
 | **Rotating Fluid Dynamics.**<br>旋转流体动力学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
 | **Thermodynamics and Convection.**<br>热力学与对流 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
 | **Honours Research Project.**<br>荣誉研究项目 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Advanced Calculus.**<br>高等微积分 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
 | **Ordinary Differential Equations.**<br>常微分方程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
 | **Oceans, Weather and Climate.**<br>海洋、天气与气候 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
-| **Introduction to Atmospheric Chemistry.**<br>大气化学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
+| **Introduction to Atmospheric Chemistry.**<br>大气化学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
 | **Atmospheric and Oceanic Science Laboratory.**<br>大气与海洋科学实验 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
 | **Experimental Methods 1.**<br>实验方法 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |
 | **Dynamics of Simple Systems.**<br>简单系统动力学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/) |

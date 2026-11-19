@@ -90,7 +90,7 @@ ms.date: 2026-11-11
 | **The Earliest Christians**<br>最早的基督徒 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1231) |
 | **King Arthur**<br>亚瑟王 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1231) |
 | **Middle Welsh**<br>中古威尔士语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1231) |
-| **Introduction to Old Irish**<br>古爱尔兰语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1231) |
+| **Introduction to Old Irish**<br>古爱尔兰语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1231) |
 | **Old English Language and Literature**<br>古英语语言与文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1231) |
 | **Chaucer**<br>乔叟 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1231) |
 | **Medieval Literature**<br>中世纪文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1231) |

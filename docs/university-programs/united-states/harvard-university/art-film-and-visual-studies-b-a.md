@@ -1,10 +1,10 @@
 ---
-title: "3.1.4 Art, Film, and Visual Studies (B.A.)"
+title: "4.1.4 Art, Film, and Visual Studies (B.A.)"
 description: "University Programs > United States > Harvard University > Art, Film, and Visual Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.4 Art, Film, and Visual Studies (B.A.)
+# 4.1.4 Art, Film, and Visual Studies (B.A.)
 
 ## Glossary
 
@@ -20,15 +20,15 @@ ms.date: 2026-11-18
 | **Silkscreen**<br>丝网印刷 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Painting, Smoking, Eating**<br>绘画、吸烟、进食 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Building Thought: Sculpture Course**<br>构建思想：雕塑课 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **& 40H – Introduction to Photography/Intro to Still Photography (fall and spring)**<br>& 40H – 摄影导论/静态摄影导论（秋季和春季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Still Photography**<br>静态摄影导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **and B – Introduction to Non Fiction Filmmaking (spring)**<br>及B – 非虚构电影制作导论（春季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Documentary Production: The Camera Stylo**<br>纪录片制作导论：摄影机笔 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Nonfiction Videomaking**<br>非虚构视频制作导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **& 40H – Introduction to Photography/Intro to Still Photography (fall and spring)**<br>& 40H – 摄影入门/静态摄影入门（秋季和春季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Still Photography**<br>静态摄影入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **and B – Introduction to Non Fiction Filmmaking (spring)**<br>及B – 非虚构电影制作入门（春季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Documentary Production: The Camera Stylo**<br>纪录片制作入门：摄影机笔 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Nonfiction Videomaking**<br>非虚构视频制作入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Fundamentals of Animation**<br>动画基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **A Video Toolbox**<br>视频工具箱 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Experimental Animation**<br>实验动画 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Photographic/Cinematic: Introduction to Lens-based Practices**<br>摄影/电影：镜头媒介实践导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Photographic/Cinematic: Introduction to Lens-based Practices**<br>摄影/电影：镜头媒介实践入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **The Art of Film**<br>电影艺术 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **The Language of Modern Art**<br>现代艺术的语言 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 

@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **The English Language**<br>英语语言 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Creative Writing**<br>创意写作 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Chaucer and Premodern Society**<br>乔叟与前现代社会 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Peer Tutoring and Second-Language Learning Practices in the Writing Centre**<br>写作中心同伴辅导与第二语言学习实践导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Peer Tutoring and Second-Language Learning Practices in the Writing Centre**<br>写作中心同伴辅导与第二语言学习实践入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Ecological Interactions**<br>生态相互作用 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Conservation and Biodiversity**<br>保护与生物多样性 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Animal Behaviour**<br>动物行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
@@ -36,14 +36,14 @@ ms.date: 2026-11-11
 | **Ecofeminist Theory & Women’s Writing**<br>生态女性主义理论与女性写作 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Postcolonial Literature and Theory**<br>后殖民文学与理论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Feminist Theory and Women’s Writing**<br>女性主义理论与女性写作 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **An Introduction to the Study of Canadian History to 1867**<br>加拿大史研究导论：至 1867 年 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **An Introduction to the Study of Canadian History, 1867 to the Present**<br>加拿大史研究导论：1867 年至今 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **An Introduction to the Study of Canadian History to 1867**<br>加拿大史研究入门：至 1867 年 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **An Introduction to the Study of Canadian History, 1867 to the Present**<br>加拿大史研究入门：1867 年至今 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Selected Topics in Canadian History**<br>加拿大史专题选读 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **The Collaborative Research Seminar: Selected Topics in Canadian History**<br>协作研究研讨课：加拿大史专题选读 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **The Historian’s Craft: Historiography**<br>历史学家的技艺：史学史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Topics in Integrative Studies**<br>综合研究专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Western Philosophy II: Modern Philosophy**<br>西方哲学导论 II：近代哲学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Western Philosophy II: Modern Philosophy**<br>西方哲学入门 II：近代哲学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Metaphysics: Theories of Reality**<br>形而上学：实在理论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Epistemology: Theories of Knowledge**<br>认识论：知识理论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Women, Darkness and Crooked Things: Feminist Philosophy**<br>女性、黑暗与扭曲之物：女性主义哲学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
@@ -56,12 +56,12 @@ ms.date: 2026-11-11
 | **Individual Study II**<br>个人研究 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Selected Topics in Scandinavian Literature**<br>斯堪的纳维亚文学专题选读 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Scandinavian Folk Literature**<br>斯堪的纳维亚民间文学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Critical Analysis**<br>批判性分析导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Critical Analysis**<br>批判性分析入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Critical Approaches to the English Language**<br>英语的批判性研究 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Essay Writing for Education Students**<br>教育专业学生的论文写作 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Writing Poetry**<br>诗歌写作导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Writing Fiction**<br>小说写作导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Writing Nonfiction**<br>非虚构写作导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Writing Poetry**<br>诗歌写作入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Writing Fiction**<br>小说写作入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Writing Nonfiction**<br>非虚构写作入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Introductory Creative Writing: Nonfiction**<br>创意写作入门：非虚构 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Intermediate Poetry**<br>中级诗歌 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Intermediate Fiction**<br>中级小说 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
@@ -71,8 +71,8 @@ ms.date: 2026-11-11
 | **Advanced Creative Writing: Fiction**<br>高级创意写作：小说 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Advanced Creative Writing: Nonfiction**<br>高级创意写作：非虚构 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Writing Special Effects: Rhetorical Grammar and Style**<br>写作特殊效果：修辞语法与风格 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Professional Communication**<br>专业传播导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
-| **Introduction to Writing Centre Practice**<br>写作中心实践导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Professional Communication**<br>专业传播入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
+| **Introduction to Writing Centre Practice**<br>写作中心实践入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Risk Communication**<br>风险沟通 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Editing Texts**<br>文本编辑 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |
 | **Capstone Portfolio Project**<br>毕业作品集项目 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110560&returnto=20846) |

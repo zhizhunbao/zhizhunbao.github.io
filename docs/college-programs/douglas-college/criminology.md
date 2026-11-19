@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
-| **Introduction to Policing**<br>警务导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
-| **Introduction to Corrections**<br>矫正学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
+| **Introduction to Policing**<br>警务入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
+| **Introduction to Corrections**<br>矫正学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **Psychological Explanations of Criminal Behaviour**<br>犯罪行为的心理学解释 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **Sociological Explanations of Criminal Behaviour**<br>犯罪行为的社会学解释 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
@@ -20,12 +20,12 @@ ms.date: 2026-11-08
 | **Knowledge, Reason and Experience**<br>知识、理性与经验 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **Reality and Existence**<br>实在与存在 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **Logical Reasoning**<br>逻辑推理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **The Canadian Legal System**<br>加拿大法律体系 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **Interviewing and Professional Skills**<br>面试与职业技能 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
-| **An Introduction to Psychology (I)**<br>心理学导论（I） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
+| **An Introduction to Psychology (I)**<br>心理学入门（I） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 | **Social Processes**<br>社会过程 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcrim) |
 
 ## Courses

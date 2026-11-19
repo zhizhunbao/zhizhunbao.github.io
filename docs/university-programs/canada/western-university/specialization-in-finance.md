@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIZATION IN FINANCE**<br>金融专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS II**<br>微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
@@ -24,8 +24,8 @@ ms.date: 2026-11-11
 | **PRINCIPLES OF MICROECONOMICS**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MACROECONOMICS**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
 | **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE MICROECONOMIC THEORY I**<br>中级微观经济理论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE MACROECONOMIC THEORY AND POLICY I**<br>中级宏观经济理论与政策 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |
 | **FINANCE**<br>金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21529&SelectedCalendar=Live&ArchiveID=) |

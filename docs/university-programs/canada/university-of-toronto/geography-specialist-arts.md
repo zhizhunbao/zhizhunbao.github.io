@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Social Geographies**<br>社会地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1666) |
 | **Retail Geography**<br>零售地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1666) |
 | **Spatial Data Science I**<br>空间数据科学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1666) |
-| **Introduction to GIScience**<br>GIScience导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1666) |
+| **Introduction to GIScience**<br>GIScience入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1666) |
 | **Environmental Issues in the Developing World**<br>发展中世界的环境问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1666) |
 | **Gender and the City**<br>性别与城市 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1666) |
 | **Political Geography**<br>政治地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1666) |

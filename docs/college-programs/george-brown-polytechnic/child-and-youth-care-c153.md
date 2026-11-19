@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Field Practice I**<br>实地实践 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-accelerated-c153) |
 | **Field Work Seminar 1**<br>实地工作研讨 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-accelerated-c153) |
 | **Human Sexuality**<br>人类性学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-accelerated-c153) |
-| **Introduction to Child and Youth Care and Legislation**<br>儿童与青少年关怀及法规导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-accelerated-c153) |
+| **Introduction to Child and Youth Care and Legislation**<br>儿童与青少年关怀及法规入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-accelerated-c153) |
 | **Crisis Prevention and Intervention**<br>危机预防与干预 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-accelerated-c153) |
 | **Group Work with Adolescents**<br>青少年团体工作 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-accelerated-c153) |
 | **Equity, Inclusion and Anti-Oppressive Practices**<br>公平、包容与反压迫实践 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-accelerated-c153) |

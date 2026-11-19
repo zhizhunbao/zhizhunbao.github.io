@@ -1,10 +1,10 @@
 ---
-title: "3.4.61 Molecular, Cellular, and Developmental Biology (B.A. or B.S.)"
+title: "4.4.61 Molecular, Cellular, and Developmental Biology (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Molecular, Cellular, and Developmental Biology (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.61 Molecular, Cellular, and Developmental Biology (B.A. or B.S.)
+# 4.4.61 Molecular, Cellular, and Developmental Biology (B.A. or B.S.)
 
 ## Glossary
 

@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in the Study of Religion**<br>宗教研究主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
-| **Introduction to Religions: Judaism, Christianity, Islam**<br>宗教导论：犹太教、基督教、伊斯兰教 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
-| **Introduction to Religions in Asia**<br>亚洲宗教导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
-| **Introduction to the Study of Religion**<br>宗教研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
+| **Introduction to Religions: Judaism, Christianity, Islam**<br>宗教入门：犹太教、基督教、伊斯兰教 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
+| **Introduction to Religions in Asia**<br>亚洲宗教入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
+| **Introduction to the Study of Religion**<br>宗教研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
 | **Theory and Method in the Study of Religion**<br>宗教研究的理论与方法 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
 | **Advanced Seminar in the Study of Religion**<br>宗教研究高级研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion) |
 

@@ -28,8 +28,8 @@ ms.date: 2026-11-11
 | **Cell and Molecular Biology Laboratory**<br>细胞与分子生物学实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
 | **Techniques in Analytical Chemistry**<br>分析化学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
 | **Chemical Structure and Spectroscopy**<br>化学结构与波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
-| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学导论：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
-| **Introduction to Inorganic Chemistry**<br>无机化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
+| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学入门：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |
 | **Biochemistry I: Proteins and Enzymes**<br>生物化学 I：蛋白质与酶 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1995) |

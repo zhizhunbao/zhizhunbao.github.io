@@ -11,18 +11,18 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science in Engineering – University Transfer**<br>工程理学学士：大学转学 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/bachelor-science-engineering-university-transfer) |
-| **Introduction to University Chemistry I**<br>大学化学导论 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
+| **Introduction to University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 | **Engineering Statics**<br>工程静力学 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 | **Computer Programming for Engineers**<br>工程师计算机编程 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 | **English for Engineering Students**<br>工程专业学生英语 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
-| **Orientation to Engineering Profession**<br>工程职业导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
-| **Introduction to University Chemistry II**<br>大学化学导论 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
+| **Orientation to Engineering Profession**<br>工程职业入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
+| **Introduction to University Chemistry II**<br>大学化学入门 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 | **Engineering Dynamics**<br>工程动力学 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 | **Applied Linear Algebra**<br>应用线性代数 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 | **Wave, Motion, Optics and Sound**<br>波、运动、光学与声学 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
-| **Introduction to Engineering Design, Communication and Profession**<br>工程设计、沟通与职业导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
+| **Introduction to Engineering Design, Communication and Profession**<br>工程设计、沟通与职业入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Bachelor%20of%20Science%20in%20Engineering%20-%20UT%20April%202026.pdf) |
 
 ## Courses
 

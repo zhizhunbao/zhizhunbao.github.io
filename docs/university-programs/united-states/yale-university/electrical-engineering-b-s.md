@@ -1,10 +1,10 @@
 ---
-title: "3.4.31 Electrical Engineering (B.S.)"
+title: "4.4.31 Electrical Engineering (B.S.)"
 description: "University Programs > United States > Yale University > Electrical Engineering (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.31 Electrical Engineering (B.S.)
+# 4.4.31 Electrical Engineering (B.S.)
 
 ## Glossary
 
@@ -15,7 +15,7 @@ ms.date: 2026-11-18
 | **Calculus of Functions of One Variable II**<br>一元函数微积分 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/) |
 | **Multivariable Calculus for Engineers**<br>工程师多元微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/) |
-| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/) |
+| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/) |
 | **University Physics**<br>大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/) |
 | **Ordinary and Partial Differential Equations with Applications**<br>常微分与偏微分方程及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/) |
 | **Linear Algebra with Applications**<br>线性代数及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/) |

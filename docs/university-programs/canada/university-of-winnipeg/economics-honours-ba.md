@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Economics, Honours BA**<br>经济学，荣誉 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
-| **Introduction to Economics: Micro**<br>经济学导论：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
-| **Introduction to Economics: Macro**<br>经济学导论：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
-| **Introduction to Calculus I, and either**<br>微积分导论 I，以及以下任一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
-| **Introduction to Calculus II**<br>微积分导论 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
+| **Introduction to Economics: Micro**<br>经济学入门：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
+| **Introduction to Economics: Macro**<br>经济学入门：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
+| **Introduction to Calculus I, and either**<br>微积分入门 I，以及以下任一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
+| **Introduction to Calculus II**<br>微积分入门 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
 | **Statistics I for Economics, Business and Social Sciences**<br>经济、商业与社会科学统计学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |
 | **Statistical Analysis I**<br>统计分析 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=4) |

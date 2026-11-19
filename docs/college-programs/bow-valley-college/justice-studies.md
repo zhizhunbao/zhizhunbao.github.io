@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Justice Studies**<br>司法研究 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
-| **Introduction to Canadian Law**<br>加拿大法律导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
+| **Introduction to Canadian Law**<br>加拿大法律入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
 | **Diversity and Criminal Justice in Canada**<br>加拿大的多样性与刑事司法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
 | **Foundations of Ethics and Justice**<br>伦理与司法基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
 | **Professional Competencies in Justice**<br>司法专业能力 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |
 | **Canadian Politics: Institutions and Issues**<br>加拿大政治：制度与议题 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/justice-studies) |

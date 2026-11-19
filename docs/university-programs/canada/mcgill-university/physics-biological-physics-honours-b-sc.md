@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Physics: Biological Physics Honours (B.Sc.)**<br>物理学：生物物理学荣誉（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
-| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
+| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Quantitative Biology Seminar.**<br>定量生物学研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Introductory Organic Chemistry 1.**<br>有机化学入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Honours Applied Linear Algebra.**<br>荣誉应用线性代数 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Ordinary Differential Equations.**<br>常微分方程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Probability.**<br>概率论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
-| **Introduction to Biophysics.**<br>生物物理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
+| **Introduction to Biophysics.**<br>生物物理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Statistical Physics with Biophysical Applications.**<br>生物物理应用统计物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Basic Genetics.**<br>基础遗传学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Honours Vector Calculus.**<br>荣誉向量微积分 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Research Thesis.**<br>研究论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Advanced Biophysics.**<br>高级生物物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Foundations of Programming.**<br>编程基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
-| **Introduction to Computer Science.**<br>计算机科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
+| **Introduction to Computer Science.**<br>计算机科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Electronics.**<br>电子学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Honours Classical Mechanics 2.**<br>荣誉经典力学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |
 | **Measurements Laboratory in General Physics.**<br>普通物理测量实验 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/) |

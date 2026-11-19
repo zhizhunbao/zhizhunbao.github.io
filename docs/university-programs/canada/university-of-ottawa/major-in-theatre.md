@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Theatre**<br>戏剧主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-theatre/) |
-| **Introduction to the Practice of Theatre: Onstage**<br>戏剧实践导论：台前 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-theatre/) |
-| **Introduction to the Practice of Theatre: Backstage**<br>戏剧实践导论：幕后 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-theatre/) |
+| **Introduction to the Practice of Theatre: Onstage**<br>戏剧实践入门：台前 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-theatre/) |
+| **Introduction to the Practice of Theatre: Backstage**<br>戏剧实践入门：幕后 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-theatre/) |
 | **Showtime: Theatre in Ottawa Today**<br>演出时刻：当今渥太华的戏剧 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-theatre/) |
 | **Live and On Stage: The Pulse of Performance**<br>现场舞台：表演的脉动 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-theatre/) |
 | **Script Study**<br>文字研究 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-theatre/) |

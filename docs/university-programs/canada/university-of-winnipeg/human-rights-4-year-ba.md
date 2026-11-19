@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Human Rights, 4-Year BA**<br>人权，4 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/hr.pdf#page=2) |
-| **Introduction to Human Rights: Ideas and Practices**<br>人权导论：理念与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/hr.pdf#page=2) |
-| **Introduction to Human Rights and Global Citizenship**<br>人权与全球公民导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/hr.pdf#page=2) |
+| **Introduction to Human Rights: Ideas and Practices**<br>人权入门：理念与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/hr.pdf#page=2) |
+| **Introduction to Human Rights and Global Citizenship**<br>人权与全球公民入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/hr.pdf#page=2) |
 | **International Human Rights Law in Context**<br>情境中的国际人权法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/hr.pdf#page=2) |
 | **History of Human Rights in Canada**<br>加拿大人权史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/hr.pdf#page=2) |
 | **Colonization and Indigenous Peoples**<br>殖民化与原住民 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/hr.pdf#page=2) |

@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Engineering Strategies & Practice II**<br>工程策略与实践 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Physical Chemistry in Engineering Practice**<br>工程实践中的物理化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Earth Systems Science**<br>地球系统科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
-| **Introduction to Civil Engineering**<br>土木工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
+| **Introduction to Civil Engineering**<br>土木工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Urban Engineering Ecology**<br>城市工程生态学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Civil Engineering Graphics**<br>土木工程制图 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **Probability Theory for Civil and Mineral Engineers**<br>土木与矿业工程师概率论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Engineering Mathematics II**<br>工程数学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Steel and Timber Design**<br>钢结构与木结构设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
-| **Transport I - Introduction to Urban Transportation Systems**<br>交通 I：城市交通系统导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
+| **Transport I - Introduction to Urban Transportation Systems**<br>交通 I：城市交通系统入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Water and Wastewater Treatment Processes**<br>水与废水处理过程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Building Science**<br>建筑科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Civil Engineering Communication Portfolio**<br>土木工程传播作品集 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-11
 | **Individual Project**<br>个人项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Building Energy Performance Simulation**<br>建筑能耗性能模拟 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Concrete Technology**<br>混凝土技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
-| **Introduction to Structural Dynamics**<br>结构动力学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
+| **Introduction to Structural Dynamics**<br>结构动力学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Prestressed Concrete**<br>预应力混凝土 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Structural Analysis II**<br>结构分析 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Rock Mechanics**<br>岩石力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
@@ -67,7 +67,7 @@ ms.date: 2026-11-11
 | **Water Resources Engineering**<br>水资源工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Sustainable Buildings**<br>可持续建筑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Tunneling and Urban Excavation**<br>隧道与城市开挖 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
-| **Introduction to Data Science for Civil and Mineral Engineers**<br>土木与矿物工程师的数据科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
+| **Introduction to Data Science for Civil and Mineral Engineers**<br>土木与矿物工程师的数据科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Groundwater Flow and Contamination**<br>地下水流动与污染 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Engineering Rock Mechanics**<br>工程岩石力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |
 | **Integrated Mine Waste Engineering**<br>矿山废弃物综合工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecivbasc) |

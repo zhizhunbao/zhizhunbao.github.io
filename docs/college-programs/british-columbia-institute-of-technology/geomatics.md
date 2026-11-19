@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/) |
 | **Geospatial Data Management**<br>地理空间数据管理 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/) |
 | **Land Use Planning**<br>土地利用规划 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/) |
-| **Introduction to Least Squares**<br>最小二乘法导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/) |
+| **Introduction to Least Squares**<br>最小二乘法入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/) |
 | **RPAS Applications**<br>RPAS 应用 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/) |
 | **Economic Issues**<br>经济问题 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/) |
 | **GIS Applications**<br>GIS 应用 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/) |

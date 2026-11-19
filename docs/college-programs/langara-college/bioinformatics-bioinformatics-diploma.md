@@ -14,13 +14,13 @@ ms.date: 2026-11-08
 | **General Biology I**<br>普通生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **General Biology II**<br>普通生物学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
-| **Introduction to Genetics**<br>遗传学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
+| **Introduction to Genetics**<br>遗传学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **Evolution and Phylogenetics**<br>进化与系统发育学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **Molecular Genetics**<br>分子遗传学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **General Chemistry I**<br>普通化学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
-| **Introduction to Program Design**<br>课程设计导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
+| **Introduction to Program Design**<br>课程设计入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **Data Base Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **Data Transformations**<br>数据转换 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |
 | **Descriptive and Elementary Inferential Statistics**<br>描述统计与初等推断统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-diploma/courses) |

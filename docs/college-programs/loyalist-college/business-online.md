@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
 | **Computer Applications for Business**<br>商业计算机应用 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
 | **Financial Accounting 1**<br>财务会计 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
 | **Applied AI**<br>应用AI | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |
 | **Captivating Communication**<br>引人入胜的沟通 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-online/) |

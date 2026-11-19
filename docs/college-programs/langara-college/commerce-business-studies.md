@@ -17,8 +17,8 @@ ms.date: 2026-11-08
 | **Managerial Accounting Overview**<br>管理会计概述 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
 | **Calculus I - Economic and Business Applications**<br>微积分 I：经济与商业应用 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
 | **Descriptive and Elementary Inferential Statistics**<br>描述统计与初等推断统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-business-studies-associate-arts-degree/courses) |

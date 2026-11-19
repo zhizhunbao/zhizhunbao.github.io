@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Resource and Environmental Law**<br>资源与环境法 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Indigenous Cultural Awareness**<br>原住民文化意识 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
-| **Introduction to Environmental Science and Technology**<br>环境科学与技术导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
-| **Introduction to Forestry**<br>林业导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
+| **Introduction to Environmental Science and Technology**<br>环境科学与技术入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
+| **Introduction to Forestry**<br>林业入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Fitness 1**<br>体能 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Basics of Global Positioning Systems (GPS)**<br>全球定位系统（GPS）基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
-| **Introduction to Mapping and Compassing**<br>制图与罗盘使用导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
-| **Introduction to Resource Legislation**<br>资源法规导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
+| **Introduction to Mapping and Compassing**<br>制图与罗盘使用入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
+| **Introduction to Resource Legislation**<br>资源法规入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Ecology, Biology and Management of Saskatchewan Wildlife**<br>萨斯喀彻温省野生动物生态学、生物学与管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Wildlife Anatomy and Systematics**<br>野生动物解剖与系统分类学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Work Preparation**<br>工作准备 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Gathering Evidence 1**<br>取证 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Gathering Evidence 2**<br>取证 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Interview and Interrogations**<br>访谈与审讯 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Wildlife Mgmt Field Techniques**<br>野生动物管理野外技术 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Environmental Science and Technology 2**<br>环境科学与技术 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |
 | **Environmental Sampling**<br>环境采样 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Resource-and-Environmental-Law.aspx) |

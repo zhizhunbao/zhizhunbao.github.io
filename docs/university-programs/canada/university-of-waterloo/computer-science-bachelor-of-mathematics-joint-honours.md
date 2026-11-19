@@ -26,8 +26,8 @@ ms.date: 2026-11-11
 | **Object-Oriented Software Development (Enriched)**<br>面向对象软件开发（强化） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyZwkJ0Ajh) |
 | **Computer Organization and Design**<br>计算机组成与设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyZwkJ0Ajh) |
 | **Computer Organization and Design (Enriched)**<br>计算机组成与设计（强化） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyZwkJ0Ajh) |
-| **Introduction to Combinatorics**<br>组合数学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyZwkJ0Ajh) |
-| **Introduction to Combinatorics (Advanced Level)**<br>组合数学导论（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyZwkJ0Ajh) |
+| **Introduction to Combinatorics**<br>组合数学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyZwkJ0Ajh) |
+| **Introduction to Combinatorics (Advanced Level)**<br>组合数学入门（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyZwkJ0Ajh) |
 
 ## Courses
 

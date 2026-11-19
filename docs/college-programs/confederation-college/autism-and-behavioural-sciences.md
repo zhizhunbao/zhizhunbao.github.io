@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Autism and Behavioural Sciences**<br>自闭症与行为科学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/autism-and-behavioural-sciences/) |
-| **Introduction to Autism Spectrum Disorder**<br>孤独症谱系障碍导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/autism-and-behavioural-sciences/) |
-| **Introduction to Applied Behaviour Analysis**<br>应用行为分析导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/autism-and-behavioural-sciences/) |
+| **Introduction to Autism Spectrum Disorder**<br>孤独症谱系障碍入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/autism-and-behavioural-sciences/) |
+| **Introduction to Applied Behaviour Analysis**<br>应用行为分析入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/autism-and-behavioural-sciences/) |
 | **Working with Families & Teams**<br>与家庭和团队合作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/autism-and-behavioural-sciences/) |
 | **Ethics and Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/autism-and-behavioural-sciences/) |
 | **Specialized Instructor Strategies**<br>专业教学策略 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/autism-and-behavioural-sciences/) |

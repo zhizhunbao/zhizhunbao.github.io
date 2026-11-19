@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Data Visualization**<br>数据可视化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Statistical Learning - Advanced Regression**<br>统计学习：高级回归 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Database Systems Implementation**<br>数据库系统实现 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Machine Learning: Statistical and Computational Foundations**<br>机器学习：统计与计算基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Fundamentals of Optimization**<br>优化基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Optimization for Data Science**<br>数据科学最优化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Topics in Continuous Optimization(\*)**<br>连续优化专题（\*） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Data-Intensive Distributed Computing**<br>数据密集型分布式计算 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Distributed Systems**<br>分布式系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Database Engineering**<br>数据库工程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Parallel and Distributed Database Systems**<br>并行与分布式数据库系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |
 | **Principles of Database Management and Use**<br>数据库管理与使用原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJgZkAAi2) |

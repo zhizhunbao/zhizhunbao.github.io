@@ -1,10 +1,10 @@
 ---
-title: "3.3.175 Environmental Social Sciences, Doctor of Philosophy"
+title: "4.3.175 Environmental Social Sciences, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Environmental Social Sciences, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.175 Environmental Social Sciences, Doctor of Philosophy
+# 4.3.175 Environmental Social Sciences, Doctor of Philosophy
 
 ## Glossary
 
@@ -28,7 +28,7 @@ ms.date: 2026-11-18
 | **Agent-based modeling**<br>基于智能体的建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Intermediate Econometrics I**<br>中级计量经济学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Intermediate Econometrics II**<br>中级计量经济学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
-| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
+| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Outcomes Analysis**<br>结果分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Political Methodology I: Regression**<br>政治方法论 I：回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Political Methodology II: Causal Inference**<br>政治方法论 II：因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
@@ -60,7 +60,7 @@ ms.date: 2026-11-18
 | **Intermediate Biostatistics: Analysis of Discrete Data**<br>中级生物统计学：离散数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Big Data Methods for Behavioral, Social, and Population Health Research**<br>行为、社会与人群健康研究的大数据方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Efficient Generative Models**<br>高效生成模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Practical Applications for Qualitative Data Analysis**<br>质性数据分析的实际应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |
 | **Political Methodology III: Model-Based Inference**<br>政治方法论 III：基于模型的推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/doctor-of-philosophy) |

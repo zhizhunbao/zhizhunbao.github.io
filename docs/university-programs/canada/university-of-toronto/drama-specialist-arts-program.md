@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Drama Specialist (Arts Program)**<br>戏剧专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
-| **Introduction to Drama, Theatre and Performance Studies**<br>戏剧、剧场与表演研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
+| **Introduction to Drama, Theatre and Performance Studies**<br>戏剧、剧场与表演研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Comparative Theatre Histories**<br>比较戏剧史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Theories of Acting**<br>表演理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Dancing Black in Canada**<br>加拿大的黑人舞蹈 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-11
 | **The Body: An Exercise**<br>身体：一场练习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Histories of Creativity**<br>创造力的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **The Diasporic Imagination**<br>离散想象 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
-| **Introduction to Shakespeare**<br>莎士比亚导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
+| **Introduction to Shakespeare**<br>莎士比亚入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Medieval Drama**<br>中世纪戏剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Drama 1485-1603**<br>1485-1603 年戏剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Drama 1603-1642**<br>1603-1642 年戏剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
@@ -86,7 +86,7 @@ ms.date: 2026-11-11
 | **Performing the City I**<br>表演城市 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Performing the City II**<br>表演城市 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Hamilton: Musical and History**<br>汉密尔顿：音乐剧与历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
-| **Introduction to Communication**<br>传播学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
+| **Introduction to Communication**<br>传播学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Research Opportunity Program**<br>研究机会计划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 | **Independent Studies in Drama, Theatre and Performance Studies**<br>戏剧、剧场与表演研究独立研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2148) |
 

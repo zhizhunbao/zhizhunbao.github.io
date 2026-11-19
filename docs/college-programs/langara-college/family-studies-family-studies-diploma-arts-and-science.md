@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Family Studies (family-studies-diploma-arts-and-science)**<br>家庭研究 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science) |
 | **Perspectives on Family Studies**<br>家庭研究视角 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **The History of the Family in Western Society**<br>西方社会的家庭史 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
-| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学导论：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
+| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学入门：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Psychology of the Family**<br>家庭心理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **The Sociology of the Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Canadian Literature**<br>加拿大文学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Literature from a Feminist Perspective**<br>女性主义视角下的文学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Exploring Literature**<br>文学探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Women in Antiquity**<br>古代女性 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Conflict and Conflict Resolution**<br>冲突与冲突解决 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
@@ -34,8 +34,8 @@ ms.date: 2026-11-08
 | **Developmental Psychology (Middle Childhood and Adolescence)**<br>发展心理学（童年中期与青少年期） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Developmental Psychology (Adulthood and Aging)**<br>发展心理学（成年期与老年期） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Psychotherapy**<br>心理治疗 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
-| **Investigating Women's Realities: An Introduction**<br>探究女性的现实处境：导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
-| **Exploring Women's Lives: An Introduction**<br>探索女性生活：导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
+| **Investigating Women's Realities: An Introduction**<br>探究女性的现实处境：入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
+| **Exploring Women's Lives: An Introduction**<br>探索女性生活：入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 | **Special Topics I**<br>专题 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/family-studies-diploma-arts-and-science/courses) |
 
 ## Courses

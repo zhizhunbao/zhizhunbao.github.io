@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Health Sciences - Athletic Therapy**<br>健康科学学士 - 运动治疗 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
 | **Human Anatomy and Physiology**<br>人体解剖与生理学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
-| **Introduction to Athletic Therapy**<br>运动治疗导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
-| **Introduction to the Canadian Health System**<br>加拿大卫生体系导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
+| **Introduction to Athletic Therapy**<br>运动治疗入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
+| **Introduction to the Canadian Health System**<br>加拿大卫生体系入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
 | **Research and Writing in Health Science**<br>健康科学中的研究与写作 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
-| **Introduction to Biomechanics**<br>生物力学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
+| **Introduction to Biomechanics**<br>生物力学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
 | **Protective Equipment and Bracing**<br>防护设备与支撑 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
 | **Professional Preparation for Field Practicum and Seminar**<br>实地实习与研讨会专业准备 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
 | **Mathematics for Health Sciences**<br>健康科学数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
 | **Lifespan Development**<br>毕生发展 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
 | **Anatomy - Lower Quadrant**<br>解剖学 - 下肢区 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |
 | **Musculoskeletal Conditions - Lower Quadrant**<br>肌肉骨骼疾病 - 下肢区 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-athletic-therapy) |

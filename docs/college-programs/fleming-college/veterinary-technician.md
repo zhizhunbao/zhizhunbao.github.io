@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Veterinary Clinical Techniques**<br>兽医临床技术 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/veterinary-technician) |
 | **Veterinary Laboratory Techniques I**<br>兽医实验室技术 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/veterinary-technician) |
 | **Veterinary Mathematics**<br>兽医数学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/veterinary-technician) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/veterinary-technician) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/veterinary-technician) |
 | **Animal Care and Welfare II**<br>动物护理与福利 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/veterinary-technician) |
 | **Animal Nutrition**<br>动物营养学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/veterinary-technician) |
 | **Comparative Anatomy and Physiology II**<br>比较解剖与生理 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/veterinary-technician) |

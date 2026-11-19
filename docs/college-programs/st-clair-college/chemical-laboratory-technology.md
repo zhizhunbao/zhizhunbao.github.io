@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Laboratory Techniques I**<br>实验室技术 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/chemical-laboratory-technology) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/chemical-laboratory-technology) |
 | **General Chemistry I**<br>普通化学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/chemical-laboratory-technology) |
-| **Introduction To Chemistry I, (Laboratory)**<br>化学导论 I（实验） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/chemical-laboratory-technology) |
+| **Introduction To Chemistry I, (Laboratory)**<br>化学入门 I（实验） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/chemical-laboratory-technology) |
 | **Physics I**<br>物理学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/chemical-laboratory-technology) |
 | **Technical Mathematics I**<br>技术数学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/chemical-laboratory-technology) |
 | **Physics II**<br>物理学 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/chemical-laboratory-technology) |

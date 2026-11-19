@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Strategic Human Resources Management**<br>战略人力资源管理 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/bachelors-of-applied-science-agribusiness.html) |
 | **Economics and Risk Management**<br>经济学与风险管理 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/bachelors-of-applied-science-agribusiness.html) |
 | **Strategic Marketing**<br>战略营销 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/bachelors-of-applied-science-agribusiness.html) |
-| **Introduction to Self-directed Learning**<br>自主学习导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/bachelors-of-applied-science-agribusiness.html) |
+| **Introduction to Self-directed Learning**<br>自主学习入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/bachelors-of-applied-science-agribusiness.html) |
 | **Agricultural Innovation and Leadership**<br>农业创新与领导力 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/bachelors-of-applied-science-agribusiness.html) |
 | **Applied Research**<br>应用研究 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/bachelors-of-applied-science-agribusiness.html) |
 | **Strategic Business Management**<br>战略商业管理 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/bachelors-of-applied-science-agribusiness.html) |

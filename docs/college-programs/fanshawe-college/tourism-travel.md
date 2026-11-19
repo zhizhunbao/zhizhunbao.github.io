@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Discover North America**<br>探索北美 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/1167621/courses-next/) |
 | **Travel Fundamentals**<br>旅行基础 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/1167621/courses-next/) |
 | **Emerging Technology Trends**<br>新兴技术趋势 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/1167621/courses-next/) |
-| **Tourism Industry-Intro**<br>旅游业导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/1167621/courses-next/) |
+| **Tourism Industry-Intro**<br>旅游业入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/1167621/courses-next/) |
 | **Cultural Anthropology**<br>文化人类学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/1167621/courses-next/) |
 | **Reason & Writing 1-Tourism/Hospitality**<br>推理与写作 1 - 旅游/酒店 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/1167621/courses-next/) |
 | **Technology for Hospitality**<br>酒店业技术 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/1167621/courses-next/) |

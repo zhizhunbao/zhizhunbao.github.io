@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Game – Art**<br>游戏 – 美术 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **College Communications 1**<br>学院交流 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
-| **Introduction to 3D Modelling**<br>3D建模导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
+| **Introduction to 3D Modelling**<br>3D建模入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **Intro to Game Animation**<br>游戏动画入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **Foundations of Drawing and Digital Painting**<br>绘画与数字绘画基础 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **Intro to 3D Texturing**<br>3D纹理入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Intermediate Digital Painting**<br>中级数字绘画 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **Advanced 3D Texturing**<br>高级3D贴图 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **Unreal Editor Advanced**<br>虚幻编辑器高级 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
-| **Introduction to Digital Sculpting**<br>数字雕刻导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
+| **Introduction to Digital Sculpting**<br>数字雕刻入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **Global Citizenship: From Social Analysis to Social Action**<br>全球公民：从社会分析到社会行动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **Environment Design**<br>环境设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |
 | **Character Design**<br>角色设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-art) |

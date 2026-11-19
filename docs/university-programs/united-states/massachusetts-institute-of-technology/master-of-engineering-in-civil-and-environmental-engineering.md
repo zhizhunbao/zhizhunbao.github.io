@@ -1,10 +1,10 @@
 ---
-title: "3.2.65 Master of Engineering in Civil and Environmental Engineering"
+title: "4.2.65 Master of Engineering in Civil and Environmental Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Engineering in Civil and Environmental Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.65 Master of Engineering in Civil and Environmental Engineering
+# 4.2.65 Master of Engineering in Civil and Environmental Engineering
 
 ## Glossary
 
@@ -16,7 +16,7 @@ ms.date: 2026-11-18
 | **Global Change Science**<br>全球变化科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering-course-1p/) |
 | **Chemicals in the Environment**<br>环境中的化学品 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering-course-1p/) |
 | **Environmental Law, Policy, and Economics: Pollution Prevention and Control**<br>环境法律、政策与经济学：污染预防与控制 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering-course-1p/) |
-| **Introduction to the Terrestrial Carbon Cycle and Ecosystem Ecology**<br>陆地碳循环与生态系统生态学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering-course-1p/) |
+| **Introduction to the Terrestrial Carbon Cycle and Ecosystem Ecology**<br>陆地碳循环与生态系统生态学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering-course-1p/) |
 | **Physics and Engineering of Renewable Energy Systems**<br>可再生能源系统的物理与工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering-course-1p/) |
 | **Machine Learning for Sustainable Systems**<br>可持续系统中的机器学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering-course-1p/) |
 | **Modeling with Machine Learning: from Algorithms to Applications**<br>机器学习建模：从算法到应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering-course-1p/) |

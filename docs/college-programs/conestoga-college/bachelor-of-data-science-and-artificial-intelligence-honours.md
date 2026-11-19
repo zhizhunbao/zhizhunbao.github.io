@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Data Science and Artificial Intelligence (Honours)**<br>数据科学与人工智能学士（荣誉） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours) |
-| **Introduction to Business Analysis**<br>商业分析导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |
+| **Introduction to Business Analysis**<br>商业分析入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |
 | **Scientific and Technical Communications**<br>科学与技术传播 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |
-| **Introduction to Data Analytics**<br>数据分析导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |
+| **Introduction to Data Analytics**<br>数据分析入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |
 | **Databases**<br>数据库 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |
 | **Math I**<br>数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |
 | **Introduction to Programming with Python**<br>Python编程入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-science-and-artificial-intelligence-honours/courses?id=36843) |

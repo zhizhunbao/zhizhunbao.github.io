@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Principles of Sanitation, Safety and Hygiene**<br>卫生、安全与卫生保健原理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nutrition-and-food-service-management) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nutrition-and-food-service-management) |
 | **Kitchen Production**<br>厨房生产 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nutrition-and-food-service-management) |
-| **Introduction to Food Services Management**<br>餐饮服务管理导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nutrition-and-food-service-management) |
+| **Introduction to Food Services Management**<br>餐饮服务管理入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nutrition-and-food-service-management) |
 | **Nutritional Science**<br>营养科学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nutrition-and-food-service-management) |
 | **Mathematics for Food Service Management**<br>餐饮服务管理数学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nutrition-and-food-service-management) |
 | **Circle of Care Academy 2**<br>关爱圈学院 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nutrition-and-food-service-management) |

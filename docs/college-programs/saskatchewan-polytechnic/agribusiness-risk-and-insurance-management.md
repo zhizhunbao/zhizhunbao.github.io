@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Agribusiness Risk and Insurance Management**<br>农业商务风险与保险管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
 | **Accounting for Managers**<br>管理会计（面向管理者） | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
-| **Introduction to Agriculture in Western Canada**<br>西加拿大农业导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
+| **Introduction to Agriculture in Western Canada**<br>西加拿大农业入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
 | **Business Mathematics and Data Analytics**<br>商业数学与数据分析 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
 | **Agriculture Economics**<br>农业经济学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
-| **Introduction to Agribusiness**<br>农业综合企业导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
+| **Introduction to Agribusiness**<br>农业综合企业入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
 | **Indigenous Studies**<br>原住民研究 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
-| **Introduction to Insurance**<br>保险导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
+| **Introduction to Insurance**<br>保险入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
 | **Interpersonal Skills for Building Client Relationships**<br>建立客户关系的人际技能 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |
 | **Risk Management Principles and Practices**<br>风险管理原则与实务 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agribusiness-Risk-and-Insurance-Management.aspx) |

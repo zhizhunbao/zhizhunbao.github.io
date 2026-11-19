@@ -1,10 +1,10 @@
 ---
-title: "3.2.44 Mechanical and Ocean Engineering (Course 2-OE)"
+title: "4.2.44 Mechanical and Ocean Engineering (Course 2-OE)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mechanical and Ocean Engineering (Course 2-OE): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.44 Mechanical and Ocean Engineering (Course 2-OE)
+# 4.2.44 Mechanical and Ocean Engineering (Course 2-OE)
 
 ## Glossary
 
@@ -31,7 +31,7 @@ ms.date: 2026-11-18
 | **Engineering Systems Design**<br>工程系统设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
 | **Engineering Systems Development**<br>工程系统开发 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
 | **Design of Ocean Systems**<br>海洋系统设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
 | **Analysis and Design of Feedback Control Systems**<br>反馈控制系统分析与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
 | **Principles of Naval Architecture**<br>船舶原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
 | **Management in Engineering**<br>工程管理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |

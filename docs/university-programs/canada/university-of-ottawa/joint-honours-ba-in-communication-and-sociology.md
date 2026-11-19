@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Reasoning and Critical Thinking**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Philosophy: Ideas and Arguments**<br>哲学：观念与论证 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
-| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
+| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Moral Reasoning**<br>道德推理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Fundamental Philosophical Questions**<br>基本哲学问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
@@ -27,9 +27,9 @@ ms.date: 2026-11-11
 | **Quantitative Methods**<br>定量方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Survey Design and Quantitative Data Acquisition**<br>调查设计与定量数据采集 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Qualitative Methods**<br>定性方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
-| **Introduction to Qualitative Methodology**<br>定性方法论导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
-| **Introduction to Organizational Communication**<br>组织传播导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
-| **Introduction to Media Studies**<br>媒体研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
+| **Introduction to Qualitative Methodology**<br>定性方法论入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
+| **Introduction to Organizational Communication**<br>组织传播入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
+| **Introduction to Media Studies**<br>媒体研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Organizational Communication**<br>组织传播 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Theories of the Media**<br>媒体理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |
 | **Media Ethics**<br>媒体伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-sociology/) |

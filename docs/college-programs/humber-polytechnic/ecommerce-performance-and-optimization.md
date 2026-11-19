@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **eCommerce Performance and Optimization**<br>电子商务绩效与优化 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/ecommerce-performance-and-optimization) |
-| **Introduction to E-Commerce Performance**<br>电子商务绩效导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/ecommerce-performance-and-optimization) |
+| **Introduction to E-Commerce Performance**<br>电子商务绩效入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/ecommerce-performance-and-optimization) |
 | **Consumer Behaviour & Data-Driven Strategies**<br>消费者行为与数据驱动策略 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/ecommerce-performance-and-optimization) |
 | **E-Commerce Platform & Techniques**<br>电子商务平台与技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/ecommerce-performance-and-optimization) |
 | **Digital Marketing and ROI Measurements**<br>数字营销与投资回报率衡量 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/ecommerce-performance-and-optimization) |

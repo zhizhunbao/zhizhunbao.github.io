@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Philosophy of Education**<br>教育哲学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Sports Ethics**<br>体育伦理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Conditioning for Sport and Physical Activity**<br>运动与体育活动体能训练 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
-| **Introduction to the Study of Sport and Leisure in Society**<br>社会中的体育与休闲研究导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
+| **Introduction to the Study of Sport and Leisure in Society**<br>社会中的体育与休闲研究入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Biomechanics**<br>生物力学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Motor Skill Acquisition**<br>运动技能习得 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Topics in Human Nutrition**<br>人类营养专题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
@@ -57,11 +57,11 @@ ms.date: 2026-11-08
 | **Sport Science Applied Research**<br>运动科学应用研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Musculoskeletal Anatomy**<br>肌肉骨骼解剖学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Contemporary Health Issues**<br>当代健康问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
-| **Intro to the Admin of Leisure & Sport Services**<br>休闲与体育服务管理导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
+| **Intro to the Admin of Leisure & Sport Services**<br>休闲与体育服务管理入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Health Promotion**<br>健康促进 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Autism Spectrum Disorder Across the Lifespan**<br>全生命周期的孤独症谱系障碍 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Disability in Context**<br>情境中的残障 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
-| **Introduction to Issues in Disability Employment**<br>残障就业问题导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
+| **Introduction to Issues in Disability Employment**<br>残障就业问题入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Non-Profit Marketing**<br>非营利组织营销 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Promotional Strategy**<br>促销策略 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |
 | **Global Health**<br>全球卫生 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bpec) |

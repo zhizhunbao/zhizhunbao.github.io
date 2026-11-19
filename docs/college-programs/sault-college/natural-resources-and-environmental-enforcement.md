@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Natural Resources and Environmental Enforcement**<br>自然资源与环境执法 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/natural-resources-and-environmental-enforcement) |
-| **Interviewing and Introduction to Case Management**<br>访谈与个案管理导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/natural-resources-and-environmental-enforcement) |
-| **Introduction to Natural Resources Law**<br>自然资源法导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/natural-resources-and-environmental-enforcement) |
+| **Interviewing and Introduction to Case Management**<br>访谈与个案管理入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/natural-resources-and-environmental-enforcement) |
+| **Introduction to Natural Resources Law**<br>自然资源法入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/natural-resources-and-environmental-enforcement) |
 | **Natural Resources Law Fall Field Camp**<br>自然资源法秋季野外营 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/natural-resources-and-environmental-enforcement) |
 | **Federal Legislation - Natural Resources**<br>联邦立法 - 自然资源 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/natural-resources-and-environmental-enforcement) |
 | **Provincial Legislation - Natural Resources**<br>省级法规 - 自然资源 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/natural-resources-and-environmental-enforcement) |

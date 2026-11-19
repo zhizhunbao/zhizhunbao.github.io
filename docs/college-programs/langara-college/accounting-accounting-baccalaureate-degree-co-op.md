@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Accounting (accounting-baccalaureate-degree-co-op)**<br>会计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op) |
-| **Introduction to Digital Literacy**<br>数字素养导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
+| **Introduction to Digital Literacy**<br>数字素养入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
@@ -25,8 +25,8 @@ ms.date: 2026-11-08
 | **Financial Management I**<br>财务管理 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Intermediate Financial Accounting**<br>中级财务会计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Financial Management II**<br>财务管理 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-08
 | **Internal Control and Auditing**<br>内部控制与审计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Advanced Taxation**<br>高级税务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Management Issues in International Business**<br>国际商务管理问题 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Marketing Research**<br>市场调研 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Critical Thinking and Business Ethics**<br>批判性思维与商业伦理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |
 | **Intermediate Quantitative Methods**<br>中级定量方法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-baccalaureate-degree-co-op/courses) |

@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-health-analytics) |
 | **Mathematics for Machine Learning**<br>机器学习数学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-health-analytics) |
 | **Discrete Structures for Data Science**<br>数据科学离散结构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-health-analytics) |
-| **Introduction to Discrete Structures**<br>离散结构导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-health-analytics) |
+| **Introduction to Discrete Structures**<br>离散结构入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-health-analytics) |
 | **Machine Learning II**<br>机器学习 2 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-health-analytics) |
 | **Health Care Information Systems**<br>医疗信息系统 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-health-analytics) |
 | **Regression Analysis**<br>回归分析 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-health-analytics) |

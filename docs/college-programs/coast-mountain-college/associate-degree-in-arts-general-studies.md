@@ -12,17 +12,17 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Associate Degree in Arts - General Studies**<br>文科副学士学位，通识研究 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Language Skills**<br>语言技能 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Public Speaking**<br>公共演讲 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Technical Writing I**<br>技术写作 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to University Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to University Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Calculus I: Differential Calculus**<br>微积分 I：微分学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Calculus II: Integral Calculus**<br>微积分 II：积分学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Differential Calculus With Applications**<br>微分学及其应用 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Precalculus**<br>预备微积分 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Everyday Mathematics**<br>日常数学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Finite Mathematics**<br>有限数学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Calculus I for Social Sciences**<br>社会科学微积分 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Calculus II for Social Science**<br>社会科学微积分 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -30,12 +30,12 @@ ms.date: 2026-11-08
 | **Principles of Mathematics for Elementary Teachers**<br>小学教师数学原理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Computer Programming With Lego Robot**<br>乐高机器人编程 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Data Structures**<br>数据结构 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Integrated Software Tools**<br>集成软件工具 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Biological Anthropology**<br>生物人类学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Biological Anthropology**<br>生物人类学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Introductory Biology I**<br>生物学入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Introductory Biology II**<br>生物学入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Human Anatomy & Physiology I**<br>人体解剖学与生理学 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -66,7 +66,7 @@ ms.date: 2026-11-08
 | **Geomorphology**<br>地貌学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Spatial Analysis and Gis**<br>空间分析与地理信息系统 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Hydrology and Soils**<br>水文与土壤 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Northwest Geology**<br>西北地质学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Northwest Geology**<br>西北地质学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Historical Geology**<br>历史地质学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Introductory Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Introductory Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -74,7 +74,7 @@ ms.date: 2026-11-08
 | **Advanced Physics I**<br>高级物理 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Advanced Physics II**<br>高级物理 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Permaculture Design**<br>永续栽培设计 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Principles of Ecology**<br>生态学原理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Microbiology II: Human/Microbiology Interactions**<br>微生物学 II：人类与微生物的相互作用 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -88,11 +88,11 @@ ms.date: 2026-11-08
 | **Environments and Society**<br>环境与社会 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Geography of Food**<br>食物地理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Ethnogeography of Northwest BC**<br>西北不列颠哥伦比亚省民族地理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro Physical, Chemical and Geological Oceanography**<br>物理、化学与地质海洋学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Biological Oceanography**<br>生物海洋学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro Physical, Chemical and Geological Oceanography**<br>物理、化学与地质海洋学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Biological Oceanography**<br>生物海洋学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Research Methodologies in Marine Science**<br>海洋科学研究方法 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Human Origins**<br>人类起源 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro Social and Cultural Anthropology**<br>社会与文化人类学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro Social and Cultural Anthropology**<br>社会与文化人类学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **First Nations of Canada**<br>加拿大原住民族 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **First Nations of B.C.**<br>不列颠哥伦比亚省原住民族 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **World Cultures**<br>世界文化 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -108,33 +108,33 @@ ms.date: 2026-11-08
 | **Cultural Resource Management**<br>文化资源管理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Archaeology of the Americas**<br>美洲考古学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Visual Anthropology**<br>视觉人类学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Archaeological Field Studies**<br>考古实地研究 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Imperial China**<br>古代中国导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Imperial China**<br>古代中国入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **The History of Modern China**<br>近代中国史 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Psychology of Crime & Deviance**<br>犯罪与越轨心理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Crime, Deviance & Society**<br>犯罪、越轨与社会 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **The Criminal Justice System**<br>刑事司法体系 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Canadian Law**<br>加拿大法律导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Canadian Law**<br>加拿大法律入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Community, Crime and Soc Just Practicum Certificate Practicum**<br>社区、犯罪与社会正义实习证书实习 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Law, Youth and Young Offenders**<br>法律、青少年与青少年罪犯 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Women and Crime**<br>女性与犯罪 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Criminal Law in Canada**<br>加拿大刑法 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Education**<br>教育学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Education**<br>教育学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Introductory to First Nations Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Aboriginal Community Research**<br>原住民社区研究 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Aboriginal Health: Community Wellness & Healing**<br>原住民健康：社区健康与疗愈 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Human Geography**<br>人文地理学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Human Geography**<br>人文地理学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Social Geography (Space & Society)**<br>社会地理学（空间与社会） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Economic Geography**<br>经济地理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **World Regional Geography**<br>世界区域地理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Regional Geography of B C**<br>不列颠哥伦比亚省区域地理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Regional Geography of Canada**<br>加拿大区域地理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Health Careers**<br>健康职业导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Political Science**<br>政治学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Health Careers**<br>健康职业入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Political Science**<br>政治学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Canadian Politics and Government**<br>加拿大政治与政府 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **International Politics**<br>国际政治 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **International Political Economy**<br>国际政治经济学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -143,8 +143,8 @@ ms.date: 2026-11-08
 | **Developmental Psychology II**<br>发展心理学 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Psychology of Gender and Gender Relation**<br>性别与性别关系心理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Psyc of Drugs & Chem Addiction**<br>药物与化学成瘾心理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Health Psychology**<br>健康心理学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Mental Health Counselling**<br>心理健康咨询导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Health Psychology**<br>健康心理学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Mental Health Counselling**<br>心理健康咨询入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Research Methods in Social Sciences I**<br>社会科学研究方法 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Research Methods in Social Sciences II**<br>社会科学研究方法 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -166,12 +166,12 @@ ms.date: 2026-11-08
 | **Medical Anthropology**<br>医学人类学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Traditional Knowledge in Practice**<br>传统知识实践 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Aboriginal Languages - Preservation and Revitalization**<br>原住民语言：保护与复兴 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Gitksanimx Language Conversation I**<br>吉克桑语会话导论 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Gitksanimx Language Conversation II**<br>吉克桑语会话导论 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Haida Language Conversation I**<br>海达语会话导论 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Haida Language Conversation II**<br>海达语会话导论 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Haisla Language Conversation I**<br>海斯拉语会话导论 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Haisla Lng Conversation II**<br>海斯拉语会话导论 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Gitksanimx Language Conversation I**<br>吉克桑语会话入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Gitksanimx Language Conversation II**<br>吉克桑语会话入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Haida Language Conversation I**<br>海达语会话入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Haida Language Conversation II**<br>海达语会话入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Haisla Language Conversation I**<br>海斯拉语会话入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Haisla Lng Conversation II**<br>海斯拉语会话入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Europe - 1820's to the 1890's**<br>欧洲：1820年代至1890年代 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Europe 1917 to 1948**<br>欧洲 1917至1948年 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Canada to the Mid-19th Century**<br>19世纪中叶以前的加拿大 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -187,10 +187,10 @@ ms.date: 2026-11-08
 | **The History of Anti-Semitism**<br>反犹太主义的历史 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **The Soviet Union, 1917-1990**<br>苏联，1917-1990 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **History of Latin America**<br>拉丁美洲史 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Journalism**<br>新闻学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Michif Language Conversation 1**<br>米奇夫语会话导论 1 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Michif Language Conversation II**<br>米奇夫语会话导论 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Philosophy**<br>哲学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Journalism**<br>新闻学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Michif Language Conversation 1**<br>米奇夫语会话入门 1 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Michif Language Conversation II**<br>米奇夫语会话入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Philosophy**<br>哲学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Moral Philosophy**<br>道德哲学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Philosophy and Literature**<br>哲学与文学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Philosophy and the Social Science**<br>哲学与社会科学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
@@ -198,22 +198,22 @@ ms.date: 2026-11-08
 | **Philosophy of Science**<br>科学哲学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Environmental Ethics**<br>环境伦理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Introductory Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Sm'algyax Language Conversation I**<br>斯马尔吉亚克语会话导论 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Sm'algyax Language Conversation II**<br>斯马尔吉亚克语会话导论 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Sm'algyax Language Conversation I**<br>斯马尔吉亚克语会话入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Sm'algyax Language Conversation II**<br>斯马尔吉亚克语会话入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Intermediate Sm'algyax Language Conversation I**<br>中级斯马尔吉亚克语会话 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Intermediate Sm'algyax Language Conversation II**<br>中级斯马尔吉亚克语会话 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Sociology of the Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **The Family in Cross-Cultural Perspective**<br>跨文化视角下的家庭 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro Sustainable Community Development**<br>可持续社区发展导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro Sustainable Community Development**<br>可持续社区发展入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Equality and Sustainability**<br>平等与可持续性 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Capstone Project**<br>毕业设计项目 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Tahltan Language Conversation I**<br>塔尔坦语会话导论 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Tahltan Language Conversation II**<br>塔尔坦语会话导论 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Witsuwiten Lng Conversation I**<br>维苏维腾语会话导论 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Tahltan Language Conversation I**<br>塔尔坦语会话入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Tahltan Language Conversation II**<br>塔尔坦语会话入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Witsuwiten Lng Conversation I**<br>维苏维腾语会话入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Women in Canada**<br>加拿大女性 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Intro to Women's Studies**<br>妇女研究导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Intro to Women's Studies**<br>妇女研究入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Women's Health Issues in Canada**<br>加拿大女性健康问题 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
-| **Introduction to Film Studies**<br>电影研究导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
+| **Introduction to Film Studies**<br>电影研究入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 | **Modern American Cinema**<br>现代美国电影 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/general-arts) |
 
 ## Courses

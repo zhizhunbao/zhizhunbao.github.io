@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Fundamentals of Design and Joinery**<br>设计与细木工基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/industrial-woodworking-technician) |
 | **Cabinet & Furniture Construction 1**<br>橱柜与家具制作 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/industrial-woodworking-technician) |
 | **Essentials of Building Mathematics**<br>建筑数学要点 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/industrial-woodworking-technician) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/industrial-woodworking-technician) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/industrial-woodworking-technician) |
 | **Woodworking Tools 2**<br>木工工具 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/industrial-woodworking-technician) |
 | **Cabinet & Furniture Construction 2**<br>橱柜与家具制作 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/industrial-woodworking-technician) |
 | **Finishing 1**<br>饰面处理 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/industrial-woodworking-technician) |

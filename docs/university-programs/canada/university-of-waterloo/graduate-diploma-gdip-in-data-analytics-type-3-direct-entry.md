@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Graduate Diploma (GDip) in Data Analytics (Type 3/Direct-entry)**<br>数据分析研究生文凭（GDip）（类型 3/直接入学） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxixkRAon) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxixkRAon) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxixkRAon) |
 | **Statistical Methods for Data Analytics**<br>数据分析统计方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxixkRAon) |
 | **Operations Analytics**<br>运营分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxixkRAon) |
 | **Principles of Operations Research**<br>运筹学原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxixkRAon) |

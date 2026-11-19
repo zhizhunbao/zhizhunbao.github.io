@@ -1,10 +1,10 @@
 ---
-title: "3.2.113 Doctor of Philosophy in Transportation"
+title: "4.2.113 Doctor of Philosophy in Transportation"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Transportation: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.113 Doctor of Philosophy in Transportation
+# 4.2.113 Doctor of Philosophy in Transportation
 
 ## Glossary
 
@@ -29,7 +29,7 @@ ms.date: 2026-11-18
 | **Network Science and Models**<br>网络科学与模型 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-transportation/) |
 | **Fundamentals of Probability**<br>概率论基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-transportation/) |
 | **Discrete Probability and Stochastic Processes**<br>离散概率与随机过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-transportation/) |
-| **Introduction to Mathematical Programming**<br>数学规划导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-transportation/) |
+| **Introduction to Mathematical Programming**<br>数学规划入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-transportation/) |
 | **Robust Modeling, Optimization, and Computation**<br>稳健建模、优化与计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-transportation/) |
 | **Reinforcement Learning: Foundations and Methods**<br>强化学习：基础与方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-transportation/) |
 | **Optimization for Machine Learning**<br>机器学习优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-transportation/) |

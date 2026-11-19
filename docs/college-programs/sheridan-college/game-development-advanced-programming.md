@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Game Engine Fundamentals**<br>游戏引擎基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/game-development-advanced-programming) |
 | **Computer Graphics and Animation**<br>计算机图形与动画 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/game-development-advanced-programming) |
 | **Game Tools and Data Driven Design**<br>游戏工具与数据驱动设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/game-development-advanced-programming) |
-| **Introduction to Game Design Theory**<br>游戏设计理论导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/game-development-advanced-programming) |
+| **Introduction to Game Design Theory**<br>游戏设计理论入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/game-development-advanced-programming) |
 | **Gameplay Programming**<br>玩法编程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/game-development-advanced-programming) |
 | **Multiplayer Games and Online Services**<br>多人游戏与在线服务 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/game-development-advanced-programming) |
 | **Artificial Intelligence for Games**<br>游戏人工智能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/game-development-advanced-programming) |

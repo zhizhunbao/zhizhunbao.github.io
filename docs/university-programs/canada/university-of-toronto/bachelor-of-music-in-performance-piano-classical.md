@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Music in Performance - Piano: Classical**<br>音乐学士（演奏）－钢琴：古典 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
-| **Introduction to Music & Society**<br>音乐与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
+| **Introduction to Music & Society**<br>音乐与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
 | **Survey of Western Music History I**<br>西方音乐史概览 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
 | **Survey of Western Music History II**<br>西方音乐史概览 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
 | **Lives in Music**<br>音乐中的生命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Sight Reading**<br>视唱 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
 | **Piano-Inst. Master Class**<br>钢琴与乐器大师班 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
 | **Piano-Vocal Master Class**<br>钢琴与声乐大师班 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
-| **Introduction to Piano Teaching Methods**<br>钢琴教学法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
+| **Introduction to Piano Teaching Methods**<br>钢琴教学法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
 | **Piano Literature I & II**<br>钢琴文献 I 和 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
 | **Piano-Instrumental Master Class**<br>钢琴与乐器大师班 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPEPIANP) |
 

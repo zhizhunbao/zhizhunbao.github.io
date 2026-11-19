@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Mechanical Engineering Technology Concepts**<br>机械工程技术概念 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/mechanical-engineering-technology) |
 | **Electro-Mechanical Systems**<br>机电系统 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/mechanical-engineering-technology) |
 | **Engineering Statics**<br>工程静力学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/mechanical-engineering-technology) |
-| **Introduction to Thermodynamics**<br>热力学导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/mechanical-engineering-technology) |
+| **Introduction to Thermodynamics**<br>热力学入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/mechanical-engineering-technology) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/mechanical-engineering-technology) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/mechanical-engineering-technology) |
 | **Technical Modeling**<br>技术建模 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/mechanical-engineering-technology) |

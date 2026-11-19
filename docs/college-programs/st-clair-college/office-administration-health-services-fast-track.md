@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Office Administration - Health Services (Fast Track)**<br>办公室管理：健康服务（快读） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
 | **Language Fundamentals**<br>语言基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
-| **Introduction To Computer Technology**<br>计算机技术导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
-| **Introduction to Keyboarding**<br>键盘输入导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
+| **Introduction To Computer Technology**<br>计算机技术入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
+| **Introduction to Keyboarding**<br>键盘输入入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
 | **Essential Business Calculations**<br>基本商业计算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
-| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
+| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
 | **Business For The Office Assistant**<br>办公助理商务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |
 | **Administrative Procedures**<br>行政程序 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services-fast-track) |

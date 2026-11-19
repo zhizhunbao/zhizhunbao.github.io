@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Math for Health and Fitness Professionals**<br>健康与健身专业人员数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/fitness-and-health-promotion) |
 | **iSucceed in Fitness**<br>iSucceed 健身 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/fitness-and-health-promotion) |
 | **Group Exercise Leadership 1**<br>团体运动领导力 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/fitness-and-health-promotion) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/fitness-and-health-promotion) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/fitness-and-health-promotion) |
 | **Interprofessional Education: Exploring Professional Roles and Responsibilities**<br>跨专业教育：探索专业角色与职责 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/fitness-and-health-promotion) |
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/fitness-and-health-promotion) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/fitness-and-health-promotion) |

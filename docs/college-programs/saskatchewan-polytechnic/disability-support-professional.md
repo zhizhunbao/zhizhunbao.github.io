@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Orientation to Practicum**<br>实习入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Disability-Support-Professional.aspx) |
 | **Basic Care Skills**<br>基础护理技能 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Disability-Support-Professional.aspx) |
 | **Person-Centredness**<br>以人为本 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Disability-Support-Professional.aspx) |
-| **Introduction to Disability Support and Services**<br>残障支持与服务导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Disability-Support-Professional.aspx) |
+| **Introduction to Disability Support and Services**<br>残障支持与服务入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Disability-Support-Professional.aspx) |
 | **Understanding Disabilities**<br>理解残障 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Disability-Support-Professional.aspx) |
 | **Culture and Diversity**<br>文化与多样性 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Disability-Support-Professional.aspx) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Disability-Support-Professional.aspx) |

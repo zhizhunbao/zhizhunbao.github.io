@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Human Service Work Diploma**<br>人类服务工作文凭 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
-| **Introduction to Psychology: Basic Processes**<br>心理学导论：基本过程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
+| **Introduction to Psychology: Basic Processes**<br>心理学入门：基本过程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Professional Skills for Human Service Work**<br>人类服务工作职业技能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
-| **Introduction to Mental Health**<br>心理健康导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
+| **Introduction to Mental Health**<br>心理健康入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Interpersonal Relationships**<br>人际关系 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Families**<br>家庭 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
-| **An Introduction to Social Work Practice**<br>社会工作实务导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
+| **An Introduction to Social Work Practice**<br>社会工作实务入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **University Writing**<br>大学写作 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Critical Writing and Reading: Poetry and Drama**<br>批判性写作与阅读：诗歌与戏剧 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Critical Writing and Reading: Short Fiction and the Novel**<br>批判性写作与阅读：短篇小说与长篇小说 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Critical Writing and Reading: Narrative**<br>批判性写作与阅读：叙事 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
-| **Introduction to Psychology: Personal Functioning**<br>心理学导论：个人功能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
+| **Introduction to Psychology: Personal Functioning**<br>心理学入门：个人功能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Augmentative Communication**<br>辅助沟通 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Practicum Preparation I**<br>实习准备 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Health Care Skills**<br>医疗护理技能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
@@ -31,9 +31,9 @@ ms.date: 2026-11-08
 | **Groups**<br>团体 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Politics and Perspectives on Inclusion**<br>包容的政治与视角 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Lifespan Development**<br>毕生发展 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
-| **An Introduction to Social Welfare in Canada**<br>加拿大社会福利导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
+| **An Introduction to Social Welfare in Canada**<br>加拿大社会福利入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Practicum Preparation II**<br>实习准备 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
-| **Introduction to Child and Youth Mental Health**<br>儿童青少年心理健康导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
+| **Introduction to Child and Youth Mental Health**<br>儿童青少年心理健康入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Principles of HSW Practice**<br>HSW 实践原理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 | **Practicum II**<br>实习 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/human-service-work-diploma) |
 

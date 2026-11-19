@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Software Development - Apprenticeship Style**<br>软件开发（学徒制） | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
-| **Introduction to Database**<br>数据库导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
+| **Introduction to Database**<br>数据库入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
 | **Web Programming Basics and Node.js**<br>Web 编程基础与 Node.js | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
 | **Programming in C#**<br>C# 编程 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
-| **Introduction to Cloud**<br>云计算导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
+| **Introduction to Cloud**<br>云计算入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
 | **Web Programming - REACT**<br>Web 编程：REACT | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
 | **Object Oriented Programming Concepts**<br>面向对象编程概念 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |
 | **Web Programming - ASP.NET**<br>Web 编程：ASP.NET | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-apprenticeship-style) |

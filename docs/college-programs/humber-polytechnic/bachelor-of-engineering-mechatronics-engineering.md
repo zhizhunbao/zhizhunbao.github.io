@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Calculus 1**<br>微积分 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Physics 1**<br>物理 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
-| **Introduction to Engineering**<br>工程导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
+| **Introduction to Engineering**<br>工程入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Engineering in Society**<br>社会中的工程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Technical Communication and Critical Thinking for Engineers**<br>工程师技术沟通与批判性思维 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Calculus 2**<br>微积分 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Engineering Design**<br>工程设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Engineering Materials and Chemistry**<br>工程材料与化学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Teamwork and Leadership for Engineers**<br>工程师团队合作与领导力 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Engineering Project Management**<br>工程项目管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Electric Circuits Analysis**<br>电路分析 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Statistics and Quality Assurance**<br>统计与质量保证 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Electric Motors**<br>电动机 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **System Modeling and Simulation**<br>系统建模与仿真 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Work Preparation**<br>工作准备 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Law, Ethics and Professional Practice**<br>法律、伦理与专业实践 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |
 | **Programmable Logic Controllers**<br>可编程逻辑控制器 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-mechatronics-engineering) |

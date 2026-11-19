@@ -11,20 +11,20 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Anthropology, 4-YEAR MAJOR**<br>人类学，4 年制主修 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
-| **Introduction to Socio-Cultural Anthropology**<br>社会文化人类学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
-| **Introduction to Archaeology and Biological Anthropology**<br>考古学与生物人类学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
-| **Introduction to Medical Anthropology**<br>医学人类学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
+| **Introduction to Socio-Cultural Anthropology**<br>社会文化人类学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
+| **Introduction to Archaeology and Biological Anthropology**<br>考古学与生物人类学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
+| **Introduction to Medical Anthropology**<br>医学人类学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Anthropology of Death**<br>死亡人类学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
-| **An Introduction to Archaeological Method and Theory**<br>考古学方法与理论导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
+| **An Introduction to Archaeological Method and Theory**<br>考古学方法与理论入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Zooarchaeology**<br>动物考古学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **History of Anthropological Theory**<br>人类学理论史 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Juvenile Osteology & Bioarchaeology**<br>青少年骨学与生物考古学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Contemporary Anthropological and Ethnographic Theory**<br>当代人类学与民族志理论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
-| **Introduction to Archaeological Science**<br>考古科学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
+| **Introduction to Archaeological Science**<br>考古科学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Advanced Archaeological Method and Theory**<br>高级考古学方法与理论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **History of Physical Anthropology**<br>体质人类学史 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Palaeopathology**<br>古病理学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
-| **Introduction to Forensic Anthropology**<br>法医人类学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
+| **Introduction to Forensic Anthropology**<br>法医人类学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Applied Anthropology**<br>应用人类学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Ethnographic Research Methods**<br>民族志研究方法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |
 | **Social Research Methods I**<br>社会研究方法 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=52) |

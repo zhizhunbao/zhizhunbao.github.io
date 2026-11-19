@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **La santé des francophones en situation minoritaire**<br>少数语言环境下法语人群的健康 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/) |
 | **Variétés de français**<br>法语变体 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/) |
 | **Le français du Canada**<br>加拿大法语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/) |
-| **Introduction à la politique canadienne**<br>加拿大政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/) |
+| **Introduction à la politique canadienne**<br>加拿大政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/) |
 | **La vie politique au Québec**<br>魁北克的政治生活 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/) |
 | **Politique et francophonie en Ontario**<br>安大略省的政治与法语社群 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/) |
 | **Pensée politique et sociale au Québec**<br>魁北克的政治与社会思想 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-francophone-studies/) |

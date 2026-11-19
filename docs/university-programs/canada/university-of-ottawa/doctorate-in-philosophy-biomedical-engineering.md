@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Doctorate in Philosophy Biomedical Engineering**<br>哲学博士，生物医学工程 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biomedical-engineering/) |
-| **Introduction to Biomedical Engineering**<br>生物医学工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biomedical-engineering/) |
+| **Introduction to Biomedical Engineering**<br>生物医学工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biomedical-engineering/) |
 | **Biomedical Engineering PhD Seminar**<br>生物医学工程博士研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biomedical-engineering/) |
 | **Report and Defence of Thesis Proposal**<br>论文开题报告与答辩 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biomedical-engineering/) |
 | **PhD Comprehensive Exam**<br>博士综合考试 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-biomedical-engineering/) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/sport-administration/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/sport-administration/) |
 | **Spreadsheet Applications**<br>电子表格应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/sport-administration/) |
-| **Introduction to Sport Management**<br>体育管理导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/sport-administration/) |
+| **Introduction to Sport Management**<br>体育管理入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/sport-administration/) |
 | **Leadership in Sport**<br>体育领导力 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/sport-administration/) |
 | **Completion of additional General Education elective 1 course required**<br>须再完成1门额外通识教育选修课 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/sport-administration/) |
 | **Communication Skills for the Emerging Professional**<br>新兴专业人员沟通技能 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/sport-administration/) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Astronomical Sciences - Specialist (Science)**<br>天文科学－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
-| **Introduction to Mathematical Proofs**<br>数学证明导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
+| **Introduction to Mathematical Proofs**<br>数学证明入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Differential Calculus for Mathematical Sciences**<br>数学科学微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
@@ -36,8 +36,8 @@ ms.date: 2026-11-11
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Astrophysics III – Unsolved Problems in Astrophysics**<br>天体物理学 III：天体物理学未解问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Observational Astronomy**<br>观测天文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Quantum Mechanics I: Foundations**<br>量子力学 I：基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
@@ -48,7 +48,7 @@ ms.date: 2026-11-11
 | **Classical Electrodynamics**<br>经典电动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Linear Algebra II**<br>线性代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
-| **Introduction to Nonlinear Dynamics and Chaos**<br>非线性动力学与混沌导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
+| **Introduction to Nonlinear Dynamics and Chaos**<br>非线性动力学与混沌入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Curves and Surfaces**<br>曲线与曲面 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Probability and Statistics I**<br>概率与统计 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-11
 | **Physics of Climate**<br>气候物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Relativity Theory I**<br>相对论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Research Opportunity Program**<br>研究机会计划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
-| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
+| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 | **Research Topic in Astronomy**<br>天文学研究课题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1025) |
 
 ## Courses

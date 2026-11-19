@@ -12,27 +12,27 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Associate of Arts – Social Work**<br>文科副学士，社会工作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Psychology 2**<br>心理学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Sociology: The Individual and Society**<br>社会学导论：个人与社会 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Sociology 2: Social Institutions**<br>社会学导论 2：社会制度 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Psychology 2**<br>心理学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Sociology: The Individual and Society**<br>社会学入门：个人与社会 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Sociology 2: Social Institutions**<br>社会学入门 2：社会制度 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Psychological Explanations of Criminal And Deviant Behaviour**<br>对犯罪与越轨行为的心理学解释 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Roles and Responsibilities in Human Services**<br>人类服务中的角色与职责 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Trends and Issues in Human Services**<br>人类服务的趋势与问题 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Social Science Research Methods**<br>社会科学研究方法导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Sociological Theory**<br>社会学理论导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Poetry and Drama**<br>诗歌与戏剧导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Prose Fiction**<br>散文小说导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Social Science Research Methods**<br>社会科学研究方法入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Sociological Theory**<br>社会学理论入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Poetry and Drama**<br>诗歌与戏剧入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Prose Fiction**<br>散文小说入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Intercultural Communication**<br>跨文化交际 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Women in Canada: Post 1920**<br>加拿大女性：1920年以后 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Law, Youth and Young Offenders**<br>法律、青少年与青少年罪犯 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Indigenous Peoples’ Ways of Knowing**<br>原住民认知方式 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Indigenous Peoples’ Family Support Studies**<br>原住民家庭支持研究 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
-| **Introduction to Psychopathology and Mental Health**<br>精神病理学与心理健康导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
+| **Introduction to Psychopathology and Mental Health**<br>精神病理学与心理健康入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-social-work/) |
 
 ## Courses
 

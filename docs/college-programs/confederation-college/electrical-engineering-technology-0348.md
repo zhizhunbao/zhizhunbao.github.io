@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Communications for Technology**<br>技术沟通 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technology/) |
 | **Electrical II**<br>电气 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technology/) |
 | **Electronics II**<br>电子学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technology/) |
-| **Introduction to CAD**<br>CAD 导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technology/) |
+| **Introduction to CAD**<br>CAD 入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technology/) |
 | **Technology Math II**<br>技术数学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technology/) |
 | **Prints & Canadian Electrical Code I**<br>图纸与加拿大电气规范 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technology/) |
 | **Installation Methods**<br>安装方法 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technology/) |

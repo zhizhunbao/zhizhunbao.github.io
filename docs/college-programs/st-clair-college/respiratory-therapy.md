@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Blood Analysis**<br>血液分析 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Pharmacology I**<br>药理学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
-| **Introduction To Clinical Placement I**<br>临床实习导论 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
+| **Introduction To Clinical Placement I**<br>临床实习入门 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Pharmacology II**<br>药理学 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Respiratory Care III**<br>呼吸治疗 III | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Mechanical Ventilation II**<br>机械通风 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Anesthesia**<br>麻醉学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Clinical Preparation**<br>临床准备 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Simulation II**<br>模拟 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
-| **Introduction to Clinical Placement II**<br>临床实习导论 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
+| **Introduction to Clinical Placement II**<br>临床实习入门 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Clinical Practicum I - Hospital Training**<br>临床实习 I - 医院培训 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Comprehensive Examination I**<br>综合考试 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |
 | **Medical Research Application**<br>医学研究应用 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/respiratory-therapy) |

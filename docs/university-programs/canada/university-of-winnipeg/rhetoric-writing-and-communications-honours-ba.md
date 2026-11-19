@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Rhetoric, Writing, and Communications, Honours BA**<br>修辞、写作与传播，荣誉 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **RH**<br>RH | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **Forms of Inquiry in Written Communication**<br>书面传播中的探究形式 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
-| **Introduction to Rhetoric and Communications**<br>修辞与传播导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
+| **Introduction to Rhetoric and Communications**<br>修辞与传播入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **Academic Writing: Humanities**<br>学术写作：人文学科 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **Academic Writing: Social Sciences**<br>学术写作：社会科学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **Academic Writing: Sciences**<br>学术写作：科学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
@@ -24,9 +24,9 @@ ms.date: 2026-11-11
 | **Academic Writing: English as an Additional Language**<br>学术写作：英语作为附加语言 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **English 1**<br>英语 1 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **English 1A**<br>英语 1A | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
-| **Introduction to English: Topics in Literature**<br>英语导论：文学专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
-| **Introduction to English: Reading Culture**<br>英语导论：阅读文化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
-| **Introduction to English: Reading to Write Creatively**<br>英语导论：以读促创意写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
+| **Introduction to English: Topics in Literature**<br>英语入门：文学专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
+| **Introduction to English: Reading Culture**<br>英语入门：阅读文化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
+| **Introduction to English: Reading to Write Creatively**<br>英语入门：以读促创意写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **Professional Style & Editing**<br>专业文体与编辑 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **Rhetorical Criticism**<br>修辞批评 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |
 | **Contemporary Communication Theories**<br>当代传播理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=5) |

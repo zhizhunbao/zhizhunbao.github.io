@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **History of Architecture, Landscape, Urbanism, and Art II**<br>建筑、景观、城市规划与艺术史 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1000) |
 | **Drawing and Representation II**<br>绘画与表现 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1000) |
 | **Design Studio II**<br>设计工作室 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1000) |
-| **Introduction to Critical Theory**<br>批判理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1000) |
+| **Introduction to Critical Theory**<br>批判理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1000) |
 | **Close Readings in Architecture**<br>建筑精读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1000) |
 | **Close Readings in Landscape Architecture**<br>景观建筑精读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1000) |
 | **Close Readings in Urban Design**<br>城市设计精读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1000) |

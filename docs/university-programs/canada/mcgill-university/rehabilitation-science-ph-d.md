@@ -18,7 +18,7 @@ ms.date: 2026-11-11
 | **Ph.D. Comprehensive.**<br>博士综合考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-science-phd/) |
 | **Measurement: Rehabilitation 1.**<br>测量：康复 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-science-phd/) |
 | **Measurement: Rehabilitation 2.**<br>测量：康复 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-science-phd/) |
-| **Introduction to Regression Analysis.**<br>回归分析导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-science-phd/) |
+| **Introduction to Regression Analysis.**<br>回归分析入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-science-phd/) |
 
 ## Courses
 

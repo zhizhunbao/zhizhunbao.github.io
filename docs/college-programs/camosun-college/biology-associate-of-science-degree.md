@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Calculus 2**<br>微积分 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4295) |
 | **Finite Mathematics**<br>有限数学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4295) |
 | **Applied Statistics**<br>应用统计学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4295) |
-| **Intro to Probability and Statistics 1**<br>概率与统计导论 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4295) |
+| **Intro to Probability and Statistics 1**<br>概率与统计入门 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4295) |
 | **Workplace Preparation Skills**<br>职场准备技能 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4295) |
 | **Co-operative Work Experience 1**<br>合作教育工作经历 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4295) |
 | **Co-operative Work Experience 2**<br>合作教育工作经历 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4295) |

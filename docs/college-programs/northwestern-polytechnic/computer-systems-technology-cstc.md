@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Systems Technology (CSTC)**<br>计算机系统技术 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
-| **Introduction to Computing Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
+| **Introduction to Computing Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
 | **Elementary Data Structures**<br>初等数据结构 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
 | **Data Communications and Networking**<br>数据通信与网络 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
-| **Introduction to PC Hardware and Systems Configuration**<br>PC硬件与系统配置导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
+| **Introduction to PC Hardware and Systems Configuration**<br>PC硬件与系统配置入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
 | **Formal Systems and Logic in Computing Science**<br>计算机科学中的形式系统与逻辑 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
 | **Linear Algebra I**<br>线性代数 1 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-technology-certificate) |
 

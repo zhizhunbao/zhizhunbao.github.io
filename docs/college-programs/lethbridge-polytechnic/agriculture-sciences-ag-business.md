@@ -23,13 +23,13 @@ ms.date: 2026-11-08
 | **Fundamentals of Soil Science**<br>土壤科学基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 | **Financial Accounting II**<br>财务会计 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 | **Canadian and World Agriculture**<br>加拿大与世界农业 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 | **Commodity Marketing**<br>大宗商品营销 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 | **Field Crops**<br>大田作物 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 | **Agriculture Policy**<br>农业政策 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 | **Business Finance**<br>企业财务 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 | **Descriptive Statistics**<br>描述统计学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-sciences-ag-business) |
 
 ## Courses

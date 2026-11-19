@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Professional Development**<br>职业发展 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/network-technology-administration-and-security-post-degree-diploma/) |
 | **ITIL Foundation**<br>ITIL Foundation | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/network-technology-administration-and-security-post-degree-diploma/) |
 | **Industry Capstone Project**<br>行业毕业设计项目 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/network-technology-administration-and-security-post-degree-diploma/) |
-| **Introduction to Network Optimized Monitoring**<br>网络优化监控导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/network-technology-administration-and-security-post-degree-diploma/) |
+| **Introduction to Network Optimized Monitoring**<br>网络优化监控入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/network-technology-administration-and-security-post-degree-diploma/) |
 | **Computer Forensics for the First Responder**<br>急救人员计算机取证 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/network-technology-administration-and-security-post-degree-diploma/) |
 
 ## Courses

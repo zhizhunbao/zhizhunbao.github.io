@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Computer Network Design and Implentation**<br>计算机网络设计与实施 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
 | **Cyber-Security Principles and Best Practices**<br>网络安全原则与最佳实践 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
 | **Information Security Fundamentals**<br>信息安全基础 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
-| **Introduction to Networking and Data Communication**<br>网络与数据通信导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
+| **Introduction to Networking and Data Communication**<br>网络与数据通信入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
 | **Cloud Security**<br>云安全 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
 | **Co-op & Career Search Prep 1**<br>合作教育与求职准备 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |
 | **Cryptography and Data Encryption**<br>密码学与数据加密 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security/) |

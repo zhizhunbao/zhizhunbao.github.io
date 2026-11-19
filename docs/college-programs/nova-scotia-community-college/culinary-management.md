@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Culinary Management**<br>烹饪管理 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
-| **Introduction to Human Relations**<br>人际关系导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
+| **Introduction to Human Relations**<br>人际关系入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 | **OOP - Cooperative Education A**<br>OOP：合作教育 A | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 | **OOP - Cooperative Education B**<br>OOP：合作教育 B | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 | **Kitchen Essentials**<br>厨房基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Plant Based Cuisine**<br>植物性饮食烹饪 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 | **Protein and Sauce Essentials**<br>肉类与酱汁要点 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 | **Applied Math for Food Service**<br>餐饮服务应用数学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/culinary-management) |
 
 ## Courses

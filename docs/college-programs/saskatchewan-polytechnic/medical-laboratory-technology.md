@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Medical Laboratory Technology**<br>医学检验技术 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
-| **Introduction to Anatomy and Physiology**<br>解剖与生理学导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
+| **Introduction to Anatomy and Physiology**<br>解剖与生理学入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Professionalism in Health Care**<br>医疗保健中的职业素养 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Infection Control and Safety**<br>感染控制与安全 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Hematology Procedures**<br>血液学操作规程 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Histotechnology 1**<br>组织技术 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Immunology**<br>免疫学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Clinical Specimen Procurement and Management**<br>临床标本采集与管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Clinical Laboratory Year 1**<br>临床实验室第一年 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Psychology of Health and Wellness Management**<br>健康与保健管理心理学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-08
 | **Hematology Pathology**<br>血液病理学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Interprofessional Education**<br>跨专业教育 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Microbiology 2**<br>微生物学 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Transfusion Science 2 (Theory)**<br>输血科学 2（理论） | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Transfusion Science 3 (Lab)**<br>输血科学 3（实验） | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |
 | **Competency Development**<br>能力培养 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Medical-Laboratory-Technology.aspx) |

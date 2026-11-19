@@ -18,11 +18,11 @@ ms.date: 2026-11-11
 | **Advanced General Chemistry**<br>高级普通化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | **Calculus I for the Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| **Introduction to Data Analysis for Scientific Literacy**<br>科学素养的数据分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| **Introduction to Data Analysis for Scientific Literacy**<br>科学素养的数据分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | **Molecular Aspects of Cellular and Genetic Processes**<br>细胞与遗传过程的分子层面 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | **Plants and Society**<br>植物与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
@@ -72,70 +72,62 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | Students are required to complete a total of 8.5 credits. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year |  |  | 1. 1.0 Credit of Introductory Biology Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year |  | BIOA01H3 | Life on Earth: Unifying Principles | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year |  | BIOA02H3 | Life on Earth: Form, Function and Interactions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year |  |  | 2. 1.0 Credit of Introductory Chemistry Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year |  | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year |  | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year |  |  | 3. 0.5 Credit in Mathematics or Statistics Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From | MATA29H3 | Calculus I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From |  | (PSYB07H3) Data Analysis in Psychology |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From; Note: We recommend students take | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From; Note: We recommend students take | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From; Note: We recommend students take | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From; Note: We recommend students take (or) | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From; Note: We recommend students take (or) | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| First Year | Choose From; Note: We recommend students take | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year |  |  | 4. 2.5 Credits of Biology Core Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year |  | BIOB10H3 | Cell Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year |  | BIOB11H3 | Molecular Aspects of Cellular and Genetic Processes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year |  | BIOB38H3 | Plants and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year |  | BIOB50H3 | Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year |  | BIOB51H3 | Evolutionary Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year |  | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year | Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year | Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year |  |  | 5. 0.5 Credit of Biology Core Labs |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year | Choose From | BIOB12H3 | Cell and Molecular Biology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Second Year | Choose From | BIOB52H3 | Ecology and Evolutionary Biology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third Year |  |  | 6. 1.5 Credits of C-level Plant Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third Year |  | BIOC31H3 | Plant Development and Biotechnology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third Year |  | BIOC37H3 | Plants: Life on the Edge | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third Year |  | BIOC40H3 | Plant Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year |  |  | 7. 1.0 Credit of Additional C-level Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC12H3 | Biochemistry I: Proteins and Enzymes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC13H3 | Biochemistry II: Bioenergetics and Metabolism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC15H3 | Genetics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC17H3 | Microbiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC30H3 | From Genetic Codes to Fantastic Creatures | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC35H3 | Principles in Parasitology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC36H3 | Synthetic Biology for Health and Agriculture | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC50H3 | Macroevolution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC52H3 | Ecology Field Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC61H3 | Community Ecology and Environmental Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Third/ Fourth Year | Choose From; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year |  |  | 8. 0.5 Credit of D-level Biology Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From | BIOD12H3 | Protein Homeostasis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From | BIOD13H3 | Herbology: The Science Behind Medicinal Plants | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From | BIOD21H3 | Advanced Molecular Biology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From | BIOD26H3 | Fungal Biology and Pathogenesis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From | BIOD30H3 | Plant Research and Biotechnology: Addressing Global Problems | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From | BIOD36H3 | Advanced Topics in Molecular Parasitology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From | BIOD37H3 | Biology of Plant Stress | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From | BIOD62H3 | Symbiosis: Interactions Between Species | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From; Note: Students who are interested in research or graduate studies can choose to take | BIOC99H3 | Biology Team Research | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From; Note: Students who are interested in research or graduate studies can choose to take | BIOD95H3 | Supervised Study in Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From; Note: Students who are interested in research or graduate studies can choose to take | BIOD98Y3 | Directed Research in Biology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From; Note: Students who are interested in research or graduate studies can choose to take (or) | BIOD99Y3 | Directed Research in Biology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
-| Fourth Year | Choose From |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Department Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 1. 1.0 Credit of Introductory Biology Courses | BIOA01H3 | Life on Earth: Unifying Principles | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 1. 1.0 Credit of Introductory Biology Courses | BIOA02H3 | Life on Earth: Form, Function and Interactions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 2. 1.0 Credit of Introductory Chemistry Courses | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 2. 1.0 Credit of Introductory Chemistry Courses | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 2. 1.0 Credit of Introductory Chemistry Courses (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From | MATA29H3 | Calculus I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From |  | (PSYB07H3) Data Analysis in Psychology |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From; Note: We recommend students take | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From; Note: We recommend students take | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From; Note: We recommend students take | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From; Note: We recommend students take (or) | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From; Note: We recommend students take (or) | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| First Year | 3. 0.5 Credit in Mathematics or Statistics Courses; Choose From; Note: We recommend students take | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 4. 2.5 Credits of Biology Core Courses | BIOB10H3 | Cell Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 4. 2.5 Credits of Biology Core Courses | BIOB11H3 | Molecular Aspects of Cellular and Genetic Processes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 4. 2.5 Credits of Biology Core Courses | BIOB38H3 | Plants and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 4. 2.5 Credits of Biology Core Courses | BIOB50H3 | Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 4. 2.5 Credits of Biology Core Courses | BIOB51H3 | Evolutionary Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 4. 2.5 Credits of Biology Core Courses | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 4. 2.5 Credits of Biology Core Courses; Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 4. 2.5 Credits of Biology Core Courses; Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 5. 0.5 Credit of Biology Core Labs; Choose From | BIOB12H3 | Cell and Molecular Biology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Second Year | 5. 0.5 Credit of Biology Core Labs; Choose From | BIOB52H3 | Ecology and Evolutionary Biology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third Year | 6. 1.5 Credits of C-level Plant Courses | BIOC31H3 | Plant Development and Biotechnology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third Year | 6. 1.5 Credits of C-level Plant Courses | BIOC37H3 | Plants: Life on the Edge | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third Year | 6. 1.5 Credits of C-level Plant Courses | BIOC40H3 | Plant Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC12H3 | Biochemistry I: Proteins and Enzymes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC13H3 | Biochemistry II: Bioenergetics and Metabolism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC15H3 | Genetics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC17H3 | Microbiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC30H3 | From Genetic Codes to Fantastic Creatures | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC35H3 | Principles in Parasitology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC36H3 | Synthetic Biology for Health and Agriculture | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC50H3 | Macroevolution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC52H3 | Ecology Field Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC61H3 | Community Ecology and Environmental Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Third/ Fourth Year | 7. 1.0 Credit of Additional C-level Courses; Choose From; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From | BIOD12H3 | Protein Homeostasis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From | BIOD13H3 | Herbology: The Science Behind Medicinal Plants | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From | BIOD21H3 | Advanced Molecular Biology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From | BIOD26H3 | Fungal Biology and Pathogenesis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From | BIOD30H3 | Plant Research and Biotechnology: Addressing Global Problems | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From | BIOD36H3 | Advanced Topics in Molecular Parasitology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From | BIOD37H3 | Biology of Plant Stress | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From | BIOD62H3 | Symbiosis: Interactions Between Species | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From; Note: Students who are interested in research or graduate studies can choose to take | BIOC99H3 | Biology Team Research | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From; Note: Students who are interested in research or graduate studies can choose to take | BIOD95H3 | Supervised Study in Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From; Note: Students who are interested in research or graduate studies can choose to take | BIOD98Y3 | Directed Research in Biology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From; Note: Students who are interested in research or graduate studies can choose to take (or) | BIOD99Y3 | Directed Research in Biology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
+| Fourth Year | 8. 0.5 Credit of D-level Biology Courses; Choose From |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Department Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | Fourth Year | Co-op Work Term Requirements | COPB50H3 | Foundations for Success in Arts and Science Co-op | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | Fourth Year | Co-op Work Term Requirements | COPB51H3 |  | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |
 | Fourth Year | Co-op Work Term Requirements |  | Students must be available for work terms in each of the Fall, Winter, and Summer semesters and must complete at least one of their required work terms in either a Fall or Winter semester. This requires that students take courses during the Summer semesters. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1060c) |

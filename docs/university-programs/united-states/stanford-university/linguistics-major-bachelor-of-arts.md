@@ -1,31 +1,31 @@
 ---
-title: "3.3.46 Linguistics, Major: Bachelor of Arts"
+title: "4.3.46 Linguistics, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Linguistics, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.46 Linguistics, Major: Bachelor of Arts
+# 4.3.46 Linguistics, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Linguistics, Major: Bachelor of Arts**<br>语言学，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
-| **Introduction to Research for Undergraduates**<br>本科生研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
+| **Introduction to Research for Undergraduates**<br>本科生研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Phonetics**<br>语音学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
-| **Introduction to Phonology**<br>音系学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
+| **Introduction to Phonology**<br>音系学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **The Syntax of English**<br>英语句法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Crosslinguistic Syntax**<br>跨语言句法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Syntax I**<br>句法学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
-| **Introduction to Semantics and Pragmatics**<br>语义学与语用学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
-| **Introduction to Lexical Semantics**<br>词汇语义学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
+| **Introduction to Semantics and Pragmatics**<br>语义学与语用学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
+| **Introduction to Lexical Semantics**<br>词汇语义学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Historical Linguistics**<br>历史语言学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Language and Society**<br>语言与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Language, Gender, & Sexuality**<br>语言、性别与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Sociophonetics**<br>社会语音学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Sociolinguistic Theory and Analysis**<br>社会语言学理论与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Minds and Machines**<br>心智与机器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
-| **Introduction to Psycholinguistics**<br>心理语言学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
+| **Introduction to Psycholinguistics**<br>心理语言学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Natural Language Understanding**<br>自然语言理解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Programming for Linguists**<br>语言学家的编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
@@ -84,7 +84,7 @@ ms.date: 2026-11-18
 | **Interactional Phonetics Research Lab**<br>互动语音学研究实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Analysis of Variation**<br>变异分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Variation and Social Meaning**<br>变异与社会意义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
-| **Introduction to Contact Linguistics**<br>接触语言学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
+| **Introduction to Contact Linguistics**<br>接触语言学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **CVC Research Lab**<br>CVC研究实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Linguistic Diversity and Language Endangerment**<br>语言多样性与语言濒危 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |
 | **Theory and Method in Linguistic Anthropology**<br>语言人类学的理论与方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/linguistics/bachelor-of-arts) |

@@ -1,17 +1,17 @@
 ---
-title: "3.2.2 Anthropology (Course 21A)"
+title: "4.2.2 Anthropology (Course 21A)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Anthropology (Course 21A): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.2 Anthropology (Course 21A)
+# 4.2.2 Anthropology (Course 21A)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Anthropology (Course 21A)**<br>人类学（Course 21A） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/anthropology-course-21a/) |
-| **Introduction to Anthropology: Comparing Human Cultures**<br>人类学导论：比较人类文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/anthropology-course-21a/) |
+| **Introduction to Anthropology: Comparing Human Cultures**<br>人类学入门：比较人类文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/anthropology-course-21a/) |
 | **How Culture Works**<br>文化如何运作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/anthropology-course-21a/) |
 | **The Meaning of Life**<br>生命的意义 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/anthropology-course-21a/) |
 | **Food, Culture, and Politics (CI-M)**<br>饮食、文化与政治 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/anthropology-course-21a/) |

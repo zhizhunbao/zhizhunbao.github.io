@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **HONOURS SPECIALIZATION IN NEUROSCIENCE**<br>神经科学荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE I**<br>理科生物学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE II**<br>理科生物学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PSYCHOLOGY**<br>心理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PSYCHOLOGY**<br>心理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY AS A NATURAL SCIENCE**<br>作为自然科学的心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY AS A SOCIAL SCIENCE**<br>作为社会科学的心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL STRUCTURE**<br>探索化学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
@@ -24,17 +24,17 @@ ms.date: 2026-11-11
 | **COMPUTER SCIENCE FUNDAMENTALS I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS AND PROBABILITY WITH BIOLOGICAL APPLICATIONS**<br>生物应用的微积分与概率 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **BIOCHEMISTRY AND MOLECULAR BIOLOGY**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **CELL BIOLOGY**<br>细胞生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO NEUROSCIENCE**<br>神经科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO NEUROSCIENCE**<br>神经科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN PSYCHOLOGY I**<br>心理学研究方法 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN PSYCHOLOGY II**<br>心理学研究方法 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR PSYCHOLOGY I**<br>心理学统计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR PSYCHOLOGY II**<br>心理学统计 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR SCIENCE**<br>科学统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **MODERN SURVIVAL SKILLS I: CODING ESSENTIALS**<br>现代生存技能 I：编程基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DATA SCIENCE**<br>数据科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DATA SCIENCE**<br>数据科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **CURRENT TOPICS IN NEUROSCIENCE**<br>神经科学当前专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN PHARMACOLOGY AND THERAPEUTIC PRINCIPLES**<br>人体药理学与治疗原则 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |
 | **CELLULAR PHYSIOLOGY**<br>细胞生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20784&SelectedCalendar=Live&ArchiveID=) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Property**<br>财产 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd/) |
 | **Law, Reconciliation and Decolonization**<br>法律、和解与去殖民化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd/) |
 | **Criminal Law and Procedure**<br>刑法与程序 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd/) |
-| **Introduction to Public and Constitutional Law**<br>公法与宪法导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd/) |
+| **Introduction to Public and Constitutional Law**<br>公法与宪法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd/) |
 | **Torts**<br>侵权法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd/) |
 | **Civil Procedure I**<br>民事诉讼 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd/) |
 | **Administrative Law**<br>行政法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/juris-doctor-jd/) |

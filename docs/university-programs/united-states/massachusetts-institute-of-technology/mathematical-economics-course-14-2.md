@@ -1,10 +1,10 @@
 ---
-title: "3.2.41 Mathematical Economics (Course 14-2)"
+title: "4.2.41 Mathematical Economics (Course 14-2)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mathematical Economics (Course 14-2): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.41 Mathematical Economics (Course 14-2)
+# 4.2.41 Mathematical Economics (Course 14-2)
 
 ## Glossary
 
@@ -13,7 +13,7 @@ ms.date: 2026-11-18
 | **Mathematical Economics (Course 14-2)**<br>数理经济学（Course 14-2） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/) |
-| **Introduction to Statistical Methods in Economics**<br>经济学统计方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/) |
+| **Introduction to Statistical Methods in Economics**<br>经济学统计方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/) |
 | **Econometric Data Science**<br>计量经济数据科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/) |
 | **Real Analysis**<br>实分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/) |

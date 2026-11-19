@@ -14,8 +14,8 @@ ms.date: 2026-11-11
 | **Coding Cultures**<br>编码文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
 | **Drones, Robots, Artificial Intelligence**<br>无人机、机器人、人工智能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
 | **Artificial Intelligence Literacy**<br>人工智能素养 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
 | **Neural Networks and Deep Learning**<br>神经网络与深度学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
 | **The Future of Ed Tech: Active Learning Classrooms and Artificial Intelligence**<br>教育科技的未来：主动学习教室与人工智能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |
 | **Literature and AI**<br>文学与AI | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer0250) |

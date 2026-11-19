@@ -16,15 +16,15 @@ ms.date: 2026-11-08
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Business Communications II**<br>商务沟通 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Business Computer Applications**<br>商务计算机应用 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Principles of Accounting**<br>会计原理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Human Resource Management I**<br>人力资源管理 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
-| **Introduction to Finance**<br>金融导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
+| **Introduction to Finance**<br>金融入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Intermediate Accounting I**<br>中级会计 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Cost Accounting I**<br>成本会计 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Computer Applications for Accounting**<br>会计计算机应用 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-08
 | **Social and Digital Communication**<br>社交与数字沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Consumer Behaviour**<br>消费者行为 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Process Improvement**<br>流程改进 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
-| **Introduction to Logistics**<br>物流导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
+| **Introduction to Logistics**<br>物流入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Lean Systems**<br>精益系统 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 | **Quality Management**<br>质量管理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/business-administration/costs-and-courses/) |
 

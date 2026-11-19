@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Honours Bachelor of Counselling Psychology**<br>咨询心理学荣誉学士 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/honours-bachelor-counselling-psychology/) |
 | **Introduction to Counselling Psychology**<br>咨询心理学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
 | **Fundamental Counselling Skills**<br>基础咨询技能 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
 | **Interdisciplinary Modes of Communication**<br>跨学科沟通方式 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
 | **Select 1 of the following courses: SOCI 1000 , HUMA 1012 , or SCEN 1000 .**<br>从下列课程中选修1门：SOCI 1000、HUMA 1012或SCEN 1000。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
 | **Ethical Issues in Counselling Psychology**<br>咨询心理学中的伦理问题 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
 | **Group Counselling**<br>团体咨询 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
-| **Introduction to Psychology 2**<br>心理学导论 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
+| **Introduction to Psychology 2**<br>心理学入门 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
 | **Introduction to Multidisciplinary Research**<br>多学科研究入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |
 | **Advanced Counselling Skills**<br>高级咨询技能 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbcp/) |

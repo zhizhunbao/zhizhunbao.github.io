@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Changing World Orders**<br>变动中的世界秩序 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Climate, Energy, and Power**<br>气候、能源与权力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Design for Social Change and Inclusion**<br>面向社会变革与包容的设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
-| **The Real World of Politics: An Introduction**<br>政治的真实世界：导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
+| **The Real World of Politics: An Introduction**<br>政治的真实世界：入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Contemporary Challenges to Democracy: Democracy in the Social Media Age**<br>民主面临的当代挑战：社交媒体时代的民主 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly**<br>哪里出了错？政治灾难、灾难性政策失败与史诗般的愚行事后检讨 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Might and Right: Power and Justice in International Relations**<br>强权与公理：国际关系中的权力与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-11
 | **Microeconomic Theory**<br>微观经济理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Macroeconomic Theory and Policy**<br>宏观经济理论与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Macroeconomic Theory**<br>宏观经济理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Empire, Nationalism, and the History of International Relations**<br>帝国、民族主义与国际关系史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Scarcity, Sustainability, and the Future of International Relations**<br>稀缺、可持续性与国际关系的未来 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Economic Analysis of Law**<br>法律的经济分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
@@ -127,7 +127,7 @@ ms.date: 2026-11-11
 | **Modern Arab History**<br>近代阿拉伯史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Colonial Legacies and Post-Independence African Politics**<br>殖民遗产与独立后的非洲政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Politics and Society in 20th Century China**<br>20世纪中国的政治与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
-| **Introduction to Latin American Politics and Societies**<br>拉丁美洲政治与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
+| **Introduction to Latin American Politics and Societies**<br>拉丁美洲政治与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Japanese Politics**<br>日本政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Contemporary African Politics: Dynamics and Challenges**<br>当代非洲政治：动态与挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |
 | **Canadian Foreign Policy**<br>加拿大外交政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1469) |

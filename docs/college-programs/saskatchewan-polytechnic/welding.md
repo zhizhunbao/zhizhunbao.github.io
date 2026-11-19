@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Welding**<br>焊接 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Fundamental Communication Skills**<br>基础沟通技能 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
-| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
+| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Fabrication Equipment**<br>制造设备 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Trade Mathematics**<br>行业数学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Metallurgy and Heat Treatment of Metals**<br>金属冶金与热处理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Hand Drafting**<br>手工制图 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Drawing Interpretation and Welding Symbols**<br>图纸解读与焊接符号 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
-| **Introduction to Computer Aided Design**<br>计算机辅助设计导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
+| **Introduction to Computer Aided Design**<br>计算机辅助设计入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Shop Projects**<br>车间项目 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Quality Assurance**<br>质量保证 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |
 | **Welding Safety**<br>焊接安全 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Welding.aspx) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Alternating Current (AC) Basics**<br>交流电（AC）基础 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **Power Supply Fundamentals**<br>电源基础 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **Technical Skills 1**<br>技术技能 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
-| **Introduction to Lean Six Sigma**<br>精益六西格玛导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
+| **Introduction to Lean Six Sigma**<br>精益六西格玛入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **Customer Service Essentials**<br>客户服务要点 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **Measurement & Instrumentation in Samsung Service**<br>三星服务中的测量与仪表 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **Technical Skills 2**<br>技术技能 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **Samsung Systems and Controls**<br>三星系统与控制 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
-| **Introduction to Computer Hardware**<br>计算机硬件导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
+| **Introduction to Computer Hardware**<br>计算机硬件入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **The Canadian Economy**<br>加拿大经济 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **LCD Monitor and Television Repair**<br>液晶显示器与电视维修 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |
 | **Mobile Device Repair**<br>移动设备维修 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/electronics-repair-technology/) |

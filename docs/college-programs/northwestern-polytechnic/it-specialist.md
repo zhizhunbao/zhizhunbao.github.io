@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **IT Specialist**<br>信息技术专员 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/information-technology-specialist-certificate) |
-| **Introduction to PC Hardware**<br>PC硬件导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/information-technology-specialist-certificate) |
+| **Introduction to PC Hardware**<br>PC硬件入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/information-technology-specialist-certificate) |
 | **Operating Systems Installation and Maintenance**<br>操作系统安装与维护 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/information-technology-specialist-certificate) |
 | **IT Specialists’ Professional Practice**<br>IT专家职业实践 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/information-technology-specialist-certificate) |
 | **Networking Principles**<br>网络原理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/information-technology-specialist-certificate) |

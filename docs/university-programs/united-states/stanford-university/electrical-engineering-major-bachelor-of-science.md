@@ -1,10 +1,10 @@
 ---
-title: "3.3.28 Electrical Engineering, Major: Bachelor of Science"
+title: "4.3.28 Electrical Engineering, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Electrical Engineering, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.28 Electrical Engineering, Major: Bachelor of Science
+# 4.3.28 Electrical Engineering, Major: Bachelor of Science
 
 ## Glossary
 
@@ -17,7 +17,7 @@ ms.date: 2026-11-18
 | **Vector Calculus for Engineers**<br>工程师矢量微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Ordinary Differential Equations for Engineers**<br>工程师常微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Matrix Methods**<br>矩阵方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Matrix Methods**<br>矩阵方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Linear Algebra and Matrix Theory**<br>线性代数与矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Probabilistic Systems Analysis**<br>概率系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-18
 | **Mechanics and Special Relativity**<br>力学与狭义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Quantum and Thermal Physics**<br>量子与热物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Electromagnetics and Its Applications**<br>电磁学及其应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Electromagnetics and Its Applications**<br>电磁学及其应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Engineering Electromagnetics**<br>工程电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Electricity and Magnetism**<br>电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Electricity and Magnetism Using Special Relativity and Vector Calculus**<br>运用狭义相对论与矢量微积分的电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
@@ -38,20 +38,20 @@ ms.date: 2026-11-18
 | **Digital Systems Architecture**<br>数字系统结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Computer Organization and Systems**<br>计算机组成与系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Computer Systems from the Ground Up**<br>从零开始的计算机系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Digital Systems Design Lab**<br>数字系统设计实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Fundamentals of Analog Integrated Circuit Design**<br>模拟集成电路设计基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Semiconductor Devices for Energy and Electronics**<br>能源与电子学用半导体器件 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Understanding the Sensors in your Smartphone**<br>理解智能手机中的传感器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Neuroelectrical Engineering**<br>神经电气工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Neuroelectrical Engineering**<br>神经电气工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Analog Communications Design Laboratory**<br>模拟通信设计实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Photonics**<br>光子学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Photonics**<br>光子学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Power Electronics**<br>电力电子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Principles of Robot Autonomy I**<br>机器人自主性原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Board Level Design**<br>电路板级设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Ice Penetrating Radar**<br>冰穿透雷达 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Digital Image Processing**<br>数字图像处理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Digital Image Processing**<br>数字图像处理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Analog and Digital Communication Systems**<br>模拟与数字通信系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Internet Principles and Protocols**<br>互联网原理与协议 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Integrated Circuit Fabrication Processes**<br>集成电路制造工艺 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
@@ -64,7 +64,7 @@ ms.date: 2026-11-18
 | **Modern Optics**<br>现代光学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Guided Waves**<br>导波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Electromagnetic Waves**<br>电磁波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Optical Fiber Communications**<br>光纤通信导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Optical Fiber Communications**<br>光纤通信入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Principles of Sensing for Autonomy**<br>自主性感知原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Principles of Robot Autonomy II**<br>机器人自主性原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **The Fourier Transform and Its Applications**<br>傅里叶变换及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
@@ -72,19 +72,19 @@ ms.date: 2026-11-18
 | **Digital Signal Processing**<br>数字信号处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Virtual Reality**<br>虚拟现实 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Quantization and Signal Processing for AI**<br>人工智能的量化与信号处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to VLSI Systems**<br>VLSI 系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to VLSI Systems**<br>VLSI 系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Design Projects in VLSI Systems I**<br>VLSI系统设计项目 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Digital Systems Engineering**<br>数字系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Data Compression: Theory and Applications**<br>数据压缩：理论与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Probability and Statistical Inference**<br>概率与统计推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Digital Communication**<br>数字通信导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Digital Communication**<br>数字通信入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Computer Systems Architecture**<br>计算机系统结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Embedded Systems Workshop**<br>嵌入式系统工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Design Projects in VLSI Systems II**<br>VLSI系统设计项目 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Ethics in Bioengineering**<br>生物工程中的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Understand Energy**<br>理解能源 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Sensing Networks for CEE**<br>土木与环境工程传感网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Sensing Networks for CEE**<br>土木与环境工程传感网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Energy Efficient Buildings**<br>节能建筑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **100% Clean, Renewable Energy and Storage for Everything**<br>100%清洁、可再生的能源与储能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Object-Oriented Systems Design**<br>面向对象系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
@@ -93,14 +93,14 @@ ms.date: 2026-11-18
 | **Computer Vision: Foundations and Applications**<br>计算机视觉：基础与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Operating Systems and Systems Programming**<br>操作系统与系统编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Compilers**<br>编译器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Computer Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Computer Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Parallel Computing**<br>并行计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Computer and Network Security**<br>计算机与网络安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Experimental Robotics**<br>实验机器人学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
@@ -108,13 +108,13 @@ ms.date: 2026-11-18
 | **Deep Learning for Computer Vision**<br>计算机视觉深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Advanced Topics in Networking**<br>网络高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Feedback Control Design**<br>反馈控制设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Control Design Techniques**<br>控制设计技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Control Design Techniques**<br>控制设计技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Fundamentals of Energy Processes**<br>能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Quantum Mechanics of Nanoscale Materials**<br>纳米尺度材料的量子力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Electronic Materials Engineering**<br>电子材料工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution**<br>太阳能电池、燃料电池与蓄电池：能源解决方案的材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Electronic and Photonic Materials and Devices Laboratory**<br>电子与光子材料及器件实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Biodesign Fundamentals**<br>生物设计基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Physical Interaction Design for Music**<br>音乐的物理交互设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Symbolic Musical Information**<br>符号化音乐信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
@@ -124,7 +124,7 @@ ms.date: 2026-11-18
 | **Music and AI**<br>音乐与人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Perceptual Audio Coding**<br>感知音频编码 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Mixed-Reality in Medicine**<br>医学中的混合现实 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Software Project (WIM)**<br>软件项目（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Special Studies and Reports in Electrical Engineering (WIM)**<br>电气工程专题研究与报告（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |
 | **Digital Signal Processing (WIM)**<br>数字信号处理（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/electrical-engineering/bachelor-of-science) |

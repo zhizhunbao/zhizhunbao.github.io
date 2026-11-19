@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **Legal, Ethical, and Professional Practice Issues.**<br>法律、伦理与专业实践问题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/) |
 | **Community Health Nursing Practicum.**<br>社区健康护理实习 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/) |
 | **Community Health Nursing Project.**<br>社区健康护理项目 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/) |
 | **Critical Care Nursing Practicum.**<br>重症护理实习 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/) |
 | **Ambassador Critical Care Practicum.**<br>大使重症监护实习 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/) |
 

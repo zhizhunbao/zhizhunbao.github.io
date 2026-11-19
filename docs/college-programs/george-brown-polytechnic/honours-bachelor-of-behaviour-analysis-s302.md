@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Honours Bachelor of Behaviour Analysis (S302)**<br>行为分析荣誉学士 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Behaviour Theory and Principles I**<br>行为理论与原理 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Communication and Critical Thinking**<br>沟通与批判性思维 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Critical Thinking to Scholarly Writing**<br>从批判性思维到学术写作 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Lower Liberal Elective**<br>低年级通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Abnormal Psychology**<br>异常心理学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Aba Assessment: Processes and Procedures**<br>ABA评估：流程与程序 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
-| **Introduction to Skill Development**<br>技能发展导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
+| **Introduction to Skill Development**<br>技能发展入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Skill Development: Advanced Applications**<br>技能发展：高级应用 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |
 | **Behaviour Reduction**<br>行为减少 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-behaviour-analysis-program-s302) |

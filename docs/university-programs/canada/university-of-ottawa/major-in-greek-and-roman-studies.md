@@ -17,10 +17,10 @@ ms.date: 2026-11-11
 | **Athens, Persia, and Sparta**<br>雅典、波斯与斯巴达 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
 | **The Republic**<br>理想国 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
 | **The Early Empire**<br>早期罗马帝国 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
-| **Introduction to Classical Archeology**<br>古典考古学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
+| **Introduction to Classical Archeology**<br>古典考古学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
 | **Archaeological Methods and Techniques**<br>考古方法与技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
-| **Introduction to Greek Literature**<br>希腊文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
-| **Introduction to Latin Literature**<br>拉丁文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
+| **Introduction to Greek Literature**<br>希腊文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
+| **Introduction to Latin Literature**<br>拉丁文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
 | **Topics in Ancient History I**<br>古代史专题 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
 | **Topics in Greek and Latin Literature in Translation**<br>希腊与拉丁文学翻译专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-greek-roman-studies/) |
 

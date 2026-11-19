@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Interpersonal Communication 1**<br>人际沟通 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/THERF-CT/PrinterFriendly#COMM-1170) |
 | **TR - Computer Applications**<br>治疗性休闲：计算机应用 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/THERF-CT/PrinterFriendly#COMP-1164) |
 | **Academic Communication**<br>学术沟通 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/THERF-CT/PrinterFriendly#DCSP-1001) |
-| **Introduction to Gerontology**<br>老年学导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/THERF-CT/PrinterFriendly#HCAP-1006) |
+| **Introduction to Gerontology**<br>老年学入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/THERF-CT/PrinterFriendly#HCAP-1006) |
 | **TR - Field Work - Community Based**<br>治疗性休闲：实地工作（社区） | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/THERF-CT/PrinterFriendly#PRAC-1052) |
 | **TR - Field Work - Facility Based**<br>治疗性休闲：实地工作（机构） | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/THERF-CT/PrinterFriendly#PRAC-1053) |
 | **TR - Adaptations & Intervention**<br>治疗性休闲：适应与干预 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/THERF-CT/PrinterFriendly#RECF-1001) |

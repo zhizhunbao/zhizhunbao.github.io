@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Workplace Safety & Prevention**<br>职场安全与预防 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP.html) |
-| **Introduction to Chemistry**<br>化学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
+| **Introduction to Chemistry**<br>化学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
 | **Training Techniques and Practices**<br>培训技巧与实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Industrial Hygiene and Toxicology**<br>工业卫生与毒理学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
 | **Emergency Planning and Management**<br>应急规划与管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
 | **Operational Safety**<br>运营安全 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
-| **Introduction to Process Safety**<br>过程安全导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
+| **Introduction to Process Safety**<br>过程安全入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
 | **Industrial Hygiene and Toxicology Lab**<br>工业卫生与毒理学实验室 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
 | **Environmental Management**<br>环境管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/WSP/courses.html) |
 

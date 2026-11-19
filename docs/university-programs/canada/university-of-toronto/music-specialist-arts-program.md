@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Music Specialist (Arts Program)**<br>音乐专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2276) |
-| **Introduction to Music and Society**<br>音乐与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2276) |
+| **Introduction to Music and Society**<br>音乐与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2276) |
 | **Historical Survey II**<br>历史概览 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2276) |
 | **Musical Skills I & II**<br>音乐技能 I 和 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2276) |
 | **Music Theory I & II**<br>音乐理论 I 和 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2276) |

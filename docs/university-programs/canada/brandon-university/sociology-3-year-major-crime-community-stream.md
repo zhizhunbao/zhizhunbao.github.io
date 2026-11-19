@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Restorative Justice**<br>恢复性司法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Deviant Behaviour**<br>越轨行为 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Corrections**<br>矫正 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
-| **Introduction to Community Development**<br>社区发展导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
+| **Introduction to Community Development**<br>社区发展入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Police Organization**<br>警察组织 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Criminal Justice Field Study I**<br>刑事司法实地研究 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Criminal Justice Field Study II**<br>刑事司法实地研究 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **Sociology of Homicide**<br>凶杀社会学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Indigenous Peoples and Judicial Sentencing**<br>原住民与司法量刑 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Critical Sociology**<br>批判社会学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
-| **Introduction to Forensic Anthropology**<br>法医人类学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
+| **Introduction to Forensic Anthropology**<br>法医人类学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Forensic Anthropology Field School**<br>法医人类学野外实习 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Indigenous Peoples of Canada and the Justice System**<br>加拿大原住民与司法体系 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |
 | **Canadian Indigenous Law**<br>加拿大原住民法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=264) |

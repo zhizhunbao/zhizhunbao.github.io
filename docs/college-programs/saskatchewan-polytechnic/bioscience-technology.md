@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Molecular Biology 1 Lab**<br>分子生物学 1 实验 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx) |
 | **Histotechniques**<br>组织技术 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx) |
 | **Laboratory Preparation Techniques 1**<br>实验室制备技术 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx) |
-| **Introductory Analytical Instrumentation**<br>分析仪器导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx) |
+| **Introductory Analytical Instrumentation**<br>分析仪器入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx) |
 | **Plant Tissue Culture Lab**<br>植物组织培养实验 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx) |
 | **Animal Cell Culture Lab**<br>动物细胞培养实验 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx) |
 | **General Microbiology 1**<br>普通微生物学 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx) |

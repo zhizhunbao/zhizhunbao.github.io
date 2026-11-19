@@ -15,14 +15,14 @@ ms.date: 2026-11-08
 | **Human Nutrition**<br>人类营养 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **Kinesiology: Wellness and Active Living**<br>运动机能学：健康与积极生活 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **General Chemistry**<br>普通化学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **Composition**<br>作文 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **Service-Based Small Business Management**<br>服务型小企业管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **Brain and Behaviour**<br>脑与行为 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
-| **Introduction to Coaching**<br>教练学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
+| **Introduction to Coaching**<br>教练学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **Sociology of Sports**<br>体育社会学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 | **Psychology of Sports**<br>运动心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-kinesiology-certificate) |
 

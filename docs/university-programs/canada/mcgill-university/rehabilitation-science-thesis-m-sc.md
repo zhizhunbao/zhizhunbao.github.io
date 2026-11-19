@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Research Methodology.**<br>研究方法论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-thesis-msc/) |
 | **Selected Topics in Rehabilitation Science.**<br>康复科学专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-thesis-msc/) |
 | **Knowledge Synthesis in Rehabilitation Seminar.**<br>康复知识综合研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-thesis-msc/) |
-| **Introduction to Regression Analysis.**<br>回归分析导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-thesis-msc/) |
+| **Introduction to Regression Analysis.**<br>回归分析入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/physical-occupational-therapy/rehabilitation-thesis-msc/) |
 
 ## Courses
 

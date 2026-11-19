@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Child and Youth Care Diploma**<br>儿童与青少年照护文凭 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas/program/1988) |
 | **Foundations of Child and Youth Care**<br>儿童与青少年照护基础 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **Introduction to Counselling in Child and Youth Care**<br>儿童与青少年照护咨询导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to Counselling in Child and Youth Care**<br>儿童与青少年照护咨询入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Indigenous History of Children, Youth, and Families in Canada**<br>加拿大原住民儿童、青少年与家庭历史 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Professional Communication for Child and Youth Care Practitioners**<br>儿童与青少年照护从业者专业沟通 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **Introduction to Families: Diversity and Interventions**<br>家庭导论：多样性与干预 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to Families: Diversity and Interventions**<br>家庭入门：多样性与干预 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Mental Health in Child and Youth Care Practice**<br>儿童与青少年照护实践中的心理健康 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Supporting Children and Youth Across Sectors in Child and Youth Care Practice**<br>儿童与青少年照护实践中的跨领域支持 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Assessment and Treatment Planning for Child and Youth Care**<br>儿童与青少年照护的评估与治疗计划 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Land Based Interventions for Child and Youth Care Practitioners**<br>儿童与青少年照护从业者的土地本位干预 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Practicum III**<br>实习 III | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **Introduction to English Language and Literature**<br>英语语言与文学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to English Language and Literature**<br>英语语言与文学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Psychology for the Health Care Professional**<br>医疗专业人员心理学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 
 ## Courses

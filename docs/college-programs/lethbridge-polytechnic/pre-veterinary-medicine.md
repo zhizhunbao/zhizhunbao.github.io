@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Open Elective**<br>自由选修课 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Service-Based Small Business Management**<br>服务型小企业管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Advanced Small Business Management**<br>高级小企业管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
@@ -41,11 +41,11 @@ ms.date: 2026-11-08
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Canadian History**<br>加拿大历史 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Popular Culture**<br>流行文化 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Social Problems**<br>社会问题 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 | **Principles of Wildlife Biology**<br>野生动物生物学原理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-veterinary-medicine) |
 
 ## Courses
 

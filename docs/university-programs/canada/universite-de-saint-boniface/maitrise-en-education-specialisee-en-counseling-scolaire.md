@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Maitrise en éducation spécialisée en counseling scolaire**<br>教育学硕士，学校咨询专业方向 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---maitrise-en-education-specialise-en-counseling/index.html) |
-| **Introduction à la démarche de recherche en éducation**<br>教育研究方法导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---maitrise-en-education-specialise-en-counseling/index.html) |
-| **Introduction aux méthodes de recherche en éducation [pour la voie avec mémoire seulement]**<br>教育研究方法导论［仅限论文路径］ | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---maitrise-en-education-specialise-en-counseling/index.html) |
+| **Introduction à la démarche de recherche en éducation**<br>教育研究方法入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---maitrise-en-education-specialise-en-counseling/index.html) |
+| **Introduction aux méthodes de recherche en éducation [pour la voie avec mémoire seulement]**<br>教育研究方法入门［仅限论文路径］ | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---maitrise-en-education-specialise-en-counseling/index.html) |
 | **Séminaire – Stage en counselling**<br>研讨课：咨询实习 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---maitrise-en-education-specialise-en-counseling/index.html) |
 | **Théories en counselling**<br>咨询理论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---maitrise-en-education-specialise-en-counseling/index.html) |
 

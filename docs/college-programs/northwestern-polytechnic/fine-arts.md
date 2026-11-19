@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **2D Fundamentals**<br>2D基础 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
 | **3D Fundamentals**<br>3D基础 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
 | **Drawing I**<br>绘画 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
-| **Introduction to the History of Global Art I**<br>全球艺术史导论 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
-| **Introduction to Painting**<br>绘画导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
-| **Introduction to Sculpture**<br>雕塑导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
+| **Introduction to the History of Global Art I**<br>全球艺术史入门 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
+| **Introduction to Painting**<br>绘画入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
+| **Introduction to Sculpture**<br>雕塑入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
 | **Drawing II**<br>绘画 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
-| **Introduction to the History of Global Art II**<br>全球艺术史导论 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
+| **Introduction to the History of Global Art II**<br>全球艺术史入门 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
 | **Digital Design I**<br>数字设计 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
 | **Intermediate Painting**<br>中级绘画 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |
 | **Intermediate Sculpture**<br>中级雕塑 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/fine-arts-university-transfer) |

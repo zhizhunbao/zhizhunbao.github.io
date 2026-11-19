@@ -1,10 +1,10 @@
 ---
-title: "3.4.28 Ecology and Evolutionary Biology (B.A. or B.S.)"
+title: "4.4.28 Ecology and Evolutionary Biology (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Ecology and Evolutionary Biology (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.28 Ecology and Evolutionary Biology (B.A. or B.S.)
+# 4.4.28 Ecology and Evolutionary Biology (B.A. or B.S.)
 
 ## Glossary
 
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **Calculus of Functions of One Variable II**<br>一元函数微积分 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology/) |
 | **Mathematical Models in the Biosciences I: Calculus Techniques**<br>生物科学中的数学模型 I：微积分技术 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology/) |
-| **Introductory Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology/) |
+| **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology/) |
 | **Data Exploration and Analysis**<br>数据探索与分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology/) |
 | **General Ecology**<br>普通生态学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology/) |
 | **Evolutionary Biology**<br>进化生物学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology/) |

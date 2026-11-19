@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Chemical Reaction Laboratory 1**<br>化学反应实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Chemical Reactions, Equilibria and Kinetics**<br>化学反应、平衡与动力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Chemical Reaction Laboratory 2**<br>化学反应实验 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
-| **Introduction to Scientific Calculations**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
+| **Introduction to Scientific Calculations**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Physical Chemistry Laboratory 1**<br>物理化学实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Introductory Chemical Thermodynamics**<br>化学热力学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Organic Chemistry Laboratory**<br>有机化学实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
@@ -48,10 +48,10 @@ ms.date: 2026-11-11
 | **Chemical Kinetics and Statistical Mechanics**<br>化学动力学与统计力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Communication in the Sciences**<br>科学中的沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Introductory Spectroscopy and Structure**<br>光谱学与结构入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Structure and Bonding**<br>结构与成键 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
-| **Intro Analytical Chemistry**<br>分析化学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
+| **Intro Analytical Chemistry**<br>分析化学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Quantitative Chemical Analysis Laboratory**<br>定量化学分析实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Multi-Component Analysis**<br>多成分分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rylCky0Rih) |

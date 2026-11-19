@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Navigating Canada's Political Landscape**<br>解读加拿大政治格局 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6327X03FWO.pdf) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6327X03FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6327X03FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6327X03FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6327X03FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6327X03FWO.pdf) |
 | **Business Finance**<br>企业财务 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6327X03FWO.pdf) |
 | **Cooperative Education and Job Readiness**<br>合作教育与就业准备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6327X03FWO.pdf) |

@@ -14,8 +14,8 @@ ms.date: 2026-11-11
 | **SOCIAL FOUNDATIONS OF KINESIOLOGY**<br>运动机能学的社会基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **FUNCTIONAL HUMAN GROSS ANATOMY**<br>人体功能大体解剖学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY OF HUMAN MOVEMENT SCIENCE**<br>人类运动科学心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SENSORIMOTOR NEUROSCIENCE**<br>感觉运动神经科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN PHYSIOLOGY**<br>人体生理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SENSORIMOTOR NEUROSCIENCE**<br>感觉运动神经科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN PHYSIOLOGY**<br>人体生理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE I**<br>理科生物学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE II**<br>理科生物学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL STRUCTURE**<br>探索化学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
@@ -30,12 +30,12 @@ ms.date: 2026-11-11
 | **METHODS OF FINITE MATHEMATICS**<br>有限数学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS I**<br>物理学导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS II**<br>物理学导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS II**<br>物理学入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **DATA SCIENCE CONCEPTS**<br>数据科学概念 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY EXERCISE PHYSIOLOGY**<br>运动生理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |
 | **BIOMECHANICS**<br>生物力学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21169&SelectedCalendar=Live&ArchiveID=) |

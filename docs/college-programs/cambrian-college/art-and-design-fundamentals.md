@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Applied Multimedia**<br>应用多媒体 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/art-and-design-fundamentals) |
 | **Analytical Drawing**<br>分析制图 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/art-and-design-fundamentals) |
 | **Fine Art Studio 3D**<br>美术工作室 3D | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/art-and-design-fundamentals) |
-| **Introduction to Art History**<br>艺术史导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/art-and-design-fundamentals) |
+| **Introduction to Art History**<br>艺术史入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/art-and-design-fundamentals) |
 | **Decolonizing the Creative Arts**<br>创意艺术去殖民化 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/art-and-design-fundamentals) |
 | **One General Education course.**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/art-and-design-fundamentals) |
 

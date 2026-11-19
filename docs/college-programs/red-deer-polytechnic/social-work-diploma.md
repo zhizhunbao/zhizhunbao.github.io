@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **College and Workplace Writing**<br>大学与职场写作 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Social%20Work%20Diploma%202026-2027.pdf) |
 | **Principles of Psychology I**<br>心理学原理 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Social%20Work%20Diploma%202026-2027.pdf) |
 | **Social Work Practice II**<br>社会工作实践 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Social%20Work%20Diploma%202026-2027.pdf) |
-| **Introduction to Social Welfare**<br>社会福利导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Social%20Work%20Diploma%202026-2027.pdf) |
+| **Introduction to Social Welfare**<br>社会福利入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Social%20Work%20Diploma%202026-2027.pdf) |
 | **Field Work II**<br>野外工作 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Social%20Work%20Diploma%202026-2027.pdf) |
 | **Introductory Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Social%20Work%20Diploma%202026-2027.pdf) |
 | **Literary Analysis**<br>文学分析 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Social%20Work%20Diploma%202026-2027.pdf) |

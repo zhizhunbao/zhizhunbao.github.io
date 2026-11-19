@@ -14,14 +14,14 @@ ms.date: 2026-11-08
 | **Working with Older Adults and Care Partners**<br>老年人及照护伙伴服务工作 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Social Diversity in Contemporary Canada**<br>当代加拿大的社会多样性 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Activation Techniques with Older Adults**<br>老年人激活技巧 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
-| **Introduction to Gerontology Field Practicum**<br>老年学实地实习导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
+| **Introduction to Gerontology Field Practicum**<br>老年学实地实习入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Essential Communications**<br>基础沟通 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Psychology: Core Concepts**<br>心理学：核心概念 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Interventions for Older Adults and Care Partners**<br>老年人及照护伙伴干预 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Death, Dying and Bereavement**<br>死亡、临终与丧亲 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Group Work with Older Adults**<br>老年人团体工作 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Foundations of Field Practicum**<br>实地实习基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
-| **Introduction to Applied Research in Social Services**<br>社会服务应用研究导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
+| **Introduction to Applied Research in Social Services**<br>社会服务应用研究入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Aging, Mental Health and Substance Use**<br>老龄化、心理健康与物质使用 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Resource Development in the Older Adult Sector**<br>老年人服务部门的资源开发 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |
 | **Assessment with Older Adults**<br>老年人评估 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker-gerontology) |

@@ -42,8 +42,8 @@ ms.date: 2026-11-11
 | **ADVANCED MICROECONOMICS 1**<br>高级微观经济学 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
 | **TIME SERIES ANALYSIS AND FORECASTING**<br>时间序列分析与预测 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH SEMINAR IN ECONOMICS AND FINANCE**<br>经济与金融研究研讨课 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
 | **FINANCE FOR MANAGEMENT AND ORGANIZATIONAL STUDIES**<br>管理与组织研究金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED CORPORATE FINANCE**<br>高级公司财务 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21726&SelectedCalendar=Live&ArchiveID=) |
 

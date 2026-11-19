@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN PATHWAYS TO HEALTH PROFESSIONS**<br>通往健康职业的路径证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Anthropology: Society, Culture and Language**<br>人类学导论：社会、文化与语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Anthropology: Society, Culture and Language**<br>人类学入门：社会、文化与语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **The Body in Culture and Society**<br>文化与社会中的身体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Culture, Mental Illness, and Psychiatry**<br>文化、精神疾病与精神病学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Human Skeletal Anatomy and Biology**<br>人体骨骼解剖与生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Anthropology of Science, Medicine, and Technology**<br>科学、医学与技术人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Biomedical Anthropology**<br>生物医学人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Medical Osteology: Public Health Perspectives on Human Skeletal Health**<br>医学骨学：人类骨骼健康的公共卫生视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Planet Earth**<br>地球导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Human Health and the Environment**<br>人类健康与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Environmental Pollution**<br>环境污染 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Feeding Humans - The Cost to the Planet**<br>养活人类：地球付出的代价 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Sustainability in Practice**<br>可持续性实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Environmental Science and Technology in Society**<br>社会中的环境科学与技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Environmental Studies Seminar Series**<br>环境研究研讨课系列 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to International/Global Health**<br>国际/全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to International/Global Health**<br>国际/全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Foods That Changed the World**<br>改变世界的食物 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Food Futures: Confronting Crises, Improving Lives**<br>食物的未来：应对危机，改善生活 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Geographies of Disease: Beyond Epidemiology**<br>疾病地理学：超越流行病学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
@@ -40,15 +40,15 @@ ms.date: 2026-11-11
 | **Advanced Topics in Health and Society**<br>健康与社会高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **The Politics of Care, Self-Care, and Mutual Aid**<br>关怀、自我关怀与互助的政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Health Professions Education**<br>卫生专业教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Music and Health**<br>音乐与健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Music and Health**<br>音乐与健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Media Foundations**<br>媒体基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Politics of Disability**<br>残障政治学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Arts and Media Management**<br>艺术与媒体管理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Arts and Media Management**<br>艺术与媒体管理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Gender, Race, and Colonialism**<br>性别、种族与殖民主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Gender-based Violence and Resistance**<br>基于性别的暴力与抵抗 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Equity and Diversity in the Arts**<br>艺术中的公平与多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Anthropology: Becoming Human**<br>人类学导论：成为人类 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Anthropology: Becoming Human**<br>人类学入门：成为人类 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Are You What You Eat?: The Anthropology of Food**<br>人如其食？食物人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Genders and Sexualities**<br>性别与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Medical Anthropology: Illness and Healing in Cultural Perspective**<br>医学人类学：文化视角下的疾病与疗愈 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
@@ -65,7 +65,7 @@ ms.date: 2026-11-11
 | **Aging with Agility**<br>敏捷地老去 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Social Determinants of Health**<br>健康的社会决定因素 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Perspectives of Culture, Illness, and Healing**<br>文化、疾病与治愈的视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Interdisciplinary Disability Studies**<br>跨学科残障研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Interdisciplinary Disability Studies**<br>跨学科残障研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Health, Aging, and the Life Cycle**<br>健康、老龄化与生命周期 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Drawing Illness**<br>描绘疾病 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Dental Sciences**<br>牙科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
@@ -73,7 +73,7 @@ ms.date: 2026-11-11
 | **Philosophy of Sexuality**<br>性哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Death and Dying**<br>死亡与临终 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Prejudice and Racism**<br>偏见与种族主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Clinical Psychology**<br>临床心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Clinical Psychology**<br>临床心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Cross-Cultural Social Psychology**<br>跨文化社会心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Foundations in Community Psychology**<br>社区心理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **The Psychology of Emotion**<br>情绪心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
@@ -92,35 +92,35 @@ ms.date: 2026-11-11
 | **Medical Anthropology: Biological and Population Perspectives**<br>医学人类学：生物与人群视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Foundations in Epidemiology**<br>流行病学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Deconstructing Epidemics**<br>解构流行病 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Computational Biology**<br>计算生物学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine)**<br>STEMM（科学、技术、工程、数学与医学）中的偏见导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Computational Biology**<br>计算生物学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine)**<br>STEMM（科学、技术、工程、数学与医学）中的偏见入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Models in Ecology, Epidemiology and Conservation**<br>生态学、流行病学与保护中的模型 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Green Chemistry**<br>绿色化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Databases and Web Applications**<br>数据库与Web应用导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Environmental Studies**<br>环境研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Green Chemistry**<br>绿色化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Databases and Web Applications**<br>数据库与Web应用入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Environmental Studies**<br>环境研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Risk**<br>风险 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Literature and Science**<br>文学与科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Methodologies in Food Studies**<br>食品研究的方法论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Rise of the Machines: How Technology Remakes the World**<br>机器的崛起：技术如何重塑世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **How We Became Digital: Introduction to our Information Age**<br>我们如何成为数字化：信息时代导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **How We Became Digital: Introduction to our Information Age**<br>我们如何成为数字化：信息时代入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Health Research Methodology**<br>健康研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Health Humanities**<br>健康人文导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Health Humanities**<br>健康人文入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Creative Research Practices in Aging**<br>老龄化创意研究实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Methods in Arts-Based Health Research**<br>基于艺术的健康研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Health Professions and Practice**<br>卫生专业与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Journalism and News Literacy I**<br>新闻与新闻素养导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Journalism and News Literacy I**<br>新闻与新闻素养入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Programming for Linguists**<br>语言学家编程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **The Magic of Numbers**<br>数字的魔力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Reason and Truth**<br>理性与真理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Ethics**<br>伦理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Ethics**<br>伦理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Bioethics**<br>生物伦理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Topics in Bioethics**<br>生命伦理学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Advanced Seminar in Bioethics**<br>生物伦理学高级研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Computers in Psychological Research**<br>心理学研究中的计算机导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Computers in Psychological Research**<br>心理学研究中的计算机入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Psychology in Context**<br>情境中的心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Social Cognition: Understanding Ourselves and Others**<br>社会认知：理解自己与他人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **An Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Applied Probability**<br>应用概率导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **An Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Applied Probability**<br>应用概率入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Medical Terminology, Translation and Interpretation I**<br>医学术语、翻译与口译 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Effective Writing in the Sciences**<br>科学领域的有效写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Global Health Governance: Thinking Alongside the World's Leaders**<br>全球卫生治理：与世界领导者并肩思考 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
@@ -129,7 +129,7 @@ ms.date: 2026-11-11
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Reasoning and Uncertainty**<br>推理与不确定性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Program Evaluation**<br>项目评估 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
-| **Introduction to Behaviour Modification**<br>行为矫正导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
+| **Introduction to Behaviour Modification**<br>行为矫正入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Scientific Communication in Psychology**<br>心理学科学传播 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **Judgment and Decision Making**<br>判断与决策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |
 | **The Science of Behaviour Change**<br>行为改变科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1110) |

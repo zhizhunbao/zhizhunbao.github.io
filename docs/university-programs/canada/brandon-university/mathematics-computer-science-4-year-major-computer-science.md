@@ -22,11 +22,11 @@ ms.date: 2026-11-11
 | **Concepts of Programming Languages**<br>程序设计语言概念 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
 | **Theory of Computation**<br>计算理论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
-| **Introduction to Set Theory**<br>集合论导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
+| **Introduction to Set Theory**<br>集合论入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
 | **Calculus III**<br>微积分 III | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=194) |
 
 ## Courses

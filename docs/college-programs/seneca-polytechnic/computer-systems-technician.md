@@ -12,17 +12,17 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Systems Technician**<br>计算机系统技术员 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
-| **Introduction to Computers and Networks**<br>计算机与网络导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
-| **Introduction to Microsoft Services**<br>Microsoft服务导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
+| **Introduction to Computers and Networks**<br>计算机与网络入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
+| **Introduction to Microsoft Services**<br>Microsoft服务入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Introduction to Linux**<br>Linux入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Strategic Problem Solving**<br>战略问题解决 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Static Networks**<br>静态网络 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Microsoft Server Administration**<br>Microsoft服务器管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Open Systems Server**<br>开放系统服务器 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
-| **Introduction to System Security**<br>系统安全导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
+| **Introduction to System Security**<br>系统安全入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Software Defined Networks**<br>软件定义网络 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
-| **Introduction to Microsoft Cloud Technologies**<br>Microsoft云技术导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
+| **Introduction to Microsoft Cloud Technologies**<br>Microsoft云技术入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Open System Application Server**<br>开放系统应用服务器 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Security Incident Response**<br>安全事件响应 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Work Term Preparation**<br>工作学期准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **IT Security: Ethical and Legal Issues**<br>IT安全：伦理与法律问题 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Security for Cloud and Internet of Things**<br>云与物联网安全 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **IT Project Mgmt. Fundamentals, Tools and Techniques**<br>IT项目管理基础、工具与技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Technical Support for Network Administrators**<br>网络管理员技术支持 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Technician as an Entrepreneur**<br>作为创业者的技术员 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |
 | **Windows Server Scripting**<br>Windows 服务器脚本编程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSN/courses.html) |

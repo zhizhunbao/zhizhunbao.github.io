@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **NATURE AND TECHNOLOGY**<br>自然与技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
 | **ANIMALS, SUSTAINABILITY, AND BUSINESS**<br>动物、可持续性与商业 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
 | **ANIMAL ETHICS**<br>动物伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LEADERSHIP**<br>领导力导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LEADERSHIP**<br>领导力入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
 | **ENTREPRENEURIAL THINKING**<br>创业思维 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
 | **RECONCILIATION**<br>和解 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
 | **MAJOR RESEARCH PROJECT**<br>重大研究项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
 | **PEOPLE AND ANIMALS**<br>人与动物 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |
 | **DECOLONIALITY**<br>去殖民性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21718&SelectedCalendar=Live&ArchiveID=) |

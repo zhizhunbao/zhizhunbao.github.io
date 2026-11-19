@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Chemistry: The Molecular Science**<br>化学：分子科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Adaptation and Biodiversity**<br>适应与生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Molecular and Cell Biology**<br>分子与细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
@@ -37,11 +37,11 @@ ms.date: 2026-11-11
 | **Microbiology II: Viruses**<br>微生物学 II：病毒 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Mammalian Molecular Biology**<br>哺乳动物分子生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-| **Introduction to Sociology I: Sociological Perspectives**<br>社会学导论 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
+| **Introduction to Sociology I: Sociological Perspectives**<br>社会学入门 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Principles of Economics for Non-Specialists**<br>非专业人士经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-| **Introduction to Global Health**<br>全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
+| **Introduction to Global Health**<br>全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Global Health Research**<br>全球卫生研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Epidemiology of Health & Disease**<br>健康与疾病流行病学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **The Human Microbiome in Health & Disease**<br>健康与疾病中的人类微生物组 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
@@ -86,7 +86,7 @@ ms.date: 2026-11-11
 | **Case Studies in Health Policy**<br>卫生政策案例研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Health & Pharmaceuticals**<br>健康与药品 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **The Nature of Global Health**<br>全球健康的本质 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-| **Introduction to Indigenous Environmental Studies**<br>原住民环境研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
+| **Introduction to Indigenous Environmental Studies**<br>原住民环境研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Indigenous Health Systems**<br>原住民卫生系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **Current Issues in Indigenous Health**<br>原住民健康的当前议题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 | **International Organizations, NGOs, Development and Change in Africa**<br>非洲的国际组织、非政府组织、发展与变革 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
@@ -224,10 +224,9 @@ ms.date: 2026-11-11
 |  | Data Analysis Courses; credit in statistics | EEB225H1 | Biostatistics for Biological Sciences | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 |  | Data Analysis Courses; credit in statistics | PSY201H1 | Statistics I | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 |  | Data Analysis Courses |  | \* A research project from a different unit may be accepted with prior written approval from Human Biology. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-|  | Global Health Major Notes |  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-|  | Global Health Major Notes |  | 2. Not all courses listed have priority enrolment for Global Health majors. Students are responsible for checking priority of courses and meeting course prerequisites for courses they wish to take. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-|  | Global Health Major Notes |  | 3. Students completing the Global Health Major (ASMAJ2575) cannot also complete the Applied Genetics and Biotechnology Major (ASMAJ1053), the Health & Disease Major (ASMAJ2013), the Human Biology Major (ASMAJ2035), or the Neuroscience Major (ASMAJ1472). |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
-|  | Global Health Major Notes |  | 4. Effective Fall 2026, all courses associated with University College’s Public Health program will have the "PHS" designator. Existing "PHS" coded courses remain unchanged. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
+|  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program |  | 2. Not all courses listed have priority enrolment for Global Health majors. Students are responsible for checking priority of courses and meeting course prerequisites for courses they wish to take. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
+|  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program |  | 3. Students completing the Global Health Major (ASMAJ2575) cannot also complete the Applied Genetics and Biotechnology Major (ASMAJ1053), the Health & Disease Major (ASMAJ2013), the Human Biology Major (ASMAJ2035), or the Neuroscience Major (ASMAJ1472). |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
+|  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program |  | 4. Effective Fall 2026, all courses associated with University College’s Public Health program will have the "PHS" designator. Existing "PHS" coded courses remain unchanged. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 |  | Course Group |  | Global Health Centric Courses |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 |  | Course Group | HMB203H1 | Introduction to Global Health | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |
 |  | Course Group | HMB303H1 | Global Health and Human Rights | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2575) |

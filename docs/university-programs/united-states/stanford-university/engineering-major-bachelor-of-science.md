@@ -1,46 +1,46 @@
 ---
-title: "3.3.30 Engineering, Major: Bachelor of Science"
+title: "4.3.30 Engineering, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Engineering, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.30 Engineering, Major: Bachelor of Science
+# 4.3.30 Engineering, Major: Bachelor of Science
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Engineering, Major: Bachelor of Science**<br>工程，主修：理学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Engineering Analysis**<br>工程分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Intro to Solid Mechanics**<br>固体力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Engineering Analysis**<br>工程分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Intro to Solid Mechanics**<br>固体力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Chemical Engineering**<br>化学工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Chemical Engineering**<br>化学工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Engineering of Systems**<br>系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **An Intro to Making: What is EE**<br>制作入门：什么是电子工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Electromagnetics and Its Applications**<br>电磁学及其应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Nanotechnology Emphasis**<br>材料科学导论，纳米技术方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Energy Emphasis**<br>材料科学导论，能源方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Biomaterials Emphasis**<br>材料科学导论，生物材料方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Electromagnetics and Its Applications**<br>电磁学及其应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Nanotechnology Emphasis**<br>材料科学入门，纳米技术方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Energy Emphasis**<br>材料科学入门，能源方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Biomaterials Emphasis**<br>材料科学入门，生物材料方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Foundational Biology for Engineers**<br>工程师的基础生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Engineering Economics and Sustainability**<br>工程经济学与可持续性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Information Science and Engineering**<br>信息科学与工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Modern Physics for Engineers**<br>工程师近代物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Optimization: Data Science**<br>优化导论：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Optimization: Data Science**<br>优化入门：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Programming Methodologies in JavaScript and Python (Accelerated)**<br>JavaScript 与 Python 编程方法（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Bioengineering (Engineering Living Matter)**<br>生物工程导论（工程化活体物质） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Bioengineering (Engineering Living Matter)**<br>生物工程入门（工程化活体物质） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Environmental Science and Technology**<br>环境科学与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Calculus**<br>微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Computations in Civil and Environmental Engineering**<br>土木与环境工程中的计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Vector Calculus for Engineers**<br>工程师矢量微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Ordinary Differential Equations for Engineers**<br>工程师常微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Linear Algebra and Partial Differential Equations for Engineers**<br>工程师线性代数与偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **MATLAB for Scientific Computing and Engineering**<br>面向科学计算与工程的 MATLAB | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Matrix Methods**<br>矩阵方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Matrix Methods**<br>矩阵方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Integral Calculus of Several Variables**<br>多变量积分学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -55,25 +55,25 @@ ms.date: 2026-11-18
 | **Groups and Rings**<br>群与环 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Galois Theory**<br>伽罗瓦理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Optimization (Accelerated)**<br>优化导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Stochastic Modeling**<br>随机建模导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Optimization (Accelerated)**<br>优化入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Stochastic Modeling**<br>随机建模入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Probabilistic Systems Analysis**<br>概率系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Probabilistic Models in Civil and Environmental Engineering**<br>土木与环境工程中的概率模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Biochemistry & Molecular Biology**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Evolution**<br>进化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Laboratory Research in Cell and Molecular Biology**<br>细胞与分子生物学实验室研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Research in Ecology and Evolutionary Biology**<br>生态学与进化生物学研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Laboratory Research in Cell and Molecular Biology**<br>细胞与分子生物学实验室研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Research in Ecology and Evolutionary Biology**<br>生态学与进化生物学研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Human Behavioral Biology**<br>人类行为生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Weather and Storms**<br>天气与风暴 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Air Pollution and Global Warming: History, Science, and Solutions**<br>空气污染与全球变暖：历史、科学与解决方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -84,9 +84,9 @@ ms.date: 2026-11-18
 | **Understanding the Natural and Unnatural World through Chemistry**<br>通过化学理解自然与非自然世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Organic Polyfunctional Compounds**<br>有机多官能团化合物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Chemistry of the Earth and Planets**<br>地球与行星化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Genetics, Molecular Biology and Evolution**<br>遗传学、分子生物学与演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Cell and Developmental Biology**<br>细胞与发育生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **The Human Organism**<br>人体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -116,7 +116,7 @@ ms.date: 2026-11-18
 | **Engineering the Roman Empire**<br>罗马帝国的工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **The Politics of Algorithms**<br>算法的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Virtual People**<br>虚拟人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to AI Safety**<br>AI 安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to AI Safety**<br>AI 安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Equity and Governance for Artificial Intelligence**<br>人工智能的公平与治理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Human-Centered AI**<br>以人为中心的 AI | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Trust and Safety**<br>信任与安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -141,7 +141,7 @@ ms.date: 2026-11-18
 | **International Security in a Changing World**<br>变化世界中的国际安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Spies, Lies, and Algorithms: The History and Future of American Intelligence**<br>间谍、谎言与算法：美国情报的历史与未来 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals**<br>边缘上的伦理：企业、非营利组织、政府与个人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Science, Technology & Society**<br>科学、技术与社会导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Science, Technology & Society**<br>科学、技术与社会入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **The Ethics of Developing Life-Saving Technologies for Children**<br>为儿童开发救生技术的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Principles of Data Science**<br>数据科学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Technical and Professional Communication**<br>技术与专业传播 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -152,10 +152,10 @@ ms.date: 2026-11-18
 | **Understand Energy - Essentials**<br>理解能源：要点 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Undergraduate Research in Civil and Environmental Engineering**<br>土木与环境工程本科生研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Environmental Justice Colloquium**<br>环境正义研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Aeronautics and Astronautics**<br>航空与航天导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Aeronautics and Astronautics**<br>航空与航天入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **The Archaeology of Climate**<br>气候考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Mechanics of Fluids**<br>流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Mechanics of Fluids**<br>流体力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Mechanics of Fluids**<br>流体力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Introductory Fluids Engineering**<br>流体工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation**<br>大气、海洋与气候动力学：海洋环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Climate Perspectives: Climate Science, Impacts, Carbon Markets, Decarbonization Models and Projects**<br>气候视角：气候科学、影响、碳市场、脱碳模型与项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -190,7 +190,7 @@ ms.date: 2026-11-18
 | **Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation**<br>大气、海洋与气候动力学：大气环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Directed Writing Projects**<br>指导性写作项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Undergraduate Honors Thesis**<br>本科生荣誉论文 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Probabilistic Analysis**<br>概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Computer Organization and Systems**<br>计算机组成与系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -200,26 +200,26 @@ ms.date: 2026-11-18
 | **Computational Biology: Structure and Organization of Biomolecules and Cells**<br>计算生物学：生物分子与细胞的结构与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Mathematical Modeling of Biological Systems**<br>生物系统的数学建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Writing Intensive Senior Research Project**<br>写作密集型高年级研究项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Writing of Original Research for Engineers**<br>工程师原创研究写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Microbiology**<br>微生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Fundamentals of Molecular Evolution**<br>分子演化基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Advanced Neurobiology: Food, Sex, and Gaming**<br>高级神经生物学：食物、性与游戏 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Developmental Biology**<br>发育生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Cellular and Molecular Immunology: An Introductory Course**<br>细胞与分子免疫学：入门课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **The Chemical Principles of Life I**<br>生命的化学原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **The Chemical Principles of Life II**<br>生命的化学原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Linking the Molecular to the Macroscopic: Foundations of Physical Chemistry**<br>连接分子与宏观：物理化学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Probabilistic Graphical Models: Principles and Techniques**<br>概率图模型：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Systems Biology**<br>系统生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Systems Physiology and Design**<br>系统生理学与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Anatomy for Bioengineers**<br>生物工程师解剖学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Cellular Biophysics**<br>细胞生物物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Theoretical Population Genetics**<br>理论群体遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Advanced Cell Biology**<br>高级细胞生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -235,12 +235,12 @@ ms.date: 2026-11-18
 | **Data Science for Medicine**<br>医学数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Computational Methods for Biomedical Image Analysis and Interpretation**<br>生物医学图像分析与解释的计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Deep Learning in Genomics and Biomedicine**<br>基因组学与生物医学中的深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Computer Graphics: Animation and Simulation**<br>计算机图形学：动画与仿真 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Decision Analysis**<br>决策分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Decision Analysis**<br>决策分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Foundations of Decision Analysis**<br>决策分析基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -257,9 +257,9 @@ ms.date: 2026-11-18
 | **Material Behaviors and Failure Prediction**<br>材料行为与失效预测 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Dynamic Systems, Vibrations and Control**<br>动态系统、振动与控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Tissue Engineering**<br>组织工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Neuromechanics**<br>神经力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Neuromechanics**<br>神经力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Designing Biomaterials**<br>设计生物材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Mechanics of Biological Tissues**<br>生物组织力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Biomechanical Engineering Capstone I**<br>生物力学工程毕业设计 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Biomechanical Engineering Capstone II**<br>生物力学工程毕业设计 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -267,31 +267,31 @@ ms.date: 2026-11-18
 | **Partial Differential Equations of Mathematical Physics**<br>数学物理中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Partial Differential Equations in Engineering**<br>工程中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Theory of Partial Differential Equations**<br>偏微分方程理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Data Analysis, with Python and Jupyter**<br>数据分析导论：使用 Python 与 Jupyter | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Experimental Practice**<br>实验实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Data Analysis, with Python and Jupyter**<br>数据分析入门：使用 Python 与 Jupyter | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Experimental Practice**<br>实验实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **The Fourier Transform and Its Applications**<br>傅里叶变换及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Mathematical Methods for Physics**<br>物理学的数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Engineering Electromagnetics**<br>工程电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Electromagnetic Waves**<br>电磁波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Electromagnetism**<br>电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Electrodynamics**<br>电动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Mathematics of Computation**<br>计算数学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Computational Physics**<br>计算物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Circuits I**<br>电路 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Circuits II**<br>电路 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Electronic Techniques for Physics Research Instrumentation**<br>物理研究仪器的电子技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Electronic Techniques for Physics Research Instrumentation**<br>物理研究仪器的电子技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Laboratory Electronics**<br>实验室电子学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Applied Quantum Mechanics I**<br>应用量子力学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Quantum Mechanics I**<br>量子力学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Statistical Mechanics for Materials & Materials Chemistry**<br>材料与材料化学的统计力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Thermodynamics, Kinetic Theory, and Statistical Mechanics I**<br>热力学、气体动理论与统计力学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Statistical Mechanics**<br>统计力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Statistical Mechanics**<br>统计力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Spacecraft Design**<br>航天器设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Object-Oriented Systems Design**<br>面向对象系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Analog Communications Design Laboratory**<br>模拟通信设计实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Photonics**<br>光子学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Photonics**<br>光子学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Experimental Methods in Quantum Physics**<br>量子物理实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Advanced Physics Laboratory: Project**<br>高级物理实验室：项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Computer Systems from the Ground Up**<br>从零开始的计算机系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -303,7 +303,7 @@ ms.date: 2026-11-18
 | **Advanced Mechanics**<br>高级力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Fundamentals of Plasmas I**<br>等离子体基础 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Fundamentals of Plasmas II**<br>等离子体基础 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to the Space Environment**<br>空间环境导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to the Space Environment**<br>空间环境入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Space Mechanics**<br>空间力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Advanced Imaging Lab in Biophysics**<br>生物物理高级成像实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Physical Biology**<br>物理生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -311,14 +311,14 @@ ms.date: 2026-11-18
 | **Physics and Engineering of Radionuclide-based Medical Imaging**<br>放射性核素医学成像的物理与工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Medical Physics and Dosimetry**<br>医学物理与剂量学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Medical Imaging Systems II**<br>医学成像系统 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Continuous Mathematical Methods with an Emphasis on Machine Learning**<br>强调机器学习的连续数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Deep Reinforcement Learning**<br>深度强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Reinforcement Learning**<br>强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Deep Learning for Computer Vision**<br>计算机视觉深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Principles of Robot Autonomy I**<br>机器人自主性原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Thermodynamics, Kinetic Theory, and Statistical Mechanics II**<br>热力学、气体动理论与统计力学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Solid State Physics**<br>固体物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Quantum Mechanics of Nanoscale Materials**<br>纳米尺度材料的量子力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -370,17 +370,17 @@ ms.date: 2026-11-18
 | **User Interface Design Project**<br>用户界面设计项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Industry Innovation Lab**<br>产业创新实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Digital Systems Design Lab**<br>数字系统设计实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Digital Image Processing**<br>数字图像处理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Digital Image Processing**<br>数字图像处理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Special Studies and Reports in Electrical Engineering (WIM)**<br>电气工程专题研究与报告（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Digital Signal Processing (WIM)**<br>数字信号处理（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Virtual Reality (WIM)**<br>虚拟现实（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Mechanical Engineering Design- Integrating Context with Engineering**<br>机械工程设计：将情境与工程结合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Mechanical Engineering Design: Integrating Context with Engineering**<br>机械工程设计：将情境与工程结合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Observational Astrophysics**<br>观测天体物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Observational Astrophysics**<br>观测天体物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Senior Thesis Research**<br>毕业论文研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Scientific Communication in Physics**<br>物理学中的科学交流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Physics Capstone Paper**<br>物理学顶点论文 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Studio 1: Architecture - Space, Light, and Movement**<br>设计工作室 1：建筑：空间、光线与运动 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Studio 2: Architecture - Architectonics and Urbanism**<br>设计工作室 2：建筑：建筑构造与城市主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Studio 3: Integrated Architecture and Engineering**<br>设计工作室 3：建筑与工程一体化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -416,7 +416,7 @@ ms.date: 2026-11-18
 | **Urban Design Studio**<br>城市设计工作室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Team Urban Design Studio**<br>团队城市设计工作室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Smart Cities & Communities: Sustainability Design Thinking**<br>智慧城市与社区：可持续性设计思维 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Intro to Urban Sys Engrg**<br>城市系统工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Intro to Urban Sys Engrg**<br>城市系统工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Computation & Generative Design**<br>计算与生成式设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Architectural Design Lecture Series Course**<br>建筑设计讲座系列课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Geotechnical Engineering**<br>岩土工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
@@ -430,10 +430,10 @@ ms.date: 2026-11-18
 | **Sculpture I**<br>雕塑 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Ecology of Materials**<br>材料生态学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Constructing Color**<br>构建色彩 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Intro to Art & Technology**<br>艺术与技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Urban Studies**<br>城市研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计导论：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
-| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Intro to Art & Technology**<br>艺术与技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Urban Studies**<br>城市研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计入门：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
+| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 | **Independent Project in Civil and Environmental Engineering**<br>土木与环境工程独立项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/engineering/bachelor-of-science) |
 
 ## Courses

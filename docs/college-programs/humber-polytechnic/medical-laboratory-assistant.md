@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Specimen Collection and Handling**<br>标本采集与处理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-assistant) |
 | **Laboratory Tools, Equipment, Safety & Management**<br>实验室工具、设备、安全与管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-assistant) |
 | **Chemistry for Medical Laboratory Assistants**<br>医学检验助理化学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-assistant) |
-| **Introduction to Medical Laboratory Sciences**<br>医学检验科学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-assistant) |
+| **Introduction to Medical Laboratory Sciences**<br>医学检验科学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-assistant) |
 | **Clinical Microbiology for Medical Laboratory Assistants**<br>医学检验助理临床微生物学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-assistant) |
 | **Cytology and Histology for Medical Laboratory Assistants**<br>医学检验助理细胞学与组织学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-assistant) |
 | **Hematology and Transfusion Medicine for Medical Laboratory Assistants**<br>医学检验助理血液学与输血医学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-assistant) |

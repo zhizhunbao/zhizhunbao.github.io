@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Legal Studies (Bachelor of Arts - Honours)**<br>法律研究（文学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
-| **Introduction to Legal Studies**<br>法律研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
+| **Introduction to Legal Studies**<br>法律研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
 | **Sociology of Law**<br>法律社会学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
 | **Field Research Methods**<br>实地研究方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Democracy, Revolution, Law**<br>民主、革命与法律 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
 | **Corporate Governance**<br>公司治理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
 | **Special Topics in Legal Studies**<br>法律研究专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJgrlyARoh) |
 
 ## Courses
 

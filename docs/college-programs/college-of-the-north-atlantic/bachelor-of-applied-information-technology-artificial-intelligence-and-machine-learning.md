@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Applied Information Technology: Artificial Intelligence and Machine Learning**<br>应用信息技术学士：人工智能与机器学习 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/bachelor-of-applied-information-technology-artificial-intelligence-and-machine-learning) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/bachelor-of-applied-information-technology-artificial-intelligence-and-machine-learning) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/bachelor-of-applied-information-technology-artificial-intelligence-and-machine-learning) |
 | **AI Applied Ethics, Law & Governance**<br>人工智能应用伦理、法律与治理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/bachelor-of-applied-information-technology-artificial-intelligence-and-machine-learning) |
 | **ML with Distributed Computing**<br>分布式计算机器学习 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/bachelor-of-applied-information-technology-artificial-intelligence-and-machine-learning) |
 | **Supervisory Leadership**<br>监督型领导力 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/bachelor-of-applied-information-technology-artificial-intelligence-and-machine-learning) |

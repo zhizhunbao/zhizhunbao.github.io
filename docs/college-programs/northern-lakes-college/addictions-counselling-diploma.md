@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Addictions Counselling Diploma**<br>成瘾咨询文凭 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas/program/1982) |
-| **Introduction to Addictions Studies**<br>成瘾研究导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **Introduction to Counselling Skills**<br>咨询技能导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to Addictions Studies**<br>成瘾研究入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to Counselling Skills**<br>咨询技能入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Assessment of Addiction**<br>成瘾评估 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Counselling Theories and Approaches**<br>咨询理论与方法 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Prevention and Relapse**<br>预防与复发 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
@@ -21,16 +21,16 @@ ms.date: 2026-11-08
 | **Working with Groups**<br>小组工作 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Practicum II**<br>实习 II | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **Introduction to Pharmacology**<br>药理学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **Introduction to English Language and Literature**<br>英语语言与文学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to Pharmacology**<br>药理学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to English Language and Literature**<br>英语语言与文学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Critical Reading and Writing: Prose Forms**<br>批判性阅读与写作：散文体裁 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Ethics in Helping Professions**<br>助人职业伦理 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Health Education: Personal Health and Wellness**<br>健康教育：个人健康与福祉 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **Introduction to Indigenous Issues**<br>原住民议题导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to Indigenous Issues**<br>原住民议题入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Leadership in Helping Professions**<br>助人专业中的领导力 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Psychology for the Health Care Professional**<br>医疗专业人员心理学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Developmental Psychology: Life Span**<br>发展心理学：毕生发展 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **An Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **An Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Sociology of Deviance and Conformity**<br>越轨与从众社会学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Option University Studies**<br>大学课程选修 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 

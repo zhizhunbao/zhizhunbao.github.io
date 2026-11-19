@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Paralegal**<br>律师助理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal) |
 | **Legal Communication And Paralegal Practice Management I**<br>法律沟通与律师助理实务管理 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal) |
-| **Introduction To The Legal System**<br>法律体系导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal) |
+| **Introduction To The Legal System**<br>法律体系入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal) |
 | **Legal Research & Writing**<br>法律研究与写作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal) |
 | **Critical Thinking, Reasoning & Persuasive Arguments**<br>批判性思维、推理与说服性论证 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal) |
 | **Landlord & Tenant**<br>房东与租客 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal) |

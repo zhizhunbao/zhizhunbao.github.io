@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Child and Youth Care (C133)**<br>儿童与青少年关怀 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-c133) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-c133) |
-| **Introduction to Child and Youth Care**<br>儿童与青少年关怀导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-c133) |
+| **Introduction to Child and Youth Care**<br>儿童与青少年关怀入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-c133) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-c133) |
 | **Child & Adolescent Development**<br>儿童与青少年发展 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-c133) |
 | **General Elective**<br>通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/child-and-youth-care-program-c133) |

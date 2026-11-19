@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours BSc Financial Mathematics and Economics**<br>金融数学与经济学荣誉（BSc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Business**<br>商务导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Business**<br>商务入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Computing I**<br>计算导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Computing I**<br>计算入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Mathematical Reasoning and Proofs**<br>数学推理与证明 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Financial Management**<br>财务管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Finance Theory**<br>金融理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
@@ -28,20 +28,20 @@ ms.date: 2026-11-11
 | **Microeconomic Theory II**<br>微观经济理论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Multivariable Calculus**<br>多元微积分 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Elementary Real Analysis**<br>初等实分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Numerical Methods**<br>数值方法导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Numerical Methods**<br>数值方法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Corporate Finance**<br>公司金融 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Microeconomic Theory III**<br>微观经济理论 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Foundations of Probability**<br>概率基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Regression Analysis**<br>回归分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Time Series Analysis**<br>时间序列分析导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Time Series Analysis**<br>时间序列分析入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Options and Futures**<br>期权与期货 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Financial Econometrics**<br>金融计量经济学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Financial Mathematics**<br>金融数学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Honours Linear Algebra**<br>荣誉线性代数 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
-| **Introduction to Applied Linear Algebra**<br>应用线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
+| **Introduction to Applied Linear Algebra**<br>应用线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **International Finance**<br>国际金融 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Macroeconomic Theory III**<br>宏观经济理论 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |
 | **Monetary Theory**<br>货币理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-financial-mathematics-economics/) |

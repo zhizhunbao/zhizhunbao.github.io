@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Academic Research and Writing**<br>学术研究与写作 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=36) |
 | **Major Works and Authors in the Twentieth Century**<br>二十世纪主要作品与作家 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=36) |
 | **Major Works and Authors in British Literature**<br>英国文学主要作品与作家 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=36) |
-| **Introduction to Shakespeare**<br>莎士比亚导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=36) |
+| **Introduction to Shakespeare**<br>莎士比亚入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=36) |
 | **Sixteenth & Seventeenth Century Literature**<br>十六与十七世纪文学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=36) |
 | **Pre-1900 American Literature**<br>1900 年前美国文学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=36) |
 | **Eighteenth-Century and Romantic Literature**<br>十八世纪与浪漫主义文学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=36) |

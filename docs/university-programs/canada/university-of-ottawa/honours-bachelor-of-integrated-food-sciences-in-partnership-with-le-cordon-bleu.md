@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Food Sciences II**<br>食品科学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
 | **Food Psychology**<br>食品心理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
 | **Culinary Techniques I**<br>烹饪技术 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
-| **Introduction to Nutrition**<br>营养学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
+| **Introduction to Nutrition**<br>营养学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
 | **Quantitative Methods in Health Sciences: Continuous Variables**<br>健康科学中的定量方法：连续变量 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
 | **Culinary Techniques II**<br>烹饪技术 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
 | **Fundamentals of Food Metabolism**<br>食物代谢基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **Food Business**<br>食品商业 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
 | **Food Service Operations Management**<br>餐饮服务运营管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
 | **Wine and Beverages**<br>葡萄酒与饮品 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
-| **Introduction to Food-Drug Interactions**<br>食物与药物相互作用导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
+| **Introduction to Food-Drug Interactions**<br>食物与药物相互作用入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-integrated-food-sciences/) |
 
 ## Courses
 

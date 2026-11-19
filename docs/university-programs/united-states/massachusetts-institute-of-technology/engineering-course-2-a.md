@@ -1,24 +1,24 @@
 ---
-title: "3.2.29 Engineering (Course 2-A)"
+title: "4.2.29 Engineering (Course 2-A)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Engineering (Course 2-A): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.29 Engineering (Course 2-A)
+# 4.2.29 Engineering (Course 2-A)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Engineering (Course 2-A)**<br>工程（Course 2-A） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
-| **Introduction to Design**<br>设计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
+| **Introduction to Design**<br>设计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **Mechanics and Materials I**<br>力学与材料 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **Dynamics and Control I**<br>动力学与控制 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **Thermal-Fluids Engineering I**<br>热流体工程 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **Numerical Computation for Mechanical Engineers**<br>机械工程师数值计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **Measurement and Instrumentation (CI-M)**<br>测量与仪器（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **Electronics for Mechanical Systems**<br>机械系统电子学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
-| **Introduction to Micro/Nano Engineering Laboratory**<br>微纳工程实验室导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
+| **Introduction to Micro/Nano Engineering Laboratory**<br>微纳工程实验室入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **The Product Engineering Process (CI-M)**<br>产品工程过程（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |
 | **Engineering Systems Design (CI-M)**<br>工程系统设计 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/) |

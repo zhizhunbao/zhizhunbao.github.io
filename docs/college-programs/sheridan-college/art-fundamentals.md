@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Art Fundamentals**<br>艺术基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
-| **Introduction to 2D Design**<br>2D设计导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
-| **Introduction to 3D Design**<br>3D设计导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
-| **Introduction to Drawing**<br>绘画导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
-| **Introduction to Drawing Systems**<br>制图系统导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
-| **Introduction to Colour Theory**<br>色彩理论导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
+| **Introduction to 2D Design**<br>2D设计入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
+| **Introduction to 3D Design**<br>3D设计入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
+| **Introduction to Drawing**<br>绘画入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
+| **Introduction to Drawing Systems**<br>制图系统入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
+| **Introduction to Colour Theory**<br>色彩理论入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
 | **2D Design**<br>2D 设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
 | **3D Design**<br>3D 设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
 | **Drawing**<br>绘画 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
 | **Drawing Systems**<br>绘图系统 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
-| **Introduction to Painting**<br>绘画导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
+| **Introduction to Painting**<br>绘画入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
 | **General Education Course (Open)**<br>通识教育课程（开放） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/art-fundamentals) |
 
 ## Courses

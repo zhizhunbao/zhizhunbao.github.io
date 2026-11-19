@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Child and Youth Care**<br>儿童与青少年关怀 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/child-and-youth-care/) |
 | **Child and Adolescent Development**<br>儿童与青少年发展 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/child-and-youth-care/costs-and-courses/) |
-| **Introduction to Child and Youth Care Practice**<br>儿童与青少年关怀实务导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/child-and-youth-care/costs-and-courses/) |
+| **Introduction to Child and Youth Care Practice**<br>儿童与青少年关怀实务入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/child-and-youth-care/costs-and-courses/) |
 | **Field Experience Preparation**<br>现场体验准备 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/child-and-youth-care/costs-and-courses/) |
 | **Writing and Documentation in Child and Youth Care**<br>儿童与青少年照护中的写作与文档 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/child-and-youth-care/costs-and-courses/) |
 | **Method I - Introduction to Helping Skills**<br>方法 1：助人技巧入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/child-and-youth-care/costs-and-courses/) |

@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **PROGRAMMING FUNDAMENTALS FOR ENGINEERS**<br>工程师编程基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **CHEMICAL PROCESS CALCULATIONS**<br>化工过程计算 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **FLUID FLOW**<br>流体流动 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STRUCTURAL ENGINEERING**<br>结构工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STRUCTURAL ENGINEERING**<br>结构工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **DIGITAL LOGIC SYSTEMS**<br>数字逻辑系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **PRACTICAL ELEMENTS IN INTEGRATED ENGINEERING**<br>综合工程中的实践要素 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **INTEGRATED SYSTEMS ENGINEERING AND DESIGN**<br>综合系统工程与设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
@@ -56,9 +56,9 @@ ms.date: 2026-11-11
 | **PROCESS DYNAMICS AND CONTROL**<br>过程动力学与控制 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **REACTION ENGINEERING**<br>反应工程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **SUSTAINABLE CHEMICAL ENGINEERING & LIFE CYCLE ANALYSIS**<br>可持续化学工程与生命周期分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHEMICAL PROCESS SIMULATION**<br>化工过程模拟导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHEMICAL PROCESS SIMULATION**<br>化工过程模拟入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **MASS TRANSFER OPERATIONS**<br>传质操作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIOMATERIALS ENGINEERING**<br>生物材料工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIOMATERIALS ENGINEERING**<br>生物材料工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **ENERGY AND SOCIETY**<br>能源与社会 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **WASTEWATER TREATMENT**<br>废水处理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **ANALYSIS OF INDETERMINATE STRUCTURES**<br>超静定结构分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
@@ -71,7 +71,7 @@ ms.date: 2026-11-11
 | **AIR POLLUTION**<br>空气污染 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **INTELLIGENT TRANSPORTATION SYSTEMS**<br>智能交通系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **SYSTEMS APPROACH FOR CIVIL AND ENVIRONMENTAL ENGINEERING**<br>土木与环境工程的系统方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WOOD DESIGN**<br>木材设计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WOOD DESIGN**<br>木材设计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **RISK ANALYSIS & DECISION MAKING IN ENGINEERING**<br>工程中的风险分析与决策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **SOLID WASTE MANAGEMENT**<br>固体废物管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |
 | **CASE STUDIES IN CIVIL ENGINEERING**<br>土木工程案例研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21285&SelectedCalendar=Live&ArchiveID=) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Reasoning and Critical Thinking**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Philosophy: Ideas and Arguments**<br>哲学：观念与论证 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
-| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
+| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Moral Reasoning**<br>道德推理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Fundamental Philosophical Questions**<br>基本哲学问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **Specialized Translation from French into English (L1) I**<br>法译英（L1）专业翻译 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **General Translation from French into English (L1) III**<br>法译英通用翻译（L1）III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Technical Translation from French into English (L1) I**<br>法译英（L1）技术翻译 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
-| **Introduction to Terminology and Terminotics**<br>术语学与术语信息技术导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
+| **Introduction to Terminology and Terminotics**<br>术语学与术语信息技术入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Comparative Stylistics**<br>比较文体学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Translation Technologies**<br>翻译技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Writing Techniques for Translators and Professional Writers I**<br>译者与专业写作者的写作技巧 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **External Practicum**<br>外部实习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Technical Translation from French into English (L1) II**<br>法译英（L1）技术翻译 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Writing Techniques for Translators and Professional Writers II**<br>译者与专业写作者的写作技巧 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
-| **Introduction to the Theory of Translation**<br>翻译理论导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
+| **Introduction to the Theory of Translation**<br>翻译理论入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 | **Composition in Spanish**<br>西班牙语写作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchspanishenglish-translation/) |
 
 ## Courses

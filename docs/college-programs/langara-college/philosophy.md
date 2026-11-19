@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Philosophy**<br>哲学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree) |
-| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学导论：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
-| **Introduction to Logic**<br>逻辑学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
-| **Introduction to Philosophy: Knowledge and Reality**<br>哲学导论：知识与实在 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
-| **Introduction to Philosophy of Science**<br>科学哲学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
+| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学入门：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
+| **Introduction to Logic**<br>逻辑学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
+| **Introduction to Philosophy: Knowledge and Reality**<br>哲学入门：知识与实在 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
+| **Introduction to Philosophy of Science**<br>科学哲学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
 | **Theory of Knowledge**<br>知识论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
 | **Metaphysics**<br>形而上学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/philosophy-associate-arts-degree/courses) |

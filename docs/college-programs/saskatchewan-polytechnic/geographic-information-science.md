@@ -11,22 +11,22 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geographic Information Science**<br>地理信息科学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
-| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 导论 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
-| **Introduction to Microsoft Excel 2**<br>Microsoft Excel 导论 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
+| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 入门 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
+| **Introduction to Microsoft Excel 2**<br>Microsoft Excel 入门 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Geographic Information Systems 1**<br>地理信息系统 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
-| **Introduction to ArcGIS**<br>ArcGIS 导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
+| **Introduction to ArcGIS**<br>ArcGIS 入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Data Input for Geographic Information Systems (GIS)**<br>地理信息系统（GIS）数据输入 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
-| **Introduction to Python**<br>Python 导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
+| **Introduction to Python**<br>Python 入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Geographic Information Systems (GIS) Hardware and Hardware Resources**<br>地理信息系统（GIS）硬件与硬件资源 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Basic Statistics and Geostatistics**<br>基础统计学与地质统计学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Basics of Global Positioning Systems (GPS)**<br>全球定位系统（GPS）基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
-| **Introduction to Mapping and Compassing**<br>制图与罗盘使用导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
+| **Introduction to Mapping and Compassing**<br>制图与罗盘使用入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Work Preparation**<br>工作准备 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Vector Analysis**<br>矢量分析 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Unmanned Aerial Vehicle (UAV) Data**<br>无人机（UAV）数据 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Unmanned Aerial Vehicle (UAV) Data Processing**<br>无人机（UAV）数据处理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
-| **Introduction to Mobile Geographic Information Systems (GIS)**<br>移动地理信息系统（GIS）导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
+| **Introduction to Mobile Geographic Information Systems (GIS)**<br>移动地理信息系统（GIS）入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Raster Analysis**<br>栅格分析 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Three-Dimensional Analysis**<br>三维分析 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |
 | **Cartography**<br>制图学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Geographic-Information-Science.aspx) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Biotechnology - Advanced (Co-op and Non Co-op Version)**<br>生物技术（高级）（带薪实习与非带薪实习版） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/health-sciences/program/biotechnology-advanced/) |
-| **Introduction to Biology**<br>生物学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1020X01FWO.pdf) |
+| **Introduction to Biology**<br>生物学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1020X01FWO.pdf) |
 | **Biology Lab**<br>生物学实验 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1020X01FWO.pdf) |
 | **Chemistry 1**<br>化学 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1020X01FWO.pdf) |
 | **Chemistry 1 Lab**<br>化学 1 实验 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1020X01FWO.pdf) |

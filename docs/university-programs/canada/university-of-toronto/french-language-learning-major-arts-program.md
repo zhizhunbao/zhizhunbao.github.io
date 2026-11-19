@@ -14,16 +14,16 @@ ms.date: 2026-11-11
 | **Intermediate French I**<br>中级法语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Intermediate French II**<br>中级法语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Strategies for Autonomous Learning in French as a Second Language**<br>法语作为第二语言的自主学习策略 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
-| **The French Language: A Linguistic Introduction**<br>法语：语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
+| **The French Language: A Linguistic Introduction**<br>法语：语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Intermediate French III**<br>中级法语 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Intermediate French IV**<br>中级法语 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Sociolinguistics of Quebec and Canadian French**<br>魁北克与加拿大法语社会语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Bilingualism, Multilingualism, and Second Language Acquisition**<br>双语、多语与第二语言习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Education-based Experiential Learning in French**<br>法语教育体验式学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
-| **Introduction to Québec Literature and Culture**<br>魁北克文学与文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
-| **Introduction to French Cultural and Literary Studies**<br>法国文化与文学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
-| **Introduction to the History of the French Language**<br>法语史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
-| **Introduction to the Linguistic Analysis of French**<br>法语语言分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
+| **Introduction to Québec Literature and Culture**<br>魁北克文学与文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
+| **Introduction to French Cultural and Literary Studies**<br>法国文化与文学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
+| **Introduction to the History of the French Language**<br>法语史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
+| **Introduction to the Linguistic Analysis of French**<br>法语语言分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Advanced French I**<br>高级法语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Advanced Written French II**<br>高级法语写作 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |
 | **Advanced Oral French II**<br>高级法语口语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0556) |

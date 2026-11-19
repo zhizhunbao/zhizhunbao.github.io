@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **University Sciences Diploma**<br>大学理科文凭 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/university-sciences-diploma) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/University%20Sciences%20Diploma%202026-2027%20-%20Sept.pdf) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/University%20Sciences%20Diploma%202026-2027%20-%20Sept.pdf) |
 | **Evolution & Biological Diversity**<br>进化与生物多样性 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/University%20Sciences%20Diploma%202026-2027%20-%20Sept.pdf) |
 | **General Chemistry I**<br>普通化学 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/University%20Sciences%20Diploma%202026-2027%20-%20Sept.pdf) |
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/University%20Sciences%20Diploma%202026-2027%20-%20Sept.pdf) |

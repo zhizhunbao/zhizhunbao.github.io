@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Histoire des savoirs en criminologie**<br>犯罪学知识史 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81842) |
 | **Langue et culture hispaniques**<br>西班牙语语言与文化 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81842) |
 | **Principes d'éthique**<br>伦理原则 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81842) |
-| **Introduction à la psychologie expérimentale**<br>实验心理学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81842) |
+| **Introduction à la psychologie expérimentale**<br>实验心理学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81842) |
 | **Concepts judiciaires**<br>司法概念 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81842) |
 | **Statistiques et tableurs**<br>统计与电子表格 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81842) |
 | **Entrepreneuriat et gestion de projet**<br>创业与项目管理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81842) |

@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Work Term Preparation**<br>工作学期准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EVL/courses.html) |
 | **Environmental Landscape Management, Co-op**<br>环境景观管理，合作教育 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EVL/courses.html) |
 | **Arboriculture**<br>树木栽培学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EVL/courses.html) |
-| **Introduction to Computer-Aided Design**<br>计算机辅助设计导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EVL/courses.html) |
+| **Introduction to Computer-Aided Design**<br>计算机辅助设计入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EVL/courses.html) |
 | **Business and Project Management for Environmental Professionals**<br>环境专业人员商务与项目管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EVL/courses.html) |
 | **Landscape Construction**<br>景观施工 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EVL/courses.html) |
 | **Aquatic Ecosystems**<br>水生生态系统 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EVL/courses.html) |

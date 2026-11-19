@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Field Seminar III**<br>实地研讨会 III | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWA/courses.html) |
 | **Field Practicum III**<br>实地实习 III | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWA/courses.html) |
 | **Autism and Developmental Disabilities**<br>自闭症与发育障碍 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWA/courses.html) |
-| **Introduction to Aging**<br>老龄化导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWA/courses.html) |
+| **Introduction to Aging**<br>老龄化入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWA/courses.html) |
 | **Volunteer Program Management**<br>志愿者项目管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWA/courses.html) |
 | **Selected Issues: Intimate Partner Abuse and Violence**<br>专题：亲密伴侣虐待与暴力 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWA/courses.html) |
 | **Selected Issues: Addictions**<br>专题：成瘾 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWA/courses.html) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Mental Health and Addiction**<br>心理健康与成瘾荣誉学士 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BMHA.html) |
-| **Introduction to Community Mental Health**<br>社区心理健康导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BMHA/courses.html) |
+| **Introduction to Community Mental Health**<br>社区心理健康入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BMHA/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BMHA/courses.html) |
 | **Principles of Psychology**<br>心理学原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BMHA/courses.html) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BMHA/courses.html) |

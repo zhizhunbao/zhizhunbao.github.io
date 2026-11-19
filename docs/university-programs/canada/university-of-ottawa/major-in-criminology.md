@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Criminology**<br>犯罪学主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-criminology/) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-criminology/) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-criminology/) |
 | **History of Criminological Thought**<br>犯罪学思想史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-criminology/) |
 | **Criminal Law and the Criminal Justice System**<br>刑法与刑事司法系统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-criminology/) |
 | **Positivist Theories in Criminology**<br>犯罪学中的实证主义理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-criminology/) |

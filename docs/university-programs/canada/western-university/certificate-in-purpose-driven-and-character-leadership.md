@@ -23,11 +23,11 @@ ms.date: 2026-11-11
 | **THE CULTURE OF LEADERSHIP II**<br>领导力文化 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED MANAGEMENT FOR FOODS AND NUTRITION**<br>食品与营养高级管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **THE ETHICS OF LEADERSHIP**<br>领导力伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GOVERNANCE**<br>治理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GOVERNANCE**<br>治理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **ETHICS AND VALUE THEORY**<br>伦理学与价值理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LEADERSHIP**<br>领导力导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LEADERSHIP**<br>领导力入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **THE HISTORY OF ENVIRONMENTAL LEADERSHIP AND GOVERNANCE**<br>环境领导力与治理史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PUBLIC POLICY AND GOVERNANCE**<br>公共政策与治理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PUBLIC POLICY AND GOVERNANCE**<br>公共政策与治理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **SPECIAL TOPICS IN GOVERNANCE**<br>治理专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **SPECIAL TOPICS IN GOVERNANCE LEADERSHIP**<br>治理领导力专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **LEADERSHIP IN HISTORICAL PERSPECTIVE**<br>历史视角下的领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
@@ -35,14 +35,14 @@ ms.date: 2026-11-11
 | **THE CAPSTONE COURSE**<br>毕业综合课程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **GOVERNANCE THEORIES AND THINKERS**<br>治理理论与思想家 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **COLLABORATIVE GOVERNANCE**<br>协作治理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND HEALTH**<br>伦理与健康导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND HEALTH**<br>伦理与健康入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH MANAGEMENT**<br>健康管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH INNOVATION AND LEADERSHIP**<br>健康创新与领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **TYRANTS: HISTORICAL PROFILES IN OPPRESSION AND RESISTANCE**<br>暴君：压迫与抵抗中的历史人物剖析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **CANADIAN POLITICAL LEADERSHIP**<br>加拿大政治领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MANAGEMENT**<br>管理学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **PEER MENTORING AND LEADERSHIP**<br>同伴辅导与领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGEMENT IN KINESIOLOGY**<br>运动机能学管理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGEMENT IN KINESIOLOGY**<br>运动机能学管理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **COACHING AND SPORT LEADERSHIP**<br>教练与体育领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **LEADERSHIP IN PHYSICAL ACTIVITY**<br>体育活动中的领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **MANAGING PEOPLE IN SPORT AND RECREATION ORGANIZATIONS**<br>体育与休闲组织的人员管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
@@ -69,7 +69,7 @@ ms.date: 2026-11-11
 | **PROFESSIONAL PERSPECTIVES IN MANAGEMENT**<br>管理学专业视角 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **NURSES AS LEADERS IN SYSTEM TRANSFORMATION**<br>护士作为系统转型的领导者 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS ETHICS**<br>商业伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **PROFESSIONAL ETHICS**<br>职业伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **POLITICAL LEADERSHIP**<br>政治领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **WOMEN, SEX, AND POLITICS**<br>女性、性与政治 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
@@ -79,7 +79,7 @@ ms.date: 2026-11-11
 | **WOMEN AND POLITICAL LEADERSHIP**<br>女性与政治领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **UNDERSTANDING YOURSELF AND OTHERS**<br>理解自己与他人 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY AT WORK**<br>工作中的心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY**<br>工业与组织心理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY**<br>工业与组织心理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **APPLICATIONS OF PSYCHOLOGY**<br>心理学的应用 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **SPIRITUALITY AND LEADERSHIP**<br>灵性与领导力 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |
 | **PROJECT MANAGEMENT FOR THE SCIENCES**<br>科学项目管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21727&SelectedCalendar=Live&ArchiveID=) |

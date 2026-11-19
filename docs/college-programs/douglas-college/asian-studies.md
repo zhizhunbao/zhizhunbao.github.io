@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Asian Studies**<br>亚洲研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |
-| **Asian History: An Introduction**<br>亚洲史导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |
+| **Asian History: An Introduction**<br>亚洲史入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |
 | **World Religions: Oriental**<br>世界宗教：东方 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |
-| **Introduction to Japan: Language, Culture and Society**<br>日本导论：语言、文化与社会 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |
+| **Introduction to Japan: Language, Culture and Society**<br>日本入门：语言、文化与社会 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |
 | **Asian Philosophy**<br>亚洲哲学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |
 | **Modern China: An Introduction**<br>现代中国概论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |
 | **Contemporary Geographies of Monsoon Asia**<br>季风亚洲当代地理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aaas) |

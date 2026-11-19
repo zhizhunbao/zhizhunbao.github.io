@@ -11,18 +11,18 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Emergency Management**<br>应急管理 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
-| **Introduction to Emergency Management in Canada**<br>加拿大应急管理导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
+| **Introduction to Emergency Management in Canada**<br>加拿大应急管理入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Incident Command System Level 100**<br>事故指挥系统 100级 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
-| **Introduction to Emergency Operations Centres**<br>应急行动中心导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
-| **Introduction to Emergency Support Services**<br>应急支援服务导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
+| **Introduction to Emergency Operations Centres**<br>应急行动中心入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
+| **Introduction to Emergency Support Services**<br>应急支援服务入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Hazard, Risk and Vulnerability Analyses**<br>灾害、风险与脆弱性分析 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Developing Personal Preparedness Programs**<br>制定个人应急准备方案 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Planning for Community Disaster Recovery**<br>社区灾后恢复规划 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Community Evacuations**<br>社区疏散 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Developing Emergency Management Plans**<br>制定应急管理计划 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Psychosocial Resilience in Disasters**<br>灾害中的心理社会韧性 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
-| **Introduction to Emergency Management Exercise Design**<br>应急管理演练设计导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
-| **Introduction to Business Continuity Management**<br>业务连续性管理导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
+| **Introduction to Emergency Management Exercise Design**<br>应急管理演练设计入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
+| **Introduction to Business Continuity Management**<br>业务连续性管理入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Emergency Operations Centre Essentials**<br>应急行动中心要点 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Information Officer**<br>信息官 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |
 | **Emergency Management Final Assessment**<br>应急管理结业评估 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/emergency-management/emergency-management) |

@@ -13,9 +13,9 @@ ms.date: 2026-11-11
 | **Physics, Honours BSc (Medical Physics Stream)**<br>物理学，荣誉 BSc（医学物理方向） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
 | **Human Anatomy and Physiology**<br>人体解剖学与生理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
 | **Elementary Biological Statistics I**<br>初级生物统计学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
-| **Introduction to Calculus I**<br>微积分导论 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
-| **Introduction to Calculus II**<br>微积分导论 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
+| **Introduction to Calculus I**<br>微积分入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
+| **Introduction to Calculus II**<br>微积分入门 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
 | **Differential Equations I**<br>微分方程 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |
 | **Foundations of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=7) |

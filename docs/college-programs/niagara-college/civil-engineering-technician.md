@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/civil-engineering/) |
 | **CAD I**<br>CAD I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/civil-engineering/) |
 | **Construction Estimating I**<br>施工估价 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/civil-engineering/) |
-| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/civil-engineering/) |
+| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/civil-engineering/) |
 | **Architectural Drafting**<br>建筑制图 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/civil-engineering/) |
 | **Mathematics I for the School of Technology Studies**<br>技术研究学院数学 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/civil-engineering/) |
 | **The Effective Learner**<br>高效学习者 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/civil-engineering/) |

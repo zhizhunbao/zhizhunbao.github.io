@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Fundamentals of Nutrition**<br>营养学基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-osteopathy) |
 | **Principles of Biomechanics**<br>生物力学原理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-osteopathy) |
 | **Ethical Practice for Clinicians**<br>临床医生职业伦理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-osteopathy) |
-| **Introduction to Composition and Rhetoric**<br>写作与修辞导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-osteopathy) |
+| **Introduction to Composition and Rhetoric**<br>写作与修辞入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-osteopathy) |
 | **Structure & Function 1: Lumbar Spine, Pelvis & Lower Extremity**<br>结构与功能 1：腰椎、骨盆与下肢 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-osteopathy) |
 | **Clinical Methodology**<br>临床方法学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-osteopathy) |
 | **Human Physiology 2**<br>人体生理学 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-osteopathy) |

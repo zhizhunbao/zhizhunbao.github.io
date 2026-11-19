@@ -13,15 +13,15 @@ ms.date: 2026-11-11
 | **Honours BSc Physics-Mathematics**<br>物理学－数学荣誉（BSc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
-| **Introduction to Computational Physics**<br>计算物理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
+| **Introduction to Computational Physics**<br>计算物理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Fundamentals of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Fundamentals of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Multivariable Calculus**<br>多元微积分 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Elementary Real Analysis**<br>初等实分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Honours Linear Algebra**<br>荣誉线性代数 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
-| **Introduction to Group Theory**<br>群论导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
-| **Introduction to Circuit Theory and Electronics**<br>电路理论与电子学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
+| **Introduction to Group Theory**<br>群论入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
+| **Introduction to Circuit Theory and Electronics**<br>电路理论与电子学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Waves and Optics**<br>波与光学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
@@ -37,9 +37,9 @@ ms.date: 2026-11-11
 | **Mathematical Reasoning and Proofs**<br>数学推理与证明 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Ordinary Differential Equations and the Laplace Transform**<br>常微分方程与拉普拉斯变换 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Ordinary Differential Equations and Numerical Methods**<br>常微分方程与数值方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Probability and Statistics for Engineers**<br>工程师的概率与统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
-| **Introduction to Solid State Physics**<br>固体物理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
+| **Introduction to Solid State Physics**<br>固体物理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 | **Physics Project**<br>物理项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-physicsmathematics/) |
 
 ## Courses

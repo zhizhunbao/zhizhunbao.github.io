@@ -1,10 +1,10 @@
 ---
-title: "3.4.64 Neuroscience (B.A. or B.S.)"
+title: "4.4.64 Neuroscience (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Neuroscience (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.64 Neuroscience (B.A. or B.S.)
+# 4.4.64 Neuroscience (B.A. or B.S.)
 
 ## Glossary
 
@@ -15,8 +15,8 @@ ms.date: 2026-11-18
 | **Principles of Cell Biology**<br>细胞生物学原理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
 | **Genetics and Development**<br>遗传与发育 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
 | **Principles of Ecology and Evolutionary Biology**<br>生态学与进化生物学原理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
-| **Introductory Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
-| **Introductory Statistics, Intensive**<br>统计学导论（强化） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
+| **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
+| **Introductory Statistics, Intensive**<br>统计学入门（强化） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
 | **Data Exploration and Analysis**<br>数据探索与分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
 | **Probability and Bayesian Statistics**<br>概率与贝叶斯统计 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |
 | **The Human Brain**<br>人类大脑 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/) |

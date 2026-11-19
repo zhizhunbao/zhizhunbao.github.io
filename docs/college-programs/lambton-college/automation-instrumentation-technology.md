@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/aies) |
 | **Communications for Technology II**<br>技术沟通 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/aies) |
 | **Electric Circuits II**<br>电路 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/aies) |
-| **Introduction to CAD for Instrumentation & Control**<br>仪表与控制CAD导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/aies) |
+| **Introduction to CAD for Instrumentation & Control**<br>仪表与控制CAD入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/aies) |
 | **Fundamentals of Instrumentation II**<br>仪表基础 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/aies) |
 | **Mathematics for Technology II**<br>技术数学 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/aies) |
 | **Physics**<br>物理学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/aies) |

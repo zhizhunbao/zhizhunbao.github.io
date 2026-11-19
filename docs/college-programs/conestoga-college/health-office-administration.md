@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Office Administration**<br>健康办公室管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/health-office-administration) |
-| **Introduction to Health Care Delivery Systems**<br>医疗服务体系导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/health-office-administration/courses?id=33776) |
+| **Introduction to Health Care Delivery Systems**<br>医疗服务体系入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/health-office-administration/courses?id=33776) |
 | **Health Care Terminology 1**<br>医疗术语 1 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/health-office-administration/courses?id=33776) |
 | **Medical Office Administration 1**<br>医疗办公室管理 1 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/health-office-administration/courses?id=33776) |
 | **Grammar Essentials for Professional Communication**<br>职业沟通语法要点 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/health-office-administration/courses?id=33776) |

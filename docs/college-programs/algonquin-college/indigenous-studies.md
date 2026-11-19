@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Indigenous Studies**<br>原住民研究 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/creative-studies/program/indigenous-studies/) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1413X01FWO.pdf) |
 | **Sustainable Community Development**<br>可持续社区发展 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1413X01FWO.pdf) |
-| **Introduction to Indigenous Cultures, Heritage, and Worldviews**<br>原住民文化、遗产与世界观导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1413X01FWO.pdf) |
+| **Introduction to Indigenous Cultures, Heritage, and Worldviews**<br>原住民文化、遗产与世界观入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1413X01FWO.pdf) |
 | **Indigenous Languages 1**<br>原住民语言 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1413X01FWO.pdf) |
 | **Land-Based Learning: Health and Wellness**<br>基于土地的学习：健康与福祉 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1413X01FWO.pdf) |
 | **Indigenous Governance and Self-Determination**<br>原住民治理与自决 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1413X01FWO.pdf) |

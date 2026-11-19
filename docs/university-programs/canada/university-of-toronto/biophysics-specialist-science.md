@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Biophysics - Specialist (Science)**<br>生物物理学－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Principles of Physics I**<br>物理学原理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Principles of Physics II**<br>物理学原理 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Chemical Principles 1**<br>化学原理 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Chemical Principles 2**<br>化学原理 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Electromagnetism**<br>电磁学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Vibrations and Waves**<br>振动与波 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Calculus of Several Variables I**<br>多元微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Calculus of Several Variables II**<br>多元微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Differential Equations I**<br>微分方程 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-11
 | **Modelling of Biochemical Systems**<br>生化系统建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Biomolecular NMR Spectroscopy**<br>生物分子核磁共振波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Chemical and Physical Sciences Internship**<br>化学与物理科学实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
-| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
+| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Mathematical Modelling in Biology**<br>生物学中的数学建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Advanced Interdisciplinary Research Laboratory**<br>高级跨学科研究实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |
 | **Research Opportunity Program**<br>研究机会计划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1944) |

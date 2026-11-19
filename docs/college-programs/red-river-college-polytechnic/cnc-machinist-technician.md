@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Machine Shop Tools and Safety**<br>机加工工具与安全 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#SAFE-1042) |
 | **Science for Manufacturing**<br>制造业科学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#SCIE-1046) |
 | **General Safety Training**<br>通用安全培训 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#SEMR-9209) |
-| **Intro to CNC Machines**<br>数控（CNC）机床导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1054) |
+| **Intro to CNC Machines**<br>数控（CNC）机床入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1054) |
 | **Quality Inspection With GD&T and CMM**<br>基于GD&T与CMM的质量检验 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1060) |
 | **CAD Fundamentals**<br>CAD 基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1061) |
 | **CNC Manual Programming**<br>CNC 手动编程 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1062) |
@@ -29,8 +29,8 @@ ms.date: 2026-11-08
 | **CNC Machining Centre Operation 1**<br>CNC 加工中心操作 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-2062) |
 | **CNC Turning Centre Operation 1**<br>CNC 车削中心操作 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-2063) |
 | **AC-204 Machinist Theory Level 1 Accreditation**<br>AC-204 机械师理论一级认证 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#SEMR-9540) |
-| **Intro to Plastics Manufacturing**<br>塑料制造导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1065) |
-| **Introduction to Non-Destructive Testing**<br>无损检测导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1066) |
+| **Intro to Plastics Manufacturing**<br>塑料制造入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1065) |
+| **Introduction to Non-Destructive Testing**<br>无损检测入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#MANU-1066) |
 | **Welding: VR, Gas and MIG**<br>焊接：VR、气体保护焊与MIG | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CNCMF-CT/PrinterFriendly#WELD-1034) |
 
 ## Courses

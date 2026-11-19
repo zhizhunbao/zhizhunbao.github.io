@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Psychology, B.A. Double Honours**<br>心理学，B.A. 双荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
-| **Introduction à la psychologie I and Introduction à la psychologie II**<br>心理学导论 I 与 心理学导论 II | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
-| **Introduction to Psychological Research**<br>心理学研究导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
-| **Introduction to Research Methods in Psychology**<br>心理学研究方法导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
+| **Introduction à la psychologie I and Introduction à la psychologie II**<br>心理学入门 I 与 心理学入门 II | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
+| **Introduction to Psychological Research**<br>心理学研究入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
+| **Introduction to Research Methods in Psychology**<br>心理学研究方法入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
 | **Thinking Critically About Psychological Research**<br>批判性思考心理学研究 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
 | **Design and Analysis for Psychological Experiments**<br>心理学实验设计与分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |
 | **Psychological Measurement and Assessment**<br>心理测量与评估 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/psychology/psychology-ba-double-honours/) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Data Communications and Networking**<br>数据通信与网络 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) |
 | **Data Automation**<br>数据自动化 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) |
 | **Operating Systems Fundamentals**<br>操作系统基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) |
 | **Web Site Development**<br>网站开发 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) |
 | **User Experience Fundamentals**<br>用户体验基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) |
 | **Database Management Systems**<br>数据库管理系统 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) |

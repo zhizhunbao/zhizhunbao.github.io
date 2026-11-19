@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Electrical Theory and Circuits**<br>电气理论与电路 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/trades-apprenticeship/pre-employment-motorcycle-mechanic.html) |
 | **Engine Theory and Tune-Up**<br>发动机理论与调校 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/trades-apprenticeship/pre-employment-motorcycle-mechanic.html) |
 | **Wheels, Tires and Brake System Service**<br>车轮、轮胎与制动系统维修 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/trades-apprenticeship/pre-employment-motorcycle-mechanic.html) |
-| **Pre-Delivery and Introduction to Oxy-Fuel**<br>交付前准备与氧燃料导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/trades-apprenticeship/pre-employment-motorcycle-mechanic.html) |
+| **Pre-Delivery and Introduction to Oxy-Fuel**<br>交付前准备与氧燃料入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/trades-apprenticeship/pre-employment-motorcycle-mechanic.html) |
 | **Workplace Professionalism**<br>职场职业素养 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/trades-apprenticeship/pre-employment-motorcycle-mechanic.html) |
 
 ## Courses

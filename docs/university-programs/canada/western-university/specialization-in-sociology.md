@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIZATION IN SOCIOLOGY**<br>社会学专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21049&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIOLOGY**<br>社会学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21049&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIOLOGY**<br>社会学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21049&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIETY AND YOU**<br>社会与你 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21049&SelectedCalendar=Live&ArchiveID=) |
 | **CONTROVERSIES IN SOCIOLOGY**<br>社会学中的争议 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21049&SelectedCalendar=Live&ArchiveID=) |
 | **LIFE IS NOT ALWAYS FAIR**<br>生活并不总是公平的 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21049&SelectedCalendar=Live&ArchiveID=) |

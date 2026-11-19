@@ -1,10 +1,10 @@
 ---
-title: "3.1.82 Master of Science – Biostatistics (80-credit)"
+title: "4.1.82 Master of Science – Biostatistics (80-credit)"
 description: "University Programs > United States > Harvard University > Master of Science – Biostatistics (80-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.82 Master of Science – Biostatistics (80-credit)
+# 4.1.82 Master of Science – Biostatistics (80-credit)
 
 ## Glossary
 
@@ -17,8 +17,8 @@ ms.date: 2026-11-18
 | **Applied Longitudinal Analysis**<br>应用纵向分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Applied Data Structures and Algorithms**<br>应用数据结构与算法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Applied Bayesian Analysis**<br>应用贝叶斯分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Genomic Data Manipulation**<br>基因组数据处理 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Econometrics for Health Policy**<br>卫生政策计量经济学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Advanced Regression for Environmental Epidemiology**<br>环境流行病学高级回归 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |

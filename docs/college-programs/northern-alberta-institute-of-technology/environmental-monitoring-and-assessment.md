@@ -12,15 +12,15 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Environmental Monitoring and Assessment**<br>环境监测与评估 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Laboratory Techniques and Calculations**<br>实验室技术与计算 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Communications in the Biological Sciences**<br>生物科学沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
-| **Introduction to Vertebrate and Invertebrate Zoology**<br>脊椎动物与无脊椎动物动物学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
+| **Introduction to Vertebrate and Invertebrate Zoology**<br>脊椎动物与无脊椎动物动物学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Inorganic Chemistry for Environmental Monitoring and Assessment**<br>环境监测与评估无机化学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Workplace Skills Development**<br>职场技能发展 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Collection and Analysis of Spatial Data**<br>空间数据采集与分析 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Organic Chemistry in Environmental Assessment & Monitoring**<br>环境评估与监测中的有机化学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
-| **Introduction to Soil Sciences**<br>土壤科学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
+| **Introduction to Soil Sciences**<br>土壤科学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Applied Plant Morphology and Identification**<br>应用植物形态学与鉴定 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Statistics for Science and Technology**<br>科学与技术统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |
 | **Environmental Field Studies**<br>环境野外研究 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/environmental-monitoring-assessment) |

@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Computer Programming for Physical Sciences and Engineering .**<br>物理科学与工程计算机编程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/overview-programs-offered/basc-foundation-year-program/foundation-year-program-basc/) |
 | **The Earth System.**<br>地球系统 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/overview-programs-offered/basc-foundation-year-program/foundation-year-program-basc/) |
 | **Global Change: Past, Present and Future.**<br>全球变化：过去、现在与未来 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/overview-programs-offered/basc-foundation-year-program/foundation-year-program-basc/) |
-| **Introduction to Psychology.**<br>心理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/overview-programs-offered/basc-foundation-year-program/foundation-year-program-basc/) |
+| **Introduction to Psychology.**<br>心理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/overview-programs-offered/basc-foundation-year-program/foundation-year-program-basc/) |
 
 ## Courses
 

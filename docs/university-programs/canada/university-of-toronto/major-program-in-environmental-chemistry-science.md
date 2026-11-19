@@ -18,12 +18,12 @@ ms.date: 2026-11-11
 | **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
 | **Calculus II for Biological Sciences**<br>生物科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
 | **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
-| **Introduction to Planet Earth**<br>地球导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
 | **Water**<br>水 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
 | **Environmental Pollution**<br>环境污染 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
 | **Techniques in Analytical Chemistry**<br>分析化学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
-| **Introduction to Inorganic Chemistry**<br>无机化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361) |

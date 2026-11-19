@@ -11,37 +11,37 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baccalauréat bilingue en Administration des affaires**<br>双语工商管理学士 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la micro-économie**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la macro-économie**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la micro-économie**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la macro-économie**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Calcul différentiel et intégral I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la statistique appliquée I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à l’art théâtral**<br>戏剧艺术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la statistique appliquée I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à l’art théâtral**<br>戏剧艺术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Les procédés dramatiques**<br>戏剧手法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à l’anthropologie**<br>人类学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à l’anthropologie**<br>人类学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Raisonnement et pensée critique**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction au développement durable**<br>可持续发展导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction au développement durable**<br>可持续发展入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Développement durable mondial et objectifs de développement durable**<br>全球可持续发展与可持续发展目标 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à l’étude du Canada**<br>加拿大研究导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à l’étude du Canada**<br>加拿大研究入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Histoire des mondes connectés: 1500-1815**<br>互联世界史：1500-1815 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Histoire des mondes connectés depuis 1815**<br>1815 年以来的互联世界史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la philosophie occidentale**<br>西方哲学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction aux philosophies non occidentales**<br>非西方哲学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la philosophie occidentale**<br>西方哲学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction aux philosophies non occidentales**<br>非西方哲学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Procédés psychologiques de base**<br>基础心理过程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Comportement social et individuel**<br>社会与个体行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction au gouvernement**<br>政府导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la politique**<br>政治学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction aux études autochtones**<br>原住民研究导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la sociologie**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la finance**<br>金融学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la comptabilité**<br>会计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction au gouvernement**<br>政府入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la politique**<br>政治学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction aux études autochtones**<br>原住民研究入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la sociologie**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la finance**<br>金融学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la comptabilité**<br>会计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Gestion et méthodes de contrôle**<br>管理与控制方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction au Commerce International**<br>国际商务导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction au Commerce International**<br>国际商务入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Probability and Statistics for Business**<br>商业概率与统计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Foundations of Business**<br>商业基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Techniques de rédaction - Français langue des affaires**<br>写作技巧：商务法语 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction to Management, Organization and Entrepreneurship**<br>管理、组织与创业导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
-| **Introduction à la politique mondiale**<br>世界政治导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction to Management, Organization and Entrepreneurship**<br>管理、组织与创业入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
+| **Introduction à la politique mondiale**<br>世界政治入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 | **Mondialisation et Développement**<br>全球化与发展 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110596&returnto=20857) |
 
 ## Courses

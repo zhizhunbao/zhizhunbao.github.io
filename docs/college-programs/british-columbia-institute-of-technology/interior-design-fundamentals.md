@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **History of Interiors and Furniture**<br>室内与家具史 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/) |
 | **Digital Illustration for Interior Design**<br>室内设计数字插画 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/) |
-| **Introduction to Lighting**<br>照明导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/) |
+| **Introduction to Lighting**<br>照明入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/) |
 | **Residential Construction Drawings**<br>住宅施工图 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/) |
 | **Residential Studio B**<br>住宅工作室 B | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/) |
 

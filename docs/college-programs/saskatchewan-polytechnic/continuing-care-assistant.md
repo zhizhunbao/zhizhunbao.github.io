@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **End of Life Care**<br>临终关怀 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Continuing-Care-Assistant.aspx) |
 | **Personal Care 1**<br>个人护理 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Continuing-Care-Assistant.aspx) |
 | **Personal Care 2**<br>个人护理 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Continuing-Care-Assistant.aspx) |
-| **Introduction to Caregiving**<br>护理照护导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Continuing-Care-Assistant.aspx) |
+| **Introduction to Caregiving**<br>护理照护入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Continuing-Care-Assistant.aspx) |
 | **Community Care**<br>社区护理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Continuing-Care-Assistant.aspx) |
 | **Special Procedures**<br>特殊程序 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Continuing-Care-Assistant.aspx) |
 | **Personal Competence**<br>个人能力 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Continuing-Care-Assistant.aspx) |

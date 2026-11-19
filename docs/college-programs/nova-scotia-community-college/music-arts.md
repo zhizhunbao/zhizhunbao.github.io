@@ -40,9 +40,9 @@ ms.date: 2026-11-08
 | **Primary Instrument and Primary Instrument Workshop IV**<br>主修乐器与主修乐器工作坊 IV | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
 | **Creative Ensemble IV**<br>创意合奏 IV | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
 | **Capstone Project II**<br>毕业设计项目 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
-| **Introduction to the Music Industry**<br>音乐产业导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
+| **Introduction to the Music Industry**<br>音乐产业入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
 | **Contemporary Songwriting I**<br>当代歌曲创作 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/music-arts) |
 
 ## Courses

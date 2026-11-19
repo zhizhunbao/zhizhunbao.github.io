@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **English - Creative and Professional Writing (Bachelor of Arts - Three-Year General)**<br>英语 - 创意与专业写作（文学学士 - 3 年制普通） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Literary Theory and Criticism**<br>文学理论与批评 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Rhetorical Theory and Criticism**<br>修辞理论与批评 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
-| **Introduction to Anti-Racist Communication**<br>反种族主义传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
+| **Introduction to Anti-Racist Communication**<br>反种族主义传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Speech Writing**<br>演讲稿写作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Genres of Business Communication**<br>商务传播的文体 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Genres of Fundraising Communication**<br>筹款传播的文体 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **Adapting Literary Works**<br>文学作品改编 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Language, Life, and Literature in the Caribbean**<br>加勒比地区的语言、生活与文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Black Diasporic Lives: 1740-1900**<br>黑人离散生活：1740-1900 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
-| **Introduction to Black Canadian Writing**<br>加拿大黑人写作导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
+| **Introduction to Black Canadian Writing**<br>加拿大黑人写作入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Contemporary African Literature and Film**<br>当代非洲文学与电影 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Global Asian Diasporas**<br>全球亚洲离散群体 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Old English Language and Literature**<br>古英语语言与文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
@@ -94,7 +94,7 @@ ms.date: 2026-11-11
 | **Canadian Children's Literature**<br>加拿大儿童文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Fiction and Film**<br>小说与电影 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Literatures of Migration**<br>移民文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
-| **Introduction to Critical Game Studies**<br>批判性游戏研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
+| **Introduction to Critical Game Studies**<br>批判性游戏研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Technical Editing**<br>技术编辑 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Editing Literary Works**<br>文学作品编辑 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |
 | **Information Design**<br>信息设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkzGgkCCsn) |

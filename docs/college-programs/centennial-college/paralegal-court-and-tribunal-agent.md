@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Paralegal - Court and Tribunal Agent**<br>律师助理 - 法院与法庭代理人 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal-court-and-tribunal-agent) |
 | **College Communications 1**<br>学院交流 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal-court-and-tribunal-agent) |
-| **Introduction to Canadian Law**<br>加拿大法律导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal-court-and-tribunal-agent) |
+| **Introduction to Canadian Law**<br>加拿大法律入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal-court-and-tribunal-agent) |
 | **Legal Computer Applications**<br>法律计算机应用 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal-court-and-tribunal-agent) |
 | **Legal Research and Writing**<br>法律研究与写作 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal-court-and-tribunal-agent) |
 | **Torts and Contracts**<br>侵权法与合同法 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/paralegal-court-and-tribunal-agent) |

@@ -73,7 +73,7 @@ ms.date: 2026-11-08
 | **Learning and Development**<br>学习与发展 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/BBA%20Accounting%20April%202026.pdf) |
 | **Strategic HR Management**<br>战略人力资源管理 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/BBA%20Accounting%20April%202026.pdf) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/BBA%20Accounting%20April%202026.pdf) |
-| **Introduction to the Stock Market**<br>股票市场导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/BBA%20Accounting%20April%202026.pdf) |
+| **Introduction to the Stock Market**<br>股票市场入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/BBA%20Accounting%20April%202026.pdf) |
 | **Change Management**<br>变革管理 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/BBA%20Accounting%20April%202026.pdf) |
 | **Marketing Research**<br>市场调研 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/BBA%20Accounting%20April%202026.pdf) |
 | **Professional Selling and Persuasion**<br>专业销售与说服 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/BBA%20Accounting%20April%202026.pdf) |

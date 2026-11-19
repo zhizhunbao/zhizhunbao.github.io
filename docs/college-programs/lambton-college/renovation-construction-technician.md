@@ -13,23 +13,23 @@ ms.date: 2026-11-08
 | **Renovation Construction Technician**<br>翻新施工技术员 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Safety, Tools & Materials**<br>安全、工具与材料 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Construction Plans, Specifications & Codes**<br>施工图纸、规格与规范 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
-| **Introduction to Surveying**<br>测量学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
+| **Introduction to Surveying**<br>测量学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Estimating & Calculating I**<br>估价与计算 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Foundations Systems**<br>基础系统 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Energy Efficiencies & Sustainable Construction**<br>能效与可持续建设 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
-| **Introduction to Interior Finishing**<br>室内装修导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
-| **Introduction to Exterior Finishing**<br>外墙装修导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
+| **Introduction to Interior Finishing**<br>室内装修入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
+| **Introduction to Exterior Finishing**<br>外墙装修入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Workplace Communications**<br>职场沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Construction Safety**<br>施工安全 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
-| **Introduction to Framing**<br>框架结构导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
+| **Introduction to Framing**<br>框架结构入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Co-op Work Term (optional)**<br>合作教育工作学期（选修） | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Renovation Project Management**<br>翻新项目管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Advanced Exterior Finishes**<br>高级外墙饰面 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Advanced Surveying & Layout**<br>高级测量与放样 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Computer Applications & Estimating**<br>计算机应用与估价 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
-| **Introduction to Design**<br>设计导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
+| **Introduction to Design**<br>设计入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Decks & Porches**<br>露台与门廊 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **Electrical & Plumbing Techniques for Renovations**<br>翻新工程电气与管道技术 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/rent) |

@@ -11,25 +11,25 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Esports Business Management**<br>电子竞技商业管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
-| **Introduction to Esports**<br>电子竞技导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
+| **Introduction to Esports**<br>电子竞技入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Esports Global Ecosystem**<br>电子竞技全球生态 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
-| **Introduction to Digital Media Production**<br>数字媒体制作导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
+| **Introduction to Digital Media Production**<br>数字媒体制作入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Risk Management Principles and Practice**<br>风险管理原理与实践 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Esports Marketing and Monetization**<br>电子竞技营销与变现 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Production and Broadcasting in Esports**<br>电子竞技制作与转播 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Esports Event Management**<br>电子竞技赛事管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
-| **Introduction to Organizations and Sustainability**<br>组织与可持续性导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
+| **Introduction to Organizations and Sustainability**<br>组织与可持续性入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Esports Health, Wellness, and Ethics**<br>电子竞技健康、福祉与伦理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Esports Business Management Capstone**<br>电子竞技商业管理毕业设计项目 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Business Strategy**<br>商业战略 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/esports-business-management) |
 
 ## Courses

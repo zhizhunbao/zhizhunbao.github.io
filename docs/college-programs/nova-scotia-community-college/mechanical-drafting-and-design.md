@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **2D CAD Fundamentals**<br>2D CAD 基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **3D Mechanical CAD**<br>3D 机械 CAD | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **Mechanical Drafting Fundamentals**<br>机械制图基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
-| **Introduction to Dimensioning and Tolerancing**<br>尺寸标注与公差导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
+| **Introduction to Dimensioning and Tolerancing**<br>尺寸标注与公差入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **Machine Shop I**<br>机加工车间 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **Applied Math for Mechanical Drafting I**<br>机械制图应用数学 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **Industry Relations I**<br>行业关系 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Industry Relations II**<br>行业关系 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **Applied Math for Mechanical Drafting II**<br>机械制图应用数学 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **Work Experience**<br>工作经历 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 | **Safety Basics – Hazard Identification**<br>安全基础：危险识别 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mechanical-drafting-and-design) |
 

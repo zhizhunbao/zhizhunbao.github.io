@@ -21,12 +21,12 @@ ms.date: 2026-11-08
 | **Sociological Inquiry: Society, Identity, and Everyday Life**<br>社会学探究：社会、身份与日常生活 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
 | **Chemistry for Health Sciences 2**<br>健康科学化学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
 | **Communication for Health Sciences 2**<br>健康科学沟通 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
-| **Introduction to Anatomy and Physiology**<br>解剖与生理学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
+| **Introduction to Anatomy and Physiology**<br>解剖与生理学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
 | **Mathematics for Health Sciences 2**<br>健康科学数学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
 | **Literature: Identity, Diversity and Difference**<br>文学：身份、多样性与差异 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
 | **Media, Information, and Critical Reading**<br>媒体、信息与批判性阅读 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
-| **Psychology: Introduction**<br>心理学：导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
+| **Psychology: Introduction**<br>心理学：入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-certificates-and-diplomas) |
 
 ## Courses
 

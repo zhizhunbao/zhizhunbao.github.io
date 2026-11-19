@@ -16,8 +16,8 @@ ms.date: 2026-11-11
 | **Chemistry: Physical Principles**<br>化学：物理原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Introductory Organic Chemistry I**<br>有机化学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Chemistry: The Molecular Science**<br>化学：分子科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
-| **Introduction to Physics II**<br>物理学导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
+| **Introduction to Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Foundations of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
@@ -66,9 +66,9 @@ ms.date: 2026-11-11
 | **The Immune System in Action**<br>运作中的免疫系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **The Immune System in Action (Advanced)**<br>运作中的免疫系统（高级） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Research Readiness and Advancing Biomedical Discoveries**<br>研究准备与推进生物医学发现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
-| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
+| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Pharmacodynamic Principles**<br>药效学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
-| **Introduction to Biological Physics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
+| **Introduction to Biological Physics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Clinical Reasoning**<br>临床推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Field Physiology: Marine Mammal Autopsy**<br>野外生理学：海洋哺乳动物解剖 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |
 | **Comparative Marine Mammal Physiology in the Field**<br>海洋哺乳动物比较生理学野外课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0482) |

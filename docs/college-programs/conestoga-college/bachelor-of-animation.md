@@ -13,14 +13,14 @@ ms.date: 2026-11-08
 | **Bachelor of Animation**<br>动画学士 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation) |
 | **Storyboarding for Animation**<br>动画分镜头脚本 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Life Drawing Fundamentals for Animation**<br>动画人体写生基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
-| **Introduction to 3D Animation**<br>3D 动画导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
+| **Introduction to 3D Animation**<br>3D 动画入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Character Design**<br>角色设计 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Academic Communications**<br>学术交流 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **History of Animation**<br>动画史 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Life Drawing for Animation**<br>动画人体写生 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Visual Development**<br>视觉开发 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
-| **Introduction to 3D Modelling**<br>3D建模导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
+| **Introduction to 3D Modelling**<br>3D建模入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Animation Principles and Body Mechanics**<br>动画原理与身体力学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **3D Layout for Animation**<br>动画3D布局 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Advanced Life Drawing for Animation**<br>动画高级人体写生 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Group Dynamics**<br>团体动力学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Animating Character Performances**<br>角色表演动画制作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Digital Sculpting for Animation**<br>动画数字雕刻 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
-| **Introduction to Rigging for Animation**<br>动画绑定导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
+| **Introduction to Rigging for Animation**<br>动画绑定入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Compositing and Post-Production**<br>合成与后期制作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Studio Management**<br>工作室管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |
 | **Coop Work Term Bachelor of Animation**<br>动画学士合作教育工作学期 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-animation/courses?id=36594) |

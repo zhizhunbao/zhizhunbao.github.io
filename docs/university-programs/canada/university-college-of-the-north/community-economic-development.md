@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Work Practicum**<br>工作实习 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=43) |
 | **Project Planning and Management**<br>项目规划与管理 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=43) |
 | **Land Management**<br>土地管理 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=43) |
-| **Introduction to Tourism**<br>旅游业导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=43) |
+| **Introduction to Tourism**<br>旅游业入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=43) |
 | **Aboriginal Business Law**<br>原住民商法 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=43) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=43) |
 | **Management**<br>管理学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=43) |

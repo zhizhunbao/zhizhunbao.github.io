@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Network Services Administration**<br>网络服务管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0150X10FPM.pdf) |
 | **Windows Enterprise Administration**<br>Windows 企业管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0150X10FPM.pdf) |
 | **Technical Project**<br>技术项目 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0150X10FPM.pdf) |
-| **Introduction to Enterprise Networking**<br>企业网络导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0150X10FPM.pdf) |
+| **Introduction to Enterprise Networking**<br>企业网络入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0150X10FPM.pdf) |
 | **Database Management and Interfacing**<br>数据库管理与接口 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0150X10FPM.pdf) |
 
 ## Courses

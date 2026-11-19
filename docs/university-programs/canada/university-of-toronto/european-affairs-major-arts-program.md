@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Elementary French II**<br>初级法语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Elementary French III**<br>初级法语 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Elementary French IV**<br>初级法语 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
-| **Introduction to German**<br>德语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
+| **Introduction to German**<br>德语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Elementary Hungarian**<br>初级匈牙利语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Italian Language for Beginners**<br>初学者意大利语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Introductory Modern Greek**<br>现代希腊语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-11
 | **Elementary Macedonian**<br>初级马其顿语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Spanish for Beginners I**<br>初学者西班牙语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Spanish for Beginners II**<br>初学者西班牙语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
-| **Introduction to the Irish Language**<br>爱尔兰语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
+| **Introduction to the Irish Language**<br>爱尔兰语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Intermediate Estonian I**<br>中级爱沙尼亚语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Intermediate Estonian II**<br>中级爱沙尼亚语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Intermediate Finnish I**<br>中级芬兰语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
@@ -84,7 +84,7 @@ ms.date: 2026-11-11
 | **Advanced Modern Greek II**<br>高级现代希腊语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Advanced Portuguese I**<br>高级葡萄牙语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Advanced Portuguese II**<br>高级葡萄牙语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
-| **Introduction to Portuguese Linguistics**<br>葡萄牙语语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
+| **Introduction to Portuguese Linguistics**<br>葡萄牙语语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Portuguese Language in the World**<br>世界中的葡萄牙语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Advanced Academic Portuguese**<br>高级学术葡萄牙语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Conversations-Inspirations: Everyday Polish**<br>对话与灵感：日常波兰语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
@@ -113,7 +113,7 @@ ms.date: 2026-11-11
 | **French Literature in the Time of Revolutions and Industrialization**<br>革命与工业化时代的法国文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Contemporary French Literature**<br>当代法国文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Urban Political Geographies**<br>城市政治地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
-| **Introduction to German Culture (E)**<br>德国文化导论 (E) | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
+| **Introduction to German Culture (E)**<br>德国文化入门 (E) | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Masterpieces of German Literature**<br>德国文学杰作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Literary Realism in the Industrial Age**<br>工业时代的文学现实主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Kafka's World**<br>卡夫卡的世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
@@ -142,8 +142,8 @@ ms.date: 2026-11-11
 | **Italian Cinematic Adaptation**<br>意大利电影改编 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Women Writers in Italy**<br>意大利的女作家 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **17th-and 18th-Century Philosophy**<br>17世纪与18世纪哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
-| **Introduction to Continental Philosophy**<br>大陆哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
-| **Introduction to Political Philosophy**<br>政治哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
+| **Introduction to Continental Philosophy**<br>大陆哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
+| **Introduction to Political Philosophy**<br>政治哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **The Rationalists**<br>理性主义者 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **The Empiricists**<br>经验主义者 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Topics in 19th-Century Philosophy**<br>19世纪哲学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
@@ -158,7 +158,7 @@ ms.date: 2026-11-11
 | **Social Movements in Canada**<br>加拿大的社会运动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Issues in Contemporary Greece**<br>当代希腊问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Twentieth Century Ukraine**<br>二十世纪乌克兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
-| **Introduction to the Cultures of the Portuguese-Speaking World**<br>葡语世界文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
+| **Introduction to the Cultures of the Portuguese-Speaking World**<br>葡语世界文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Antisemitism**<br>反犹主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Jewish Communities in Slavic and East European Countries**<br>斯拉夫与东欧国家的犹太社区 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |
 | **Czech and Slovak Cultures**<br>捷克与斯洛伐克文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1626) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Software Design and Architecture**<br>软件设计与架构 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Math for Early/Middle Years**<br>低年级与中年级数学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Human Computer Interaction**<br>人机交互 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Senior Systems Development Project Teachers II**<br>高年级系统开发项目 教师 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Computer Networks**<br>计算机网络 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Principles of Operating Systems**<br>操作系统原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
@@ -32,14 +32,14 @@ ms.date: 2026-11-11
 | **Computer Architecture and System Software**<br>计算机体系结构与系统软件 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Computer Security and Privacy**<br>计算机安全与隐私 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Internet Programming**<br>互联网编程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Software Requirements Analysis and Design**<br>软件需求分析与设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
-| **Introduction to Distributed Systems**<br>分布式系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
+| **Introduction to Distributed Systems**<br>分布式系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Linear Algebra 1**<br>线性代数 1 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Implementation Issues in Object-Oriented**<br>面向对象的实现问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Algorithm Design**<br>算法设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Scientific Computing I**<br>科学计算 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Numeric and Symbolic Computing**<br>数值与符号计算 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **Research Project in Applied Computer**<br>应用计算机研究项目 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Unix**<br>Unix | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **eCommerce**<br>电子商务 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
-| **Introduction to Game Development**<br>游戏开发导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
+| **Introduction to Game Development**<br>游戏开发入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Technical Communication in ICT Professions**<br>ICT 专业中的技术传播 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 | **Topics in Applied Computer Science**<br>应用计算机科学专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=8) |
 

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Biotechnology Advanced**<br>生物技术高级 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/biotechnology-advanced/full-time/kingston) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/biotechnology-advanced/full-time/kingston) |
-| **Introduction to Biotechnology**<br>生物技术导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/biotechnology-advanced/full-time/kingston) |
+| **Introduction to Biotechnology**<br>生物技术入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/biotechnology-advanced/full-time/kingston) |
 | **General Chemistry Theory**<br>普通化学理论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/biotechnology-advanced/full-time/kingston) |
 | **General Chemistry Techniques**<br>普通化学技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/biotechnology-advanced/full-time/kingston) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/biotechnology-advanced/full-time/kingston) |

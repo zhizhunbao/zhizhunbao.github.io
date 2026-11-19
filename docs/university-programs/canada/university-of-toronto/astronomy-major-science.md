@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Astronomy - Major (Science)**<br>天文学－主修（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
-| **Introduction to Mathematical Proofs**<br>数学证明导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
+| **Introduction to Mathematical Proofs**<br>数学证明入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
 | **Differential Calculus for Mathematical Sciences**<br>数学科学微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
 | **Linear Algebra II**<br>线性代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
 | **Curves and Surfaces**<br>曲线与曲面 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
-| **Introduction to Nonlinear Dynamics and Chaos**<br>非线性动力学与混沌导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
+| **Introduction to Nonlinear Dynamics and Chaos**<br>非线性动力学与混沌入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
 | **Optics**<br>光学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |
 | **Climate Physics**<br>气候物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2204) |

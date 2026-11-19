@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Professional Butchery**<br>专业肉类加工 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
 | **Culinary Management 1**<br>烹饪管理 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
 | **Butchery Fundamentals**<br>屠宰基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
-| **Butcher Shop: Introduction**<br>肉铺：导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
+| **Butcher Shop: Introduction**<br>肉铺：入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
 | **Butcher Shop: Meat Cutting 1**<br>肉铺：肉类分割 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
 | **Butcher Shop: Meat Cutting 2**<br>肉铺：肉类分割 2 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
-| **Introduction to Culinary Skills for Butchers**<br>屠夫烹饪技能导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
+| **Introduction to Culinary Skills for Butchers**<br>屠夫烹饪技能入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
 | **Culinary Management 2**<br>烹饪管理 2 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
-| **Introduction to Charcuterie**<br>熟肉制品加工导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
+| **Introduction to Charcuterie**<br>熟肉制品加工入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
 | **Butcher Shop: Operations 1**<br>肉铺：运营 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
 | **Butcher Shop: Operations 2**<br>肉铺：运营 2 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |
 | **Advanced Butcher Shop**<br>高级肉铺 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/professional-butchery) |

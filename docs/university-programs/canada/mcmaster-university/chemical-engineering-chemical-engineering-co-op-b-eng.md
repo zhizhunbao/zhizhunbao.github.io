@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Statistical Methods for Materials Engineers**<br>材料工程师统计方法 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Chemical Engineering Thermodynamics**<br>化学工程热力学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Chemical Process Design and Simulation**<br>化工过程设计与模拟 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
-| **Introduction to Reactor Design**<br>反应器设计导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
+| **Introduction to Reactor Design**<br>反应器设计入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Intermediate Laboratory Skills**<br>中级实验技能 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Process Control**<br>过程控制 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Transport Phenomena**<br>传递现象 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
@@ -33,9 +33,9 @@ ms.date: 2026-11-11
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Metabolism and Physiological Chemistry**<br>代谢与生理化学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Industrial Chemistry**<br>工业化学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
-| **Introduction to Bio-Analytical Chemistry**<br>生物分析化学导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
+| **Introduction to Bio-Analytical Chemistry**<br>生物分析化学入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Implanted Biomaterials**<br>植入式生物材料 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
-| **Introduction to Polymer Science**<br>高分子科学导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
+| **Introduction to Polymer Science**<br>高分子科学入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Advanced Laboratory Skills**<br>高级实验技能 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Engineering Economics and Problem Solving**<br>工程经济学与问题求解 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |
 | **Chemical Plant Design and Capstone Project**<br>化工厂设计与毕业设计项目 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33008) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.158 Chemistry, Doctor of Philosophy"
+title: "4.3.158 Chemistry, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Chemistry, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.158 Chemistry, Doctor of Philosophy
+# 4.3.158 Chemistry, Doctor of Philosophy
 
 ## Glossary
 
@@ -47,7 +47,7 @@ ms.date: 2026-11-18
 | **Polymer Physics**<br>高分子物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Solid Structure and Properties of Polymers**<br>聚合物的固体结构与性能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Electrochemical Water Treatment: Materials and Processes**<br>电化学水处理：材料与过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Randomized Algorithms and Probabilistic Analysis**<br>随机算法与概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Probabilistic Graphical Models: Principles and Techniques**<br>概率图模型：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-18
 | **The Fourier Transform and Its Applications**<br>傅里叶变换及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **The Engineering Economics of Electricity Markets**<br>电力市场的工程经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Chemical Vapor Deposition and Epitaxy for Integrated Circuits and Nanostructures**<br>集成电路与纳米结构的化学气相沉积与外延 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
-| **Introduction to Nonlinear Optics**<br>非线性光学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
+| **Introduction to Nonlinear Optics**<br>非线性光学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Engineering Future Electricity Systems**<br>未来电力系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Advanced Genetics**<br>高级遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
@@ -79,9 +79,9 @@ ms.date: 2026-11-18
 | **Thin Film and Interface Microanalysis**<br>薄膜与界面微区分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Optical Diagnostics and Spectroscopy**<br>光学诊断与光谱学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
-| **Introduction to Nuclear Energy**<br>核能导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
+| **Introduction to Nuclear Energy**<br>核能入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Exploring Advanced Chemical Research at Stanford**<br>探索斯坦福的前沿化学研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 | **Teaching of Chemistry**<br>化学教学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/chemistry/doctor-of-philosophy) |
 

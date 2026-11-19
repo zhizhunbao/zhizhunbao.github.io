@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
 | **Mechatronics I**<br>机电一体化 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
-| **Introduction to Metrology and Geometric Dimensioning**<br>计量与几何尺寸公差导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
+| **Introduction to Metrology and Geometric Dimensioning**<br>计量与几何尺寸公差入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
 | **Solid Modeling**<br>实体建模 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Intermediate PLC**<br>中级PLC | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
 | **Instrumentation I**<br>仪表 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
-| **Introduction to Fluid Power**<br>流体动力导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
+| **Introduction to Fluid Power**<br>流体动力入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technician-mechatronics) |
 
 ## Courses
 

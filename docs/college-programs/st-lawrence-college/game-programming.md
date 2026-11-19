@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Game Programming**<br>游戏编程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/game-programming/full-time/cornwall) |
 | **Communications for College**<br>大学沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/game-programming/full-time/cornwall) |
 | **Programming Fundamentals 1**<br>编程基础 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/game-programming/full-time/cornwall) |
-| **Introduction to Gaming**<br>博彩导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/game-programming/full-time/cornwall) |
+| **Introduction to Gaming**<br>博彩入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/game-programming/full-time/cornwall) |
 | **Game Engines 1: Fundamentals**<br>游戏引擎 1：基础 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/game-programming/full-time/cornwall) |
 | **Game Logic**<br>游戏逻辑 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/game-programming/full-time/cornwall) |
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/game-programming/full-time/cornwall) |

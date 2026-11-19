@@ -1,10 +1,10 @@
 ---
-title: "3.3.21 Data Science, Major: Bachelor of Science"
+title: "4.3.21 Data Science, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Data Science, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.21 Data Science, Major: Bachelor of Science
+# 4.3.21 Data Science, Major: Bachelor of Science
 
 ## Glossary
 
@@ -19,28 +19,28 @@ ms.date: 2026-11-18
 | **Principles of Data Science**<br>数据科学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Applied Matrix Theory**<br>应用矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Linear Algebra and Matrix Theory**<br>线性代数与矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Optimization: Data Science**<br>优化导论：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Optimization (Accelerated)**<br>优化导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Optimization: Data Science**<br>优化入门：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Optimization (Accelerated)**<br>优化入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Integral Calculus of Several Variables**<br>多变量积分学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Proofs and Modern Mathematics**<br>证明与现代数学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Functions of a Real Variable**<br>实变函数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Fundamental Concepts of Analysis**<br>分析学基本概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Probability Theory for Statistical Inference**<br>统计推断的概率论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Philosophical Foundations of Statistics**<br>统计学的哲学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Stochastic Modeling**<br>随机建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Ethics in Bioengineering**<br>生物工程中的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **The Politics of Algorithms**<br>算法的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to AI Safety**<br>AI 安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to AI Safety**<br>AI 安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Human-Centered AI**<br>以人为中心的 AI | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Computers, Ethics, and Public Policy**<br>计算机、伦理与公共政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Ethics, Public Policy, and Technological Change**<br>伦理、公共政策与技术变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -57,11 +57,11 @@ ms.date: 2026-11-18
 | **Data Science and the Science of Learning**<br>数据科学与学习科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Data Science for Neuroscience**<br>神经科学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Independent Study**<br>独立学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Intermediate Writing: Introduction to Science Communication**<br>中级写作：科学传播导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Intermediate Writing: Introduction to Science Communication**<br>中级写作：科学传播入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Sexual Health Communication: Strategies to Save Lives**<br>性健康沟通：拯救生命的策略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Intermediate Writing: Storytelling and Science**<br>中级写作：讲故事与科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Intermediate Writing: Art in/and Science Communication**<br>中级写作：科学传播中的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Mathematical Modeling of Biological Systems**<br>生物系统的数学建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Foundations of Computational Human Genomics**<br>计算人类基因组学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -78,12 +78,12 @@ ms.date: 2026-11-18
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Cognitive Neuroscience**<br>认知神经科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Cognitive Neuroscience**<br>认知神经科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Cognitive Neuroscience**<br>认知神经科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Perception**<br>知觉导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Perception**<br>知觉入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Minds and Machines**<br>心智与机器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Learning and Memory**<br>学习与记忆导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Learning and Memory**<br>学习与记忆入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Machine Learning Methods for Neural Data Analysis**<br>神经数据分析的机器学习方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Machine Learning for Neuroimaging**<br>神经影像的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Large-Scale Neural Network Modeling for Neuroscience**<br>神经科学的大规模神经网络建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -104,7 +104,7 @@ ms.date: 2026-11-18
 | **Math Discovery Lab**<br>数学发现实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Functions of a Complex Variable**<br>复变函数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Graph Theory**<br>图论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Combinatorics and Its Applications**<br>组合数学及其应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Combinatorics and Its Applications**<br>组合数学及其应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Groups and Symmetry**<br>群与对称 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Number Theory for Cryptography**<br>密码学的数论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Complex Analysis**<br>复分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -116,7 +116,7 @@ ms.date: 2026-11-18
 | **Mathematical Methods of Classical Mechanics**<br>经典力学的数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Hyperbolic Geometry**<br>双曲几何 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Differential Geometry**<br>微分几何 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Topology and Geometry**<br>拓扑与几何导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Topology and Geometry**<br>拓扑与几何入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Algebraic Geometry**<br>代数几何 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Differential Topology**<br>微分拓扑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Algebraic Topology**<br>代数拓扑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -142,7 +142,7 @@ ms.date: 2026-11-18
 | **Modern Algebra I**<br>近世代数 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Modern Algebra II**<br>近世代数 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Lie Theory**<br>李理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Algebraic Geometry**<br>代数几何导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Algebraic Geometry**<br>代数几何入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Partial Differential Equations of Applied Mathematics**<br>应用数学中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Computational Methods of Applied Mathematics**<br>应用数学计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Stochastic Methods in Engineering**<br>工程中的随机方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -152,7 +152,7 @@ ms.date: 2026-11-18
 | **Topics in Probability**<br>概率论专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Topics in Combinatorics**<br>组合数学专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Modern Markov Chains**<br>现代马尔可夫链 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Stochastic Differential Equations**<br>随机微分方程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Stochastic Differential Equations**<br>随机微分方程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Stochastic Calculus**<br>随机微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Mathematical Finance**<br>数理金融 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Riemann Surfaces**<br>黎曼曲面 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -184,26 +184,26 @@ ms.date: 2026-11-18
 | **Qualifying Examination Seminar**<br>资格考试研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **TGR Dissertation**<br>TGR 学位论文 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Computer Organization and Systems**<br>计算机组成与系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Statistical Learning and Data Science [Flipped]**<br>统计学习与数据科学［翻转课堂］ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Statistical Learning and Data Science [Virtual]**<br>统计学习与数据科学［线上］ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Modern Applied Statistics: Learning**<br>现代应用统计：学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Causal Inference**<br>因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Design of Experiments**<br>实验设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Partial Differential Equations in Engineering**<br>工程中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Programming for performance**<br>高性能编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Machine Learning and the Physical Sciences**<br>机器学习与物理科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Machine Learning for Computational Engineering.**<br>计算工程的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Applied Data Science**<br>应用数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Engineering Design Optimization**<br>工程设计优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Applications of machine learning to electronic markets**<br>机器学习在电子市场中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Foundations of Reinforcement Learning with Applications in Finance**<br>强化学习基础及其在金融中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Geometric and Topological Data Analysis**<br>几何与拓扑数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Imaging with Incomplete Information**<br>不完全信息成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Advances in Computing with Uncertainties**<br>不确定性计算进展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -246,7 +246,7 @@ ms.date: 2026-11-18
 | **Operating systems kernel implementation project**<br>操作系统内核实现项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Selected Reading of Computer Science Research**<br>计算机科学研究选读 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Equity and Governance for Artificial Intelligence**<br>人工智能的公平与治理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **A Hands-On Introduction to Building AI-Enabled Robots**<br>构建AI机器人实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **A Hands-On Introduction to Building AI-Enabled Robots**<br>构建AI机器人实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Data: Algorithms, Tools, Policy, and Society**<br>数据：算法、工具、政策与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Applied Machine Learning**<br>应用机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -256,18 +256,18 @@ ms.date: 2026-11-18
 | **Principles of Robot Autonomy I**<br>机器人自主性原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Operating Systems and Systems Programming**<br>操作系统与系统编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Operating systems design and implementation**<br>操作系统设计与实现 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Embedded Systems**<br>嵌入式系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Embedded Systems**<br>嵌入式系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Sports and Data**<br>体育与数据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Web Applications**<br>网络应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Compilers**<br>编译器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Computer Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Computer Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Game Development**<br>游戏开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Full-Stack Web Programming**<br>全栈 Web 编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **The Modern Software Developer**<br>现代软件开发者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Intro to Designing Interfaces for AI-Native Products**<br>面向 AI 原生产品的界面设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Intro to Designing Interfaces for AI-Native Products**<br>面向 AI 原生产品的界面设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Cross-platform Mobile App Development**<br>跨平台移动应用开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Parallel Computing**<br>并行计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Logic Programming**<br>逻辑编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Trust and Safety**<br>信任与安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -280,7 +280,7 @@ ms.date: 2026-11-18
 | **The Modern Algorithmic Toolbox**<br>现代算法工具箱 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Stanford Laptop Orchestra: Composition, Coding, and Performance**<br>斯坦福笔记本电脑乐团：作曲、编程与演奏 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Causality, Decision Making and Data Science**<br>因果性、决策与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Product Management with AI**<br>人工智能产品管理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Product Management with AI**<br>人工智能产品管理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Digital Systems Architecture**<br>数字系统结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Computers, Ethics, and Public Policy (WIM)**<br>计算机、伦理与公共政策（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Ethics, Public Policy, and Technological Change (WIM)**<br>伦理、公共政策与技术变革（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -295,7 +295,7 @@ ms.date: 2026-11-18
 | **Programming Service Project**<br>编程服务项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Client-Side Internet Technologies**<br>客户端互联网技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **iOS Application Development**<br>iOS 应用开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Python Programming**<br>Python 编程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Python Programming**<br>Python 编程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Thinking with AI: Strategies for Effective and Ethical Human-AI Collaboration**<br>与人工智能一起思考：有效且合乎伦理的人机协作策略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Effective Vibecoding**<br>高效 Vibecoding | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Web Programming Fundamentals**<br>网络编程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -322,7 +322,7 @@ ms.date: 2026-11-18
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Mechanistic Interpretability**<br>机制可解释性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Simulating Humans and Societies**<br>模拟人类与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **NLP for Computational Social Science**<br>计算社会科学的自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Apps With LLMs Inside**<br>内置大语言模型的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -377,9 +377,9 @@ ms.date: 2026-11-18
 | **Securing AI Systems**<br>保护人工智能系统安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Computational Complexity**<br>计算复杂性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Computational Complexity II**<br>计算复杂性 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Algorithmic Fairness**<br>算法公平性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Automated Reasoning**<br>自动推理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Automated Reasoning**<br>自动推理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Quantum Cryptography**<br>量子密码学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Quantum Computing**<br>量子计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Counting and Sampling**<br>计数与抽样 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -387,7 +387,7 @@ ms.date: 2026-11-18
 | **Robust Algorithms in the Face of Uncertainty**<br>不确定性下的鲁棒算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Incentives in Computer Science**<br>计算机科学中的激励 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Algorithmic Foundations for Artificial Intelligence in Healthcare**<br>医疗领域人工智能的算法基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Methods for Reproducible Population Health and Clinical Research**<br>可重复的人群健康与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Deep Learning in Genomics and Biomedicine**<br>基因组学与生物医学中的深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Cloud Computing for Biology and Healthcare**<br>生物学与医疗的云计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -400,7 +400,7 @@ ms.date: 2026-11-18
 | **Ethics of Artificial Intelligence**<br>人工智能伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Computer Systems Architecture**<br>计算机系统结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Free and Open Source Software and Communities**<br>自由与开源软件及社区 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Internet of Things**<br>物联网导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Internet of Things**<br>物联网入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Advanced Topics in Computer Vision and Biomedicine**<br>计算机视觉与生物医学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Data Centric AI for Healthcare**<br>面向医疗的以数据为中心的AI | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Applied Causal Inference with Machine Learning and AI**<br>结合机器学习与AI的应用因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -503,7 +503,7 @@ ms.date: 2026-11-18
 | **Music, Computing, Design: The Art of Design**<br>音乐、计算、设计：设计的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Musical Game Design**<br>音乐游戏设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Advanced Large Language Models Research Seminar**<br>高级大语言模型研究研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 导论：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 入门：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Design for Learning: College in the Age of AI**<br>学习设计：AI时代的大学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Knowledge Graphs**<br>知识图谱 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Seminar on AI Safety**<br>人工智能安全研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -544,14 +544,14 @@ ms.date: 2026-11-18
 | **Lasers**<br>激光 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Solar Energy Conversion**<br>太阳能转换 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Solar Energy Conversion Laboratory**<br>太阳能转换实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Fourier Optics**<br>傅里叶光学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Fourier Optics**<br>傅里叶光学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Electromagnetic Waves**<br>电磁波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Optical Fiber Communications**<br>光纤通信导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Optical Fiber Communications**<br>光纤通信入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **High-Frequency Circuit Design Laboratory**<br>高频电路设计实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Power Electronics**<br>电力电子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Advanced Topics in Power Electronics**<br>电力电子高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Board Level Design**<br>电路板级设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Radar Remote Sensing**<br>雷达遥感导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Radar Remote Sensing**<br>雷达遥感入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Principles of Sensing for Autonomy**<br>自主性感知原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **The Fourier Transform and Its Applications**<br>傅里叶变换及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Digital Signal Processing**<br>数字信号处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -560,15 +560,15 @@ ms.date: 2026-11-18
 | **Virtual Reality (WIM)**<br>虚拟现实（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **The Engineering Economics of Electricity Markets**<br>电力市场的工程经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Quantization and Signal Processing for AI**<br>人工智能的量化与信号处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to VLSI Systems**<br>VLSI 系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to VLSI Systems**<br>VLSI 系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Design Projects in VLSI Systems I**<br>VLSI系统设计项目 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Digital Systems Engineering**<br>数字系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Data Compression: Theory and Applications**<br>数据压缩：理论与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Probability and Statistical Inference**<br>概率与统计推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Digital Communication**<br>数字通信导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Digital Communication**<br>数字通信入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Markov Decision Processes**<br>马尔可夫决策过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Computer Networks**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Computer Networks**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Curricular Practical Training for Electrical Engineers**<br>电气工程师课程实践培训 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Electronic Design Automation (EDA) and Machine Learning Hardware**<br>电子设计自动化（EDA）与机器学习硬件 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **AI-Boosted Digital System Design**<br>AI加速的数字系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -603,7 +603,7 @@ ms.date: 2026-11-18
 | **Micro and Nano Optical Device Design**<br>微纳光学器件设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Nanophotonics**<br>纳米光子学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Quantum Photonics**<br>量子光子学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Nonlinear Optics**<br>非线性光学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Nonlinear Optics**<br>非线性光学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Optical Methods in Engineering Science**<br>工程科学中的光学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Advanced Optical Fiber Communications**<br>高级光纤通信 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Imaging Radar and Applications**<br>成像雷达及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -650,8 +650,8 @@ ms.date: 2026-11-18
 | **Fundamentals of Data Science: Prediction, Inference, Causality**<br>数据科学基础：预测、推断、因果 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Bayesian Linear Regression**<br>贝叶斯线性回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Market Design for Engineers**<br>工程师的市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Game Theory (Accelerated)**<br>博弈论导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Game Theory (Accelerated)**<br>博弈论入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Game Theory, Data Science and AI**<br>博弈论、数据科学与人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Market Design in Action**<br>市场设计实战 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Accounting for Managers and Entrepreneurs**<br>面向管理者与创业者的会计学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -669,7 +669,7 @@ ms.date: 2026-11-18
 | **Foundations of Decision Analysis**<br>决策分析基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **The Ethical Analyst**<br>伦理分析师 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Technology Assessment and Regulation of Medical Devices**<br>医疗器械的技术评估与监管 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Operations Management**<br>运营管理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Operations Management**<br>运营管理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Topics in Service and Supply Chain Management**<br>服务与供应链管理专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Healthcare Operations Management**<br>医疗运营管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Product Management Fundamentals in the AI Era**<br>人工智能时代的产品管理基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -741,13 +741,13 @@ ms.date: 2026-11-18
 | **Leadership Lab**<br>领导力实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **The Stanford Energy Seminar**<br>斯坦福能源研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Sampling**<br>采样 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Nonparametric Statistics**<br>非参数统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Nonparametric Statistics**<br>非参数统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Resampling Methods: Bootstrap, Cross Validation and Beyond**<br>重抽样方法：自助法、交叉验证及其他 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Meta-research: Appraising Research Findings, Bias, and Meta-analysis**<br>元研究：评估研究发现、偏倚与荟萃分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Statistical Models in Biology**<br>生物学中的统计模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Random Processes on Graphs and Lattices**<br>图与格点上的随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Sequential Analysis**<br>序贯分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Causal Inference in Clinical Trials and Observational Studies**<br>临床试验与观察性研究中的因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -792,7 +792,7 @@ ms.date: 2026-11-18
 | **Foundations of Finance**<br>金融学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Market Design**<br>市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Decision Modeling and Information**<br>决策建模与信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Investments in Financial Markets**<br>金融市场投资学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Imperfect Competition**<br>不完全竞争 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Game Theory and Economic Applications**<br>博弈论及其经济应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
@@ -801,7 +801,7 @@ ms.date: 2026-11-18
 | **Data Science for Environmental Business**<br>环境商业的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Machine Learning and Causal Inference**<br>机器学习与因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Networks**<br>网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
-| **Introduction to Finance and Investment**<br>金融与投资导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
+| **Introduction to Finance and Investment**<br>金融与投资入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Metalogic**<br>元逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Computability and Logic**<br>可计算性与逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |
 | **Causal Inference for Social Science**<br>社会科学因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-science) |

@@ -11,19 +11,19 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Kinesiology Certificate**<br>运动机能学证书 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
-| **Introduction to Personal Health And Wellbeing**<br>个人健康与幸福导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
+| **Introduction to Personal Health And Wellbeing**<br>个人健康与幸福入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
 | **Physical Literacy for Life**<br>终身身体素养 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
-| **Introduction to Poetry and Drama**<br>诗歌与戏剧导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
-| **Introduction to Biology 1**<br>生物学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
-| **Introduction to Motor Skill Acquisition**<br>运动技能习得导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
-| **Introduction to Biomechanics**<br>生物力学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
+| **Introduction to Poetry and Drama**<br>诗歌与戏剧入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
+| **Introduction to Biology 1**<br>生物学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
+| **Introduction to Motor Skill Acquisition**<br>运动技能习得入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
+| **Introduction to Biomechanics**<br>生物力学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
 | **Foundations of Exercise and Physical Fitness**<br>运动与体能基础 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
 | **Sport and Health Policy in Canada**<br>加拿大体育与健康政策 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
-| **Introduction to Psychology 2**<br>心理学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
-| **Introduction to Biology 2**<br>生物学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
+| **Introduction to Psychology 2**<br>心理学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
+| **Introduction to Biology 2**<br>生物学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/kinesiology/kinesiology-certificate/) |
 
 ## Courses
 

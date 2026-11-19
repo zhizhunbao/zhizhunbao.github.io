@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Thermal Physics**<br>热物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Advanced Classical Mechanics**<br>高级经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
-| **Introduction to Quantum Physics**<br>量子物理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
+| **Introduction to Quantum Physics**<br>量子物理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Quantum Mechanics I**<br>量子力学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Relativistic Electrodynamics**<br>相对论电动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Complex Analysis I**<br>复分析 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Foundations of Real Analysis**<br>实分析基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
-| **Introduction to Topology**<br>拓扑学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
+| **Introduction to Topology**<br>拓扑学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Groups, Rings and Fields**<br>群、环与域 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Geometry of Curves and Surfaces**<br>曲线与曲面几何 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Differential Geometry**<br>微分几何 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
@@ -48,10 +48,10 @@ ms.date: 2026-11-11
 | **Seminar in Mathematics**<br>数学研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Advanced Physics Laboratory**<br>高级物理实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Undergraduate Research Project**<br>本科生研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Computers and Society**<br>计算机与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Community Dis/Engagement and Solidarity**<br>社区脱离/参与与团结 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Conservation Biology**<br>保护生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Assessing Global Change: Science and the Environment**<br>评估全球变化：科学与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
@@ -60,12 +60,12 @@ ms.date: 2026-11-11
 | **Law and History**<br>法律与历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Science and Values**<br>科学与价值 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Technology in the Modern World**<br>现代世界中的技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
-| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
+| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Physical Science in Contemporary Society**<br>当代社会中的物理科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
-| **Introduction to Political Philosophy**<br>政治哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
+| **Introduction to Political Philosophy**<br>政治哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Law and Morality**<br>法律与道德 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Environmental Ethics**<br>环境伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
-| **Introduction to Ethics**<br>伦理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
+| **Introduction to Ethics**<br>伦理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Bioethics**<br>生物伦理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |
 | **Methods in Queer and Trans Studies**<br>酷儿与跨性别研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0397) |

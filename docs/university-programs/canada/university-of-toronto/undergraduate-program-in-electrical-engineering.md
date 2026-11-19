@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Computer Fundamentals**<br>计算机基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Engineering Strategies & Practice II**<br>工程策略与实践 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
-| **Introduction to Electrical and Computer Engineering**<br>电气与计算机工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
+| **Introduction to Electrical and Computer Engineering**<br>电气与计算机工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Digital Systems**<br>数字系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Advanced Engineering Mathematics**<br>高等工程数学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
-| **Introduction to Mathematical Physics**<br>数学物理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
+| **Introduction to Mathematical Physics**<br>数学物理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Circuit Analysis**<br>电路分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Signals and Systems**<br>信号与系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Electric and Magnetic Fields**<br>电场与磁场 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
@@ -40,12 +40,12 @@ ms.date: 2026-11-11
 | **Fundamentals of Optics**<br>光学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Fields and Waves**<br>场与波 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Analog Electronics**<br>模拟电子学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
-| **Introduction to Electronic Devices**<br>电子器件导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
+| **Introduction to Electronic Devices**<br>电子器件入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Microwave Circuits**<br>微波电路 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Photonic Devices**<br>光子器件 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Analog Integrated Circuits**<br>模拟集成电路 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Quantum Computing Hardware**<br>量子计算硬件 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
-| **Introduction to Micro- and Nano-Fabrication Technologies**<br>微纳加工技术导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
+| **Introduction to Micro- and Nano-Fabrication Technologies**<br>微纳加工技术入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Power Electronics**<br>电力电子 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Power System Protection and Automation**<br>电力系统保护与自动化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Energy Systems and Distributed Generation**<br>能源系统与分布式发电 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
@@ -55,13 +55,13 @@ ms.date: 2026-11-11
 | **VLSI Technology**<br>VLSI 技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Electric Drives**<br>电力传动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Probability and Applications**<br>概率及其应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
-| **Introduction to Control Systems**<br>控制系统导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
+| **Introduction to Control Systems**<br>控制系统入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Communication Systems**<br>通信系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Neural Bioelectricity**<br>神经生物电学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Medical Imaging**<br>医学影像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Linear Control Systems**<br>线性控制系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Digital Communication**<br>数字通信 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Digital Signal Processing**<br>数字信号处理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Interfacing & Modulating the Nervous System**<br>神经系统的接口与调控 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Audio, Acoustics and Sensing**<br>音频、声学与传感 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
@@ -80,7 +80,7 @@ ms.date: 2026-11-11
 | **Computer Networks I**<br>计算机网络 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Applied Fundamentals of Deep Learning**<br>深度学习应用基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Computer Graphics**<br>计算机图形学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Programming Languages**<br>编程语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |
 | **Computer Systems Programming**<br>计算机系统编程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeelebasc) |

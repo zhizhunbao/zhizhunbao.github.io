@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Animal and Clinic Care**<br>动物与诊所护理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTA/courses.html) |
 | **Career Management and Field Placement**<br>职业管理与实地实习 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTA/courses.html) |
 | **Animal Handling, Therapeutic and Grooming Skills**<br>动物处置、治疗与美容技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTA/courses.html) |
-| **Introduction to Animal Nutrition**<br>动物营养导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTA/courses.html) |
+| **Introduction to Animal Nutrition**<br>动物营养入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTA/courses.html) |
 | **Large and Laboratory Handling**<br>大型动物与实验动物处理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTA/courses.html) |
 | **Surgical Assisting and Radiology**<br>外科辅助与放射学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTA/courses.html) |
 

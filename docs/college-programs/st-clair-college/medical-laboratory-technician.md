@@ -14,14 +14,14 @@ ms.date: 2026-11-08
 | **Human Biology**<br>人体生物学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Health Care For Medical Laboratory Technicians**<br>医学检验技术员的医疗保健 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Introductory Laboratory Knowledge**<br>实验室知识入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
-| **Introduction To The Medical Laboratory Environment**<br>医学实验室环境导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
+| **Introduction To The Medical Laboratory Environment**<br>医学实验室环境入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Basic Laboratory Calculations**<br>基础实验室计算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Practical Clinical Chemistry**<br>临床化学实践 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Practical Hematology**<br>血液学实践 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Practical Microbiology**<br>微生物学实践 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Pract. Histotechnolgy/Cytology**<br>组织技术/细胞学实操 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Specimen Collection**<br>标本采集 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
-| **Introduction to Cardiac Techniques**<br>心脏技术导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
+| **Introduction to Cardiac Techniques**<br>心脏技术入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Clinical Preparation for the MLAT**<br>MLAT临床准备 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 | **Clinical Experience**<br>临床经验 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-technician) |
 

@@ -1,10 +1,10 @@
 ---
-title: "3.4.97 Master in Public Policy in Global Affairs (M.P.P.)"
+title: "4.4.97 Master in Public Policy in Global Affairs (M.P.P.)"
 description: "University Programs > United States > Yale University > Master in Public Policy in Global Affairs (M.P.P.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.97 Master in Public Policy in Global Affairs (M.P.P.)
+# 4.4.97 Master in Public Policy in Global Affairs (M.P.P.)
 
 ## Glossary
 

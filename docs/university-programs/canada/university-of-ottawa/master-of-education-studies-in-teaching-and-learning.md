@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education (Studies in Teaching and Learning)**<br>教育学硕士，教学研究 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-studies-teaching-learning/) |
-| **Introduction to Research in Education**<br>教育研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-studies-teaching-learning/) |
+| **Introduction to Research in Education**<br>教育研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-studies-teaching-learning/) |
 | **Inclusive and Special Education**<br>全纳教育与特殊教育 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-studies-teaching-learning/) |
 | **Current Issues in Science Education**<br>科学教育当前议题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-studies-teaching-learning/) |
 | **Social and Emotional Learning.**<br>社会与情感学习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-studies-teaching-learning/) |

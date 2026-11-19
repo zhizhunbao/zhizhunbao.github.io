@@ -20,21 +20,21 @@ ms.date: 2026-11-11
 | **Analysis 1B**<br>分析 1B | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
-| **Introduction to Physics II**<br>物理学导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
+| **Introduction to Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Foundations of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Multivariable Calculus with Proofs**<br>含证明的多变量微积分 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Analysis II**<br>分析 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Vector Calculus I**<br>矢量微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Vector Calculus II**<br>矢量微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
-| **Introduction to Ordinary Differential Equations**<br>常微分方程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
+| **Introduction to Ordinary Differential Equations**<br>常微分方程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Advanced Ordinary Differential Equations**<br>高级常微分方程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Practical Physics I**<br>实用物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Thermal Physics**<br>热物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
-| **Introduction to Quantum Physics**<br>量子物理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
+| **Introduction to Quantum Physics**<br>量子物理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Practical Physics II**<br>实用物理 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1944) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Perioperative Nursing for Licensed Practical Nurses and Registered Nurses**<br>面向持证实用护士与注册护士的围手术期护理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/perioperative-nursing-for-licensed-practical-nurses-and-registered-nurses) |
-| **Introduction to Perioperative Nursing Concepts**<br>围手术期护理概念导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/perioperative-nursing-for-licensed-practical-nurses-and-registered-nurses) |
+| **Introduction to Perioperative Nursing Concepts**<br>围手术期护理概念入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/perioperative-nursing-for-licensed-practical-nurses-and-registered-nurses) |
 | **Perioperative Pharmacology and Anesthesia**<br>围手术期药理学与麻醉 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/perioperative-nursing-for-licensed-practical-nurses-and-registered-nurses) |
 | **Perioperative Nursing Theory**<br>围手术期护理理论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/perioperative-nursing-for-licensed-practical-nurses-and-registered-nurses) |
 | **Perioperative Nursing Skills Lab**<br>围手术期护理技能实验课 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/perioperative-nursing-for-licensed-practical-nurses-and-registered-nurses) |

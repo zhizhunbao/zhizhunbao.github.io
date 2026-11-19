@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Biotechnology**<br>生物技术 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/biotechnology/) |
 | **Human Physiology 1**<br>人体生理学 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/btec/) |
 | **Cell Biology 1**<br>细胞生物学 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/btec/) |
-| **Introduction to Biotechnology**<br>生物技术导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/btec/) |
+| **Introduction to Biotechnology**<br>生物技术入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/btec/) |
 | **Introduction to Measurement**<br>测量入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/btec/) |
 | **Chemistry for Biotechnology 1**<br>生物技术化学 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/btec/) |
 | **Mathematics for Biotechnology**<br>生物技术数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/btec/) |

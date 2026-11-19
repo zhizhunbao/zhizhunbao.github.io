@@ -1,22 +1,22 @@
 ---
-title: "3.1.86 Master of Science – Epidemiology (80-credit)"
+title: "4.1.86 Master of Science – Epidemiology (80-credit)"
 description: "University Programs > United States > Harvard University > Master of Science – Epidemiology (80-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.86 Master of Science – Epidemiology (80-credit)
+# 4.1.86 Master of Science – Epidemiology (80-credit)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Science – Epidemiology (80-credit)**<br>流行病学（理学硕士，80学分） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
-| **Introduction to Epidemiology: Methods I**<br>流行病学导论：方法 I | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
-| **Introduction to Epidemiology: Methods II**<br>流行病学导论：方法 II | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
+| **Introduction to Epidemiology: Methods I**<br>流行病学入门：方法 I | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
+| **Introduction to Epidemiology: Methods II**<br>流行病学入门：方法 II | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
 | **Study Design in Epidemiologic Research**<br>流行病学研究中的研究设计 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
 | **Analysis of Case-Control and Cohort Studies**<br>病例对照研究与队列研究分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
 | **Epidemiologic Methods II: Models for Causal Inference**<br>流行病学方法 II：因果推断模型 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
-| **Introduction to Statistical Methods**<br>统计方法导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
+| **Introduction to Statistical Methods**<br>统计方法入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
 | **Applied Regression Analysis or BST220: Applied Regression Methods**<br>应用回归分析或BST220：应用回归方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
 | **Foundations of Public Health**<br>公共卫生基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |
 | **Nutritional Epidemiology**<br>营养流行病学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-epidemiology/) |

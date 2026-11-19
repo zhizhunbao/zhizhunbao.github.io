@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Visual Strategies**<br>视觉策略 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe2002) |
 | **History of Architecture, Landscape, Urbanism, and Art I**<br>建筑、景观、城市规划与艺术史 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe2002) |
 | **History of Architecture, Landscape, Urbanism, and Art II**<br>建筑、景观、城市规划与艺术史 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe2002) |
-| **Introduction to Critical Theory**<br>批判理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe2002) |
+| **Introduction to Critical Theory**<br>批判理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe2002) |
 | **Thesis Project (Critical Practices)**<br>论文项目（批判实践） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe2002) |
 | **Critical Curatorial Lab**<br>批判策展实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe2002) |
 | **Contemporary Art Issues**<br>当代艺术议题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe2002) |

@@ -18,8 +18,8 @@ ms.date: 2026-11-11
 | **Measure Theory**<br>测度论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
 | **Calculus 3 for Honours Mathematics**<br>荣誉数学微积分 3 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
 | **Calculus 3 (Advanced Level)**<br>微积分 3（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
-| **Introduction to Combinatorics**<br>组合数学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
-| **Introduction to Combinatorics (Advanced Level)**<br>组合数学导论（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
+| **Introduction to Combinatorics**<br>组合数学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
+| **Introduction to Combinatorics (Advanced Level)**<br>组合数学入门（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
 | **Differential Geometry**<br>微分几何 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
 | **Topology**<br>拓扑学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1eexkCAo2) |
 

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Engineering Transfer - Certificate**<br>工程转学证书 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/engineering-transfer-certificate) |
 | **Chemistry For Engineering**<br>工程化学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/engineering-transfer-certificate) |
-| **Introduction To Programming I**<br>编程导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/engineering-transfer-certificate) |
+| **Introduction To Programming I**<br>编程入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/engineering-transfer-certificate) |
 | **College Composition**<br>大学写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/engineering-transfer-certificate) |
 | **Engineering Design and Communication I**<br>工程设计与沟通 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/engineering-transfer-certificate) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/engineering-transfer-certificate) |

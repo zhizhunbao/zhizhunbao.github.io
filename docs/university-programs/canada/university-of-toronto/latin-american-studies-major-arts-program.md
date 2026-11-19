@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Inventing Latin America: Foundational Themes**<br>发明拉丁美洲：基础主题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Defining Latin America: Current Issues**<br>界定拉丁美洲：当前议题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **The Canadian Census: Populations, Migrations and Demographics**<br>加拿大人口普查：人口、迁移与人口统计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
-| **Introduction to Quantitative Reasoning I**<br>定量推理导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
+| **Introduction to Quantitative Reasoning I**<br>定量推理入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Introductory Analytical Methods**<br>分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Qualitative and Quantitative Reasoning**<br>定性与定量推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Ancient Cultures of the Andes**<br>安第斯古代文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Slavery in Latin America**<br>拉丁美洲的奴隶制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Political Violence and Human Rights in Latin America**<br>拉丁美洲的政治暴力与人权 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Historical Memory and Transitional Justice in Latin America**<br>拉丁美洲的历史记忆与转型正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
-| **Introduction to Latin American Politics and Societies**<br>拉丁美洲政治与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
+| **Introduction to Latin American Politics and Societies**<br>拉丁美洲政治与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Contemporary Latin American Politics**<br>当代拉丁美洲政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Topics in Latin American Politics**<br>拉丁美洲政治专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **21st Century Latin American Cinema**<br>21世纪拉丁美洲电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
@@ -60,24 +60,24 @@ ms.date: 2026-11-11
 | **Spanish for Intermediate Speakers II**<br>中级水平西班牙语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Spanish for Heritage Speakers I**<br>传承语者西班牙语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Spanish for Heritage Speakers II**<br>传承语者西班牙语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
-| **Introduction to Hispanic Literary Studies**<br>西语文学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
-| **Introduction to Hispanic Cultural Studies**<br>西语文化研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
+| **Introduction to Hispanic Literary Studies**<br>西语文学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
+| **Introduction to Hispanic Cultural Studies**<br>西语文化研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Spanish for Advanced Speakers I**<br>高级水平西班牙语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Spanish for Advanced Speakers II**<br>高级水平西班牙语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Business Spanish**<br>商务西班牙语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
-| **Introduction to Indigenous Languages of the Americas**<br>美洲原住民语言导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
+| **Introduction to Indigenous Languages of the Americas**<br>美洲原住民语言入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **South American Indigenous Languages**<br>南美原住民语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Central American Indigenous Languages**<br>中美洲原住民语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
-| **Introduction to Caribbean Studies**<br>加勒比研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
+| **Introduction to Caribbean Studies**<br>加勒比研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Comparative Caribbean Literature**<br>加勒比文学比较 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Comparative Caribbean Literature and Visual Culture**<br>加勒比文学与视觉文化比较 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Capitalism and Crisis in the Caribbean**<br>加勒比地区的资本主义与危机 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Economic Development**<br>经济发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Topics in Development Economics and Policy**<br>发展经济学与政策专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Multicultural Perspectives on Environmental Management**<br>环境管理的多元文化视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
-| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
+| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Indigenous Worldviews, Spiritual and Healing Traditions**<br>原住民世界观、精神与疗愈传统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Community Dis/Engagement and Solidarity**<br>社区脱离/参与与团结 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 | **Community Organizing and Global Solidarity**<br>社区组织与全球团结 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0552) |
 

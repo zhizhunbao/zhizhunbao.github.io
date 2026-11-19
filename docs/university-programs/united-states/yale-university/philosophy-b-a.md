@@ -1,21 +1,21 @@
 ---
-title: "3.4.65 Philosophy (B.A.)"
+title: "4.4.65 Philosophy (B.A.)"
 description: "University Programs > United States > Yale University > Philosophy (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.65 Philosophy (B.A.)
+# 4.4.65 Philosophy (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Philosophy (B.A.)**<br>哲学（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
-| **Introduction to Ancient Philosophy**<br>古代哲学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
-| **Introduction to Modern Philosophy from Descartes to Kant**<br>近代哲学导论：从笛卡尔到康德 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
+| **Introduction to Ancient Philosophy**<br>古代哲学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
+| **Introduction to Modern Philosophy from Descartes to Kant**<br>近代哲学入门：从笛卡尔到康德 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
 | **Directed Studies: Philosophy**<br>定向研究：哲学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
 | **The Senior Essay**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
 | **First-Order Logic**<br>一阶逻辑 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy/) |
 
 ## Courses

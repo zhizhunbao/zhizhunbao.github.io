@@ -47,7 +47,7 @@ ms.date: 2026-11-08
 | **Management Science II**<br>管理科学 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-management-science/) |
 | **Business Ethics and Social Responsibility**<br>商业伦理与社会责任 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-management-science/) |
 | **Principles of Project Management**<br>项目管理原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-management-science/) |
-| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-management-science/) |
+| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-management-science/) |
 | **Organizational Behavior**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-management-science/) |
 
 ## Courses

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Liberal Studies (LIBS)**<br>通识研究 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
-| **Introduction to Physical Anthropology**<br>体质人类学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
+| **Introduction to Physical Anthropology**<br>体质人类学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Critical Thinking & Writing**<br>批判性思维与写作 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Sociology I**<br>社会学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Psychology I**<br>心理学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
@@ -22,15 +22,15 @@ ms.date: 2026-11-08
 | **Communications for Community Services**<br>社区服务沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Psychology II**<br>心理学 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Ethical Leadership and Decision Making**<br>伦理领导力与决策 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
-| **Introduction to Community Mental Health**<br>社区心理健康导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
+| **Introduction to Community Mental Health**<br>社区心理健康入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Digital Media and Analytics for Business**<br>商业数字媒体与分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Elective - Select 2**<br>选修课 - 选择 2 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Who Runs Canada? Government, Rights & Resistance**<br>谁在治理加拿大？政府、权利与抗争 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Equity, Diversity & Inclusion**<br>公平、多元与包容 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
-| **Introduction to Biology**<br>生物学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
+| **Introduction to Biology**<br>生物学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 | **Entrepreneurial Mindset**<br>创业思维 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libs) |
 
 ## Courses

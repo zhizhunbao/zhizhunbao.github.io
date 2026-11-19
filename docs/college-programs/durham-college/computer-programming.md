@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
 | **Computer Systems - Hardware**<br>计算机系统：硬件 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
 | **Data Communications and Networking 1**<br>数据通信与网络 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
 | **Mathematics for IT**<br>IT数学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
 | **Object-Oriented Programming 1**<br>面向对象编程 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |
 | **General Elective - Course Placeholder**<br>通识选修课 - 课程占位 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-two-year) |

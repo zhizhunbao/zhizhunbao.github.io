@@ -21,11 +21,11 @@ ms.date: 2026-11-11
 | **Contemporary Indigenous Art**<br>当代原住民艺术 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Drawing II**<br>素描 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Painting I**<br>绘画 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
-| **Introduction to Clay I**<br>黏土导论 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
+| **Introduction to Clay I**<br>黏土入门 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Painting II**<br>绘画 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
-| **Introduction to Clay II**<br>黏土导论 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
+| **Introduction to Clay II**<br>黏土入门 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Advanced Indigenous Design**<br>高级原住民设计 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
-| **Intro to Printmaking**<br>版画导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
+| **Intro to Printmaking**<br>版画入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Primitivism, Cultural Appropriation and Copyright in Art**<br>原始主义、文化挪用与艺术版权 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Survey of Western Art I**<br>西方艺术概览 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Survey of Western Art II**<br>西方艺术概览 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
@@ -50,8 +50,8 @@ ms.date: 2026-11-11
 | **Indigenous Women Writers**<br>原住民女作家 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Oral Narratives**<br>口头叙事 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Images of the “Indian”: Indigenous People in Cinema**<br>“印第安人”的形象：电影中的原住民 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
-| **Introduction to Theatre**<br>戏剧导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
-| **Introduction to Stage Performance**<br>舞台表演导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
+| **Introduction to Theatre**<br>戏剧入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
+| **Introduction to Stage Performance**<br>舞台表演入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Character Study**<br>角色研究 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **From Page to Playhouse: Shakespeare for Actors**<br>从书页到剧场：演员的莎士比亚 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Theatre and Identity**<br>戏剧与身份 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
@@ -86,7 +86,7 @@ ms.date: 2026-11-11
 | **Post-Tonal Theory and Analysis**<br>后调性理论与分析 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **History of Music Since 1900**<br>1900 年以来的音乐史 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Philosophical Perspectives on Music**<br>音乐的哲学视角 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
-| **Intro. to Electroacoustic Music**<br>电子声学音乐导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
+| **Intro. to Electroacoustic Music**<br>电子声学音乐入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Electroacoustic Composition**<br>电子声学作曲 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Foundations of Music Education I**<br>音乐教育基础 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |
 | **Foundations of Music Education II**<br>音乐教育基础 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=107) |

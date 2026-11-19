@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Principles of Programming**<br>程序设计原理 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Circuits and Waves**<br>电路与波 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
-| **Introduction to Circuit Analysis**<br>电路分析导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
+| **Introduction to Circuit Analysis**<br>电路分析入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Electronic Devices and Circuits I**<br>电子器件与电路 I | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Engineering: Communications and Social Impact**<br>工程：沟通与社会影响 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Engineering Mathematics III**<br>工程数学 III | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Digital Systems Design**<br>数字系统设计 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Computer Systems Integration Project**<br>计算机系统集成项目 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Algorithm Design and Analysis**<br>算法设计与分析 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
-| **Introduction to Control Systems**<br>控制系统导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
+| **Introduction to Control Systems**<br>控制系统入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Electronic Devices and Circuits II**<br>电子器件与电路 II | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Signal & Systems**<br>信号与系统 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |
 | **Advanced Probability and Random Processes**<br>高等概率与随机过程 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33016) |

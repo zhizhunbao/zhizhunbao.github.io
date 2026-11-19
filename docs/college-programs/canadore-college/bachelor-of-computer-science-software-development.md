@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Programming Principles**<br>编程原理 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/bachelor-of-computer-science-software-development) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/bachelor-of-computer-science-software-development) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/bachelor-of-computer-science-software-development) |
-| **Introduction to Computer Networks**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/bachelor-of-computer-science-software-development) |
+| **Introduction to Computer Networks**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/bachelor-of-computer-science-software-development) |
 | **Breadth Elective I**<br>广度选修课 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/bachelor-of-computer-science-software-development) |
 | **Object Oriented Theory and Programming**<br>面向对象理论与编程 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/bachelor-of-computer-science-software-development) |
 | **Discrete Mathematics for Software Development**<br>软件开发离散数学 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/bachelor-of-computer-science-software-development) |

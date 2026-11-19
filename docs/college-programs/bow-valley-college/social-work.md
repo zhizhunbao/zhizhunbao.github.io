@@ -11,19 +11,19 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Social Work**<br>社会工作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Social Work Practicum Prep I**<br>社会工作实习准备 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Health, Wellness, and Professional Practice in Canada’s Health Care System**<br>加拿大医疗体系中的健康、福祉与专业实践 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Literature and Society**<br>文学与社会 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
-| **Introduction to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
+| **Introduction to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Foundations of Social Work Practice**<br>社会工作实务基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Human Growth And Development Across The Life Span**<br>全生命周期人类成长与发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Social Work Practicum Prep II**<br>社会工作实习准备 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Assessment and Interviewing**<br>评估与访谈 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Finding Resiliency in Anti-Oppressive Practice**<br>在反压迫实践中寻找韧性 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Social Work Practicum I**<br>社会工作实习 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Canadian Politics: Institutions and Issues**<br>加拿大政治：制度与议题 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Social Work with Groups**<br>团体社会工作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Social Work with Families**<br>家庭社会工作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Mental Health and Addiction in Social Work Practice**<br>社会工作实践中的精神健康与成瘾 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Violence and Trauma**<br>暴力与创伤 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |
 | **Policy and Practice in Social Work**<br>社会工作中的政策与实践 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/social-work) |

@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business**<br>商务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Accounting Concepts I**<br>会计概念 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
-| **Introduction To Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
+| **Introduction To Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Mathematics Of Personal Finance**<br>个人理财数学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
-| **Introduction To Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
+| **Introduction To Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Accounting Concepts II**<br>会计概念 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Macro Economics**<br>宏观经济学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
-| **Introduction To Canadian Marketing**<br>加拿大市场营销导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
+| **Introduction To Canadian Marketing**<br>加拿大市场营销入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Statistical Concepts**<br>统计学概念 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |
 | **Business Communications II**<br>商务沟通 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business) |

@@ -13,16 +13,16 @@ ms.date: 2026-11-08
 | **General Arts and Sciences (GASC)**<br>文理通识 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Literature and Society**<br>文学与社会 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Canadian Studies**<br>加拿大研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Canadian Studies**<br>加拿大研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Canadian Politics: Institutions and Issues**<br>加拿大政治：制度与议题 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Sociology of the Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **The Organization and Diversity of Life**<br>生命的组织与多样性 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Fundamentals of Bioenergetics**<br>生物能量学基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
@@ -30,12 +30,12 @@ ms.date: 2026-11-08
 | **General Chemistry: Structure and Bonding**<br>普通化学：结构与键合 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **General Chemistry: Change and Equilibrium**<br>普通化学：变化与平衡 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Topics in Film Genre**<br>电影类型专题 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Statistics I**<br>统计学导论 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Statistics II**<br>统计学导论 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Statistics I**<br>统计学入门 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Statistics II**<br>统计学入门 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Introductory Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Introductory Calculus II**<br>微积分入门 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Linear Methods I**<br>线性方法 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Modern Physics**<br>近代物理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-08
 | **Psychopathology**<br>精神病理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Sociology of Health and Illness**<br>健康与疾病社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Sociology of Death and Dying**<br>死亡与临终社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
-| **Introduction to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
+| **Introduction to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Capstone Project for General Arts and Sciences**<br>文理通识毕业设计项目 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-certificate) |
 

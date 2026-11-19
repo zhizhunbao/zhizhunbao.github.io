@@ -16,16 +16,16 @@ ms.date: 2026-11-08
 | **Basic Microbiology**<br>基础微生物学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Human Anatomy & Physiology I**<br>人体解剖学与生理学 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Human Anatomy & Physiology II**<br>人体解剖学与生理学 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
-| **Intro to Health Assessment**<br>健康评估导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
+| **Intro to Health Assessment**<br>健康评估入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Pathophysiological Concepts**<br>病理生理学概念 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Health Promotion in Families**<br>家庭健康促进 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Healing Modalities**<br>疗愈方式 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
-| **Introduction to First Nations**<br>原住民导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
+| **Introduction to First Nations**<br>原住民入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Basic Nutrition**<br>基础营养学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Care of the Adult**<br>成人护理 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Clinical Practicum I**<br>临床实习 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Cultural Anthropology**<br>文化人类学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Elementary Statistics**<br>初等统计学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/nursing-baccalaureate) |
 

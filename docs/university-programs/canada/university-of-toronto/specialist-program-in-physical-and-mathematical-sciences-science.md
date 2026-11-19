@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **SPECIALIST PROGRAM IN PHYSICAL AND MATHEMATICAL SCIENCES (SCIENCE)**<br>物理与数学科学专精项目（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Introductory Chemistry I: Structure and Bonding**<br>化学入门 I：结构与成键 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Introductory Chemistry II: Reactions and Mechanisms**<br>化学入门 II：反应与机理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **Introduction to Computer Science I**<br>计算机科学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **Introduction to Computer Science I**<br>计算机科学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Calculus I for Mathematical Sciences**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Linear Algebra I for Mathematical Sciences**<br>数学科学线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Techniques of the Calculus of Several Variables II**<br>多变量微积分技巧 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Differential Equations I**<br>微分方程 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Intermediate Physics Laboratory I**<br>中级物理实验 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **Introduction to Quantum Physics**<br>量子物理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **Introduction to Quantum Physics**<br>量子物理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Thermal Physics**<br>热物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Astrophysics of Stars, Galaxies and the Universe**<br>恒星、星系与宇宙天体物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
@@ -37,16 +37,16 @@ ms.date: 2026-11-11
 | **Chemical Structure and Spectroscopy**<br>化学结构与波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Linear Programming and Optimization**<br>线性规划与优化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Mechanics: From Oscillations to Chaos**<br>力学：从振荡到混沌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **An Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **Introduction to Applied Probability**<br>应用概率导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **An Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **Introduction to Applied Probability**<br>应用概率入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Astrophysics of Planetary Systems**<br>行星系统天体物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **Introduction to Numerical Algorithms for Computational Mathematics**<br>计算数学的数值算法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **Introduction to Numerical Algorithms for Computational Mathematics**<br>计算数学的数值算法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Analysis of Numerical Algorithms for Computational Mathematics**<br>计算数学的数值算法分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Differential Equations II**<br>微分方程 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Intermediate Physics Laboratory II**<br>中级物理实验 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **Introduction to Atmospheric Physics**<br>大气物理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **Introduction to Atmospheric Physics**<br>大气物理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Electromagnetic Theory**<br>电磁理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Quantum Mechanics I**<br>量子力学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-11
 | **Extended Research Project in Physics and Astrophysics**<br>物理与天体物理扩展研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Supervised Reading in Physics and Astrophysics**<br>物理与天体物理学指导阅读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Planetary Geophysics**<br>行星地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
-| **Introduction to Fluid Mechanics**<br>流体力学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
+| **Introduction to Fluid Mechanics**<br>流体力学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Nonlinear Systems and Chaos**<br>非线性系统与混沌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Advanced Computational Methods in Physics**<br>物理学高级计算方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |
 | **Current Questions in Mathematics and Science**<br>数学与科学的当前问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1660) |

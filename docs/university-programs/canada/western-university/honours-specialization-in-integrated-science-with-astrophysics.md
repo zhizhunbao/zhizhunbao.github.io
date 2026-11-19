@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL STRUCTURE**<br>探索化学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I FOR THE MATHEMATICAL SCIENCES**<br>数学科学线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **WHAT SCIENTISTS DO**<br>科学家做什么 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
@@ -29,21 +29,21 @@ ms.date: 2026-11-11
 | **MODERN SURVIVAL SKILLS I: CODING ESSENTIALS**<br>现代生存技能 I：编程基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SIMULATIONS IN PHYSICS**<br>物理学中的计算机模拟 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **EINSTEIN FOR EVERYONE**<br>人人爱因斯坦 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ENVIRONMENTAL PHILOSOPHY**<br>环境哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ENVIRONMENTAL PHILOSOPHY**<br>环境哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **NATURE, ECOLOGY AND THE FUTURE**<br>自然、生态与未来 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY AND ARTIFICIAL INTELLIGENCE**<br>哲学与人工智能 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **ETHICS FOR A DIGITAL WORLD**<br>数字世界的伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE PHILOSOPHY OF FOOD**<br>食物哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE PHILOSOPHY OF FOOD**<br>食物哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF THE EARTH**<br>地球哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **CONCEPTUAL DEVELOPMENT OF MATHEMATICS**<br>数学的概念发展 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHILOSOPHY OF SCIENCE**<br>科学哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHILOSOPHY OF SCIENCE**<br>科学哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF MODERN PHYSICS**<br>现代物理学哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **THE DARWINIAN REVOLUTION**<br>达尔文革命 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **SUSTAINABILITY: A PHILOSOPHICAL PERSPECTIVE**<br>可持续性：哲学视角 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY AND CLIMATE CHANGE**<br>哲学与气候变化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **SCIENCE, TECHNOLOGY AND SOCIETY**<br>科学、技术与社会 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **PROJECT MANAGEMENT FOR THE SCIENCES**<br>科学项目管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUSINESS**<br>商业导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUSINESS**<br>商业入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS BASICS FOR THE SCIENCES**<br>理科商业基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE CALCULUS II**<br>中级微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
@@ -54,13 +54,13 @@ ms.date: 2026-11-11
 | **SENIOR PHYSICS LABORATORY**<br>高年级物理实验 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **QUANTUM PHYSICS II**<br>量子物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE PHYSICS**<br>中级物理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO QUANTUM MECHANICS**<br>量子力学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO QUANTUM MECHANICS**<br>量子力学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **OSCILLATIONS AND WAVES**<br>振动与波 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICAL MEASUREMENT**<br>物理测量导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICAL MEASUREMENT**<br>物理测量入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **CLASSICAL MECHANICS I**<br>经典力学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **QUANTUM MECHANICS 1**<br>量子力学 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **ELECTROMAGNETIC THEORY I**<br>电磁理论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THERMAL PHYSICS**<br>热物理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THERMAL PHYSICS**<br>热物理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **ELECTROMAGNETIC THEORY II**<br>电磁理论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **PLANETARY SYSTEMS**<br>行星系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |
 | **OBSERVING THE STARS**<br>观星 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21636&SelectedCalendar=Live&ArchiveID=) |

@@ -25,14 +25,14 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  | Certificate in Music Entrepreneurship (1.5 FCE) | MMU400H1 | Starting a Music Enterprise | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
-|  | Two of the courses below, one of which must be at the 300- or 400-level | MMU130H1 | Building the Creative Path | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
-|  | Two of the courses below, one of which must be at the 300- or 400-level | MMU200H1 | Creative Identities in Music I | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
-|  | Two of the courses below, one of which must be at the 300- or 400-level | MMU201H1 | Creative Identities in Music II | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
-|  | Two of the courses below, one of which must be at the 300- or 400-level | MMU300H1 | Fundamentals of Music Finance | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
-|  | Two of the courses below, one of which must be at the 300- or 400-level | PMU401H1 | The Business of Music | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
-|  | Two of the courses below, one of which must be at the 300- or 400-level | PMU407H1 | The 21st Century Creative Performer: An Interdisciplinary Inquiry to Performance and Performance Practice | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
-|  | Two of the courses below, one of which must be at the 300- or 400-level | PMU408H1 | Performing as a Freelance Artist in North America | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
-|  | Two of the courses below, one of which must be at the 300- or 400-level |  | Other related courses may be approved |  | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
+|  | Certificate in Music Entrepreneurship (1.5 FCE); Two of the courses below, one of which must be at the 300- or 400-level | MMU130H1 | Building the Creative Path | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
+|  | Certificate in Music Entrepreneurship (1.5 FCE); Two of the courses below, one of which must be at the 300- or 400-level | MMU200H1 | Creative Identities in Music I | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
+|  | Certificate in Music Entrepreneurship (1.5 FCE); Two of the courses below, one of which must be at the 300- or 400-level | MMU201H1 | Creative Identities in Music II | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
+|  | Certificate in Music Entrepreneurship (1.5 FCE); Two of the courses below, one of which must be at the 300- or 400-level | MMU300H1 | Fundamentals of Music Finance | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
+|  | Certificate in Music Entrepreneurship (1.5 FCE); Two of the courses below, one of which must be at the 300- or 400-level | PMU401H1 | The Business of Music | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
+|  | Certificate in Music Entrepreneurship (1.5 FCE); Two of the courses below, one of which must be at the 300- or 400-level | PMU407H1 | The 21st Century Creative Performer: An Interdisciplinary Inquiry to Performance and Performance Practice | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
+|  | Certificate in Music Entrepreneurship (1.5 FCE); Two of the courses below, one of which must be at the 300- or 400-level | PMU408H1 | Performing as a Freelance Artist in North America | 0.5 | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
+|  | Certificate in Music Entrepreneurship (1.5 FCE); Two of the courses below, one of which must be at the 300- or 400-level |  | Other related courses may be approved |  | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERMUEN) |
 
 ## References
 

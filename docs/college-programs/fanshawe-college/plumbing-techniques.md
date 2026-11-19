@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Plumbing Techniques**<br>管道技能 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/programs/plq1-plumbing-techniques) |
-| **Plumbing Theory 1-Intro**<br>水管工程理论 1 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/275770/courses-next/) |
+| **Plumbing Theory 1-Intro**<br>水管工程理论 1 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/275770/courses-next/) |
 | **Tools & Piping Methods 1**<br>工具与管道方法 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/275770/courses-next/) |
 | **Trade Documentation 1**<br>行业文件 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/275770/courses-next/) |
 | **Trade Calculations 1**<br>行业计算 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/275770/courses-next/) |

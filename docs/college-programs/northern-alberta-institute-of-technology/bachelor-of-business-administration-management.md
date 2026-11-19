@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Business Administration - Management**<br>工商管理学士－管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Introductory Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Fundamentals of Human Resources Management**<br>人力资源管理基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Business Productivity Software**<br>商务生产力软件 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Communications 1**<br>沟通 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Managing Business Information Technologies**<br>商务信息技术管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
@@ -61,7 +61,7 @@ ms.date: 2026-11-08
 | **Entrepreneurial Management**<br>创业管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Business to Business**<br>企业对企业 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Professional Selling Principles**<br>专业销售原理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
-| **Introduction to Auditing**<br>审计学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
+| **Introduction to Auditing**<br>审计学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Taxation 2**<br>税务 2 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Business and Its Environment**<br>商业及其环境 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |
 | **Economic History**<br>经济史 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/bba-management) |

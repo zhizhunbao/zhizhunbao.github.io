@@ -21,11 +21,11 @@ ms.date: 2026-11-08
 | **Database & Advanced Excel Concepts**<br>数据库与高级Excel概念 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
 | **Communications 2**<br>沟通 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
-| **Introduction to Management Fundamentals**<br>管理基础导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
+| **Introduction to Management Fundamentals**<br>管理基础入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
 | **Quantitative Methods I**<br>定量方法 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
 | **Accounting Concepts II**<br>会计概念 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
 | **Global Business Environment**<br>全球商业环境 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
-| **Introduction to Finance**<br>金融导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
+| **Introduction to Finance**<br>金融入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
 | **Material and Operations Management**<br>物料与运营管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216L01FWO.pdf) |

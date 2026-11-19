@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Licentiate in Law (LLL)**<br>法学学士（LLL） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
-| **Compétences des juristes I : Introduction au droit**<br>法律人技能 I：法律导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
+| **Compétences des juristes I : Introduction au droit**<br>法律人技能 I：法律入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
 | **Droit, histoire et société**<br>法律、历史与社会 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
 | **Droit des personnes et de la famille**<br>人身与家庭法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
 | **Droit des biens**<br>财产法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Droits et libertés**<br>权利与自由 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
 | **Introduction au droit judiciaire**<br>司法程序法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
 | **Droit des obligations III : Exécution, transfert et extinction des obligations**<br>债法 III：债的履行、转让与消灭 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
-| **Compétences des juristes III : Introduction au règlement des différends**<br>法律人技能 III：争议解决导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
+| **Compétences des juristes III : Introduction au règlement des différends**<br>法律人技能 III：争议解决入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
 | **Droit international privé**<br>国际私法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
 | **Transactions commerciales internationales**<br>国际商事交易 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |
 | **Droit des organisations internationales**<br>国际组织法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/licentiate-law-lll/) |

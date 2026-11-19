@@ -43,7 +43,7 @@ ms.date: 2026-11-08
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/business-administration-diploma) |
 | **Small Business Management**<br>小企业管理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/business-administration-diploma) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/business-administration-diploma) |
-| **Introduction to Marketing Research**<br>市场调研导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/business-administration-diploma) |
+| **Introduction to Marketing Research**<br>市场调研入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/business-administration-diploma) |
 | **Digital Marketing**<br>数字营销 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/business-administration-diploma) |
 | **Selected Topics: Marketing**<br>专题：市场营销 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/business-administration-diploma) |
 | **Advertising and Marketing Communications**<br>广告与营销传播 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/business-administration-diploma) |

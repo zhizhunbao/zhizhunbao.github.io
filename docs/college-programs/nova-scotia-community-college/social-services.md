@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Social Services**<br>社会服务 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Writing Skills for Social Service Practice I**<br>社会服务实践写作技能 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Social Service Counselling Skills**<br>社会服务咨询技能 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Foundations of Social Service Practice**<br>社会服务实践基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Reflective Practice and Interpersonal Insights**<br>反思性实践与人际洞察 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
@@ -28,12 +28,12 @@ ms.date: 2026-11-08
 | **Behavioural Learning Principles and Strategies**<br>行为学习原理与策略 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Writing Skills for Social Service Practice II**<br>社会服务实践写作技能 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Grief and Loss**<br>悲伤与丧失 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
-| **Introduction to Disability Studies**<br>残障研究导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
+| **Introduction to Disability Studies**<br>残障研究入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Group Facilitation**<br>团体引导 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
-| **Introduction to Grant Proposal Writing**<br>资助申请书写作导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
+| **Introduction to Grant Proposal Writing**<br>资助申请书写作入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Reflective Practice and Professional Interviews**<br>反思性实践与专业访谈 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
-| **Introduction to Addictions**<br>成瘾导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
+| **Introduction to Addictions**<br>成瘾入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Leadership, Resilience, and Advocacy**<br>领导力、韧性与倡导 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |
 | **Practicum II**<br>实习 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/social-services) |

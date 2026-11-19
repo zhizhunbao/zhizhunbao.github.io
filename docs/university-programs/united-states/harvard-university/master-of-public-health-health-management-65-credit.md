@@ -1,10 +1,10 @@
 ---
-title: "3.1.74 Master of Public Health – Health Management (65-credit)"
+title: "4.1.74 Master of Public Health – Health Management (65-credit)"
 description: "University Programs > United States > Harvard University > Master of Public Health – Health Management (65-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.74 Master of Public Health – Health Management (65-credit)
+# 4.1.74 Master of Public Health – Health Management (65-credit)
 
 ## Glossary
 

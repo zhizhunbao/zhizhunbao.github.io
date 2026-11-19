@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geographic Information Systems (Co-op and Non Co-op Version)**<br>地理信息系统（带薪实习与非带薪实习版） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/sat/program/geographic-information-systems/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
 | **GIS Foundation Skills**<br>GIS 基础技能 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
 | **Spatial Data and Data Collection**<br>空间数据与数据采集 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
 | **Statistics and Data Representation**<br>统计与数据表示 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
 | **Database Design and Management**<br>数据库设计与管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
 | **Cooperative Education and Job Readiness**<br>合作教育与就业准备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
-| **Introduction to Remote Sensing**<br>遥感导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
+| **Introduction to Remote Sensing**<br>遥感入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
 | **Digital Map Compilation**<br>数字地图编制 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
 | **GIS Programming 1**<br>GIS 编程 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |
 | **Cartographic Design and Visualization**<br>地图设计与可视化 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1588X03FWO.pdf) |

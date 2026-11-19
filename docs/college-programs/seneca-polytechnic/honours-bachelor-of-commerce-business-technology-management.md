@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Commerce – Business Technology Management**<br>商学荣誉学士：商业技术管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM.html) |
-| **Introduction to Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
+| **Introduction to Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
-| **Introduction to Information Systems and Society**<br>信息系统与社会导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
-| **Introduction to IT Infrastructure**<br>IT基础设施导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
+| **Introduction to Information Systems and Society**<br>信息系统与社会入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
+| **Introduction to IT Infrastructure**<br>IT基础设施入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
 | **Structured and Unstructured Data Management**<br>结构化与非结构化数据管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
 | **Applied Communication for Business and Industry**<br>商业与行业应用沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
-| **Introduction to Business Law**<br>商法导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
+| **Introduction to Business Law**<br>商法入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
 | **Quantitative Decision Making**<br>定量决策 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
 | **Business Systems Analysis and Design**<br>业务系统分析与设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |
 | **Micro Economics - Theory and Practice**<br>微观经济学 - 理论与实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTM/courses.html) |

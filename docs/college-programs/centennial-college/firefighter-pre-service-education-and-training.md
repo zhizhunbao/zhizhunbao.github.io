@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Firefighter - Pre-Service Education and Training**<br>消防员 - 职前教育与培训 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/firefighter-preservice-education-training) |
-| **Introduction to Fire Service**<br>消防服务导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/firefighter-preservice-education-training) |
+| **Introduction to Fire Service**<br>消防服务入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/firefighter-preservice-education-training) |
 | **Fire Ground Operations**<br>火场作业 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/firefighter-preservice-education-training) |
 | **Fire Suppression**<br>灭火 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/firefighter-preservice-education-training) |
 | **Fitness**<br>健身 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/firefighter-preservice-education-training) |

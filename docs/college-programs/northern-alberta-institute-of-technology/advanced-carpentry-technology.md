@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Advanced Carpentry Technology**<br>高级木工技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Plans and Estimating**<br>图纸与估算 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
-| **Introduction to Building Materials and Floor Frame Systems**<br>建筑材料与楼板框架系统导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
+| **Introduction to Building Materials and Floor Frame Systems**<br>建筑材料与楼板框架系统入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Safety and Communication**<br>安全与沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Residential Site Preparation, Building Layout and Foundations**<br>住宅场地准备、建筑放线与基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
-| **Introduction to Carpentry-Related Tools**<br>木工相关工具导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
+| **Introduction to Carpentry-Related Tools**<br>木工相关工具入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Residential Wall Systems**<br>住宅墙体系统 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Residential Estimating and Drawing Interpretation**<br>住宅估算与图纸识读 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Residential Roof Framing Systems**<br>住宅屋顶框架系统 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
-| **Introduction to Building Envelope**<br>建筑围护结构导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
+| **Introduction to Building Envelope**<br>建筑围护结构入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Single and Multi-flight Residential Stairs**<br>单跑与多跑住宅楼梯 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Concrete Design**<br>混凝土设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |
 | **Commercial Drawings and Estimating**<br>商业图纸与估算 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/advanced-carpentry-technology) |

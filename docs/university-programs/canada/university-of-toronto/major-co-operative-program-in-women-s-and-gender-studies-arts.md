@@ -11,9 +11,76 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR (CO-OPERATIVE) PROGRAM IN WOMEN'S AND GENDER STUDIES (ARTS)**<br>女性与性别研究主修项目（合作教育）（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
-| **Introduction to Women's and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
-| **Introduction to Feminist Theories and Thought**<br>女性主义理论与思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Introduction to Women's and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Introduction to Feminist Theories and Thought**<br>女性主义理论与思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
 | **Power in Knowledge Production**<br>知识生产中的权力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Intersections of Inequality**<br>不平等的交叉 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Feminist Qualitative Research in Action**<br>行动中的女性主义定性研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Feminist Perspectives on Sex, Gender and the Body**<br>性、性别与身体的女性主义视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Critical Perspectives on Gender and Human Rights**<br>性别与人权的批判视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Abolition Feminisms: Rethinking Violence, Punishment and Safety**<br>废除主义女性主义：反思暴力、惩罚与安全 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Race, Gender, and Islamophobia**<br>种族、性别与伊斯兰恐惧症 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Creating Stories for Social Change**<br>为社会变革创作故事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Ready for Research: HCS Skills Lab**<br>研究准备：HCS 技能实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Research Practicum in Historical and Cultural Studies**<br>历史与文化研究的研究实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Women in Diaspora**<br>离散中的妇女 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender, Race, and Colonialism**<br>性别、种族与殖民主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Women, Power and Protest: Transnational Perspectives**<br>妇女、权力与抗议：跨国视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender-based Violence and Resistance**<br>基于性别的暴力与抵抗 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Feminist Critiques of Media and Culture**<br>媒体与文化的女性主义批判 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Women, Gender, and the Environment**<br>妇女、性别与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **From Freedom Runners to #BlackLivesMatter: Histories of Black Feminism in Canada**<br>从自由奔跑者到 #BlackLivesMatter：加拿大黑人女性主义史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Black Radical Thought**<br>黑人激进思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **LGBTQ History, Theory and Activism**<br>LGBTQ历史、理论与行动主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender and Critical Development**<br>性别与批判发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Writing the Self: Global Women's Autobiographies**<br>书写自我：全球女性自传 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Women, Gender and Islam**<br>妇女、性别与伊斯兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **The Gender Politics of Policy Change**<br>政策变革的性别政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender, Justice and the Law**<br>性别、正义与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender, Race and the Law**<br>性别、种族与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender and Film**<br>性别与电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Community Engagement Practicum**<br>社区参与实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender in the Kitchen**<br>厨房里的性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Transnational Queer Sexualities**<br>跨国酷儿性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Critical Race and Black Feminist Theories**<br>批判种族与黑人女性主义理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Language and Gender**<br>语言与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Special Topics in Women's and Gender Studies**<br>妇女与性别研究专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender and Disability**<br>性别与残障 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Independent Project in Women's and Gender Studies**<br>妇女与性别研究独立项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Socialist Feminism in Global Context**<br>全球语境下的社会主义女性主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender and Techno-Orientalism**<br>性别与技术东方主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Selected Topics in Canadian Women's History**<br>加拿大妇女史专题选讲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **The Body in Culture and Society**<br>文化与社会中的身体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Women and Power in Africa**<br>非洲的妇女与权力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Feminism and Anthropology**<br>女性主义与人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Genders and Sexualities**<br>性别与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Women and Literature: Forging a Tradition**<br>妇女与文学：开创传统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender and Genre**<br>性别与体裁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **The Body in Literature and Film**<br>文学与电影中的身体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Early Modern Women and Literature, 1500-1700**<br>1500-1700 年近代早期妇女与文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Contemporary Arab Women Writers**<br>当代阿拉伯女作家 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Women and Canadian Writing**<br>妇女与加拿大文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender and Social Institutions in Asia**<br>亚洲的性别与社会制度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gendering Global Asia**<br>亚洲全球化的性别视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Advanced Seminar: Social Change and Gender Relations in Chinese Societies**<br>高级研讨课：华人社会的社会变迁与性别关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Feminist Geographies**<br>女性主义地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Health and Sexuality**<br>健康与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Immigrants and Race Relations in Canadian History**<br>加拿大历史中的移民与种族关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Black Women in Canadian History**<br>加拿大史上的黑人女性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Women and Health: Past and Present**<br>妇女与健康：过去与现在 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Globalization, Gender, and Health**<br>全球化、性别与健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Feminist and Postcolonial Perspectives in Development Studies**<br>发展研究中的女性主义与后殖民视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Diversity in the Workplace**<br>职场多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Philosophy and Feminism**<br>哲学与女性主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Feminist Political Thought**<br>女性主义政治思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Globalization, Gender and Development**<br>全球化、性别与发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Psychology of Gender**<br>性别心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Sociology of Gender**<br>性别社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Sociology of Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Sociology of Gender and Work**<br>性别与工作社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Changing Family Life in Canada**<br>加拿大不断变化的家庭生活 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Family and Gender in the Middle East**<br>中东的家庭与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+| **Gender and Education**<br>性别与教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
 | **Becoming Job Search Ready: Arts Co-op**<br>为求职做好准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
 | **Finding Your First Work Term and Getting Workplace Ready: Arts Co-op**<br>寻找首个工作学期并做好职场准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
@@ -29,6 +96,92 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTA01H3 | Introduction to Women's and Gender Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTA03H3 | Introduction to Feminist Theories and Thought | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB05H3 | Power in Knowledge Production | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB11H3 | Intersections of Inequality | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC02H3 | Feminist Qualitative Research in Action | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD03H3 | Feminist Perspectives on Sex, Gender and the Body | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following (or) | WSTD04H3 | Critical Perspectives on Gender and Human Rights | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following (or) | WSTD08H3 | Abolition Feminisms: Rethinking Violence, Punishment and Safety | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following (or) | WSTD09H3 | Race, Gender, and Islamophobia | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following (or) | WSTD10H3 | Creating Stories for Social Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | HCSB03H3 | Ready for Research: HCS Skills Lab | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | HCSB04H3 | Research Practicum in Historical and Cultural Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB06H3 | Women in Diaspora | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB09H3 | Gender, Race, and Colonialism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB10H3 | Women, Power and Protest: Transnational Perspectives | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB12H3 | Gender-based Violence and Resistance | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB13H3 | Feminist Critiques of Media and Culture | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB20H3 | Women, Gender, and the Environment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB22H3 | From Freedom Runners to #BlackLivesMatter: Histories of Black Feminism in Canada | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | HISB22H3 | From Freedom Runners to #BlackLivesMatter: Histories of Black Feminism in Canada | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB23H3 | Black Radical Thought | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTB25H3 | LGBTQ History, Theory and Activism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC10H3 | Gender and Critical Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | AFSC53H3 |  | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC12H3 | Writing the Self: Global Women's Autobiographies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC13H3 | Women, Gender and Islam | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC14H3 | The Gender Politics of Policy Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC16H3 | Gender, Justice and the Law | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC21H3 | Gender, Race and the Law | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC22H3 | Gender and Film | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC23H3 | Community Engagement Practicum | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC24H3 | Gender in the Kitchen | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC25H3 | Transnational Queer Sexualities | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC26H3 | Critical Race and Black Feminist Theories | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC28H3 | Language and Gender | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | LINC28H3 | Language and Gender | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC30H3 | Special Topics in Women's and Gender Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC31H3 | Special Topics in Women's and Gender Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTC40H3 | Gender and Disability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following |  | (WSTC66H3)/(HISC66H3) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD01H3 | Independent Project in Women's and Gender Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD03H3 | Feminist Perspectives on Sex, Gender and the Body | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD04H3 | Critical Perspectives on Gender and Human Rights | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD08H3 | Abolition Feminisms: Rethinking Violence, Punishment and Safety | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD09H3 | Race, Gender, and Islamophobia | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD10H3 | Creating Stories for Social Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD11H3 | Special Topics in Women's and Gender Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD16H3 | Socialist Feminism in Global Context | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | HISD16H3 | Socialist Feminism in Global Context | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD30H3 | Gender and Techno-Orientalism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | GASD30H3 | Gender and Techno-Orientalism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | WSTD46H3 | Selected Topics in Canadian Women's History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 1. 1.0 credit from the following | HISD46H3 | Selected Topics in Canadian Women's History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | ANTB02H3 | The Body in Culture and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below; AFSC97H3)/(HISC97H3) (or) | WSTC97H3 | Women and Power in Africa | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | ANTC14H3 | Feminism and Anthropology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | ANTC15H3 | Genders and Sexualities | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | ENGB50H3 | Women and Literature: Forging a Tradition | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below; [(ENGB51H3) (or) | ENGC54H3 | Gender and Genre | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | ENGB74H3 | The Body in Literature and Film | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below |  | (ENGC77H3)/(VPAC48H3) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | ENGC34H3 | Early Modern Women and Literature, 1500-1700 | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | ENGC51H3 | Contemporary Arab Women Writers | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | ENGD80H3 | Women and Canadian Writing | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | GASB20H3 | Gender and Social Institutions in Asia | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | GASC20H3 | Gendering Global Asia | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | GASD20H3 | Advanced Seminar: Social Change and Gender Relations in Chinese Societies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | GGRD09H3 | Feminist Geographies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | GGRD10H3 | Health and Sexuality | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | HISC45H3 | Immigrants and Race Relations in Canadian History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | HISD21H3 | Black Women in Canadian History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | HLTC02H3 | Women and Health: Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | HLTC46H3 | Globalization, Gender, and Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | IDSD06H3 | Feminist and Postcolonial Perspectives in Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | MGHC23H3 | Diversity in the Workplace | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | PHLB13H3 | Philosophy and Feminism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | POLC79H3 | Feminist Political Thought | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | POLC94H3 | Globalization, Gender and Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | PSYD18H3 | Psychology of Gender | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | SOCB22H3 | Sociology of Gender | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | SOCB49H3 | Sociology of Family | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | SOCC09H3 | Sociology of Gender and Work | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | SOCC24H3 | Changing Family Life in Canada | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | SOCC29H3 | Family and Gender in the Middle East | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below | SOCC38H3 | Gender and Education | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
+|  | Program requirements (same as SCMAJ0571G): 6. 1.0 credits from the course list below |  | (VPHB57H3) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
 |  | Academic Program Requirements |  | Students are required to complete the program requirements as described in the Major Program in Women's and Gender Studies. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0571h) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Engineering Technician**<br>计算机工程技术员 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/computer-engineering/) |
-| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/computer-engineering/) |
+| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/computer-engineering/) |
 | **Computer Concepts**<br>计算机概念 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/computer-engineering/) |
 | **Electrical I**<br>电气 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/computer-engineering/) |
 | **Mathematics I for the School of Technology Studies**<br>技术研究学院数学 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/computer-engineering/) |

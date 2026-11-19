@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Computer Systems Technician - Networking**<br>计算机系统技术员—网络 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-systems-technician-networking) |
 | **Data Fundamentals**<br>数据基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-systems-technician-networking) |
 | **Networking I**<br>网络 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-systems-technician-networking) |
-| **Introduction To Programming - JAVA**<br>编程导论 - JAVA | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-systems-technician-networking) |
+| **Introduction To Programming - JAVA**<br>编程入门 - JAVA | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-systems-technician-networking) |
 | **HTML And CSS**<br>HTML与CSS | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-systems-technician-networking) |
 | **Mathematics For Information Technology**<br>信息技术数学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-systems-technician-networking) |
 | **Law And Ethics In The Information Age**<br>信息时代的法律与伦理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-systems-technician-networking) |

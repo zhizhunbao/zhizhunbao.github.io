@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Biotechnology Technician**<br>生物技术技术员 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician) |
 | **Current Trends in Biotechnology**<br>生物技术当前趋势 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
 | **Laboratory Procedures and Safety**<br>实验室操作规程与安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
 | **Introductory Chemistry for Life Sciences**<br>生命科学化学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Algebra for the Life Sciences**<br>生命科学代数 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
 | **Introductory Analytical Chemistry**<br>分析化学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
 | **Food and Agricultural Biotechnology**<br>食品与农业生物技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
-| **Introduction to Molecular Biology**<br>分子生物学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
+| **Introduction to Molecular Biology**<br>分子生物学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
 | **Quality Management Practices**<br>质量管理实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
 | **Organic Chemistry**<br>有机化学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |
 | **Statistics for Life Sciences**<br>生命科学统计 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/biotechnology-technician/courses?id=36168) |

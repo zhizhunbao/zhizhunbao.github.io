@@ -16,13 +16,13 @@ ms.date: 2026-11-08
 | **Analytical Laboratory Skills**<br>分析实验室技能 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Applied Digital Technologies**<br>应用数字技术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
-| **Introduction to Environmental Organic Chemistry**<br>环境有机化学导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
+| **Introduction to Environmental Organic Chemistry**<br>环境有机化学入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Mathematics for Technologists**<br>技术人员数学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Environment Risk Communication**<br>环境风险沟通 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Industrial Process/Environmental Control**<br>工业过程/环境控制 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Environmental Health and Risk Assessment**<br>环境健康与风险评估 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Air Sampling & Monitoring**<br>空气采样与监测 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
-| **Remote Sensing - Introduction**<br>遥感导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
+| **Remote Sensing - Introduction**<br>遥感入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Field Safety**<br>野外安全 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Environmental Chemistry I**<br>环境化学 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |
 | **Geographical Communications**<br>地理传播 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/environmental-technology) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Community Integration Through Co-operative Education**<br>通过合作教育实现社区融入 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/community-integration-co-operative-education/) |
 | **Personal Development for School and Work**<br>学校与职场个人发展 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cice/) |
 | **Introduction to Healthy Living**<br>健康生活入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cice/) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cice/) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cice/) |
 | **Field Placement Preparation**<br>现场实习准备 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cice/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cice/) |
 | **Career Planning and Preparation**<br>职业规划与准备 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cice/) |

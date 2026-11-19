@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Science (Co-operative Education)**<br>计算机科学（带薪实习） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-co-operative-education-associate-science-degree-co-op) |
 | **Co-operative Work Placement I**<br>带薪实习 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-co-operative-education-associate-science-degree-co-op/courses) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-co-operative-education-associate-science-degree-co-op/courses) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-co-operative-education-associate-science-degree-co-op/courses) |
 | **Algorithms and Data Structures I**<br>算法与数据结构 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-co-operative-education-associate-science-degree-co-op/courses) |
 | **Object-oriented Computing**<br>面向对象计算 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-co-operative-education-associate-science-degree-co-op/courses) |
 | **Algorithms and Data Structures II**<br>算法与数据结构 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-co-operative-education-associate-science-degree-co-op/courses) |

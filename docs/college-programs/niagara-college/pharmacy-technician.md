@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Human Biology and Selected Disorders**<br>人体生物学与常见疾病 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/healthsciences/program/pharmacy-technician/) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/healthsciences/program/pharmacy-technician/) |
 | **Communication in Healthcare I**<br>医疗保健沟通 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/healthsciences/program/pharmacy-technician/) |
-| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/healthsciences/program/pharmacy-technician/) |
+| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/healthsciences/program/pharmacy-technician/) |
 | **Health Sciences Mathematics**<br>健康科学数学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/healthsciences/program/pharmacy-technician/) |
 | **Pharmacology I**<br>药理学 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/healthsciences/program/pharmacy-technician/) |
 | **Pharmacy Business Practices I**<br>药房业务实务 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/healthsciences/program/pharmacy-technician/) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Child and Youth Worker Apprenticeship**<br>儿童与青少年工作者学徒 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **College Communications 1**<br>学院交流 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
-| **Introduction to Child and Youth Care**<br>儿童与青少年关怀导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
+| **Introduction to Child and Youth Care**<br>儿童与青少年关怀入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **Childhood Disorders**<br>儿童期障碍 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **Counselling and Communications Skills**<br>咨询与沟通技能 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **Preparation for Field Placements**<br>实地实习准备 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Psychopathology in Childhood**<br>儿童心理病理学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **Group Interaction in Child and Youth Care**<br>儿童与青少年关怀中的团体互动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **Residental Treatment**<br>住宿治疗 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
-| **Introduction to Family Development**<br>家庭发展导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
+| **Introduction to Family Development**<br>家庭发展入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **Multimodal Therapies in Child and Youth Care**<br>儿童与青少年关怀中的多模式疗法 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **Psychopathology in Adolescence and Early Adulthood**<br>青少年及成年早期心理病理学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |
 | **Family Dysfunction and Therapies**<br>家庭功能失调与治疗 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care-apprenticeship) |

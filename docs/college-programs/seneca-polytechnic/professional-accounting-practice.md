@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Professional Accounting Practice**<br>专业会计实务 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA.html) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA/courses.html) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA/courses.html) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA/courses.html) |
-| **Introduction to Business Law**<br>商法导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA/courses.html) |
+| **Introduction to Business Law**<br>商法入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA/courses.html) |
 | **Finance**<br>金融 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA/courses.html) |
 | **Business Information Systems**<br>商业信息系统 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA/courses.html) |
 | **Micro Economics - Theory and Practice**<br>微观经济学 - 理论与实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRA/courses.html) |

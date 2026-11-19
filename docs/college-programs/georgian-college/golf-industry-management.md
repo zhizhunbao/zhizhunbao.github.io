@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Accounting Fundamentals**<br>会计基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/glfi/) |
 | **Customer Service**<br>客户服务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/glfi/) |
 | **Golf Operations Management**<br>高尔夫运营管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/glfi/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/glfi/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/glfi/) |
 | **Dynamic Presentations**<br>动态演示 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/glfi/) |
 | **Golf Skills Development 2**<br>高尔夫技能发展 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/glfi/) |
 | **Issues and Trends in Golf**<br>高尔夫的议题与趋势 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/glfi/) |

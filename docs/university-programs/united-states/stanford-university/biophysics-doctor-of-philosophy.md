@@ -1,10 +1,10 @@
 ---
-title: "3.3.153 Biophysics, Doctor of Philosophy"
+title: "4.3.153 Biophysics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Biophysics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.153 Biophysics, Doctor of Philosophy
+# 4.3.153 Biophysics, Doctor of Philosophy
 
 ## Glossary
 
@@ -23,7 +23,7 @@ ms.date: 2026-11-18
 | **Advanced Cell Biology**<br>高级细胞生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Microbe-Host Interactions in Health and Disease**<br>健康与疾病中的微生物与宿主相互作用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Principles of Biological Technologies**<br>生物技术原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Quantitative Evolutionary Dynamics and Genomics**<br>定量进化动力学与基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Systems Biology**<br>系统生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **MRI Spin Physics, Relaxation Theory, and Contrast Mechanisms**<br>MRI 自旋物理、弛豫理论与对比机制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
@@ -37,10 +37,10 @@ ms.date: 2026-11-18
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Classical Electrodynamics**<br>经典电动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Stochastic and Nonlinear Dynamics**<br>随机与非线性动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Quantum Field Theory I**<br>量子场论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Quantum Field Theory III**<br>量子场论 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Cellular and Molecular Immunology: An Introductory Course**<br>细胞与分子免疫学：入门课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |
 | **Fundamentals of Molecular Evolution**<br>分子演化基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biophysics/doctor-of-philosophy) |

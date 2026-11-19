@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Science in Nursing - Second Entry Program**<br>护理荣誉理学学士－二次入学项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing-second-entry-program/) |
-| **Introduction to Nursing Science**<br>护理科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing-second-entry-program/) |
-| **Introduction to Nursing Practice**<br>护理实践导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing-second-entry-program/) |
+| **Introduction to Nursing Science**<br>护理科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing-second-entry-program/) |
+| **Introduction to Nursing Practice**<br>护理实践入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing-second-entry-program/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing-second-entry-program/) |
 | **Theory in Nursing**<br>护理理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing-second-entry-program/) |
 | **Care of Adults Experiencing Illness**<br>成人疾病护理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing-second-entry-program/) |

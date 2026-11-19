@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Accident Prevention & Theory Investigation**<br>事故预防与理论调查 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OHSS) |
 | **Emergency Planning & Management**<br>应急规划与管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OHSS) |
 | **Health & Wellness**<br>健康与保健 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OHSS) |
-| **Introduction to Process Safety**<br>过程安全导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OHSS) |
+| **Introduction to Process Safety**<br>过程安全入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OHSS) |
 | **Workshop Series & Capstone**<br>工作坊系列与毕业设计项目 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OHSS) |
 | **Co-op Work Term (Full-Time)**<br>合作教育工作学期（全职） | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OHSS) |
 | **WIL Project**<br>WIL项目 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OHSS) |

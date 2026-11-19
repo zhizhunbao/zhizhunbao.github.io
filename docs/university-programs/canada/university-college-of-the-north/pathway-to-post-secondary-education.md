@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Pathway to Post-Secondary Education**<br>高等教育衔接路径 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
-| **Introduction to Academic Reading and Writing 1**<br>学术阅读与写作导论 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
-| **Introduction to Academic Reading and Writing 2**<br>学术阅读与写作导论 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
-| **Introduction to Post-Secondary Mathematics**<br>高等教育数学导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
+| **Introduction to Academic Reading and Writing 1**<br>学术阅读与写作入门 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
+| **Introduction to Academic Reading and Writing 2**<br>学术阅读与写作入门 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
+| **Introduction to Post-Secondary Mathematics**<br>高等教育数学入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
 | **Pathways to Success: Learning and Classroom Achievement 1**<br>成功之路：学习与课堂成就 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
 | **Pathways to Success: Learning and Classroom Achievement 2**<br>成功之路：学习与课堂成就 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |
 | **Pathways to Success: Setting My Own Journey 1**<br>成功之路：规划自己的旅程 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=31) |

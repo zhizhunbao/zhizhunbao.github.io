@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Paralegal - Accelerated**<br>律师助理：加速 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal-accelerated) |
 | **Legal Communication And Paralegal Practice Management I**<br>法律沟通与律师助理实务管理 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal-accelerated) |
-| **Introduction To The Legal System**<br>法律体系导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal-accelerated) |
+| **Introduction To The Legal System**<br>法律体系入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal-accelerated) |
 | **Administrative Law**<br>行政法 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal-accelerated) |
 | **Legal Research & Writing**<br>法律研究与写作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal-accelerated) |
 | **Criminal Procedures**<br>刑事程序 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/paralegal-accelerated) |

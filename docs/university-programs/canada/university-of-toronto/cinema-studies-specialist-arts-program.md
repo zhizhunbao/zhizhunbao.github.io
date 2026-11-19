@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Cinema Studies Specialist (Arts Program)**<br>电影研究专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0797) |
-| **Introduction to Film Study**<br>电影研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0797) |
+| **Introduction to Film Study**<br>电影研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0797) |
 | **Film Cultures I: Art and Industry**<br>电影文化 I：艺术与产业 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0797) |
 | **Film Cultures II: Politics and Global Media**<br>电影文化 II：政治与全球媒体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0797) |
 | **Advanced Study in Genre and Modes**<br>类型与模式高级研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0797) |

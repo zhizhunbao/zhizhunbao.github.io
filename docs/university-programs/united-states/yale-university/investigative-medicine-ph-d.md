@@ -1,10 +1,10 @@
 ---
-title: "3.4.142 Investigative Medicine (Ph.D.)"
+title: "4.4.142 Investigative Medicine (Ph.D.)"
 description: "University Programs > United States > Yale University > Investigative Medicine (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.142 Investigative Medicine (Ph.D.)
+# 4.4.142 Investigative Medicine (Ph.D.)
 
 ## Glossary
 
@@ -13,7 +13,7 @@ ms.date: 2026-11-18
 | **Investigative Medicine (Ph.D.)**<br>研究型医学（哲学博士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/investigative-medicine/) |
 | **Ethical Issues in Biomedical Research**<br>生物医学研究中的伦理问题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/investigative-medicine/) |
 | **Principles of Clinical Research**<br>临床研究原理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/investigative-medicine/) |
-| **Introduction to Biostatistics in Clinical Investigation**<br>临床研究中的生物统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/investigative-medicine/) |
+| **Introduction to Biostatistics in Clinical Investigation**<br>临床研究中的生物统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/investigative-medicine/) |
 | **Directed Reading in Investigative Medicine**<br>研究型医学指导阅读 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/investigative-medicine/) |
 | **Topics in Human Investigation**<br>人体研究专题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/investigative-medicine/) |
 | **Writing Your K- or R-Type Grant Proposal**<br>撰写K类或R类基金申请书 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/investigative-medicine/) |

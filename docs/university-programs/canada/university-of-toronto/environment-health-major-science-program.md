@@ -16,11 +16,11 @@ ms.date: 2026-11-11
 | **Chemistry: Physical Principles**<br>化学：物理原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Introductory Organic Chemistry I**<br>有机化学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Chemistry: The Molecular Science**<br>化学：分子科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
-| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
+| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Histories of Environmental Change**<br>环境变迁的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Biochemistry I: Proteins, Lipids and Metabolism**<br>生物化学 I：蛋白质、脂质与代谢 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Introductory Organic Chemistry II**<br>有机化学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
@@ -77,11 +77,11 @@ ms.date: 2026-11-11
 | **Hydrogeology**<br>水文地质学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Fundamental Immunology**<br>基础免疫学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **The Immune System in Action**<br>运作中的免疫系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
-| **Introduction to the Biochemistry of Human Disease**<br>人类疾病生物化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
+| **Introduction to the Biochemistry of Human Disease**<br>人类疾病生物化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Principles of Pathobiology**<br>病理生物学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Microbiology I: Bacteria**<br>微生物学 I：细菌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Vitamin and Mineral Metabolism Throughout the Life Cycle**<br>全生命周期的维生素与矿物质代谢 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
-| **Introduction to Food Science**<br>食品科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
+| **Introduction to Food Science**<br>食品科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Nutritional Toxicology**<br>营养毒理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Molecular Toxicology Foundations**<br>分子毒理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |
 | **Mammalian Physiology Laboratory**<br>哺乳动物生理学实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0365) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **COMPRESSED TIME FRAME BACHELOR OF SCIENCE IN NURSING PROGRAM – REGULAR STREAM**<br>压缩学制护理理学学士项目－常规路径 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21494&SelectedCalendar=Live&ArchiveID=) |
 | **COMMUNITY MODELS OF CARE**<br>社区护理模式 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21494&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HEALTH INFORMATICS WITHIN NURSING**<br>健康信息学导论（护理领域） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21494&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HEALTH INFORMATICS WITHIN NURSING**<br>健康信息学入门（护理领域） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21494&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS OF NURSING PRACTICE**<br>护理实践基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21494&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH ASSESSMENT**<br>健康评估 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21494&SelectedCalendar=Live&ArchiveID=) |
 | **PATHOPHYSIOLOGY**<br>病理生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21494&SelectedCalendar=Live&ArchiveID=) |

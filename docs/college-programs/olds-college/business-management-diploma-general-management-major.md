@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/business-management-diploma-general-management-major.html) |
 | **Small Business Finance**<br>小企业财务 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/business-management-diploma-general-management-major.html) |
 | **Marketing and Sales**<br>营销与销售 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/business-management-diploma-general-management-major.html) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/business-management-diploma-general-management-major.html) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/business-management-diploma-general-management-major.html) |
 
 ## Courses
 

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Carpentry (Optional Co-op)**<br>木工（可选带薪实习） | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
 | **Fundamentals of Site Layout**<br>场地放线基础 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
 | **Formwork Fundamentals**<br>模板工程基础 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
 | **Concrete Fundamentals**<br>混凝土基础 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Exterior Wall Covering Systems**<br>外墙覆面系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
 | **Building Science Principles and Practice**<br>建筑科学原理与实践 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
 | **Roof Coverings**<br>屋面覆盖 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
-| **Introduction to Roof Framing and Trusses**<br>屋架框架与桁架导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
+| **Introduction to Roof Framing and Trusses**<br>屋架框架与桁架入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
 | **Gable Roof Layout and Framing Practices**<br>山形屋顶放样与框架施工实践 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
 | **Co-op: Carpentry**<br>带薪实习：木工 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |
 | **Trades Math I**<br>行业数学 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=50712aed-0bf3-4e2e-b2af-b04e526e6fb8) |

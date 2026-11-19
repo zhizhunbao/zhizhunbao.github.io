@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business - Supply Chain and Operations**<br>商务 - 供应链与运营 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/programs/bls3-business-supply-chain-and-operations) |
-| **Introduction to Business Processes**<br>业务流程导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3923446/courses-next/) |
+| **Introduction to Business Processes**<br>业务流程入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3923446/courses-next/) |
 | **Principles of Accounting 1**<br>会计原理 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3923446/courses-next/) |
 | **Reason & Writing Business 1**<br>商务推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3923446/courses-next/) |
 | **Principles of Marketing 1**<br>营销原理 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3923446/courses-next/) |

@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Civil Surveying**<br>土木测量 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-municipal) |
 | **Math for Engineering & Tech I**<br>工程与技术数学 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-municipal) |
 | **Soil Mechanics**<br>土力学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-municipal) |
-| **Introduction to Civil Drafting**<br>土木制图导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-municipal) |
+| **Introduction to Civil Drafting**<br>土木制图入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-municipal) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-municipal) |
 | **Estimating I**<br>估算 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-municipal) |
 | **Strength of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-municipal) |

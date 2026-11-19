@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mechanical Technician (Optional Co-op)**<br>机械技术员（可选带薪实习） | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
-| **Introduction to Hydraulic Systems**<br>液压系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
+| **Introduction to Hydraulic Systems**<br>液压系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
 | **Pump Maintenance**<br>泵维护 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
 | **Service Prime Movers**<br>原动机维修 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
 | **Pneumatics and Vacuum Systems**<br>气动与真空系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-08
 | **Work Safely**<br>安全作业 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
 | **Rigging for Industrial Mechanics**<br>工业机械工索具 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
 | **Shop Tools and Equipment**<br>车间工具与设备 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
-| **Introduction to Industrial Mechanics Welding**<br>工业机械焊接导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
+| **Introduction to Industrial Mechanics Welding**<br>工业机械焊接入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
 | **Oxy-Fuel Processes**<br>氧燃料工艺 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
 | **Welding for the Mechanical Trades**<br>机械行业焊接 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e153aa9b-7deb-4466-8585-591d6db46588) |
 

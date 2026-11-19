@@ -1,19 +1,19 @@
 ---
-title: "3.3.120 Management Science and Engineering, Master of Science"
+title: "4.3.120 Management Science and Engineering, Master of Science"
 description: "University Programs > United States > Stanford University > Management Science and Engineering, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.120 Management Science and Engineering, Master of Science
+# 4.3.120 Management Science and Engineering, Master of Science
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Management Science and Engineering, Master of Science**<br>管理科学与工程，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
-| **Introduction to Optimization: Data Science**<br>优化导论：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
-| **Introduction to Optimization (Accelerated)**<br>优化导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
+| **Introduction to Optimization: Data Science**<br>优化入门：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
+| **Introduction to Optimization (Accelerated)**<br>优化入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Graph and Combinatorial Optimization**<br>图与组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Beyond Worst-Case Analysis**<br>超越最坏情况分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Machine Learning for Discrete Optimization**<br>离散优化的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
@@ -37,8 +37,8 @@ ms.date: 2026-11-18
 | **Organizational Behavior: Evidence in Action**<br>组织行为：行动中的证据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **The Future of Work: What Will it Mean to Build AI-Augmented Organizations?**<br>工作的未来：构建人工智能增强型组织意味着什么？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Market Design for Engineers**<br>工程师的市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
-| **Introduction to Game Theory (Accelerated)**<br>博弈论导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
+| **Introduction to Game Theory (Accelerated)**<br>博弈论入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Markov Decision Processes**<br>马尔可夫决策过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Reinforcement Learning: Behaviors and Applications**<br>强化学习：行为与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Market Design in Action**<br>市场设计实战 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
@@ -53,7 +53,7 @@ ms.date: 2026-11-18
 | **Project Course in Engineering Risk Analysis**<br>工程风险分析项目课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Foundations of Decision Analysis**<br>决策分析基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **The Ethical Analyst**<br>伦理分析师 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
-| **Introduction to Operations Management**<br>运营管理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
+| **Introduction to Operations Management**<br>运营管理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Topics in Service and Supply Chain Management**<br>服务与供应链管理专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Health Policy Modeling**<br>健康政策建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |
 | **Building and Evaluating AI Products**<br>构建与评估AI产品 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/master-of-science) |

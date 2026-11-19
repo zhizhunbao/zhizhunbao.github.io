@@ -13,7 +13,8 @@ ms.date: 2026-11-11
 | **MAJOR (CO-OPERATIVE) PROGRAM IN PHILOSOPHY (ARTS)**<br>哲学主修项目（合作教育）（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
 | **Symbolic Logic I**<br>符号逻辑 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
 | **Puzzles and Paradoxes**<br>谜题与悖论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
-| **Introduction to Mathematical Logic**<br>数理逻辑导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
+| **Introduction to Mathematical Logic**<br>数理逻辑入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
+| **Philosophical Writing and Methodology**<br>哲学写作与方法论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
 | **Becoming Job Search Ready: Arts Co-op**<br>为求职做好准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
 | **Finding Your First Work Term and Getting Workplace Ready: Arts Co-op**<br>寻找首个工作学期并做好职场准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
@@ -29,6 +30,10 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+|  | Program requirements (same as SCMAJ0231): Students must complete at least 7.0 credits in Philosophy including | PHLB50H3 | Symbolic Logic I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
+|  | Program requirements (same as SCMAJ0231): Students must complete at least 7.0 credits in Philosophy including (or) | PHLB55H3 | Puzzles and Paradoxes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
+|  | Program requirements (same as SCMAJ0231): Students must complete at least 7.0 credits in Philosophy including | MATC09H3 | Introduction to Mathematical Logic | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
+|  | Program requirements (same as SCMAJ0231): Note | PHLB99H3 | Philosophical Writing and Methodology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
 |  | Academic Program Requirements | PHLB50H3 | Symbolic Logic I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
 |  | Academic Program Requirements | PHLB55H3 | Puzzles and Paradoxes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |
 |  | Academic Program Requirements (or) | MATC09H3 | Introduction to Mathematical Logic | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0231c) |

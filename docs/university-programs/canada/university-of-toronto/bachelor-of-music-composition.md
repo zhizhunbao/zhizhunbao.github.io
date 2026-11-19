@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Music - Composition**<br>音乐学士－作曲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
-| **Introduction to Music & Society**<br>音乐与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
+| **Introduction to Music & Society**<br>音乐与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Survey of Western Music History I**<br>西方音乐史概览 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Survey of Western Music History II**<br>西方音乐史概览 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Lives in Music**<br>音乐中的生命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
@@ -21,16 +21,16 @@ ms.date: 2026-11-11
 | **Musical Skills**<br>音乐技能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Keyboard Harmony/Skills**<br>键盘和声与技能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Composition**<br>作曲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
-| **Introduction to Computer Applications in Music+++**<br>音乐中的计算机应用导论+++ | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
-| **Introduction to Composition I & II**<br>作曲导论 I 与 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
+| **Introduction to Computer Applications in Music+++**<br>音乐中的计算机应用入门+++ | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
+| **Introduction to Composition I & II**<br>作曲入门 I 与 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Orchestration**<br>配器法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Counterpoint I**<br>对位法 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Counterpoint II**<br>对位法 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Counterpoint III**<br>对位法 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 | **Conducting**<br>指挥 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
-| **Introduction to Computer Applications in Music**<br>音乐中的计算机应用导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
-| **Introduction to Composition I**<br>作曲导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
-| **Introduction to Composition II**<br>作曲导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
+| **Introduction to Computer Applications in Music**<br>音乐中的计算机应用入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
+| **Introduction to Composition I**<br>作曲入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
+| **Introduction to Composition II**<br>作曲入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPECOMP) |
 
 ## Courses
 

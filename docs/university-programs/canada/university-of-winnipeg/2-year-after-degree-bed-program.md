@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Pedagogy & Professional Practice**<br>教学法与专业实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Learning Theory**<br>学习理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Contemporary Issues in Inner-City Education (also fulfills Inclusive Ed II requirement)**<br>内城教育中的当代问题（亦满足融合教育 II 的要求） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
-| **Introduction to Indigenous Education**<br>原住民教育导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
+| **Introduction to Indigenous Education**<br>原住民教育入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Elementary (K-8) Curriculum, Instruction and Assessment: English Language Arts - 1**<br>小学（K-8）课程、教学与评估：英语语言艺术 - 1 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Elementary (K-8) Curriculum, Instruction and Assessment: English Language Arts - 2**<br>小学（K-8）课程、教学与评估：英语语言艺术 - 2 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Elementary (K-8) Curriculum, Instruction and Assessment: Mathematics - Foundational**<br>小学（K-8）课程、教学与评估：数学 - 基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **Practicum Block III - Elementary**<br>实习阶段 III：小学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Practicum Block IV - Elementary**<br>实习阶段 IV：小学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Just and Effective Schooling**<br>公正而有效的学校教育 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
-| **Introduction to Indigenous Education -**<br>原住民教育导论 - | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
+| **Introduction to Indigenous Education -**<br>原住民教育入门 - | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Classroom Management**<br>课堂管理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Senior Years (9-12) Advanced Curricular Inquiry**<br>高年级（9-12 年级）高级课程探究 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |
 | **Practicum Block I - Senior Years**<br>实习阶段 I：高年级 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=7) |

@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Financial Services - Investigation & Compliance**<br>金融服务：调查与合规 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
 | **Business Analytics**<br>商业分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
-| **Introduction to Managerial Accounting**<br>管理会计导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
+| **Introduction to Managerial Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
 | **Canadian Politics & Government**<br>加拿大政治与政府 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
-| **Introduction to Financial Services in Investigation & Compliance in Canada**<br>加拿大调查与合规中的金融服务导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
+| **Introduction to Financial Services in Investigation & Compliance in Canada**<br>加拿大调查与合规中的金融服务入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
 | **Canadian Banking**<br>加拿大银行业 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
 | **Canadian Careers in Financial Services - Investigation and Compliance**<br>加拿大金融服务职业 - 调查与合规 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
-| **Introduction to Investment Strategies in Canada**<br>加拿大投资策略导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
+| **Introduction to Investment Strategies in Canada**<br>加拿大投资策略入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
 | **Anti-Money Laundering (AML) Administration**<br>反洗钱（AML）管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
 | **AML Policies & Procedures**<br>反洗钱政策与程序 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |
 | **Regulatory Compliance Administration & Communication**<br>合规管理与沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/fsit) |

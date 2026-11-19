@@ -1,10 +1,10 @@
 ---
-title: "3.3.105 Environment and Resources, Master of Science"
+title: "4.3.105 Environment and Resources, Master of Science"
 description: "University Programs > United States > Stanford University > Environment and Resources, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.105 Environment and Resources, Master of Science
+# 4.3.105 Environment and Resources, Master of Science
 
 ## Glossary
 
@@ -103,7 +103,7 @@ ms.date: 2026-11-18
 | **Climate Models and Data**<br>气候模型与数据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Dynamics of the Atmosphere**<br>大气动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Climate Perspectives: Climate Science, Impacts, Carbon Markets, Decarbonization Models and Projects**<br>气候视角：气候科学、影响、碳市场、脱碳模型与项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Climate 101**<br>气候101 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Imagining Adaptive Societies**<br>想象适应性社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Power in the Anthropocene: Pasts, Presents, Futures**<br>人类世中的权力：过去、现在与未来 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
@@ -118,7 +118,7 @@ ms.date: 2026-11-18
 | **Transport and Mixing in Surface Water Flows**<br>地表水流中的输运与混合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Rivers, Streams, and Canals**<br>河流、溪流与运河 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Water and Sanitation in Low- and Middle-Income Countries**<br>低收入和中等收入国家的水与卫生 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Hydrologic Processes, Water Resources and Hazards**<br>水文过程、水资源与灾害 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Dams, Reservoirs, and their Sustainability**<br>水坝、水库及其可持续性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Water Resources Systems Analysis**<br>水资源系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
@@ -145,7 +145,7 @@ ms.date: 2026-11-18
 | **Catalyzing Solutions for a Sustainable Ocean: Learning with Local Communities**<br>催化可持续海洋解决方案：与当地社区共同学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Evolution of Terrestrial Ecosystems**<br>陆地生态系统的演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Conservation Biology: A Latin American Perspective**<br>保护生物学：拉丁美洲视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Introduction to Physical Oceanography**<br>物理海洋学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Introduction to Physical Oceanography**<br>物理海洋学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Coastal Contaminants**<br>海岸污染物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Remote Sensing of the Oceans**<br>海洋遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Marine Ecosystem Modeling**<br>海洋生态系统建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
@@ -153,15 +153,15 @@ ms.date: 2026-11-18
 | **Geomicrobiology**<br>地质微生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Earth and Planetary Processes and Mechanics**<br>地球与行星过程及力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Taking the Pulse of the Planet**<br>把脉地球 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Introduction to Planetary Science**<br>行星科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Introduction to Planetary Science**<br>行星科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Modeling Earth**<br>地球建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Effects of Global Change and Agriculture on Hydrology**<br>全球变化与农业对水文的影响 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Medical Anthropology**<br>医学人类学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Frugal Science**<br>节俭科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Pathogens and Disinfection**<br>病原体与消毒 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Equitable Global Partnerships in Health and Beyond**<br>健康及其他领域的公平全球伙伴关系 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Intermediate Biostatistics: Analysis of Discrete Data**<br>中级生物统计学：离散数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Regenerative Coffee: Biochar, Climate, and Health, A Human and Planetary Health Action Lab**<br>再生咖啡：生物炭、气候与健康，人类与行星健康行动实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
@@ -175,8 +175,8 @@ ms.date: 2026-11-18
 | **Materials for Sustainable Built Environments**<br>可持续建成环境材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Sustainable Development Studio**<br>可持续发展工作室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Techniques and Methods for Decarbonized and Energy Efficient Building Design**<br>脱碳节能建筑设计的技术与方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Intro to Urban Sys Engrg**<br>城市系统工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Introduction to Sensing Networks for CEE**<br>土木与环境工程传感网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Intro to Urban Sys Engrg**<br>城市系统工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Introduction to Sensing Networks for CEE**<br>土木与环境工程传感网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Building Systems Design & Analysis**<br>建筑系统设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **WindWise: CFD for civil engineers and architects**<br>WindWise：面向土木工程师与建筑师的计算流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Smart Cities & Communities: Sustainability Design Thinking**<br>智慧城市与社区：可持续性设计思维 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
@@ -184,7 +184,7 @@ ms.date: 2026-11-18
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Fundamentals of Renewable Energy Processes**<br>可再生能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Energy Equity Policy Lab**<br>能源公平政策实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
-| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
+| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Engineering Future Electricity Systems**<br>未来电力系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **Electricity Economics**<br>电力经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |
 | **The Dynamics of Wind Turbines**<br>风力涡轮机动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/master-of-science) |

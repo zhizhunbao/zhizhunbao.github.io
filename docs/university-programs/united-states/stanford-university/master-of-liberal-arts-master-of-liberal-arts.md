@@ -1,10 +1,10 @@
 ---
-title: "3.3.121 Master of Liberal Arts, Master of Liberal Arts"
+title: "4.3.121 Master of Liberal Arts, Master of Liberal Arts"
 description: "University Programs > United States > Stanford University > Master of Liberal Arts, Master of Liberal Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.121 Master of Liberal Arts, Master of Liberal Arts
+# 4.3.121 Master of Liberal Arts, Master of Liberal Arts
 
 ## Glossary
 
@@ -14,7 +14,7 @@ ms.date: 2026-11-18
 | **Foundations I**<br>基础 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/master-of-liberal-arts/master-of-liberal-arts) |
 | **Foundations II: the Middle Ages and Renaissance.**<br>基础 II：中世纪与文艺复兴 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/master-of-liberal-arts/master-of-liberal-arts) |
 | **Foundations III: the Enlightenment through Modernism**<br>基础 III：从启蒙运动到现代主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/master-of-liberal-arts/master-of-liberal-arts) |
-| **An Introduction to Interdisciplinary Graduate Study**<br>跨学科研究生学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/master-of-liberal-arts/master-of-liberal-arts) |
+| **An Introduction to Interdisciplinary Graduate Study**<br>跨学科研究生学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/master-of-liberal-arts/master-of-liberal-arts) |
 | **The American Enlightenment**<br>美国启蒙运动 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/master-of-liberal-arts/master-of-liberal-arts) |
 | **Heretics, Prostitutes, and Merchants: The Venetian Empire**<br>异端、妓女与商人：威尼斯帝国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/master-of-liberal-arts/master-of-liberal-arts) |
 | **Russia and Ukraine: Historical Interconnections**<br>俄罗斯与乌克兰：历史关联 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/master-of-liberal-arts/master-of-liberal-arts) |

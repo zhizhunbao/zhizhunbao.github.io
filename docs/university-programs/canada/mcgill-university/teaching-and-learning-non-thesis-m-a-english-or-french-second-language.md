@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Teaching and Learning (Non-Thesis) (M.A.): English or French Second Language**<br>教学与学习（非论文型）（M.A.）：英语或法语第二语言 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-non-thesis-ma-english-french-second-language/) |
 | **Indigenizing Pedagogy and Curriculum.**<br>教学法与课程的本土化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-non-thesis-ma-english-french-second-language/) |
-| **Introduction to Philosophy of Education.**<br>教育哲学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-non-thesis-ma-english-french-second-language/) |
+| **Introduction to Philosophy of Education.**<br>教育哲学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-non-thesis-ma-english-french-second-language/) |
 | **Internship 1A**<br>实习 1A | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-non-thesis-ma-english-french-second-language/) |
 | **Internship 2A**<br>实习 2A | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-non-thesis-ma-english-french-second-language/) |
 | **Foundational Professional Seminar**<br>基础专业研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-non-thesis-ma-english-french-second-language/) |

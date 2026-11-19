@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Specialist in Statistical Science: Methods and Practice (Science Program)**<br>统计科学专精：方法与实践（理科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **An Introduction to Statistical Reasoning and Data Science**<br>统计推理与数据科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **An Introduction to Statistical Reasoning and Data Science**<br>统计推理与数据科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Foundations of Computer Science I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Foundations of Computer Science II**<br>计算机科学基础 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-11
 | **Statistical Computation**<br>统计计算 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Statistical Consultation, Communication, and Collaboration**<br>统计咨询、沟通与协作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Algebra II**<br>代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Real Analysis**<br>实分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Real Analysis**<br>实分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Foundations of Real Analysis**<br>实分析基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Software Design**<br>软件设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Probability**<br>概率论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -67,9 +67,9 @@ ms.date: 2026-11-11
 | **Readings in Statistics**<br>统计学文献选读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Research Opportunity Program**<br>研究机会计划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Epidemiology of Health & Disease**<br>健康与疾病流行病学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Social Determinants of Health**<br>健康的社会决定因素导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Social Determinants of Health**<br>健康的社会决定因素入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Health Policy in Canada**<br>加拿大卫生政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Quantitative Methods in Public Health**<br>公共卫生定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Quantitative Methods in Public Health**<br>公共卫生定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Aging and Health**<br>衰老与健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Critical Health Policy**<br>批判健康政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Global Migration and Health**<br>全球移民与健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -78,7 +78,7 @@ ms.date: 2026-11-11
 | **The Nature of Global Health**<br>全球健康的本质 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Adaptation and Biodiversity**<br>适应与生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Molecular and Cell Biology**<br>分子与细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Global Health**<br>全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Global Health**<br>全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **General & Human Genetics**<br>普通遗传学与人类遗传学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Concepts in Genetics**<br>遗传学概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Global Health Research**<br>全球卫生研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -90,7 +90,7 @@ ms.date: 2026-11-11
 | **Topics in Epidemiology**<br>流行病学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Complementary & Integrative Medicine**<br>补充与整合医学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **AIDS: A Global Perspective**<br>艾滋病：全球视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Health and Disease**<br>健康与疾病导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Health and Disease**<br>健康与疾病入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Vertebrate Histology and Histopathology**<br>脊椎动物组织学与组织病理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Topics in Health & Disease**<br>健康与疾病专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Laboratory in Health and Disease**<br>健康与疾病实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -100,7 +100,7 @@ ms.date: 2026-11-11
 | **Selected Topics in Molecular Cell Biology**<br>分子细胞生物学专题选讲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **The Biology of the Human Metallome**<br>人类金属组生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Personalized Medicine**<br>个性化医疗 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Applied Genetics and Biotechnology**<br>应用遗传学与生物技术导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Applied Genetics and Biotechnology**<br>应用遗传学与生物技术入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Biotechnology**<br>生物技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Laboratory in Applied Genetics and Biotechnology**<br>应用遗传学与生物技术实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Topics in Genetics**<br>遗传学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -109,7 +109,7 @@ ms.date: 2026-11-11
 | **Genetics of Human Disease**<br>人类疾病遗传学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Biomedical Advances & Technologies**<br>生物医学进展与技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Innovation in Genome Engineering and Translational Research**<br>基因组工程与转化研究中的创新 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Neurobiology of Behaviour**<br>行为神经生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Laboratory in Neuroscience**<br>神经科学实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Neuroanatomy**<br>神经解剖学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -120,7 +120,7 @@ ms.date: 2026-11-11
 | **Brain Tumours: From Diagnosis to Treatment Effects**<br>脑肿瘤：从诊断到治疗效果 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Neurodevelopmental Diversity and Diseases**<br>神经发育多样性与疾病 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Social Psychology**<br>社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Social Psychology**<br>社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Social Psychology: Attitudes**<br>社会心理学：态度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Cross-Cultural Psychology**<br>跨文化心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Intergroup Relations**<br>群体间关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -131,7 +131,7 @@ ms.date: 2026-11-11
 | **Motivational Theories in Social Psychology**<br>社会心理学中的动机理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Media Psychology**<br>媒体心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Individual Projects**<br>个人项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Cognitive Psychology**<br>认知心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Cognitive Psychology**<br>认知心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Cognitive Development**<br>认知发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Thinking and Reasoning**<br>思维与推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Higher Cognitive Processes**<br>高级认知过程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -139,31 +139,31 @@ ms.date: 2026-11-11
 | **Attention and Performance**<br>注意与表现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Cognitive Neuroscience**<br>认知神经科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Cognitive Dysfunction in Neurological Disorders**<br>神经系统疾病中的认知功能障碍 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Linguistics: Sound Structure**<br>语言学导论：声音结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Linguistics: Sentence Structure and Meaning**<br>语言学导论：句子结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Linguistics: Sound Structure**<br>语言学入门：声音结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Linguistics: Sentence Structure and Meaning**<br>语言学入门：句子结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Phonetics**<br>语音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Phonological Patterns in Language**<br>语言中的音系模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Syntactic Patterns in Language**<br>语言中的句法模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Semantics**<br>语义学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Semantics**<br>语义学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Sociolinguistic Patterns in Language**<br>语言中的社会语言学模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Language Variation and Change: Theory and Analysis**<br>语言变异与演变：理论与分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Psycholinguistics: Language Processing in Adults**<br>心理语言学：成人语言加工 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Psycholinguistics: Language Acquisition in Children**<br>心理语言学：儿童语言习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Advanced Psycholinguistics**<br>高级心理语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Physics II**<br>物理学导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Foundations of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Stars and Planets**<br>恒星与行星 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Galaxies and Cosmology**<br>星系与宇宙学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Thermal Physics**<br>热物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Astrophysics**<br>天体物理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Practical Astronomy**<br>实用天文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Astrophysics**<br>天体物理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Practical Astronomy**<br>实用天文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Practical Astronomy**<br>实用天文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Sociology I: Sociological Perspectives**<br>社会学导论 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Sociology II: Sociological Inquiries**<br>社会学导论 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Qualitative Methods in Sociology**<br>社会学质性方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Social Networks**<br>社会网络导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Sociology I: Sociological Perspectives**<br>社会学入门 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Sociology II: Sociological Inquiries**<br>社会学入门 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Qualitative Methods in Sociology**<br>社会学质性方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Social Networks**<br>社会网络入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Family Demography**<br>家庭人口学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Population and Society**<br>人口与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Sociology of Mental Health and Mental Disorders**<br>心理健康与精神障碍社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
@@ -204,11 +204,11 @@ ms.date: 2026-11-11
 | **Laboratory Course in Biochemical Techniques**<br>生物化学技术实验课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Practical Physics I**<br>实用物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Quantum Physics**<br>量子物理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Quantum Physics**<br>量子物理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Practical Physics II**<br>实用物理 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Human Physiology I**<br>人体生理学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Human Physiology II**<br>人体生理学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
-| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
+| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Pharmacodynamic Principles**<br>药效学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Experimental Approaches in Drug Discovery**<br>药物发现的实验方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |
 | **Integrative Toxicology**<br>综合毒理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2270) |

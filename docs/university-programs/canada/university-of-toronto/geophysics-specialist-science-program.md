@@ -11,16 +11,16 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geophysics Specialist (Science Program)**<br>地球物理学专精（理科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
-| **Introduction to Physics II**<br>物理学导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
+| **Introduction to Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Foundations of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Calculus I with Proofs**<br>含证明的微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Calculus II with Proofs**<br>含证明的微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
-| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
+| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Earth System Processes**<br>地球系统过程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
@@ -28,10 +28,10 @@ ms.date: 2026-11-11
 | **Vector Calculus I**<br>矢量微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Vector Calculus II**<br>矢量微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Multivariable Calculus with Proofs**<br>含证明的多变量微积分 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
-| **Introduction to Mineralogy and Petrology**<br>矿物学与岩石学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
+| **Introduction to Mineralogy and Petrology**<br>矿物学与岩石学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Geologic Structures and Maps**<br>地质构造与地图 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Computational Geology**<br>计算地质学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Practical Physics I**<br>实用物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Physics of the Earth**<br>地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Environmental and Archaeological Geophysics**<br>环境与考古地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Physical Science in Contemporary Society**<br>当代社会中的物理科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Ecological Worldviews**<br>生态世界观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Environmental Ethics**<br>环境伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
-| **Introduction to Ethics**<br>伦理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
+| **Introduction to Ethics**<br>伦理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Chemistry: Physical Principles**<br>化学：物理原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Introductory Analytical Methods**<br>分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-11
 | **Physics of Climate**<br>气候物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Continuum Mechanics**<br>连续介质力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Chaos, Fractals and Dynamics**<br>混沌、分形与动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
-| **Introduction to Geological Field Methods**<br>地质野外方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
+| **Introduction to Geological Field Methods**<br>地质野外方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Aqueous Geochemistry**<br>水化学地球化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Hydrogeology**<br>水文地质学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |
 | **Contaminants in the Environment and Geoethics**<br>环境中的污染物与地质伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1650) |

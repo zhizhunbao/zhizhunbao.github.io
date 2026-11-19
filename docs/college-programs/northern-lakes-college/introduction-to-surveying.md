@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Industrial Safety 1**<br>工业安全 1 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
 | **Survey Theory I**<br>测量理论 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
 | **Survey Field Training I**<br>测量野外实训 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
-| **Introduction to Technical Drawing and CAD**<br>技术制图与 CAD 导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
+| **Introduction to Technical Drawing and CAD**<br>技术制图与 CAD 入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
 
 ## Courses
 

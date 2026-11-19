@@ -1,10 +1,10 @@
 ---
-title: "3.4.66 Physics (B.S.)"
+title: "4.4.66 Physics (B.S.)"
 description: "University Programs > United States > Yale University > Physics (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.66 Physics (B.S.)
+# 4.4.66 Physics (B.S.)
 
 ## Glossary
 
@@ -14,10 +14,10 @@ ms.date: 2026-11-18
 | **University Physics for the Life Sciences**<br>生命科学大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
 | **University Physics**<br>大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
 | **Fundamentals of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
-| **Intensive Introductory Physics**<br>强化物理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
+| **Intensive Introductory Physics**<br>强化物理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
 | **Modern Physical Measurement**<br>现代物理测量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
 | **General Physics Laboratory**<br>普通物理实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
-| **Introduction to Mathematical Methods of Physics**<br>物理学数学方法导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
+| **Introduction to Mathematical Methods of Physics**<br>物理学数学方法入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
 | **Advanced Classical Physics from Newton to Einstein**<br>高级经典物理：从牛顿到爱因斯坦 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
 | **Basic Quantum Mechanics**<br>基础量子力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |
 | **Quantum Mechanics and Natural Phenomena I**<br>量子力学与自然现象 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics/) |

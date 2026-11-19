@@ -1,10 +1,10 @@
 ---
-title: "3.3.99 Education, Master of Arts"
+title: "4.3.99 Education, Master of Arts"
 description: "University Programs > United States > Stanford University > Education, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.99 Education, Master of Arts
+# 4.3.99 Education, Master of Arts
 
 ## Glossary
 
@@ -32,17 +32,17 @@ ms.date: 2026-11-18
 | **Leadership and Administration in Higher Education**<br>高等教育领导与管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **(Re)Meditating Systems Change: Disability, Language & Difference**<br>（重新）审思系统变革：残障、语言与差异 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Transforming Education through Entrepreneurship**<br>通过创业变革教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Applied Econometrics**<br>应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Data Analysis and Interpretation**<br>数据分析与解释导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Qualitative Research Methods**<br>定性研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Program Evaluation**<br>项目评估导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Data Analysis and Interpretation**<br>数据分析与解释入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Qualitative Research Methods**<br>定性研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Program Evaluation**<br>项目评估入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Designing Surveys**<br>调查设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Statistical Methods in Education**<br>教育统计方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Statistical Methods in Education**<br>教育统计方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Statistical Analysis in Education: Regression**<br>教育中的统计分析：回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Mini Courses in Methodology: Stata**<br>方法论迷你课程：Stata | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Education Data Science: Data Processing**<br>教育数据科学导论：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Education Data Science: Data Analysis**<br>教育数据科学导论：数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Education Data Science: Data Processing**<br>教育数据科学入门：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Education Data Science: Data Analysis**<br>教育数据科学入门：数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Experimental Research Design and Analysis**<br>实验研究设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Quasi-Experimental Research Design & Analysis**<br>准实验研究设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Using Data to Describe the World: Descriptive Social Science Research Techniques**<br>用数据描述世界：描述性社会科学研究技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
@@ -52,11 +52,11 @@ ms.date: 2026-11-18
 | **Applied Econometrics for Public Policy**<br>公共政策应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Social, Emotional, and Personality Development**<br>社会、情绪与人格发展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Cognitive Development in Childhood and Adolescence**<br>儿童与青少年期的认知发展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Philosophy of Education**<br>教育哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Philosophy of Education**<br>教育哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Urban Education**<br>城市教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **History of Higher Education in the U.S.**<br>美国高等教育史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Introduction to Global and Comparative Education**<br>全球与比较教育导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
-| **Applied Research Methods in Global and Comparative Education I: Introduction**<br>全球与比较教育应用研究方法 I：导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Introduction to Global and Comparative Education**<br>全球与比较教育入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
+| **Applied Research Methods in Global and Comparative Education I: Introduction**<br>全球与比较教育应用研究方法 I：入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Applied Research Methods in Global and Comparative Education II: Master's Paper Proposal**<br>全球与比较教育应用研究方法 II：硕士论文开题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Applied Research Methods in Global and Comparative Education III: Data Collection and Analysis**<br>全球与比较教育应用研究方法 III：数据收集与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |
 | **Applied Research Methods in Global and Comparative Education IV: Master's Paper Workshop**<br>全球与比较教育应用研究方法 IV：硕士论文工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-arts) |

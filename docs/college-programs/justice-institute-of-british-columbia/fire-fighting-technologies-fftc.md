@@ -27,8 +27,8 @@ ms.date: 2026-11-08
 | **Critical Reading and Writing Skills**<br>批判性阅读与写作技能 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/firefighting/firefighting-technologies) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/firefighting/firefighting-technologies) |
 | **Applied Ethics**<br>应用伦理学 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/firefighting/firefighting-technologies) |
-| **Introduction to Human Resource Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/firefighting/firefighting-technologies) |
-| **Introduction to Conflict Analysis and Resolution**<br>冲突分析与解决导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/firefighting/firefighting-technologies) |
+| **Introduction to Human Resource Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/firefighting/firefighting-technologies) |
+| **Introduction to Conflict Analysis and Resolution**<br>冲突分析与解决入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/firefighting/firefighting-technologies) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/firefighting/firefighting-technologies) |
 
 ## Courses

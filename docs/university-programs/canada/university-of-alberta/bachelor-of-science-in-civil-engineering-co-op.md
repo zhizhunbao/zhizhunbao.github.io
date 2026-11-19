@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Transportation Engineering**<br>交通工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Principles of Environmental Modeling and Risk**<br>环境建模与风险原理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
-| **Introduction to Fluid Mechanics**<br>流体力学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
+| **Introduction to Fluid Mechanics**<br>流体力学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Structural Analysis I**<br>结构分析 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Civil Engineering Analysis**<br>土木工程分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Engineering Work Experience III**<br>工程工作经历 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **Structural Design I**<br>结构设计 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Soil Mechanics**<br>土力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Civil Engineering Materials**<br>土木工程材料 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
-| **Introduction to Continuum Mechanics**<br>连续介质力学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
+| **Introduction to Continuum Mechanics**<br>连续介质力学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Engineering Work Experience IV**<br>工程工作经历 IV | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Engineering Work Experience V**<br>工程工作经历 V | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |
 | **Civil Engineering Design Project I**<br>土木工程设计项目 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110531&returnto=20848) |

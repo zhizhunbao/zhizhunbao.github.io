@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Information Technology Readiness North (InTeRN)**<br>北方信息技术预备（InTeRN） | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=60) |
 | **Waskawimakanwa Meciwaci Isihwawina**<br>Waskawimakanwa Meciwaci Isihwawina | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=60) |
-| **Sweetgrass (Introduction to InTeRN)**<br>Sweetgrass（InTeRN 导论） | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=60) |
+| **Sweetgrass (Introduction to InTeRN)**<br>Sweetgrass（InTeRN 入门） | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=60) |
 | **Essential Skills for IT**<br>信息技术基本技能 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=60) |
 | **Safety for IT Workers**<br>IT 工作者安全 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=60) |
 | **Supporting Operating Systems**<br>操作系统支持 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=60) |

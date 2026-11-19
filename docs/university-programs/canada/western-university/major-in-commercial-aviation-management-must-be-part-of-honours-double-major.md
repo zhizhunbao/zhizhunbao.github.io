@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN COMMERCIAL AVIATION MANAGEMENT (must be part of Honours Double Major)**<br>商业航空管理主修（必须属于荣誉双主修） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO AVIATION**<br>航空导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO AVIATION**<br>航空入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS II**<br>微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
@@ -26,8 +26,8 @@ ms.date: 2026-11-11
 | **PRINCIPLES OF MACROECONOMICS**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY CALCULUS**<br>微积分入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
 | **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
 | **WEATHER AND CLIMATE**<br>天气与气候 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
 | **THE HISTORY OF AVIATION**<br>航空史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |
 | **CONTEMPORARY ISSUES IN AVIATION MANAGEMENT**<br>航空管理当代问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21522&SelectedCalendar=Live&ArchiveID=) |

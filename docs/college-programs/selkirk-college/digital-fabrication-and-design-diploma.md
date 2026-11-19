@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Digital Fabrication and Design - Diploma**<br>数字制造与设计文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
-| **Introduction to Digital Fabrication and Design**<br>数字制造与设计导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
+| **Introduction to Digital Fabrication and Design**<br>数字制造与设计入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
 | **Technical Drawings for Fabrication**<br>加工制造技术图纸 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
 | **Computer Aided Design**<br>计算机辅助设计 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
-| **Introduction to Desktop 3D Printing**<br>桌面3D打印导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
+| **Introduction to Desktop 3D Printing**<br>桌面3D打印入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
 | **Fabrication Principles**<br>制造原理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
 | **Design for Additive Manufacturing**<br>增材制造设计 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |
 | **Additive Manufacturing I**<br>增材制造 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-fabrication-and-design-diploma) |

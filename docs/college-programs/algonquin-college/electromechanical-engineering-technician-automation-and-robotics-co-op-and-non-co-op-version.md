@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Metrology**<br>计量学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0550X03FWO.pdf) |
 | **Active Electronic Circuits**<br>有源电子电路 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0550X03FWO.pdf) |
 | **DC and AC Motor Controls**<br>直流与交流电动机控制 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0550X03FWO.pdf) |
-| **Introduction to Quality Assurance**<br>质量保证导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0550X03FWO.pdf) |
+| **Introduction to Quality Assurance**<br>质量保证入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0550X03FWO.pdf) |
 | **Statics and Mechanics of Materials**<br>静力学与材料力学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0550X03FWO.pdf) |
 | **Cooperative Education and Job Readiness**<br>合作教育与就业准备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0550X03FWO.pdf) |
 | **Industrial Pneumatics**<br>工业气动 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0550X03FWO.pdf) |

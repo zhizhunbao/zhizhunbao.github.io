@@ -36,14 +36,14 @@ ms.date: 2026-11-08
 | **Work Experience II**<br>工作实习 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Ergonomics**<br>人机工程学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Fire Prevention and Protection Planning**<br>防火与消防规划 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Safety Basics – Restricted Spaces**<br>安全基础：受限空间 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Safety Basics – Hazard Identification**<br>安全基础：危险识别 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Safety Basics – Lock-out Tag Out**<br>安全基础：上锁挂牌 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Safety Basics – Respiratory Protection**<br>安全基础：呼吸防护 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Certified Fall Arrest and Protection**<br>认证坠落防护 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
-| **Introduction to Electrical and Powerline Hazards**<br>电气与输电线路危险导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
+| **Introduction to Electrical and Powerline Hazards**<br>电气与输电线路危险入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 | **Transportation of Dangerous Goods**<br>危险货物运输 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/occupational-health-and-safety) |
 
 ## Courses

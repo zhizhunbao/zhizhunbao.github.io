@@ -12,19 +12,19 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Digital Design - Visual Communication Design Concentration**<br>数字设计－视觉传达设计方向 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Digital Design Tools**<br>数字设计工具 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
-| **Introduction to Web Design**<br>网页设计导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
-| **Introduction to Graphic Design**<br>平面设计导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
+| **Introduction to Web Design**<br>网页设计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
+| **Introduction to Graphic Design**<br>平面设计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Interpersonal Design Practices and Ethical Standards**<br>人际设计实务与职业道德标准 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Layout Design**<br>版面设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Responsive Web Design**<br>响应式网页设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
-| **Introduction to User Experience and User Interface (UX/UI) Design**<br>用户体验与用户界面（UX/UI）设计导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
+| **Introduction to User Experience and User Interface (UX/UI) Design**<br>用户体验与用户界面（UX/UI）设计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Typography**<br>字体排印 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Collaborative Design Practices**<br>协作设计实践 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **User Interface Design**<br>用户界面设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **User Experience Design**<br>用户体验设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Content Strategy**<br>内容策略 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Accessible Web Design**<br>无障碍网页设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
-| **Introduction to Multimedia**<br>多媒体导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
+| **Introduction to Multimedia**<br>多媒体入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Colour Theory**<br>色彩理论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Visual Identity Design**<br>视觉识别设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |
 | **Digital Illustration**<br>数字插画 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/dd-visual-communication-design) |

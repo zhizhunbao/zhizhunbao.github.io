@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Helping Skills: Practical Apps**<br>助人技能：实践应用 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Communication & Interpersonal**<br>沟通与人际交往 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Social Welfare Policy**<br>社会福利政策 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
-| **Intro to Social Work Practice**<br>社会工作实践导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
+| **Intro to Social Work Practice**<br>社会工作实践入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Issues Principles Field Work**<br>议题原则实地工作 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Aboriginal Services Practicum**<br>原住民服务实习 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Practicum and Seminar I**<br>实习与研讨 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
@@ -27,12 +27,12 @@ ms.date: 2026-11-08
 | **Care and Guidance**<br>照护与引导 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Physical Care/Health Wellness**<br>身体护理/健康保健 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Families**<br>家庭 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
-| **Introduction to Disabilities**<br>残障导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
+| **Introduction to Disabilities**<br>残障入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Loss and Grief**<br>丧失与悲伤 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Counselling Theories**<br>咨询理论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Mental Health**<br>心理健康 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Addictions**<br>成瘾 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
-| **Intro to Child Welfare**<br>儿童福利导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
+| **Intro to Child Welfare**<br>儿童福利入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Human Behaviour Techniques**<br>人类行为技术 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 | **Fundamental & Prof. Implicat.**<br>基础与专业含义 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-certificate) |
 

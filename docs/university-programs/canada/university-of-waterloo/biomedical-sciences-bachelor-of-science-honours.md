@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Fundamentals of Microbiology**<br>微生物学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Microbiology Laboratory**<br>微生物学实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
-| **Introduction to Applied Microbiology**<br>应用微生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
+| **Introduction to Applied Microbiology**<br>应用微生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Principles of Human Physiology 1**<br>人体生理学原理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Functional Histology**<br>功能组织学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Principles of Molecular Biology**<br>分子生物学原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
@@ -67,13 +67,13 @@ ms.date: 2026-11-11
 | **Advanced Academic Writing**<br>高级学术写作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Psychosocial Perspectives on Lifespan Development and Health**<br>毕生发展与健康的心理社会视角 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Smallpox to Medicare: Canadian Medical History**<br>从天花到医疗保险：加拿大医学史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
-| **Introduction to Health 1**<br>健康导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
-| **Introduction to Health 2**<br>健康导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
+| **Introduction to Health 1**<br>健康入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
+| **Introduction to Health 2**<br>健康入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Environmental Toxicology and Public Health**<br>环境毒理学与公共卫生 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Principles of Pathobiology**<br>病理生物学原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Human Anatomy of the Central Nervous System**<br>中枢神经系统人体解剖学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Cardiovascular and Pulmonary Physiology**<br>心血管与肺生理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
-| **Introduction to Neurological Disorders**<br>神经系统疾病导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
+| **Introduction to Neurological Disorders**<br>神经系统疾病入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Micronutrient Metabolism**<br>微量营养素代谢 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Cardiovascular Pathophysiology**<br>心血管病理生理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Sociology of Mental Disorder**<br>精神障碍社会学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
@@ -81,7 +81,7 @@ ms.date: 2026-11-11
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Physiological Psychology**<br>生理心理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Lifespan Processes**<br>生命历程过程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Health, Illness, and Society**<br>健康、疾病与社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Professional and Business Ethics**<br>职业与商业伦理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |
 | **Culture and Ethics**<br>文化与伦理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1ZSyyCAo2) |

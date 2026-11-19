@@ -11,26 +11,26 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIST PROGRAM IN INTERNATIONAL DEVELOPMENT STUDIES (ARTS)**<br>国际发展研究专精项目（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to International Development Studies**<br>国际发展研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to International Development Studies**<br>国际发展研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Political Economy of International Development**<br>国际发展政治经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Development and Environment**<br>发展与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to International/Global Health**<br>国际/全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to International/Global Health**<br>国际/全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Equity, Ethics and Justice in International Development**<br>国际发展中的公平、伦理与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Confronting Development’s Racist Past and Present**<br>直面发展的种族主义过去与现在 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Comparative Development in International Perspective**<br>国际视角下的比较发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to Comparative Politics**<br>比较政治导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to Comparative Politics**<br>比较政治入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Research Design for Development Fieldwork**<br>发展实地考察的研究设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Project Management I**<br>项目管理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Geographic Information Systems (GIS) and Empirical Reasoning**<br>地理信息系统 (GIS) 与实证推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **GIS Principles and Applied Mapping**<br>GIS 原理与应用制图 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Health Research Methodology**<br>健康研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Quantitative Methods in Economics I**<br>经济学定量方法 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Ethnography and the Comparative Study of Human Societies**<br>民族志与人类社会比较研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Qualitative Geographical Methods: Place and Ethnography**<br>定性地理学方法：地方与民族志 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Qualitative Health Research**<br>定性健康研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-11
 | **Humanitarian Aid and Global Development**<br>人道主义援助与全球发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Directed Reading**<br>指导阅读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Directed Research**<br>指导研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-| **Africa in the World: An Introduction**<br>世界中的非洲：导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+| **Africa in the World: An Introduction**<br>世界中的非洲：入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **African Religious Traditions Through History**<br>历史中的非洲宗教传统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Culture and Society in Africa**<br>非洲的文化与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 | **Africa in the Era of the Slave Trade**<br>奴隶贸易时代的非洲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
@@ -154,26 +154,23 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | This program requires the completion of 13.0 credits, of which at least 4.0 credits must be at the C- or D-level including at least 1.0 credit at the D-level. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  |  | 1. Introduction to International Development Studies (2.0 credits as follows) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | IDSA01H3 | Introduction to International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | MGEA01H3 | Introduction to Microeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | (or) | MGEA02H3 | Introduction to Microeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | MGEA05H3 | Introduction to Macroeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | (or) | MGEA06H3 | Introduction to Macroeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | EESA01H3 | Introduction to Environmental Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  |  | 2. Core courses in International Development (at least 3.0 credits from among the following) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | IDSB01H3 | Political Economy of International Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | IDSB02H3 | Development and Environment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | IDSB04H3 | Introduction to International/Global Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | IDSB06H3 | Equity, Ethics and Justice in International Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | POLB90H3 | Comparative Development in International Perspective | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | POLB91H3 | Introduction to Comparative Politics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | Note: We highly recommend that students select | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | Note: We highly recommend that students select | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | Note: We highly recommend that students select | IDSC01H3 | Research Design for Development Fieldwork | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  |  | 3. Methods for International Development Studies (1.5 credits as follows) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  |  | IDSC04H3 | Project Management I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 1. Introduction to International Development Studies (2.0 credits as follows) | IDSA01H3 | Introduction to International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 1. Introduction to International Development Studies (2.0 credits as follows) | MGEA01H3 | Introduction to Microeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 1. Introduction to International Development Studies (2.0 credits as follows) (or) | MGEA02H3 | Introduction to Microeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 1. Introduction to International Development Studies (2.0 credits as follows) | MGEA05H3 | Introduction to Macroeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 1. Introduction to International Development Studies (2.0 credits as follows) (or) | MGEA06H3 | Introduction to Macroeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 1. Introduction to International Development Studies (2.0 credits as follows) | EESA01H3 | Introduction to Environmental Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following) | IDSB01H3 | Political Economy of International Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following) | IDSB02H3 | Development and Environment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following) | IDSB04H3 | Introduction to International/Global Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following) | IDSB06H3 | Equity, Ethics and Justice in International Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following) | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following) | POLB90H3 | Comparative Development in International Perspective | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following) | POLB91H3 | Introduction to Comparative Politics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following); Note: We highly recommend that students select | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following); Note: We highly recommend that students select | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 2. Core courses in International Development (at least 3.0 credits from among the following); Note: We highly recommend that students select | IDSC01H3 | Research Design for Development Fieldwork | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 3. Methods for International Development Studies (1.5 credits as follows) | IDSC04H3 | Project Management I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 |  | and |  | 0.5 credit in Quantitative/statistical methods from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 |  | and | GGRA30H3 | Geographic Information Systems (GIS) and Empirical Reasoning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 |  | and | GGRB30H3 | GIS Principles and Applied Mapping | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
@@ -186,20 +183,18 @@ ms.date: 2026-11-11
 |  | and | HLTC04H3 | Qualitative Health Research | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 |  | and | POLC78H3 | Political Analysis I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 |  | and | WSTB05H3 | Power in Knowledge Production | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and |  | 4. Research in International Development Requirement (0.5 credit): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSD02H3 | Advanced Research Seminar in Critical Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and |  | 5. Specialized Courses: Approaches to International Development (6.0 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSC07H3 | Project Management II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSC10H3 | Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSC15H3 | Special Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSC20H3 | Critical Approaches to Community Engagement in Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSC21H3 | Power and Community-Based Research in Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSC22H3 | Humanitarian Aid and Global Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSD10H3 | Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSD12H3 | Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSD13H3 | Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSD14H3 | Directed Reading | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
-|  | and | IDSD15H3 | Directed Research | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 4. Research in International Development Requirement (0.5 credit) | IDSD02H3 | Advanced Research Seminar in Critical Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSC07H3 | Project Management II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSC10H3 | Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSC15H3 | Special Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSC20H3 | Critical Approaches to Community Engagement in Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSC21H3 | Power and Community-Based Research in Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSC22H3 | Humanitarian Aid and Global Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSD10H3 | Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSD12H3 | Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSD13H3 | Topics in International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSD14H3 | Directed Reading | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
+|  | 5. Specialized Courses: Approaches to International Development (6.0 credits) | IDSD15H3 | Directed Research | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 |  | Culture and Society | AFSA01H3 | Africa in the World: An Introduction | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 |  | Culture and Society | AFSB01H3 | African Religious Traditions Through History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |
 |  | Culture and Society | HISB52H3 | African Religious Traditions Through History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540a) |

@@ -1,32 +1,32 @@
 ---
-title: "3.2.19 Computation and Cognition (Course 6-9)"
+title: "4.2.19 Computation and Cognition (Course 6-9)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computation and Cognition (Course 6-9): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.19 Computation and Cognition (Course 6-9)
+# 4.2.19 Computation and Cognition (Course 6-9)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computation and Cognition (Course 6-9)**<br>计算与认知（Course 6-9） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Discrete Mathematics and Proof for Computer Science**<br>面向计算机科学的离散数学与证明 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Inference**<br>推断导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Inference**<br>推断入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Statistics for Brain and Cognitive Science**<br>脑与认知科学统计学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Applied Probability and Statistics**<br>应用概率与统计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Probability and Random Variables**<br>概率与随机变量 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Fundamentals of Programming**<br>编程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Electrical Circuits: Modeling and Design of Physical Systems**<br>电路：物理系统的建模与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Signal Processing**<br>信号处理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Dynamical System Modeling and Control Design**<br>动力系统建模与控制设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-18
 | **Cellular Neurophysiology and Computing**<br>细胞神经生理学与计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Perception**<br>知觉 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Neurobiology of Self**<br>自我的神经生物学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Neural Computation**<br>神经计算导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Neural Computation**<br>神经计算入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Materials Physics of Neural Interfaces**<br>神经接口的材料物理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Computational Psycholinguistics**<br>计算心理语言学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Language in the Mind and Brain**<br>心智与大脑中的语言 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-18
 | **Dynamic Computer Language Engineering**<br>动态计算机语言工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Robotics: Science and Systems**<br>机器人学：科学与系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Robotic Manipulation**<br>机器人操作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
-| **Introduction to Computer Vision**<br>计算机视觉导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
+| **Introduction to Computer Vision**<br>计算机视觉入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Quantitative Methods for Natural Language Processing**<br>自然语言处理定量方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Real World Computation with Julia**<br>用Julia进行实际计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |
 | **Disorders and Diseases of the Nervous System**<br>神经系统疾病与障碍 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computation-cognition-6-9/) |

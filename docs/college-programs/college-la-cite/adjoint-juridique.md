@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Recherche juridique**<br>法律检索 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51032) |
 | **Rédaction juridique**<br>法律写作 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51032) |
 | **Techniques juridiques**<br>法律技术 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51032) |
-| **Introduction au droit**<br>法律导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51032) |
+| **Introduction au droit**<br>法律入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51032) |
 | **Préparation à l'emploi**<br>就业准备 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51032) |
 | **Méthode, vitesse et précision du doigté - 35 mots/minute**<br>指法方法、速度与准确度 - 35词/分钟 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51032) |
 | **Citoyenneté canadienne**<br>加拿大公民身份 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51032) |

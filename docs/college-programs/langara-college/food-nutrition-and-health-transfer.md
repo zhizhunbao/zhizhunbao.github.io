@@ -19,11 +19,11 @@ ms.date: 2026-11-08
 | **Nutrition II**<br>营养学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Nutrition I**<br>营养学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Descriptive and Elementary Inferential Statistics**<br>描述统计与初等推断统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to Calculus I (Part I)**<br>微积分导论 I（第一部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to Calculus I (Part II)**<br>微积分导论 I（第二部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to Calculus I (Part I)**<br>微积分入门 I（第一部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to Calculus I (Part II)**<br>微积分入门 I（第二部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Calculus I with Computer Explorations**<br>微积分 I：计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Computer Explorations for Calculus I**<br>微积分 I 计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
@@ -37,11 +37,11 @@ ms.date: 2026-11-08
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Production and Service Systems**<br>生产与服务系统 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Intermediate Statistical Inference**<br>中级统计推断 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to Sociology: Models and Concepts**<br>社会学导论：模型与概念 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
-| **Introduction to Sociology: Structures and Processes**<br>社会学导论：结构与过程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to Sociology: Models and Concepts**<br>社会学入门：模型与概念 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
+| **Introduction to Sociology: Structures and Processes**<br>社会学入门：结构与过程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-nutrition-and-health-transfer-diploma/courses) |

@@ -1,10 +1,10 @@
 ---
-title: "3.1.109 Doctor of Public Health"
+title: "4.1.109 Doctor of Public Health"
 description: "University Programs > United States > Harvard University > Doctor of Public Health: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.109 Doctor of Public Health
+# 4.1.109 Doctor of Public Health
 
 ## Glossary
 
@@ -42,7 +42,7 @@ ms.date: 2026-11-18
 | **Interviewing in Qualitative Research**<br>定性研究中的访谈 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/doctor-of-public-health/) |
 | **Design of Field Research Methods**<br>田野研究方法设计 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/doctor-of-public-health/) |
 | **Experimental Methods in Behavioral Research**<br>行为研究中的实验方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/doctor-of-public-health/) |
-| **Introduction to System Dynamics**<br>系统动力学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/doctor-of-public-health/) |
+| **Introduction to System Dynamics**<br>系统动力学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/doctor-of-public-health/) |
 | **Systems Dynamics: Tools for Solving Complex Problems**<br>系统动力学：解决复杂问题的工具 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/doctor-of-public-health/) |
 
 ## Courses

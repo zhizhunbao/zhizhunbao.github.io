@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Logic of Social Inquiry**<br>社会探究的逻辑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 | **Law and Politics: Contradictions, Approaches, and Controversies**<br>法律与政治：矛盾、进路与争议 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 | **Foundations of Social Data Science**<br>社会数据科学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 | **Quantitative Reasoning for Political Science and Public Policy**<br>政治学与公共政策定量推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 | **Law, Politics and Technology**<br>法律、政治与技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 | **Politics of International Human Rights**<br>国际人权政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
@@ -60,20 +60,20 @@ ms.date: 2026-11-11
 |  | and | SOCB35H3 | Foundations of Social Data Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 |  | and (or) | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 |  | and (or) | POLB40H3 | Quantitative Reasoning for Political Science and Public Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLC30H3 | Law, Politics and Technology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLC33H3 | Politics of International Human Rights | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLC34H3 | The Politics of Crime | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLC36H3 | Law and Public Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLC38H3 | International Law | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLC39H3 | Comparative Law and Politics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLC52H3 | Indigenous Nations and the Canadian State | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLC56H3 | Indigenous Politics and Law | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | POLD54H3 | Michi-Saagiig Nishnaabeg Nation Governance and Politics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | SOCB50H3 | Deviance and Normality I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | SOCC11H3 | Policing and Security | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | SOCC30H3 | Criminal Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | SOCC46H3 | Special Topics in Sociology of Law | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
-|  | Applications in Public Law (3.0 credits from the following) | SOCC61H3 | The Sociology of the Truth and Reconciliation Commission | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLC30H3 | Law, Politics and Technology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLC33H3 | Politics of International Human Rights | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLC34H3 | The Politics of Crime | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLC36H3 | Law and Public Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLC38H3 | International Law | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLC39H3 | Comparative Law and Politics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLC52H3 | Indigenous Nations and the Canadian State | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLC56H3 | Indigenous Politics and Law | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | POLD54H3 | Michi-Saagiig Nishnaabeg Nation Governance and Politics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | SOCB50H3 | Deviance and Normality I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | SOCC11H3 | Policing and Security | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | SOCC30H3 | Criminal Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | SOCC46H3 | Special Topics in Sociology of Law | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
+|  | and; Applications in Public Law (3.0 credits from the following) | SOCC61H3 | The Sociology of the Truth and Reconciliation Commission | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 |  | Advanced Applications in Public Law (1.0 credit from the following) | POLD30H3 | Legal Reasoning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 |  | Advanced Applications in Public Law (1.0 credit from the following) | POLD32H3 | Racism, the Law, and Public Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |
 |  | Advanced Applications in Public Law (1.0 credit from the following) | POLD38H3 | Corporate Crime and Corruption: Law and Governance in a Global Context | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2030) |

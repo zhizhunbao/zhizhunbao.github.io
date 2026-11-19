@@ -12,15 +12,15 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Bachelor of Science [Faculté Saint-Jean]**<br>理学学士（圣让学院） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Techniques de rédaction scientifique**<br>科学写作技巧 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
-| **Introduction à la biologie cellulaire**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
-| **Introduction à la diversité biologique**<br>生物多样性导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
+| **Introduction à la biologie cellulaire**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
+| **Introduction à la diversité biologique**<br>生物多样性入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **La génétique moléculaire et l’hérédité**<br>分子遗传学与遗传 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Les principes de l’écologie**<br>生态学原理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
-| **Introduction à la chimie I**<br>化学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
-| **Introduction à la chimie II**<br>化学导论 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
+| **Introduction à la chimie I**<br>化学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
+| **Introduction à la chimie II**<br>化学入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Chimie organique II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Chimie organique I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
-| **Introduction to Inorganic Chemistry**<br>无机化学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Atomic and Molecular Structure**<br>原子与分子结构 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Analyse quantitative I**<br>定量分析 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Calcul différentiel et intégral I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
@@ -38,13 +38,13 @@ ms.date: 2026-11-11
 | **Algèbre linéaire I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Honors Linear Algebra II**<br>荣誉线性代数 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Algèbre linéaire II**<br>线性代数 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
-| **Introduction aux équations différentielles**<br>微分方程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
+| **Introduction aux équations différentielles**<br>微分方程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Newtonian Mechanics**<br>牛顿力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Particules et ondes**<br>粒子与波 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Fluids and Waves**<br>流体与波 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Fluides, champs et radiation**<br>流体、场与辐射 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Aspects of Modern Physics**<br>现代物理学面面观 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
-| **Introduction à la physique moderne**<br>现代物理学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
+| **Introduction à la physique moderne**<br>现代物理学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **General Physics Laboratory**<br>普通物理实验 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Classical Mechanics I**<br>经典力学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-11
 | **Optical Physics**<br>光学物理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Quantum Mechanics A**<br>量子力学 A | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Electromagnetic Theory I**<br>电磁理论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
-| **Introduction à la statistique appliquée I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
+| **Introduction à la statistique appliquée I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Procédés psychologiques de base**<br>基础心理过程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Comportement social et individuel**<br>社会与个体行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |
 | **Psychologie cognitive**<br>认知心理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110585&returnto=20856) |

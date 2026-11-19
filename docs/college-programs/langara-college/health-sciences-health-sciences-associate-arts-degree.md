@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Foundations of Health Science**<br>健康科学基础 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
 | **Biomedical Ethics**<br>生物医学伦理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
 | **Science Literacy**<br>科学素养 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
-| **Introduction to Sociology: Models and Concepts**<br>社会学导论：模型与概念 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
-| **Concepts in Biology: Introduction to Human Biology**<br>生物学概念：人体生物学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
+| **Introduction to Sociology: Models and Concepts**<br>社会学入门：模型与概念 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
+| **Concepts in Biology: Introduction to Human Biology**<br>生物学概念：人体生物学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
 | **General Biology I**<br>普通生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
-| **Introduction to Human Sexuality and Behaviour**<br>人类性学与行为导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
+| **Introduction to Human Sexuality and Behaviour**<br>人类性学与行为入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
 | **Complementary and Alternative Medicine**<br>补充与替代医学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
 | **Global Perspectives on Health**<br>全球健康视角 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |
 | **Drugs and Society**<br>药物与社会 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-arts-degree/courses) |

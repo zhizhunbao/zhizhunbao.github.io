@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Pharmaceutical Regulatory Affairs & Quality Operations**<br>制药监管事务与质量运营 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ.html) |
 | **Biotechnology and Biopharmaceuticals**<br>生物技术与生物制药 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
 | **Product Formulation and Manufacturing**<br>产品配方与制造 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
-| **Introduction to Quality Assurance**<br>质量保证导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
-| **Introduction to Pharmaceutical Regulatory Affairs**<br>药品监管事务导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
+| **Introduction to Quality Assurance**<br>质量保证入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
+| **Introduction to Pharmaceutical Regulatory Affairs**<br>药品监管事务入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
 | **Technical Writing and Communication I**<br>技术写作与沟通 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
 | **Work Term Preparation**<br>工作学期准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
 | **Pharmaceutical Regulatory Affairs, Work Term**<br>药品监管事务，工作学期 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
 | **International Regulatory Affairs and Harmonization**<br>国际监管事务与协调 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
-| **Introduction to Clinical Research**<br>临床研究导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
+| **Introduction to Clinical Research**<br>临床研究入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
 | **Pharmacoeconomics**<br>药物经济学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
 | **Quality Assurance II**<br>质量保证 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |
 | **Regulatory Affairs II**<br>监管事务 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RAQ/courses.html) |

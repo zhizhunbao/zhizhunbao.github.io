@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **User Experience Design**<br>用户体验设计 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Operating Systems and Security Fundamentals**<br>操作系统与安全基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
-| **Introduction to Database Systems**<br>数据库系统导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
+| **Introduction to Database Systems**<br>数据库系统入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Software Quality I: Testing Tools and Methodologies**<br>软件质量 I：测试工具与方法 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Computer Networks**<br>计算机网络 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Project III: Software Development Life Cycle**<br>项目 III：软件开发生命周期 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
@@ -40,10 +40,10 @@ ms.date: 2026-11-08
 | **Software Quality III: Build and Release**<br>软件质量 III：构建与发布 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Project V: Advanced Software Development**<br>项目 V：高级软件开发 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Understanding Research**<br>理解研究 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
-| **Introduction to Software Security**<br>软件安全导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
+| **Introduction to Software Security**<br>软件安全入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Electives: Program Option**<br>选修课：专业方向选修 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Cloud Computing**<br>云计算 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
-| **Introduction to Big Data**<br>大数据导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
+| **Introduction to Big Data**<br>大数据入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Network Security**<br>网络安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Software Quality IV: Performance and Analysis**<br>软件质量 IV：性能与分析 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |
 | **Project VI: Software Efficiency and Performance**<br>项目 VI：软件效率与性能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours/courses?id=34323) |

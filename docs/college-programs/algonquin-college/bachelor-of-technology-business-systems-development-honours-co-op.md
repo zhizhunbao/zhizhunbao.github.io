@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Technology (Business Systems Development) (Honours)(Co-op)**<br>技术学士（商业系统开发）（荣誉）（带薪实习） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/sat/program/bachelor-of-technology-in-business-systems-development/) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Database Design Fundamentals**<br>数据库设计基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Communications and Academic Writing**<br>沟通与学术写作 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Mathematics for Programming**<br>编程数学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Data Communication and Networking**<br>数据通信与网络 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Logic and Critical Thinking**<br>逻辑与批判性思维 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
-| **Introduction to Mobile Application Development**<br>移动应用开发导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
+| **Introduction to Mobile Application Development**<br>移动应用开发入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Advanced Database Design and SQL**<br>高级数据库设计与SQL | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Internet Architecture and Web Development**<br>互联网架构与 Web 开发 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
@@ -50,7 +50,7 @@ ms.date: 2026-11-08
 | **Navigating Canada's Political Landscape**<br>解读加拿大政治格局 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Risk Management and Strategies**<br>风险管理与策略 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |
 | **Enterprise Application Development**<br>企业应用开发 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6520X03FWO.pdf) |

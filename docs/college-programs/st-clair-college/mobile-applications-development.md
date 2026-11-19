@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Mobile Applications Development**<br>移动应用开发 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mobile-applications-development) |
 | **HTML And CSS**<br>HTML与CSS | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mobile-applications-development) |
-| **Introduction To Programming - JAVA**<br>编程导论 - JAVA | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mobile-applications-development) |
+| **Introduction To Programming - JAVA**<br>编程入门 - JAVA | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mobile-applications-development) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mobile-applications-development) |
 | **Networking I**<br>网络 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mobile-applications-development) |
 | **Data Fundamentals**<br>数据基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mobile-applications-development) |

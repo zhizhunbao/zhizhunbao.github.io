@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Hotel & Resort Management**<br>酒店与度假村管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/hrmm) |
 | **Marketing Fundamentals**<br>营销基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/hrmm) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/hrmm) |
-| **Introduction to Hotels & Resorts**<br>酒店与度假村导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/hrmm) |
+| **Introduction to Hotels & Resorts**<br>酒店与度假村入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/hrmm) |
 | **Financial Analysis & Budgeting**<br>财务分析与预算 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/hrmm) |
 | **Human Resources**<br>人力资源 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/hrmm) |
 | **Industry Certifications**<br>行业认证 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/hrmm) |

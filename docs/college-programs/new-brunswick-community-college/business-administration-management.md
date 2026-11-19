@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration: Management**<br>工商管理：管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c4722ef6-33af-4e00-8646-18f7852a1961) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c4722ef6-33af-4e00-8646-18f7852a1961) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c4722ef6-33af-4e00-8646-18f7852a1961) |
 | **Management**<br>管理学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c4722ef6-33af-4e00-8646-18f7852a1961) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c4722ef6-33af-4e00-8646-18f7852a1961) |
 | **Business Information Systems**<br>商业信息系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c4722ef6-33af-4e00-8646-18f7852a1961) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Content Creation and Strategy**<br>内容创作与策略 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gccs/) |
-| **Introduction to Video Production**<br>视频制作导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gccs/) |
+| **Introduction to Video Production**<br>视频制作入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gccs/) |
 | **Still Image Editing**<br>静态图像编辑 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gccs/) |
 | **Digital Photography**<br>数码摄影 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gccs/) |
 | **Principles of Visual Media**<br>视觉媒体原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gccs/) |

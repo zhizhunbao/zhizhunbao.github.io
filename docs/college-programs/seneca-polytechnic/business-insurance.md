@@ -11,16 +11,16 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business – Insurance**<br>商务：保险 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN.html) |
-| **Introduction to Business Administration**<br>工商管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
+| **Introduction to Business Administration**<br>工商管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Principles and Practices of Insurance**<br>保险原理与实务 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Mathematics of Business and Finance or Mathematics of Business and Finance**<br>商业与金融数学或商业与金融数学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
-| **Introduction to Sustainable Business**<br>可持续商业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
+| **Introduction to Sustainable Business**<br>可持续商业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Accounting I**<br>会计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Insurance on Property**<br>财产保险 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Automobile Insurance Part I**<br>汽车保险 第一部分 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Foundations of Customer Service**<br>客户服务基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Work Term Preparation**<br>工作学期准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Business Insurance, Co-op**<br>商业保险，合作教育 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |
 | **Business Economics**<br>商业经济学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BIN/courses.html) |

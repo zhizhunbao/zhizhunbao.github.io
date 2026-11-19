@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Renewable Energy System**<br>可再生能源系统 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/energy-systems-engineering-technology-fast-track) |
 | **Devices and Digital Electronics**<br>器件与数字电子 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/energy-systems-engineering-technology-fast-track) |
 | **Mechanics and Materials**<br>力学与材料 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/energy-systems-engineering-technology-fast-track) |
-| **Introduction to AutoCAD**<br>AutoCAD 导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/energy-systems-engineering-technology-fast-track) |
+| **Introduction to AutoCAD**<br>AutoCAD 入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/energy-systems-engineering-technology-fast-track) |
 | **Fabrication and Installation**<br>制造与安装 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/energy-systems-engineering-technology-fast-track) |
 | **Fluid Mechanics and Dynamics**<br>流体力学与动力学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/energy-systems-engineering-technology-fast-track) |
 | **Wind and Solar Energy Systems**<br>风能与太阳能系统 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/energy-systems-engineering-technology-fast-track) |

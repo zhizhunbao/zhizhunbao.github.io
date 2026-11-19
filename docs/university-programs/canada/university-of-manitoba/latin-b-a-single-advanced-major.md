@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Latin, B.A. Single Advanced Major**<br>拉丁语，B.A. 单一高级主修 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/latin-ba-single-advanced/) |
-| **Introduction to the Reading of Latin 1**<br>拉丁语阅读导论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/latin-ba-single-advanced/) |
-| **Introduction to the Reading of Latin 2**<br>拉丁语阅读导论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/latin-ba-single-advanced/) |
+| **Introduction to the Reading of Latin 1**<br>拉丁语阅读入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/latin-ba-single-advanced/) |
+| **Introduction to the Reading of Latin 2**<br>拉丁语阅读入门 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/latin-ba-single-advanced/) |
 | **Intermediate Readings in Latin**<br>拉丁语中级阅读 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/latin-ba-single-advanced/) |
 | **Latin Prose Composition and Sight Translation**<br>拉丁语散文写作与视译 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/latin-ba-single-advanced/) |
 

@@ -11,18 +11,18 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Fine Arts**<br>美术 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma) |
-| **Introduction to Critical and Cultural Theory**<br>批判理论与文化理论导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
+| **Introduction to Critical and Cultural Theory**<br>批判理论与文化理论入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Foundation Ceramics**<br>基础陶艺 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
-| **Introduction to Drawing I**<br>绘画导论 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
+| **Introduction to Drawing I**<br>绘画入门 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Foundation Painting**<br>基础绘画 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Foundation Design Studio**<br>基础设计工作室 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Foundation Media Studio**<br>基础媒体工作室 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Foundation Sculpture**<br>基础雕塑 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Foundation Printmaking**<br>基础版画 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
-| **Introduction to Drawing II**<br>绘画导论 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
+| **Introduction to Drawing II**<br>绘画入门 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Professional Practice in Arts and Design**<br>艺术与设计专业实务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Reading and Writing about Literature**<br>文学阅读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/fine-arts-diploma/courses) |
 

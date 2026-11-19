@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **ASL and Deaf Studies**<br>ASL与聋人研究 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
 | **American Sign Language Levels 3-4**<br>美国手语 3至4级 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
-| **Introduction To Linguistics of ASL 1**<br>美国手语语言学导论 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
+| **Introduction To Linguistics of ASL 1**<br>美国手语语言学入门 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
 | **American Sign Language Lab Levels 3-4**<br>美国手语实验课 3至4级 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
-| **Introduction to Deaf Culture and Community**<br>聋人文化与社群导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
+| **Introduction to Deaf Culture and Community**<br>聋人文化与社群入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
 | **Social Justice Perspective of Societal Systems and the Deaf**<br>社会系统与聋人的社会正义视角 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
 | **American Sign Language Levels 5-7**<br>美国手语 5至7级 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
-| **Introduction to Linguistics of ASL 2**<br>美国手语语言学导论 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
+| **Introduction to Linguistics of ASL 2**<br>美国手语语言学入门 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
 | **American Sign Language Lab Levels 5-7**<br>美国手语实验课 5至7级 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
 | **Deafhood: Journey of the Deaf**<br>Deafhood：聋人之旅 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |
 | **Allyship and Accountable Collaboration**<br>盟友关系与负责任协作 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/sign-language/asl-and-deaf-studies/) |

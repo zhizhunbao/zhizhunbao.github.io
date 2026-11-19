@@ -45,13 +45,13 @@ ms.date: 2026-11-08
 | **Rigging, Hoisting and Lifting**<br>索具、吊装与起升 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 | **Communication Lines**<br>通信线路 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 | **Introduction to Live-Line Methods**<br>带电作业方法入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 | **Powerline Technician Math Fundamentals**<br>电力线路技术员数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 | **Workplace Exposure**<br>职场接触 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/powerline-technician) |
 
 ## Courses

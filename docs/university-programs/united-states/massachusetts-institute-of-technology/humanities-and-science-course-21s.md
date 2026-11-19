@@ -1,10 +1,10 @@
 ---
-title: "3.2.36 Humanities and Science (Course 21S)"
+title: "4.2.36 Humanities and Science (Course 21S)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Humanities and Science (Course 21S): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.36 Humanities and Science (Course 21S)
+# 4.2.36 Humanities and Science (Course 21S)
 
 ## Glossary
 
@@ -13,12 +13,12 @@ ms.date: 2026-11-18
 | **Humanities and Science (Course 21S)**<br>人文与科学（Course 21S） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Humanities Pre-Thesis Tutorial**<br>人文学科论文预备辅导课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Undergraduate Thesis in Humanities**<br>人文学科本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
-| **Introduction to Anthropology: Comparing Human Cultures**<br>人类学导论：比较人类文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
+| **Introduction to Anthropology: Comparing Human Cultures**<br>人类学入门：比较人类文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **How Culture Works**<br>文化如何运作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **The Meaning of Life**<br>生命的意义 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Food, Culture, and Politics (CI-M)**<br>饮食、文化与政治 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Seminar in Ethnography and Fieldwork (CI-M)**<br>民族志与田野调查研讨课（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
-| **Introduction to Media Studies**<br>媒介研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
+| **Introduction to Media Studies**<br>媒介研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Current Debates in Media**<br>媒体当前争论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Short Attention Span Documentary**<br>短注意力纪录片 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Civic Media Collaborative Design Studio**<br>公民媒体协作设计工作室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-18
 | **Theories and Methods in the Study of History**<br>历史研究的理论与方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **History Pre-Thesis Tutorial**<br>历史论文预备辅导课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **History Thesis**<br>历史论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
-| **Introduction to Latin American Studies**<br>拉丁美洲研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
+| **Introduction to Latin American Studies**<br>拉丁美洲研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Harmony and Counterpoint I**<br>和声与对位 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Medieval and Renaissance Music**<br>中世纪与文艺复兴音乐 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Baroque and Classical Music**<br>巴洛克与古典音乐 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
@@ -44,13 +44,13 @@ ms.date: 2026-11-18
 | **Intersections: Science, Technology, and the World**<br>交汇：科学、技术与世界 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Undergraduate Thesis Tutorial**<br>本科论文辅导 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Undergraduate Thesis**<br>本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
-| **Introduction to Acting**<br>表演导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
+| **Introduction to Acting**<br>表演入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Physical Improvisation: Bodies in Motion**<br>肢体即兴：运动中的身体 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Fundamentals of Theater Design**<br>戏剧设计基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Performance Media**<br>表演媒体 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Script Analysis**<br>剧本分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Playwriting Fundamentals**<br>剧本写作基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
-| **Introduction to Women's and Gender Studies**<br>女性与性别研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
+| **Introduction to Women's and Gender Studies**<br>女性与性别研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Feminist Thought**<br>女性主义思想 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Writing Pre-Thesis Tutorial**<br>写作论文预备辅导 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |
 | **Writing Program Thesis**<br>写作项目论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-science-course-21s/) |

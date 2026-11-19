@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **SPECIALIST PROGRAM IN ENVIRONMENTAL PHYSICS (SCIENCE)**<br>环境物理学专精项目（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Introductory Chemistry I: Structure and Bonding**<br>化学入门 I：结构与成键 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Introductory Chemistry II: Reactions and Mechanisms**<br>化学入门 II：反应与机理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
-| **Introduction to Planet Earth**<br>地球导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
@@ -27,13 +27,13 @@ ms.date: 2026-11-11
 | **Intermediate Physics Laboratory I**<br>中级物理实验 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Mechanics: From Oscillations to Chaos**<br>力学：从振荡到混沌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Principles of Geomorphology**<br>地貌学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Principles of Climatology**<br>气候学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Principles of Hydrology**<br>水文学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Principles of Soil Science**<br>土壤科学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
-| **Introduction to Global Geophysics**<br>全球地球物理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
+| **Introduction to Global Geophysics**<br>全球地球物理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Thermal Physics**<br>热物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Sedimentology and Stratigraphy**<br>沉积学与地层学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Exploration Geophysics**<br>勘探地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
@@ -52,7 +52,7 @@ ms.date: 2026-11-11
 | **Petrology**<br>岩石学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Structural Geology**<br>构造地质学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Geophysical and Climate Data Analysis**<br>地球物理与气候数据分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
-| **Introduction to Fluid Mechanics**<br>流体力学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
+| **Introduction to Fluid Mechanics**<br>流体力学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Astrophysics of Planetary Systems**<br>行星系统天体物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Geographic Information Systems and Remote Sensing**<br>地理信息系统与遥感 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Field Camp I**<br>野外营 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
@@ -62,7 +62,7 @@ ms.date: 2026-11-11
 | **Research Project in Environmental Science**<br>环境科学研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Environmental Law, Policy and Ethics**<br>环境法、政策与伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Field Techniques**<br>野外技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
-| **Introduction to Atmospheric Physics**<br>大气物理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
+| **Introduction to Atmospheric Physics**<br>大气物理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Research Project in Physics and Astrophysics**<br>物理与天体物理研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Extended Research Project in Physics and Astrophysics**<br>物理与天体物理扩展研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |
 | **Planetary Geophysics**<br>行星地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1076b) |

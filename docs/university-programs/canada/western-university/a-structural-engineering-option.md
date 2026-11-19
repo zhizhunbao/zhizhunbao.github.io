@@ -25,9 +25,9 @@ ms.date: 2026-11-11
 | **APPLIED MATHEMATICS FOR ENGINEERING II**<br>工程应用数学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **APPLIED MATHEMATICS FOR CHEMICAL AND CIVIL ENGINEERING III**<br>化学与土木工程应用数学 III | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **MECHANICS OF MATERIALS**<br>材料力学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ENVIRONMENTAL ENGINEERING**<br>环境工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ENVIRONMENTAL ENGINEERING**<br>环境工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTATIONAL TOOLS FOR CIVIL ENGINEERS**<br>土木工程师计算工具 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STRUCTURAL ENGINEERING**<br>结构工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STRUCTURAL ENGINEERING**<br>结构工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **STRUCTURAL THEORY & DESIGN**<br>结构理论与设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **GEOLOGY FOR ENGINEERS**<br>工程师地质学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **APPLIED PROBABILITY AND STATISTICS FOR ENGINEERS**<br>工程师应用概率与统计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **APPLIED STATISTICS AND DATA ANALYSIS FOR ENGINEERS**<br>工程师应用统计与数据分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **SURVEYING**<br>测量学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **SOIL MECHANICS & HYDROGEOLOGIC ENGINEERING**<br>土力学与水文地质工程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GEOTECHNICAL ENGINEERING**<br>岩土工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GEOTECHNICAL ENGINEERING**<br>岩土工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **ANALYSIS OF INDETERMINATE STRUCTURES**<br>超静定结构分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **FINITE ELEMENT METHODS & APPLICATION TO LATERAL ANALYSIS OF BUILDINGS**<br>有限元方法及其在建筑横向分析中的应用 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **STRUCTURAL DYNAMICS I**<br>结构动力学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-11
 | **DATA SCIENCE FOR GEOTECHNICAL ENGINEERS**<br>岩土工程师数据科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **SELECTED TOPICS IN CIVIL ENGINEERING I**<br>土木工程精选专题 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **SELECTED TOPICS IN CIVIL ENGINEERING II**<br>土木工程精选专题 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WOOD DESIGN**<br>木材设计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WOOD DESIGN**<br>木材设计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **CIVIL ENGINEERING THESIS**<br>土木工程毕业论文 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **RISK ANALYSIS & DECISION MAKING IN ENGINEERING**<br>工程中的风险分析与决策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |
 | **DESIGN OF LATERAL LOAD STRUCTURAL SYSTEMS**<br>横向荷载结构体系设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21264&SelectedCalendar=Live&ArchiveID=) |

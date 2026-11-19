@@ -1,10 +1,10 @@
 ---
-title: "3.4.87 Electrical and Computer Engineering (M.S.)"
+title: "4.4.87 Electrical and Computer Engineering (M.S.)"
 description: "University Programs > United States > Yale University > Electrical and Computer Engineering (M.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.87 Electrical and Computer Engineering (M.S.)
+# 4.4.87 Electrical and Computer Engineering (M.S.)
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **Modern Topics in Optics and Quantum Electronics**<br>光学与量子电子学前沿专题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Quantum Information and Computation**<br>量子信息与计算 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Principles of Optics with Applications**<br>光学原理及应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
-| **Introduction to Light-Matter Interactions**<br>光与物质相互作用导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
+| **Introduction to Light-Matter Interactions**<br>光与物质相互作用入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Quantum Optics**<br>量子光学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Circuit Quantum Electrodynamics**<br>电路量子电动力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Computer Architecture**<br>计算机体系结构 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
@@ -28,11 +28,11 @@ ms.date: 2026-11-18
 | **Database Design and Implementation**<br>数据库设计与实现 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Deep Learning Theory and Applications**<br>深度学习理论与应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Building Interactive Machines**<br>构建交互式机器 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Trustworthy Deep Learning**<br>可信深度学习 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Intelligent Robotics**<br>智能机器人 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Large Language Models: From Foundations to Modern Practice**<br>大语言模型：从基础到现代实践 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
-| **Introduction to Computer Vision**<br>计算机视觉导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
+| **Introduction to Computer Vision**<br>计算机视觉入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Deep Learning on Graph-Structured Data**<br>图结构数据上的深度学习 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Advances in Foundation Models**<br>基础模型进展 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Geometric and Topological Methods in Machine Learning**<br>机器学习中的几何与拓扑方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-18
 | **Electrochemical Energy Storage Devices and Engineering**<br>电化学储能器件与工程 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Detection and Estimation**<br>检测与估计 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Emerging Materials and Technologies toward Sustainability**<br>面向可持续发展的新兴材料与技术 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
-| **Introduction to VLSI System Design**<br>VLSI系统设计导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
+| **Introduction to VLSI System Design**<br>VLSI系统设计入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Silicon Compilation**<br>硅编译 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **FPGA-Based Accelerator Design and Implementation**<br>基于FPGA的加速器设计与实现 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Decisions and Computations across Networks**<br>网络中的决策与计算 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
@@ -59,7 +59,7 @@ ms.date: 2026-11-18
 | **Nanofabrication for Bioelectronic Devices**<br>生物电子器件纳米制造 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Internet Engineering**<br>互联网工程 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Network Algorithms and Stochastic Optimization**<br>网络算法与随机优化 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
-| **Introductory Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
+| **Introductory Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Advanced Optimization Techniques**<br>高级优化技术 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |
 | **Intermediate Machine Learning**<br>中级机器学习 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/electrical-computer-engineering/) |

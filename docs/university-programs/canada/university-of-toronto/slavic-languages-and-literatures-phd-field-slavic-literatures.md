@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Slavic Languages and Literatures PhD; Field: Slavic Literatures**<br>斯拉夫语言与文学（PhD）；领域：斯拉夫文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures) |
 | **Slavic Proseminar**<br>斯拉夫入门研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures) |
 | **Methods of Teaching Slavic Languages**<br>斯拉夫语言教学法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures) |
-| **Introduction to Old Church Slavonic**<br>古教会斯拉夫语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures) |
+| **Introduction to Old Church Slavonic**<br>古教会斯拉夫语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures) |
 
 ## Courses
 

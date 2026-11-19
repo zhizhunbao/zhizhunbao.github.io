@@ -25,25 +25,21 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | 7.5 credits in English are required They should be selected as follows: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | 1. 2.0 credits |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  | ENGA01H3 | What Is Literature? | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  | ENGA02H3 | Critical Writing about Literature | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  | ENGB27H3 | Charting Literary History I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  | ENGB28H3 | Charting Literary History II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | 2. 0.5 additional credit from courses whose content is pre-1900\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | \*See the English Course List for courses in pre-1900 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | 3. 0.5 additional credit in Indigenous Literatures of Turtle Island |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | \*See the English Course List for courses in Indigenous Literatures of Turtle Island |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | 4. At least 0.5 credit at the D-level in ENG or FLM courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | Notes: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  | Students may count no more than one of the following courses towards the Major requirements | ENGB35H3 | Children's Literature | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  | Students may count no more than one of the following courses towards the Major requirements | ENGB36H3 |  | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  | Students may count no more than one of the following courses towards the Major requirements | ENGB41H3 |  | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  | Students may count no more than one 1.0 credit of D-level independent study [ | ENGD26Y3 | Independent Studies in Creative Writing: Poetry | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  | Students may count no more than one 1.0 credit of D-level independent study [ | ENGD27Y3 | Independent Studies in Creative Writing: Prose | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  | Students may count no more than one 1.0 credit of D-level independent study [ | ENGD28Y3 | Independent Studies in Creative Writing: Open Genre | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
-|  |  |  | 3. The following courses do not count towards any English programs: ENG100H, ENG185Y. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 1. 2.0 credits | ENGA01H3 | What Is Literature? | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 1. 2.0 credits | ENGA02H3 | Critical Writing about Literature | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 1. 2.0 credits | ENGB27H3 | Charting Literary History I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 1. 2.0 credits | ENGB28H3 | Charting Literary History II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 1. 2.0 credits |  | 2. 0.5 additional credit from courses whose content is pre-1900\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 1. 2.0 credits |  | \*See the English Course List for courses in pre-1900 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 3. 0.5 additional credit in Indigenous Literatures of Turtle Island |  | \*See the English Course List for courses in Indigenous Literatures of Turtle Island |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level |  | Notes: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level; Students may count no more than one of the following courses towards the Major requirements | ENGB35H3 | Children's Literature | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level; Students may count no more than one of the following courses towards the Major requirements | ENGB36H3 |  | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level; Students may count no more than one of the following courses towards the Major requirements | ENGB41H3 |  | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level; Students may count no more than one 1.0 credit of D-level independent study [ | ENGD26Y3 | Independent Studies in Creative Writing: Poetry | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level; Students may count no more than one 1.0 credit of D-level independent study [ | ENGD27Y3 | Independent Studies in Creative Writing: Prose | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level; Students may count no more than one 1.0 credit of D-level independent study [ | ENGD28Y3 | Independent Studies in Creative Writing: Open Genre | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
+|  | 5. 4.0 additional credits in ENG or FLM courses of which 2.0 credits must be at the C- or D- level |  | 3. The following courses do not count towards any English programs: ENG100H, ENG185Y. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1645) |
 
 ## References
 

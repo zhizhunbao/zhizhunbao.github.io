@@ -12,8 +12,8 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Environmental Science - Major (Science)**<br>环境科学－主修（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **The Environment**<br>环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
-| **Introduction to Biological Anthropology and Archaeology**<br>生物人类学与考古学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
+| **Introduction to Biological Anthropology and Archaeology**<br>生物人类学与考古学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Diversity of Organisms**<br>生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Chemical Principles 1**<br>化学原理 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Chemical Principles 2**<br>化学原理 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
@@ -41,14 +41,14 @@ ms.date: 2026-11-11
 | **Earth Materials**<br>地球物质 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Dynamic Earth**<br>动态地球 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Magmatic Systems and Igneous Petrology**<br>岩浆系统与火成岩岩石学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
-| **Introduction to Geomorphology**<br>地貌学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
+| **Introduction to Geomorphology**<br>地貌学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Global Weather and Climate**<br>全球天气与气候 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Fundamentals of Hydrology**<br>水文学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Biometrics I**<br>生物计量学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Biometrics II**<br>生物计量学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Spatial Data Science I**<br>空间数据科学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
-| **Introduction to GIScience**<br>GIScience导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
+| **Introduction to GIScience**<br>GIScience入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **The Practice of Statistics II**<br>统计实践 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Experimental Design in Environmental Science**<br>环境科学中的实验设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
@@ -120,8 +120,8 @@ ms.date: 2026-11-11
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Politics and Policy of Wildlife Conservation**<br>野生动物保护的政治与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Natural Hazards**<br>自然灾害 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
-| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
-| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
+| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
+| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Global Environmental and Sustainability Politics**<br>全球环境与可持续性政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Sociology of Food**<br>食物社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |
 | **Population and Society**<br>人口与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1061) |

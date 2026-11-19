@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=585&prg_ver=26-A) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=585&prg_ver=26-A) |
 | **HTML & CSS**<br>HTML与CSS | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=585&prg_ver=26-A) |
-| **Introduction To Networking**<br>网络导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=585&prg_ver=26-A) |
+| **Introduction To Networking**<br>网络入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=585&prg_ver=26-A) |
 | **Mathematics for Computer Studies**<br>计算机研究数学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=585&prg_ver=26-A) |
 | **Fundamentals of UNIX**<br>UNIX基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=585&prg_ver=26-A) |
 | **Microsoft Server Administration Part 1**<br>Microsoft服务器管理 第1部分 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=585&prg_ver=26-A) |

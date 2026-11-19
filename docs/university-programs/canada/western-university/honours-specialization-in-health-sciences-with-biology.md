@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **DISCOVERING CHEMICAL ENERGETICS**<br>探索化学能量学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21164&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH PROMOTION**<br>健康促进 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21164&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH POLICY**<br>卫生政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21164&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND HEALTH**<br>伦理与健康导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21164&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND HEALTH**<br>伦理与健康入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21164&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH ISSUES IN CHILDHOOD AND ADOLESCENCE**<br>童年与青春期的健康问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21164&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH ISSUES IN AGING**<br>老龄化中的健康问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21164&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH SCIENCES RESEARCH**<br>健康科学研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21164&SelectedCalendar=Live&ArchiveID=) |

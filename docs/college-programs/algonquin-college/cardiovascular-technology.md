@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Cardiovascular Technology**<br>心血管技术 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/health-sciences/program/cardiovascular-technology/) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1628X01FWO.pdf) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1628X01FWO.pdf) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1628X01FWO.pdf) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1628X01FWO.pdf) |
 | **Cardiovascular Anatomy and Physiology**<br>心血管解剖学与生理学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1628X01FWO.pdf) |
 | **Electrocardiography**<br>心电图学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1628X01FWO.pdf) |

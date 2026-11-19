@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Geographies of Transnational Migration and Settlement**<br>跨国移民与定居地理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/) |
 | **Latin America, Colonial Period**<br>拉丁美洲殖民时期 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/) |
 | **Latin America, Modern Period**<br>拉丁美洲近代 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/) |
-| **Introduction to the History of Southeast Asia**<br>东南亚史导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/) |
+| **Introduction to the History of Southeast Asia**<br>东南亚史入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/) |
 | **History of East Asia from 1600 to the Present**<br>1600 年至今的东亚史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/) |
 | **History of Indigenous Peoples in Canada**<br>加拿大原住民史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/) |
 | **The African Past**<br>非洲往昔 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology/) |

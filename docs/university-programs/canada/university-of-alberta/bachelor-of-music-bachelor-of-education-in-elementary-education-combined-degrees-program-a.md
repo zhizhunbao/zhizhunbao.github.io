@@ -25,11 +25,11 @@ ms.date: 2026-11-11
 | **Music Theory IV**<br>音乐理论 IV | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Western Art Music, Ancient-1800**<br>西方艺术音乐：远古至 1800 年 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Aboriginal Education and Contexts for Professional and Personal Engagement**<br>原住民教育与专业及个人参与的情境 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
-| **Introduction to Music Technologies**<br>音乐技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
+| **Introduction to Music Technologies**<br>音乐技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Western Art Music, 1800-Present**<br>西方艺术音乐：1800 年至今 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
-| **Introduction to Conducting**<br>指挥导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
+| **Introduction to Conducting**<br>指挥入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Choral Conducting and Pedagogy**<br>合唱指挥与教学法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
-| **Introduction to Popular Music**<br>流行音乐导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
+| **Introduction to Popular Music**<br>流行音乐入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **History of Jazz**<br>爵士乐史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Music in Canada**<br>加拿大音乐 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Topics in Ethnomusicology**<br>民族音乐学专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
@@ -39,13 +39,13 @@ ms.date: 2026-11-11
 | **Curriculum and Pedagogy in Elementary School Science**<br>小学科学课程与教学法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Curriculum and Pedagogy in Elementary School Social Studies**<br>小学社会科学课程与教学法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Ethics and Law in Teaching**<br>教学中的伦理与法律 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
-| **Introduction to Inclusive Education: Adapting Classroom Instruction for Students with Special Needs**<br>全纳教育导论：为有特殊需要的学生调整课堂教学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
+| **Introduction to Inclusive Education: Adapting Classroom Instruction for Students with Special Needs**<br>全纳教育入门：为有特殊需要的学生调整课堂教学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Learning and Development from Infancy to Adolescence**<br>从婴儿期到青春期的学习与发展 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Educational Assessment**<br>教育评估 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
-| **Introduction to Educational Technology**<br>教育技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
+| **Introduction to Educational Technology**<br>教育技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Curriculum and Pedagogy in Elementary School Art**<br>小学美术课程与教学法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Curriculum and Pedagogy in Elementary Physical Education and Wellness**<br>小学体育与健康课程与教学法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
-| **Introduction to Health and Wellness Education**<br>健康与保健教育导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
+| **Introduction to Health and Wellness Education**<br>健康与保健教育入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Elementary Education Route: Introductory Field Experience**<br>小学教育路径：入门实地经历 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 | **Elementary Education Route: Advanced Field Experience**<br>小学教育路径：高级实地经历 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110036&returnto=20844) |
 

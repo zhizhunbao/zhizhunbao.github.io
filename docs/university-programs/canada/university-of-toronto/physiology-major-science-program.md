@@ -23,8 +23,8 @@ ms.date: 2026-11-11
 | **Calculus II with Proofs**<br>含证明的微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Analysis 1A**<br>分析 1A | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Analysis 1B**<br>分析 1B | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
-| **Introduction to Physics II**<br>物理学导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
+| **Introduction to Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Foundations of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Biochemistry I: Proteins, Lipids and Metabolism**<br>生物化学 I：蛋白质、脂质与代谢 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-11
 | **The Immune System in Action (Advanced)**<br>运作中的免疫系统（高级） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Research Readiness and Advancing Biomedical Discoveries**<br>研究准备与推进生物医学发现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Basic Human Nutrition**<br>基础人类营养学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
-| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
+| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Pharmacodynamic Principles**<br>药效学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |
 | **Biological Rhythms**<br>生物节律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0482) |

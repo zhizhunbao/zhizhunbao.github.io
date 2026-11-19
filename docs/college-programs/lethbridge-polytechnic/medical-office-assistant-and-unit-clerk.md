@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Medical Office Assistant and Unit Clerk**<br>医疗办公助理与病区文员 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/medical-office-assistant-unit-clerk) |
 | **Interpersonal Relationships and Communications**<br>人际关系与沟通 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/medical-office-assistant-unit-clerk) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/medical-office-assistant-unit-clerk) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/medical-office-assistant-unit-clerk) |
 | **Medical Terminology/Anatomy and Physiology**<br>医学术语/解剖学与生理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/medical-office-assistant-unit-clerk) |
 | **Writing for the Workplace**<br>职场写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/medical-office-assistant-unit-clerk) |
 | **Health Admin & Medical Office Procedures**<br>健康管理与医务办公室程序 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/medical-office-assistant-unit-clerk) |

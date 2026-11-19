@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Group Process and Practice**<br>团体过程与实践 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
 | **Dimensions of Wellness**<br>健康维度 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
 | **Orientation to Educational Support**<br>教育支持入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
-| **Introduction to Exceptionalities**<br>特殊需求导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
+| **Introduction to Exceptionalities**<br>特殊需求入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
 | **Positive Guidance**<br>积极引导 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
 | **Classroom Observation and Documentation**<br>课堂观察与记录 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
 | **Supporting an Inclusive Classroom**<br>支持融合课堂 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Growth and Development: Conception Through Adolescence**<br>成长与发展：从受孕到青春期 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
 | **Interpersonal Behaviour**<br>人际行为 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
 | **Work Safely**<br>安全作业 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=78c6ae7f-af57-4f2d-9639-23dce075d0bc) |
 
 ## Courses
 

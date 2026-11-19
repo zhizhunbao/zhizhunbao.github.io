@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education/courses?id=33917) |
 | **Foundations of Curriculum, Play, and Pedagogy**<br>课程、游戏与教学法基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education/courses?id=33917) |
 | **Child Development: The Early Years**<br>儿童发展：早期阶段 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education/courses?id=33917) |
-| **Introduction to Early Learning and Care**<br>幼儿学习与保育导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education/courses?id=33917) |
+| **Introduction to Early Learning and Care**<br>幼儿学习与保育入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education/courses?id=33917) |
 | **Field Placement I (Early Childhood Education)**<br>实地实习 I（幼儿教育） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education/courses?id=33917) |
 | **Safety in the Workplace**<br>工作场所安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education/courses?id=33917) |
 | **Health Safety & Nutrition**<br>健康安全与营养 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education/courses?id=33917) |

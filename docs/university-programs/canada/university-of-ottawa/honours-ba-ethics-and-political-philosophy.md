@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/) |
 | **Philosophy: Ideas and Arguments**<br>哲学：观念与论证 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/) |
 | **Philosophy: Themes and Texts**<br>哲学：主题与文本 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/) |
-| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/) |
+| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/) |
 | **Logic I**<br>逻辑 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-ethics-political-philosophy/) |

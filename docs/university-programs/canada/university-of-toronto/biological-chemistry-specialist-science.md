@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Biological Chemistry - Specialist (Science)**<br>生物化学－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Chemical Principles 1**<br>化学原理 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Chemical Principles 2**<br>化学原理 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Differential Calculus for Life Sciences**<br>生命科学微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
@@ -44,15 +44,15 @@ ms.date: 2026-11-11
 | **Techniques in Biological Chemistry II**<br>生物化学技术 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Molecular Biology**<br>分子生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Research Opportunity Program**<br>研究机会计划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
-| **Introduction to Research in Chemistry**<br>化学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
-| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
+| **Introduction to Research in Chemistry**<br>化学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
+| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Chemical and Physical Sciences Internship**<br>化学与物理科学实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Advanced Interdisciplinary Research Laboratory**<br>高级跨学科研究实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Advanced Summer Research Project in Biochemistry**<br>生物化学高级暑期研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Advanced Research Project in Biochemistry**<br>生物化学高级研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Plant Biochemistry**<br>植物生物化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Sensors, Sequencers, and Diagnostic Technologies**<br>传感器、测序仪与诊断技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
-| **An Introduction to Medicinal Chemistry and Molecular Recognition**<br>药物化学与分子识别导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
+| **An Introduction to Medicinal Chemistry and Molecular Recognition**<br>药物化学与分子识别入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Revealing the Chemistry behind Biomolecules**<br>揭示生物分子背后的化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Dissertation Based on Literature Research**<br>基于文献研究的学位论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |
 | **Modelling of Biochemical Systems**<br>生化系统建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1995) |

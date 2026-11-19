@@ -13,16 +13,16 @@ ms.date: 2026-11-11
 | **English Specialist (Arts Program)**<br>英语专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Effective Writing**<br>有效写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Literature and the Sciences**<br>文学与科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
-| **Introduction to British Literature I**<br>英国文学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
-| **Introduction to British Literature II**<br>英国文学导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
-| **Introduction to American Literature**<br>美国文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
-| **Introduction to Canadian Literature**<br>加拿大文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
+| **Introduction to British Literature I**<br>英国文学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
+| **Introduction to British Literature II**<br>英国文学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
+| **Introduction to American Literature**<br>美国文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
+| **Introduction to Canadian Literature**<br>加拿大文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Literature and Data**<br>文学与数据 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **The Digital Text**<br>数字文本 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Caribbean Literature**<br>加勒比文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
-| **Introduction to Indigenous Literatures**<br>原住民文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
+| **Introduction to Indigenous Literatures**<br>原住民文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **English Literature and Chinese Translation**<br>英国文学与汉语翻译 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
-| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
+| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Transnational Indigenous Literatures**<br>跨国原住民文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Early African Canadian Literature**<br>早期非裔加拿大文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Later African Canadian Literature**<br>晚近非裔加拿大文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **South Asian Literatures in English**<br>英语南亚文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Postcolonial and Transnational Discourses**<br>后殖民与跨国话语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Topics in Indigenous, Postcolonial, Transnational Literatures**<br>原住民、后殖民、跨国文学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
-| **Introduction to Shakespeare**<br>莎士比亚导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
+| **Introduction to Shakespeare**<br>莎士比亚入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Old English Language and Literature**<br>古英语语言与文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Chaucer**<br>乔叟 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |
 | **Sixteenth-Century Literature**<br>十六世纪文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1645) |

@@ -11,23 +11,23 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR PROGRAM IN CLIMATE CHANGE STUDIES (ARTS)**<br>气候变化研究主修项目（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to Planet Earth**<br>地球导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to Environmental Studies**<br>环境研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to Environmental Studies**<br>环境研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Political Ecology**<br>政治生态学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Cities and Environments: Urban Life, Livelihoods & Landscapes**<br>城市与环境：城市生活、生计与景观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Critical Issues in Politics I**<br>政治中的关键议题 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Critical Issues in Politics II**<br>政治中的关键议题 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to International Relations I**<br>国际关系导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to International Relations I**<br>国际关系入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Comparative Development in International Perspective**<br>国际视角下的比较发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to Comparative Politics**<br>比较政治导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to Anthropology: Society, Culture and Language**<br>人类学导论：社会、文化与语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to Comparative Politics**<br>比较政治入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to Anthropology: Society, Culture and Language**<br>人类学入门：社会、文化与语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Foods That Changed the World**<br>改变世界的食物 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Food Futures: Confronting Crises, Improving Lives**<br>食物的未来：应对危机，改善生活 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to International Development Studies**<br>国际发展研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
-| **Introduction to Women's and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to International Development Studies**<br>国际发展研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
+| **Introduction to Women's and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Addressing the Climate Crisis**<br>应对气候危机 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Climate Science for Everyone**<br>人人学气候科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |
 | **Principles of Climatology**<br>气候学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2745) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Creative and Professional Writing**<br>创意与专业写作学士 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-creative-and-professional-writing) |
-| **Introduction to Creative Writing: Diving In**<br>创意写作导论：潜入其中 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-creative-and-professional-writing) |
+| **Introduction to Creative Writing: Diving In**<br>创意写作入门：潜入其中 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-creative-and-professional-writing) |
 | **Writing 1: Writing Fundamentals**<br>写作 1：写作基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-creative-and-professional-writing) |
 | **Social Media 1**<br>社交媒体 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-creative-and-professional-writing) |
 | **Photography Fundamentals**<br>摄影基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-creative-and-professional-writing) |

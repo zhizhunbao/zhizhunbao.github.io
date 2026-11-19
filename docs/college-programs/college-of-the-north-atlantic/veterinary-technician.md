@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Pharmacological Math**<br>药理学数学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/veterinary-technician) |
 | **Veterinary Medical Terminology**<br>兽医医学术语 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/veterinary-technician) |
 | **Behaviour and Ethics**<br>行为与伦理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/veterinary-technician) |
-| **Introduction to Veterinary Technician Practice**<br>兽医技术员实务导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/veterinary-technician) |
+| **Introduction to Veterinary Technician Practice**<br>兽医技术员实务入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/veterinary-technician) |
 | **Immunology and Genetics**<br>免疫学与遗传学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/veterinary-technician) |
 | **Pharmacology and Physio**<br>药理学与生理学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/veterinary-technician) |
 | **Diagnostic Imaging I**<br>医学影像诊断 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/veterinary-technician) |

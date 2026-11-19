@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Measurement, Evaluation, and Research Methodology, Master of Education**<br>测量、评估与研究方法，教育硕士 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/measurement-evaluation-and-research-methodology) |
-| **Introduction to Research in Education**<br>教育研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/measurement-evaluation-and-research-methodology) |
-| **Introduction to Statistics for Research in Education**<br>教育研究统计学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/measurement-evaluation-and-research-methodology) |
+| **Introduction to Research in Education**<br>教育研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/measurement-evaluation-and-research-methodology) |
+| **Introduction to Statistics for Research in Education**<br>教育研究统计学入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/measurement-evaluation-and-research-methodology) |
 
 ## Courses
 

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Cybersecurity - Automobility**<br>网络安全：汽车移动 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cybersecurity-automobility) |
 | **Law & Ethics In The Digital Age**<br>数字时代的法律与伦理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cybersecurity-automobility) |
-| **Introduction To Networking**<br>网络导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cybersecurity-automobility) |
+| **Introduction To Networking**<br>网络入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cybersecurity-automobility) |
 | **IT Security Management**<br>IT安全管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cybersecurity-automobility) |
 | **Business Communication And Report Writing**<br>商务沟通与报告写作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cybersecurity-automobility) |
 | **Network Security I**<br>网络安全 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cybersecurity-automobility) |

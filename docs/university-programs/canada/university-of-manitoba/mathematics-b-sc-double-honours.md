@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Integral Calculus (B)**<br>积分学 (B) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Elementary Discrete Mathematics**<br>初等离散数学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
-| **Introduction to Statistics and Computing**<br>统计与计算导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
+| **Introduction to Statistics and Computing**<br>统计与计算入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Introductory Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Algebra 1**<br>代数 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
-| **Introduction to Analysis**<br>分析学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
+| **Introduction to Analysis**<br>分析学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Linear Algebra 2**<br>线性代数 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Multivariable Calculus**<br>多元微积分 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Real Analysis 1**<br>实分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Number Theory 1**<br>数论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Algebra 2**<br>代数 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Complex Analysis 1**<br>复分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
-| **Introduction to Topology**<br>拓扑学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
+| **Introduction to Topology**<br>拓扑学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Ordinary Differential Equations**<br>常微分方程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Real Analysis 2**<br>实分析 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |
 | **Real Analysis 3**<br>实分析 3 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-double-honours/) |

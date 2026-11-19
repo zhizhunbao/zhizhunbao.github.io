@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Physics, Honours BSc (Chemical Physics Stream)**<br>物理学，荣誉 BSc（化学物理方向） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
-| **Introduction to the Chemical Properties of Matter**<br>物质化学性质导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
+| **Introduction to the Chemical Properties of Matter**<br>物质化学性质入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
 | **Basic Principles of Chemical Reactivity**<br>化学反应性基本原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
 | **Thermodynamics and Kinetics**<br>热力学与动力学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
 | **Atoms, Molecules and Spectroscopy**<br>原子、分子与光谱学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
@@ -19,9 +19,9 @@ ms.date: 2026-11-11
 | **Physical Chemistry of Condensed Phases**<br>凝聚相物理化学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
 | **Quantum Chemistry and Spectroscopy**<br>量子化学与光谱学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
 | **Quantum Chemistry**<br>量子化学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
-| **Introduction to Calculus I**<br>微积分导论 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
-| **Introduction to Calculus II**<br>微积分导论 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
+| **Introduction to Calculus I**<br>微积分入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
+| **Introduction to Calculus II**<br>微积分入门 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
 | **Differential Equations I**<br>微分方程 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |
 | **Foundations of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=5) |

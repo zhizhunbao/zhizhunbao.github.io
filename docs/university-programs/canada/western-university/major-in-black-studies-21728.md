@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN BLACK STUDIES (21728)**<br>黑人研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BLACK STUDIES**<br>黑人研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BLACK STUDIES**<br>黑人研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
 | **THE BLACK/AFRICAN DIASPORA**<br>黑人/非洲人离散群体 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
 | **ANTHROPOLOGY OF RACE, ETHNICITY, AND IDENTITY**<br>种族、族裔与身份人类学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
 | **BLACK FEMINIST THOUGHT: PRINCIPLES, DEBATES, SOCIAL TRANSFORMATION**<br>黑人女性主义思想：原则、争论与社会变革 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
@@ -30,8 +30,8 @@ ms.date: 2026-11-11
 | **FRENCH AND FRANCOPHONE CULTURES: LA FRANCOPHONIE**<br>法语与法语区文化：法语国家和地区 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
 | **INTERSECTIONS: RACE, CLASS, AND SEXUALITY**<br>交叉性：种族、阶级与性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
 | **AFRICA SOUTH OF THE SAHARA**<br>撒哈拉以南非洲 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
-| **AMERICAN NIGHTMARE: AN INTRODUCTION TO AMERICAN STUDIES**<br>美国噩梦：美国研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
-| **AFRICA: AN INTRODUCTION**<br>非洲导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
+| **AMERICAN NIGHTMARE: AN INTRODUCTION TO AMERICAN STUDIES**<br>美国噩梦：美国研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
+| **AFRICA: AN INTRODUCTION**<br>非洲入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
 | **RACE, ETHNICITY, NATION**<br>种族、族裔、民族 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
 | **DECOLONIZING CANADA**<br>去殖民化加拿大 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |
 | **BIO-CULTURAL DEBATES IN RACE AND ETHNICITY**<br>种族与族裔的生物文化争论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21728&SelectedCalendar=Live&ArchiveID=) |

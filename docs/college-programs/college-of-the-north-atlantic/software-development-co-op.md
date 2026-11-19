@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Procedural Programming**<br>过程式编程 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/software-development-co-op) |
 | **Problem Solving for IT**<br>IT问题求解 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/software-development-co-op) |
 | **SD: Technology & Tools**<br>SD：技术与工具 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/software-development-co-op) |
-| **Intro to the Field of SD**<br>SD领域导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/software-development-co-op) |
+| **Intro to the Field of SD**<br>SD领域入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/software-development-co-op) |
 | **Technical Report Writing II**<br>技术报告写作 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/software-development-co-op) |
 | **JavaScript**<br>JavaScript | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/software-development-co-op) |
 | **Systems Analysis I**<br>系统分析 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/software-development-co-op) |

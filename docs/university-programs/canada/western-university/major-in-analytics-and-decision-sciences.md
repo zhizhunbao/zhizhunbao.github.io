@@ -17,11 +17,11 @@ ms.date: 2026-11-11
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MICROECONOMICS**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MACROECONOMICS**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PSYCHOLOGY**<br>心理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PSYCHOLOGY**<br>心理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **INFORMATION TECHNOLOGY IN THE COMMERCIAL ENVIRONMENT**<br>商业环境中的信息技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY CALCULUS**<br>微积分入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PROGRAMMING AND BASIC DATA ANALYSIS**<br>编程与基础数据分析导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ANALYTICS AND DECISION SCIENCE**<br>分析与决策科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PROGRAMMING AND BASIC DATA ANALYSIS**<br>编程与基础数据分析入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ANALYTICS AND DECISION SCIENCE**<br>分析与决策科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **ECONOMETRICS I**<br>计量经济学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **CONDITIONS FOR ANALYTICAL THINKING AND DECISION-MAKING**<br>分析性思维与决策的条件 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **PREDICTIVE ANALYTICS**<br>预测分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **PROFESSIONAL ANALYTICS**<br>专业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **ANALYTICS CONSULTING PROJECT**<br>分析咨询项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **COGNITIVE PSYCHOLOGY**<br>认知心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIOLOGICAL BASIS OF BEHAVIOUR**<br>行为的生物学基础导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIOLOGICAL BASIS OF BEHAVIOUR**<br>行为的生物学基础入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN PSYCHOLOGY**<br>心理学研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **APPLICATIONS OF PSYCHOLOGY**<br>心理学的应用 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **SPECULATIVE FICTION: SCIENCE FICTION**<br>思辨小说：科幻小说 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
@@ -43,8 +43,8 @@ ms.date: 2026-11-11
 | **HISTORY OF SCIENTIFIC THOUGHT**<br>科学思想史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **ARISTOTELIAN LOGIC**<br>亚里士多德逻辑 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **DATA SCIENCE ETHICS**<br>数据科学伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LOGIC**<br>逻辑学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE THEORY OF KNOWLEDGE**<br>知识论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LOGIC**<br>逻辑学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE THEORY OF KNOWLEDGE**<br>知识论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE FINANCIAL ECONOMICS**<br>中级金融经济学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED MICROECONOMICS 1**<br>高级微观经济学 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **EMPIRICAL METHODS IN FINANCIAL ECONOMICS**<br>金融经济学实证方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
@@ -53,7 +53,7 @@ ms.date: 2026-11-11
 | **ENTREPRENEURIAL THINKING**<br>创业思维 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **DIGITAL MARKETING**<br>数字营销 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **COACHING FOR PERSONAL TRANSFORMATION**<br>个人转变教练 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DATA SCIENCE FOR MOS**<br>MOS 数据科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DATA SCIENCE FOR MOS**<br>MOS 数据科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **COGNITIVE NEUROSCIENCE**<br>认知神经科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **EXPERIMENTAL RESEARCH METHODS AND ANALYSIS**<br>实验研究方法与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |
 | **CORRELATIONAL AND MULTIVARIATE RESEARCH METHODS AND ANALYSIS**<br>相关与多变量研究方法与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21736&SelectedCalendar=Live&ArchiveID=) |

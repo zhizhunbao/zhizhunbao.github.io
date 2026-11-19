@@ -23,8 +23,8 @@ ms.date: 2026-11-11
 | **Calculus II with Proofs**<br>含证明的微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Analysis 1A**<br>分析 1A | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Analysis 1B**<br>分析 1B | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
-| **Introduction to Physics II**<br>物理学导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
+| **Introduction to Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Foundations of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Biochemistry I: Proteins, Lipids and Metabolism**<br>生物化学 I：蛋白质、脂质与代谢 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **From Genes to Organisms with Advanced Laboratory**<br>从基因到生物体（含高级实验） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Multidisciplinary Perspectives on Environment**<br>环境的多学科视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Pathways to Sustainability: An Interdisciplinary Approach**<br>可持续发展之路：跨学科方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
-| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
+| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Human Physiology I**<br>人体生理学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Human Physiology II**<br>人体生理学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Introductory Organic Chemistry II**<br>有机化学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-11
 | **Energy and Environment: Economics, Politics, and Sustainability**<br>能源与环境：经济、政治与可持续性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Contaminants in the Environment and Geoethics**<br>环境中的污染物与地质伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Research Readiness and Advancing Biomedical Discoveries**<br>研究准备与推进生物医学发现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
-| **Introduction to the Biochemistry of Human Disease**<br>人类疾病生物化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
+| **Introduction to the Biochemistry of Human Disease**<br>人类疾病生物化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Research Experience in Pharmacology & Toxicology II**<br>药理学与毒理学研究体验 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **Pharmacology of Cancer Signaling**<br>癌症信号传导药理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |
 | **The DNA Damage Response in Pharmacology and Toxicology**<br>药理学与毒理学中的DNA损伤反应 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0605) |

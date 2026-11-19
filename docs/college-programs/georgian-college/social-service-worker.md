@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Social Service Worker**<br>社会服务工作者 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/social-service-worker/) |
 | **Human Development Across the Lifespan**<br>人生全程人类发展 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/sswk/) |
-| **Introduction to Social Service Work**<br>社会服务工作导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/sswk/) |
+| **Introduction to Social Service Work**<br>社会服务工作入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/sswk/) |
 | **Family Sociology for Social Service Work**<br>社会服务工作的家庭社会学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/sswk/) |
 | **Principles of a Helping Relationship**<br>助人关系原则 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/sswk/) |
 | **Field Placement Preparation**<br>现场实习准备 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/sswk/) |

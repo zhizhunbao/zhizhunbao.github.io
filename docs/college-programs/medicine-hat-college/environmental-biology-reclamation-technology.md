@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Environmental Biology & Reclamation Technology**<br>环境生物与复垦技术 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
-| **Introduction to Botany**<br>植物学导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
-| **Introduction to Environmental Science Concepts**<br>环境科学概念导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
+| **Introduction to Botany**<br>植物学入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
+| **Introduction to Environmental Science Concepts**<br>环境科学概念入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
 | **Energy Fundamentals**<br>能源基础 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
 | **The Physical Environment**<br>自然环境 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
 | **Invasive Species Ecology and Management**<br>入侵物种生态与管理 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
 | **Water Fundamentals**<br>水基础 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
-| **Introduction to Geographic Information Science**<br>地理信息科学导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
+| **Introduction to Geographic Information Science**<br>地理信息科学入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
 | **Any 200-level Statistics**<br>任意200级统计学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |
 | **Plant Taxonomy**<br>植物分类学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/environmental-biology-and-reclamation-technology) |

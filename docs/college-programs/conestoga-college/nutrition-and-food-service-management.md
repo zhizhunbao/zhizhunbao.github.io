@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Foundations of Food Service Management**<br>餐饮服务管理基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/nutrition-and-food-service-management/courses-no-intake?id=15441) |
 | **Math for Nutrition & Food**<br>营养与食品数学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/nutrition-and-food-service-management/courses-no-intake?id=15441) |
 | **Professional Practice for the Nutrition Manager**<br>营养经理专业实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/nutrition-and-food-service-management/courses-no-intake?id=15441) |
-| **Introduction to Nutrition**<br>营养学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/nutrition-and-food-service-management/courses-no-intake?id=15441) |
+| **Introduction to Nutrition**<br>营养学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/nutrition-and-food-service-management/courses-no-intake?id=15441) |
 | **Sanitation, Safety and Quality Assurance**<br>卫生、安全与质量保证 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/nutrition-and-food-service-management/courses-no-intake?id=15441) |
 | **Food Service I**<br>餐饮服务 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/nutrition-and-food-service-management/courses-no-intake?id=15441) |
 | **Food Production and Modification**<br>食品生产与改良 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/nutrition-and-food-service-management/courses-no-intake?id=15441) |

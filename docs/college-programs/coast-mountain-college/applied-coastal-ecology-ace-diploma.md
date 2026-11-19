@@ -17,17 +17,17 @@ ms.date: 2026-11-08
 | **Principles of Chemistry II**<br>化学原理 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Physical Geog: Weather and Climate**<br>自然地理：天气与气候 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Physical Geography II: Geology, Geomorphology and Soils**<br>自然地理学 II：地质、地貌与土壤 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Technical Writing I**<br>技术写作 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Precalculus**<br>预备微积分 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Calculus I: Differential Calculus**<br>微积分 I：微分学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Spatial Analysis and Gis**<br>空间分析与地理信息系统 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Principles of Ecology**<br>生态学原理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
-| **Intro Physical, Chemical and Geological Oceanography**<br>物理、化学与地质海洋学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
-| **Introduction to Biological Oceanography**<br>生物海洋学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
+| **Intro Physical, Chemical and Geological Oceanography**<br>物理、化学与地质海洋学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
+| **Introduction to Biological Oceanography**<br>生物海洋学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Invertebrate Zoology**<br>无脊椎动物学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **The Biology of Plants**<br>植物生物学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |
 | **Ornithology: Biology of Birds**<br>鸟类学：鸟类生物学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/applied-coastal-ecology) |

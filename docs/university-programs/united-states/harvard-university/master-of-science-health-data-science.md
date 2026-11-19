@@ -1,10 +1,10 @@
 ---
-title: "3.1.88 Master of Science – Health Data Science"
+title: "4.1.88 Master of Science – Health Data Science"
 description: "University Programs > United States > Harvard University > Master of Science – Health Data Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.88 Master of Science – Health Data Science
+# 4.1.88 Master of Science – Health Data Science
 
 ## Glossary
 
@@ -12,7 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Master of Science – Health Data Science**<br>健康数据科学（理学硕士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Basics of Statistical Inference**<br>统计推断基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Data Science II**<br>数据科学 II | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Computing for Big Data**<br>大数据计算 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Statistical Learning**<br>统计学习 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
@@ -20,25 +20,25 @@ ms.date: 2026-11-18
 | **Applied Data Structures and Algorithms**<br>应用数据结构与算法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Bayesian Methodology in Biostatistics**<br>生物统计学中的贝叶斯方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Genomic Data Manipulation**<br>基因组数据处理 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
-| **Introduction to Computational Biology and Bioinformatics**<br>计算生物学与生物信息学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
+| **Introduction to Computational Biology and Bioinformatics**<br>计算生物学与生物信息学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Advanced Practical Data Science**<br>高级实用数据科学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Applied Linear Algebra and Big Data**<br>应用线性代数与大数据 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Stochastic Methods in Artificial Intelligence**<br>人工智能中的随机方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Advanced Coding and Statistics for Biomedical Informatics**<br>生物医学信息学高级编程与统计 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Privacy and Technology**<br>隐私与技术 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
-| **Introduction to Algorithms and their Limitations**<br>算法及其局限导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
+| **Introduction to Algorithms and their Limitations**<br>算法及其局限入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Visualization**<br>可视化 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Planning and Learning Methods in AI**<br>人工智能中的规划与学习方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **High Performance Computing for Science and Engineering**<br>面向科学与工程的高性能计算 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Advances in Computer Vision**<br>计算机视觉进展 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Reinforcement Learning: Foundations in Methods**<br>强化学习：方法基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Artificial Intelligence in Medicine**<br>医学中的人工智能 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
-| **Introduction to Stochastic Processes**<br>随机过程导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
+| **Introduction to Stochastic Processes**<br>随机过程入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Principles of Clinical Trials**<br>临床试验原理 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Applied Regression Methods**<br>应用回归方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Applied Survival Analysis**<br>应用生存分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Applied Longitudinal Analysis**<br>应用纵向分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
-| **Introduction to Social and Biological Networks**<br>社会网络与生物网络导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
+| **Introduction to Social and Biological Networks**<br>社会网络与生物网络入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Functional Data Analysis in Digital Health**<br>数字健康中的函数型数据分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Database Analytics in Pharmacoepidemiology**<br>药物流行病学中的数据库分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |
 | **Decision Analysis for Health and Medical Practices**<br>卫生与医疗实践的决策分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-health-data-science/) |

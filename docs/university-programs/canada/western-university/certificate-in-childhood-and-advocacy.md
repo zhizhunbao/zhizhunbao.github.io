@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN CHILDHOOD AND ADVOCACY**<br>儿童与倡导证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20693&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHILDHOOD AND YOUTH STUDIES**<br>童年与青少年研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20693&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ADVOCACY**<br>倡导导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20693&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHILDHOOD AND YOUTH STUDIES**<br>童年与青少年研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20693&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ADVOCACY**<br>倡导入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20693&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDHOOD, YOUTH, AND PUBLIC POLICY**<br>童年、青少年与公共政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20693&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL CHILDREN'S RIGHTS**<br>国际儿童权利 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20693&SelectedCalendar=Live&ArchiveID=) |
 | **STUDENT RIGHTS IN SCHOOLS**<br>学校中的学生权利 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20693&SelectedCalendar=Live&ArchiveID=) |

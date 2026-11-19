@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Biosystems Engineering Design 3**<br>生物系统工程设计 3 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
 | **Biosystems Engineering Design 4**<br>生物系统工程设计 4 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
 | **Introductory Chemistry 2: Interaction, Reactivity, and Chemical Properties**<br>化学入门 2：相互作用、反应性与化学性质 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
-| **Introduction to Chemistry Techniques for Engineering 2**<br>工程化学技术导论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
+| **Introduction to Chemistry Techniques for Engineering 2**<br>工程化学技术入门 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
 | **Engineering CAD Technology for Biosystems**<br>生物系统工程 CAD 技术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
 | **Engineering Economics**<br>工程经济学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
 | **Engineering Mathematical Analysis 1**<br>工程数学分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
@@ -64,7 +64,7 @@ ms.date: 2026-11-11
 | **Indigenous History in Canada (C)**<br>加拿大原住民史 (C) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
 | **The Métis in Canada**<br>加拿大的梅蒂人 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
 | **The Métis in Canada (C)**<br>加拿大的梅蒂人（C） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
-| **Introduction to Indigenous Politics**<br>原住民政治导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
+| **Introduction to Indigenous Politics**<br>原住民政治入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/biosystems-engineering/biosystems-engineering-bsc/) |
 
 ## Courses
 

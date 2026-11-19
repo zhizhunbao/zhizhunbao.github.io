@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Indigenous Economies**<br>原住民经济 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110666&returnto=20851) |
 | **Governance in Indigenous Nations**<br>原住民民族的治理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110666&returnto=20851) |
 | **Partnership Strategies**<br>伙伴关系策略 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110666&returnto=20851) |
-| **Introduction to Indigenous Legal Issues**<br>原住民法律问题导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110666&returnto=20851) |
+| **Introduction to Indigenous Legal Issues**<br>原住民法律问题入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110666&returnto=20851) |
 | **Indigenous Legal Systems**<br>原住民法律体系 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110666&returnto=20851) |
 | **Métis Politics**<br>梅蒂人政治 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110666&returnto=20851) |
 | **Selected Topics in Indigenous Studies (Governance Topics Only)**<br>原住民研究专题选读（仅限治理专题） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110666&returnto=20851) |

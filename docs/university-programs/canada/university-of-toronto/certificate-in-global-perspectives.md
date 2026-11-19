@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Global Perspectives**<br>全球视角证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Sociocultural and Linguistic Anthropology**<br>社会文化与语言人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Sociocultural and Linguistic Anthropology**<br>社会文化与语言人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Culture and Communication**<br>文化与传播 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Being Human: Classic Thought on Self and Society**<br>成为人：关于自我与社会的经典思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **The Culture Machine: The Anthropology of Everyday Life**<br>文化机器：日常生活人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **War, Trade and Aid: The Anthropology of Global Intervention**<br>战争、贸易与援助：全球干预人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **How Should One Live? An Introduction to the Anthropology of Ethics**<br>人应如何生活？伦理人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **How Should One Live? An Introduction to the Anthropology of Ethics**<br>人应如何生活？伦理人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Anthropology of Youth**<br>青年人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Anthropology of Gender**<br>性别人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Globalization and the Changing World of Work**<br>全球化与不断变化的工作世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
@@ -37,8 +37,8 @@ ms.date: 2026-11-11
 | **Taiwan New Wave in Our Time**<br>我们时代的台湾新浪潮 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **East and Southeast Asian Cinemas of Migration**<br>东亚与东南亚移民电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Traditions of Theatre and Drama**<br>戏剧与剧作传统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Diaspora and Transnational Studies I**<br>离散与跨国研究导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Diaspora and Transnational Studies II**<br>离散与跨国研究导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Diaspora and Transnational Studies I**<br>离散与跨国研究入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Diaspora and Transnational Studies II**<br>离散与跨国研究入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **World Economic History Prior to 1870**<br>1870年以前的世界经济史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **World Economic History After 1870**<br>1870年以后的世界经济史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Growth and Development of the Chinese Economy**<br>中国经济的增长与发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **Later Medieval Art and Architecture**<br>中世纪晚期艺术与建筑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Renaissance Art and Architecture**<br>文艺复兴艺术与建筑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Baroque Art and Architecture**<br>巴洛克艺术与建筑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **An Introduction to Islamic Art and Architecture**<br>伊斯兰艺术与建筑导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **An Introduction to Islamic Art and Architecture**<br>伊斯兰艺术与建筑入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Gardens, Homes, and Palaces in the Muslim World**<br>穆斯林世界的花园、住宅与宫殿 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **European Art of the Nineteenth Century**<br>十九世纪欧洲艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Pilgrimage**<br>朝圣 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
@@ -68,7 +68,7 @@ ms.date: 2026-11-11
 | **Politics in a Global World**<br>全球化世界中的政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **International Law**<br>国际法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Cultural Sociology**<br>文化社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to the Sociology of Genocide**<br>种族灭绝社会学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to the Sociology of Genocide**<br>种族灭绝社会学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Globalization**<br>全球化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Social History of Race and Ethnicity**<br>种族与族裔社会史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Environmental Sociology**<br>环境社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
@@ -90,14 +90,14 @@ ms.date: 2026-11-11
 | **Arab Culture I**<br>阿拉伯文化 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Women and LGBTQ+ Writers and Filmmakers of the Francophone World**<br>法语世界的女性与LGBTQ+作家和电影人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Francophone African and Caribbean Cinema**<br>法语非洲与加勒比电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Middle Eastern History**<br>中东史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to African History**<br>非洲史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Middle Eastern History**<br>中东史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to African History**<br>非洲史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **The Rwandan Genocide: History, Violence, and Identity**<br>卢旺达种族灭绝：历史、暴力与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Modern African History**<br>近代非洲史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **The Making of the Atlantic World (1000-1800)**<br>大西洋世界的形成（1000-1800） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **International Relations in the Middle East - Regional Perspectives on the 20th Century**<br>中东国际关系：20世纪的区域视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **African Linguistics**<br>非洲语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Islam**<br>伊斯兰教导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Islam**<br>伊斯兰教入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Anthropology and the Indigenous Peoples of Turtle Island (in Canada)**<br>人类学与龟岛（加拿大）原住民 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Archaeology of Indigenous Eastern North America**<br>北美东部原住民考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Indigenous Education**<br>原住民教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
@@ -108,7 +108,7 @@ ms.date: 2026-11-11
 | **Revolutions and Nations in Latin America**<br>拉丁美洲的革命与民族 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Slavery and the American South**<br>奴隶制与美国南方 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Canada in Comparative Perspective**<br>比较视野下的加拿大 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Indigenous Traditions**<br>原住民传统导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Indigenous Traditions**<br>原住民传统入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Music and Dance in Hispanic Culture**<br>西语文化中的音乐与舞蹈 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Latin American Cinema**<br>拉丁美洲电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **North American Consumer Culture: 1890-Present**<br>北美消费文化：1890年至今 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
@@ -117,26 +117,26 @@ ms.date: 2026-11-11
 | **South Asian Archaeology**<br>南亚考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Chinese Cultural Studies Seminar**<br>中国文化研究研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Bollywood in Context**<br>语境中的宝莱坞 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to South Asian History**<br>南亚史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to East Asian History**<br>东亚史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to South Asian History**<br>南亚史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to East Asian History**<br>东亚史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **East Asian Cities**<br>东亚城市 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Caste in South Asian History**<br>南亚史中的种姓 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Language and Culture: Area study**<br>语言与文化：区域研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Chinese Linguistics**<br>汉语语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Topics in Chinese Linguistics**<br>汉语语言学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Key Themes in South Asian Religions**<br>南亚宗教的关键主题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Sikhism**<br>锡克教导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Hinduism**<br>印度教导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Sikhism**<br>锡克教入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Hinduism**<br>印度教入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **The Ramayana**<br>罗摩衍那 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Topics in South Asian Religions**<br>南亚宗教专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **South Asian Visual Culture**<br>南亚视觉文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Genealogies of South Asian Feminisms**<br>南亚女性主义谱系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Greek History**<br>希腊史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Roman History**<br>罗马史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Greek History**<br>希腊史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Roman History**<br>罗马史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Interpreting French Narratives**<br>解读法语叙事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to European History 1300-1815**<br>1300-1815年欧洲史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to British History**<br>英国史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
-| **Introduction to Russian History**<br>俄罗斯史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to European History 1300-1815**<br>1300-1815年欧洲史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to British History**<br>英国史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
+| **Introduction to Russian History**<br>俄罗斯史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **The Holocaust in Nazi Germany and Occupied Europe**<br>纳粹德国与被占领欧洲的大屠杀 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Postwar Germany, 1945-present**<br>战后德国，1945年至今 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |
 | **Italian Novels on the Big Screen**<br>大银幕上的意大利小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2019) |

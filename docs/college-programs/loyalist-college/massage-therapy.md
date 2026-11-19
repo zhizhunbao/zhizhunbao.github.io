@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/massage-therapy/) |
 | **Care of Special Populations 2**<br>特殊人群护理 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/massage-therapy/) |
 | **Community Placement 1**<br>社区实习 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/massage-therapy/) |
-| **Introduction to Research in Practice**<br>实践研究导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/massage-therapy/) |
+| **Introduction to Research in Practice**<br>实践研究入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/massage-therapy/) |
 | **Pathophysiology 2**<br>病理生理学 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/massage-therapy/) |
 | **Treatment Planning for Inflammatory & Musculoskeletal Conditions**<br>炎症与肌肉骨骼疾病的治疗规划 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/massage-therapy/) |
 | **Treatment of Inflammatory & Musculoskeletal Conditions**<br>炎症与肌肉骨骼疾病的治疗 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/massage-therapy/) |

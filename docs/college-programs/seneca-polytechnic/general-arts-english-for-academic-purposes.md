@@ -14,9 +14,9 @@ ms.date: 2026-11-08
 | **Customized Language Learning - Intermediate**<br>定制语言学习 - 中级 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
 | **EAP: Intermediate Reading and Writing**<br>EAP：中级读写 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
 | **EAP: Intermediate Listening and Speaking**<br>EAP：中级听说 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
-| **Introduction to Computers and Applications**<br>计算机与应用导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
-| **Introduction to Seneca Studies**<br>Seneca研究导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
-| **Introduction to Canadian Studies**<br>加拿大研究导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
+| **Introduction to Computers and Applications**<br>计算机与应用入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
+| **Introduction to Seneca Studies**<br>Seneca研究入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
+| **Introduction to Canadian Studies**<br>加拿大研究入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
 | **Customized Language Learning - Advanced**<br>定制语言学习 - 高级 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
 | **EAP: Advanced Reading and Writing Skills**<br>EAP：高级读写技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |
 | **EAP: Advanced Listening and Speaking Skills**<br>EAP：高级听说技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GEA/courses.html) |

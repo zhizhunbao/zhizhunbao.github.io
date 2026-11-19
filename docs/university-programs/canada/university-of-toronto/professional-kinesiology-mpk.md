@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Professional Kinesiology MPK**<br>专业运动机能学（MPK） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Kinesiology) |
-| **Introduction to Professional Kinesiology**<br>专业运动机能学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Kinesiology) |
+| **Introduction to Professional Kinesiology**<br>专业运动机能学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Kinesiology) |
 | **Biophysical Assessment & Interventions**<br>生物物理评估与干预 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Kinesiology) |
 | **Physical, Culture, Health, and Social Environments**<br>自然、文化、健康与社会环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Kinesiology) |
 | **Strength Based Professional Practice**<br>优势视角专业实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Kinesiology) |

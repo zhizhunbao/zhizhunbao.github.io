@@ -1,10 +1,10 @@
 ---
-title: "3.4.107 Master of Forestry"
+title: "4.4.107 Master of Forestry"
 description: "University Programs > United States > Yale University > Master of Forestry: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.107 Master of Forestry
+# 4.4.107 Master of Forestry
 
 ## Glossary
 
@@ -28,7 +28,7 @@ ms.date: 2026-11-18
 | **Invasive Species: Ecology, Policy, and Management**<br>入侵物种：生态、政策与管理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **Lectures, Discussions, and Applications of Soil Science**<br>土壤科学讲授、讨论与应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **Dynamic Earth**<br>动态地球 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
-| **Introduction to Earth and Environmental Physics**<br>地球与环境物理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
+| **Introduction to Earth and Environmental Physics**<br>地球与环境物理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **Water Management**<br>水资源管理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **Global Carbon Cycle**<br>全球碳循环 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **The Physical Science of Climate Change**<br>气候变化的物理科学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |

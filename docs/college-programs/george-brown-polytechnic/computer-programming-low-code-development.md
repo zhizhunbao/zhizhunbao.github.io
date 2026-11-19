@@ -13,15 +13,15 @@ ms.date: 2026-11-08
 | **Computer Programming - Low Code Development**<br>计算机编程 - 低代码开发 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **IT Essentials: Computer Hardware Fundamentals**<br>IT基础：计算机硬件基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
-| **Introduction to Web Development**<br>Web开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
+| **Introduction to Web Development**<br>Web开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **Fundamentals of Computing Logic**<br>计算逻辑基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
-| **Introduction to Data Management**<br>数据管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
+| **Introduction to Data Management**<br>数据管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **Mathematics for Computer Technology I**<br>计算机技术数学 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **Database Fundamentals**<br>数据库基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **User Experience Design Essentials**<br>用户体验设计基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **Low-Code System Development I**<br>低代码系统开发 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
-| **Introduction to Low-Code Development**<br>低代码开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
+| **Introduction to Low-Code Development**<br>低代码开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **Personal Finance**<br>个人理财 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **Process Automation**<br>过程自动化 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |
 | **System Integration & Security**<br>系统集成与安全 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-low-code-program-t189) |

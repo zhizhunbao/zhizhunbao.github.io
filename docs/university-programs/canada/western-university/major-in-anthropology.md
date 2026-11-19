@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN ANTHROPOLOGY**<br>人类学主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20990&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIOCULTURAL AND LINGUISTIC ANTHROPOLOGY**<br>社会文化与语言人类学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20990&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIOLOGICAL ANTHROPOLOGY AND ARCHAEOLOGY**<br>生物人类学与考古学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20990&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIOCULTURAL AND LINGUISTIC ANTHROPOLOGY**<br>社会文化与语言人类学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20990&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIOLOGICAL ANTHROPOLOGY AND ARCHAEOLOGY**<br>生物人类学与考古学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20990&SelectedCalendar=Live&ArchiveID=) |
 | **MANY WAYS OF BEING HUMAN**<br>做人的多种方式 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20990&SelectedCalendar=Live&ArchiveID=) |
 | **DEBATES IN SOCIOCULTURAL ANTHROPOLOGY**<br>社会文化人类学中的争论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20990&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGICAL ANTHROPOLOGY**<br>生物人类学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20990&SelectedCalendar=Live&ArchiveID=) |

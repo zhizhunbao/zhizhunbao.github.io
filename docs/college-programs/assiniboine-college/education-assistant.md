@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Inclusive Practices**<br>融合实践 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/education-assistant) |
 | **Indigenous Perspectives**<br>原住民视角 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/education-assistant) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/education-assistant) |
-| **Introduction to the Profession**<br>职业导论 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/education-assistant) |
+| **Introduction to the Profession**<br>职业入门 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/education-assistant) |
 | **Language and Literacy**<br>语言与读写能力 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/education-assistant) |
 | **Observation and Report Writing**<br>观察与报告写作 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/education-assistant) |
 | **Professionalism**<br>职业素养 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/education-assistant) |

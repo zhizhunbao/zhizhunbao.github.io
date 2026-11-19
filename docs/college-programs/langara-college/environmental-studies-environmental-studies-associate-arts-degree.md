@@ -16,15 +16,15 @@ ms.date: 2026-11-08
 | **Environmental Law**<br>环境法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Field School**<br>野外学校 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Environmental Geography**<br>环境地理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Aboriginal Community Development**<br>原住民社区发展 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Urban Aboriginal Strategies**<br>城市原住民策略 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Colonialism and Reconciliation in BC**<br>BC 省的殖民主义与和解 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
@@ -36,19 +36,19 @@ ms.date: 2026-11-08
 | **Geographies of Money and Power**<br>货币与权力地理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Modern British Columbia**<br>现代不列颠哥伦比亚 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Environmental History**<br>环境史 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学导论：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学入门：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Environmental Ethics**<br>环境伦理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Contemporary Moral Issues**<br>当代道德问题 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Canadian Politics and Government**<br>加拿大政治与政府 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Politics in the Developing Nations**<br>发展中国家政治 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to Urban Politics**<br>城市政治导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to Urban Politics**<br>城市政治入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **International Political Economy**<br>国际政治经济学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to Environmental Sociology**<br>环境社会学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to Environmental Sociology**<br>环境社会学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **General Biology I**<br>普通生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
-| **Introduction to Environmental Ecology**<br>环境生态学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
+| **Introduction to Environmental Ecology**<br>环境生态学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **General Biology II**<br>普通生物学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Biodiversity and Conservation Biology**<br>生物多样性与保护生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |
 | **Environmental Chemistry for Arts Majors I**<br>文科专业环境化学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-arts-degree/courses) |

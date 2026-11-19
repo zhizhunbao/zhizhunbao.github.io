@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Child and Youth Care (compressed)**<br>儿童与青少年关怀（压缩制） | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/child-and-youth-care) |
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/child-and-youth-care) |
-| **Introduction to Child and Youth Care**<br>儿童与青少年关怀导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/child-and-youth-care) |
+| **Introduction to Child and Youth Care**<br>儿童与青少年关怀入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/child-and-youth-care) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/child-and-youth-care) |
 | **Indigenous Elective**<br>原住民选修课 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/child-and-youth-care) |
 | **Interviewing Skills 1**<br>访谈技能 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/child-and-youth-care) |

@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **DISCOVERING CHEMICAL ENERGETICS**<br>探索化学能量学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS I**<br>工科学生物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS II**<br>工科学生物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR ENGINEERS I**<br>工程师微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-11
 | **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA WITH NUMERICAL ANALYSIS FOR ENGINEERING**<br>工程数值分析线性代数 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR ENGINEERS II**<br>工程师微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS I**<br>物理学导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **STRUCTURE AND BONDING IN INORGANIC CHEMISTRY**<br>无机化学中的结构与成键 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY ANALYTICAL CHEMISTRY**<br>分析化学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |
 | **ORGANIC CHEMISTRY I : STRUCTURE AND SPECTROSCOPY**<br>有机化学 I：结构与波谱学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21077&SelectedCalendar=Live&ArchiveID=) |

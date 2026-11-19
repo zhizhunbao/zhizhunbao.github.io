@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Feminist and Gender Studies**<br>女性主义和性别研究主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-feminist-gender-studies/) |
-| **Women, Gender, Feminism: An Introduction**<br>女性、性别、女性主义导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-feminist-gender-studies/) |
+| **Women, Gender, Feminism: An Introduction**<br>女性、性别、女性主义入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-feminist-gender-studies/) |
 | **Methodology in Feminist Studies**<br>女性主义研究方法论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-feminist-gender-studies/) |
 | **Gender and Globalization in a Transnational World**<br>跨国世界中的性别与全球化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-feminist-gender-studies/) |
 | **Feminist Theories**<br>女性主义理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-feminist-gender-studies/) |

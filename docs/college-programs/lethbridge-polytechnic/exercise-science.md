@@ -35,18 +35,18 @@ ms.date: 2026-11-08
 | **Physiology of Aging**<br>衰老生理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Wellness and Health Issues**<br>健康与保健问题 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Service-Based Small Business Management**<br>服务型小企业管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Composition**<br>作文 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Logic**<br>逻辑学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
-| **Introduction to Coaching**<br>教练学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
+| **Introduction to Coaching**<br>教练学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Therapeutic Exercise**<br>治疗性运动 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Leadership in Physical Education**<br>体育教育中的领导力 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Advanced Coaching**<br>高级教练学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Human Development Across the Lifespan**<br>人生全程人类发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Psychology of Aging**<br>老年心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Psychology of Sports**<br>运动心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Sociology of Sports**<br>体育社会学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |
 | **Multicultural Issues**<br>多元文化问题 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/exercise-science) |

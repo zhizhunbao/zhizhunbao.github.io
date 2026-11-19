@@ -12,9 +12,9 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Engineering Technology - Computing Science (Co-op and Non Co-op Version)**<br>计算机工程技术—计算科学（带薪实习与非带薪实习版） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/) |
 | **Foundation of Ai-Assisted Development**<br>人工智能辅助开发基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |
-| **Introduction to Database**<br>数据库导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |
+| **Introduction to Database**<br>数据库入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |
 | **Technical Mathematics for Computer Science**<br>计算机科学技术数学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |
 | **Operating System Fundamentals (GNU/Linux)**<br>操作系统基础（GNU/Linux） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0006X03FWO.pdf) |

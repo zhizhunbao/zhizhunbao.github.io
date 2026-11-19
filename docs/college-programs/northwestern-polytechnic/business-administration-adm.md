@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Business Administration (ADM)**<br>工商管理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
 | **Principles of Accounting**<br>会计原理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
 | **Computers in Business**<br>商务计算机 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |
 | **Organizational Behavior**<br>组织行为学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-certificate) |

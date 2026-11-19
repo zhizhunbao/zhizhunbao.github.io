@@ -12,9 +12,9 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Criminology and Sociolegal Studies - Specialist (Arts Program)**<br>犯罪学与社会法学研究－专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **True Crime? The Myths and Realities of Media Depictions of Crime and Justice**<br>真实犯罪？媒体对犯罪与司法描绘的迷思与现实 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Criminal Justice**<br>刑事司法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
-| **Introduction to Sociolegal Studies**<br>社会法律研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
+| **Introduction to Sociolegal Studies**<br>社会法律研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Policing**<br>警务 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Punishment: Theory and Practice**<br>惩罚：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
@@ -59,8 +59,8 @@ ms.date: 2026-11-11
 | **Issues in Philosophy of Law**<br>法哲学问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Statistics II**<br>统计学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
-| **Introduction to Social Psychology**<br>社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
-| **Introduction to Psychopathology and Clinical Science**<br>精神病理学与临床科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
+| **Introduction to Social Psychology**<br>社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
+| **Introduction to Psychopathology and Clinical Science**<br>精神病理学与临床科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Psychology and the Law**<br>心理学与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Urban Sociology**<br>城市社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |
 | **Sociology of Crime & Deviance**<br>犯罪与越轨社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0826) |

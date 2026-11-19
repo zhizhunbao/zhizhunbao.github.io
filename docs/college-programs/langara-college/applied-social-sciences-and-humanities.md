@@ -11,29 +11,29 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Applied Social Sciences and Humanities**<br>应用社会科学与人文 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma) |
-| **Introduction to Digital Literacy**<br>数字素养导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Digital Literacy**<br>数字素养入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Directions in Applied Social Sciences and Humanities**<br>应用社会科学与人文学科发展方向 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to Human Geography**<br>人文地理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学导论：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to Government and Politics**<br>政府与政治导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Human Geography**<br>人文地理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学入门：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Government and Politics**<br>政府与政治入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **E-Portfolio**<br>电子作品集 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Applied Project**<br>应用项目 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Accounting for Managers**<br>管理会计（面向管理者） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Research Methods in Criminology**<br>犯罪学研究方法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Research Methods in Psychology**<br>心理学研究方法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Research Methods in Sociology and Anthropology**<br>社会学与人类学研究方法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Statistical Methods I**<br>统计方法 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Environmental Sustainability in Practice**<br>实践中的环境可持续性 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Applied Human Geography**<br>应用人文地理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Web Development I**<br>Web 开发 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to Program Design**<br>课程设计导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
-| **Introduction to Web Programming**<br>网络编程导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Program Design**<br>课程设计入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
+| **Introduction to Web Programming**<br>网络编程入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-social-sciences-and-humanities-diploma/courses) |
 

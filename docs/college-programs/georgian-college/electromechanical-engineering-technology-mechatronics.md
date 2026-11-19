@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Introduction to Microprocessors**<br>微处理器入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/metr/) |
 | **Applied Mechanics of Materials**<br>应用材料力学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/metr/) |
 | **Applied Computer Aided Manufacturing**<br>应用计算机辅助制造 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/metr/) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/metr/) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/metr/) |
 | **Web Interfaces**<br>网页界面 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/metr/) |
 | **Kinematics and Dynamics of Machines**<br>机械运动学与动力学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/metr/) |
 | **Factory Simulation and Manufacturing Processes**<br>工厂模拟与制造流程 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/metr/) |

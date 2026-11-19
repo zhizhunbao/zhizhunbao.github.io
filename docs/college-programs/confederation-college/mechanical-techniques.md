@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Industrial Design I**<br>工业设计 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-techniques/) |
 | **Welding Practices II**<br>焊接实践 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-techniques/) |
 | **Applied Physics II**<br>应用物理 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-techniques/) |
-| **Introduction to Electricity**<br>电学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-techniques/) |
+| **Introduction to Electricity**<br>电学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-techniques/) |
 | **Machine Shop 2 - Theory**<br>机械加工车间 2 - 理论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-techniques/) |
 | **Machine Shop 2 - Practical**<br>机械加工车间 2 - 实操 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-techniques/) |
 | **Technology Math II**<br>技术数学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-techniques/) |

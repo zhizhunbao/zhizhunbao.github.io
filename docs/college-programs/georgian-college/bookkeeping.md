@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Financial Accounting Principles 1**<br>财务会计原理 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bokp/) |
 | **Payroll Administration**<br>薪资管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bokp/) |
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bokp/) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bokp/) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bokp/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bokp/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bokp/) |
 | **Financial Accounting Principles 2**<br>财务会计原理 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bokp/) |

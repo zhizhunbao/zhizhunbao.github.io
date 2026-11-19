@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Environmental Studies Major (Arts Program)**<br>环境研究主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
-| **Introduction to Environmental Studies**<br>环境研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
+| **Introduction to Environmental Studies**<br>环境研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
 | **Multidisciplinary Perspectives on Environment**<br>环境的多学科视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
 | **Pathways to Sustainability: An Interdisciplinary Approach**<br>可持续发展之路：跨学科方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
 | **Fundamental Environmental Skills**<br>环境基本技能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
@@ -81,7 +81,7 @@ ms.date: 2026-11-11
 | **Global Environmental Politics**<br>全球环境政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
 | **Environmental and Social Responsibility**<br>环境与社会责任 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
 | **Sustainability Issues in Ethics, Society, and Law**<br>伦理、社会与法律中的可持续性议题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
-| **Introduction to Indigenous Environmental Studies**<br>原住民环境研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
+| **Introduction to Indigenous Environmental Studies**<br>原住民环境研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
 | **Traditional Indigenous Ecological Knowledge**<br>传统原住民生态知识 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
 | **Anthropology of Animals**<br>动物人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |
 | **Reading the Wild**<br>解读荒野 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1254) |

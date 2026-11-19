@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **2D Fundamentals**<br>2D基础 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **3D Fundamentals**<br>3D基础 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **Drawing I**<br>绘画 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
-| **Introduction to the History of Global Art I**<br>全球艺术史导论 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
-| **Introduction to Painting**<br>绘画导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
-| **Introduction to Sculpture**<br>雕塑导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
+| **Introduction to the History of Global Art I**<br>全球艺术史入门 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
+| **Introduction to Painting**<br>绘画入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
+| **Introduction to Sculpture**<br>雕塑入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **Drawing II**<br>绘画 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
-| **Introduction to the History of Global Art II**<br>全球艺术史导论 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
+| **Introduction to the History of Global Art II**<br>全球艺术史入门 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **Digital Design I**<br>数字设计 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **Intermediate Painting**<br>中级绘画 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **Intermediate Sculpture**<br>中级雕塑 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
@@ -29,8 +29,8 @@ ms.date: 2026-11-08
 | **Advanced Drawing**<br>高级绘画 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **Art Since 1945**<br>1945年以来的艺术 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
-| **Introduction to Digital Photography**<br>数码摄影导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
-| **Introduction to Video Production**<br>视频制作导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
+| **Introduction to Digital Photography**<br>数码摄影入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
+| **Introduction to Video Production**<br>视频制作入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **3D Modeling for Artists**<br>艺术家3D建模 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 | **Interdisciplinary Work Experience**<br>跨学科工作经验 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/visual-arts-design-diploma) |
 

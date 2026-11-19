@@ -1,21 +1,21 @@
 ---
-title: "3.1.87 Master of Science – Global Health and Population"
+title: "4.1.87 Master of Science – Global Health and Population"
 description: "University Programs > United States > Harvard University > Master of Science – Global Health and Population: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.87 Master of Science – Global Health and Population
+# 4.1.87 Master of Science – Global Health and Population
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Science – Global Health and Population**<br>全球健康与人口（理学硕士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
-| **Intro to Statistical Methods**<br>统计方法导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
-| **Introduction to Epidemiology: Methods I**<br>流行病学导论：方法 I | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
+| **Intro to Statistical Methods**<br>统计方法入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
+| **Introduction to Epidemiology: Methods I**<br>流行病学入门：方法 I | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
 | **Epidemiologic Methods 2: Elements of Epidemiologic Research**<br>流行病学方法 2：流行病学研究要素 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
-| **Intro to Demographic Methods**<br>人口学方法导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
-| **Intro to Economics with Applications to Health & Development**<br>经济学导论及其在健康与发展中的应用 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
+| **Intro to Demographic Methods**<br>人口学方法入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
+| **Intro to Economics with Applications to Health & Development**<br>经济学入门及其在健康与发展中的应用 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
 | **Foundations of Global Health and Population**<br>全球健康与人口基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
 | **Responsible Conduct of Research**<br>负责任的研究行为 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
 | **Risk Factors and Population Health**<br>风险因素与人群健康 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-18
 | **Master’s Thesis**<br>硕士论文 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
 | **Comparative Health Systems I**<br>比较卫生体系 I | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
 | **HIV Interventions, Rationale, Design & Evaluation**<br>HIV干预：原理、设计与评估 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
-| **Intro to Qualitative Research for Global Health**<br>全球健康定性研究导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
+| **Intro to Qualitative Research for Global Health**<br>全球健康定性研究入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-global-health-population/) |
 
 ## Courses
 

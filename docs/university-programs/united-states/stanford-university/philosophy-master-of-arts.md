@@ -1,10 +1,10 @@
 ---
-title: "3.3.129 Philosophy, Master of Arts"
+title: "4.3.129 Philosophy, Master of Arts"
 description: "University Programs > United States > Stanford University > Philosophy, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.129 Philosophy, Master of Arts
+# 4.3.129 Philosophy, Master of Arts
 
 ## Glossary
 
@@ -15,7 +15,7 @@ ms.date: 2026-11-18
 | **Mathematical Logic**<br>数理逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Metalogic**<br>元逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Modal Logic**<br>模态逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
-| **Introduction to Philosophy of Science**<br>科学哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
+| **Introduction to Philosophy of Science**<br>科学哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Philosophy of Science**<br>科学哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Ethical Theory**<br>伦理理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Metaphor**<br>隐喻 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-18
 | **The History of Early Modern Political Philosophy: Machiavelli, Hobbes, and Locke**<br>早期现代政治哲学史：马基雅维利、霍布斯与洛克 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **The Birth of Modern Moral Philosophy**<br>现代道德哲学的诞生 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Moral Psychology**<br>道德心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
-| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
+| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Topics in Metaethics: Moral Error Theory**<br>元伦理学专题：道德错误论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Ethics Beyond Consequences**<br>超越后果的伦理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Justice Across Borders**<br>跨越国界的正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-18
 | **Undergrad Seminar: Striving and the Nature of Belief**<br>本科生研讨课：奋斗与信念的本质 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Reduction and Grounding**<br>还原与奠基 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Mind, Matter, and Meaning**<br>心智、物质与意义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
-| **Introduction to Semantics and Pragmatics**<br>语义学与语用学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
+| **Introduction to Semantics and Pragmatics**<br>语义学与语用学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Computability and Logic**<br>可计算性与逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Topics in Mathematical Logic: Non-Classical Logic**<br>数理逻辑专题：非经典逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |
 | **Decision Theory**<br>决策理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/master-of-arts) |

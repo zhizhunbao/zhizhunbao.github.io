@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Fundamentals**<br>商业基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals) |
-| **Introduction to Accounting Principles**<br>会计原理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
+| **Introduction to Accounting Principles**<br>会计原理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
 | **Business Computing Applications I**<br>商务计算应用 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Workplace Success Strategies**<br>职场成功策略 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
 | **Professional Writing Skills for Business**<br>商务专业写作技能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
 | **Business Computing Collaboration and Productivity**<br>商务计算协作与生产力 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
-| **Introduction to Personal Finances**<br>个人理财导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
+| **Introduction to Personal Finances**<br>个人理财入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
 | **Business Mathematics II**<br>商务数学 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-fundamentals/courses?id=36117) |
 
 ## Courses

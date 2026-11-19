@@ -12,13 +12,13 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Liberal Arts Distributed Major (BA), 4-YEAR MAJOR**<br>文科分布式主修（BA），4 年制主修 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
 | **Archaeological Field School**<br>考古野外实习 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
-| **An Introduction to Archeological Method and Theory**<br>考古学方法与理论导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
+| **An Introduction to Archeological Method and Theory**<br>考古学方法与理论入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
 | **History of Literary Criticism**<br>文学批评史 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
 | **Contemporary Critical Theory**<br>当代批判理论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
 | **Applied Quantitative Methods in Geography**<br>地理学中的应用定量方法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
-| **Introduction to Geographic Research Methods**<br>地理研究方法导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
+| **Introduction to Geographic Research Methods**<br>地理研究方法入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
 | **Historical Methods and Historiography**<br>历史学方法与史学史 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
-| **Introduction to Statistical Inference**<br>统计推断导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
+| **Introduction to Statistical Inference**<br>统计推断入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
 | **Political Analysis: Concepts and Methods**<br>政治分析：概念与方法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
 | **Fundamentals of Psychological Methods I**<br>心理学方法基础 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |
 | **Fundamentals of Psychological Methods II**<br>心理学方法基础 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=190) |

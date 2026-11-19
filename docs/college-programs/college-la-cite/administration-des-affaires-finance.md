@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Analyse macroéconomique**<br>宏观经济分析 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61248) |
 | **Exploration de la profession**<br>专业探索 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61248) |
 | **Produits financiers de crédit aux particuliers**<br>个人信贷金融产品 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61248) |
-| **Introduction à l'investissement**<br>投资导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61248) |
+| **Introduction à l'investissement**<br>投资入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61248) |
 | **Initiation aux conseils financiers aux particuliers**<br>个人财务咨询入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61248) |
 | **Gestion de l'approche client**<br>客户接洽管理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61248) |
 | **Citoyenneté canadienne**<br>加拿大公民身份 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61248) |

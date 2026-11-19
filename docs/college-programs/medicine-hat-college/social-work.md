@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Social Work**<br>社会工作 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
 | **Contemporary Indigenous Issues in Canada**<br>加拿大当代原住民议题 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
 | **Introductory Communications for Helping Professionals**<br>助人专业沟通入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
-| **Introduction to Psychology II - Social Science**<br>心理学导论 II - 社会科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
-| **Introduction to Social Work Practice**<br>社会工作实务导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
+| **Introduction to Psychology II - Social Science**<br>心理学入门 II - 社会科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
+| **Introduction to Social Work Practice**<br>社会工作实务入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
 | **Social Problems & Policies**<br>社会问题与政策 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |
 | **Social Work Theories & Practice**<br>社会工作理论与实务 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/social-work) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **MAJOR IN ENGLISH AND CULTURAL STUDIES**<br>英语与文化研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20720&SelectedCalendar=Live&ArchiveID=) |
 | **STUDIES IN POETICS**<br>诗学研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20720&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THEORY**<br>理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20720&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THEORY**<br>理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20720&SelectedCalendar=Live&ArchiveID=) |
 | **BACKGROUNDS AND FOUNDATIONS IN ENGLISH STUDIES**<br>英语研究的背景与基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20720&SelectedCalendar=Live&ArchiveID=) |
 | **GENRES/FORMS/MODES**<br>体裁/形式/模式 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20720&SelectedCalendar=Live&ArchiveID=) |
 | **POST-COLONIAL WRITING**<br>后殖民写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20720&SelectedCalendar=Live&ArchiveID=) |

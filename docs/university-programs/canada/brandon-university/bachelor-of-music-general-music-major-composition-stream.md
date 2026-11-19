@@ -29,11 +29,11 @@ ms.date: 2026-11-11
 | **Aural Keyboard Skills III/IV**<br>听觉键盘技能 III/IV | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
 | **Post-Tonal Theory and Analysis**<br>后调性理论与分析 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
 | **Elementary Conducting and Score Study I**<br>初级指挥与总谱研究 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
-| **Introduction to Audio Engineering**<br>音频工程导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
+| **Introduction to Audio Engineering**<br>音频工程入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
 | **Composition**<br>作曲 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
 | **Formal Functions in Tonal Music**<br>调性音乐中的曲式功能 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
 | **Orchestration and Instrumental Arranging**<br>配器与器乐编曲 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
-| **Introduction to Electroacoustic Music**<br>电子声学音乐导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
+| **Introduction to Electroacoustic Music**<br>电子声学音乐入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
 | **Electroacoustic Composition**<br>电子声学作曲 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
 | **Baroque Counterpoint**<br>巴洛克对位法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |
 | **Schenkerian Analysis**<br>申克分析 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=316) |

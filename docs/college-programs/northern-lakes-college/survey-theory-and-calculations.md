@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Survey Theory I**<br>测量理论 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
 | **Survey Theory 2**<br>测量理论 2 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
 | **Map Projections**<br>地图投影 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
-| **Introduction to Satellite Positioning**<br>卫星定位导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
+| **Introduction to Satellite Positioning**<br>卫星定位入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
 | **Cadastral Surveying**<br>地籍测量 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/resource-technology/survey-theory) |
 
 ## Courses

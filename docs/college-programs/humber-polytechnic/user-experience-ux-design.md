@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **User Experience (UX) Design**<br>用户体验（UX）设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |
-| **Introduction to Design for Interaction**<br>交互设计导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |
+| **Introduction to Design for Interaction**<br>交互设计入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |
 | **Product Management**<br>产品管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |
-| **Introduction to User Experience Design**<br>用户体验设计导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |
+| **Introduction to User Experience Design**<br>用户体验设计入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |
 | **Special Topics in User Experience Design 1**<br>用户体验设计专题 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |
 | **Information Architecture**<br>信息架构 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |
 | **Interaction Design**<br>交互设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/user-experience-ux-design) |

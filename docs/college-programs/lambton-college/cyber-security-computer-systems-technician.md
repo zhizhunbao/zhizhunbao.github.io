@@ -20,11 +20,11 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
 | **General Mathematics I**<br>普通数学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
 | **Python Programming**<br>Python 编程 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
 | **ITIL Foundations**<br>ITIL基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
 | **Workplace Communications**<br>职场沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
 | **Legal & Ethical Issues in IT Society**<br>IT社会中的法律与伦理问题 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |
 | **Security Policies**<br>安全策略 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cybs) |

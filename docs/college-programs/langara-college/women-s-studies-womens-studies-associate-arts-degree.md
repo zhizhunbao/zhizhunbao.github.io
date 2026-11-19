@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Women's Studies (womens-studies-associate-arts-degree)**<br>女性研究 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree) |
 | **Lecture Series**<br>系列讲座 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree/courses) |
-| **Investigating Women's Realities: An Introduction**<br>探究女性的现实处境：导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree/courses) |
-| **Exploring Women's Lives: An Introduction**<br>探索女性生活：导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree/courses) |
+| **Investigating Women's Realities: An Introduction**<br>探究女性的现实处境：入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree/courses) |
+| **Exploring Women's Lives: An Introduction**<br>探索女性生活：入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree/courses) |
 | **Gender Currents: Femininity, Masculinity, and Beyond**<br>性别潮流：女性气质、男性气质及其他 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree/courses) |
 | **Women and Social Change**<br>女性与社会变革 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree/courses) |
 | **Women and Sexuality**<br>女性与性 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/womens-studies-associate-arts-degree/courses) |

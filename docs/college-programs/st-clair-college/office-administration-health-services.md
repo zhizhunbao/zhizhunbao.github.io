@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Office Administration - Health Services**<br>办公室管理—健康服务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
 | **Language Fundamentals**<br>语言基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
 | **Business For The Office Assistant**<br>办公助理商务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
-| **Introduction to Keyboarding**<br>键盘输入导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
+| **Introduction to Keyboarding**<br>键盘输入入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
 | **Essential Business Calculations**<br>基本商业计算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
-| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
+| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
-| **Introduction To Computer Technology**<br>计算机技术导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
+| **Introduction To Computer Technology**<br>计算机技术入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
 | **Accounting For The Office Assistant**<br>办公助理会计 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
 | **Administrative Procedures**<br>行政程序 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-health-services) |

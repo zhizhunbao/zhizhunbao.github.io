@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baccalauréat spécialisé en commerce – management**<br>商业荣誉学士：管理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
-| **Introduction au management**<br>管理学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
+| **Introduction au management**<br>管理学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
 | **Comptabilité générale**<br>基础会计 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
 | **Administration de bureau**<br>办公室管理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
 | **Économie globale et d'entreprise**<br>全球经济与企业经济 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-08
 | **Langue et culture hispaniques**<br>西班牙语语言与文化 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
 | **Santé et bien-être**<br>健康与福祉 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
 | **Principes d'éthique**<br>伦理原则 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
-| **Introduction à la psychologie expérimentale**<br>实验心理学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
+| **Introduction à la psychologie expérimentale**<br>实验心理学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
 | **Concepts judiciaires**<br>司法概念 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
 | **Psychologie du développement humain**<br>人类发展心理学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |
 | **Éléments de sociologie**<br>社会学要素 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81851) |

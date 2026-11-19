@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Professional Expectations in Nursing Practice**<br>护理实践的专业期望 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/pnrs/) |
 | **Anatomy and Physiology 2**<br>解剖与生理学 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/pnrs/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/pnrs/) |
-| **Introduction to Pharmacology**<br>药理学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/pnrs/) |
+| **Introduction to Pharmacology**<br>药理学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/pnrs/) |
 | **Nursing Skills 2**<br>护理技能 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/pnrs/) |
 | **Mental Health Nursing**<br>精神健康护理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/pnrs/) |
 | **Practical Nursing Clinical 1**<br>实用护理临床 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/pnrs/) |

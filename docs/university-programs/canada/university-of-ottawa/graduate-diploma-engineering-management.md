@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Graduate Diploma Engineering Management**<br>工程管理研究生文凭 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
-| **Introduction to Engineering Management**<br>工程管理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
+| **Introduction to Engineering Management**<br>工程管理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
 | **Business Case Development**<br>商业案例开发 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
 | **Leadership Skills**<br>领导技能 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
-| **Introduction to Corporate Finance**<br>公司金融导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
+| **Introduction to Corporate Finance**<br>公司金融入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-technology-project-management/) |
 

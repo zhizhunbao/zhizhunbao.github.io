@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Data Analytics**<br>数据分析 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
 | **Quantitative Research Methods and Analysis**<br>定量研究方法与分析 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
 | **Data Intelligence and Visualization**<br>数据智能与可视化 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
-| **Introduction to Database and SQL**<br>数据库与SQL导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
-| **Introduction to Analytical Programming**<br>分析编程导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
+| **Introduction to Database and SQL**<br>数据库与SQL入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
+| **Introduction to Analytical Programming**<br>分析编程入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
 | **Excel for Analytics**<br>面向分析的Excel | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
-| **Introduction to Machine Learning and Predictive Analytics**<br>机器学习与预测分析导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
+| **Introduction to Machine Learning and Predictive Analytics**<br>机器学习与预测分析入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
 | **Data Driven Decision Making**<br>数据驱动决策 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
 | **Applied AI and Analytics**<br>应用AI与分析 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |
 | **Data Integration and ETL Pipelines**<br>数据集成与ETL管道 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/data-analytics/full-time/kingston) |

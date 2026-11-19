@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Microscopy And Human Micro Anatomy And Physiology**<br>显微镜检查与人体微观解剖和生理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-science) |
 | **Applied Statistics**<br>应用统计学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-science) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-science) |
-| **Introduction To The Clinical Laboratory**<br>临床实验室导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-science) |
+| **Introduction To The Clinical Laboratory**<br>临床实验室入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-science) |
 | **Clinical Chemistry A**<br>临床化学 A | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-science) |
 | **Communication Across Cultures**<br>跨文化沟通 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-science) |
 | **Clinical Microbiology A**<br>临床微生物学 A | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/medical-laboratory-science) |

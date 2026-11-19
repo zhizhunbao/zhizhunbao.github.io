@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Semi-Automatic Welding II**<br>半自动焊接 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection/courses-no-intake?id=15243) |
 | **Welding Quality and Inspection**<br>焊接质量与检验 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection/courses-no-intake?id=15243) |
 | **Gas Tungsten Arc Welding**<br>钨极气体保护焊 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection/courses-no-intake?id=15243) |
-| **Introduction to Metal Fabrication**<br>金属加工导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection/courses-no-intake?id=15243) |
+| **Introduction to Metal Fabrication**<br>金属加工入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection/courses-no-intake?id=15243) |
 | **Technical Math III**<br>技术数学 III | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection/courses-no-intake?id=15243) |
 | **Robotic Fundamentals**<br>机器人基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection/courses-no-intake?id=15243) |
 | **Welding Codes And Standards**<br>焊接规范与标准 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technology-inspection/courses-no-intake?id=15243) |

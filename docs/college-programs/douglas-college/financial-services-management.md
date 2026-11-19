@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpfsmt) |
 | **Public Speaking**<br>公共演讲 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpfsmt) |
 | **Corporate Finance**<br>公司财务 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpfsmt) |
-| **Introduction to Corporate Finance**<br>公司理财导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpfsmt) |
+| **Introduction to Corporate Finance**<br>公司理财入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpfsmt) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpfsmt) |
 | **Personal Finance I (CFP)**<br>个人理财 1（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpfsmt) |
 | **Personal Selling**<br>人员推销 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpfsmt) |

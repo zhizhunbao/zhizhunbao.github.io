@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Chemistry: Biophysical Chemistry Honours (B.Sc.)**<br>化学：生物物理化学荣誉（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
-| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
-| **Introduction to Biophysics.**<br>生物物理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
+| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
+| **Introduction to Biophysics.**<br>生物物理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
 | **Quantitative Biology Seminar.**<br>定量生物学研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
 | **Introductory Organic Chemistry 1.**<br>有机化学入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
 | **Calculus 3.**<br>微积分 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **Introductory Chemical Analysis.**<br>化学分析入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
 | **Introductory Physical Chemistry 2: Kinetics and Methods.**<br>物理化学入门 2：动力学与方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
 | **Inorganic Chemistry 1.**<br>无机化学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
-| **Introduction to Quantum Chemistry.**<br>量子化学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
+| **Introduction to Quantum Chemistry.**<br>量子化学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
 | **Applications of Quantum Chemistry.**<br>量子化学的应用 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
 | **Instrumental Analysis 1.**<br>仪器分析 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |
 | **Instrumental Analysis 2.**<br>仪器分析 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/) |

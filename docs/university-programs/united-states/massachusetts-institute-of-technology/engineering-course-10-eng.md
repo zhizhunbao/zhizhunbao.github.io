@@ -1,10 +1,10 @@
 ---
-title: "3.2.27 Engineering (Course 10-ENG)"
+title: "4.2.27 Engineering (Course 10-ENG)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Engineering (Course 10-ENG): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.27 Engineering (Course 10-ENG)
+# 4.2.27 Engineering (Course 10-ENG)
 
 ## Glossary
 
@@ -12,7 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Engineering (Course 10-ENG)**<br>工程（Course 10-ENG） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
-| **Introduction to Chemical Engineering**<br>化学工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
+| **Introduction to Chemical Engineering**<br>化学工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Chemical and Biological Engineering Thermodynamics**<br>化学与生物工程热力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Transport Processes**<br>传递过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
@@ -37,10 +37,10 @@ ms.date: 2026-11-18
 | **Chemicals in the Environment**<br>环境中的化学品 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Micro/Nano Processing Technology (CI-M)**<br>微纳加工技术（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
-| **Introduction to Spectroscopy**<br>光谱学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
+| **Introduction to Spectroscopy**<br>光谱学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Electronic Structure of Molecules**<br>分子电子结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Physics of Energy**<br>能源物理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |
 | **Undergraduate Thesis**<br>本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/) |

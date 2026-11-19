@@ -11,17 +11,17 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mathematical Sciences - Specialist (Science)**<br>数学科学－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Mathematical Proofs**<br>数学证明导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Mathematical Proofs**<br>数学证明入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Differential Calculus for Mathematical Sciences**<br>数学科学微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Analysis I**<br>分析 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Integral Calculus for Mathematical Sciences**<br>数学科学积分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Analysis II**<br>分析 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Writing for University and Beyond**<br>面向大学及以后的写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Discrete Mathematics**<br>离散数学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Discrete Mathematics**<br>离散数学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Differential Equations I**<br>微分方程 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Algebra II**<br>代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Analysis III**<br>分析 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
@@ -32,13 +32,13 @@ ms.date: 2026-11-11
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Complex Analysis**<br>复分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Ideas of Mathematics**<br>数学思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Algebraic Cryptography**<br>代数密码学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Number Theory**<br>数论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Mathematical Logic**<br>数理逻辑导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Algebraic Cryptography**<br>代数密码学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Number Theory**<br>数论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Mathematical Logic**<br>数理逻辑入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Nonlinear Dynamics and Chaos**<br>非线性动力学与混沌导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Real Analysis**<br>实分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
-| **Introduction to Combinatorics**<br>组合数学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Nonlinear Dynamics and Chaos**<br>非线性动力学与混沌入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Real Analysis**<br>实分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
+| **Introduction to Combinatorics**<br>组合数学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Polynomial Equations and Fields**<br>多项式方程与域 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Mathematical Modelling in Biology**<br>生物学中的数学建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |
 | **Foundations of Computer Science 1**<br>计算机科学基础 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2511) |

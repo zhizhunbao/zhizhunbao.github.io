@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Suspension I**<br>悬架 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Steering Systems**<br>转向系统 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Brake Systems I (Non-ABS)**<br>制动系统 I（非 ABS） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
-| **Introduction to Electrical and Electronic Principles**<br>电气与电子原理导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
+| **Introduction to Electrical and Electronic Principles**<br>电气与电子原理入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Batteries**<br>蓄电池 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Drive Shafts and Axle Shafts**<br>传动轴与半轴 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Engine Principles (Gasoline and Diesel)**<br>发动机原理（汽油与柴油） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
@@ -40,14 +40,14 @@ ms.date: 2026-11-08
 | **Oxy-Fuel Welding/Cutting**<br>氧燃料焊接/切割 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Gas Metal Arc Welding GMAW (MIG)**<br>熔化极气体保护焊 GMAW（MIG） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Pre Delivery Inspection**<br>交付前检验 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Automotive Service Math Fundamentals**<br>汽车维修数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 | **Mentoring I**<br>辅导指导 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/automotive-service-technician) |
 
 ## Courses
 

@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Customer Service**<br>客户服务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/fscm/) |
 | **Introduction to Cabin Crew**<br>客舱乘务入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/fscm/) |
 | **Financial Analysis**<br>财务分析 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/fscm/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/fscm/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/fscm/) |
 | **Global Destinations**<br>全球旅游目的地 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/fscm/) |
 | **Aviation Operations**<br>航空运营 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/fscm/) |
 | **French for Aviation**<br>航空法语 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/fscm/) |

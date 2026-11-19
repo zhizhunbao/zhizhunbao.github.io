@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Mediation & Negotiation in Indigenous Communities**<br>原住民社区的调解与谈判 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Aboriginal Law I**<br>原住民法 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Community Development Processes**<br>社区发展流程 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
-| **Introduction to Advocacy**<br>倡导导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
+| **Introduction to Advocacy**<br>倡导入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Indigenous People: Land & Environment**<br>原住民：土地与环境 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Indigenous Women: Issues & Advocacy**<br>原住民妇女：议题与倡导 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Indigenous Justice and Alternatives**<br>原住民司法与替代方案 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |

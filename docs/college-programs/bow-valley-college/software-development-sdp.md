@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Web Programming Foundations**<br>Web 编程基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-post-diploma) |
 | **Software Development Techniques**<br>软件开发技术 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-post-diploma) |
 | **Systems Development and Object-Oriented Design**<br>系统开发与面向对象设计 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-post-diploma) |
-| **Introduction to Data and Analytics**<br>数据与分析导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-post-diploma) |
+| **Introduction to Data and Analytics**<br>数据与分析入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-post-diploma) |
 | **Computer Graphics**<br>计算机图形学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-post-diploma) |
 | **Mobile Application Development**<br>移动应用开发 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-post-diploma) |
 | **Software Development Capstone Project**<br>软件开发毕业设计项目 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development-post-diploma) |

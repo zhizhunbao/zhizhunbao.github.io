@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Water and Wastewater Treatment Technologies**<br>水与废水处理技术 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Land and Water Stewardship**<br>土地与水资源管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Geographical Information Systems**<br>地理信息系统 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
-| **Introduction to Data Analytics**<br>数据分析导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
+| **Introduction to Data Analytics**<br>数据分析入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Hydrology and Hydrogeology**<br>水文学与水文地质学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Environmental Issues and Solutions**<br>环境问题与解决方案 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Symbols, Text and Meaning**<br>符号、文本与意义 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Environmental Citizenship**<br>环境公民意识 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Waste-Free Ontario**<br>安大略无废计划 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
-| **Introduction to Personal Finance**<br>个人理财导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
+| **Introduction to Personal Finance**<br>个人理财入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Disability in Arts: Portrayals and Identity**<br>艺术中的残障：呈现与身份 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |
 | **Free Speech and the Challenge of Social Media**<br>言论自由与社交媒体的挑战 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1212X04FPM.pdf) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Indigenous Literature and Storytelling**<br>原住民文学与故事讲述 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/native-community-worker) |
 | **Traditional Indigenous Health Practices**<br>传统原住民健康实践 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/native-community-worker) |
 | **Psychology of Indigenous People**<br>原住民心理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/native-community-worker) |
-| **Introduction To Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/native-community-worker) |
+| **Introduction To Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/native-community-worker) |
 | **Rainbow Of Peace**<br>和平彩虹 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/native-community-worker) |
 | **Introductory Oral Communication**<br>口头沟通入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/native-community-worker) |
 | **Counselling Skills I**<br>咨询技能 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/native-community-worker) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.26 Economics, Major: Bachelor of Arts"
+title: "4.3.26 Economics, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Economics, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.26 Economics, Major: Bachelor of Arts
+# 4.3.26 Economics, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -16,7 +16,7 @@ ms.date: 2026-11-18
 | **Economic Analysis I (Quantitative)**<br>经济分析 I（定量） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Economic Analysis II**<br>经济分析 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Economic Analysis III**<br>经济分析 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Applied Econometrics**<br>应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Media Markets and Social Good**<br>媒体市场与社会公益 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Advanced Topics in Econometrics**<br>计量经济学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-18
 | **The Chinese Economy**<br>中国经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Foundations of Finance**<br>金融学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Investments in Financial Markets**<br>金融市场投资学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
-| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
+| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Market Design**<br>市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Decision Modeling and Information**<br>决策建模与信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Economics of Education**<br>教育经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
@@ -61,12 +61,12 @@ ms.date: 2026-11-18
 | **Probabilistic Graphical Models: Principles and Techniques**<br>概率图模型：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Linear Algebra and Matrix Theory**<br>线性代数与矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Functions of a Real Variable**<br>实变函数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Mathematics of Computation**<br>计算数学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Groups and Rings**<br>群与环 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Set Theory**<br>集合论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Fundamental Concepts of Analysis**<br>分析学基本概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Fourier Analysis**<br>傅里叶分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
@@ -74,15 +74,15 @@ ms.date: 2026-11-18
 | **Statistical Arbitrage**<br>统计套利 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Investment Science**<br>投资科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Advanced Investment Science**<br>高级投资科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Resampling Methods: Bootstrap, Cross Validation and Beyond**<br>重抽样方法：自助法、交叉验证及其他 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Random Processes on Graphs and Lattices**<br>图与格点上的随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **Modern Applied Statistics: Learning II**<br>现代应用统计：学习 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |
 | **America and the World Economy**<br>美国与世界经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-arts) |

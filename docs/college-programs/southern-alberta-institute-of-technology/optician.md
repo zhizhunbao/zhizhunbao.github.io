@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Optician**<br>配镜师 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
 | **Human Anatomy and Physiology**<br>人体解剖与生理学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
 | **Ocular Anatomy and Physiology**<br>眼部解剖与生理学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
-| **Introduction to Ophthalmic Practice**<br>眼科实践导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
+| **Introduction to Ophthalmic Practice**<br>眼科实践入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
 | **Ophthalmic and Optometric Skills**<br>眼科与验光技能 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
 | **Systemic and Ocular Pathology and Pharmacology**<br>全身与眼部病理学及药理学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
-| **Introduction to Digital Productivity Applications**<br>数字办公应用导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
+| **Introduction to Digital Productivity Applications**<br>数字办公应用入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
 | **Contact Lenses and Dispensing 1**<br>隐形眼镜与配镜 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
 | **Optical Dispensing 1**<br>配镜 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |
 | **Contact Lenses 1**<br>隐形眼镜 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/optician) |

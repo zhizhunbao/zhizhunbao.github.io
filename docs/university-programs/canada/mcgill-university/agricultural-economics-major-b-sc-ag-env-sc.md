@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Agriculture, Food and Resource Policy.**<br>农业、食品与资源政策 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agricultural-economics-major-bsc-agenvsc/) |
 | **Economics of International Agricultural Development.**<br>国际农业发展经济学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agricultural-economics-major-bsc-agenvsc/) |
 | **The Biophysical Environment.**<br>生物物理环境 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agricultural-economics-major-bsc-agenvsc/) |
-| **Introduction to Financial Accounting.**<br>财务会计导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agricultural-economics-major-bsc-agenvsc/) |
+| **Introduction to Financial Accounting.**<br>财务会计入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agricultural-economics-major-bsc-agenvsc/) |
 
 ## Courses
 

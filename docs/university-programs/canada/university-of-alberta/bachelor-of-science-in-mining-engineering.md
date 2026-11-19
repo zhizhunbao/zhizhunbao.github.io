@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Engineering Earth Science**<br>工程地球科学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Fundamentals of Electrical Engineering**<br>电气工程基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Calculus for Engineering III**<br>工程微积分 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
-| **Introduction to Mining Engineering**<br>采矿工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
+| **Introduction to Mining Engineering**<br>采矿工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Engineering Thermodynamics**<br>工程热力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Plane Surveying**<br>平面测量 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Mechanics of Deformable Bodies I**<br>变形体力学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Mineral Reserve Estimation**<br>矿产储量估算 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Rock Mechanics**<br>岩石力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
-| **Introduction to Fluid Mechanics**<br>流体力学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
+| **Introduction to Fluid Mechanics**<br>流体力学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Engineering Economy**<br>工程经济 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Financial Management for Engineers**<br>工程师的财务管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Survey School (See Note)**<br>概览学校（见注） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
@@ -58,12 +58,12 @@ ms.date: 2026-11-11
 | **Algorithms I**<br>算法 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **The Geology of Your Environment**<br>你所处环境的地质学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Violent Earth: The Geology of Catastrophic Events**<br>暴烈的地球：灾难性事件的地质学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
-| **Introduction to Global Change**<br>全球变化导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
+| **Introduction to Global Change**<br>全球变化入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Geology of Western Canada and the National and Provincial Parks**<br>加拿大西部与国家公园和省立公园地质 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
-| **Introduction to Geographical Information Systems and Remote Sensing**<br>地理信息系统与遥感导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
+| **Introduction to Geographical Information Systems and Remote Sensing**<br>地理信息系统与遥感入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Mineralogy I**<br>矿物学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Geologic Structures**<br>地质构造 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
-| **Introduction to Hydrogeology**<br>水文地质学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
+| **Introduction to Hydrogeology**<br>水文地质学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Ore Deposits Geology**<br>矿床地质学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Structural Geology and Tectonics**<br>构造地质与大地构造学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Energy Economics**<br>能源经济学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
@@ -76,7 +76,7 @@ ms.date: 2026-11-11
 | **Environmental Hydrology**<br>环境水文学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Environmental Site Assessment**<br>环境场地评估 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Principles of Air Quality Management and Control**<br>空气质量管理与控制原理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
-| **Introduction to Finance**<br>金融学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
+| **Introduction to Finance**<br>金融学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Risk Management**<br>风险管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Capital Investment**<br>资本投资 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Environmental Geophysics**<br>环境地球物理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
@@ -86,7 +86,7 @@ ms.date: 2026-11-11
 | **Simulation and Computer Modelling Techniques in Management**<br>管理学中的模拟与计算机建模技术 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Drilling Engineering**<br>钻井工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Water Resource Management**<br>水资源管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **History and Fundamentals of Environmental Protection and Conservation**<br>环境保护与保育的历史与基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Environmental Assessment Principles and Methods**<br>环境评价原理与方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
@@ -94,7 +94,7 @@ ms.date: 2026-11-11
 | **Behavior in Organizations**<br>组织中的行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Leadership Skills**<br>领导技能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Sampling Techniques**<br>抽样技术 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
-| **Introduction to Design and Analysis of Experiments**<br>实验设计与分析导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
+| **Introduction to Design and Analysis of Experiments**<br>实验设计与分析入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Applied Regression Analysis**<br>应用回归分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Survival Analysis**<br>生存分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |
 | **Statistical Methods for Learning and Data Mining**<br>学习与数据挖掘的统计方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110537&returnto=20848) |

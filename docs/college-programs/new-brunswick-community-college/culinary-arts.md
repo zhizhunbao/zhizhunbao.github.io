@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Culinary Controls and Math I**<br>烹饪控制与数学 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6) |
 | **Culinary I**<br>烹饪 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6) |
 | **Cooking and Catering**<br>烹饪与餐饮服务 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6) |
-| **Introduction to Garde-Manger**<br>冷厨导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6) |
+| **Introduction to Garde-Manger**<br>冷厨入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6) |
 | **Culinary II**<br>烹饪 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6) |
 | **Restaurant Operations**<br>餐厅运营 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6) |
 | **Culinary Controls and Math II**<br>烹饪控制与数学 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=10f32b79-5aae-4e9a-9503-641f354abef6) |

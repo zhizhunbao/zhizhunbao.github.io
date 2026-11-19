@@ -22,21 +22,21 @@ ms.date: 2026-11-11
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Engineering Science Capstone Design**<br>工程科学毕业设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
-| **Introduction to Fusion Energy**<br>聚变能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
+| **Introduction to Fusion Energy**<br>聚变能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Applied Fundamentals of Deep Learning**<br>深度学习应用基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
-| **Introduction to Astrophysics**<br>天体物理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
-| **Introduction to Practical Astronomy**<br>实用天文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
+| **Introduction to Astrophysics**<br>天体物理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
+| **Introduction to Practical Astronomy**<br>实用天文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Medical Imaging**<br>医学影像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Data-based Modelling for Prediction and Control**<br>基于数据的预测与控制建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Nuclear Engineering**<br>核工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Neural Networks and Deep Learning**<br>神经网络与深度学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Fundamentals of Optics**<br>光学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Computer Hardware**<br>计算机硬件 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Semiconductor Electronic Devices**<br>半导体电子器件 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Signal Analysis and Communication**<br>信号分析与通信 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Foundations of Computing**<br>计算基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Digital Signal Processing**<br>数字信号处理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Optical Communications and Networks**<br>光通信与网络 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Photonic Devices**<br>光子器件 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
@@ -66,7 +66,7 @@ ms.date: 2026-11-11
 | **Relativity Theory II**<br>相对论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Laser Physics**<br>激光物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Condensed Matter Physics**<br>凝聚态物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
-| **Introduction to High Energy Physics**<br>高能物理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
+| **Introduction to High Energy Physics**<br>高能物理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 | **Advanced Atmospheric Physics**<br>高级大气物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasep) |
 
 ## Courses

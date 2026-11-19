@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in International Relations (Okanagan)**<br>国际关系主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/international-relations) |
-| **Introduction to Politics**<br>政治学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/international-relations) |
+| **Introduction to Politics**<br>政治学入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/international-relations) |
 | **World History from First to Second World War**<br>从第一次到第二次世界大战的世界史 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/international-relations) |
 | **Contemporary World History**<br>当代世界史 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/international-relations) |
 | **Early Modern Europe 1450-1789**<br>近代早期欧洲 1450-1789 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/international-relations) |

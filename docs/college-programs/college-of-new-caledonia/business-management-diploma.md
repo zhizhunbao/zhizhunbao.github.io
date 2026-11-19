@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Management Diploma**<br>商业管理文凭 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/business-management-diploma) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/business-management-diploma) |
-| **Intro to Computer and Program**<br>计算机与编程导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/business-management-diploma) |
+| **Intro to Computer and Program**<br>计算机与编程入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/business-management-diploma) |
 | **Computer Information Systems**<br>计算机信息系统 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/business-management-diploma) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/business-management-diploma) |
 | **Principles of Marketing**<br>市场营销原理 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/business-management-diploma) |

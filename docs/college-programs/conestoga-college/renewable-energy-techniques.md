@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Renewable Energy Techniques**<br>可再生能源技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
-| **Introduction to AutoCAD**<br>AutoCAD 导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
+| **Introduction to AutoCAD**<br>AutoCAD 入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
 | **Photovoltaic Grid Design: Residential and Small Commercial**<br>光伏并网设计：住宅与小型商业 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
 | **Energy Storage and Management**<br>能源存储与管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
 | **Mathematics for Technical Applications**<br>技术应用数学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Micro-Grid and Energy Storage**<br>微电网与储能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
 | **Grounding and Installation**<br>接地与安装 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
 | **Renewable Thermal Technology**<br>可再生热能技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
-| **Introduction to Occupational Health, Safety and Hazard Assessment**<br>职业健康、安全与危害评估导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
+| **Introduction to Occupational Health, Safety and Hazard Assessment**<br>职业健康、安全与危害评估入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
 | **Building Green**<br>绿色建筑 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/renewable-energy-techniques/courses?id=34389) |
 
 ## Courses

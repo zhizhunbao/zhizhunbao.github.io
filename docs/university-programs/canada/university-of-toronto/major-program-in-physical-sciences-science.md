@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Thermal Physics**<br>热物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Mechanics: From Oscillations to Chaos**<br>力学：从振荡到混沌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
-| **Introduction to Quantum Physics**<br>量子物理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
+| **Introduction to Quantum Physics**<br>量子物理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Applied Linear Algebra II**<br>应用线性代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Linear Algebra II**<br>线性代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Techniques of the Calculus of Several Variables I**<br>多变量微积分技巧 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
@@ -34,18 +34,18 @@ ms.date: 2026-11-11
 | **Astrophysics of Stars, Galaxies and the Universe**<br>恒星、星系与宇宙天体物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Chemical Thermodynamics and Elementary Kinetics**<br>化学热力学与基础动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Chemical Structure and Spectroscopy**<br>化学结构与波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
-| **An Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
-| **Introduction to Applied Probability**<br>应用概率导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
+| **An Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
+| **Introduction to Applied Probability**<br>应用概率入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Astrophysics of Planetary Systems**<br>行星系统天体物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Differential Equations II**<br>微分方程 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Electromagnetic Theory**<br>电磁理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Quantum Mechanics I**<br>量子力学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Intermediate Physics Laboratory II**<br>中级物理实验 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
-| **Introduction to Atmospheric Physics**<br>大气物理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
+| **Introduction to Atmospheric Physics**<br>大气物理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
-| **Introduction to Fluid Mechanics**<br>流体力学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
+| **Introduction to Fluid Mechanics**<br>流体力学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Nonlinear Systems and Chaos**<br>非线性系统与混沌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Current Questions in Mathematics and Science**<br>数学与科学的当前问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |
 | **Planetary Geophysics**<br>行星地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2010) |

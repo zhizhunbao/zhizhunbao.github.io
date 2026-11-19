@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Predictive Data Analytics**<br>预测性数据分析 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
-| **Introduction To Data Analytics**<br>数据分析导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
+| **Introduction To Data Analytics**<br>数据分析入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **Basic Statistics And Exploratory Data Analysis**<br>基础统计与探索性数据分析 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **Information Management**<br>信息管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **Intro To Python Programming**<br>Python编程入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **Machine Learning I**<br>机器学习 1 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Advanced Statistics For Data Analytics**<br>数据分析高级统计学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **IT Service Management**<br>IT 服务管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **Business Analytics And Decision Making**<br>商业分析与决策 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
-| **Introduction To Deep Learning**<br>深度学习导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
+| **Introduction To Deep Learning**<br>深度学习入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **Project Management Analytics**<br>项目管理分析 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **Ethics For Analytics**<br>分析学伦理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |
 | **Marketing Analytics**<br>营销分析 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/predictive-data-analytics) |

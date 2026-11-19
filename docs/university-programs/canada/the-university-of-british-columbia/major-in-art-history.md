@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Art History**<br>艺术史主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/art-history-visual-art-and-theory) |
-| **Ways of Seeing: Introduction to Visual Studies**<br>观看之道：视觉研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/art-history-visual-art-and-theory) |
+| **Ways of Seeing: Introduction to Visual Studies**<br>观看之道：视觉研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/art-history-visual-art-and-theory) |
 | **World Art and Architecture Before 1800**<br>1800 年以前的世界艺术与建筑 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/art-history-visual-art-and-theory) |
 | **Seminar on Methods and Approaches in Art History**<br>艺术史方法与路径研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/art-history-visual-art-and-theory) |
 

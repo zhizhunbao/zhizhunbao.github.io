@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education (Societies, Cultures and Languages)**<br>教育学硕士，社会、文化与语言 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-societies-cultures-languages/) |
-| **Introduction to Research in Education**<br>教育研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-societies-cultures-languages/) |
+| **Introduction to Research in Education**<br>教育研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-societies-cultures-languages/) |
 | **Social and Political Issues in Second Language Education**<br>第二语言教育中的社会与政治议题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-societies-cultures-languages/) |
 | **Philosophies of Education**<br>教育哲学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-societies-cultures-languages/) |
 | **Historical Narratives and Education**<br>历史叙事与教育 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-societies-cultures-languages/) |

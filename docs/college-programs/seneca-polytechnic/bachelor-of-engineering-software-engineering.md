@@ -40,12 +40,12 @@ ms.date: 2026-11-08
 | **Engineering Attributes II**<br>工程素养 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
 | **Principles of GUI Design and Programming**<br>图形用户界面设计与编程原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
 | **Software Project Management**<br>软件项目管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
-| **Introduction to Data Mining**<br>数据挖掘导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
+| **Introduction to Data Mining**<br>数据挖掘入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
 | **Systems Requirements Engineering**<br>系统需求工程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
 | **Microprocessors and Computer Architecture**<br>微处理器与计算机体系结构 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
 | **Micro Economics - Theory and Practice**<br>微观经济学 - 理论与实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
 | **Design Patterns**<br>设计模式 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
 | **Topics in Software Design**<br>软件设计专题 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |
 | **Software Testing and Quality Assurance**<br>软件测试与质量保证 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSA/courses.html) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Applied Politics and Public Affairs Diploma Program**<br>应用政治与公共事务文凭项目 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/applied-politics-and-public-affairs/) |
-| **Introduction to Canadian Government & Politics**<br>加拿大政府与政治导论 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/applied-politics-and-public-affairs/ap-curriculum/) |
+| **Introduction to Canadian Government & Politics**<br>加拿大政府与政治入门 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/applied-politics-and-public-affairs/ap-curriculum/) |
 | **Political Ideologies**<br>政治意识形态 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/applied-politics-and-public-affairs/ap-curriculum/) |
 | **History of Canadian & Alberta Political Parties**<br>加拿大和艾伯塔省政党史 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/applied-politics-and-public-affairs/ap-curriculum/) |
 | **Democracy in Politics & Society**<br>政治与社会中的民主 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/applied-politics-and-public-affairs/ap-curriculum/) |

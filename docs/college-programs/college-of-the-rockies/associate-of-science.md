@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Associate of Science**<br>理科副学士 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |
-| **Introduction to Poetry and Drama**<br>诗歌与戏剧导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |
-| **Introduction to Prose Fiction**<br>散文小说导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |
+| **Introduction to Poetry and Drama**<br>诗歌与戏剧入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |
+| **Introduction to Prose Fiction**<br>散文小说入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |
 | **Finite Mathematics 1**<br>有限数学 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science/) |

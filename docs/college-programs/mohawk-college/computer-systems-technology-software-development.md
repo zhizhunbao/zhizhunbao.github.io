@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **HTML & CSS**<br>HTML与CSS | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
-| **Introduction To Networking**<br>网络导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
+| **Introduction To Networking**<br>网络入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Mathematics for Computer Studies**<br>计算机研究数学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Programming in Java**<br>Java编程 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Computer Training & Technical Writing**<br>计算机培训与技术写作 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Mobile Web Programming**<br>移动Web编程 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Information Security Fundamentals**<br>信息安全基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Contemporary Ethical Issues**<br>当代伦理议题 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
-| **Introduction to Intelligent Systems**<br>智能系统导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
+| **Introduction to Intelligent Systems**<br>智能系统入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Cloud Computing**<br>云计算 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Software Development Tools & Practices**<br>软件开发工具与实践 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |
 | **Web Applications For ASP.NET**<br>ASP.NET Web 应用 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=559&prg_ver=26-A) |

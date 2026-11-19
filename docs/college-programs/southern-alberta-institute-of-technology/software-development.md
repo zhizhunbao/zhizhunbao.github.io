@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Software Development**<br>软件开发 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
-| **Introduction to Network Systems**<br>网络系统导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
+| **Introduction to Network Systems**<br>网络系统入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Web Development 1**<br>Web 开发 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Object-Oriented Programming 1**<br>面向对象编程 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Mathematics for Technologists**<br>技术人员数学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Object-Oriented Programming 2**<br>面向对象编程 2 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Database Design and Programming**<br>数据库设计与编程 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Software Analysis and Design**<br>软件分析与设计 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
-| **Introduction to User Experience (UX)**<br>用户体验（UX）导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
+| **Introduction to User Experience (UX)**<br>用户体验（UX）入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Cooperative Work Term**<br>带薪实习学期 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |
 | **Mobile Application Development**<br>移动应用开发 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/software-development) |

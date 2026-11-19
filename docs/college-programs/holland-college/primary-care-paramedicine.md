@@ -34,9 +34,9 @@ ms.date: 2026-11-08
 | **Pathology 3**<br>病理学 3 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
 | **Pathology 4**<br>病理学 4 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
 | **Paramedic Lab 3**<br>急救医护人员实验 3 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
-| **Introduction to ALS and Acute Care**<br>ALS与急症护理导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
+| **Introduction to ALS and Acute Care**<br>ALS与急症护理入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
 | **Paramedic Employment Practices**<br>急救医护人员就业实务 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
-| **Introduction to Pre-Hospital Pharmacology**<br>院前药理学导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
+| **Introduction to Pre-Hospital Pharmacology**<br>院前药理学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
 | **Ambulance Practicum 1**<br>救护车实习 1 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
 | **Paramedic Clinical**<br>急救医护人员临床实习 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |
 | **Ambulance Practicum 2**<br>救护车实习 2 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/primary-care-paramedicine/index.php) |

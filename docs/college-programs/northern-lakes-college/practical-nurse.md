@@ -16,8 +16,8 @@ ms.date: 2026-11-08
 | **Health Assessment: Assessment of Adults**<br>健康评估：成人评估 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 | **Health Education: Personal Health and Wellness**<br>健康教育：个人健康与福祉 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 | **Interpersonal Communications for the Helping Profession**<br>助人职业人际沟通 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
-| **Introduction to English Language and Literature**<br>英语语言与文学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
-| **Nursing Foundations I: Introduction to Nursing**<br>护理基础 1：护理导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
+| **Introduction to English Language and Literature**<br>英语语言与文学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
+| **Nursing Foundations I: Introduction to Nursing**<br>护理基础 1：护理入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 | **Nursing Foundations II: Basic Nursing**<br>护理基础 2：基础护理 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 | **Nursing Foundations III: Medical Surgical Nursing**<br>护理基础 III：内外科护理 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 | **Nursing Foundations IV: Maternity Nursing**<br>护理基础 4：产科护理 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Nursing Practice III: Acute Care 2 (Medical/Surgical)**<br>护理实践 III：急症护理 2（内外科） | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 | **Nursing Practice IV: Comprehensive Practice**<br>护理实践 4：综合实践 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 | **Pathophysiology**<br>病理生理学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
-| **Pharmacology: An Introduction to Pharmacology**<br>药理学：药理学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
+| **Pharmacology: An Introduction to Pharmacology**<br>药理学：药理学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 | **Psychology for the Health Care Professional**<br>医疗专业人员心理学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/practical-nurse) |
 
 ## Courses

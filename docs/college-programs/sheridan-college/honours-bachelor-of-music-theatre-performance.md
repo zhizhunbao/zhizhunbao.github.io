@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Voice and Text 1**<br>嗓音与文本 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Acting 1: Fundamentals 1**<br>表演1：基础1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Acting Through Song 1**<br>歌唱表演1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
-| **Introduction to World Drama**<br>世界戏剧导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
+| **Introduction to World Drama**<br>世界戏剧入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **American Music Theatre History and Repertoire 1**<br>美国音乐剧历史与曲目1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Dance Techniques 2**<br>舞蹈技巧2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
@@ -52,7 +52,7 @@ ms.date: 2026-11-08
 | **Devised and Physical Theatre**<br>编创与形体戏剧 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Acting Through Song 4**<br>歌唱表演4 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Critical Perspectives in Music Theatre**<br>音乐剧批判视角 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
-| **Writing for Music Theatre: Introduction**<br>音乐剧写作：导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
+| **Writing for Music Theatre: Introduction**<br>音乐剧写作：入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Dance Techniques 5**<br>舞蹈技巧5 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Voice and Text 5**<br>嗓音与文本 5 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |
 | **Acting 5 (On Camera)**<br>表演5（镜头前表演） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-music-theatre-performance) |

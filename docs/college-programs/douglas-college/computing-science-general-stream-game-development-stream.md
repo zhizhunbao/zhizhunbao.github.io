@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computing Science General stream Game Development stream**<br>计算机科学，通用方向、游戏开发方向 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
-| **Introduction to Computing Science and Programming or Computer Programming I**<br>计算机科学与编程导论或计算机编程 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
+| **Introduction to Computing Science and Programming or Computer Programming I**<br>计算机科学与编程入门或计算机编程 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
 | **Computer Programming II**<br>计算机编程 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
-| **Intro to Computer Architecture**<br>计算机体系结构导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
+| **Intro to Computer Architecture**<br>计算机体系结构入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
 | **Data Structures & Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
 | **User Interface Design**<br>用户界面设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |
 | **Discrete Mathematics I**<br>离散数学 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcpsc) |

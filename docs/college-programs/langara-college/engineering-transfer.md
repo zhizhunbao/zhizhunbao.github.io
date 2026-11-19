@@ -11,18 +11,18 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Engineering Transfer**<br>工程转学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate) |
-| **Introduction to Engineering I**<br>工程导论 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
+| **Introduction to Engineering I**<br>工程入门 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Engineering Chemistry**<br>工程化学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Engineering Design and Drafting**<br>工程设计与制图 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Physics I with Calculus**<br>微积分物理 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Program Design**<br>程序设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Program Design for Engineers**<br>工程师程序设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Calculus I with Computer Explorations**<br>微积分 I：计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Computer Explorations for Calculus I**<br>微积分 I 计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
-| **Introduction to Engineering II**<br>工程导论 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
+| **Introduction to Engineering II**<br>工程入门 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Control Systems and Sustainable Engineering Design**<br>控制系统与可持续工程设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Engineering Mechanics**<br>工程力学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |
 | **Physics II with Calculus**<br>微积分物理 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/engineering-transfer-certificate/courses) |

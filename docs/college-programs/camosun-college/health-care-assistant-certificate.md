@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Health Care Assistant, Certificate**<br>医疗护理助理证书 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/health-care-assistant-certificate) |
 | **Concepts for Practice**<br>实践概念 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4277) |
-| **Introduction to Practice**<br>实践导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4277) |
+| **Introduction to Practice**<br>实践入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4277) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4277) |
 | **Lifestyle and Choices**<br>生活方式与选择 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4277) |
 | **Common Health Challenges**<br>常见健康挑战 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4277) |

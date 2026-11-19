@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Anthropology Major (Evolutionary) (Science Program)**<br>人类学主修（进化）（理科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **Adaptation and Biodiversity**<br>适应与生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **From Genomes to Ecosystems in a Changing World**<br>变化世界中从基因组到生态系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **Human Biology and Evolution: From Fossils to Genes**<br>人类生物学与进化：从化石到基因 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **Medical Anthropology: an Evolutionary Perspective on Human Health**<br>医学人类学：人类健康的进化视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Health, Diet & Disease in the Past**<br>过去的健康、饮食与疾病 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **Anthropology of Childhood and Childcare**<br>童年与儿童照护人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **Primate Ecology & Social Behavior**<br>灵长类生态与社会行为 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
-| **Introduction to Virtual Anthropology**<br>虚拟人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
+| **Introduction to Virtual Anthropology**<br>虚拟人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **Topics in Emerging Scholarship (Evolutionary Anthropology)**<br>新兴学术专题（进化人类学） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **Special Topics in Evolutionary Anthropology**<br>进化人类学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |
 | **Internship in Anthropology**<br>人类学实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1510) |

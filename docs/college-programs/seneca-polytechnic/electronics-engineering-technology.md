@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Electronics Engineering Technology**<br>电子工程技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Electricity**<br>电学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Electronic Lab Instrumentation and Techniques**<br>电子实验室仪器与技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Mathematics with Foundations**<br>数学（含基础） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Programming Fundamentals Using "C"**<br>使用"C"的编程基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-08
 | **Technical Project**<br>技术项目 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Transmission Theory**<br>传动理论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Accounting I**<br>会计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
-| **Introduction to Business Administration**<br>工商管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
+| **Introduction to Business Administration**<br>工商管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Advanced Hardware and Software Interfacing**<br>高级软硬件接口 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Mechatronics Concepts**<br>机电一体化概念 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |
 | **Manufacturing Operations Management**<br>制造运营管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EET/courses.html) |

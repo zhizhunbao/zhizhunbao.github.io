@@ -16,14 +16,14 @@ ms.date: 2026-11-11
 | **Visual Language**<br>视觉语言 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 | **Art Now**<br>当代艺术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 | **First Year Field Trip**<br>一年级野外考察 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
-| **Introduction to Art 1A or History of Culture, Ideas and Environment 1**<br>艺术导论 1A 或 文化、思想与环境史 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
+| **Introduction to Art 1A or History of Culture, Ideas and Environment 1**<br>艺术入门 1A 或 文化、思想与环境史 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 | **Drawing: Studio 2**<br>绘画：工作室 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 | **Digital Essentials**<br>数字基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 | **Materials Studio**<br>材料工作室 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
-| **Introduction to Art 2A or History of Culture, Ideas and Environment 2**<br>艺术导论 2A 或 文化、思想与环境史 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
+| **Introduction to Art 2A or History of Culture, Ideas and Environment 2**<br>艺术入门 2A 或 文化、思想与环境史 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 | **Modern to Contemporary Art and Indigenous Peoples’ Art History**<br>现代至当代艺术与原住民艺术史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 | **Contemporary Art History**<br>当代艺术史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
-| **Introduction to The Theory of Art**<br>艺术理论导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
+| **Introduction to The Theory of Art**<br>艺术理论入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 | **Special Topics in Indigenous Contemporary Art Practices or Special Topics in BIPOC Contemporary Art Practices**<br>原住民当代艺术实践专题 或 BIPOC 当代艺术实践专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-bfa-general/) |
 
 ## Courses

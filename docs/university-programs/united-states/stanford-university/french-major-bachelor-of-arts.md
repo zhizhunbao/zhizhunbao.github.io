@@ -1,10 +1,10 @@
 ---
-title: "3.3.35 French, Major: Bachelor of Arts"
+title: "4.3.35 French, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > French, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.35 French, Major: Bachelor of Arts
+# 4.3.35 French, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -32,7 +32,7 @@ ms.date: 2026-11-18
 | **The History of Early Modern Political Philosophy: Machiavelli, Hobbes, and Locke**<br>早期现代政治哲学史：马基雅维利、霍布斯与洛克 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/french/bachelor-of-arts) |
 | **The Birth of Modern Moral Philosophy**<br>现代道德哲学的诞生 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/french/bachelor-of-arts) |
 | **Moral Psychology**<br>道德心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/french/bachelor-of-arts) |
-| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/french/bachelor-of-arts) |
+| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/french/bachelor-of-arts) |
 | **Topics in Metaethics: Moral Error Theory**<br>元伦理学专题：道德错误论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/french/bachelor-of-arts) |
 | **Ethics Beyond Consequences**<br>超越后果的伦理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/french/bachelor-of-arts) |
 | **Justice Across Borders**<br>跨越国界的正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/french/bachelor-of-arts) |

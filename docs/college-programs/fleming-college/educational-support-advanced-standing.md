@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Positive Behaviour Strategies**<br>积极行为策略 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support-advanced-standing) |
 | **Curriculum for Educational Support**<br>教育支持课程 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support-advanced-standing) |
 | **Field Practice**<br>实地实践 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support-advanced-standing) |
-| **Introduction to Exceptionalities**<br>特殊需求导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support-advanced-standing) |
+| **Introduction to Exceptionalities**<br>特殊需求入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support-advanced-standing) |
 | **Technology for Today's Classroom**<br>当代课堂技术 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support-advanced-standing) |
 | **Field Practice & Evaluation - Part A**<br>实地实践与评估 - A部分 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support-advanced-standing) |
 

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Education Assistant**<br>教育助理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/education-assistant) |
-| **Introduction to the Role of Education Assistant**<br>教育助理角色导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/education-assistant) |
+| **Introduction to the Role of Education Assistant**<br>教育助理角色入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/education-assistant) |
 | **Trauma-informed Practice for Education Assistants**<br>教育助理的创伤知情实践 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/education-assistant) |
 | **Communication Skills for Education Assistants**<br>教育助理沟通技能 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/education-assistant) |
 | **Indigenous Approaches to Education**<br>原住民教育方法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/education-assistant) |

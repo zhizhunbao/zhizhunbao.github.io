@@ -14,12 +14,12 @@ ms.date: 2026-11-11
 | **Waskawimakanwa Meciwaci Isihtwawina**<br>Waskawimakanwa Meciwaci Isihtwawina | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Anatomy of the Human Body**<br>人体解剖学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Physiology of the Human Body**<br>人体生理学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
-| **Introduction to Essential Skills for Nursing**<br>护理基本技能导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
+| **Introduction to Essential Skills for Nursing**<br>护理基本技能入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Communications for Nursing**<br>护理沟通 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Basic Pharmacotherapeutics**<br>基础药物治疗学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Human Growth and Development**<br>人类成长与发展 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
-| **Nursing Foundations I: Introduction to Nursing**<br>护理基础 I：护理导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
+| **Nursing Foundations I: Introduction to Nursing**<br>护理基础 I：护理入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Nursing Foundations II: Basic Nursing**<br>护理基础 II：基础护理 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Nursing Practice I: Continuing Care Practice**<br>护理实践 I：持续照护实践 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |
 | **Pathophysiology for Health Care Professions**<br>医疗卫生专业病理生理学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=52) |

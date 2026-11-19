@@ -14,10 +14,10 @@ ms.date: 2026-11-11
 | **Intermediate French I**<br>中级法语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **Intermediate French II**<br>中级法语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **Practical French for Exploring Linguistics**<br>探索语言学的实用法语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
-| **The French Language: A Linguistic Introduction**<br>法语：语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
-| **Introduction to the History of the French Language**<br>法语史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
-| **Introduction to Québec Literature and Culture**<br>魁北克文学与文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
-| **Introduction to French Cultural and Literary Studies**<br>法国文化与文学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
+| **The French Language: A Linguistic Introduction**<br>法语：语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
+| **Introduction to the History of the French Language**<br>法语史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
+| **Introduction to Québec Literature and Culture**<br>魁北克文学与文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
+| **Introduction to French Cultural and Literary Studies**<br>法国文化与文学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **Intermediate French III**<br>中级法语 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **Intermediate French IV**<br>中级法语 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **French Phonology and Phonetics**<br>法语音系学与语音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **French Semantics and Pragmatics**<br>法语语义学与语用学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **French Morphology**<br>法语形态学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **Bilingualism, Multilingualism, and Second Language Acquisition**<br>双语、多语与第二语言习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **Literature and Data**<br>文学与数据 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **Medieval French Language**<br>中世纪法语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |
 | **Experimental Methods in French Linguistics**<br>法语语言学的实验方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0525) |

@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Entomology**<br>昆虫学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/greenhouse-technician) |
 | **Mathematics for Greenhouse Technicians**<br>温室技术员数学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/greenhouse-technician) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/greenhouse-technician) |
-| **Introduction To Integrated Pest Management**<br>病虫害综合治理导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/greenhouse-technician) |
+| **Introduction To Integrated Pest Management**<br>病虫害综合治理入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/greenhouse-technician) |
 | **Pesticide Control**<br>农药管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/greenhouse-technician) |
 | **Biosecurity and Sanitation**<br>生物安全与卫生 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/greenhouse-technician) |
 | **Agriculture Business Management**<br>农业商务管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/greenhouse-technician) |

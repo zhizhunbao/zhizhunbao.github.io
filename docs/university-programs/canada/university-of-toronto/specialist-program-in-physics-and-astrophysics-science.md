@@ -19,11 +19,11 @@ ms.date: 2026-11-11
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Calculus II for Mathematical Sciences**<br>数学科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
-| **Introduction to Computer Science I**<br>计算机科学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
+| **Introduction to Computer Science I**<br>计算机科学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Astrophysics of Stars, Galaxies and the Universe**<br>恒星、星系与宇宙天体物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Intermediate Physics Laboratory I**<br>中级物理实验 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
-| **Introduction to Quantum Physics**<br>量子物理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
+| **Introduction to Quantum Physics**<br>量子物理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Thermal Physics**<br>热物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Mechanics: From Oscillations to Chaos**<br>力学：从振荡到混沌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
@@ -33,17 +33,17 @@ ms.date: 2026-11-11
 | **Electromagnetic Theory**<br>电磁理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Quantum Mechanics I**<br>量子力学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Intermediate Physics Laboratory II**<br>中级物理实验 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
-| **Introduction to Atmospheric Physics**<br>大气物理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
+| **Introduction to Atmospheric Physics**<br>大气物理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Practical Astronomy: Instrumentation and Data Analysis**<br>实用天文学：仪器与数据分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Complex Variables**<br>复变函数 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Differential Equations II**<br>微分方程 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Astrophysics of Planetary Systems**<br>行星系统天体物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Planetary Geophysics**<br>行星地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Physics of Climate Modeling**<br>气候建模物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
-| **Introduction to Magnetohydrodynamics for Astrophysics and Geophysics**<br>天体物理与地球物理的磁流体动力学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
-| **Introduction to Fluid Mechanics**<br>流体力学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
+| **Introduction to Magnetohydrodynamics for Astrophysics and Geophysics**<br>天体物理与地球物理的磁流体动力学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
+| **Introduction to Fluid Mechanics**<br>流体力学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Nonlinear Systems and Chaos**<br>非线性系统与混沌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Advanced Computational Methods in Physics**<br>物理学高级计算方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |
 | **Research Project in Physics and Astrophysics**<br>物理与天体物理研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1234a) |

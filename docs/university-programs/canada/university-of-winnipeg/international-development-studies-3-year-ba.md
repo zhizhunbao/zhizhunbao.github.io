@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **International Development Studies, 3-Year BA**<br>国际发展研究，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
-| **Introduction to International Development Studies**<br>国际发展研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
+| **Introduction to International Development Studies**<br>国际发展研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
 | **Participatory Local Development**<br>参与式地方发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
 | **Development Aid Policy & Practise**<br>发展援助政策与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
 | **Method and Theory in Cultural Anthropology**<br>文化人类学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
-| **Introduction to Economic Theory**<br>经济理论导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
-| **Introduction to Economic Making**<br>经济决策导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
-| **Introduction to Economics: Micro**<br>经济学导论：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
-| **Introduction to Economics: Macro**<br>经济学导论：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
+| **Introduction to Economic Theory**<br>经济理论入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
+| **Introduction to Economic Making**<br>经济决策入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
+| **Introduction to Economics: Micro**<br>经济学入门：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
+| **Introduction to Economics: Macro**<br>经济学入门：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
 | **Urbanization in the Developing World**<br>发展中世界的城市化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
 | **International Organization**<br>国际组织 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |
 | **Global Politics**<br>全球政治 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=2) |

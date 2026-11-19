@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Integral Calculus (C+)**<br>积分学 (C+) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Elementary Discrete Mathematics**<br>初等离散数学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
-| **Introduction to Statistics and Computing**<br>统计与计算导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
+| **Introduction to Statistics and Computing**<br>统计与计算入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Introductory Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Algebra 1**<br>代数 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
-| **Introduction to Analysis**<br>分析学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
+| **Introduction to Analysis**<br>分析学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Linear Algebra 2**<br>线性代数 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Multivariable Calculus**<br>多元微积分 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Real Analysis 1**<br>实分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Algebra 2**<br>代数 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Complex Analysis 1**<br>复分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Combinatorics 2**<br>组合数学 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
-| **Introduction to Topology**<br>拓扑学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
+| **Introduction to Topology**<br>拓扑学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Ordinary Differential Equations**<br>常微分方程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |
 | **Curves and Surfaces**<br>曲线与曲面 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-bsc-major/) |

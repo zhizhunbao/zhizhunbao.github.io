@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Bachelor of Child and Youth Care (Honours)**<br>儿童与青少年关怀学士（荣誉） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/wellness-safety-community/program/bachelor-of-child-and-youth-care/) |
 | **Communications and Academic Writing**<br>沟通与学术写作 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Zaagi'Idiwin**<br>Zaagi'Idiwin | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
-| **Introduction to Child and Youth Care**<br>儿童与青少年关怀导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
+| **Introduction to Child and Youth Care**<br>儿童与青少年关怀入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Anti-Oppressive Practice and Diversity in Child and Youth Care**<br>儿童与青少年关怀中的反压迫实践与多元化 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Nature-Based Programming**<br>自然教育课程 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
@@ -35,12 +35,12 @@ ms.date: 2026-11-08
 | **Spanish-Beginner 1**<br>西班牙语初级 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Spanish-Beginner 2**<br>西班牙语初级 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Law**<br>法律 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Ethical Decision Making**<br>伦理决策 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Navigating Canada's Political Landscape**<br>解读加拿大政治格局 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Creative Interventions for Children and Youth**<br>儿童与青少年创意干预 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |
 | **Substance Use and Misuse**<br>物质使用与滥用 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6607X01FWO.pdf) |

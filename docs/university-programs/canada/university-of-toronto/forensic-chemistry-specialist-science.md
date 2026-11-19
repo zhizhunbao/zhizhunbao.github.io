@@ -13,15 +13,15 @@ ms.date: 2026-11-11
 | **Forensic Chemistry - Specialist (Science)**<br>法证化学－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Chemical Principles 1**<br>化学原理 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Chemical Principles 2**<br>化学原理 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
-| **Introduction to Forensic Science**<br>法医科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
+| **Introduction to Forensic Science**<br>法医科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Differential Calculus for Life Sciences**<br>生命科学微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Integral Calculus for Life Sciences**<br>生命科学积分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Physics for Life and Environmental Sciences I**<br>生命与环境科学物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Physics for Life and Environmental Sciences II**<br>生命与环境科学物理 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
-| **Introduction to Biological Data**<br>生物数据导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
+| **Introduction to Biological Data**<br>生物数据入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Applied Forensic Statistics**<br>应用法医统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-11
 | **Communicating Forensic Science**<br>法庭科学传播 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Professional Opportunity in Forensic Science**<br>法医科学的职业机会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Forensic Identification Field School**<br>法医鉴定野外学校 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
-| **Introduction to Pharmacology: Pharmacokinetic Principles**<br>药理学导论：药代动力学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
+| **Introduction to Pharmacology: Pharmacokinetic Principles**<br>药理学入门：药代动力学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **The Science of Cannabis**<br>大麻科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 | **Diversity of Organisms**<br>生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1009) |
 

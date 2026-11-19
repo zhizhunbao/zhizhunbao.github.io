@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Health Assessment for Practical Nurses**<br>实用护士健康评估 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PND/courses.html) |
 | **Healing Practices for Practical Nurses II**<br>实用护士疗愈实践 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PND/courses.html) |
 | **Skills Lab for the Practical Nurse II**<br>实习护士技能实验 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PND/courses.html) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PND/courses.html) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PND/courses.html) |
 | **Practical Nursing Clinical**<br>实习护理临床 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PND/courses.html) |
 | **Healing Practices for the Practical Nurse III**<br>实用护士疗愈实践 III | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PND/courses.html) |
 | **Pharmacology for the Practical Nurse**<br>实习护士药理学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PND/courses.html) |

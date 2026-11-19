@@ -14,15 +14,15 @@ ms.date: 2026-11-08
 | **Business Computer Applications 1**<br>商务计算机应用 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Effective Business Communication**<br>有效商务沟通 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Professional Development 1**<br>职业发展 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Social Media & Emerging Technology**<br>社交媒体与新兴技术 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Business Computer Applications - Excel**<br>商务计算机应用 - Excel | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Economics**<br>经济学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Professional Development 2**<br>职业发展 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |
 | **Becoming a Global Changemaker**<br>成为全球变革者 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business/) |

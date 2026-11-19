@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Interdisciplinary Therapy Assistant**<br>跨学科治疗助理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/interdisciplinary-therapy-assistant) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/interdisciplinary-therapy-assistant) |
 | **Anatomy and Physiology for Rehabilitation**<br>康复解剖学与生理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/interdisciplinary-therapy-assistant) |
-| **Introduction to Rehabilitation**<br>康复导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/interdisciplinary-therapy-assistant) |
+| **Introduction to Rehabilitation**<br>康复入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/interdisciplinary-therapy-assistant) |
 | **Professional Communication and Collaboration**<br>专业沟通与协作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/interdisciplinary-therapy-assistant) |
 | **Therapeutic Recreation and Leisure**<br>治疗性康乐与休闲 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/interdisciplinary-therapy-assistant) |
 | **Therapeutic Mobility**<br>治疗性活动能力训练 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/interdisciplinary-therapy-assistant) |

@@ -25,13 +25,13 @@ ms.date: 2026-11-08
 | **Fundamentals of Nursing II**<br>护理学基础 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Fundamentals of Nursing III**<br>护理学基础 III | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Maternity and Pediatric Nursing**<br>产科与儿科护理 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
-| **Introduction to Mental Health Nursing**<br>精神健康护理导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
+| **Introduction to Mental Health Nursing**<br>精神健康护理入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Leadership in Nursing**<br>护理领导力 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Disease Processes and Therapeutics II**<br>疾病过程与治疗学 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Disease Processes and Therapeutics III**<br>疾病过程与治疗学 III | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Maternal Childcare Lab**<br>母婴护理实验 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Nutrition**<br>营养学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
-| **Introduction to Pharmacology**<br>药理学导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
+| **Introduction to Pharmacology**<br>药理学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Long Term Care Clinical I**<br>长期护理临床实习 I | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Long Term Care Clinical II**<br>长期护理临床实习 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |
 | **Acute Care Clinical I**<br>急症护理临床 I | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/practical-nursing/index.php) |

@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Environmental Studies (Bilingual Program)**<br>环境研究（双语项目）主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
-| **Introduction to Organismal Biology**<br>生物体生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
+| **Introduction to Organismal Biology**<br>生物体生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
 | **Global Environmental Challenges**<br>全球环境挑战 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
 | **L'environnement physique**<br>物理环境 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
 | **Places and Spaces of Human Activity**<br>人类活动的场所与空间 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
 | **History of Environmental Thought**<br>环境思想史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
 | **Climatology**<br>气候学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
-| **Introduction to Field Research**<br>田野研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
+| **Introduction to Field Research**<br>田野研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
 | **GIS and the Digital Earth**<br>地理信息系统与数字地球 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
 | **Human and Policy Dimensions of Environmental Change**<br>环境变化的人文与政策维度 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |
 | **Approches méthodologiques et théoriques en géographie et études environnementales**<br>地理与环境研究的方法论与理论方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-environmental-studies-bilingual-program/) |

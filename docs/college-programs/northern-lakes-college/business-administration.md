@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Administration**<br>工商管理 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/business-administrative-studies/business-certificates/program/1944) |
 | **Introductory Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/business-administrative-studies/business-certificates/program/1944) |
-| **Introduction to Computer Applications**<br>计算机应用导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/business-administrative-studies/business-certificates/program/1944) |
+| **Introduction to Computer Applications**<br>计算机应用入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/business-administrative-studies/business-certificates/program/1944) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/business-administrative-studies/business-certificates/program/1944) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/business-administrative-studies/business-certificates/program/1944) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/business-administrative-studies/business-certificates/program/1944) |

@@ -43,7 +43,7 @@ ms.date: 2026-11-08
 | **MCAW (Metal Core Arc Welding)**<br>MCAW（药芯焊丝电弧焊） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **Stud and Spot Resistance Welding**<br>螺柱焊与电阻点焊 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **Capstone I Welder - Metal Fabricator**<br>毕业设计项目 I：焊工与金属加工工 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **Shielded Metal Welding (SMAW)**<br>手工电弧焊（SMAW） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **SMAW (Shielded Metal Arc Welding) 3**<br>SMAW（手工电弧焊）3 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **SMAW for Industry I**<br>工业SMAW I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
@@ -65,7 +65,7 @@ ms.date: 2026-11-08
 | **GTAW for Industry**<br>工业 GTAW | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **Pipe Welding for Industry**<br>工业管道焊接 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **Work Planning**<br>工作计划 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **Welder Math Fundamentals**<br>焊工数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **Capstone II Welder - Metal Fabricator**<br>毕业设计项目 II：焊工与金属加工工 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |
 | **Weld Faults**<br>焊接缺陷 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/welder-metal-fabricator-fitter) |

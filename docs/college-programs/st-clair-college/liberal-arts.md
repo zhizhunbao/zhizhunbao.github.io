@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Liberal Arts**<br>博雅教育 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
-| **Introduction To Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
+| **Introduction To Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
 | **Intro To Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
 | **How To Be Who I Want To Be**<br>如何成为我想成为的人 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
 | **Thinking, Learning and Being**<br>思考、学习与存在 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
 | **Social Science Research**<br>社会科学研究 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
-| **Introduction To Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
+| **Introduction To Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
 | **Canadian History And Politics**<br>加拿大历史与政治 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
 | **Contemporary Social Problems**<br>当代社会问题 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |
 | **Intro To Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/liberal-arts) |

@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Esports Administration and Entrepreneurship**<br>电竞管理与创业 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
 | **Accounting Concepts I**<br>会计概念 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
-| **Introduction To Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
-| **Introduction To Esports**<br>电子竞技导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
+| **Introduction To Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
+| **Introduction To Esports**<br>电子竞技入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
 | **Esports Media Production I**<br>电子竞技媒体制作 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
-| **Introduction To Sport Marketing**<br>体育营销导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
-| **Introduction To Sport Management**<br>体育管理导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
+| **Introduction To Sport Marketing**<br>体育营销入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
+| **Introduction To Sport Management**<br>体育管理入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
 | **Accounting Concepts II**<br>会计概念 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
 | **Program And Event Management**<br>项目与活动管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/esports-administration-and-entrepreneurship) |

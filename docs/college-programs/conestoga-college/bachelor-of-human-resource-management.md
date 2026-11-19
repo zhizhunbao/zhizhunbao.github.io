@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Human Resource Management**<br>人力资源管理学士 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management) |
-| **Introduction to Business with International Applications**<br>国际化商务导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
+| **Introduction to Business with International Applications**<br>国际化商务入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Organizational Behaviour with International Applications**<br>国际化组织行为学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Information Management**<br>信息管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
@@ -19,11 +19,11 @@ ms.date: 2026-11-08
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Introductory Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Business Process Integration**<br>业务流程集成 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
-| **Introduction to Economics**<br>经济学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
+| **Introduction to Economics**<br>经济学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Employment Law**<br>劳动法 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Electives: Interdisciplinary Elective**<br>选修课：跨学科选修 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
-| **Introduction to Sustainability with International Applications**<br>国际化可持续发展导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
+| **Introduction to Sustainability with International Applications**<br>国际化可持续发展入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Equity, Diversity, and Inclusion in the Workplace**<br>职场中的公平、多元与包容 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Strategic Workforce Planning**<br>战略性劳动力规划 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |
 | **Operations Management I**<br>运营管理 1 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-human-resource-management/courses-no-intake?id=16171) |

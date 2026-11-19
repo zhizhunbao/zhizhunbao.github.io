@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Cybersecurity Solutions**<br>网络安全解决方案 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
 | **Scripting Fundamentals**<br>脚本编程基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
-| **Introduction to Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
+| **Introduction to Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
 | **Deploy and Administer Enterprise Infrastructure**<br>企业基础设施部署与管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
-| **Introduction to Virtualization**<br>虚拟化导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
+| **Introduction to Virtualization**<br>虚拟化入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
 | **Apply Scripting Techniques for Web Application**<br>网页应用脚本技术应用 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
-| **Introduction to Cloud Infrastructure**<br>云基础设施导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
+| **Introduction to Cloud Infrastructure**<br>云基础设施入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
 | **Secure Complex Networks**<br>保护复杂网络 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
 | **Manage Projects**<br>项目管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |
 | **Configure and Administer Servers**<br>服务器配置与管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/cybersecurity-solutions) |

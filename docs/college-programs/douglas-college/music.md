@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Music**<br>音乐 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Theory of Tonal Music I**<br>调性音乐理论 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
-| **History of Western Music I: Introduction**<br>西方音乐史 I：导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
-| **Introduction to Composition I**<br>作文导论 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
+| **History of Western Music I: Introduction**<br>西方音乐史 I：入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
+| **Introduction to Composition I**<br>作文入门 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Contemporary Instrumental Improvisation I**<br>当代器乐即兴 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Ear Training and Sight Singing I**<br>视唱练耳 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Class Piano I**<br>钢琴集体课 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Studio Instruction - General (1/2 hr) I**<br>个别指导：通用（半小时）1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Keyboard Accompanying I**<br>键盘伴奏 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Fusion Band I**<br>融合乐队 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
-| **Introduction to Music Technology**<br>音乐技术导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
+| **Introduction to Music Technology**<br>音乐技术入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Percussion Ensemble I**<br>打击乐合奏 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Guitar Ensemble I**<br>吉他合奏 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Popular Guitar-Voice Basics I**<br>流行吉他演唱基础 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-08
 | **Keyboard Harmony I**<br>键盘和声 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Class Brass**<br>铜管乐集体课 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Class Percussion**<br>打击乐集体课 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
-| **Introduction to Composition II**<br>作文导论 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
+| **Introduction to Composition II**<br>作文入门 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Contemporary Instrumental Improvisation II**<br>当代器乐即兴 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Ear Training and Sight Singing II**<br>视唱练耳 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Class Piano II**<br>钢琴集体课 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
@@ -80,7 +80,7 @@ ms.date: 2026-11-08
 | **Guitar Ensemble III**<br>吉他合奏 III | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Theory of Tonal Music IV**<br>调性音乐理论 4 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Contemporary Popular Theory II**<br>当代流行音乐理论 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
-| **Introduction to Popular Music**<br>流行音乐导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
+| **Introduction to Popular Music**<br>流行音乐入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Keyboard Harmony II**<br>键盘和声 2 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Contemporary Instrumental Improvisation IV**<br>当代器乐即兴 IV | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |
 | **Ear Training and Sight Singing IV**<br>视唱练耳 IV | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpmusc) |

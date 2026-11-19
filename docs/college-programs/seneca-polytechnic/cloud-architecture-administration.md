@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Cloud Architecture & Administration**<br>云架构与管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAA.html) |
 | **Cloud Automation and Control Systems**<br>云自动化与控制系统 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAA/courses.html) |
 | **Artificial Intelligence and Machine Learning**<br>人工智能与机器学习 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAA/courses.html) |
-| **Introduction to Cloud Infrastructure**<br>云基础设施导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAA/courses.html) |
+| **Introduction to Cloud Infrastructure**<br>云基础设施入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAA/courses.html) |
 | **Cloud Architecture**<br>云架构 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAA/courses.html) |
 | **Programming for Cloud**<br>云编程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAA/courses.html) |
 | **Security Management**<br>安全管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAA/courses.html) |

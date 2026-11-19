@@ -1,20 +1,20 @@
 ---
-title: "3.4.17 Cognitive Science (B.A. or B.S.)"
+title: "4.4.17 Cognitive Science (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Cognitive Science (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.17 Cognitive Science (B.A. or B.S.)
+# 4.4.17 Cognitive Science (B.A. or B.S.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Cognitive Science (B.A. or B.S.)**<br>认知科学（文学学士或理学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
-| **Introduction to Cognitive Science**<br>认知科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
+| **Introduction to Cognitive Science**<br>认知科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Game Theory**<br>博弈论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
-| **Language: Introduction to Linguistics**<br>语言：语言学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
+| **Language: Introduction to Linguistics**<br>语言：语言学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Cognitive Science of Language**<br>语言认知科学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Language and Mind**<br>语言与心智 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Phonology I**<br>音系学 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
@@ -23,15 +23,15 @@ ms.date: 2026-11-18
 | **Cognitive Neuroscience**<br>认知神经科学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **The Human Brain**<br>人类大脑 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Research Methods in Cognitive Neuroscience**<br>认知神经科学研究方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
-| **Introduction to Modern Philosophy from Descartes to Kant**<br>近代哲学导论：从笛卡尔到康德 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
+| **Introduction to Modern Philosophy from Descartes to Kant**<br>近代哲学入门：从笛卡尔到康德 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Epistemology**<br>认识论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Junior Colloquium in Cognitive Science**<br>认知科学三年级研讨会 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Mathematical Tools for Computer Science**<br>计算机科学数学工具 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Mathematics of Language**<br>语言的数学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
-| **Introductory Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
-| **Introductory Statistics, Intensive**<br>统计学导论（强化） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
+| **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
+| **Introductory Statistics, Intensive**<br>统计学入门（强化） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Data Exploration and Analysis**<br>数据探索与分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Senior Empirical Project I**<br>毕业实证项目 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |
 | **Senior Empirical Project II**<br>毕业实证项目 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/) |

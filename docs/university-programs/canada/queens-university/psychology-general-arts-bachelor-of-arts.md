@@ -13,12 +13,12 @@ ms.date: 2026-11-11
 | **Psychology – General (Arts) – Bachelor of Arts**<br>心理学 - 普通（文科） - 文学学士 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
 | **Principles of Psychology**<br>心理学原理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
 | **Culture, Identity, and Self**<br>文化、身份与自我 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
 | **Analysis of Process Data 1**<br>过程数据分析 1 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
 | **Computational Probability and Statistics**<br>计算概率与统计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
 | **Managerial Statistics**<br>管理统计学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
 | **Statistics in Psychology**<br>心理学统计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/psychology/psychology-general-arts-ba/) |
 
 ## Courses
 

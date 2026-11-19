@@ -18,14 +18,14 @@ ms.date: 2026-11-08
 | **Professional Issues in Respiratory Care**<br>呼吸治疗的专业问题 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Clinical Applications 1**<br>临床应用 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Physiological Chemistry**<br>生理化学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
-| **Research Principles: Intro**<br>研究原则：导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
+| **Research Principles: Intro**<br>研究原则：入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Cardiopulmonary Anatomy & Physiology 2**<br>心肺解剖与生理 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Assessments in Respiratory Care**<br>呼吸护理评估 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Systemic Pathophysiology**<br>系统病理生理学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Therapeutic Airway Interventions**<br>治疗性气道干预 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Clinical Applications 2**<br>临床应用 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Fundamentals of Mechanical Ventilation**<br>机械通气基础 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
-| **Pharmacology-Intro**<br>药理学 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
+| **Pharmacology-Intro**<br>药理学 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Cardiopulmonary Assessment/Intervention**<br>心肺评估/干预 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Principles of Anesthesia**<br>麻醉原理 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |
 | **Orientation to Clinical Experience 1**<br>临床经验导入 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4176/courses-next/) |

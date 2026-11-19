@@ -13,21 +13,21 @@ ms.date: 2026-11-11
 | **Honours Bachelor of Science in Nutrition and Dietetics**<br>营养与膳食学荣誉理学学士 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Principes d’anatomie et de physiologie humaines I**<br>人体解剖与生理学原理 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Principes d’anatomie et de physiologie humaines II**<br>人体解剖与生理学原理 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
-| **Introduction à la biologie cellulaire et moléculaire**<br>细胞与分子生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
+| **Introduction à la biologie cellulaire et moléculaire**<br>细胞与分子生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Principes de chimie**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Chimie organique I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Analyse, écriture et argumentation I**<br>分析、写作与论证 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Sciences des aliments I**<br>食品科学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Aliments et expérimentations culinaires**<br>食品与烹饪实验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Psychologie de l’alimentation**<br>饮食心理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
-| **Introduction à la nutrition**<br>营养学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
+| **Introduction à la nutrition**<br>营养学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Analyse quantitative des données en sciences de la santé: variables continues**<br>健康科学定量数据分析：连续变量 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Techniques de laboratoire en sciences des aliments**<br>食品科学实验技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Principes de communication, collaboration et counseling**<br>沟通、协作与咨询原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Principes de gestion en nutrition**<br>营养管理原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Gestion des services alimentaires**<br>餐饮服务管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Nutrition à travers le cycle de la vie**<br>生命周期中的营养 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
-| **Introduction aux méthodes de recherche sur les aliments et la nutrition**<br>食品与营养研究方法导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
+| **Introduction aux méthodes de recherche sur les aliments et la nutrition**<br>食品与营养研究方法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Nutrition et métabolisme**<br>营养与代谢 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Biochimie nutritionnelle**<br>营养生物化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |
 | **Nutrition publique et santé des populations I**<br>公共营养与人群健康 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nutrition-dietetics/) |

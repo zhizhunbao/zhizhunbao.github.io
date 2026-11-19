@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Palliative Care – Multidiscipline**<br>姑息治疗：多学科 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
-| **Palliative Care - Introduction**<br>姑息护理 - 导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
+| **Palliative Care - Introduction**<br>姑息护理 - 入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
 | **Palliative Care - Communications**<br>姑息护理 - 沟通 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
 | **Palliative Care - Psychosocial Aspects**<br>姑息护理 - 心理社会层面 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
 | **Palliative Care - Understanding of Death**<br>姑息护理 - 认识死亡 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Palliative Care - Comfort**<br>姑息护理 - 舒适照护 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
 | **Palliative Care - Ethics**<br>姑息护理 - 伦理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
 | **Palliative Care - Simulation**<br>姑息护理 - 模拟 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
-| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
+| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
 | **Leadership Studies**<br>领导力研究 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/palliative-care/) |
 
 ## Courses

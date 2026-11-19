@@ -14,11 +14,11 @@ ms.date: 2026-11-11
 | **Waskawimakanwa Meciwaci Isihtwawina**<br>Waskawimakanwa Meciwaci Isihtwawina | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
 | **Academic Research and Writing**<br>学术研究与写作 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
 | **Research Methods in Aboriginal and Northern Studies 1**<br>原住民与北方研究的研究方法 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
-| **Introduction to Sociology 1**<br>社会学导论 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
-| **Introduction to Sociology 2**<br>社会学导论 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
+| **Introduction to Sociology 1**<br>社会学入门 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
+| **Introduction to Sociology 2**<br>社会学入门 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
 | **Classical Social Theory**<br>古典社会理论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
 | **Contemporary Social Theory**<br>当代社会理论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
 | **Research and Methods in Aboriginal and Northern Studies 2**<br>原住民与北方研究的研究与方法 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
 | **Special Topics in Research Methods in the Social Sciences**<br>社会科学研究方法专题 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=40) |
 

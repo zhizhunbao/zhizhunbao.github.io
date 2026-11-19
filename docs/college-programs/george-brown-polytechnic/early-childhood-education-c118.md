@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Integrated Seminar I**<br>综合研讨 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Applied Curriculum I**<br>应用课程 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Infant & Child Development I**<br>婴幼儿发展 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Lower Liberal Elective**<br>低年级通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Field Practice II**<br>实地实践 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Foundations of ECE II**<br>幼儿教育基础 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Integrated Seminar II**<br>综合研讨 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Applied Curriculum II**<br>应用课程 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Infant & Child Development II**<br>婴幼儿发展 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Professional Development Workshop I**<br>专业发展工作坊 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |
 | **Integrated Seminar III**<br>综合研讨 III | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-consecutive-diplomadegree-c118) |

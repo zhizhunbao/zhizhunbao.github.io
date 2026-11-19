@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Teaching and Learning Social Sciences (Gr. Dip.)**<br>社会科学教学与学习（研究生文凭） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-social-sciences-option/) |
 | **Indigenizing Pedagogy and Curriculum.**<br>教学法与课程的本土化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-social-sciences-option/) |
-| **Introduction to Philosophy of Education.**<br>教育哲学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-social-sciences-option/) |
+| **Introduction to Philosophy of Education.**<br>教育哲学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-social-sciences-option/) |
 | **Foundational Professional Seminar**<br>基础专业研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-social-sciences-option/) |
 | **English Exam for Teacher Certification.**<br>教师资格英语考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-social-sciences-option/) |
 | **Techniques for Planning and Assessment.**<br>规划与评估技术 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-social-sciences-option/) |

@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **Lifespan Processes**<br>生命历程过程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
 | **Social Statistics**<br>社会统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
 | **Social Research**<br>社会研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
-| **Introduction to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
+| **Introduction to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
 | **Deviance: Perspectives and Processes**<br>越轨：视角与过程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
 | **Sociology of Adolescence**<br>青少年社会学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |
 | **Sociology of Education**<br>教育社会学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkl_gJCAin) |

@@ -14,14 +14,14 @@ ms.date: 2026-11-08
 | **Financial Accounting 1**<br>财务会计 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Business Info Technology**<br>商务信息技术 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Hospitality Career Skills**<br>酒店业职业技能 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Co-operative Work Experience 1**<br>合作教育工作经历 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Beverage Operations**<br>饮品运营 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Hotel Operations**<br>酒店运营 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Food & Beverage Cost Control**<br>餐饮成本控制 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
-| **Introduction to Restaurant Operations**<br>餐厅运营导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
+| **Introduction to Restaurant Operations**<br>餐厅运营入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Academic Writing Strategies**<br>学术写作策略 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Literary Genres**<br>文学体裁 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |
 | **Literary Traditions: Selected Themes**<br>文学传统：专题选读 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4318) |

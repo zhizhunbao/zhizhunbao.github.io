@@ -1,19 +1,19 @@
 ---
-title: "3.4.7 Architecture (B.A.)"
+title: "4.4.7 Architecture (B.A.)"
 description: "University Programs > United States > Yale University > Architecture (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.7 Architecture (B.A.)
+# 4.4.7 Architecture (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Architecture (B.A.)**<br>建筑学（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |
-| **Introduction to Architecture**<br>建筑学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |
+| **Introduction to Architecture**<br>建筑学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |
 | **American Architecture and Urbanism**<br>美国建筑与城市化 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |
-| **Introduction to Urban Design**<br>城市设计导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |
+| **Introduction to Urban Design**<br>城市设计入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |
 | **Methods and Form in Architecture I**<br>建筑中的方法与形式 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |
 | **Methods and Form in Architecture II**<br>建筑中的方法与形式 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |
 | **Architecture Before Modernity**<br>现代以前的建筑 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/) |

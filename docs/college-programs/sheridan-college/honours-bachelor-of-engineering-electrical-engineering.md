@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Health and Safety for Engineers**<br>工程师健康与安全 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Calculus 2**<br>微积分 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
-| **Introduction to Chemistry for Engineers**<br>工程师化学导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
+| **Introduction to Chemistry for Engineers**<br>工程师化学入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Fundamentals of Physics 2**<br>物理基础2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Engineering Design and Problem Solving**<br>工程设计与问题解决 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Embedded Software Fundamentals**<br>嵌入式软件基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Modelling and Simulation**<br>建模与仿真 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Electric Power Generation and Transmission**<br>发电与输电 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
-| **Introduction to Energy Systems**<br>能源系统导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
+| **Introduction to Energy Systems**<br>能源系统入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Technical Elective**<br>技术选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Control Systems**<br>控制系统 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |
 | **Electric Machines**<br>电机 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-electrical) |

@@ -14,21 +14,21 @@ ms.date: 2026-11-08
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Computer Applications for Management**<br>管理计算机应用 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
-| **Introduction to Business and Technology**<br>商业与技术导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
+| **Introduction to Business and Technology**<br>商业与技术入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Financial Accounting 1**<br>财务会计 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
-| **Introduction to Economics**<br>经济学导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
+| **Introduction to Economics**<br>经济学入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Financial Accounting 2**<br>财务会计 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Financial Management**<br>财务管理 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Canadian Business Law**<br>加拿大商法 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Business Analysis and Systems Design**<br>业务分析与系统设计 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Intermediate Accounting 1**<br>中级会计 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Accounting Software Applications and Bookkeeping**<br>会计软件应用与簿记 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Data Analysis and Databases**<br>数据分析与数据库 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Canadian Income Tax**<br>加拿大所得税 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Intermediate Accounting 2**<br>中级会计 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
-| **Introduction to Auditing**<br>审计学导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
+| **Introduction to Auditing**<br>审计学入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Payroll, Accounts Payable, and Accounts Receivable Software**<br>薪资、应付账款与应收账款软件 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 | **Accounting Capstone**<br>会计毕业设计项目 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/accounting/) |
 

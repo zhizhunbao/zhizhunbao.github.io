@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **History (Bachelor of Arts - Honours)**<br>历史学（文学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1MVgkCRi2) |
-| **What is History? An Introduction to Historical Thinking**<br>什么是历史？历史思维导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1MVgkCRi2) |
+| **What is History? An Introduction to Historical Thinking**<br>什么是历史？历史思维入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1MVgkCRi2) |
 | **History of Ancient Law**<br>古代法律史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1MVgkCRi2) |
 | **Greek History**<br>希腊史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1MVgkCRi2) |
 | **Roman History**<br>罗马史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1MVgkCRi2) |

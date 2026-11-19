@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Plumbing & Pipefitting Applied Certificate**<br>管道与管件安装应用证书 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/plumbing-pipefitting-applied-certificate) |
 | **Blueprint Reading**<br>图纸识读 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/plumbing-pipefitting-applied-certificate) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/plumbing-pipefitting-applied-certificate) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/plumbing-pipefitting-applied-certificate) |
 | **Essential Job Skills**<br>基本职业技能 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/plumbing-pipefitting-applied-certificate) |
 | **Trade Math**<br>行业数学 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/plumbing-pipefitting-applied-certificate) |
 | **Pipe Fabrication Theory**<br>管道预制理论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/plumbing-pipefitting-applied-certificate) |

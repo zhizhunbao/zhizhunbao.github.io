@@ -1,10 +1,10 @@
 ---
-title: "3.3.2 African and African American Studies, Major: Bachelor of Arts"
+title: "4.3.2 African and African American Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > African and African American Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.2 African and African American Studies, Major: Bachelor of Arts
+# 4.3.2 African and African American Studies, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -35,7 +35,7 @@ ms.date: 2026-11-18
 | **Writing the Mind, Writing the Body**<br>书写心灵，书写身体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Foundations of American Popular Music**<br>美国流行音乐基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Toni Morrison: Modernism, Postmodernism, and World Literature**<br>托妮莫里森：现代主义、后现代主义与世界文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
-| **Introduction to Black Popular Culture**<br>黑人流行文化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
+| **Introduction to Black Popular Culture**<br>黑人流行文化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Aura, AI, and Sports**<br>灵光、AI与体育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Death and the Black Imagination**<br>死亡与黑人想象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **The Beautiful Game is African: An African History of Soccer**<br>美丽的足球是非洲的：非洲足球史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
@@ -43,8 +43,8 @@ ms.date: 2026-11-18
 | **Righteous Rage, Healing Justice: Contemporary Black Feminisms**<br>正义的愤怒，疗愈的正义：当代黑人女性主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Black Geographies**<br>黑人地理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **The Sociology of Music**<br>音乐社会学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
-| **Intro to IDA: power, art, and practice**<br>IDA 导论：权力、艺术与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
-| **Introduction to Jazz History and Appreciation**<br>爵士乐历史与欣赏导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
+| **Intro to IDA: power, art, and practice**<br>IDA 入门：权力、艺术与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
+| **Introduction to Jazz History and Appreciation**<br>爵士乐历史与欣赏入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Jazz History and Appreciation: Advanced Level**<br>爵士乐历史与鉴赏：高级 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Studies in Music, Media, and Popular Culture: The Soul Tradition in African American Music**<br>音乐、媒体与流行文化研究：非裔美国音乐中的灵魂乐传统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Jazz Theory**<br>爵士理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
@@ -53,7 +53,7 @@ ms.date: 2026-11-18
 | **RealTalk: Intimate Discussions about the African Diaspora**<br>RealTalk：关于非洲侨民的亲密讨论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Contemporary Choreography: Chocolate Heads Performance Project - Oceanic Body**<br>当代编舞：巧克力头表演项目：海洋之身 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Genes and Identity**<br>基因与身份 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
-| **Introduction to African American Literature**<br>非裔美国文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
+| **Introduction to African American Literature**<br>非裔美国文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Freestyle Lab: Improv Strategies from Contemporary to Club**<br>自由风格实验室：从当代到俱乐部的即兴策略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Cape to Cairo: Decolonization and African Urban Life 1940s-1960s**<br>从开普敦到开罗：非殖民化与1940至1960年代非洲城市生活 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Ancients and Moderns: Africa and South Asia in World Literature**<br>古今之辨：世界文学中的非洲与南亚 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
@@ -130,7 +130,7 @@ ms.date: 2026-11-18
 | **Black, White, Jewish: The Racial Politics of Jewishness**<br>黑人、白人、犹太人：犹太性的种族政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Transformative Art-Practices for Engaging Community**<br>促进社区参与的变革性艺术实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Still Waters Run Deep, Troubling The Archive with filmmaking and photography**<br>静水流深：用电影与摄影搅动档案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
-| **Introduction to Themes in Black Studies I**<br>黑人研究主题导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
+| **Introduction to Themes in Black Studies I**<br>黑人研究主题入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Crime and Punishment in America**<br>美国的犯罪与惩罚 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Designing Black Experiences**<br>设计黑人体验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Abdulrazak Gurnah: Between East Africa and the Indian Ocean World**<br>阿卜杜勒拉扎克古尔纳：东非与印度洋世界之间 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
@@ -177,7 +177,7 @@ ms.date: 2026-11-18
 | **History of West Africa**<br>西非史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Re(positioning) Disability: Historical, Cultural, and Social Lenses**<br>重新(定位)残障：历史、文化与社会视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Understanding Racial and Ethnic Identity Development**<br>理解种族与族裔身份发展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
-| **Introduction to African Studies II: Who Owns the Past? African Museum Collections in the Bay Area**<br>非洲研究导论 II：谁拥有过去？湾区的非洲博物馆藏品 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
+| **Introduction to African Studies II: Who Owns the Past? African Museum Collections in the Bay Area**<br>非洲研究入门 II：谁拥有过去？湾区的非洲博物馆藏品 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Gender and Sexuality in African History**<br>非洲历史中的性别与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Health, Healing, and the Body in African History**<br>非洲历史中的健康、疗愈与身体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Africa in a Global Perspective: Connections, Encounters, and Diasporas**<br>全球视野中的非洲：联系、相遇与离散 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
@@ -198,13 +198,13 @@ ms.date: 2026-11-18
 | **Black Aliveness**<br>黑人的生命力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Black Mirror: Representations of Race & Gender in AI**<br>黑镜：AI中的种族与性别表征 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **The Religions and Cultures of Enslaved People in America**<br>美国被奴役者的宗教与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
-| **Introduction to Global Black Diaspora Studies II**<br>全球黑人离散研究导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
+| **Introduction to Global Black Diaspora Studies II**<br>全球黑人离散研究入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Classical Reception in the Black Diaspora**<br>黑人离散群体中的古典接受 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Religion and the Civil Rights Movement: Race, Faith, and Kinship**<br>宗教与民权运动：种族、信仰与亲缘 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Black Marxism: Race, Class, and Liberation**<br>黑人马克思主义：种族、阶级与解放 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **African American Child and Adolescent Mental Health: An Ecological Approach**<br>非裔美国儿童与青少年心理健康：生态学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Haiti: Past, Present, and Futures**<br>海地：过去、现在与未来 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
-| **Introduction to Themes in Black Studies II**<br>黑人研究主题导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
+| **Introduction to Themes in Black Studies II**<br>黑人研究主题入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Carceral Logics & Abolition in Education**<br>教育中的监禁逻辑与废除 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **From Aksum to Athens: African Antiquity**<br>从阿克苏姆到雅典：非洲古代史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |
 | **Enslavement and the Protracted End of Slavery in the Middle East and East Africa**<br>奴役与中东及东非奴隶制的漫长终结 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/african-and-african-american-studies/bachelor-of-arts) |

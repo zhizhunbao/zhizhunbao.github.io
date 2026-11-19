@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Advertising - Creative and Digital Strategy**<br>广告 - 创意与数字策略 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
 | **Intro to Advertising and Marketing**<br>广告与营销入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
 | **Digital Design**<br>数字设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
-| **Introduction to Creative Strategy**<br>创意策略导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
+| **Introduction to Creative Strategy**<br>创意策略入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
 | **Digital Writing**<br>数字写作 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
-| **Introduction to Creative Software**<br>创意软件导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
+| **Introduction to Creative Software**<br>创意软件入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
 | **Storyworks**<br>Storyworks | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
 | **Professional English Communications**<br>专业英语沟通 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |
 | **Creative Career Management**<br>创意职业管理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/advertising-creative-digital-strategy) |

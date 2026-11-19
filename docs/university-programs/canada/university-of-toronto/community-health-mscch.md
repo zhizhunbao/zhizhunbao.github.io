@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Community Health MScCH**<br>社区健康（MScCH） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
-| **Introduction to Public Health Sciences**<br>公共卫生科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
+| **Introduction to Public Health Sciences**<br>公共卫生科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **MScCH Required Practicum**<br>社区健康理学硕士必修实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 
 ## Courses

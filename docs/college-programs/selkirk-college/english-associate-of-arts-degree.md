@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **English - Associate of Arts Degree**<br>英语文科副学士学位 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
 | **College Composition**<br>大学写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
 | **A Survey of English Literature I**<br>英国文学概览 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
 | **Canadian Literature I: Indigenous Voices**<br>加拿大文学 I：原住民之声 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
 | **Children's Literature I: From Rags to Riches and Worlds of Magic**<br>儿童文学 I：从贫寒到富贵与魔法世界 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
 | **A Survey of English Literature II**<br>英国文学概览 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
 | **Canadian Literature II: Contemporary Voices**<br>加拿大文学 II：当代之声 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
-| **Introduction to Comics and Graphic Novels**<br>漫画与图像小说导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
+| **Introduction to Comics and Graphic Novels**<br>漫画与图像小说入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/english-associate-arts-degree) |
 
 ## Courses
 

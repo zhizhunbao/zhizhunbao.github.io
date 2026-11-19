@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Cybersecurity**<br>网络安全 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CYBEF-DP) |
 | **Communication Strategies**<br>沟通策略 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CYBEF-DP/PrinterFriendly#COMM-1173) |
 | **Networking for Information Security**<br>信息安全网络 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CYBEF-DP/PrinterFriendly#COMP-1284) |
-| **Introduction to Security Operations**<br>安全运营导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CYBEF-DP/PrinterFriendly#COMP-1285) |
+| **Introduction to Security Operations**<br>安全运营入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CYBEF-DP/PrinterFriendly#COMP-1285) |
 | **IT Foundations**<br>IT 基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CYBEF-DP/PrinterFriendly#COMP-1311) |
 | **Customer Experience**<br>客户体验 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CYBEF-DP/PrinterFriendly#COMP-1312) |
 | **Communication for the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CYBEF-DP/PrinterFriendly#COMM-2172) |

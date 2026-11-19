@@ -1,10 +1,10 @@
 ---
-title: "3.2.68 Master of Science in Art, Culture, and Technology"
+title: "4.2.68 Master of Science in Art, Culture, and Technology"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Art, Culture, and Technology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.68 Master of Science in Art, Culture, and Technology
+# 4.2.68 Master of Science in Art, Culture, and Technology
 
 ## Glossary
 
@@ -17,7 +17,7 @@ ms.date: 2026-11-18
 | **Artist, Architect, Tinkerer, Engineer: How to Collaborate Across Disciplines**<br>艺术家、建筑师、发明者、工程师：如何跨学科协作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-art-culture-technology/) |
 | **Climate Visions**<br>气候愿景 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-art-culture-technology/) |
 | **Advanced Video and Related Media**<br>高级视频及相关媒介 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-art-culture-technology/) |
-| **Introduction to Video and Related Media**<br>视频及相关媒介导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-art-culture-technology/) |
+| **Introduction to Video and Related Media**<br>视频及相关媒介入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-art-culture-technology/) |
 | **Cinematic Migrations**<br>电影中的迁徙 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-art-culture-technology/) |
 | **Synchronizations of Senses**<br>感官的同步 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-art-culture-technology/) |
 | **Studio Seminar in Art and the Public Sphere**<br>艺术与公共领域工作室研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-art-culture-technology/) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Paleontology - Major (Science)**<br>古生物学－主修（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
 | **Diversity of Organisms**<br>生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
 | **Chemical Principles 1**<br>化学原理 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
 | **Chemical Principles 2**<br>化学原理 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Earth, Climate & Life**<br>地球、气候与生命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
 | **Biomechanics of Human Movement**<br>人体运动生物力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
 | **Foundations of Human Physiology**<br>人体生理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
-| **Introduction to Biological Data**<br>生物数据导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
+| **Introduction to Biological Data**<br>生物数据入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
 | **Earth Materials**<br>地球物质 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
 | **Dynamic Earth**<br>动态地球 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |
 | **Magmatic Systems and Igneous Petrology**<br>岩浆系统与火成岩岩石学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1004) |

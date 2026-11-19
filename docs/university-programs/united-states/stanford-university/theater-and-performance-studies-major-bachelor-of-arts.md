@@ -1,18 +1,18 @@
 ---
-title: "3.3.66 Theater and Performance Studies, Major: Bachelor of Arts"
+title: "4.3.66 Theater and Performance Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Theater and Performance Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.66 Theater and Performance Studies, Major: Bachelor of Arts
+# 4.3.66 Theater and Performance Studies, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Theater and Performance Studies, Major: Bachelor of Arts**<br>戏剧与表演研究，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Theater and Performance Studies**<br>戏剧与表演研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Dance Studies**<br>舞蹈研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Theater and Performance Studies**<br>戏剧与表演研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Dance Studies**<br>舞蹈研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Dramatic Tensions: Theater and the Marketplace**<br>戏剧张力：戏剧与市场 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Art in the Metropolis**<br>大都市中的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Can Beauty Save the World?: Climate Change and the Arts**<br>美能拯救世界吗？气候变化与艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
@@ -33,8 +33,8 @@ ms.date: 2026-11-18
 | **Social Sculpture**<br>社会雕塑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Aura, AI, and Sports**<br>灵光、AI与体育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Performance Art**<br>行为艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Greek Tragedy: Gods, Heroes, Fate, and Justice**<br>希腊悲剧导论：神、英雄、命运与正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Greek Tragedy: Gods, Heroes, Fate, and Justice**<br>希腊悲剧入门：神、英雄、命运与正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **The Avant Garde**<br>前卫艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **AI Art, Performance, and Aesthetics**<br>AI艺术、表演与美学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Exhibition/Performance: Identities on Display**<br>展览与表演：展示中的身份 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
@@ -65,20 +65,20 @@ ms.date: 2026-11-18
 | **Shakespeare Now! An Actor's Lab**<br>当代莎士比亚！演员实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Masks for Performance: Essential Mask, Character Mask, and Commedia dell'Arte**<br>表演面具：基本面具、性格面具与即兴喜剧 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **The Spirit of Play**<br>游戏精神 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Clown**<br>小丑表演导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Clown**<br>小丑表演入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Clown II: Advanced Physical Idiocy**<br>小丑 II：高级肢体荒诞 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Making Your Solo Show**<br>打造你的个人秀 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Interpretation of Musical Theater Repertoire**<br>音乐剧曲目诠释 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Topics on the Musical Stage**<br>音乐舞台专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Dramatic Vocal Arts: Songs and Scenes Onstage**<br>戏剧声乐艺术：舞台上的歌曲与场景 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **On Stage and Backstage: Navigating the Landscape of Professional Theater in New York -- Real Artists**<br>台前幕后：驾驭纽约职业戏剧的格局 -- 真实艺术家 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Theatrical Design**<br>戏剧设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Theatrical Design**<br>戏剧设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Theater and Performance Making**<br>戏剧与表演创作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Makeup for the Stage**<br>舞台化妆 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Lighting and Production**<br>灯光与制作导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Lighting and Production**<br>灯光与制作入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Costume Construction**<br>服装制作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Wigs & Hair**<br>假发与头发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Theater Practice**<br>戏剧实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Theater Practice**<br>戏剧实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Beauty in Light: The Aesthetics of Lighting Design**<br>光中之美：照明设计美学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Lighting Design for Musical Theater**<br>音乐剧灯光设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Lighting in Cinema**<br>电影中的灯光 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
@@ -98,7 +98,7 @@ ms.date: 2026-11-18
 | **Projection Design**<br>投影设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **ETC Eos Programming for Lighting Design**<br>ETC Eos 灯光设计编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Magical Realism**<br>魔幻现实主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
-| **Introduction to Puppetry: Object Performance in Theory and Practice**<br>木偶导论：物体表演的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
+| **Introduction to Puppetry: Object Performance in Theory and Practice**<br>木偶入门：物体表演的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **The Director's Craft**<br>导演技艺 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Theater Lab: Acting and Directing**<br>戏剧实验室：表演与导演 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |
 | **Dramatic Writing: The Fundamentals**<br>戏剧写作：基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/theater-and-performance-studies/bachelor-of-arts) |

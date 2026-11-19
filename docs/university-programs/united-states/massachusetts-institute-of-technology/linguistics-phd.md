@@ -1,19 +1,19 @@
 ---
-title: "3.2.123 Linguistics (PhD)"
+title: "4.2.123 Linguistics (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Linguistics (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.123 Linguistics (PhD)
+# 4.2.123 Linguistics (PhD)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Linguistics (PhD)**<br>语言学（哲学博士） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
-| **Introduction to Syntax**<br>句法学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
-| **Introduction to Phonology**<br>音系学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
-| **Introduction to Semantics**<br>语义学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
+| **Introduction to Syntax**<br>句法学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
+| **Introduction to Phonology**<br>音系学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
+| **Introduction to Semantics**<br>语义学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
 | **Advanced Syntax**<br>高级句法学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
 | **Advanced Phonology**<br>高级音系学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |
 | **Advanced Semantics**<br>高级语义学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/) |

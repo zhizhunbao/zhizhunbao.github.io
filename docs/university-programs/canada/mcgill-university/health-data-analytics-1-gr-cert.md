@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Data Analytics 1 (Gr. Cert.)**<br>健康数据分析 1 （研究生证书） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/health-data-analytics-1-gr-cert/) |
-| **Introduction to Health Data Science Methods**<br>健康数据科学方法导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/health-data-analytics-1-gr-cert/) |
+| **Introduction to Health Data Science Methods**<br>健康数据科学方法入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/health-data-analytics-1-gr-cert/) |
 | **Health Data Analysis: Essential Theory**<br>健康数据分析：基本理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/health-data-analytics-1-gr-cert/) |
 | **Health Data: Statistical Learning and Model Visualization**<br>健康数据：统计学习与模型可视化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/health-data-analytics-1-gr-cert/) |
 | **Theory to Practice: Analysis and Reporting**<br>从理论到实践：分析与报告 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/health-data-analytics-1-gr-cert/) |

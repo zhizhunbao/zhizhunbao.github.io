@@ -12,18 +12,18 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Kinesiology**<br>运动机能学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
 | **Sociocultural Aspects of Leisure & Sport**<br>休闲与运动的社会文化层面 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
-| **Introduction to the Administration of Sport and Physical Education Programs**<br>体育与体育教育项目管理导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
+| **Introduction to the Administration of Sport and Physical Education Programs**<br>体育与体育教育项目管理入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
-| **Introduction to Human Physiology I**<br>人体生理学导论 I | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
+| **Introduction to Human Physiology I**<br>人体生理学入门 I | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
 | **any 200- level of higher**<br>任意200级或以上 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
 | **Prevention and Care of Athletic Injuries**<br>运动损伤的预防与护理 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
-| **Introduction to Wellness, Fitness & Nutrition**<br>健康、健身与营养导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
-| **Introduction to Nutrition**<br>营养学导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
-| **Introduction to Human Physiology II**<br>人体生理学导论 II | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
-| **Introduction to Psychology I - Natural Science**<br>心理学导论 I - 自然科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
-| **Introduction to Psychology II - Social Science**<br>心理学导论 II - 社会科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
+| **Introduction to Wellness, Fitness & Nutrition**<br>健康、健身与营养入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
+| **Introduction to Nutrition**<br>营养学入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
+| **Introduction to Human Physiology II**<br>人体生理学入门 II | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
+| **Introduction to Psychology I - Natural Science**<br>心理学入门 I - 自然科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
+| **Introduction to Psychology II - Social Science**<br>心理学入门 II - 社会科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
 | **Adapted Physical Education**<br>适应性体育 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
-| **Introduction to Coaching**<br>教练学导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
+| **Introduction to Coaching**<br>教练学入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
 | **Growth and Development**<br>生长发育 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
 | **Exercise Physiology**<br>运动生理学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |
 | **Psychology of Sport and Physical Activity**<br>运动与体育活动心理学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/kinesiology) |

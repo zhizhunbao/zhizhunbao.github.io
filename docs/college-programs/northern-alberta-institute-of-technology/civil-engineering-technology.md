@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Structural Steel and Wood Design**<br>钢木结构设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/civil-engineering-technology) |
 | **Highway Design I**<br>公路设计 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/civil-engineering-technology) |
 | **Geotechnical Testing**<br>岩土试验 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/civil-engineering-technology) |
-| **Introduction to AutoCAD Civil 3D**<br>AutoCAD Civil 3D 导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/civil-engineering-technology) |
+| **Introduction to AutoCAD Civil 3D**<br>AutoCAD Civil 3D 入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/civil-engineering-technology) |
 | **Fluid Mechanics and Surface Hydrology**<br>流体力学与地表水文学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/civil-engineering-technology) |
 | **Concrete and Asphalt Mix Design**<br>混凝土与沥青配合比设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/civil-engineering-technology) |
 | **Applied Technology Project**<br>应用技术项目 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/civil-engineering-technology) |

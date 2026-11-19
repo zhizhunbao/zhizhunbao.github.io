@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Honours Intermediate Macroeconomic Analysis I**<br>荣誉中级宏观经济分析 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics) |
 | **Honours Intermediate Microeconomics II**<br>荣誉中级微观经济学 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics) |
 | **Honours Intermediate Macroeconomics II**<br>荣誉中级宏观经济学 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics) |
-| **Introduction to Econometrics II**<br>计量经济学导论 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics) |
+| **Introduction to Econometrics II**<br>计量经济学入门 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics) |
 | **Honours Seminar**<br>荣誉研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics) |
 | **Honours Essay**<br>荣誉论文 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics) |
 

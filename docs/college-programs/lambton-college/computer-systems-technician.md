@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **ITIL Foundations**<br>ITIL基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ctns) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ctns) |
 | **Workplace Communications**<br>职场沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ctns) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ctns) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ctns) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ctns) |
 | **Python Programming**<br>Python 编程 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ctns) |
 | **Servers in the Cloud**<br>云中的服务器 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ctns) |

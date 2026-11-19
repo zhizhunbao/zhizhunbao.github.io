@@ -1,10 +1,10 @@
 ---
-title: "3.1.63 Master of Architecture I AP (MArch I AP)"
+title: "4.1.63 Master of Architecture I AP (MArch I AP)"
 description: "University Programs > United States > Harvard University > Master of Architecture I AP (MArch I AP): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.63 Master of Architecture I AP (MArch I AP)
+# 4.1.63 Master of Architecture I AP (MArch I AP)
 
 ## Glossary
 

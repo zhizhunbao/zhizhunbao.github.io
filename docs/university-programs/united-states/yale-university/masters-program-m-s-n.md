@@ -1,10 +1,10 @@
 ---
-title: "3.4.109 Master’s Program (M.S.N.)"
+title: "4.4.109 Master’s Program (M.S.N.)"
 description: "University Programs > United States > Yale University > Master’s Program (M.S.N.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.109 Master’s Program (M.S.N.)
+# 4.4.109 Master’s Program (M.S.N.)
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **Transitions to Professional Practice**<br>向专业实践过渡 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Population and Community Health**<br>人群与社区健康 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Foundations of Entheogen-Assisted Care in Nursing**<br>护理中致幻剂辅助照护基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
-| **Introduction to Health Disparities in LGBTQI+ People**<br>LGBTQI+人群健康差异导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
+| **Introduction to Health Disparities in LGBTQI+ People**<br>LGBTQI+人群健康差异入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Specialized Primary Care of LGBTQI+ Patients and Communities**<br>LGBTQI+患者与社区的专科初级保健 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Gender and Sexuality Health Justice (GSHJ) Clinical**<br>性别与性健康正义（GSHJ）临床实习 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Clinical Practice II for Global Health Track**<br>全球健康方向临床实践 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-18
 | **Nursing Colloquia**<br>护理研讨会 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Biomedical Foundations: Health and Illness I**<br>生物医学基础：健康与疾病 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Essentials of Health Assessment and Clinical Skills**<br>健康评估与临床技能基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
-| **Introduction to Drug Therapy**<br>药物治疗导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
+| **Introduction to Drug Therapy**<br>药物治疗入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Clinical Applications of Human Anatomy**<br>人体解剖学的临床应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Clinical Practice of Care of the Adult Patient**<br>成人患者护理临床实践 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |
 | **Care of Adult Patient I**<br>成人患者护理 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/nursing/masters-program-msn/curriculum/) |

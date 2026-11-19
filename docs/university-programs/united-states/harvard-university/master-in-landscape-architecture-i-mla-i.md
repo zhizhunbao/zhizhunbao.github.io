@@ -1,10 +1,10 @@
 ---
-title: "3.1.54 Master in Landscape Architecture I (MLA I)"
+title: "4.1.54 Master in Landscape Architecture I (MLA I)"
 description: "University Programs > United States > Harvard University > Master in Landscape Architecture I (MLA I): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.54 Master in Landscape Architecture I (MLA I)
+# 4.1.54 Master in Landscape Architecture I (MLA I)
 
 ## Glossary
 

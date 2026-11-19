@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in English: Literature Emphasis**<br>英语：文学方向主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english) |
-| **Introduction to Writing and Research in the Social Sciences and the Humanities**<br>社会科学与人文学科的写作与研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english) |
-| **Introduction to Reading and Research in Literary, Cultural, and Media Studies**<br>文学、文化与媒体研究中的阅读与研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english) |
+| **Introduction to Writing and Research in the Social Sciences and the Humanities**<br>社会科学与人文学科的写作与研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english) |
+| **Introduction to Reading and Research in Literary, Cultural, and Media Studies**<br>文学、文化与媒体研究中的阅读与研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english) |
 | **Writing and Research in the Disciplines**<br>学科中的写作与研究 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english) |
 | **Knowledge-Making in the Disciplines**<br>学科中的知识生产 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english) |
 | **1st Year CAP Seminar**<br>1 年级 CAP 研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english) |

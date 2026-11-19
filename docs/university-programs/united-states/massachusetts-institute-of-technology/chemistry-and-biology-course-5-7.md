@@ -1,10 +1,10 @@
 ---
-title: "3.2.16 Chemistry and Biology (Course 5-7)"
+title: "4.2.16 Chemistry and Biology (Course 5-7)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Chemistry and Biology (Course 5-7): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.16 Chemistry and Biology (Course 5-7)
+# 4.2.16 Chemistry and Biology (Course 5-7)
 
 ## Glossary
 
@@ -12,13 +12,13 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Chemistry and Biology (Course 5-7)**<br>化学与生物学（Course 5-7） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **Principles of Inorganic Chemistry I**<br>无机化学原理 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
-| **Introduction to Biological Chemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
+| **Introduction to Biological Chemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **General Biochemistry**<br>普通生物化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **Fundamentals of Chemical Biology**<br>化学生物学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
-| **Introduction to Spectroscopy**<br>光谱学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
+| **Introduction to Spectroscopy**<br>光谱学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |
 | **Fundamentals of Spectroscopy**<br>光谱学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/) |

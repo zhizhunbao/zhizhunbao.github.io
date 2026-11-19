@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Diploma in Fundamentals of Anti-Racist Communication**<br>反种族主义沟通基础文凭 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1zzlkCCo2) |
 | **Combating Racisms**<br>反对种族主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1zzlkCCo2) |
-| **Introduction to Anti-Racist Communication**<br>反种族主义传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1zzlkCCo2) |
+| **Introduction to Anti-Racist Communication**<br>反种族主义传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1zzlkCCo2) |
 | **Writing Anti-Racism**<br>书写反种族主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1zzlkCCo2) |
 
 ## Courses

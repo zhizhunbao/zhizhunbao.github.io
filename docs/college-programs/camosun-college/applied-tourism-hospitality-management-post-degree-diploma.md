@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Applied Organizational Strategy**<br>应用组织战略 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4297) |
 | **Beverage Operations**<br>饮品运营 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4297) |
 | **Hotel Operations**<br>酒店运营 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4297) |
-| **Introduction to Restaurant Operations**<br>餐厅运营导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4297) |
+| **Introduction to Restaurant Operations**<br>餐厅运营入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4297) |
 | **Integrated Restaurant Management**<br>综合餐厅管理 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4297) |
 | **Integrated Events Management**<br>综合活动管理 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4297) |
 

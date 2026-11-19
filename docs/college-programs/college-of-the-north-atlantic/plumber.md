@@ -38,15 +38,15 @@ ms.date: 2026-11-08
 | **Commercial Drainage, Waste and Venting I**<br>商业建筑排水、排污与通气 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 | **Residential Appliances, Fixtures and Trim**<br>住宅电器、洁具与装饰件 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 | **Rural Waste Disposal**<br>农村废弃物处置 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
-| **Introduction to Electric Welding**<br>电焊导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
+| **Introduction to Electric Welding**<br>电焊入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 | **Plumber Math Fundamentals**<br>水暖工数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 | **Mentoring 1**<br>辅导指导 1 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/plumber) |
 
 ## Courses
 

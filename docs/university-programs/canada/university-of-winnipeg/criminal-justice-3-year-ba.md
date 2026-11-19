@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminal Justice, 3-Year BA**<br>刑事司法，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/cj.pdf#page=1) |
-| **Introduction to Criminal Justice**<br>刑事司法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/cj.pdf#page=1) |
+| **Introduction to Criminal Justice**<br>刑事司法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/cj.pdf#page=1) |
 | **Qualitative Methods and Research Design in**<br>定性方法与研究设计，于 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/cj.pdf#page=1) |
 | **Foundations of Criminal Justice Criminal Justice**<br>刑事司法基础 刑事司法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/cj.pdf#page=1) |
 | **Quantitative Methods and Research Design in**<br>定量方法与研究设计，于 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/cj.pdf#page=1) |

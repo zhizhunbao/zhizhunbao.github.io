@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Physics**<br>物理学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CLT/courses.html) |
 | **Effective Technical Writing or Technical Communications**<br>有效技术写作或技术传播 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CLT/courses.html) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CLT/courses.html) |
-| **Industrial Microbiology or Introduction to Pharmaceutical Manufacturing**<br>工业微生物学或制药生产导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CLT/courses.html) |
+| **Industrial Microbiology or Introduction to Pharmaceutical Manufacturing**<br>工业微生物学或制药生产入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CLT/courses.html) |
 | **Analytical Chemistry**<br>分析化学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CLT/courses.html) |
 | **Instrumental Methods**<br>仪器分析方法 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CLT/courses.html) |
 

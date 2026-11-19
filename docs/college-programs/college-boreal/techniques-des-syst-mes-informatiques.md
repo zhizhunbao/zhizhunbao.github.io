@@ -19,9 +19,9 @@ ms.date: 2026-11-08
 | **Mathématiques informatiques**<br>计算机数学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
 | **Communication and Critical Thinking**<br>沟通与批判性思维 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
 | **Réseautique 2**<br>网络技术 2 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
-| **Introduction à l'administration des systèmes**<br>系统管理导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
+| **Introduction à l'administration des systèmes**<br>系统管理入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
 | **Programmation 2**<br>编程 2 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
-| **Introduction aux bases de données**<br>数据库导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
+| **Introduction aux bases de données**<br>数据库入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
 | **Appui et service technique**<br>技术支持与服务 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
 | **Formation générale au choix**<br>选修通识教育 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |
 | **Développement d'applications**<br>应用开发 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-systemes-informatiques/) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Tools and Techniques for Software Development**<br>软件开发工具与技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Algorithms**<br>算法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
-| **Introduction to Computer Science 1**<br>计算机科学导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
+| **Introduction to Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Designing Functional Programs**<br>函数式程序设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Designing Functional Programs (Advanced Level)**<br>函数式程序设计（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Elementary Algorithm Design and Data Abstraction**<br>初级算法设计与数据抽象 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
@@ -39,8 +39,8 @@ ms.date: 2026-11-11
 | **Algebra (Advanced Level)**<br>代数（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Linear Algebra 1 for Honours Mathematics**<br>荣誉数学线性代数 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Linear Algebra 1 (Advanced Level)**<br>线性代数 1（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
-| **Introduction to Combinatorics**<br>组合数学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
-| **Introduction to Combinatorics (Advanced Level)**<br>组合数学导论（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
+| **Introduction to Combinatorics**<br>组合数学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
+| **Introduction to Combinatorics (Advanced Level)**<br>组合数学入门（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Probability**<br>概率论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Probability (Advanced Level)**<br>概率论（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJPJkCAih) |

@@ -13,15 +13,15 @@ ms.date: 2026-11-08
 | **Communicative Disorders Assistant**<br>沟通障碍助理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Anatomy & Physiology of Speech Mechanism**<br>言语机制解剖学与生理学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Child Language Acquistion & Related Disorders I**<br>儿童语言习得及相关障碍 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
-| **Introduction to Communication Disorders in Adults I**<br>成人沟通障碍导论 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
+| **Introduction to Communication Disorders in Adults I**<br>成人沟通障碍入门 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Clinical & Professional Issues I**<br>临床与专业问题 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
-| **Introduction to Audiology**<br>听力学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
+| **Introduction to Audiology**<br>听力学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Articulation & Phonology**<br>发音与音系学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Principles of Therapy Programming**<br>治疗项目设计原则 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Diverse Populations**<br>多元人群 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Child Language Acquisition & Related Disorders II**<br>儿童语言习得及相关障碍 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
-| **Introduction to Communication Disorders in Adults II**<br>成人沟通障碍导论 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
-| **Introduction to Augmentative Communication & Technology**<br>辅助沟通与技术导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
+| **Introduction to Communication Disorders in Adults II**<br>成人沟通障碍入门 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
+| **Introduction to Augmentative Communication & Technology**<br>辅助沟通与技术入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Field Practicum (7 Weeks)**<br>实地实习 (7周) | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Field Practicum II (7 weeks)**<br>实地实习 II (7周) | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |
 | **Fluency & Voice Disorders**<br>流畅性与嗓音障碍 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CDAS) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Doctor of Philosophy (PhD) in Physics - Nanotechnology**<br>哲学博士（PhD），物理学 - 纳米技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkbfZJRRi2) |
-| **Introduction to Nanotechnology**<br>纳米技术导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkbfZJRRi2) |
+| **Introduction to Nanotechnology**<br>纳米技术入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkbfZJRRi2) |
 | **Materials Biocompatibility**<br>材料生物相容性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkbfZJRRi2) |
 | **Characterization of Nanomaterials**<br>纳米材料表征 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkbfZJRRi2) |
 | **Structure and Spectroscopy of Nanoscale Materials**<br>纳米尺度材料的结构与光谱学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkbfZJRRi2) |

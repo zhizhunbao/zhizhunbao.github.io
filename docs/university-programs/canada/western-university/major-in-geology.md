@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **THE DYNAMIC EARTH**<br>动态地球 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21079&SelectedCalendar=Live&ArchiveID=) |
 | **FIELD GEOGRAPHY AND GEOLOGY OF SOUTHWESTERN ONTARIO**<br>安大略西南部的野外地理与地质 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21079&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENTAL AND EXPLORATION GEOPHYSICS I**<br>环境与勘探地球物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21079&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GEOCHEMISTRY**<br>地球化学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21079&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GEOCHEMISTRY**<br>地球化学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21079&SelectedCalendar=Live&ArchiveID=) |
 | **CATASTROPHIC EVENTS IN EARTH HISTORY**<br>地球历史上的灾变事件 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21079&SelectedCalendar=Live&ArchiveID=) |
 | **HAZARDOUS EARTH**<br>危险的地球 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21079&SelectedCalendar=Live&ArchiveID=) |
 | **PLANET EARTH: SHAKEN AND STIRRED**<br>地球：摇撼与搅动 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21079&SelectedCalendar=Live&ArchiveID=) |

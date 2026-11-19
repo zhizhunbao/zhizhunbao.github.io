@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Risk Based Safety Management**<br>基于风险的安全管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerfore) |
 | **Environmental Impact and Risk Assessment**<br>环境影响与风险评估 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerfore) |
 | **Solid Mechanics II**<br>固体力学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerfore) |
-| **Introduction to Quality Control**<br>质量控制导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerfore) |
+| **Introduction to Quality Control**<br>质量控制入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerfore) |
 | **Mechanics of Solids II**<br>固体力学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerfore) |
 | **Machine Design**<br>机械设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerfore) |
 | **Reliability and Maintainability Engineering**<br>可靠性与可维护性工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerfore) |

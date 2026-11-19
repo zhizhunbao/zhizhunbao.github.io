@@ -1,10 +1,10 @@
 ---
-title: "3.4.150 Nursing (Ph.D.)"
+title: "4.4.150 Nursing (Ph.D.)"
 description: "University Programs > United States > Yale University > Nursing (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.150 Nursing (Ph.D.)
+# 4.4.150 Nursing (Ph.D.)
 
 ## Glossary
 
@@ -23,7 +23,7 @@ ms.date: 2026-11-18
 | **Qualitative Methods for Health Research**<br>健康研究定性方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/nursing/) |
 | **Measurement of Biobehavioral Phenomena**<br>生物行为现象的测量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/nursing/) |
 | **Mixed Methods Research**<br>混合方法研究 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/nursing/) |
-| **Intervention Development and Introduction to Implementation Science**<br>干预开发与实施科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/nursing/) |
+| **Intervention Development and Introduction to Implementation Science**<br>干预开发与实施科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/nursing/) |
 | **Knowledge Development for Nursing Science**<br>护理科学的知识发展 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/nursing/) |
 | **Chronic Conditions: Risk Factors, Prevention, and Management of Adverse Outcomes**<br>慢性病：危险因素、预防与不良结局管理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/nursing/) |
 | **Achieving Population Health Equity**<br>实现人群健康公平 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/nursing/) |

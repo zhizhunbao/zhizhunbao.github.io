@@ -11,17 +11,17 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Music Major- Creative Practice Stream (Arts Program)**<br>音乐主修－创意实践方向（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
-| **Introduction to Music and Society**<br>音乐与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
+| **Introduction to Music and Society**<br>音乐与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Historical Survey II**<br>历史概览 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Music Theory I**<br>音乐理论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Music Theory II**<br>音乐理论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Musical Skills I & ll**<br>音乐技能 I 和 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Music Theory III**<br>音乐理论 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Music Theory IV**<br>音乐理论 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
-| **Introduction to Composition I**<br>作曲导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
-| **Introduction to Composition II**<br>作曲导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
+| **Introduction to Composition I**<br>作曲入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
+| **Introduction to Composition II**<br>作曲入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Orchestration**<br>配器法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
-| **Introduction to Music Recording**<br>音乐录音导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
+| **Introduction to Music Recording**<br>音乐录音入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Live Coding: Digital Audio in Real Time**<br>现场编码：实时数字音频 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **MAX/MSP**<br>MAX/MSP | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |
 | **Jazz History I**<br>爵士史 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2276b) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Library and Information Technician**<br>图书馆与信息技术员 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/wellness-safety-community/program/library-and-information-technician/) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Reference 1**<br>参考咨询 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
-| **Introduction to Libraries**<br>图书馆导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
+| **Introduction to Libraries**<br>图书馆入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Descriptive Cataloguing 1**<br>描述性编目 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Acquisitions**<br>并购 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Archives and Records Management**<br>档案与记录管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Information Retrieval**<br>信息检索 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Basics of Library Management**<br>图书馆管理基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Field Work 1**<br>实地工作 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
-| **Introduction to Metadata**<br>元数据导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
+| **Introduction to Metadata**<br>元数据入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Dewey Decimal Classification**<br>杜威十进分类法 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Reference 2: Government and Law**<br>参考咨询 2：政府与法律 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |
 | **Emerging Library Technologies**<br>新兴图书馆技术 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0440X01FWO.pdf) |

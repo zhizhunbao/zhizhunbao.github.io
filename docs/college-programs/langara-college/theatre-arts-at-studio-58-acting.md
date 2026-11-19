@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Movement I**<br>形体训练 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
 | **Voice I**<br>声乐 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
 | **Theatre Skills I**<br>戏剧技能 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
 | **History of Drama and Theatre I**<br>戏剧与剧场史 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |
 | **Acting II**<br>表演 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-acting-diploma/courses) |

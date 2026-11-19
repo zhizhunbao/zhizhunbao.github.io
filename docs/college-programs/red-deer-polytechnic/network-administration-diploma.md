@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Network Administration Diploma**<br>网络管理文凭 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **IT Systems I**<br>IT系统 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
-| **Introduction to Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
+| **Introduction to Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **Intro Programming & Database**<br>编程与数据库入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **IT Systems II**<br>IT系统 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **Cloud Computing**<br>云计算 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **System Administration and Management**<br>系统管理 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **Connecting Networks**<br>网络连接 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **Network Security**<br>网络安全 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
-| **Introduction to Machine Learning & Data Science**<br>机器学习与数据科学导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
+| **Introduction to Machine Learning & Data Science**<br>机器学习与数据科学入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **Cybersecurity**<br>网络安全 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **Project Design and Management**<br>项目设计与管理 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |
 | **Innovative Work-integrated Learning (WIL) Experience**<br>创新工作融合式学习（WIL）体验 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/network-administration-diploma) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Rhetoric, Writing, and Communications, Joint Communications Degree/Diploma (UW/RRC Polytech)**<br>修辞、写作与传播，传播学位/文凭联合项目（UW/RRC Polytech） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
-| **Introduction to Rhetoric and Communications**<br>修辞与传播导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
+| **Introduction to Rhetoric and Communications**<br>修辞与传播入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
 | **Credits earned in Academic Writing courses do not count as a fulfilment of the requirement to take**<br>在学术写作课程中获得的学分不计入修读以下课程的要求 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
 | **Professional Style and Editing**<br>专业文体与编辑 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
 | **Rhetorical Criticism**<br>修辞批评 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Conflict and Culture**<br>冲突与文化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
 | **Script and Screen**<br>剧本与银幕 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
 | **Conflict and Communication**<br>冲突与沟通 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
-| **Introduction to Screenwriting**<br>编剧导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
+| **Introduction to Screenwriting**<br>编剧入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
 | **Social Psychology I**<br>社会心理学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
 | **Script and Small Screen**<br>剧本与小银幕 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |
 | **Social Psychology II**<br>社会心理学 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=9) |

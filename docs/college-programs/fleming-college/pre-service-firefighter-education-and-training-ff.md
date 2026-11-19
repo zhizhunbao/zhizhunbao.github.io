@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Fitness and Wellness**<br>健身与健康 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Incident Management System**<br>事故管理系统 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Technology for Human Service Professionals**<br>人类服务专业人员技术 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Fire Related Operations**<br>火灾相关行动 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Fire Suppression**<br>灭火 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Fire and Life Initiatives and Education**<br>消防与生命倡议及教育 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |

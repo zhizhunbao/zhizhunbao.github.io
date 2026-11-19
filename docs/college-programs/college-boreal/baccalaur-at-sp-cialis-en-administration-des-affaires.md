@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baccalauréat spécialisé en administration des affaires**<br>工商管理荣誉学士 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
-| **Introduction à la comptabilité**<br>会计导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
+| **Introduction à la comptabilité**<br>会计入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Microéconomie**<br>微观经济学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Principes de gestion**<br>管理原理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Principes de marketing**<br>营销原理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
@@ -29,13 +29,13 @@ ms.date: 2026-11-08
 | **Comportement organisationnel**<br>组织行为学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Gestion de marketing**<br>营销管理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Recherche appliquée en affaires**<br>商业应用研究 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
-| **Introduction à la comptabilité de gestion**<br>管理会计导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
+| **Introduction à la comptabilité de gestion**<br>管理会计入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Gestion de logistiques et exploitation**<br>物流与运营管理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Éthique, durabilité et responsabilité sociale des entreprises**<br>企业伦理、可持续性与社会责任 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Systèmes d'informations en affaires**<br>商业信息系统 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Cours d'approfondissement au choix BAAF série 2000**<br>BAAF 2000 系列深化选修课 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Créativité et innovation en entreprise**<br>企业创造力与创新 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
-| **Introduction à la finance**<br>金融导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
+| **Introduction à la finance**<br>金融入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Commerce dans un environnement global**<br>全球环境下的商业 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Gestion de projet**<br>项目管理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |
 | **Commerce électronique**<br>电子商务 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-des-affaires/) |

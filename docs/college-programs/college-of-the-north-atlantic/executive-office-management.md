@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Personal and Career Growth**<br>个人与职业成长 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/executive-office-management) |
 | **Bookkeeping II**<br>簿记 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/executive-office-management) |
 | **Business Writing Fundamentals**<br>商务写作基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/executive-office-management) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/executive-office-management) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/executive-office-management) |
 | **Document Production II**<br>文档制作 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/executive-office-management) |
 | **Operational Management**<br>运营管理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/executive-office-management) |
 | **Transcription**<br>转录 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/executive-office-management) |

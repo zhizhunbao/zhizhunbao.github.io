@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Business Career Development**<br>商业职业发展 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-international-business) |
 | **Financial Management 2**<br>财务管理 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-international-business) |
 | **International Marketing 1**<br>国际营销 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-international-business) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-international-business) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-international-business) |
 | **International Logistics**<br>国际物流 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-international-business) |
 | **Intercultural Communications**<br>跨文化交际 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-international-business) |
 | **International Financial Management**<br>国际财务管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-international-business) |

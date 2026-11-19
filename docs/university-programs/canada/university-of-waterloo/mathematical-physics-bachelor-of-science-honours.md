@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Mathematical Physics (Bachelor of Science - Honours)**<br>数学物理（理学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Calculus 4**<br>微积分 4 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
-| **Introduction to Differential Equations**<br>微分方程导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
+| **Introduction to Differential Equations**<br>微分方程入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Partial Differential Equations 1**<br>偏微分方程 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Principles of Computing for Science**<br>科学计算原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Algebra for Honours Mathematics**<br>荣誉数学代数 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Applied Complex Analysis**<br>应用复分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Continuum Mechanics**<br>连续介质力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
-| **Introduction to General Relativity**<br>广义相对论导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
+| **Introduction to General Relativity**<br>广义相对论入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Condensed Matter**<br>凝聚态 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Subatomic Physics**<br>亚原子物理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Advanced Statistical Mechanics**<br>高等统计力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
@@ -52,11 +52,11 @@ ms.date: 2026-11-11
 | **Diversity of Life**<br>生命的多样性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Introductory Vertebrate Zoology**<br>脊椎动物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
-| **Introduction to Plant Structure and Function**<br>植物结构与功能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
+| **Introduction to Plant Structure and Function**<br>植物结构与功能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Fundamentals of Microbiology**<br>微生物学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Microbiology Laboratory**<br>微生物学实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
-| **Introduction to Applied Microbiology**<br>应用微生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
+| **Introduction to Applied Microbiology**<br>应用微生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Fundamentals of Ecology**<br>生态学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **Principles of Human Physiology 1**<br>人体生理学原理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |
 | **General Chemistry 1**<br>普通化学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1gR1k00i2) |

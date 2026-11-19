@@ -12,20 +12,20 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Denturist Technology**<br>义齿技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Clinical Practice I**<br>临床实践 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
-| **Introduction to Anatomy and Removable Partial Dentures**<br>解剖学与可摘局部义齿导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
+| **Introduction to Anatomy and Removable Partial Dentures**<br>解剖学与可摘局部义齿入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Oral Pathology**<br>口腔病理学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Professional Practice for Denturists**<br>义齿技师专业实务 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Lab Skills I**<br>实验室技能 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Documentation and Treatment Planning**<br>文件与治疗计划 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Lab Skills II**<br>实验室技能 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
-| **Introduction to Clinical Prosthodontics**<br>临床口腔修复学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
-| **Introduction to Digital Dentistry**<br>数字牙科导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
+| **Introduction to Clinical Prosthodontics**<br>临床口腔修复学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
+| **Introduction to Digital Dentistry**<br>数字牙科入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Patient Care I**<br>患者护理 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Lab Skills III**<br>实验室技能 III | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Removable Partial Denture Design**<br>可摘局部义齿设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Patient Care II**<br>患者护理 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Lab Skills IV**<br>实验室技能 IV | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
-| **Introduction to Dental Implants**<br>牙种植导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
+| **Introduction to Dental Implants**<br>牙种植入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Practice Management**<br>执业管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Clinical Practice II**<br>临床实践 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |
 | **Clinical Practice III**<br>临床实践 III | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/denturist-technology) |

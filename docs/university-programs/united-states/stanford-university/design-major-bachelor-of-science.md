@@ -1,10 +1,10 @@
 ---
-title: "3.3.22 Design, Major: Bachelor of Science"
+title: "4.3.22 Design, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Design, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.22 Design, Major: Bachelor of Science
+# 4.3.22 Design, Major: Bachelor of Science
 
 ## Glossary
 
@@ -15,14 +15,14 @@ ms.date: 2026-11-18
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Vector Calculus for Engineers**<br>工程师矢量微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Design**<br>设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Design**<br>设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Visual Thinking**<br>视觉思维 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Visual Expressions**<br>视觉表达 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **History and Ethics of Design**<br>设计的历史与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Human Values in Design**<br>设计中的人类价值导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Human Values in Design**<br>设计中的人类价值入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Advanced Design: Needfinding**<br>高级设计：需求发现 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Design Methods**<br>设计方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Design Formation**<br>设计形成 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
@@ -32,11 +32,11 @@ ms.date: 2026-11-18
 | **Mechanical Systems Design**<br>机械系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Manufacturing Processes and Design**<br>制造工艺与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Material Behaviors and Failure Prediction**<br>材料行为与失效预测 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Design for Artificial Intelligence**<br>面向人工智能的设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Design for Behavior Change**<br>行为改变设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Design for Play**<br>游戏设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
@@ -46,32 +46,32 @@ ms.date: 2026-11-18
 | **Social Computing**<br>社会计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Human-Computer Interaction: Foundations and Frontiers**<br>人机交互：基础与前沿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Designing for Accessibility**<br>无障碍设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Perception**<br>知觉导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Perception**<br>知觉入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Algorithmic Foundations for Artificial Intelligence in Healthcare**<br>医疗领域人工智能的算法基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Communication**<br>传播学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Communication**<br>传播学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Method and Evidence in Anthropology**<br>人类学的方法与证据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Organizations: Theory and Management**<br>组织：理论与管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Personality and Affective Science**<br>人格与情感科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Personality and Affective Science**<br>人格与情感科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Foundations of Social Research**<br>社会研究基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Qualitative Research Methodology**<br>定性研究方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Pragmatic Skills for Mixed Methods Community Research**<br>混合方法社区研究的实用技能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Designing Research for Social Justice: Creating a Community Engaged Research Project**<br>为社会正义设计研究：创建社区参与研究项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Data Analysis for Quantitative Research**<br>定量研究的数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Communication Research Methods**<br>传播研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Truth, Trust, and Tech**<br>真理、信任与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **International Environmental Policy**<br>国际环境政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Weather and Storms**<br>天气与风暴 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Air Pollution and Global Warming: History, Science, and Solutions**<br>空气污染与全球变暖：历史、科学与解决方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Environmental Science and Technology**<br>环境科学与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **100% Clean, Renewable Energy and Storage for Everything**<br>100%清洁、可再生的能源与储能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Coevolution of Earth and Life**<br>地球与生命的协同演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Data Science for Geoscience**<br>地球科学数据科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Data Science for Geoscience**<br>地球科学数据科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Fundamentals of Renewable Energy Processes**<br>可再生能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Biology and Global Change**<br>生物学与全球变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Human Society and Environmental Change**<br>人类社会与环境变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
@@ -96,7 +96,7 @@ ms.date: 2026-11-18
 | **Shades of Green: Exploring and Expanding Environmental Justice in Practice**<br>绿色的层次：在实践中探索并拓展环境正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Fundamentals of Geographic Information Science (GIS)**<br>地理信息科学（GIS）基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Integrative Design and Entrepreneurship for Sustainability**<br>可持续性的整合设计与创业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Planet Ocean**<br>海洋星球 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Marine Conservation Biology**<br>海洋保护生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
@@ -106,8 +106,8 @@ ms.date: 2026-11-18
 | **Quantitative Methods for Marine Ecology and Conservation**<br>海洋生态与保护的定量方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Marine Data Science in Practice**<br>海洋数据科学实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Kelp Forest Ecology**<br>海藻林生态学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Bioengineering (Engineering Living Matter)**<br>生物工程导论（工程化活体物质） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Bioengineering (Engineering Living Matter)**<br>生物工程入门（工程化活体物质） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Fundamentals for Engineering Biology Lab**<br>工程生物学实验基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Inventing the Future**<br>发明未来 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **BioSecurity and Pandemic Resilience**<br>生物安全与大流行韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
@@ -115,14 +115,14 @@ ms.date: 2026-11-18
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Human Behavioral Biology**<br>人类行为生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Anatomy for Bioengineers**<br>生物工程师解剖学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Data Science for Medicine**<br>医学数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Design for Health Equity**<br>健康公平设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **The Human Organism**<br>人体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Biodesign Fundamentals**<br>生物设计基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Regional Study of Human Structure**<br>人体结构区域研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Ethnicity and Medicine: Voices, Power, and Practice**<br>族裔与医学：声音、权力与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Needs Finding in Healthcare**<br>医疗保健中的需求发现 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Biodesign for Digital Health**<br>数字健康的生物设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Prevention Medicine and Entrepreneurship for Societal Health**<br>预防医学与社会健康创业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
@@ -137,7 +137,7 @@ ms.date: 2026-11-18
 | **Anatomy and Design Innovations**<br>解剖学与设计创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Water and Sanitation in Low- and Middle-Income Countries**<br>低收入和中等收入国家的水与卫生 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Economics of Health Improvement in Developing Countries**<br>发展中国家健康改善的经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Governance and Poverty**<br>治理与贫困 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Historical perspectives on inequality and opportunity in America**<br>美国不平等与机会的历史视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |
 | **Development Economics**<br>发展经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/design/bachelor-of-science) |

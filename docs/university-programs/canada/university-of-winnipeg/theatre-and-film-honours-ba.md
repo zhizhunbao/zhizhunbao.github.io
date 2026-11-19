@@ -21,8 +21,8 @@ ms.date: 2026-11-11
 | **Shakespeare**<br>莎士比亚 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **Modern Drama**<br>现代戏剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **Le théâtre classique**<br>古典戏剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
-| **Introduction to Theatre: Performance**<br>戏剧导论：表演 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
-| **Introduction to Theatre: Performance (Only ONE of**<br>戏剧导论：表演（仅限其中之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
+| **Introduction to Theatre: Performance**<br>戏剧入门：表演 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
+| **Introduction to Theatre: Performance (Only ONE of**<br>戏剧入门：表演（仅限其中之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **1002 or 1003 may be used toward the major)**<br>1002 或 1003 可计入主修） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **Acting Theory and Practice**<br>表演理论与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **Acting III: Honours**<br>表演 III：荣誉课程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-11
 | **Scenic Painting**<br>舞台绘景 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **History of European Art**<br>欧洲艺术史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **Playwriting I**<br>剧本创作 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
-| **Introduction to Devised Theatre**<br>集体创作戏剧导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
+| **Introduction to Devised Theatre**<br>集体创作戏剧入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **Principles of Physical Training**<br>体能训练原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **Acting III: APPP**<br>表演 III：APPP | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |
 | **Advanced Movement**<br>高级形体动作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=4) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Thesis Research and Preparation**<br>论文研究与准备 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Architecture%2C-Landscape%2C-and-Design) |
 | **Urban Design Studio Thesis**<br>城市设计工作室论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Architecture%2C-Landscape%2C-and-Design) |
 | **Urban History Theory Criticism**<br>城市历史理论批评 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Architecture%2C-Landscape%2C-and-Design) |
-| **Introduction to Urban Design Theory and Practice**<br>城市设计理论与实践导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Architecture%2C-Landscape%2C-and-Design) |
+| **Introduction to Urban Design Theory and Practice**<br>城市设计理论与实践入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Architecture%2C-Landscape%2C-and-Design) |
 | **Urban Design Computation**<br>城市设计计算 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Architecture%2C-Landscape%2C-and-Design) |
 | **Urban Design and Development**<br>城市设计与开发 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Architecture%2C-Landscape%2C-and-Design) |
 | **Urban Design and Development Controls**<br>城市设计与开发控制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Architecture%2C-Landscape%2C-and-Design) |

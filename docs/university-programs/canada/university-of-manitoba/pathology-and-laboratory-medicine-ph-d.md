@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Pathology and Laboratory Medicine, Ph.D.**<br>病理学与检验医学，Ph.D. | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-laboratory-medicine-phd/) |
 | **Academic Integrity Tutorial**<br>学术诚信教程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-laboratory-medicine-phd/) |
 | **Research Integrity Tutorial**<br>研究诚信辅导课 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-laboratory-medicine-phd/) |
-| **Introduction to the Mechanisms of Disease**<br>疾病机制导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-laboratory-medicine-phd/) |
+| **Introduction to the Mechanisms of Disease**<br>疾病机制入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-laboratory-medicine-phd/) |
 | **Doctoral Candidacy Examination**<br>博士资格考试 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-laboratory-medicine-phd/) |
 | **Doctoral Thesis**<br>博士论文 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-laboratory-medicine-phd/) |
 

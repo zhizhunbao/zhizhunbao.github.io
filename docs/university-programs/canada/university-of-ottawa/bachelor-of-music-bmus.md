@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Bachelor of Music (BMUS)**<br>音乐学士（BMUS） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-music/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-music/) |
-| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-music/) |
+| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-music/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-music/) |
 | **Applied Music I: Performance BMUS**<br>应用音乐 I：演奏（音乐学士） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-music/) |
 | **Sight-Singing and Dictation I: General**<br>视唱练耳 I：普通 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-music/) |

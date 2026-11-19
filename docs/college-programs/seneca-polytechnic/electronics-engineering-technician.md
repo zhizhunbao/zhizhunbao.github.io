@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Electronics Engineering Technician**<br>电子工程技术员 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EEN.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EEN/courses.html) |
 | **Electricity**<br>电学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EEN/courses.html) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EEN/courses.html) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EEN/courses.html) |
 | **Electronic Lab Instrumentation and Techniques**<br>电子实验室仪器与技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EEN/courses.html) |
 | **Mathematics with Foundations**<br>数学（含基础） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EEN/courses.html) |
 | **Programming Fundamentals Using "C"**<br>使用"C"的编程基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EEN/courses.html) |

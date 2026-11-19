@@ -1,10 +1,10 @@
 ---
-title: "3.4.162 Translational Biomedicine (Ph.D.)"
+title: "4.4.162 Translational Biomedicine (Ph.D.)"
 description: "University Programs > United States > Yale University > Translational Biomedicine (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.162 Translational Biomedicine (Ph.D.)
+# 4.4.162 Translational Biomedicine (Ph.D.)
 
 ## Glossary
 

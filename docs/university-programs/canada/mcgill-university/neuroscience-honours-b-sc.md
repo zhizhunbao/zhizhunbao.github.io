@@ -14,8 +14,8 @@ ms.date: 2026-11-11
 | **Metabolic Biochemistry.**<br>代谢生物化学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Molecular Biology.**<br>分子生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Introductory Organic Chemistry 2.**<br>有机化学入门 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
-| **Introduction to Neuroscience 1.**<br>神经科学导论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
-| **Introduction to Neuroscience 2.**<br>神经科学导论 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
+| **Introduction to Neuroscience 1.**<br>神经科学入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
+| **Introduction to Neuroscience 2.**<br>神经科学入门 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Neuroethics.**<br>神经伦理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Neuroscience Seminar.**<br>神经科学研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Honours Research Project.**<br>荣誉研究项目 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **Cell Biology and Metabolism.**<br>细胞生物学与代谢 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Foundations of Programming.**<br>编程基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Computer Programming for Life Sciences.**<br>生命科学计算机编程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
-| **Introduction to Computer Science.**<br>计算机科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
+| **Introduction to Computer Science.**<br>计算机科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Principles of Statistics 2.**<br>统计学原理 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Statistics.**<br>统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Statistics for Experimental Design.**<br>实验设计统计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **Integrative Neuroscience.**<br>整合神经科学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Introductory Molecular and Cell Biology.**<br>分子与细胞生物学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Basic Genetics.**<br>基础遗传学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
-| **Introduction to Software Systems.**<br>软件系统导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
+| **Introduction to Software Systems.**<br>软件系统入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Circuitry of the Human Brain.**<br>人脑回路 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Biochemistry of Macromolecules.**<br>大分子生物化学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Molecular Biology of the Gene.**<br>基因分子生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-11
 | **Evolution of Brain and Behaviour.**<br>大脑与行为的进化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Laboratory in Neurobiology.**<br>神经生物学实验 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Pain.**<br>疼痛 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
-| **Introduction to Human Memory.**<br>人类记忆导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
+| **Introduction to Human Memory.**<br>人类记忆入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Computational Psychology.**<br>计算心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Behavioural Neuroscience 2.**<br>行为神经科学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |
 | **Hormones and Behaviour.**<br>激素与行为 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/) |

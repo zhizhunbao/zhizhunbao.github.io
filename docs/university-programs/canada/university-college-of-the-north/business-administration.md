@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
-| **Introduction to Business**<br>商务导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
+| **Introduction to Business**<br>商务入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Spreadsheet and Database Management**<br>电子表格与数据库管理 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Financial Mathematics**<br>金融数学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Commercial Law**<br>商法 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Entrepreneurial Development**<br>创业发展 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Financial Management**<br>财务管理 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Business Seminar**<br>商务研讨课 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Retail Management**<br>零售管理 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Management**<br>管理学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Managerial Accounting – Systems and Control**<br>管理会计：系统与控制 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Computerized Accounting – Small Medium Enterprise (SME)**<br>计算机化会计：中小企业（SME） | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Labour Relations**<br>劳资关系 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
-| **Introduction to Management Information Systems**<br>管理信息系统导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
+| **Introduction to Management Information Systems**<br>管理信息系统入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Taxation 1**<br>税务 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 | **Quantitative Methods**<br>定量方法 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=42) |
 

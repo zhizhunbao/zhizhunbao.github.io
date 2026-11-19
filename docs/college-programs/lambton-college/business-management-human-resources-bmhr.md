@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Management - Human Resources (BMHR)**<br>商务管理：人力资源 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmhr) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmhr) |
-| **Introduction to Managerial Accounting**<br>管理会计导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmhr) |
+| **Introduction to Managerial Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmhr) |
 | **Applications of Marketing Concepts**<br>营销概念应用 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmhr) |
 | **Equity, Diversity & Inclusion**<br>公平、多元与包容 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmhr) |
 | **Workplace Communication Applications & Analysis**<br>职场沟通应用与分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmhr) |

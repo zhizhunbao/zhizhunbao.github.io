@@ -11,15 +11,15 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Retail Management Major (B.Com.)**<br>零售管理主修（B.Com.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
-| **Introduction to Financial Accounting.**<br>财务会计导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
-| **Introduction to Organizational Behaviour.**<br>组织行为学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
+| **Introduction to Financial Accounting.**<br>财务会计入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
+| **Introduction to Organizational Behaviour.**<br>组织行为学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Data Programming for Business.**<br>商业数据编程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Expressive Analysis for Management.**<br>管理表达分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Business Statistics.**<br>商业统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Managerial Economics.**<br>管理经济学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **The Firm in the Macroeconomy.**<br>宏观经济中的企业 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Information Technology Management .**<br>信息技术管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
-| **Introduction to Finance.**<br>金融导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
+| **Introduction to Finance.**<br>金融入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Principles of Marketing.**<br>市场营销原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Operations Management.**<br>运营管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **International Business.**<br>国际商务 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
@@ -34,11 +34,11 @@ ms.date: 2026-11-11
 | **Technological Entrepreneurship.**<br>技术创业 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Venture Capital and Entrepreneurial Finance.**<br>风险投资与创业金融 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Fintech for Business and Finance.**<br>商业与金融的金融科技 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
-| **Introduction to Labour-Management Relations.**<br>劳资关系导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
+| **Introduction to Labour-Management Relations.**<br>劳资关系入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **E-Business.**<br>电子商务 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Data Analysis and Visualization.**<br>数据分析与可视化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Strategies for Sustainability.**<br>可持续性战略 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
-| **Introduction to Logistics Management.**<br>物流管理导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
+| **Introduction to Logistics Management.**<br>物流管理入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Operations and Supply Chain Analysis.**<br>运营与供应链分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Services Marketing.**<br>服务营销 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |
 | **Marketing Analytics.**<br>营销分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/) |

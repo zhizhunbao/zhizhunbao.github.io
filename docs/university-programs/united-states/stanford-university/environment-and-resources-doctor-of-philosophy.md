@@ -1,17 +1,17 @@
 ---
-title: "3.3.174 Environment and Resources, Doctor of Philosophy"
+title: "4.3.174 Environment and Resources, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Environment and Resources, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.174 Environment and Resources, Doctor of Philosophy
+# 4.3.174 Environment and Resources, Doctor of Philosophy
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Environment and Resources, Doctor of Philosophy**<br>环境与资源，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/doctor-of-philosophy) |
-| **Introduction to Interdisciplinary Environmental Research**<br>跨学科环境研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/doctor-of-philosophy) |
+| **Introduction to Interdisciplinary Environmental Research**<br>跨学科环境研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/doctor-of-philosophy) |
 | **Environmental Research Design Seminar**<br>环境研究设计研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/doctor-of-philosophy) |
 | **Designing Environmental Research**<br>环境研究设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/doctor-of-philosophy) |
 | **Research Approaches for Environmental Problem Solving**<br>解决环境问题的研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environment-and-resources/doctor-of-philosophy) |

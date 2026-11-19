@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Anatomy & Physiology Fundamentals**<br>解剖学与生理学基础 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
 | **Communications I for Health Professionals**<br>健康专业人员沟通 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
 | **Concepts in Health Care**<br>医疗保健概念 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
-| **Introduction to Pharmacy Practice**<br>药学实务导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
+| **Introduction to Pharmacy Practice**<br>药学实务入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
 | **Pharmacy Mathematics**<br>药房数学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
 | **Pharmacy Products**<br>药房产品 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
 | **Professionalism in Pharmacy**<br>药学职业素养 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
 | **Applied Pharmaceutical Calculations**<br>应用药物计算 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
 | **Compounding**<br>药物配制 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |
 | **Field Preparation**<br>实地工作准备 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pharmacy-technician) |

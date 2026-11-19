@@ -14,15 +14,15 @@ ms.date: 2026-11-11
 | **Computing with Natural Language**<br>自然语言计算 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Linguistics and Computation**<br>语言学与计算 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Language Processing: Words, Sentences, and Discourse**<br>语言处理：词、句与语篇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
-| **Introduction to Speech Communication**<br>言语传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
+| **Introduction to Speech Communication**<br>言语传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Talking Numbers: Interpretation and Presentation of Quantitative Linguistic Data**<br>谈论数字：定量语言学数据的解读与呈现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Acoustic Phonetics**<br>声学语音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Computing Meaning**<br>计算意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Topics in Computational Linguistics**<br>计算语言学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Analyzing Sociolinguistic Variation**<br>社会语言学变异分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Computational Complexity and Computability**<br>计算复杂性与可计算性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 | **Human-Computer Interaction**<br>人机交互 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2021) |
 
 ## Courses

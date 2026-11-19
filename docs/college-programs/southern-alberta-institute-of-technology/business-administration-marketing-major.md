@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Business Productivity Tools and Technology**<br>商务生产力工具与技术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Communication and Presentation Skills**<br>沟通与演示技能 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Marketing Essentials**<br>营销要点 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
@@ -24,8 +24,8 @@ ms.date: 2026-11-08
 | **Personal Financial Planning**<br>个人理财规划 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Digital Marketing Foundations**<br>数字营销基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |
 | **Digital Law and Ethics**<br>数字法与伦理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-marketing) |

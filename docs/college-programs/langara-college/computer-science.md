@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Science**<br>计算机科学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-associate-science-degree) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-associate-science-degree/courses) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-associate-science-degree/courses) |
 | **Algorithms and Data Structures I**<br>算法与数据结构 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-associate-science-degree/courses) |
 | **Object-oriented Computing**<br>面向对象计算 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-associate-science-degree/courses) |
 | **Algorithms and Data Structures II**<br>算法与数据结构 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-science-associate-science-degree/courses) |

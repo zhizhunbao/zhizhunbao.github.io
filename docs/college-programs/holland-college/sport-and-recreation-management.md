@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Sustainable Community Development**<br>可持续社区发展 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
-| **Introduction to Sport and Exercise Psychology**<br>运动与锻炼心理学导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
+| **Introduction to Sport and Exercise Psychology**<br>运动与锻炼心理学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Public and Media Relations**<br>公共与媒体关系 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Marketing for Sport and Recreation**<br>体育与休闲活动营销 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Sport, Recreation, and the Law**<br>体育、休闲与法律 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Foundations of Recreation, Physical Activity and Outdoor Leadership**<br>康乐、体育活动与户外领导力基础 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Sport and Recreation Program Design**<br>体育与休闲活动项目设计 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
-| **Introduction to Sport and Recreation Programming**<br>体育与休闲活动策划导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
+| **Introduction to Sport and Recreation Programming**<br>体育与休闲活动策划入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Sport Administration**<br>体育管理 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Leadership**<br>领导力 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |
 | **Adapted Recreation Programming**<br>适应性康乐活动策划 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/sport-and-recreation-management/index.php) |

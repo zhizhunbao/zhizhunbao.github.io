@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Human and Environmental Factors**<br>人为与环境因素 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
 | **Commercial Construction Drawings**<br>商业施工图 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
 | **Joinery Fundamentals for Interior Design**<br>室内设计细木工基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
-| **Introduction to Western Visual Culture: European Renaissance to the Present**<br>西方视觉文化导论：从欧洲文艺复兴至今 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
+| **Introduction to Western Visual Culture: European Renaissance to the Present**<br>西方视觉文化入门：从欧洲文艺复兴至今 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
 | **Commercial Lighting for Interior Design**<br>室内设计商业照明 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
 | **Revit for Interior Design**<br>室内设计 Revit | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
 | **Materials and Specifications**<br>材料与规格 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Commercial Design Studio B**<br>商业设计工作室 B | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
 | **Building Codes and Barrier Free for Interior Design**<br>室内设计建筑规范与无障碍设计 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
 | **Critical Reading and Writing**<br>批判性阅读与写作 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
-| **Introduction to Modern World History**<br>现代世界史导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
+| **Introduction to Modern World History**<br>现代世界史入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/) |
 
 ## Courses
 

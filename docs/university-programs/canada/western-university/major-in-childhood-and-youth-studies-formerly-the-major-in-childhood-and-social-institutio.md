@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN CHILDHOOD AND YOUTH STUDIES (formerly the MAJOR IN CHILDHOOD AND SOCIAL INSTITUTIONS)**<br>儿童与青少年研究主修（原主修：儿童与社会制度） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHILDHOOD AND YOUTH STUDIES**<br>童年与青少年研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHILDHOOD AND YOUTH STUDIES**<br>童年与青少年研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDHOOD, YOUTH, AND THE LAW**<br>童年、青少年与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ADVOCACY**<br>倡导导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WRITING FOR CHILDHOOD AND YOUTH STUDIES**<br>儿童与青少年研究写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ADVOCACY**<br>倡导入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WRITING FOR CHILDHOOD AND YOUTH STUDIES**<br>儿童与青少年研究写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
 | **WRITING AND DISCOURSES OF CHILDHOOD**<br>写作与童年话语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
 | **CHILD PROTECTION, PARTICIPATION, AND CRIMINAL LAW**<br>儿童保护、参与与刑法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |
 | **STREET YOUTH**<br>街头青年 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20691&SelectedCalendar=Live&ArchiveID=) |

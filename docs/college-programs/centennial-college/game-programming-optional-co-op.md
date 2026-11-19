@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Web Interface Design**<br>网页界面设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **Functions and Number Systems**<br>函数与数系 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
-| **Introduction to Database Concepts**<br>数据库概念导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
+| **Introduction to Database Concepts**<br>数据库概念入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **Programming 2**<br>编程 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **Client-Side Web Development**<br>客户端Web开发 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **Software Requirements Engineering**<br>软件需求工程 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Web Application Development**<br>Web应用开发 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **Software Systems Design**<br>软件系统设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **Assets for Game Developers**<br>游戏开发者素材 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
-| **Introduction to Game and Simulation**<br>游戏与模拟导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
+| **Introduction to Game and Simulation**<br>游戏与模拟入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **Global Citizenship: From Social Analysis to Social Action**<br>全球公民：从社会分析到社会行动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **C++ for Game Development**<br>游戏开发C++ | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming) |

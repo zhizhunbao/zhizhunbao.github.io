@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Helping Skills**<br>助人技能 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sswk) |
 | **Social Service Systems I**<br>社会服务体系 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sswk) |
 | **Field Work Preparation**<br>实地工作准备 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sswk) |
-| **Introduction to Community Mental Health**<br>社区心理健康导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sswk) |
+| **Introduction to Community Mental Health**<br>社区心理健康入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sswk) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sswk) |
 | **Communications for Community Services**<br>社区服务沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sswk) |
 | **Interview & Assessment Skills**<br>访谈与评估技巧 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sswk) |

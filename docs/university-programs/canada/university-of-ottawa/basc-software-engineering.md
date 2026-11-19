@@ -14,11 +14,11 @@ ms.date: 2026-11-11
 | **Technical Report Writing**<br>技术报告写作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Engineering Mechanics**<br>工程力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Digital Systems I**<br>数字系统 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
-| **Introduction to Computing I**<br>计算导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
-| **Introduction to Computing II**<br>计算导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
+| **Introduction to Computing I**<br>计算入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
+| **Introduction to Computing II**<br>计算入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Discrete Mathematics for Computing**<br>计算机离散数学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Principles of Physics II**<br>物理学原理 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Work Term I**<br>工作学期 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
@@ -29,16 +29,16 @@ ms.date: 2026-11-11
 | **Discrete Structures**<br>离散结构 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Databases I**<br>数据库 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
-| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
+| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Software Construction**<br>软件构造 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Professional Communication and Responsibility**<br>专业沟通与责任 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Professional Software Engineering Practice**<br>专业软件工程实践 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Work Term II**<br>工作学期 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Probability and Statistics for Engineers**<br>工程师的概率与统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Astronomy**<br>天文学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
-| **Introduction to Data Communications and Networking**<br>数据通信与网络导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
+| **Introduction to Data Communications and Networking**<br>数据通信与网络入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Design and Analysis of Algorithms I**<br>算法设计与分析 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |
 | **Software Requirements Analysis**<br>软件需求分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-software-engineering/) |

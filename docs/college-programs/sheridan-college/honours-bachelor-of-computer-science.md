@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science) |
 | **Statistics for Data Science**<br>数据科学统计学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science) |
 | **Specialization 2**<br>专业方向 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science) |
-| **Introduction to Information Systems Security**<br>信息系统安全导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science) |
+| **Introduction to Information Systems Security**<br>信息系统安全入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science) |
 | **Enterprise Software Systems**<br>企业软件系统 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science) |
 | **Software Design**<br>软件设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science) |
 | **Specialization 3**<br>专业方向 3 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science) |

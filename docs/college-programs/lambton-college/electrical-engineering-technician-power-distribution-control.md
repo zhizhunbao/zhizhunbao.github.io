@@ -23,8 +23,8 @@ ms.date: 2026-11-08
 | **Code & Prints**<br>规范与图纸 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
 | **Control Systems Architecture & Data Communications & Control**<br>控制系统架构、数据通信与控制 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
-| **Introduction to Transmission & Distribution of Electric Power**<br>电力输配导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
-| **Introduction to Industrial Control & Protection**<br>工业控制与保护导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
+| **Introduction to Transmission & Distribution of Electric Power**<br>电力输配入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
+| **Introduction to Industrial Control & Protection**<br>工业控制与保护入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
 | **Mathematics for Technology I**<br>技术数学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |
 | **Programmable Logic Control**<br>可编程逻辑控制 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pdct) |

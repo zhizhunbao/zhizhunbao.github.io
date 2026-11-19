@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Child Study and Education MA**<br>儿童研究与教育（MA） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
 | **Child Study and the Science of Learning**<br>儿童研究与学习科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
 | **Education Seminar I: Professional Practice, Critical Pedagogies and Social Studies**<br>教育研讨课 I：专业实践、批判教育学与社会研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
-| **Introduction to Curriculum 1: Core Areas**<br>课程导论 1：核心领域 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
+| **Introduction to Curriculum 1: Core Areas**<br>课程入门 1：核心领域 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
 | **Teaching Practicum**<br>教学实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
 | **Adaptive Instruction: Students, Systems, and Supports**<br>适应性教学：学生、系统与支持 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
 | **Foundations in Inquiry and Data-Based Decision Making**<br>探究与数据决策基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |

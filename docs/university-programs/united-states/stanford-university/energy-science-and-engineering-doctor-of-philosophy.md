@@ -1,10 +1,10 @@
 ---
-title: "3.3.172 Energy Science and Engineering, Doctor of Philosophy"
+title: "4.3.172 Energy Science and Engineering, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Energy Science and Engineering, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.172 Energy Science and Engineering, Doctor of Philosophy
+# 4.3.172 Energy Science and Engineering, Doctor of Philosophy
 
 ## Glossary
 
@@ -19,7 +19,7 @@ ms.date: 2026-11-18
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/doctor-of-philosophy) |
 | **Mathematical Methods for Engineers**<br>工程师数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/doctor-of-philosophy) |
 | **Subsurface Flow Simulation**<br>地下流动模拟 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/doctor-of-philosophy) |
 | **ESE Graduate Seminar**<br>ESE（能源科学与工程）研究生研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/doctor-of-philosophy) |
 | **ESE Teaching Requirement**<br>ESE（能源科学与工程）教学要求 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/doctor-of-philosophy) |
 | **Doctoral Degree Research in Energy Science and Engineering**<br>能源科学与工程博士学位研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/doctor-of-philosophy) |

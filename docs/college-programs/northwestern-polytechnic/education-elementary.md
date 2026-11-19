@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Education - Elementary**<br>教育：小学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
 | **Indigenous Studies for Classroom Teachers**<br>课堂教师原住民研究 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
 | **Learning with Technology**<br>技术辅助学习 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
-| **Introduction to the Profession of Teaching**<br>教师职业导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
-| **Introduction to Instructional Processes**<br>教学过程导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
+| **Introduction to the Profession of Teaching**<br>教师职业入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
+| **Introduction to Instructional Processes**<br>教学过程入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
 | **Learning and Development in Childhood**<br>儿童期学习与发展 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
-| **Introduction to Diversity and Inclusive Education**<br>多元与融合教育导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
+| **Introduction to Diversity and Inclusive Education**<br>多元与融合教育入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
 | **Curriculum and Instruction in Social Studies**<br>社会研究课程与教学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
 | **Curriculum and Instruction in Science**<br>科学课程与教学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |
 | **Evaluation of Student Learning**<br>学生学习评价 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/education-elementary-degree) |

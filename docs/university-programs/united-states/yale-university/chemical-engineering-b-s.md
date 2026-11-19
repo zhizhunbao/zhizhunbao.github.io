@@ -1,10 +1,10 @@
 ---
-title: "3.4.13 Chemical Engineering (B.S.)"
+title: "4.4.13 Chemical Engineering (B.S.)"
 description: "University Programs > United States > Yale University > Chemical Engineering (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.13 Chemical Engineering (B.S.)
+# 4.4.13 Chemical Engineering (B.S.)
 
 ## Glossary
 
@@ -20,10 +20,10 @@ ms.date: 2026-11-18
 | **General Chemistry Laboratory I**<br>普通化学实验 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
 | **University Physics**<br>大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
 | **Fundamentals of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
-| **Intensive Introductory Physics**<br>强化物理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
-| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
+| **Intensive Introductory Physics**<br>强化物理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
+| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
 | **Ordinary and Partial Differential Equations with Applications**<br>常微分与偏微分方程及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
 | **Organic Chemistry for First Year Students I**<br>一年级学生有机化学 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |
 | **Organic Chemistry**<br>有机化学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/) |

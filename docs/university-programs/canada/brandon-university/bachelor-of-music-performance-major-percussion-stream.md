@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Elementary Conducting and Score Study I/II**<br>初级指挥与总谱研究 I/II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=319) |
 | **Post-Tonal Theory and Analysis**<br>后调性理论与分析 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=319) |
 | **History of Music Since 1900**<br>1900 年以来的音乐史 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=319) |
-| **Introduction to Electro-Acoustic Music**<br>电子声学音乐导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=319) |
+| **Introduction to Electro-Acoustic Music**<br>电子声学音乐入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=319) |
 | **Perspectives on Contemporary Performance**<br>当代表演视角 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=319) |
 | **Ensemble II (additional ensemble)**<br>合奏 II（附加合奏） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=319) |
 

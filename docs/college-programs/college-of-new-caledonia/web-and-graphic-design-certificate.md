@@ -11,15 +11,15 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Web and Graphic Design Certificate**<br>网页与平面设计证书 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
-| **Intro to Digital Arts & Media**<br>数字艺术与媒体导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
+| **Intro to Digital Arts & Media**<br>数字艺术与媒体入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
 | **Cont Strat for Online Writing**<br>网络写作内容策略 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
-| **Intro to Design Thinking**<br>设计思维导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
-| **Intro to Visual Communication**<br>视觉传达导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
-| **Introduction to Web Design**<br>网页设计导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
+| **Intro to Design Thinking**<br>设计思维入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
+| **Intro to Visual Communication**<br>视觉传达入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
+| **Introduction to Web Design**<br>网页设计入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
 | **Intermediate Web Design**<br>中级网页设计 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
 | **The Basics of Typography**<br>字体排印基础 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
 | **Graphic Design Fundamentals**<br>平面设计基础 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
-| **Intro to Bus for Creatives**<br>创意人士商业导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
+| **Intro to Bus for Creatives**<br>创意人士商业入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
 | **Writing and Communication**<br>写作与沟通 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/web-and-graphic-design-certificate) |
 

@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diploma in Italian Language**<br>意大利语文凭 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJHxJRCih) |
-| **Introduction to Italian Language 1**<br>意大利语导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJHxJRCih) |
-| **Introduction to Italian Language 2**<br>意大利语导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJHxJRCih) |
+| **Introduction to Italian Language 1**<br>意大利语入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJHxJRCih) |
+| **Introduction to Italian Language 2**<br>意大利语入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJHxJRCih) |
 | **Intensive Introductory Italian Language**<br>意大利语强化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJHxJRCih) |
 | **Intermediate Italian 1**<br>中级意大利语 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJHxJRCih) |
 | **Intermediate Italian 2**<br>中级意大利语 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJHxJRCih) |

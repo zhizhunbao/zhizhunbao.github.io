@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Kenanow Bachelor of Education – After Degree**<br>Kenanow 教育学学士 - 学位后 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=49) |
 | **Waskawimakanwa Meciwaci Isihtwawina**<br>Waskawimakanwa Meciwaci Isihtwawina | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=49) |
-| **Introduction to Teaching**<br>教学导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=49) |
+| **Introduction to Teaching**<br>教学入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=49) |
 | **Education Children and Youth**<br>儿童与青少年教育 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=49) |
 | **Teaching Practicum 1**<br>教学实习 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=49) |
 | **Teaching Practicum 2**<br>教学实习 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=49) |

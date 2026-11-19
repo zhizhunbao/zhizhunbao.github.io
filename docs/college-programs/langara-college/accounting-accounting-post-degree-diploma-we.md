@@ -15,9 +15,9 @@ ms.date: 2026-11-08
 | **Professional Business Practice**<br>职业商务实务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Business Strategy for Accountants**<br>会计人员商业战略 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Canadian Business Law**<br>加拿大商法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Managerial Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Advanced Management Accounting**<br>高级管理会计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Intermediate Financial Accounting I**<br>中级财务会计 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Advanced Financial Accounting**<br>高级财务会计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Financial Management I**<br>财务管理 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Financial Management II**<br>财务管理 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
-| **Introduction to Taxation**<br>税务导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
+| **Introduction to Taxation**<br>税务入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Advanced Taxation**<br>高级税务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Internal Control and Auditing**<br>内部控制与审计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/accounting-post-degree-diploma-we/courses) |

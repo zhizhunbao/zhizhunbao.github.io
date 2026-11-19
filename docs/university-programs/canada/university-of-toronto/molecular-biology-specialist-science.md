@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Molecular Biology - Specialist (Science)**<br>分子生物学－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Diversity of Organisms**<br>生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Chemical Principles 1**<br>化学原理 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Chemical Principles 2**<br>化学原理 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **Writing about Science**<br>科学写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Introductory Cell and Molecular Biology**<br>细胞与分子生物学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Introductory Genetics**<br>遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
-| **Introduction to Biological Data**<br>生物数据导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
+| **Introduction to Biological Data**<br>生物数据入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Introductory Animal Physiology**<br>动物生理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Introductory Plant Morphology and Physiology**<br>植物形态与生理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Ecology**<br>生态学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
@@ -80,9 +80,9 @@ ms.date: 2026-11-11
 | **Molecular Basis of Disease**<br>疾病的分子基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Neuroimmunology**<br>神经免疫学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Biology Research Project**<br>生物学研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
-| **An Introduction to Medicinal Chemistry and Molecular Recognition**<br>药物化学与分子识别导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
+| **An Introduction to Medicinal Chemistry and Molecular Recognition**<br>药物化学与分子识别入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Revealing the Chemistry behind Biomolecules**<br>揭示生物分子背后的化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
-| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
+| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Seminars in Biotechnology**<br>生物技术研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Advanced Interdisciplinary Research Laboratory**<br>高级跨学科研究实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |
 | **Techniques in Structural Biology**<br>结构生物学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1237) |

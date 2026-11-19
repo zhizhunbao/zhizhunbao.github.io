@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Music and Concentration Performance**<br>音乐硕士，表演方向 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-music-concentration-in-performance/) |
-| **Introduction to Musical Research**<br>音乐研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-music-concentration-in-performance/) |
+| **Introduction to Musical Research**<br>音乐研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-music-concentration-in-performance/) |
 | **Applied Music I**<br>应用音乐 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-music-concentration-in-performance/) |
 | **Applied Music II**<br>应用音乐 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-music-concentration-in-performance/) |
 | **Applied Music III**<br>应用音乐 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-music-concentration-in-performance/) |

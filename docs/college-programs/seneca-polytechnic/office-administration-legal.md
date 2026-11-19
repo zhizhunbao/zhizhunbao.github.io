@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Business Math Applications**<br>商业数学应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
-| **Introduction to Document Production**<br>文档制作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
+| **Introduction to Document Production**<br>文档制作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Email and Calendaring Software**<br>电子邮件与日历软件 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Computer Presentation Software**<br>计算机演示软件 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Keyboarding Skills - Level 1**<br>键盘输入技能 - 1级 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
@@ -22,8 +22,8 @@ ms.date: 2026-11-08
 | **Office Procedures**<br>办公程序 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Career Foundations Lab**<br>职业基础实验室 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Keyboarding Skills - Level 2**<br>键盘输入技能 - 2级 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
-| **Introduction to Legal Document Production**<br>法律文书制作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
-| **Introduction to Legal Procedures**<br>法律程序导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
+| **Introduction to Legal Document Production**<br>法律文书制作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
+| **Introduction to Legal Procedures**<br>法律程序入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Legal Procedures Litigation**<br>诉讼法律程序 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Spreadsheet Software**<br>电子表格软件 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |
 | **Transcription Techniques**<br>转录技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LES/courses.html) |

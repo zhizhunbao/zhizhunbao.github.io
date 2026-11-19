@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Software Design Fundamentals**<br>软件设计基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Web Interface Design**<br>网页界面设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
-| **Introduction to Operating Systems**<br>操作系统导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
+| **Introduction to Operating Systems**<br>操作系统入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Database Design Concepts**<br>数据库设计概念 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Technical Communications 1**<br>技术沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
@@ -25,8 +25,8 @@ ms.date: 2026-11-08
 | **Dynamic Web Interface**<br>动态网页界面 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Linux Scripting and Automation**<br>Linux脚本与自动化 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Technical Communications 2**<br>技术沟通 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
-| **Introduction to Machine Learning and AI**<br>机器学习与AI导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
+| **Introduction to Machine Learning and AI**<br>机器学习与AI入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Virtualization and Emerging Services**<br>虚拟化与新兴服务 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |
 | **Web Application Development**<br>Web应用开发 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/software-engineering-technician-artificial-intelligence) |

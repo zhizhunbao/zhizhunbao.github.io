@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Library & Information Technology [Flexible option]**<br>图书馆与信息技术（灵活方式） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we) |
-| **Introduction to Digital Literacy**<br>数字素养导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
+| **Introduction to Digital Literacy**<br>数字素养入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Information Literacy and Online Search**<br>信息素养与在线检索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
-| **Introduction to Cataloguing**<br>编目导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
+| **Introduction to Cataloguing**<br>编目入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Philosophy and Functions**<br>理念与职能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Field Work I**<br>野外工作 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
-| **Introduction to Technical Services and Circulation**<br>技术服务与流通导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
+| **Introduction to Technical Services and Circulation**<br>技术服务与流通入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Subject Analysis and Classification**<br>主题分析与分类 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Library Systems and Information Design**<br>图书馆系统与信息设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Reference Resources and Services**<br>参考资源与服务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Special Topics II**<br>专题 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Special Topics: Creating and Managing Digital Collections**<br>专题：数字馆藏的创建与管理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Special Topics: Specialized Library Resources**<br>专题：专业图书馆资源 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
-| **Special Topics: An Introduction to Records Management**<br>专题：记录管理导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
+| **Special Topics: An Introduction to Records Management**<br>专题：记录管理入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Media and Electronic Materials**<br>介质与电子材料 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Special Topics: Young Adult Services**<br>专题：青少年服务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Children's Services**<br>儿童服务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-08
 | **Aboriginal Women in Canada**<br>加拿大原住民女性 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Oh Canada!: Art, Identity and Cultural Politics**<br>哦，加拿大！：艺术、身份与文化政治 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Colonialism and Reconciliation in BC**<br>BC 省的殖民主义与和解 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
-| **Introduction to Business in Canada**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
+| **Introduction to Business in Canada**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Management Principles**<br>管理学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/library-information-technology-flexible-option-diploma-we/courses) |

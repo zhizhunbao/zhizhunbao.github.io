@@ -17,14 +17,14 @@ ms.date: 2026-11-08
 | **Introduction to the Canadian Health Care System**<br>加拿大医疗体系入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Therapeutic Relationships**<br>治疗关系 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Intercultural Communication in the Workplace**<br>职场跨文化沟通 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
-| **Introduction to Health Care Professions**<br>医疗保健职业导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
+| **Introduction to Health Care Professions**<br>医疗保健职业入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Anatomy Physiology**<br>解剖生理学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Drugs, Behaviour, & Society**<br>药物、行为与社会 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Career Prep**<br>职业准备 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
-| **Introduction to Complementary Health Care**<br>补充医疗保健导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
+| **Introduction to Complementary Health Care**<br>补充医疗保健入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Indigenous Culture and Multiculturalism**<br>原住民文化与多元文化主义 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Informatics in Health Care**<br>医疗保健信息学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Pathophysiology for Canadian Health Care**<br>加拿大医疗保健病理生理学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Mental Health Care for the Canadian Health Care Context**<br>加拿大医疗保健背景下的心理健康护理 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |
 | **Palliative Care within the Canadian Health Care System**<br>加拿大医疗体系中的姑息护理 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=696&prg_ver=26-A) |

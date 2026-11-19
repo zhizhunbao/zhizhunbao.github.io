@@ -31,9 +31,9 @@ ms.date: 2026-11-08
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
 | **Precalculus Mathematics**<br>预备微积分数学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
 | **Finite Mathematics**<br>有限数学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
-| **Intro to Design Thinking**<br>设计思维导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
-| **Intro to Visual Communication**<br>视觉传达导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
-| **Introduction to Web Design**<br>网页设计导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
+| **Intro to Design Thinking**<br>设计思维入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
+| **Intro to Visual Communication**<br>视觉传达入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
+| **Introduction to Web Design**<br>网页设计入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
 | **Intermediate Web Design**<br>中级网页设计 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
 | **International Business**<br>国际商务 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |
 | **Mgt & Organizational Behaviour**<br>管理与组织行为 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/accounting-and-finance-diploma) |

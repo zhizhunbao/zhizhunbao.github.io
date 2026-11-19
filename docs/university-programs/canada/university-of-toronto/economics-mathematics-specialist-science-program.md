@@ -19,12 +19,12 @@ ms.date: 2026-11-11
 | **Analysis 1B**<br>分析 1B | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Microeconomic Theory**<br>微观经济理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Macroeconomic Theory**<br>宏观经济理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Foundations of Econometrics**<br>计量经济学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Probability and Statistics I**<br>概率与统计 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Probability and Statistics II**<br>概率与统计 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Foundations of Computer Science I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Advanced Economic Theory - Macro**<br>高级经济理论：宏观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Advanced Microeconomics - Game Theory**<br>高级微观经济学：博弈论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Applied Econometrics I**<br>应用计量经济学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
-| **Introduction to Real Analysis**<br>实分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
+| **Introduction to Real Analysis**<br>实分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Foundations of Real Analysis**<br>实分析基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Nonlinear Optimization**<br>非线性优化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |
 | **Applied Econometrics II**<br>应用计量经济学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2599) |

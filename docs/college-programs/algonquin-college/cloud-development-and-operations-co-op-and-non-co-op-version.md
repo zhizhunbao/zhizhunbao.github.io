@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Cloud Development and Operations (Co-op and Non Co-op Version)**<br>云开发与运维（带薪实习与非带薪实习版） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/sat/program/cloud-development-and-operations/) |
-| **Introduction to Cloud Computing**<br>云计算导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1531X03FWO.pdf) |
+| **Introduction to Cloud Computing**<br>云计算入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1531X03FWO.pdf) |
 | **Cloud Solutions Architecture**<br>云解决方案架构 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1531X03FWO.pdf) |
 | **Cloud Migration**<br>云迁移 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1531X03FWO.pdf) |
 | **Accessible By Design**<br>无障碍设计 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1531X03FWO.pdf) |

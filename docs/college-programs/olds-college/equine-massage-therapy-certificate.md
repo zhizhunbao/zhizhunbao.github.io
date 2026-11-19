@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Equine Massage Therapy Certificate**<br>马匹按摩治疗证书 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-massage-therapy-certificate.html) |
 | **Equine Anatomy and Physiology**<br>马解剖与生理学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-massage-therapy-certificate.html) |
-| **Introduction to Equine Massage Theory, Techniques, and Routines**<br>马按摩理论、技术与流程导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-massage-therapy-certificate.html) |
+| **Introduction to Equine Massage Theory, Techniques, and Routines**<br>马按摩理论、技术与流程入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-massage-therapy-certificate.html) |
 | **Equine Biomechanics**<br>马生物力学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-massage-therapy-certificate.html) |
 | **Equine Husbandry, Behaviour and Handling**<br>马饲养、行为与保定 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-massage-therapy-certificate.html) |
 | **Equine Massage Therapy Business and Relationships**<br>马按摩治疗业务与关系 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-massage-therapy-certificate.html) |

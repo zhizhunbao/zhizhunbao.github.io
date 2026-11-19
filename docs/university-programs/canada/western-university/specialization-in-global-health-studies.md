@@ -13,9 +13,9 @@ ms.date: 2026-11-11
 | **SPECIALIZATION IN GLOBAL HEALTH STUDIES**<br>全球健康研究专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **PERSONAL DETERMINANTS OF HEALTH**<br>健康的个人决定因素 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIAL DETERMINANTS OF HEALTH**<br>健康的社会决定因素 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE HUMAN ENVIRONMENT**<br>人类环境导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE HUMAN ENVIRONMENT**<br>人类环境入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENT AND DEVELOPMENT CHALLENGES**<br>环境与发展挑战 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIOLOGY**<br>社会学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIOLOGY**<br>社会学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIETY AND YOU**<br>社会与你 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **LIFE IS NOT ALWAYS FAIR**<br>生活并不总是公平的 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **PROBLEMS OF GLOBAL DEVELOPMENT**<br>全球发展问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-11
 | **COMMUNITY–BASED SEMINAR IN GLOBAL STUDIES**<br>全球研究社区研讨课 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL STUDIES PARTICIPATORY PROJECT**<br>全球研究参与式项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL DEVELOPMENT PLACEMENT**<br>全球发展实习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO RURAL COMMUNITIES**<br>乡村社区导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO RURAL COMMUNITIES**<br>乡村社区入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **INTEGRATIVE HEALTH**<br>整合健康 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **MENTAL ILLNESS AND HEALING ACROSS CULTURES**<br>跨文化的精神疾病与康复 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |
 | **SEXUALITY, GENDER, AND HEALTH**<br>性、性别与健康 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21601&SelectedCalendar=Live&ArchiveID=) |

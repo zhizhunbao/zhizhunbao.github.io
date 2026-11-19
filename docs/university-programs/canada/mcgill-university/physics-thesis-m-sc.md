@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Physics (Thesis) (M.Sc.)**<br>物理学（论文型）（M.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-thesis-msc/) |
-| **Introduction to Graduate Studies in Physics 1.**<br>物理学研究生学习导论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-thesis-msc/) |
-| **Introduction to Graduate Studies in Physics 2.**<br>物理学研究生学习导论 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-thesis-msc/) |
+| **Introduction to Graduate Studies in Physics 1.**<br>物理学研究生学习入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-thesis-msc/) |
+| **Introduction to Graduate Studies in Physics 2.**<br>物理学研究生学习入门 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-thesis-msc/) |
 | **M.Sc. Thesis.**<br>理学硕士论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-thesis-msc/) |
 | **M.Sc. Research.**<br>理学硕士研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-thesis-msc/) |
 | **Thesis Preparation.**<br>论文准备 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-thesis-msc/) |

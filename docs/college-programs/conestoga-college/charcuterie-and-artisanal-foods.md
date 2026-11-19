@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Artisan Breads**<br>手工面包 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/charcuterie-and-artisanal-foods/courses-no-intake?id=15476) |
 | **Facility Layout and Design**<br>设施布局与设计 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/charcuterie-and-artisanal-foods/courses-no-intake?id=15476) |
 | **Terrines, Pates and Pies**<br>肉冻、肉酱与馅饼 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/charcuterie-and-artisanal-foods/courses-no-intake?id=15476) |
-| **Introduction to Fermentation - Wine, Beer and Spirits**<br>发酵导论：葡萄酒、啤酒与烈酒 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/charcuterie-and-artisanal-foods/courses-no-intake?id=15476) |
+| **Introduction to Fermentation - Wine, Beer and Spirits**<br>发酵入门：葡萄酒、啤酒与烈酒 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/charcuterie-and-artisanal-foods/courses-no-intake?id=15476) |
 | **Human Resources for Small Business Owners**<br>小企业主人力资源 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/charcuterie-and-artisanal-foods/courses-no-intake?id=15476) |
 | **Marketing and Brand Development**<br>营销与品牌开发 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/charcuterie-and-artisanal-foods/courses-no-intake?id=15476) |
 

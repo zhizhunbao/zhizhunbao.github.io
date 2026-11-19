@@ -26,8 +26,8 @@ ms.date: 2026-11-11
 | **Stochastic Methods for Actuarial Science**<br>精算科学的随机方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Engineering Mathematics, Statistics and Finance Capstone Design**<br>工程数学、统计与金融毕业设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Applied Fundamentals of Deep Learning**<br>深度学习应用基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Foundations of Computing**<br>计算基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Systems Modelling and Simulation**<br>系统建模与仿真 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Advanced Operations Research**<br>高级运筹学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-11
 | **Modelling in Biological and Chemical Systems**<br>生物与化学系统建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Data-based Modelling for Prediction and Control**<br>基于数据的预测与控制建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Data Structures and Analysis**<br>数据结构与分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Foundations and Frontiers in Cybersecurity**<br>网络安全的基础与前沿 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Cases in Operations Research**<br>运筹学案例 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |
 | **Analytics in Action**<br>行动中的分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasef) |

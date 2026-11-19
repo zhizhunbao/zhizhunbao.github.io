@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Personal Wellness**<br>个人健康 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/early-childhood-education-diploma) |
 | **Family Child Care**<br>家庭式儿童托育 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/early-childhood-education-diploma) |
 | **Field Placement III**<br>现场实习 III | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/early-childhood-education-diploma) |
-| **Introduction to Child Care Administration**<br>托育机构管理导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/early-childhood-education-diploma) |
+| **Introduction to Child Care Administration**<br>托育机构管理入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/early-childhood-education-diploma) |
 | **Family Studies II**<br>家庭研究 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/early-childhood-education-diploma) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/early-childhood-education-diploma) |
 | **Infant Development and Care**<br>婴儿发展与护理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/early-childhood-education-diploma) |

@@ -11,16 +11,16 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminology Diploma**<br>犯罪学文凭 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
-| **Intro. to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
+| **Intro. to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Psych of Crime and Deviance**<br>犯罪与越轨心理学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
-| **Intro. to Sociology II**<br>社会学导论 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
-| **Intro to Criminal Justice**<br>刑事司法导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
+| **Intro. to Sociology II**<br>社会学入门 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
+| **Intro to Criminal Justice**<br>刑事司法入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Crime and Deviance**<br>犯罪与越轨 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
-| **Intro to Cdn Law and Legal**<br>加拿大法律与法律制度导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
+| **Intro to Cdn Law and Legal**<br>加拿大法律与法律制度入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Soc Science Research Methods**<br>社会科学研究方法 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Moral Philosophy**<br>道德哲学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Political Philosophy**<br>政治哲学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Elementary Statistics**<br>初等统计学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Statistics for Social Sciences**<br>社会科学统计学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
-| **Intro to Politics & Government**<br>政治与政府导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
+| **Intro to Politics & Government**<br>政治与政府入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Policing in Modern Society**<br>现代社会中的警务 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Canadian Corrections**<br>加拿大惩教制度 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |
 | **Restorative Justice**<br>恢复性司法 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/criminology-diploma) |

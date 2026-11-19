@@ -48,7 +48,7 @@ ms.date: 2026-11-11
 | **Aboriginal Law**<br>原住民法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Law) |
 | **Immigration Law**<br>移民法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Law) |
 | **Artificial Intelligence: Policy, Ethics, and Legal Governance**<br>人工智能：政策、伦理与法律治理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Law) |
-| **Introduction to Law & Technology**<br>法律与技术导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Law) |
+| **Introduction to Law & Technology**<br>法律与技术入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Law) |
 | **Blockchain, Digital Assets, and the Law**<br>区块链、数字资产与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Law) |
 | **Financing Technological Innovation**<br>技术创新融资 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Law) |
 | **Cybersecurity, Data Protection in a Global Information Economy**<br>网络安全、全球信息经济中的数据保护 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Law) |

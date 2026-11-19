@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminal Justice Studies**<br>刑事司法研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
-| **Introduction to Policing**<br>警务导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
+| **Introduction to Policing**<br>警务入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
 | **The Canadian Legal System**<br>加拿大法律体系 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
-| **Introduction to Corrections**<br>矫正学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
-| **An Introduction to Psychology (I)**<br>心理学导论（I） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
+| **Introduction to Corrections**<br>矫正学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
+| **An Introduction to Psychology (I)**<br>心理学入门（I） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
 | **Social Processes**<br>社会过程 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcrim) |
 
 ## Courses

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Engineering Technician**<br>计算机工程技术员 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/computer-engineering-technician/) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/computer-engineering-technician/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/computer-engineering-technician/) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/computer-engineering-technician/) |
 | **Health and Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/computer-engineering-technician/) |
 | **Cisco Networking I**<br>思科网络 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/computer-engineering-technician/) |
 | **IT Essentials I**<br>IT基础 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/computer-engineering-technician/) |

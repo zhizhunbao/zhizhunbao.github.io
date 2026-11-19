@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Industrial Communication Systems**<br>工业通信系统 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/industrial-electrical-technology/index.php) |
 | **Automation and Control Wiring Methods**<br>自动化与控制接线方法 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/industrial-electrical-technology/index.php) |
 | **Electrical Blueprint Reading**<br>电气施工图识读 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/industrial-electrical-technology/index.php) |
-| **Introduction to Computer-Aided Design**<br>计算机辅助设计导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/industrial-electrical-technology/index.php) |
+| **Introduction to Computer-Aided Design**<br>计算机辅助设计入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/industrial-electrical-technology/index.php) |
 | **Computer-Aided Design II**<br>计算机辅助设计 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/industrial-electrical-technology/index.php) |
 | **Workplace Communications**<br>职场沟通 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/industrial-electrical-technology/index.php) |
 | **Workplace Communications II**<br>职场沟通 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/industrial-electrical-technology/index.php) |

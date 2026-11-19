@@ -17,34 +17,34 @@ ms.date: 2026-11-08
 | **Drawing and Specifications for Civil Engineering Technology**<br>土木工程技术制图与规范 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Mathematics for Civil Engineering Technology 1**<br>土木工程技术数学 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Introduction to Physics**<br>物理学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Introduction to Physics**<br>物理学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Law for Civil Engineering Technology**<br>土木工程技术法律 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Introduction to Autocad 1**<br>AutoCAD导论 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Introduction to Autocad 1**<br>AutoCAD入门 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Estimating Civil Projects**<br>土木项目估算 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Mathematics for Civil Engineering Technology 2**<br>土木工程技术数学 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **General Elective**<br>通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Principles and Practices of Construction 1 - Buildings**<br>施工原理与实务 1 - 建筑 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Planning and Scheduling for Civil Projects**<br>土木项目规划与进度 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Intro. to Autocad 2**<br>AutoCAD导论 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Intro. to Autocad 2**<br>AutoCAD入门 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Strength of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Surveying 2**<br>测量学 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Professional Communications for Building Technologies**<br>建筑技术专业沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Calculus**<br>微积分 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Principles and Practices of Construction 2 - Highways, Bridges, and Earthworks**<br>施工原理与实务 2 - 公路、桥梁与土方工程 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Introduction to Soils**<br>土壤导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Introduction to Fluid Mechanics**<br>流体力学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Introduction to Soils**<br>土壤入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Introduction to Fluid Mechanics**<br>流体力学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Engineering Economics**<br>工程经济学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Introduction to Gis Technology**<br>GIS技术导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Introduction to Gis Technology**<br>GIS技术入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Portfolio**<br>作品集 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Introduction to Civil 3D**<br>Civil 3D 导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Introduction to Civil 3D**<br>Civil 3D 入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Structural Design 1 - Steel**<br>结构设计 1 - 钢结构 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Applied Fluid Mechanics and Hydrology**<br>应用流体力学与水文学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Construction Equipment Management**<br>施工设备管理 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Introduction to Foundations**<br>基础导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Introduction to Foundations**<br>基础入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Construction Field Operations**<br>施工现场作业 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
-| **Introduction to Building Science**<br>建筑科学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
+| **Introduction to Building Science**<br>建筑科学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Rehabilitation of Civil Infrastructure Works**<br>土木基础设施工程修复 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Traffic and Highway Engineering**<br>交通与公路工程 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |
 | **Civil Construction Quality Management**<br>土木工程施工质量管理 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/civil-engineering-technology-program-t164) |

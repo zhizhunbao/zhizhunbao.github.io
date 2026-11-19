@@ -19,8 +19,8 @@ ms.date: 2026-11-11
 | **LINEAR ALGEBRA I FOR THE MATHEMATICAL SCIENCES**<br>数学科学线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MICROECONOMICS**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MACROECONOMICS**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL SECURITY SYSTEMS**<br>金融安全系统导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUSINESS**<br>商业导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL SECURITY SYSTEMS**<br>金融安全系统入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUSINESS**<br>商业入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
 | **REASONING AND CRITICAL THINKING**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR ENGINEERS I**<br>工程师微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR ENGINEERS II**<br>工程师微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21050&SelectedCalendar=Live&ArchiveID=) |

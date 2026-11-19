@@ -17,8 +17,8 @@ ms.date: 2026-11-11
 | **Honors Thesis I: Research Apprenticeship**<br>荣誉毕业论文 I：研究学徒 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
 | **Honors Seminar II**<br>荣誉研讨课 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
 | **Honors Thesis II: Thesis Research**<br>荣誉毕业论文 II：论文研究 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
-| **Introduction to Research Methods in Psychology**<br>心理学研究方法导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
-| **Introduction to Applied Statistics II**<br>应用统计学导论 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
+| **Introduction to Research Methods in Psychology**<br>心理学研究方法入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
+| **Introduction to Applied Statistics II**<br>应用统计学入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
 | **Research Methods in Cognition**<br>认知研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
 | **Design and Analysis of Experiments in Psychology**<br>心理学实验设计与分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |
 | **Advanced Qualitative Methods in Psychology**<br>心理学高级质性研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110701&returnto=20858) |

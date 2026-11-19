@@ -15,11 +15,11 @@ ms.date: 2026-11-08
 | **Electrical Principles and Applications**<br>电气原理与应用 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
 | **Workplace Professionalism**<br>职场职业素养 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
-| **Introduction to HVAC Systems**<br>HVAC 系统导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
+| **Introduction to HVAC Systems**<br>HVAC 系统入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
 | **Electrical Controls and Motors**<br>电气控制与电动机 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
 | **Drawings and Specifications for Building Mechanical Systems**<br>建筑机械系统图纸与规格 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
-| **Introduction to Building Automation Controls**<br>楼宇自动化控制导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
-| **Introduction to Operational Technology**<br>运营技术导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
+| **Introduction to Building Automation Controls**<br>楼宇自动化控制入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
+| **Introduction to Operational Technology**<br>运营技术入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
 | **Industry Experience I**<br>行业经验 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
 | **Industry Experience 2**<br>行业经验 2 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |
 | **Industry Experience 3**<br>行业经验 3 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/building-automation-systems-technology) |

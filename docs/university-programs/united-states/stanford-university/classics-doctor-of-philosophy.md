@@ -1,10 +1,10 @@
 ---
-title: "3.3.160 Classics, Doctor of Philosophy"
+title: "4.3.160 Classics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Classics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.160 Classics, Doctor of Philosophy
+# 4.3.160 Classics, Doctor of Philosophy
 
 ## Glossary
 
@@ -28,7 +28,7 @@ ms.date: 2026-11-18
 | **Greek Syntax: Prose Composition**<br>希腊语句法：散文写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/classics/doctor-of-philosophy) |
 | **Greek Prose Composition**<br>希腊语散文写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/classics/doctor-of-philosophy) |
 | **Words and Things in the History of Classical Scholarship**<br>古典学术史中的词与物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/classics/doctor-of-philosophy) |
-| **Introduction to Archaeological Thought**<br>考古思想导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/classics/doctor-of-philosophy) |
+| **Introduction to Archaeological Thought**<br>考古思想入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/classics/doctor-of-philosophy) |
 | **Archaeological Methods**<br>考古方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/classics/doctor-of-philosophy) |
 | **The Language of Homer**<br>荷马的语言 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/classics/doctor-of-philosophy) |
 

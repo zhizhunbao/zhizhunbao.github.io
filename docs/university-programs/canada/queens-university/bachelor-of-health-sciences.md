@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Bachelor of Health Sciences**<br>健康科学学士 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Anatomy of the Human Body**<br>人体解剖学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Social and Physical Determinants of Health and Disease**<br>健康与疾病的社会和自然决定因素 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
-| **Introduction to Statistics for the Health Sciences 1**<br>健康科学统计学导论 1 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
+| **Introduction to Statistics for the Health Sciences 1**<br>健康科学统计学入门 1 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **The History and Philosophy of Health and Healthcare**<br>健康与医疗保健的历史与哲学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Introductory Pharmacology**<br>药理学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Human Cell Physiology**<br>人体细胞生理学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
@@ -27,8 +27,8 @@ ms.date: 2026-11-11
 | **Differential and Integral Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Differential and Integral Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Understanding Human Disease in the 21st Century**<br>理解 21 世纪的人类疾病 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
-| **Introduction to Physics I**<br>物理导论 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
-| **Introduction to Physics II**<br>物理导论 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
+| **Introduction to Physics I**<br>物理入门 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
+| **Introduction to Physics II**<br>物理入门 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Principles of Psychology**<br>心理学原理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Fundamentals of Effective Writing**<br>有效写作基础 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Fundamentals of Academic Essay Writing**<br>学术论文写作基础 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Fundamentals of Health Research Methodology**<br>健康研究方法论基础 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Global and Population Health**<br>全球与人群健康 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Infection, Immunity and Inflammation 2**<br>感染、免疫与炎症 2 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Fundamental Microbiology**<br>基础微生物学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Principles of Mammalian Physiology l**<br>哺乳动物生理学原理 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Principles of Mammalian Physiology ll**<br>哺乳动物生理学原理 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-11
 | **Functional Histology**<br>功能组织学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Functional Neuroanatomy**<br>功能神经解剖学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Clinically Relevant Human Anatomy**<br>临床相关人体解剖学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
-| **Introduction to Cadaveric Dissection**<br>尸体解剖导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
+| **Introduction to Cadaveric Dissection**<br>尸体解剖入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Tools for Molecular Discovery**<br>分子发现工具 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Proteins and Enzymes**<br>蛋白质与酶 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Applications of Synthetic Biology**<br>合成生物学的应用 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
@@ -73,7 +73,7 @@ ms.date: 2026-11-11
 | **Integrated Life Sciences Laboratory II**<br>综合生命科学实验 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Microbes in Health and Disease**<br>健康与疾病中的微生物 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Fundamentals of Immunology in Health and Disease**<br>健康与疾病中的免疫学基础 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
-| **Introduction to Neuroimaging**<br>神经影像学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
+| **Introduction to Neuroimaging**<br>神经影像学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Foundational Neuroscience**<br>神经科学基础 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Systems Neuroscience**<br>系统神经科学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **The Science of Psychedelics**<br>迷幻药科学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
@@ -100,7 +100,7 @@ ms.date: 2026-11-11
 | **Advanced Immunology**<br>高级免疫学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Advanced Topics in Infectious Diseases**<br>传染病高级专题 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Infectious Diseases and Zoonoses**<br>传染病与人畜共患病 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
-| **Introduction to Theoretical Neuroscience**<br>理论神经科学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
+| **Introduction to Theoretical Neuroscience**<br>理论神经科学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Cellular and Molecular Neuroscience**<br>细胞与分子神经科学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Neurodegeneration and Brain Health**<br>神经退行与大脑健康 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |
 | **Disorders of the Nervous System**<br>神经系统疾病 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/health-sciences/bhsc/degree-plan/) |

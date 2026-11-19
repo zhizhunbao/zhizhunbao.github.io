@@ -12,15 +12,15 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Certificate in Applied Social Science Research**<br>应用社会科学研究证书 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Research Methods in Human Geography**<br>人文地理学研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
-| **Introduction to History as a Discipline**<br>历史学科导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
+| **Introduction to History as a Discipline**<br>历史学科入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Linguistics Directed Research I**<br>语言学指导研究 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Statistics for Linguistic Data**<br>语言数据统计学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Research Methods in Indigenous Studies**<br>原住民研究的研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Research Methods in Planning**<br>规划研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
-| **Introduction to Research Methods in Psychology**<br>心理学研究方法导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
+| **Introduction to Research Methods in Psychology**<br>心理学研究方法入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Social Research Methods**<br>社会研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Feminist Research and Methodologies**<br>女性主义研究与方法论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
-| **Introduction to Ethnographic Methods**<br>民族志方法导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
+| **Introduction to Ethnographic Methods**<br>民族志方法入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Visual Anthropology**<br>视觉人类学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Advanced Methods and Applications in Applied Economics**<br>应用经济学高级方法与应用 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Quantitative Methods in Economics**<br>经济学中的定量方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-11
 | **Geographical Information Systems for Planning**<br>规划用地理信息系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Third-Year Honors Seminar**<br>三年级荣誉研讨课 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Quantitative Political Analysis**<br>定量政治分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
-| **Introduction to Data Analysis in Psychology II**<br>心理学数据分析导论 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
+| **Introduction to Data Analysis in Psychology II**<br>心理学数据分析入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Applied Research in Developmental Psychology**<br>发展心理学应用研究 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Research Methods in Cognition**<br>认知研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Design and Analysis of Experiments in Psychology**<br>心理学实验设计与分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
@@ -52,7 +52,7 @@ ms.date: 2026-11-11
 | **Qualitative Methods in Social Research**<br>社会研究中的质性方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Data Analysis and Research**<br>数据分析与研究 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Statistical Methods in Health Research**<br>健康研究中的统计方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
-| **Introduction to Applied Statistics II**<br>应用统计学导论 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
+| **Introduction to Applied Statistics II**<br>应用统计学入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Applied Research Internship**<br>应用研究实习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Honors Essay: Fourth-Year Honors Economics**<br>荣誉论文：四年级荣誉经济学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |
 | **Independent Investigation in Human Ecology**<br>人类生态学独立调查 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110734&returnto=20844) |

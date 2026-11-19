@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diagnostic Imaging Technology**<br>诊断影像技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
-| **Introduction to Medical Anatomy and Physiology**<br>医学解剖与生理学导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
-| **Introduction to Pathology for Imaging Technologists**<br>影像技师病理学导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
+| **Introduction to Medical Anatomy and Physiology**<br>医学解剖与生理学入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
+| **Introduction to Pathology for Imaging Technologists**<br>影像技师病理学入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
 | **Diagnostic Imaging: Principles and Procedures**<br>诊断影像：原理与操作规程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
-| **Introduction to Patient Care Management for Imaging Technologists**<br>影像技师患者护理管理导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
+| **Introduction to Patient Care Management for Imaging Technologists**<br>影像技师患者护理管理入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
 | **Foundations of Professional Practice**<br>专业实践基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
 | **Communication for Imaging Technologists**<br>影像技师沟通 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |
 | **Cross-Sectional Anatomy**<br>断层解剖学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/diagnostic-imaging) |

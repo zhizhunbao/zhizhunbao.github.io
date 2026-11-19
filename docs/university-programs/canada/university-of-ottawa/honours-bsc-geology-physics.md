@@ -11,19 +11,19 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours BSc Geology-Physics**<br>地质学－物理学荣誉（BSc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Introduction to Organismal Biology**<br>生物体生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Introduction to Organismal Biology**<br>生物体生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Principles of Chemistry**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Introduction to Earth Materials**<br>地球物质导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Introduction to Computing I**<br>计算导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Introduction to Earth Materials**<br>地球物质入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Introduction to Computing I**<br>计算入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Fundamentals of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Fundamentals of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Field Studies I**<br>实地研究 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Introduction to Mineralogy**<br>矿物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Introduction to Mineralogy**<br>矿物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Sedimentology and Stratigraphy**<br>沉积学与地层学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Structural Geology and Tectonics**<br>构造地质与大地构造学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Calculus III for Engineers**<br>工程师微积分 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
@@ -34,9 +34,9 @@ ms.date: 2026-11-11
 | **Geochemistry**<br>地球化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Physics of the Earth**<br>地球物理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Honours Project**<br>荣誉项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Physical Chemistry: Introduction to the Molecular Properties of Matter**<br>物理化学：物质分子性质导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Physical Chemistry: Introduction to the Molecular Properties of Matter**<br>物理化学：物质分子性质入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Descriptive Inorganic Chemistry**<br>描述无机化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
-| **Introduction to Circuit Theory and Electronics**<br>电路理论与电子学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
+| **Introduction to Circuit Theory and Electronics**<br>电路理论与电子学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-geologyphysics/) |
 

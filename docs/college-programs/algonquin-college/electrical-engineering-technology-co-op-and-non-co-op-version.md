@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0318X03FWO.pdf) |
 | **Essential Mathematics**<br>基础数学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0318X03FWO.pdf) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0318X03FWO.pdf) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0318X03FWO.pdf) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0318X03FWO.pdf) |
 | **Electromagnetic Control**<br>电磁控制 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0318X03FWO.pdf) |
 | **Electrical Principles 2**<br>电气原理 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0318X03FWO.pdf) |
 | **Electrical Machinery**<br>电机学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0318X03FWO.pdf) |

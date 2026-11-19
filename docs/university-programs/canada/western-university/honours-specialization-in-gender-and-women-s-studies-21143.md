@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN GENDER AND WOMEN'S STUDIES (21143)**<br>性别与女性研究荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GENDER AND WOMEN'S STUDIES**<br>性别与女性研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BLACK STUDIES**<br>黑人研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SEXUALITY STUDIES**<br>性学研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GENDER AND WOMEN'S STUDIES**<br>性别与女性研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BLACK STUDIES**<br>黑人研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SEXUALITY STUDIES**<br>性学研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
 | **GENDER, JUSTICE, CHANGE**<br>性别、正义、变革 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EQUITY, DIVERSITY, AND HUMAN RIGHTS**<br>公平、多样性与人权导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EQUITY, DIVERSITY, AND HUMAN RIGHTS**<br>公平、多样性与人权入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS OF FEMINIST THOUGHT**<br>女性主义思想基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
 | **FEMINIST THEORY AND PRACTICE FOR CHANGE**<br>推动变革的女性主义理论与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |
 | **GENDER & FEMINIST METHODOLOGIES**<br>性别与女性主义方法论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21143&SelectedCalendar=Live&ArchiveID=) |

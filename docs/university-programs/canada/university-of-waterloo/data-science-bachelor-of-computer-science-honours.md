@@ -13,13 +13,13 @@ ms.date: 2026-11-11
 | **Data Science (Bachelor of Computer Science - Honours)**<br>数据科学（计算机科学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Tools and Techniques for Software Development**<br>软件开发工具与技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Algorithms**<br>算法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
-| **Introduction to Database Management**<br>数据库管理导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
+| **Introduction to Database Management**<br>数据库管理入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Data-Intensive Distributed Computing**<br>数据密集型分布式计算 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Mathematical Statistics**<br>数理统计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Applied Linear Models**<br>应用线性模型 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Computational Statistics and Data Analysis**<br>计算统计与数据分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
-| **Introduction to Computer Science 1**<br>计算机科学导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
+| **Introduction to Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Designing Functional Programs**<br>函数式程序设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Designing Functional Programs (Advanced Level)**<br>函数式程序设计（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Elementary Algorithm Design and Data Abstraction**<br>初级算法设计与数据抽象 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
@@ -34,12 +34,12 @@ ms.date: 2026-11-11
 | **Object-Oriented Software Development (Enriched)**<br>面向对象软件开发（强化） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Computer Organization and Design**<br>计算机组成与设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Computer Organization and Design (Enriched)**<br>计算机组成与设计（强化） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Database Systems Implementation**<br>数据库系统实现 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Distributed Systems**<br>分布式系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Computational Vision**<br>计算视觉 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Statistical and Computational Foundations of Machine Learning**<br>机器学习的统计与计算基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Calculus 1 for the Sciences**<br>理科微积分 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Calculus 1 for Honours Mathematics**<br>荣誉数学微积分 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Calculus 1 (Advanced Level)**<br>微积分 1（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
@@ -54,8 +54,8 @@ ms.date: 2026-11-11
 | **Linear Algebra 2 (Advanced Level)**<br>线性代数 2（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Calculus 3 for Honours Mathematics**<br>荣誉数学微积分 3 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Calculus 3 (Advanced Level)**<br>微积分 3（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
-| **Introduction to Combinatorics**<br>组合数学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
-| **Introduction to Combinatorics (Advanced Level)**<br>组合数学导论（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
+| **Introduction to Combinatorics**<br>组合数学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
+| **Introduction to Combinatorics (Advanced Level)**<br>组合数学入门（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Probability**<br>概率论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Probability (Advanced Level)**<br>概率论（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkgPyyC0o2) |

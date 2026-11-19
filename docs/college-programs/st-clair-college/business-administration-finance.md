@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Administration - Finance**<br>工商管理－金融 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Accounting Concepts I**<br>会计概念 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
-| **Introduction To Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
+| **Introduction To Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Mathematics Of Personal Finance**<br>个人理财数学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
-| **Introduction To Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
+| **Introduction To Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Accounting Concepts II**<br>会计概念 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Macro Economics**<br>宏观经济学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
-| **Introduction To Canadian Marketing**<br>加拿大市场营销导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
+| **Introduction To Canadian Marketing**<br>加拿大市场营销入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Statistical Concepts**<br>统计学概念 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Business Communications II**<br>商务沟通 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Multimedia Sales Presentations**<br>多媒体销售演示 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
-| **Introduction To Income Tax**<br>所得税导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
+| **Introduction To Income Tax**<br>所得税入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Investment Principles II**<br>投资原理 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |
 | **Investment Funds I**<br>投资基金 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-finance) |

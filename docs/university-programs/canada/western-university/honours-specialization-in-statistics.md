@@ -21,13 +21,13 @@ ms.date: 2026-11-11
 | **CALCULUS FOR ENGINEERS I**<br>工程师微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR ENGINEERS II**<br>工程师微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA WITH NUMERICAL ANALYSIS FOR ENGINEERING**<br>工程数值分析线性代数 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED MATHEMATICS FOR STATISTICAL APPLICATIONS**<br>统计应用高级数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **PROBABILITY AND STATISTICS I**<br>概率与统计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **PROBABILITY AND STATISTICS II**<br>概率与统计 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICAL PROGRAMMING**<br>统计编程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE PROBABILITY**<br>中级概率论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STUDY DESIGN**<br>研究设计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STUDY DESIGN**<br>研究设计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICAL STATISTICS**<br>数理统计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **REGRESSION**<br>回归 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |
 | **GENERALIZED LINEAR MODELS**<br>广义线性模型 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21055&SelectedCalendar=Live&ArchiveID=) |

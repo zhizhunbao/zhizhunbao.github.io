@@ -30,7 +30,7 @@ ms.date: 2026-11-11
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Complex Analysis**<br>复分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Proteomics in Systems Biology**<br>系统生物学中的蛋白质组学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Modelling in Biological and Chemical Systems**<br>生物与化学系统建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Regulatory Networks and Systems in Molecular Biology**<br>分子生物学中的调控网络与系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Biocomputation**<br>生物计算 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Patents in Biology and Medical Devices**<br>生物学与医疗器械专利 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Regenerative Engineering**<br>再生工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Drug Delivery at Biological Barriers and Interfaces**<br>生物屏障与界面的药物递送 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
-| **Introduction to Immunoengineering**<br>免疫工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
+| **Introduction to Immunoengineering**<br>免疫工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Biocomposites: Mechanics and Bioinspiration**<br>生物复合材料：力学与仿生 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Biotransport Phenomena**<br>生物传输现象 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Neural Bioelectricity**<br>神经生物电学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
@@ -50,7 +50,7 @@ ms.date: 2026-11-11
 | **Human-Computer Interaction**<br>人机交互 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Communication Systems**<br>通信系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Robot Modeling and Control**<br>机器人建模与控制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Medical Imaging**<br>医学影像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Signal Analysis and Communication**<br>信号分析与通信 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |
 | **Digital Signal Processing**<br>数字信号处理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbaset) |

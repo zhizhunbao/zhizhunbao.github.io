@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Organizational Studies I**<br>组织研究 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1307) |
 | **Information Systems**<br>信息系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1307) |
 | **Web Development and Design I**<br>网页开发与设计 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1307) |
-| **Introduction to Finance**<br>金融学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1307) |
+| **Introduction to Finance**<br>金融学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1307) |
 | **Organizational Studies II**<br>组织研究 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1307) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1307) |
 | **Media Economics II**<br>媒体经济学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1307) |

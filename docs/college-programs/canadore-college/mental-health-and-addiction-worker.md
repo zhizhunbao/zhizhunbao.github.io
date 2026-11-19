@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **College Communication**<br>学院交流 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addiction-worker) |
 | **Interviewing & Helping Skills I**<br>访谈与助人技能 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addiction-worker) |
 | **Mental Health Across the Lifespan**<br>全生命周期心理健康 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addiction-worker) |
-| **Introduction to Substance Use**<br>物质使用导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addiction-worker) |
+| **Introduction to Substance Use**<br>物质使用入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addiction-worker) |
 | **Lifespan Development**<br>毕生发展 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addiction-worker) |
 | **Foundations of Sociology**<br>社会学基础 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addiction-worker) |
 | **Workplace Communications**<br>职场沟通 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addiction-worker) |

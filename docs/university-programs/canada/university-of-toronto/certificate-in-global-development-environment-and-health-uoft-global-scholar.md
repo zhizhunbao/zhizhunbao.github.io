@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN GLOBAL DEVELOPMENT, ENVIRONMENT AND HEALTH (UofT Global Scholar)**<br>全球发展、环境与健康证书（多伦多大学全球学者） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
-| **Introduction to International Development Studies**<br>国际发展研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
+| **Introduction to International Development Studies**<br>国际发展研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **Equity, Ethics and Justice in International Development**<br>国际发展中的公平、伦理与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **Africa from the Colonial Conquests to Independence**<br>从殖民征服到独立的非洲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **Africa in the Postcolonial Era**<br>后殖民时代的非洲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
@@ -22,9 +22,9 @@ ms.date: 2026-11-11
 | **Modern Chinese History**<br>近代中国史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **Political Economy of International Development**<br>国际发展政治经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **Development and Environment**<br>发展与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
-| **Introduction to International/Global Health**<br>国际/全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
+| **Introduction to International/Global Health**<br>国际/全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **Comparative Development in International Perspective**<br>国际视角下的比较发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
-| **Introduction to Comparative Politics**<br>比较政治导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
+| **Introduction to Comparative Politics**<br>比较政治入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **Issues in Critical Migration Studies**<br>批判移民研究问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **Gender and Critical Development**<br>性别与批判发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |
 | **The Caribbean Diaspora**<br>加勒比离散群体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1010) |

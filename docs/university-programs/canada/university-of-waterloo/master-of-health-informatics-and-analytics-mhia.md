@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Public Health Informatics**<br>公共卫生信息学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/rJMTx1CAin) |
 | **Geographic Information Systems and Public Health**<br>地理信息系统与公共卫生 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/rJMTx1CAin) |
 | **Global Health**<br>全球健康 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/rJMTx1CAin) |
-| **Introduction to Statistical Methods in Health Informatics**<br>健康信息学统计方法导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/rJMTx1CAin) |
+| **Introduction to Statistical Methods in Health Informatics**<br>健康信息学统计方法入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/rJMTx1CAin) |
 | **Quantitative Methods**<br>定量方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/rJMTx1CAin) |
 | **Security and Privacy for Health System)**<br>卫生系统的安全与隐私） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/rJMTx1CAin) |
 | **Principles of Database Management and Use**<br>数据库管理与使用原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/rJMTx1CAin) |

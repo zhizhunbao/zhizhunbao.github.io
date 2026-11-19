@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Interactive Design - Graphic Design Major**<br>交互设计－平面设计专业 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
-| **Introduction to Web Communications**<br>网络传播导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
-| **Introduction to Visual Design**<br>视觉设计导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
+| **Introduction to Web Communications**<br>网络传播入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
+| **Introduction to Visual Design**<br>视觉设计入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
 | **Digital Media Foundations**<br>数字媒体基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
 | **Intermediate Web Communications**<br>中级网络传播 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
 | **Intermediate Visual Design**<br>中级视觉设计 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
-| **Introduction to User Experience (UX)**<br>用户体验（UX）导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
+| **Introduction to User Experience (UX)**<br>用户体验（UX）入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
 | **Intermediate Digital Media Production**<br>中级数字媒体制作 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
 | **Product Management**<br>产品管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |
 | **Cooperative Work Term**<br>带薪实习学期 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-graphic-design) |

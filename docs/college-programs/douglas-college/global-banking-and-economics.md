@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Intermediate Macroeconomics**<br>中级宏观经济学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdgbe) |
 | **Fundamentals of International Trade Law**<br>国际贸易法基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdgbe) |
 | **International Trade Issues**<br>国际贸易问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdgbe) |
-| **Introduction to Financial Economics**<br>金融经济学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdgbe) |
+| **Introduction to Financial Economics**<br>金融经济学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdgbe) |
 | **Corporate Finance\*\***<br>公司理财\*\* | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdgbe) |
 | **International Economics and Finance**<br>国际经济与金融 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdgbe) |
 | **International Financial Management**<br>国际财务管理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdgbe) |

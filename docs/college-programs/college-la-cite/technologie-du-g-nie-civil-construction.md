@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Technologie du génie civil – construction**<br>土木工程技术师级：施工 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61294) |
 | **Dessin assisté par ordinateur**<br>计算机辅助绘图 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61294) |
 | **Technologie de la construction résidentielle**<br>住宅建筑技术 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61294) |
-| **Introduction à la topométrie**<br>地形测量导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61294) |
+| **Introduction à la topométrie**<br>地形测量入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61294) |
 | **Analyse des structures**<br>结构分析 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61294) |
 | **Trigonométrie et algèbre**<br>三角学与代数 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61294) |
 | **Technologie des granulats**<br>骨料技术 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61294) |

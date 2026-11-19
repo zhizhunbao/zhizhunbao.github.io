@@ -1,10 +1,10 @@
 ---
-title: "3.1.27 History of Art and Architecture (B.A.)"
+title: "4.1.27 History of Art and Architecture (B.A.)"
 description: "University Programs > United States > Harvard University > History of Art and Architecture (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.27 History of Art and Architecture (B.A.)
+# 4.1.27 History of Art and Architecture (B.A.)
 
 ## Glossary
 
@@ -20,10 +20,10 @@ ms.date: 2026-11-18
 | **Spanish Golden Age Painting**<br>西班牙黄金时代绘画 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Michelangelo: Terrible Genius**<br>米开朗基罗：可怕的天才 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Landmarks of World Architecture**<br>世界建筑里程碑 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Italian Renaissance Art**<br>意大利文艺复兴艺术导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Japanese Architecture**<br>日本建筑导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Italian Renaissance Art**<br>意大利文艺复兴艺术入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Japanese Architecture**<br>日本建筑入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Money Matters**<br>金钱的意义 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Intro to Buddhist Arts of Space and Place**<br>空间与场所的佛教艺术导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Intro to Buddhist Arts of Space and Place**<br>空间与场所的佛教艺术入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 
 ## Courses
 

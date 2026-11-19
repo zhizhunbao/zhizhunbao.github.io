@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Sciences in Dentistry for Dental Assistants II**<br>牙科助理口腔科学 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/dental-assisting/) |
 | **Dental Materials and Lab II**<br>牙科材料与实验 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/dental-assisting/) |
 | **Clinical Placement - Dental Assisting**<br>临床实习 - 牙科助理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/dental-assisting/) |
-| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/dental-assisting/) |
+| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/dental-assisting/) |
 | **Field Placement - Dental Assisting**<br>实习 - 牙科助理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/dental-assisting/) |
 
 ## Courses

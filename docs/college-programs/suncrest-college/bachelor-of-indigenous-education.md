@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Critical Reading and Writing I**<br>批判性阅读与写作 I | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/indigenous-education-bachelor-degree) |
 | **Indigenous Educational Professional Studies**<br>原住民教育专业研究 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/indigenous-education-bachelor-degree) |
 | **Introductory Finite Mathematics I**<br>有限数学入门 I | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/indigenous-education-bachelor-degree) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/indigenous-education-bachelor-degree) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/indigenous-education-bachelor-degree) |
 | **Elementary Cree I**<br>初级克里语 I | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/indigenous-education-bachelor-degree) |
 | **Introduction to Arts Education**<br>艺术教育入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/indigenous-education-bachelor-degree) |
 | **Language and Literacy Development**<br>语言与读写能力发展 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/indigenous-education-bachelor-degree) |

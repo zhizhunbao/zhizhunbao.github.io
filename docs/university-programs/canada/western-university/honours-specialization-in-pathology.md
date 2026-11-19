@@ -22,10 +22,10 @@ ms.date: 2026-11-11
 | **CALCULUS II FOR MATHEMATICAL AND PHYSICAL SCIENCES**<br>数学与物理科学微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SCIENCE FUNDAMENTALS I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **BIOCHEMISTRY AND MOLECULAR BIOLOGY**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **CELL BIOLOGY**<br>细胞生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **SCIENTIFIC METHOD IN BIOLOGY**<br>生物学中的科学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
@@ -36,16 +36,16 @@ ms.date: 2026-11-11
 | **MAMMALIAN HISTOLOGY**<br>哺乳动物组织学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **SYSTEMIC ANATOMY OF THE HUMAN BODY**<br>人体系统解剖学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY ANALYTICAL CHEMISTRY**<br>分析化学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EPIDEMIOLOGY**<br>流行病学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EPIDEMIOLOGY**<br>流行病学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY OF INFECTION AND IMMUNITY**<br>感染与免疫生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN PHYSIOLOGY**<br>人体生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN PATHOLOGY**<br>人体病理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN PATHOLOGY**<br>人体病理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **SAMPLE TO SCREEN: FUNDAMENTALS OF HISTOPATHOLOGY**<br>从样本到屏幕：组织病理学基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **FUNCTIONAL HUMAN NEUROANATOMY**<br>人体功能神经解剖学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **CADAVERIC ANATOMY: MUSCULOSKELETAL**<br>尸体解剖学：肌肉骨骼 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **CADAVERIC ANATOMY: ORGANS & SYSTEMS**<br>尸体解剖学：器官与系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED CELL BIOLOGY**<br>高级细胞生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MEDICAL BIOINFORMATICS**<br>医学生物信息学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MEDICAL BIOINFORMATICS**<br>医学生物信息学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **IMMUNOLOGY**<br>免疫学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN PHARMACOLOGY AND THERAPEUTIC PRINCIPLES**<br>人体药理学与治疗原则 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |
 | **CELLULAR PHYSIOLOGY**<br>细胞生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21199&SelectedCalendar=Live&ArchiveID=) |

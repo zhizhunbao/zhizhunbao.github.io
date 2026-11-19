@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HOBMF-DP/PrinterFriendly#ADMN-2058) |
 | **Communication for the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HOBMF-DP/PrinterFriendly#COMM-2172) |
 | **Marketing Foundations**<br>营销基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HOBMF-DP/PrinterFriendly#MRKT-1017) |
-| **Introduction to Tourism**<br>旅游业导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HOBMF-DP/PrinterFriendly#TOUR-1025) |
+| **Introduction to Tourism**<br>旅游业入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HOBMF-DP/PrinterFriendly#TOUR-1025) |
 | **Co-Op 1**<br>带薪实习 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HOBMF-DP/PrinterFriendly#COOP-2004) |
 | **Profitability Management**<br>盈利管理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HOBMF-DP/PrinterFriendly#ACCT-2010) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HOBMF-DP/PrinterFriendly#ADMN-2053) |

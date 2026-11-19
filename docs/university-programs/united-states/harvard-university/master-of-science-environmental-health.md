@@ -1,17 +1,17 @@
 ---
-title: "3.1.84 Master of Science – Environmental Health"
+title: "4.1.84 Master of Science – Environmental Health"
 description: "University Programs > United States > Harvard University > Master of Science – Environmental Health: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.84 Master of Science – Environmental Health
+# 4.1.84 Master of Science – Environmental Health
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Science – Environmental Health**<br>环境健康（理学硕士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-environmental-health/) |
-| **Introduction to Epidemiology: Methods I (and required lab)**<br>流行病学导论：方法 I（含必修实验课） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-environmental-health/) |
+| **Introduction to Epidemiology: Methods I (and required lab)**<br>流行病学入门：方法 I（含必修实验课） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-environmental-health/) |
 | **Epidemiologic Methods 2: Elements of Epidemiologic Research (and required lab)**<br>流行病学方法 2：流行病学研究要素（含必修实验课） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-environmental-health/) |
 | **Human Physiology**<br>人体生理学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-environmental-health/) |
 | **Foundations of Environmental Health**<br>环境健康基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-environmental-health/) |

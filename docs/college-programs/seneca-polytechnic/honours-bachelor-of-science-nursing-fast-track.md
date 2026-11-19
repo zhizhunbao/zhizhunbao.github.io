@@ -15,12 +15,12 @@ ms.date: 2026-11-08
 | **Foundations of Professional Nursing Practice**<br>专业护理实践基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **Professional Relationships**<br>专业关系 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **Anatomy and Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **Medication Calculations or Medication Calculations**<br>药物计算或药物计算 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **Fundamental Nursing Skills**<br>基础护理技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **Health Promotion and Wellness**<br>健康促进与养生 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **Complex Nursing Skills**<br>复杂护理技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |
 | **The Aging Population**<br>老龄化人口 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNF/courses.html) |

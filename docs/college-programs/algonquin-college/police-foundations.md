@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Police Foundations**<br>警察基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/ppsi/program/police-foundations/) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
 | **Canadian Criminal Justice System**<br>加拿大刑事司法系统 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
 | **Political Science/Public Administration**<br>政治学/公共管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
 | **Fitness and Nutrition**<br>健身与营养 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
 | **Interpersonal and Group Dynamics**<br>人际与团体动力学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
 | **Provincial Offences**<br>省级违法行为 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |
 | **Police Powers, Ethics and Professionalism**<br>警察权力、伦理与职业素养 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0444X01FWO.pdf) |

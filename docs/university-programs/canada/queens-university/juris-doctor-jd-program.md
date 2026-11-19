@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Juris Doctor (JD) Program**<br>法学博士（JD）项目 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/law/degree-programs/jd/) |
 | **Indigenous Peoples, Law, and Reconciliation**<br>原住民、法律与和解 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/law/degree-programs/jd/) |
-| **Introduction to Legal Skills**<br>法律技能导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/law/degree-programs/jd/) |
+| **Introduction to Legal Skills**<br>法律技能入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/law/degree-programs/jd/) |
 | **Public Law**<br>公法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/law/degree-programs/jd/) |
 | **Constitutional Law**<br>宪法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/law/degree-programs/jd/) |
 | **Contracts**<br>合同法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/law/degree-programs/jd/) |

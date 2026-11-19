@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Educational Psychology (Non-Thesis) (M.Ed.): Learning Sciences**<br>教育心理学（非论文型）（M.Ed.）：学习科学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-learning-sciences/) |
-| **Introduction to Learning Sciences**<br>学习科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-learning-sciences/) |
+| **Introduction to Learning Sciences**<br>学习科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-learning-sciences/) |
 | **Theories of Learning and Instruction.**<br>学习与教学理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-learning-sciences/) |
 | **Motivation and Instruction.**<br>动机与教学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-learning-sciences/) |
 | **Emerging Technologies for Educational Change.**<br>教育变革的新兴技术 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-learning-sciences/) |

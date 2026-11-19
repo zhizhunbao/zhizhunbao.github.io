@@ -18,12 +18,12 @@ ms.date: 2026-11-08
 | **Database Fundamentals**<br>数据库基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **UI/UX for Developers**<br>开发人员 UI/UX | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **Data Science and Data Visualization**<br>数据科学与数据可视化 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
-| **Introduction to AI and Ethics**<br>人工智能与伦理导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
+| **Introduction to AI and Ethics**<br>人工智能与伦理入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **Math for Machine Learning**<br>机器学习数学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **Python for Data Applications**<br>数据应用 Python | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **Systems Thinking in AI**<br>人工智能中的系统思维 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **Entrepreneurship and Innovation in AI**<br>人工智能领域创业与创新 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
-| **Introduction to Machine Learning Workflows**<br>机器学习工作流导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
+| **Introduction to Machine Learning Workflows**<br>机器学习工作流入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **AI Model Integration**<br>人工智能模型集成 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **Industry Verticals in AI**<br>人工智能行业垂直领域 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |
 | **Evaluation and Testing of AI Systems**<br>人工智能系统评估与测试 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/applied-ai) |

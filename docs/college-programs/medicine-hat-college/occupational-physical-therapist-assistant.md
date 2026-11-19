@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **or 2XX**<br>或 2XX | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/occupational-therapist-assistant) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/occupational-therapist-assistant) |
 | **(PSYC 201 recommended)**<br>（建议修读PSYC 201） | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/occupational-therapist-assistant) |
-| **Introduction to Health Care and Rehabilitation**<br>医疗保健与康复导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/occupational-therapist-assistant) |
+| **Introduction to Health Care and Rehabilitation**<br>医疗保健与康复入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/occupational-therapist-assistant) |
 | **Functional Anatomy**<br>功能解剖学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/occupational-therapist-assistant) |
 | **Junior SOCI**<br>低年级SOCI | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/occupational-therapist-assistant) |
 | **Rehabilitation Process**<br>康复过程 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/occupational-therapist-assistant) |

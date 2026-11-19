@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Social Service Worker (C135)**<br>社会服务工作者 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-accelerated-c135) |
 | **Fundamentals in Social Work**<br>社会工作基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-accelerated-c135) |
-| **Introduction to Counselling Skills in Social Service Work**<br>社会服务工作咨询技能导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-accelerated-c135) |
+| **Introduction to Counselling Skills in Social Service Work**<br>社会服务工作咨询技能入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-accelerated-c135) |
 | **Understanding & Working with Groups**<br>理解并开展团体工作 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-accelerated-c135) |
 | **The Sociology of Power, Privilege & Identity**<br>权力、特权与身份的社会学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-accelerated-c135) |
 | **Substance Use and Addiction**<br>物质使用与成瘾 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-accelerated-c135) |

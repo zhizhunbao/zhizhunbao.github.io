@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Recreation and Leisure Services**<br>康乐与休闲服务 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/programs/rld2-recreation-and-leisure-services) |
 | **Reason & Writing 1 for Community Studies**<br>社区研究推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4168/courses-next/) |
 | **Computer Applications in Recreation**<br>休闲娱乐计算机应用 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4168/courses-next/) |
-| **Recreation Industry-Intro**<br>康乐行业 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4168/courses-next/) |
+| **Recreation Industry-Intro**<br>康乐行业 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4168/courses-next/) |
 | **Field Orientation 1**<br>实地入门 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4168/courses-next/) |
 | **Org & Admin of Quality Physical Rec**<br>体育休闲活动质量的组织与管理 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4168/courses-next/) |
 | **Psychology-Recreation & Leisure Services**<br>心理学 - 康乐与休闲服务 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4168/courses-next/) |

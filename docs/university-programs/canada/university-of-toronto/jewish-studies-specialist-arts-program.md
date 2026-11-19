@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Jewish Studies Specialist (Arts Program)**<br>犹太研究专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0385) |
-| **Introduction to Jewish Thought**<br>犹太思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0385) |
-| **Introduction to Jewish Cultures**<br>犹太文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0385) |
+| **Introduction to Jewish Thought**<br>犹太思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0385) |
+| **Introduction to Jewish Cultures**<br>犹太文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0385) |
 | **Elementary Modern Hebrew I**<br>初级现代希伯来语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0385) |
 | **Elementary Modern Hebrew II**<br>初级现代希伯来语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0385) |
 | **Intermediate Modern Hebrew I**<br>中级现代希伯来语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0385) |

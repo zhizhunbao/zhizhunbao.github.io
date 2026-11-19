@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Medical Laboratory Practices**<br>医学实验室操作 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 | **Transfusion Medicine I**<br>输血医学 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 | **Histology I**<br>组织学 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
-| **Introduction to Laboratory Quality**<br>实验室质量导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
+| **Introduction to Laboratory Quality**<br>实验室质量入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 | **Interprofessional Practice**<br>跨专业实践 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 | **Clinical Microbiology II**<br>临床微生物学 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 | **Molecular Diagnostics**<br>分子诊断 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-08
 | **Hematology Practicum**<br>血液学实习 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 | **Histology Practicum**<br>组织学实习 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 | **Integrated Medical Laboratory Technology Studies**<br>医学检验技术综合学习 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/medical-laboratory-technology) |
 
 ## Courses

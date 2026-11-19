@@ -25,17 +25,17 @@ ms.date: 2026-11-08
 | **Police Powers I**<br>警察权力 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Community Policing I**<br>社区警务 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Student Selected General Education**<br>学生自选通识课 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
-| **Introduction to Canadian Immigration**<br>加拿大移民导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
+| **Introduction to Canadian Immigration**<br>加拿大移民入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Use of Force**<br>武力使用 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
-| **Introduction to Customs Law**<br>海关法导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
-| **Introduction to Private Security and Loss Prevention**<br>私人保安与损失预防导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
+| **Introduction to Customs Law**<br>海关法入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
+| **Introduction to Private Security and Loss Prevention**<br>私人保安与损失预防入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Interviewing and Investigation**<br>访谈与调查 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Provincial Offences**<br>省级违法行为 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Investigation and Evidence**<br>调查与证据 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
-| **Introduction to Corrections**<br>矫正学导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
+| **Introduction to Corrections**<br>矫正学入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Crisis Intervention in Criminal Justice**<br>刑事司法中的危机干预 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Security Hardware**<br>安防硬件 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
-| **Introduction to Fire Science**<br>消防科学导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
+| **Introduction to Fire Science**<br>消防科学入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Customs Procedures**<br>海关程序 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Principles of Ethical Reasoning**<br>伦理推理原则 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/justice-studies/protection-security-and-investigation) |

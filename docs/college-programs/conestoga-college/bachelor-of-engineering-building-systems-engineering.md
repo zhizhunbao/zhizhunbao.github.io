@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Chemistry**<br>化学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Project 1a**<br>项目 1a | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
-| **Introduction to Sustainable Engineering Design**<br>可持续工程设计导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
+| **Introduction to Sustainable Engineering Design**<br>可持续工程设计入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Foundation Module**<br>基础模块 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Mathematics for Engineering I**<br>工程数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Physics for Engineering I**<br>工程物理 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
-| **Introduction to Natural Sciences**<br>自然科学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
+| **Introduction to Natural Sciences**<br>自然科学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Group Dynamics**<br>团体动力学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Electrical and Electronic Foundations**<br>电气与电子基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Project 1b**<br>项目 1b | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-08
 | **Advanced Manufacturing Processes**<br>高级制造工艺 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Composite Materials**<br>复合材料 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
-| **Introduction to Welding**<br>焊接导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
+| **Introduction to Welding**<br>焊接入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Control Systems**<br>控制系统 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Sensors and Instrumentation**<br>传感器与仪表 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |
 | **Project 3B - Building Control Systems**<br>项目 3B - 建筑控制系统 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-engineering-building-systems-engineering/courses?id=36367) |

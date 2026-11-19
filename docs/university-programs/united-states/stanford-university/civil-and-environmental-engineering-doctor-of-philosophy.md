@@ -1,10 +1,10 @@
 ---
-title: "3.3.159 Civil and Environmental Engineering, Doctor of Philosophy"
+title: "4.3.159 Civil and Environmental Engineering, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Civil and Environmental Engineering, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.159 Civil and Environmental Engineering, Doctor of Philosophy
+# 4.3.159 Civil and Environmental Engineering, Doctor of Philosophy
 
 ## Glossary
 
@@ -13,7 +13,7 @@ ms.date: 2026-11-18
 | **Civil and Environmental Engineering, Doctor of Philosophy**<br>土木与环境工程，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/doctor-of-philosophy) |
 | **Seminar on Teaching for TAs**<br>助教教学研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/doctor-of-philosophy) |
 | **Teaching of Civil and Environmental Engineering**<br>土木与环境工程教学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/doctor-of-philosophy) |
-| **Introduction to PHD Studies in Civil and Environmental Engineering**<br>土木与环境工程博士学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/doctor-of-philosophy) |
+| **Introduction to PHD Studies in Civil and Environmental Engineering**<br>土木与环境工程博士学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/doctor-of-philosophy) |
 | **TGR Dissertation (PhD degree)**<br>TGR 学位论文（博士学位） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/doctor-of-philosophy) |
 
 ## Courses

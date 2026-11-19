@@ -17,14 +17,14 @@ ms.date: 2026-11-08
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 | **Marketing I**<br>市场营销 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
-| **Introduction to Business Management**<br>企业管理导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
+| **Introduction to Business Management**<br>企业管理入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 | **Accounting Basics II**<br>会计基础 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 | **Communications for Business**<br>商务沟通 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 | **Finance and Accounting Mathematics**<br>金融与会计数学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 | **Marketing II**<br>市场营销 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
-| **Introduction to Business Management and Organizational Behaviour**<br>企业管理与组织行为导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
+| **Introduction to Business Management and Organizational Behaviour**<br>企业管理与组织行为入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/business-fundamentals/) |
 
 ## Courses
 

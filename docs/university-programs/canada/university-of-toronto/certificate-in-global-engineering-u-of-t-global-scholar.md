@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Geographies of Globalization, Development and Inequality**<br>全球化、发展与不平等地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerglob) |
 | **Globalization and Urban Change**<br>全球化与城市变迁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerglob) |
 | **Politics of Development**<br>发展政治学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerglob) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerglob) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerglob) |
 | **Canada and Globalization**<br>加拿大与全球化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerglob) |
 
 ## Courses

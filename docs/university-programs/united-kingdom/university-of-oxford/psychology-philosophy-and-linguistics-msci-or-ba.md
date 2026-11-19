@@ -1,0 +1,50 @@
+---
+title: "3.2.45 Psychology, Philosophy and Linguistics (MSci or BA)"
+description: "University Programs > United Kingdom > University of Oxford > Psychology, Philosophy and Linguistics (MSci or BA): the courses of the program as the college lists them; definitions pending."
+ms.date: 2026-11-18
+---
+
+# 3.2.45 Psychology, Philosophy and Linguistics (MSci or BA)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Psychology, Philosophy and Linguistics (MSci or BA)**<br>心理学、哲学与语言学（科学硕士或文学学士） | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Psychology**<br>心理学 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Philosophy**<br>哲学 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Linguistics**<br>语言学 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Neurophysiology**<br>神经生理学 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Probability theory and statistics**<br>概率论与统计学 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **After the third term, students can continue to follow a bipartite degree (Psychology and Philosophy, Psychology and Linguistics, or Philosophy and Linguistics) or, subject to their college’s approval, a tripartite degree (Psychology, Philosophy and Linguistics).**<br>第三学期后，学生可继续修读两科组合学位（心理学与哲学、心理学与语言学，或哲学与语言学），或经学院批准修读三科组合学位（心理学、哲学与语言学）。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Students choosing Psychology will study a choice of core subjects in Terms 4–6, plus a course in Experimental design and methods, and associated practical classes and data science training. These will be followed by one or two advanced Psychology options and a practical training portfolio in Terms 7–9. They will also engage in transferrable skills training.**<br>选择心理学的学生在第4至6学期学习所选核心科目，另加实验设计与方法课程以及相关实践课和数据科学培训。之后在第7至9学期修读一或两门高级心理学选修课及实践训练档案。他们还将参加可迁移技能培训。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Students choosing Philosophy take up to five courses in Philosophy from a wide range including Philosophy of mind and Philosophy of cognitive science.**<br>选择哲学的学生最多修读五门哲学课程，范围广泛，包括心灵哲学和认知科学哲学。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Students choosing Linguistics take from three to five courses in Linguistics.**<br>选择语言学的学生修读三至五门语言学课程。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Students opting for a bipartite degree may take a single paper in the third subject. Students who are exceptionally permitted to take the tripartite degree must take at least two courses in each of the three subjects of Psychology, Philosophy and Linguistics.**<br>选择两科组合学位的学生可在第三个科目中修读一份试卷。获特别许可修读三科组合学位的学生，须在心理学、哲学和语言学三个科目中各至少修读两门课程。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Available options will reflect the department’s current research which means they may change each year. The options available include the core subjects listed in this section.**<br>可选修课将反映系里当前的研究，因此每年可能变化。可选修课包括本节所列的核心科目。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Please be aware that Year 4 is only available for Psychology.**<br>请注意，第四年仅适用于心理学。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **In terms 10 and 11, students receive skills based training relevant to their extended project.**<br>在第10和第11学期，学生接受与其扩展项目相关的技能培训。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+| **Over terms 10–12, students work on their extended project in Psychology and on advanced research evaluation by writing an independent current opinion review.**<br>在第10至12学期，学生开展心理学扩展项目，并通过撰写独立的当前观点综述进行高级研究评估。 | (Definition pending) | （定义待补） | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Table 1 > Introductory courses are taken for three of the five subjects below |  | Psychology |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 1 > Introductory courses are taken for three of the five subjects below |  | Philosophy |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 1 > Introductory courses are taken for three of the five subjects below |  | Linguistics |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 1 > Introductory courses are taken for three of the five subjects below |  | Neurophysiology |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 1 > Introductory courses are taken for three of the five subjects below |  | Probability theory and statistics |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 2 |  | After the third term, students can continue to follow a bipartite degree (Psychology and Philosophy, Psychology and Linguistics, or Philosophy and Linguistics) or, subject to their college’s approval, a tripartite degree (Psychology, Philosophy and Linguistics). |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 2 |  | Students choosing Psychology will study a choice of core subjects in Terms 4–6, plus a course in Experimental design and methods, and associated practical classes and data science training. These will be followed by one or two advanced Psychology options and a practical training portfolio in Terms 7–9. They will also engage in transferrable skills training. |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 2 |  | Students choosing Philosophy take up to five courses in Philosophy from a wide range including Philosophy of mind and Philosophy of cognitive science. |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 2 |  | Students choosing Linguistics take from three to five courses in Linguistics. |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 2 |  | Students opting for a bipartite degree may take a single paper in the third subject. Students who are exceptionally permitted to take the tripartite degree must take at least two courses in each of the three subjects of Psychology, Philosophy and Linguistics. |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 2 |  | Available options will reflect the department’s current research which means they may change each year. The options available include the core subjects listed in this section. |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 3 |  | Please be aware that Year 4 is only available for Psychology. |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 3 |  | In terms 10 and 11, students receive skills based training relevant to their extended project. |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+|  | Table 3 |  | Over terms 10–12, students work on their extended project in Psychology and on advanced research evaluation by writing an independent current opinion review. |  | [University of Oxford, n.d.](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics) |
+
+## References
+
+University of Oxford. (n.d.). *Psychology, Philosophy and Linguistics (MSci or BA)*. Retrieved November 18, 2026, from <https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics>

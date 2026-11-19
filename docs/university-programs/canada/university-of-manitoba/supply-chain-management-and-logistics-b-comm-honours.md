@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Supply Chain Management and Logistics, B. Comm., Honours**<br>供应链管理与物流，B.Comm.，荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/logistics-supply-chain-management-bcomm-honours/) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/logistics-supply-chain-management-bcomm-honours/) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/logistics-supply-chain-management-bcomm-honours/) |
 | **Transportation Principles**<br>交通原理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/logistics-supply-chain-management-bcomm-honours/) |
 | **Supply Chain Analytics**<br>供应链分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/logistics-supply-chain-management-bcomm-honours/) |
 | **Supply Chain Sustainability**<br>供应链可持续性 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/logistics-supply-chain-management-bcomm-honours/) |

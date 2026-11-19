@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Cyber Security & Computer Forensics**<br>网络安全与计算机取证 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
 | **Principles of Information Security**<br>信息安全原理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
 | **Security Policies**<br>安全策略 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
-| **Introduction to Canadian Culture**<br>加拿大文化导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
+| **Introduction to Canadian Culture**<br>加拿大文化入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
 | **Legal & Ethical Issues in IT Security**<br>IT安全中的法律与伦理问题 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
-| **Introduction to Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
+| **Introduction to Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
 | **Wireless & Mobile Device Security**<br>无线与移动设备安全 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
 | **Ethical Hacking & Network Defense**<br>道德黑客与网络防御 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |
 | **Hacker Techniques, Tools & Incident Handling**<br>黑客技术、工具与事件处理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csfm) |

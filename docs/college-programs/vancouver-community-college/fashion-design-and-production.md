@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Sewing Techniques 2**<br>缝纫技术 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/design/fashion-design-and-production-diploma/) |
 | **Tech Fashion Illustration 2**<br>技术服装插画 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/design/fashion-design-and-production-diploma/) |
 | **Fashion Cycle 5**<br>时装周期 5 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/design/fashion-design-and-production-diploma/) |
-| **Introduction to Pattern Grading**<br>放码导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/design/fashion-design-and-production-diploma/) |
+| **Introduction to Pattern Grading**<br>放码入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/design/fashion-design-and-production-diploma/) |
 | **Fashion History**<br>时装史 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/design/fashion-design-and-production-diploma/) |
 | **Fashion Exploration**<br>时装探索 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/design/fashion-design-and-production-diploma/) |
 | **Textile Surface Design**<br>纺织品表面设计 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/design/fashion-design-and-production-diploma/) |

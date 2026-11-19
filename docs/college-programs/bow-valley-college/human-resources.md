@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Human Resources**<br>人力资源 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/human-resources) |
 | **Change Management**<br>变革管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/human-resources) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/human-resources) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/human-resources) |
 | **Employment Law**<br>劳动法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/human-resources) |
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/human-resources) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/human-resources) |

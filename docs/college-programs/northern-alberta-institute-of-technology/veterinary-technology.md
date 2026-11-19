@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Veterinary Technology**<br>兽医技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
-| **Introduction to Veterinary Communication Practices**<br>兽医沟通实务导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
+| **Introduction to Veterinary Communication Practices**<br>兽医沟通实务入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
 | **Veterinary Patient Care Foundations**<br>兽医患畜护理基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
 | **Animal Behavior**<br>动物行为学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
 | **Anatomic Pathophysiology: Support and Movement**<br>解剖病理生理学：支持与运动 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
 | **Clinical Pathology & Laboratory Procedures I**<br>临床病理学与实验室程序 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
-| **Introduction to Veterinary Anesthesia**<br>兽医麻醉导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
+| **Introduction to Veterinary Anesthesia**<br>兽医麻醉入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
 | **Medical and Surgical Nursing**<br>内外科护理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
-| **Introduction to Veterinary Dentistry**<br>兽医牙科导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
+| **Introduction to Veterinary Dentistry**<br>兽医牙科入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
 | **Anatomic Pathophysiology: Function and Continuity**<br>解剖病理生理学：功能与延续 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
 | **Clinical Pathology & Laboratory Procedures II**<br>临床病理学与实验室程序 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |
 | **Clinical Placement I**<br>临床实习 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/veterinary-technology) |

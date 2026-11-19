@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **FILM THEORY**<br>电影理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20917&SelectedCalendar=Live&ArchiveID=) |
 | **POST WORLD WAR II POPULAR MUSIC**<br>第二次世界大战（WWII）后的流行音乐 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20917&SelectedCalendar=Live&ArchiveID=) |
 | **MUSICAL THEATRE**<br>音乐剧 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20917&SelectedCalendar=Live&ArchiveID=) |
-| **SHORT FLICKS: AN INTRODUCTION TO SCREENWRITING**<br>短片：编剧导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20917&SelectedCalendar=Live&ArchiveID=) |
+| **SHORT FLICKS: AN INTRODUCTION TO SCREENWRITING**<br>短片：编剧入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20917&SelectedCalendar=Live&ArchiveID=) |
 | **TV OR NOT TV: WRITING FOR THE TELEVISION INDUSTRY**<br>电视，还是不电视（TV OR NOT TV）：电视行业写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20917&SelectedCalendar=Live&ArchiveID=) |
 | **FROM COMMEDIA DELL'ARTE TO MODERN THEATRE**<br>从即兴喜剧到现代戏剧 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20917&SelectedCalendar=Live&ArchiveID=) |
 

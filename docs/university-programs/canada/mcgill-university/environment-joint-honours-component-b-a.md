@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Environmental Research.**<br>环境研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/environment-joint-honours-component-ba/) |
 | **Statistics and Spatial Analysis.**<br>统计与空间分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/environment-joint-honours-component-ba/) |
 | **Principles of Statistics 1.**<br>统计学原理 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/environment-joint-honours-component-ba/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/environment-joint-honours-component-ba/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/environment-joint-honours-component-ba/) |
 | **Joint Honours Research.**<br>联合荣誉研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/environment-joint-honours-component-ba/) |
 | **Honours Research.**<br>荣誉研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/environment-joint-honours-component-ba/) |
 

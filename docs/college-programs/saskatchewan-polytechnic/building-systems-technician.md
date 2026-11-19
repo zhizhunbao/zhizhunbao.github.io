@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Building Systems Technician**<br>建筑系统技术员 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Building-Systems-Technician.aspx) |
 | **Building Applications 1**<br>建筑应用 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Building-Systems-Technician.aspx) |
 | **Legislation Codes**<br>法规与规范 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Building-Systems-Technician.aspx) |
-| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Building-Systems-Technician.aspx) |
+| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Building-Systems-Technician.aspx) |
 | **Power Lab 1**<br>动力实验 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Building-Systems-Technician.aspx) |
 | **Heating Systems**<br>供暖系统 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Building-Systems-Technician.aspx) |
 | **Building Systems Maintenance**<br>建筑系统维护 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Building-Systems-Technician.aspx) |

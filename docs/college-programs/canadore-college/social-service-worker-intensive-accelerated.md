@@ -14,13 +14,13 @@ ms.date: 2026-11-08
 | **Social Service Worker Interviewing I**<br>社会服务工作者访谈 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **Social Service Work with Families**<br>家庭社会服务工作 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **Group Work for Human Services**<br>人类服务团体工作 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
-| **Introduction to Social Service Work Practice I**<br>社会服务工作实践导论 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
+| **Introduction to Social Service Work Practice I**<br>社会服务工作实践入门 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **Mental Health and Addictions**<br>精神健康与成瘾 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **SSW Methods: Intimate Personal Violence**<br>社会服务工作方法：亲密伴侣暴力 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
-| **Introduction to Gerontology**<br>老年学导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
+| **Introduction to Gerontology**<br>老年学入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **Social Service Worker Interviewing II**<br>社会服务工作者访谈 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **SSW Methods: Community Organization**<br>社会服务工作方法：社区组织 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
-| **Introduction to Social Service Work Practice II**<br>社会服务工作实践导论 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
+| **Introduction to Social Service Work Practice II**<br>社会服务工作实践入门 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **SSW Methods of Intervention**<br>社会服务工作干预方法 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **Trauma Informed Practice and Crisis Intervention**<br>创伤知情实践与危机干预 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |
 | **Fieldwork Preparation**<br>实地工作准备 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/social-service-worker-intensive-accelerated) |

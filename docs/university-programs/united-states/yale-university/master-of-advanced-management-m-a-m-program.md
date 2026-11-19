@@ -1,10 +1,10 @@
 ---
-title: "3.4.98 Master of Advanced Management (M.A.M.) Program"
+title: "4.4.98 Master of Advanced Management (M.A.M.) Program"
 description: "University Programs > United States > Yale University > Master of Advanced Management (M.A.M.) Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.98 Master of Advanced Management (M.A.M.) Program
+# 4.4.98 Master of Advanced Management (M.A.M.) Program
 
 ## Glossary
 

@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business - Marketing**<br>商务—市场营销 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-marketing) |
-| **Introduction to Accounting Principles**<br>会计原理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-marketing/courses?id=33732) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-marketing/courses?id=33732) |
+| **Introduction to Accounting Principles**<br>会计原理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-marketing/courses?id=33732) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-marketing/courses?id=33732) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-marketing/courses?id=33732) |
 | **Business Computing Applications I**<br>商务计算应用 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-marketing/courses?id=33732) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-marketing/courses?id=33732) |

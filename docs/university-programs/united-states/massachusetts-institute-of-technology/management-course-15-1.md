@@ -1,10 +1,10 @@
 ---
-title: "3.2.39 Management (Course 15-1)"
+title: "4.2.39 Management (Course 15-1)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Management (Course 15-1): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.39 Management (Course 15-1)
+# 4.2.39 Management (Course 15-1)
 
 ## Glossary
 
@@ -18,11 +18,11 @@ ms.date: 2026-11-18
 | **Management Communication for Undergraduates (CI-M)**<br>本科生管理沟通（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
 | **People, Teams, and Organizations Laboratory (CI-M)**<br>人、团队与组织实验室（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
 | **Organizational Processes for Business Analytics (CI-M)**<br>商业分析的组织过程（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
-| **Introduction to Statistical Methods in Economics**<br>经济学统计方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
+| **Introduction to Statistical Methods in Economics**<br>经济学统计方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
 | **Applied Probability and Statistics**<br>应用概率与统计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
 | **Laboratory in Investments (CI-M)**<br>投资实验室 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
-| **Introduction to Operations Management**<br>运营管理导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
+| **Introduction to Operations Management**<br>运营管理入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
 | **Marketing Innovation**<br>营销创新 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
 | **Competitive Strategy**<br>竞争战略 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/management-course-15-1/) |
 

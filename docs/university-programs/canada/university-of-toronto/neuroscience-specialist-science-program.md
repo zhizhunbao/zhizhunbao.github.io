@@ -16,11 +16,11 @@ ms.date: 2026-11-11
 | **Chemistry: The Molecular Science**<br>化学：分子科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Foundations of Computer Science I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Biochemistry I: Proteins, Lipids and Metabolism**<br>生物化学 I：蛋白质、脂质与代谢 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Adaptation and Biodiversity**<br>适应与生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Molecular and Cell Biology**<br>分子与细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-11
 | **Concepts in Genetics**<br>遗传学概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Human Physiology I**<br>人体生理学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Neurobiology of Behaviour**<br>行为神经生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Cellular and Molecular Neurobiology of the Synapse**<br>突触的细胞与分子神经生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 | **Neuroanatomy**<br>神经解剖学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
@@ -188,21 +188,21 @@ ms.date: 2026-11-11
 |  | Data Analysis and Research-Based Courses |  | \* A 4th year research project from a different unit may be accepted with prior written approval from Human Biology. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 |  | Neuroscience Specialists Notes |  | Courses can only count toward one requirement, even if listed as options to multiple requisites of the program. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 |  | Neuroscience Specialists Notes |  | Not all courses listed have priority enrolment for Neuroscience specialists. Students are responsible for checking priority of courses and meeting course prerequisites for courses they wish to take. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB200H1 | Introduction to Neuroscience | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB300H1 | Neurobiology of Behaviour | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB310H1 | Laboratory in Neuroscience | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB320H1 | Neuroanatomy | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | CJH332H1 | Cellular and Molecular Neurobiology of the Synapse | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB360H1 | Neurogenomics | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | JHA410H1 | Clinical Neuroimaging | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB420H1 | Seminar in Neurobiology of Behaviour | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB430H1 | Trends in Neuroscience | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB440H1 | Dementia | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB442H1 | Brain Tumours: From Diagnosis to Treatment Effects | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB450H1 | Neurodevelopmental Diversity and Diseases | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB460H1 | Seminars in Neurobiology of Mental Health | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses | HMB473H1 | Exercise and Mental Health | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
-|  | Neuroscience Centric Courses |  | Students in this program have the option to complete the Arts & Science Internship Program (ASIP) stream. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB200H1 | Introduction to Neuroscience | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB300H1 | Neurobiology of Behaviour | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB310H1 | Laboratory in Neuroscience | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB320H1 | Neuroanatomy | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | CJH332H1 | Cellular and Molecular Neurobiology of the Synapse | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB360H1 | Neurogenomics | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | JHA410H1 | Clinical Neuroimaging | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB420H1 | Seminar in Neurobiology of Behaviour | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB430H1 | Trends in Neuroscience | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB440H1 | Dementia | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB442H1 | Brain Tumours: From Diagnosis to Treatment Effects | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB450H1 | Neurodevelopmental Diversity and Diseases | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB460H1 | Seminars in Neurobiology of Mental Health | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses | HMB473H1 | Exercise and Mental Health | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
+|  | Course Group; Neuroscience Centric Courses |  | Students in this program have the option to complete the Arts & Science Internship Program (ASIP) stream. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1472) |
 
 ## References
 

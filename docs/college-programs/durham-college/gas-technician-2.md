@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Gas Technician 2**<br>燃气技术员 2 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/gas-technician-2) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/gas-technician-2) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/gas-technician-2) |
 | **Metal Fabrication I**<br>金属加工 I | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/gas-technician-2) |
 | **Gas Tech 2A Practical**<br>燃气技术 2A 实操 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/gas-technician-2) |
 | **Gas Technician 2A Theory**<br>燃气技师 2A 理论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/gas-technician-2) |

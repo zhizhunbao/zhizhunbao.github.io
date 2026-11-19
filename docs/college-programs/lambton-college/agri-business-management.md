@@ -18,10 +18,10 @@ ms.date: 2026-11-08
 | **Agricultural Accounting & Finance**<br>农业会计与金融 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
 | **Agricultural Machinery & Farm Safety**<br>农业机械与农场安全 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
-| **Introduction to Canadian Agricultural Law**<br>加拿大农业法导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
-| **Introduction to Canadian Field Crops**<br>加拿大大田作物导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
+| **Introduction to Canadian Agricultural Law**<br>加拿大农业法入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
+| **Introduction to Canadian Field Crops**<br>加拿大大田作物入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
 | **Food Processing in Canada**<br>加拿大食品加工 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
-| **Introduction to Canadian Livestock Operations**<br>加拿大畜牧业经营导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
+| **Introduction to Canadian Livestock Operations**<br>加拿大畜牧业经营入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
 | **Digital Media & Analytics for Business**<br>商业数字媒体与分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
 | **Selling**<br>销售 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |
 | **Canadian Greenhouse Production**<br>加拿大温室生产 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/AGBS) |

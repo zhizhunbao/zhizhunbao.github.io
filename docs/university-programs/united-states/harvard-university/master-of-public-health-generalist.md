@@ -1,10 +1,10 @@
 ---
-title: "3.1.69 Master of Public Health – Generalist"
+title: "4.1.69 Master of Public Health – Generalist"
 description: "University Programs > United States > Harvard University > Master of Public Health – Generalist: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.69 Master of Public Health – Generalist
+# 4.1.69 Master of Public Health – Generalist
 
 ## Glossary
 
@@ -31,7 +31,7 @@ ms.date: 2026-11-18
 | **Public Health Leadership**<br>公共卫生领导力 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/online-mph-generalist/) |
 | **Innovation and Entrepreneurship in Healthcare**<br>卫生保健中的创新与创业 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/online-mph-generalist/) |
 | **Financial Transactions and Analysis**<br>金融交易与分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/online-mph-generalist/) |
-| **An Introduction to Implementation Science**<br>实施科学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/online-mph-generalist/) |
+| **An Introduction to Implementation Science**<br>实施科学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/online-mph-generalist/) |
 | **Investigating Outbreaks**<br>暴发调查 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/online-mph-generalist/) |
 
 ## Courses

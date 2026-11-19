@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Asian Studies**<br>亚洲研究 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/asian-studies-diploma-arts-and-science) |
-| **Introduction to Traditional Asia**<br>传统亚洲导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/asian-studies-diploma-arts-and-science/courses) |
-| **Introduction to Modern Asia**<br>现代亚洲导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/asian-studies-diploma-arts-and-science/courses) |
+| **Introduction to Traditional Asia**<br>传统亚洲入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/asian-studies-diploma-arts-and-science/courses) |
+| **Introduction to Modern Asia**<br>现代亚洲入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/asian-studies-diploma-arts-and-science/courses) |
 
 ## Courses
 

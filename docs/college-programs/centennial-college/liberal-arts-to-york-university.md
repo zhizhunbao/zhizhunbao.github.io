@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Liberal Arts to York University**<br>文理预科升读约克大学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
 | **College Communications 1**<br>学院交流 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
-| **Introduction to Canadian Politics**<br>加拿大政治导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
+| **Introduction to Canadian Politics**<br>加拿大政治入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
 | **Essential Skills for College and Beyond**<br>大学及未来的基本技能 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
 | **Concepts in Humanities**<br>人文学科概念 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
 | **Critical Thinking across Disciplines**<br>跨学科批判性思维 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
 | **College Communications 2**<br>学院交流 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
-| **Introduction to Philosophy**<br>哲学导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
+| **Introduction to Philosophy**<br>哲学入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
 | **Twentieth Century History**<br>二十世纪历史 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
 | **Introductory Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |
 | **Human Development**<br>人类发展 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/liberal-arts-york) |

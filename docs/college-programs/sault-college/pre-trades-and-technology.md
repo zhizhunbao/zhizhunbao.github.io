@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Pre-Trades and Technology**<br>行业与技术预备 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 | **Drafting and Blueprint Reading Basics**<br>制图与蓝图识读基础 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 | **Industrial Health & Safety**<br>工业健康与安全 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
@@ -19,11 +19,11 @@ ms.date: 2026-11-08
 | **Mechanical Tools & Fasteners**<br>机械工具与紧固件 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 | **Pre-Trades/Technology Mathematics 1**<br>技工/技术预科数学 1 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 | **Construction Basics**<br>建筑基础 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
-| **Introduction to Motive Power**<br>动力装置导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
+| **Introduction to Motive Power**<br>动力装置入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 | **GAS Shielded Semi-Automatic Welding 1**<br>气体保护半自动焊 1 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 | **Pre-Trades/Technology Mathematics 2**<br>技工/技术预科数学 2 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 | **Introduction to Plumbing**<br>管道工程入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
-| **Introduction to Robotics & Automated Manufacturing**<br>机器人与自动化制造导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
+| **Introduction to Robotics & Automated Manufacturing**<br>机器人与自动化制造入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/skilled-trades-and-transportation/pre-trades-and-technology) |
 
 ## Courses
 

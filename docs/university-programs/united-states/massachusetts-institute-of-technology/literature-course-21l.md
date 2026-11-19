@@ -1,10 +1,10 @@
 ---
-title: "3.2.38 Literature (Course 21L)"
+title: "4.2.38 Literature (Course 21L)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Literature (Course 21L): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.38 Literature (Course 21L)
+# 4.2.38 Literature (Course 21L)
 
 ## Glossary
 
@@ -25,14 +25,14 @@ ms.date: 2026-11-18
 | **Foundations of Western Literature: From Shakespeare to the Present**<br>西方文学基础：从莎士比亚到当代 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Reading Fiction**<br>阅读小说 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Reading Poetry**<br>阅读诗歌 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Introduction to Drama**<br>戏剧导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Introduction to Drama**<br>戏剧入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **American Literature**<br>美国文学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Shakespeare**<br>莎士比亚 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Writing with Shakespeare**<br>与莎士比亚一起写作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Forms of Western Narrative**<br>西方叙事形式 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Introduction to Ancient and Medieval Studies**<br>古代与中世纪研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Introduction to English Literature**<br>英国文学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Introduction to European and Latin American Fiction**<br>欧洲与拉丁美洲小说导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Introduction to Ancient and Medieval Studies**<br>古代与中世纪研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Introduction to English Literature**<br>英国文学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Introduction to European and Latin American Fiction**<br>欧洲与拉丁美洲小说入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Comedy**<br>喜剧 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Literature and Existentialism**<br>文学与存在主义 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Film & Existentialism**<br>电影与存在主义 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
@@ -62,7 +62,7 @@ ms.date: 2026-11-18
 | **Representing Girlhood**<br>再现少女时代 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Enlightenment and Modernity**<br>启蒙运动与现代性 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Rap Theory and Practice**<br>说唱理论与实践 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Introduction to the Classics of Russian Literature**<br>俄罗斯文学经典导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Introduction to the Classics of Russian Literature**<br>俄罗斯文学经典入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Classics of Chinese Literature in Translation**<br>中国文学经典译读 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **The American Novel**<br>美国小说 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **American Authors**<br>美国作家 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
@@ -74,7 +74,7 @@ ms.date: 2026-11-18
 | **Advanced Greek Readings**<br>高级希腊语阅读 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Latin Readings**<br>拉丁语阅读 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Advanced Latin Readings**<br>高级拉丁语阅读 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Introduction to French Literature**<br>法国文学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Introduction to French Literature**<br>法国文学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Understanding Contemporary French Politics**<br>理解当代法国政治 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **The Invention of French Theory: A History of Transatlantic Intellectual Life since 1945**<br>法国理论的发明：1945年以来的跨大西洋思想史 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Childhood and Youth in French and Francophone Cultures**<br>法语及法语地区文化中的童年与青年 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
@@ -94,8 +94,8 @@ ms.date: 2026-11-18
 | **Studies in Literary History**<br>文学史研究 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Writing About Literature**<br>文学写作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **World Literatures**<br>世界文学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Black Matters: Introduction to Black Studies**<br>黑人问题：黑人研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Introduction to Film Studies**<br>电影研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Black Matters: Introduction to Black Studies**<br>黑人问题：黑人研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Introduction to Film Studies**<br>电影研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **The Supernatural in Music, Literature and Culture**<br>音乐、文学与文化中的超自然 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Children's Literature**<br>儿童文学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **The Art of the Probable**<br>可能性的艺术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
@@ -126,7 +126,7 @@ ms.date: 2026-11-18
 | **Greek II**<br>希腊语 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Latin I**<br>拉丁语 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Latin II**<br>拉丁语 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
-| **Introduction to Contemporary Hispanic Literature and Film**<br>当代西班牙语文学与电影导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
+| **Introduction to Contemporary Hispanic Literature and Film**<br>当代西班牙语文学与电影入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Literature and Social Conflict: Perspectives on Spain**<br>文学与社会冲突：西班牙视角 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 | **Globalization and its Discontents: Spanish-speaking Nations**<br>全球化及其不满：西班牙语国家 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/literature-course-21l/) |
 

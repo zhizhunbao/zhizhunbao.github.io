@@ -11,19 +11,19 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration - Human Resource Management**<br>工商管理－人力资源管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Introductory Managerial Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Business Analytics and Data Visualization**<br>商业分析与数据可视化 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Intrapreneurship and Innovation**<br>内部创业与创新 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Introductory Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Fundamentals of Human Resources Management**<br>人力资源管理基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Business Productivity Software**<br>商务生产力软件 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Communications 1**<br>沟通 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Managing Business Information Technologies**<br>商务信息技术管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |
 | **Talent Acquisition**<br>人才获取 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-human-resources) |

@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Advanced Video Content Creation**<br>高级视频内容创作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation/courses-no-intake?id=15513) |
-| **Introduction to Graphic Design**<br>平面设计导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation/courses-no-intake?id=15513) |
-| **Introduction to Online Marketing and Copy Writing I**<br>在线营销与文案写作导论 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation/courses-no-intake?id=15513) |
+| **Introduction to Graphic Design**<br>平面设计入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation/courses-no-intake?id=15513) |
+| **Introduction to Online Marketing and Copy Writing I**<br>在线营销与文案写作入门 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation/courses-no-intake?id=15513) |
 | **Social Media Content Creation and Management I**<br>社交媒体内容创作与管理 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation/courses-no-intake?id=15513) |
 | **Event Videography**<br>活动摄像 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation/courses-no-intake?id=15513) |
 | **Advanced Video Editing**<br>高级视频剪辑 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advanced-video-content-creation/courses-no-intake?id=15513) |

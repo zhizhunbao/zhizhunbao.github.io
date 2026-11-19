@@ -16,8 +16,8 @@ ms.date: 2026-11-08
 | **Voice I**<br>声乐 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
 | **Theatre Skills I**<br>戏剧技能 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
 | **Reading and Writing about Literature**<br>文学阅读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
 | **History of Drama and Theatre I**<br>戏剧与剧场史 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |
 | **History of Drama and Theatre II**<br>戏剧与剧场史 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/theatre-arts-studio-58-theatre-production-diploma/courses) |

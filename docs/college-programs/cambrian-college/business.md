@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business**<br>商务 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business) |
 | **Accounting Fundamentals I**<br>会计基础 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business) |
-| **Introduction to Business Management**<br>企业管理导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business) |
+| **Introduction to Business Management**<br>企业管理入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business) |
 | **Spreadsheets for Business**<br>商务电子表格 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business) |

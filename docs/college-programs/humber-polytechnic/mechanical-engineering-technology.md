@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Mechanical Engineering Technology**<br>机械工程技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Engineering Graphics**<br>工程图学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
-| **Introduction to Control Circuits**<br>控制电路导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
+| **Introduction to Control Circuits**<br>控制电路入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Workshop Practices 1**<br>车间实践 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Technical Mathematics 1**<br>技术数学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Technical Communications 1**<br>技术沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Industrial Pneumatics**<br>工业气动 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Computer Assisted Design**<br>计算机辅助设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Computer Assisted Manufacturing 1**<br>计算机辅助制造 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Mechanical Systems Design**<br>机械系统设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Tool and Die Design**<br>工具与模具设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Mechanical Systems Maintenance**<br>机械系统维护 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Machine Design**<br>机械设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Product Development**<br>产品开发 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |
 | **Thermal Technologies**<br>热能技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technology) |

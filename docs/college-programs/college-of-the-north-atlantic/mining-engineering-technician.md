@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Mathematics**<br>数学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Technical Report Writing I**<br>技术报告写作 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Mine Surveying I**<br>矿山测量 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
-| **Introduction to Mining**<br>采矿导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
+| **Introduction to Mining**<br>采矿入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Spreadsheet Applications**<br>电子表格应用 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Geology II**<br>地质学 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Engineering Graphics & CAD**<br>工程图学与 CAD | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Mine Layouts and Planning**<br>矿山布局与规划 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Mine Equipment & Safety**<br>矿山设备与安全 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Mine Blasting Techniques**<br>矿山爆破技术 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
-| **Intro to Structural Geology**<br>构造地质学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
+| **Intro to Structural Geology**<br>构造地质学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Mineral Resource Evaluation**<br>矿产资源评价 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Ground Control**<br>地压控制 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |
 | **Industrial Hygiene for Mines**<br>矿山工业卫生 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mining-engineering-technician) |

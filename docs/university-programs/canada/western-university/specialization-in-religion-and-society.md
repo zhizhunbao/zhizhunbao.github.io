@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIZATION IN RELIGION AND SOCIETY**<br>宗教与社会专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE BIBLE: OLD TESTAMENT**<br>《圣经》导论：旧约 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE BIBLE: NEW TESTAMENT**<br>《圣经》导论：新约 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EASTERN RELIGIONS**<br>东方宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE BIBLE: OLD TESTAMENT**<br>《圣经》入门：旧约 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE BIBLE: NEW TESTAMENT**<br>《圣经》入门：新约 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EASTERN RELIGIONS**<br>东方宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
 | **THE EMERGENCE OF THE CHRISTIAN TRADITION**<br>基督教传统的兴起 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHRISTIANITY**<br>基督教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHRISTIANITY**<br>基督教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
 | **APPROACHES TO THE STUDY OF RELIGION**<br>宗教研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
 | **MODERN MORAL DILEMMAS**<br>现代道德困境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
 | **CHRISTIAN ETHICS: ISSUES AND CHALLENGES**<br>基督教伦理：问题与挑战 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **CATHOLIC EDUCATION IN PRACTICE (1) - SERVICE LEARNING PROJECT**<br>天主教教育实践 (1)：服务学习项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
 | **CATHOLIC EDUCATION IN PRACTICE (2) - SERVICE LEARNING PROJECT**<br>天主教教育实践 (2)：服务学习项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
 | **CATHOLIC EDUCATION IN PRACTICE**<br>天主教教育实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WORLD RELIGIONS**<br>世界宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WORLD RELIGIONS**<br>世界宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21226&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

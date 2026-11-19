@@ -1,19 +1,19 @@
 ---
-title: "3.4.21 Computer Science and Mathematics (B.S.)"
+title: "4.4.21 Computer Science and Mathematics (B.S.)"
 description: "University Programs > United States > Yale University > Computer Science and Mathematics (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.21 Computer Science and Mathematics (B.S.)
+# 4.4.21 Computer Science and Mathematics (B.S.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Science and Mathematics (B.S.)**<br>计算机科学与数学（理学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |
 | **Data Structures and Programming Techniques**<br>数据结构与编程技术 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |
-| **Introduction to Systems Programming and Computer Organization**<br>系统编程与计算机组成导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |
+| **Introduction to Systems Programming and Computer Organization**<br>系统编程与计算机组成入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |
 | **Algorithms**<br>算法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/) |

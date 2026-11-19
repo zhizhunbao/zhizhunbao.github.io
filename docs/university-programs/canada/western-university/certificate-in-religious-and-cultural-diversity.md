@@ -12,14 +12,14 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **CERTIFICATE IN RELIGIOUS AND CULTURAL DIVERSITY**<br>宗教与文化多样性证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
 | **APPROACHES TO THE STUDY OF RELIGION**<br>宗教研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EASTERN RELIGIONS**<br>东方宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EASTERN RELIGIONS**<br>东方宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
 | **WORLD RELIGIONS: JUDAISM AND ISLAM**<br>世界宗教：犹太教与伊斯兰教 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
 | **MODERN MORAL DILEMMAS**<br>现代道德困境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
 | **JESUS: FROM NAZARETH TO HOLLYWOOD**<br>耶稣：从拿撒勒到好莱坞 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHRISTIANITY**<br>基督教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHRISTIANITY**<br>基督教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
 | **RELIGIOUS PERSPECTIVES ON DEATH AND DYING**<br>宗教视角下的死亡与临终 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUDDHISM**<br>佛教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WORLD RELIGIONS**<br>世界宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUDDHISM**<br>佛教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WORLD RELIGIONS**<br>世界宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21741&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

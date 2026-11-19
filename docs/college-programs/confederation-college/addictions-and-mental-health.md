@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Addictions and Mental Health**<br>成瘾与心理健康 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
 | **Safety & Crisis Intervention**<br>安全与危机干预 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
-| **Introduction to Addictions, Mental Health, and Concurrent Disorders**<br>成瘾、心理健康与共病障碍导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
+| **Introduction to Addictions, Mental Health, and Concurrent Disorders**<br>成瘾、心理健康与共病障碍入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
 | **Chemical Dependency and Substance Use and Abuse**<br>化学依赖与物质使用和滥用 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
-| **An Introduction to Trauma-Informed Practice**<br>创伤知情实践导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
+| **An Introduction to Trauma-Informed Practice**<br>创伤知情实践入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
 | **Indigenous Wellbeing: Decolonized Approach**<br>原住民福祉：去殖民化方法 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
 | **Impulse Control Disorders and Behavioural Addiction**<br>冲动控制障碍与行为成瘾 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |
 | **Community Services & Supports in ADMH**<br>ADMH 社区服务与支持 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/addictions-and-mental-health/) |

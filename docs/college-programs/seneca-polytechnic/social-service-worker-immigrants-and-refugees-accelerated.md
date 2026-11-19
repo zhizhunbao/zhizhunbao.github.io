@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Social Service Worker – Immigrants and Refugees (Accelerated)**<br>社会服务工作者：移民与难民（加速） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA.html) |
 | **Anti Oppressive Practice**<br>反压迫实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
 | **Interviewing Skills and Principles**<br>访谈技能与原则 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
-| **Introduction to Immigrant and Refugee Policies**<br>移民与难民政策导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
+| **Introduction to Immigrant and Refugee Policies**<br>移民与难民政策入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
 | **Field Seminar: Laws, Principles and Ethics**<br>实地研讨：法律、原则与伦理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
-| **Introduction to Settlement Sectors**<br>安置服务领域导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
+| **Introduction to Settlement Sectors**<br>安置服务领域入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
 | **Resiliency through the Life Span**<br>全生命周期的心理韧性 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
 | **Service Coordination and Advocacy**<br>服务协调与倡导 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |
 | **Supportive Counselling**<br>支持性咨询 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSIA/courses.html) |

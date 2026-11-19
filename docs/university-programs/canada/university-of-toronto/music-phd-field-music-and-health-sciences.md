@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Music and Health Doctoral Research Project**<br>音乐与健康博士研究项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Biostatistics I**<br>生物统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Foundations of Research Methods for Rehabilitation Science**<br>康复科学研究方法基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Applied Statistics [RM]**<br>应用统计学导论 [RM] | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Applied Statistics [RM]**<br>应用统计学入门 [RM] | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Maximizing the Artistic Mind**<br>最大化艺术心智 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Performance Techniques for Hospice Palliative Care**<br>临终关怀与姑息治疗的表演技巧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Neurosciences of Music: Scientific Foundations, Clinical Translations**<br>音乐神经科学：科学基础与临床转化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |

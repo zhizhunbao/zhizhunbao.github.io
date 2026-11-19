@@ -1,10 +1,10 @@
 ---
-title: "3.1.61 Master in Urban Planning (MUP)"
+title: "4.1.61 Master in Urban Planning (MUP)"
 description: "University Programs > United States > Harvard University > Master in Urban Planning (MUP): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.61 Master in Urban Planning (MUP)
+# 4.1.61 Master in Urban Planning (MUP)
 
 ## Glossary
 

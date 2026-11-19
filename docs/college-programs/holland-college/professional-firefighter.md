@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Fitness and Lifestyle**<br>健身与生活方式 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/professional-firefighter/index.php) |
 | **Workplace Hazardous Materials Information Systems**<br>工作场所危险物料信息系统（WHMIS） | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/professional-firefighter/index.php) |
 | **Medical First Responder**<br>医疗急救员 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/professional-firefighter/index.php) |
-| **Introduction to Incident Command System (ICS) 100**<br>事故指挥系统（ICS）100导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/professional-firefighter/index.php) |
+| **Introduction to Incident Command System (ICS) 100**<br>事故指挥系统（ICS）100入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/professional-firefighter/index.php) |
 | **Incident Command System 200 (ICS-200)**<br>事故指挥系统 200（ICS-200） | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/professional-firefighter/index.php) |
 | **Professional Ethics and Deportment**<br>职业伦理与行为规范 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/professional-firefighter/index.php) |
 

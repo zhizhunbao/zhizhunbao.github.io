@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Pharmacotherapeutics I**<br>药物治疗学 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Pharmacy%20Technician%20Diploma%202026-2027.pdf) |
 | **Pharmacy Computer Systems**<br>药房计算机系统 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Pharmacy%20Technician%20Diploma%202026-2027.pdf) |
 | **Pharmacy Operations I**<br>药房运营 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Pharmacy%20Technician%20Diploma%202026-2027.pdf) |
-| **Introduction to Indigenous Health**<br>原住民健康导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Pharmacy%20Technician%20Diploma%202026-2027.pdf) |
+| **Introduction to Indigenous Health**<br>原住民健康入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Pharmacy%20Technician%20Diploma%202026-2027.pdf) |
 | **Non-Prescription and Complementary Therapies**<br>非处方药与补充疗法 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Pharmacy%20Technician%20Diploma%202026-2027.pdf) |
 | **Hospital/ Institutional Practice**<br>医院/机构实践 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Pharmacy%20Technician%20Diploma%202026-2027.pdf) |
 | **Pharmacotherapeutics II**<br>药物治疗学 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Pharmacy%20Technician%20Diploma%202026-2027.pdf) |

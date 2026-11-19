@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Anthropology Major (General) (Arts Program)**<br>人类学主修（综合）（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Core Concepts in Social and Cultural Anthropology**<br>社会与文化人类学核心概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Human Biology and Evolution: From Fossils to Genes**<br>人类生物学与进化：从化石到基因 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Social Cultural Anthropology and Global Issues**<br>社会文化人类学与全球议题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Medical Anthropology: Sociocultural Perspectives on Illness, Medicine and Care**<br>医学人类学：疾病、医学与照护的社会文化视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Historical Archaeology**<br>历史考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Archaeology of Ritual and Identity**<br>仪式与身份考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Archaeology of Inequality**<br>不平等考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
-| **Introduction to Virtual Anthropology**<br>虚拟人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
+| **Introduction to Virtual Anthropology**<br>虚拟人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Internship in Anthropology**<br>人类学实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Independent Research**<br>独立研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Archaeological Inference**<br>考古推断 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
@@ -84,7 +84,7 @@ ms.date: 2026-11-11
 | **Sports and Play**<br>运动与游戏 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Advocating Environmental and Climate Justice**<br>倡导环境与气候正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Anthropology of Activism and Social Justice**<br>行动主义与社会正义人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
-| **Introduction to Social Anthropological Theory**<br>社会人类学理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
+| **Introduction to Social Anthropological Theory**<br>社会人类学理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Rethinking Development, or the Improvement of the World**<br>重新思考发展，或世界的改良 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Anthropology of Animals**<br>动物人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |
 | **Gift, Money, and Finance**<br>礼物、货币与金融 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1775) |

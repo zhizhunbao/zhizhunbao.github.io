@@ -15,8 +15,8 @@ ms.date: 2026-11-11
 | **Pratique de la dissertation**<br>议论文写作实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 | **Histoire des mondes connectés: 1500-1815**<br>互联世界史：1500-1815 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 | **Histoire des mondes connectés depuis 1815**<br>1815 年以来的互联世界史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
-| **Introduction à la philosophie occidentale**<br>西方哲学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
-| **Introduction aux philosophies non occidentales**<br>非西方哲学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
+| **Introduction à la philosophie occidentale**<br>西方哲学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
+| **Introduction aux philosophies non occidentales**<br>非西方哲学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 | **Méthodes quantitatives en économie**<br>经济学定量方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 | **Phonétique et phonologie du français canadien**<br>加拿大法语语音学与音系学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 | **Sociolinguistique du français**<br>法语社会语言学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **Algèbre linéaire I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 | **Raisonnement et pensée critique**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 | **Statistiques pour les sciences sociales**<br>社会科学统计学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
-| **Introduction à la statistique appliquée I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
+| **Introduction à la statistique appliquée I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 | **Calcul différentiel et intégral pour génie I**<br>工程微积分 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109959&returnto=20857) |
 
 ## Courses

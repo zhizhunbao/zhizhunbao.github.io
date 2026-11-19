@@ -16,12 +16,12 @@ ms.date: 2026-11-08
 | **Math for Health Sciences I**<br>健康科学数学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
 | **General Chemistry I**<br>普通化学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
 | **Cell Physiology**<br>细胞生理学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
-| **Introduction to Health Care**<br>医疗保健导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
+| **Introduction to Health Care**<br>医疗保健入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
 | **Communications for Health**<br>健康沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
 | **Mathematics for Health Sciences II**<br>健康科学数学 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
-| **Introduction to Biology**<br>生物学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
+| **Introduction to Biology**<br>生物学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
 | **General Education for Diploma Programs/Elective for Degree Programs**<br>文凭课程通识教育/学位课程选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/phdp) |
 
 ## Courses

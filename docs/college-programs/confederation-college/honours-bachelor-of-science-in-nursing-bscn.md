@@ -14,9 +14,9 @@ ms.date: 2026-11-08
 | **Human Anatomy and Physiology I**<br>人体解剖学与生理学 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **The Fundamentals of Nursing**<br>护理基础 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Reflection & Academic Writing**<br>反思与学术写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
-| **Introduction to the Profession of Nursing**<br>护理专业导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
+| **Introduction to the Profession of Nursing**<br>护理专业入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Clinical I: Fundamentals of Nursing**<br>临床 I：护理基础 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
-| **Introduction to Indigenous Health Canada**<br>加拿大原住民健康导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
+| **Introduction to Indigenous Health Canada**<br>加拿大原住民健康入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Human Anatomy and Physiology II**<br>人体解剖学与生理学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Communication in Nursing**<br>护理沟通 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Pharmacology I**<br>药理学 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Healthcare Informatics**<br>医疗信息学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Clinical III: Medical Surgical I**<br>临床 III：内外科 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Fundamental Nursing Arts Lab II**<br>基础护理技术实验 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Medical - Surgical Nursing II**<br>内外科护理 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |
 | **Pharmacology II**<br>药理学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/honours-bachelor-science-nursing-bscn/) |

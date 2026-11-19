@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Content Creator**<br>内容创作者 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/content-creator/) |
-| **Introduction to Digital Storytelling**<br>数字叙事导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/content-creator/costs-and-courses/) |
+| **Introduction to Digital Storytelling**<br>数字叙事入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/content-creator/costs-and-courses/) |
 | **Content Creation Fundamentals**<br>内容创作基础 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/content-creator/costs-and-courses/) |
 | **Social Media & Digital Marketing Principles**<br>社交媒体与数字营销原理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/content-creator/costs-and-courses/) |
 | **Personal Branding & Monetization**<br>个人品牌与变现 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/content-creator/costs-and-courses/) |

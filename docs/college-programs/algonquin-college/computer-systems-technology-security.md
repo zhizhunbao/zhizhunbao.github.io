@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Network Services Administration**<br>网络服务管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0156X01FWO.pdf) |
 | **IT Troubleshooting**<br>IT 故障排除 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0156X01FWO.pdf) |
 | **Windows Enterprise Administration**<br>Windows 企业管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0156X01FWO.pdf) |
-| **Introduction to Enterprise Networking**<br>企业网络导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0156X01FWO.pdf) |
+| **Introduction to Enterprise Networking**<br>企业网络入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0156X01FWO.pdf) |
 | **Database Management and Interfacing**<br>数据库管理与接口 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0156X01FWO.pdf) |
 | **Cloud Infrastructure Administration**<br>云基础设施管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0156X01FWO.pdf) |
 | **Wireless Network Fundamentals**<br>无线网络基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0156X01FWO.pdf) |

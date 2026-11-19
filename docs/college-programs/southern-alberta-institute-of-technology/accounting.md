@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Introductory Management Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/accounting) |
 | **Computer Accounting Software**<br>计算机会计软件 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/accounting) |
 | **Business Productivity Tools and Technology**<br>商务生产力工具与技术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/accounting) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/accounting) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/accounting) |
 | **Business Certificate Capstone**<br>商务证书毕业设计项目 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/accounting) |
 | **Intermediate Financial Accounting II**<br>中级财务会计 II | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/accounting) |
 | **Intermediate Management Accounting**<br>中级管理会计 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/accounting) |

@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkbvlk0Cs2) |
 | **Social Statistics**<br>社会统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkbvlk0Cs2) |
 | **Field Research Methods**<br>实地研究方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkbvlk0Cs2) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkbvlk0Cs2) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkbvlk0Cs2) |
 | **Theoretical Perspectives on Gender**<br>性别的理论视角 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkbvlk0Cs2) |
 | **Seminar in Classical Sociological Theory**<br>古典社会学理论研讨课 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkbvlk0Cs2) |
 | **Seminar in Contemporary Sociological Theory**<br>当代社会学理论研讨课 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bkbvlk0Cs2) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Honours Bachelor of Technology (Construction Management) (T312)**<br>技术荣誉学士（建筑管理） | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-technology-program-construction-management-t312) |
 | **Construction Materials**<br>建筑材料 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-technology-program-construction-management-t312) |
-| **Introduction to Construction Management**<br>建筑管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-technology-program-construction-management-t312) |
+| **Introduction to Construction Management**<br>建筑管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-technology-program-construction-management-t312) |
 | **Construction Materials Testing and Analysis**<br>施工材料测试与分析 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-technology-program-construction-management-t312) |
 | **Residential Construction Technology**<br>住宅建造技术 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-technology-program-construction-management-t312) |
 | **Blueprint Reading and Construction Measurement**<br>图纸识读与施工测量 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-technology-program-construction-management-t312) |

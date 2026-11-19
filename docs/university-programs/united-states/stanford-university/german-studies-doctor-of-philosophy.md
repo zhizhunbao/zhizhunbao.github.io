@@ -1,10 +1,10 @@
 ---
-title: "3.3.181 German Studies, Doctor of Philosophy"
+title: "4.3.181 German Studies, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > German Studies, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.181 German Studies, Doctor of Philosophy
+# 4.3.181 German Studies, Doctor of Philosophy
 
 ## Glossary
 
@@ -15,7 +15,7 @@ ms.date: 2026-11-18
 | **German Literature (800-1700)**<br>德国文学（800-1700） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/german-studies/doctor-of-philosophy) |
 | **German Literature (1700-1900)**<br>德国文学（1700-1900） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/german-studies/doctor-of-philosophy) |
 | **German Literature 3: Museum of Modern Poetry**<br>德国文学 3：现代诗歌博物馆 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/german-studies/doctor-of-philosophy) |
-| **Introduction to the Profession of Literary Studies**<br>文学研究职业导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/german-studies/doctor-of-philosophy) |
+| **Introduction to the Profession of Literary Studies**<br>文学研究职业入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/german-studies/doctor-of-philosophy) |
 | **Graduate Studies Colloquium**<br>研究生学习研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/german-studies/doctor-of-philosophy) |
 
 ## Courses

@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Play and Document**<br>游戏与记录 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/ELCC%20Diploma.pdf) |
 | **Guiding Behavior**<br>行为引导 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/ELCC%20Diploma.pdf) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/ELCC%20Diploma.pdf) |
-| **Introduction to Special Needs**<br>特殊需求导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/ELCC%20Diploma.pdf) |
+| **Introduction to Special Needs**<br>特殊需求入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/ELCC%20Diploma.pdf) |
 | **Interpersonal Relations**<br>人际关系 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/ELCC%20Diploma.pdf) |
 | **Literacies and Dramatic Play**<br>读写能力与戏剧游戏 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/ELCC%20Diploma.pdf) |
 | **Responsive Experiences**<br>响应式体验 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/ELCC%20Diploma.pdf) |

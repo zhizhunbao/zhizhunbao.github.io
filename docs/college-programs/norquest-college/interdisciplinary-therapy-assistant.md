@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Interdisciplinary Therapy Assistant**<br>跨学科治疗助理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/) |
-| **Introduction to Anatomy and Physiology**<br>解剖与生理学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
+| **Introduction to Anatomy and Physiology**<br>解剖与生理学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
 | **Therapeutic Physical and Environmental Adaptations**<br>治疗性身体与环境适应 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
 | **Scientific and Technical Writing**<br>科技写作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
-| **Introduction to Rehabilitation**<br>康复导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
+| **Introduction to Rehabilitation**<br>康复入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
 | **Therapeutic Mobility**<br>治疗性活动能力训练 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
 | **Mental Health First Aid**<br>精神健康急救 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |
 | **Functional Anatomy**<br>功能解剖学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/interdisciplinary-therapy-assistant/costs-and-courses/) |

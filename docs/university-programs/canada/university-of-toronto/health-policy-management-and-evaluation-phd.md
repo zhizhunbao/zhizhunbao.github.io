@@ -11,15 +11,15 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Policy, Management and Evaluation PhD**<br>健康政策、管理与评估（PhD） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
-| **Introduction to Clinical Epidemiology and Health Care Research**<br>临床流行病学与卫生保健研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
-| **Introduction to Applied Biostatistics**<br>应用生物统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
+| **Introduction to Clinical Epidemiology and Health Care Research**<br>临床流行病学与卫生保健研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
+| **Introduction to Applied Biostatistics**<br>应用生物统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Comprehensive/Synthesis**<br>综合/整合 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Biostatistics II: Advanced Techniques in Applied Regression Methods**<br>生物统计学 II：应用回归方法高级技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Measurement in Clinical Research**<br>临床研究中的测量 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Controlled Clinical Trials**<br>对照临床试验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Clinical Decision Making and Cost Effectiveness**<br>临床决策与成本效益 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Evidence-Based Guidelines**<br>循证指南 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
-| **Introduction to Health Services Research and the Use of Health Administrative Data**<br>卫生服务研究与卫生行政数据使用导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
+| **Introduction to Health Services Research and the Use of Health Administrative Data**<br>卫生服务研究与卫生行政数据使用入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Evidence Synthesis: Systematic Reviews and Meta-Analysis**<br>证据综合：系统综述与荟萃分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Observational Studies: Theory, Design, and Methods**<br>观察性研究：理论、设计与方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Pragmatic Issues in Conduct of Controlled Trials**<br>对照试验实施中的实际问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Advanced Health Economics and Policy Analysis**<br>高级卫生经济学与政策分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Foundations of Health Systems**<br>卫生系统基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Essential Skills in HPER**<br>HPER 基本技能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
-| **Intro to Methods/Methodologies for HPER**<br>HPER方法与方法论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
+| **Intro to Methods/Methodologies for HPER**<br>HPER方法与方法论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Survey of Critical and Interpretive Social Science Theory for HPER**<br>卫生专业教育研究的批判与诠释社会科学理论概览 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Survey of Cognitive & Behavioural Sciences Theory for Health Professions Education Research**<br>卫生专业教育研究的认知与行为科学理论概览 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Intermediate Critical and Interpretive Social Science Methods**<br>中级批判与诠释社会科学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
@@ -40,11 +40,11 @@ ms.date: 2026-11-11
 | **Applying Foucauldian Critical Discourse Analysis in Health Professions Education Research**<br>在健康职业教育研究中应用福柯批判话语分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Foucault, Discourse, and the Health Professions**<br>福柯、话语与健康专业 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Quantitative Methods in HSR I**<br>卫生服务研究定量方法 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
-| **Introduction to Statistics for Health Systems Research**<br>卫生系统研究统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
+| **Introduction to Statistics for Health Systems Research**<br>卫生系统研究统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Quantitative Methods in HSR II**<br>卫生服务研究定量方法 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Intermediate Level Qualitative Methods**<br>中级定性方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Professional Skills for Health System Researchers**<br>卫生系统研究者的专业技能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
-| **Introduction to Qualitative Methods for Health Systems and Policy Research**<br>卫生系统与政策研究的质性方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
+| **Introduction to Qualitative Methods for Health Systems and Policy Research**<br>卫生系统与政策研究的质性方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 | **Doctoral Seminar Series - Compulsory Attendance**<br>博士研讨课系列：必须出席 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Health-Policy%2C-Management-and-Evaluation) |
 
 ## Courses

@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Commerce (Option in Healthcare Analytics)**<br>荣誉商学学士（医疗分析选项） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
-| **Introduction to Business**<br>商务导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
+| **Introduction to Business**<br>商务入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Business and Society**<br>商业与社会 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Mathematics for Management**<br>管理数学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Applications of Information Technology for Business**<br>信息技术在商业中的应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Effective Business English**<br>高效商务英语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Business Analytics for Decision Making**<br>决策商业分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Statistics for Management**<br>管理统计学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Business Data Mining**<br>商业数据挖掘 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Healthcare Management**<br>医疗管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Applied Biostatistics in R**<br>R 语言应用生物统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
-| **Introduction to Health Economics**<br>卫生经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
+| **Introduction to Health Economics**<br>卫生经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Health Research: Quantitative and Qualitative Approaches**<br>健康研究：定量与定性方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Epidemiology**<br>流行病学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |
 | **Intermediate Accounting I**<br>中级会计 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-healthcare-analytics/) |

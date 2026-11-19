@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **University Biological Sciences**<br>大学生物科学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
-| **Introduction to Biological Diversity**<br>生物多样性导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
+| **Introduction to Biological Diversity**<br>生物多样性入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Introductory University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Introductory University Chemistry II**<br>大学化学入门 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Elementary Calculus I**<br>初等微积分 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Cellular Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Infection and Immunity**<br>感染与免疫 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Particles and Waves**<br>粒子与波 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Fluids, Fields and Radiation**<br>流体、场与辐射 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
-| **Introduction to Applied Statistics ll**<br>应用统计学导论 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
+| **Introduction to Applied Statistics ll**<br>应用统计学入门 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Animal Physiology I, Homeostasis**<br>动物生理学 I：体内平衡 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Animal Physiology II, Intercellular Communications**<br>动物生理学 II：细胞间通讯 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |
 | **Human Physiology I**<br>人体生理学 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/university-biological-sciences-diploma) |

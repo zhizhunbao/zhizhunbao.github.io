@@ -1,10 +1,10 @@
 ---
-title: "3.2.43 Mathematics with Computer Science (Course 18-C)"
+title: "4.2.43 Mathematics with Computer Science (Course 18-C)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mathematics with Computer Science (Course 18-C): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.43 Mathematics with Computer Science (Course 18-C)
+# 4.2.43 Mathematics with Computer Science (Course 18-C)
 
 ## Glossary
 
@@ -17,15 +17,15 @@ ms.date: 2026-11-18
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Principles of Discrete Applied Mathematics (15 units, CI-M)**<br>离散应用数学原理（15学分，CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Principles of Discrete Applied Mathematics**<br>离散应用数学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Fundamentals of Programming**<br>编程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Computability and Complexity Theory**<br>可计算性与复杂性理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Theory of Computation**<br>计算理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Software Construction**<br>软件构造 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Computer Systems Engineering**<br>计算机系统工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Representation, Inference, and Reasoning in AI**<br>AI中的表示、推断与推理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Seminar in Analysis**<br>分析研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |
 | **Undergraduate Seminar in Discrete Mathematics**<br>离散数学本科研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technology) |
 | **Quality Assurance and Quality Control**<br>质量保证与质量控制 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technology) |
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technology) |
-| **Introduction to Sampling Techniques**<br>抽样技术导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technology) |
+| **Introduction to Sampling Techniques**<br>抽样技术入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technology) |
 | **Chemistry I**<br>化学 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technology) |
 | **Chemistry I Lab**<br>化学 I 实验 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technology) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technology) |

@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Interior Design Technology**<br>室内设计技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
-| **Introduction to Construction Documents**<br>施工文件导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
+| **Introduction to Construction Documents**<br>施工文件入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
 | **Technical Mathematics**<br>技术数学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
 | **Revit I**<br>Revit I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
-| **Introduction to AutoCAD**<br>AutoCAD 导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
-| **Introduction to Design and Presentation for Interiors**<br>室内设计与表现导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
+| **Introduction to AutoCAD**<br>AutoCAD 入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
+| **Introduction to Design and Presentation for Interiors**<br>室内设计与表现入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
 | **Interior Construction Documents I**<br>室内施工图 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
 | **3D Design and Presentation Modelling**<br>3D 设计与展示建模 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |
 | **Revit II**<br>Revit II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/interior-design-technology) |

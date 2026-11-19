@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Sexuality and Gender Studies**<br>性与性别研究 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1632X01FWO.pdf) |
 | **Foundations of Communication**<br>沟通基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1632X01FWO.pdf) |
 | **Life Skills for Academic Study**<br>学术学习生活技能 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1632X01FWO.pdf) |
-| **Introduction to Human Services**<br>人类服务导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1632X01FWO.pdf) |
+| **Introduction to Human Services**<br>人类服务入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1632X01FWO.pdf) |
 | **Career Planning for Human Services**<br>人类服务职业规划 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1632X01FWO.pdf) |
 | **Diversity**<br>多样性 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1632X01FWO.pdf) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1632X01FWO.pdf) |

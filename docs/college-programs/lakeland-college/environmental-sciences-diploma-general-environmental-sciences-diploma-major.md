@@ -30,9 +30,9 @@ ms.date: 2026-11-08
 | **Wetland Classification and Management**<br>湿地分类与管理 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
 | **Human Dimension of the Environment**<br>环境的人文维度 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
 | **Basic Energy Principles**<br>基础能源原理 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
-| **Introduction to Wind Energy**<br>风能导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
-| **Introduction to Solar Energy**<br>太阳能导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
-| **Introduction to Biofuels**<br>生物燃料导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
+| **Introduction to Wind Energy**<br>风能入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
+| **Introduction to Solar Energy**<br>太阳能入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
+| **Introduction to Biofuels**<br>生物燃料入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
 | **Environmental Site Assessment**<br>环境场地评估 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
 | **Fisheries Biology and Techniques**<br>渔业生物学与技术 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |
 | **Wildlife Habitat Conservation**<br>野生动物栖息地保护 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/environmental-sciences/general-major/index.html) |

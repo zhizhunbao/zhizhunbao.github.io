@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Human Factors and Ergonomics**<br>人因与人体工程学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/human-factors-and-ergonomics) |
 | **Technical Communication for Human Factors and Ergonomics**<br>人因与人体工程学技术沟通 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/human-factors-and-ergonomics/courses-no-intake?id=15437) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/human-factors-and-ergonomics/courses-no-intake?id=15437) |
-| **Introduction to Occupational Health and Safety Legislation**<br>职业健康与安全法规导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/human-factors-and-ergonomics/courses-no-intake?id=15437) |
+| **Introduction to Occupational Health and Safety Legislation**<br>职业健康与安全法规入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/human-factors-and-ergonomics/courses-no-intake?id=15437) |
 | **Foundations of Ergonomics**<br>人体工效学基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/human-factors-and-ergonomics/courses-no-intake?id=15437) |
 | **Managing Projects in Ergonomics**<br>人因工程项目管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/human-factors-and-ergonomics/courses-no-intake?id=15437) |
 | **Human Factors in Product Design**<br>产品设计中的人因 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/human-factors-and-ergonomics/courses-no-intake?id=15437) |

@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Natural Resources Law**<br>自然资源法 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/part-time-ecosystem-management-technician) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/part-time-ecosystem-management-technician) |
 | **Terrestrial Ecosystems**<br>陆地生态系统 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/part-time-ecosystem-management-technician) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/part-time-ecosystem-management-technician) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/part-time-ecosystem-management-technician) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/part-time-ecosystem-management-technician) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/part-time-ecosystem-management-technician) |
 | **EM-Geomatics**<br>EM-地理信息学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/part-time-ecosystem-management-technician) |

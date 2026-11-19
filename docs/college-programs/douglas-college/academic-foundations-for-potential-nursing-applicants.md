@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Academic Foundations for Potential Nursing Applicants**<br>护理意向申请者学术基础课程 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctafpn) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctafpn) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctafpn) |
 | **Data Analysis in Psychology**<br>心理学数据分析 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctafpn) |
 | **Human Anatomy and Physiology I**<br>人体解剖学与生理学 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctafpn) |
 | **Human Anatomy and Physiology II**<br>人体解剖学与生理学 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctafpn) |

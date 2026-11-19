@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Professional Golf Management – Business Administration**<br>职业高尔夫管理 – 工商管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
 | **Mathematics of Finance - Extended**<br>金融数学 - 扩展 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
 | **Careers in Professional Golf Management**<br>职业高尔夫管理职业发展 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
 | **Marketing Fundamentals**<br>营销基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |
 | **Management Accounting in Golf Operations 1**<br>高尔夫运营管理会计 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/professional-golf-management-business-administration) |

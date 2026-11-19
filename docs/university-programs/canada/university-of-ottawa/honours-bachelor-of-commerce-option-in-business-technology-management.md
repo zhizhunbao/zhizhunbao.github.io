@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Commerce (Option in Business Technology Management)**<br>荣誉商学学士（商业技术管理选项） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
-| **Introduction to Business**<br>商务导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
+| **Introduction to Business**<br>商务入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Business and Society**<br>商业与社会 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Mathematics for Management**<br>管理数学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Applications of Information Technology for Business**<br>信息技术在商业中的应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Effective Business English**<br>高效商务英语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Business Analytics for Decision Making**<br>决策商业分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Statistics for Management**<br>管理统计学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
@@ -87,7 +87,7 @@ ms.date: 2026-11-11
 | **Healthcare Informatics for Managers**<br>管理者的医疗信息学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Healthcare Management**<br>医疗管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Applied Biostatistics in R**<br>R 语言应用生物统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
-| **Introduction to Health Economics**<br>卫生经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
+| **Introduction to Health Economics**<br>卫生经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Health Research: Quantitative and Qualitative Approaches**<br>健康研究：定量与定性方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Epidemiology**<br>流行病学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |
 | **Staffing Organizations**<br>组织人员配置 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-business-technology-management/) |

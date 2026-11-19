@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Anthropology (Bachelor of Arts - Three-Year General)**<br>人类学（文学学士 - 3 年制普通） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkfxyRCo2) |
 | **Biological Anthropology**<br>生物人类学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkfxyRCo2) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkfxyRCo2) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkfxyRCo2) |
 | **Social and Cultural Anthropology**<br>社会与文化人类学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkfxyRCo2) |
 | **Language and Society**<br>语言与社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkfxyRCo2) |
 | **Food and Culture**<br>食物与文化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HkfxyRCo2) |

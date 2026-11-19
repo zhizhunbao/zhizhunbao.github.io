@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Health Assessment: Adults and Older Adults**<br>健康评估：成人与老年人 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bsnurs) |
 | **Nursing Practice: Beginning Client Care**<br>护理实践：初级客户护理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bsnurs) |
 | **Pharmacology: Introduction for Nurses**<br>药理学：护士入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bsnurs) |
-| **Relational Practice: Introduction**<br>关系实践：导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bsnurs) |
+| **Relational Practice: Introduction**<br>关系实践：入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bsnurs) |
 | **Nursing Art and Science: Acute Health Challenges**<br>护理艺术与科学：急性健康挑战 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bsnurs) |
 | **Health Assessment: Acute Health Challenges**<br>健康评估：急性健康挑战 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bsnurs) |
 | **Nursing Practice: Acute Health Challenges**<br>护理实践：急性健康挑战 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bsnurs) |

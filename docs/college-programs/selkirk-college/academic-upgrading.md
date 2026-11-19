@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Pathways to High-Demand Careers**<br>通往高需求职业之路 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Physics - Provincial Level**<br>物理：省级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Portfolio - Provincial Level**<br>作品集：省级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
-| **Social Studies: Introduction to Psychology Provincial Level**<br>社会研究：心理学导论 省级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
+| **Social Studies: Introduction to Psychology Provincial Level**<br>社会研究：心理学入门 省级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Workplace Experience - Provincial Level**<br>工作场所经历：省级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Biology - Advanced Level**<br>生物学 - 高级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Chemistry - Advanced Level**<br>化学 - 高级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Algebra - Advanced Level**<br>代数 - 高级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Mathematics: Advanced Level Business/Technical**<br>数学：高级水平 商业/技术 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Foundations Mathematics - Advanced Level**<br>基础数学 - 高级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
-| **Introduction to Physics Advanced Level**<br>物理学导论 高级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
+| **Introduction to Physics Advanced Level**<br>物理学入门 高级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Social Studies - Advanced Level**<br>社会研究：高级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Computer Studies - Intermediate Level**<br>计算机研究 - 中级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |
 | **Education and Career Planning - Intermediate Level**<br>教育与职业规划 - 中级水平 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/academic-upgrading-development/academic-upgrading) |

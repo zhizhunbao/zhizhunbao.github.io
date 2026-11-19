@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Social Work**<br>社会工作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Indigenous Studies I**<br>原住民研究 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
-| **Introduction to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
+| **Introduction to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **The Helping Process**<br>助人过程 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Indigenous Health and Wellness**<br>原住民健康与福祉 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
-| **Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
+| **Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Helping Skills**<br>助人技能 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Anti-Oppressive Practice**<br>反压迫实践 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Social Work Practicum Laboratory I**<br>社会工作实习实验课 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
@@ -27,8 +27,8 @@ ms.date: 2026-11-08
 | **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Social Work with Groups**<br>团体社会工作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Social Work with Families**<br>家庭社会工作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
-| **Introduction to Indigenous Literature and Storytelling**<br>原住民文学与讲故事导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
-| **Introduction to Literary Analysis**<br>文学分析导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
+| **Introduction to Indigenous Literature and Storytelling**<br>原住民文学与讲故事入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
+| **Introduction to Literary Analysis**<br>文学分析入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Social Policy**<br>社会政策 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Mental Health: A Multicultural Perspective**<br>精神健康：多元文化视角 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |
 | **Social Work Practice with Families**<br>家庭社会工作实践 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/social-work/costs-and-courses/) |

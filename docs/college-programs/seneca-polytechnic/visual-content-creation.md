@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Professional Practices for Visual Creators**<br>视觉创作者专业实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VCC/courses.html) |
 | **Capture Lab - Sound**<br>采集实验室 - 声音 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VCC/courses.html) |
 | **Capture Lab - Lighting**<br>采集实验室 - 灯光 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VCC/courses.html) |
-| **Introduction to Business Practices**<br>商业实践导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VCC/courses.html) |
+| **Introduction to Business Practices**<br>商业实践入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VCC/courses.html) |
 | **Content Editing II**<br>内容编辑 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VCC/courses.html) |
 | **Emerging and Alternate Technologies**<br>新兴与替代技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VCC/courses.html) |
 | **Principles of Design**<br>设计原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VCC/courses.html) |

@@ -12,10 +12,10 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Music Performance MMus; Field: Vocal Pedagogy**<br>音乐演奏（MMus）；领域：声乐教学法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Critical Approaches to Music History**<br>音乐史批判方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Music Analysis**<br>音乐分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Music Analysis**<br>音乐分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Advanced Repertoire for Singers and Pianists I**<br>歌唱家与钢琴家高级曲目 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Advanced Vocal Repertoire I**<br>高级声乐曲目 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Voice Pedagogy and Vocology**<br>嗓音教学法与嗓音学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Voice Pedagogy and Vocology**<br>嗓音教学法与嗓音学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Advanced Voice Pedagogy and Vocology**<br>高级嗓音教学法与嗓音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Applied Music I**<br>应用音乐 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Applied Music II**<br>应用音乐 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |

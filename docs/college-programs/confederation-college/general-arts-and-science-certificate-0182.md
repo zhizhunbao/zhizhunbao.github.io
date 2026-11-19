@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **General Arts and Science - Certificate (0182)**<br>通识文理 - 证书 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-certificate/) |
 | **Success Strategies**<br>成功策略 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-certificate/) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-certificate/) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-certificate/) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-certificate/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-certificate/) |
 | **Managing Media in the Info Age**<br>信息时代的媒体管理 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-certificate/) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-certificate/) |

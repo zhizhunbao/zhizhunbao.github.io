@@ -20,12 +20,12 @@ ms.date: 2026-11-08
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **Accounting Theory & Practice II**<br>会计理论与实践 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
-| **Introduction To Managerial Accounting**<br>管理会计导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
+| **Introduction To Managerial Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **Entrepreneurial Mindset**<br>创业思维 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **Communications for Business**<br>商务沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **Business Mathematics II**<br>商务数学 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bgen) |

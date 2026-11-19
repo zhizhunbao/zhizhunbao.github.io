@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Techniques en administration des affaires**<br>工商管理技术员 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-administration-des-affaires/) |
 | **Communication française professionnelle et scolaire**<br>法语专业与学术沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-administration-des-affaires/) |
 | **Comptabilité I - cycle comptable**<br>会计 I：会计循环 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-administration-des-affaires/) |
-| **Introduction aux ressources humaines**<br>人力资源导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-administration-des-affaires/) |
+| **Introduction aux ressources humaines**<br>人力资源入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-administration-des-affaires/) |
 | **Principes de gestion**<br>管理原理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-administration-des-affaires/) |
 | **Applications en affaires**<br>商务应用 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-administration-des-affaires/) |
 | **Mathématiques commerciales**<br>商业数学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-administration-des-affaires/) |

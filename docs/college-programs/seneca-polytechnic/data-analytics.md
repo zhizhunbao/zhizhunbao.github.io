@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Data Preparation and Handling**<br>数据准备与处理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAS/courses.html) |
 | **Analytics Case Studies**<br>分析学案例研究 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAS/courses.html) |
 | **Programming for Analytics**<br>数据分析编程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAS/courses.html) |
-| **Introduction to Data Visualization**<br>数据可视化导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAS/courses.html) |
+| **Introduction to Data Visualization**<br>数据可视化入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAS/courses.html) |
 | **Strategic Leadership in Data Analytics**<br>数据分析战略领导力 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAS/courses.html) |
 | **Sentiment Analysis and Text Mining**<br>情感分析与文本挖掘 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAS/courses.html) |
 | **Predictive Analytics**<br>预测分析 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAS/courses.html) |

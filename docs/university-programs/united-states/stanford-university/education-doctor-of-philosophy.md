@@ -1,10 +1,10 @@
 ---
-title: "3.3.170 Education, Doctor of Philosophy"
+title: "4.3.170 Education, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Education, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.170 Education, Doctor of Philosophy
+# 4.3.170 Education, Doctor of Philosophy
 
 ## Glossary
 
@@ -12,12 +12,12 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Education, Doctor of Philosophy**<br>教育学，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **IDEAS Seminar**<br>IDEAS研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Statistical Methods in Education**<br>教育统计方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Statistical Methods in Education**<br>教育统计方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Statistical Analysis in Education: Regression**<br>教育中的统计分析：回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Qualitative Analysis in Education**<br>教育中的定性分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Education Data Science: Data Processing**<br>教育数据科学导论：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Education Data Science: Data Analysis**<br>教育数据科学导论：数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Education Data Science: Data Processing**<br>教育数据科学入门：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Education Data Science: Data Analysis**<br>教育数据科学入门：数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Mining Massive Data Sets**<br>海量数据集挖掘 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Applied Machine Learning**<br>应用机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-18
 | **Reinforcement Learning**<br>强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Data Science for Politics**<br>政治学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Machine Learning for Social Scientists**<br>社会科学家的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Natural Language Understanding**<br>自然语言理解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Programming for Linguists**<br>语言学家的编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
@@ -42,12 +42,12 @@ ms.date: 2026-11-18
 | **Quasi-Experimental Research Design & Analysis**<br>准实验研究设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Political Methodology II: Causal Inference**<br>政治方法论 II：因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Experimental Methods**<br>实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Psychometrics**<br>心理测量学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Psychometrics - Lab**<br>心理测量学导论：实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Psychometrics**<br>心理测量学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Psychometrics - Lab**<br>心理测量学入门：实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Problems in Measurement: Item Response Theory**<br>测量问题：项目反应理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Using Data to Describe the World: Descriptive Social Science Research Techniques**<br>用数据描述世界：描述性社会科学研究技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Computational Education**<br>计算教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Global and Comparative Education**<br>全球与比较教育导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Global and Comparative Education**<br>全球与比较教育入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Economics of Education in the Global Economy**<br>全球经济中的教育经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Global Social Change, Sustainable Development, and Education**<br>全球社会变迁、可持续发展与教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Global Education Policy & Organization**<br>全球教育政策与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-18
 | **Higher Education and Society**<br>高等教育与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Research Seminar in Higher Education**<br>高等教育研究研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Spring Quarter of first year**<br>一年级春季学季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Research in Curriculum and Teacher Education**<br>课程与教师教育研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Research in Curriculum and Teacher Education**<br>课程与教师教育研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Autumn Quarter of second year**<br>第二年秋季学季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Doctoral Seminar in Curriculum Research**<br>课程研究博士研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Educational Neuroscience**<br>教育神经科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
@@ -81,7 +81,7 @@ ms.date: 2026-11-18
 | **Literacy Development and Instruction**<br>读写能力发展与教学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Classroom Assessment**<br>课堂评估 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Education of Immigrant Students: Psychological Perspectives**<br>移民学生的教育：心理学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Program Evaluation**<br>项目评估导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Program Evaluation**<br>项目评估入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Learning & Teaching of Science**<br>科学学与教学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Learning Sciences and Technology Design Research Seminar and Colloquium**<br>学习科学与技术设计研究研讨课与研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Advanced Topics in Quantitative Policy Analysis**<br>定量政策分析高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
@@ -97,15 +97,15 @@ ms.date: 2026-11-18
 | **Computer Vision for Education and Social Science Research**<br>面向教育与社会科学研究的计算机视觉 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **RILE Colloquium on Race, Inequality, and Language in Education**<br>RILE 教育中的种族、不平等与语言研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Learning, Making, Crafting, & Creating**<br>学习、制作、手工与创造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 导论：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Learning Sciences: Understanding Learning and Learning Environments**<br>学习科学导论：理解学习与学习环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 入门：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Learning Sciences: Understanding Learning and Learning Environments**<br>学习科学入门：理解学习与学习环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **How Novices Become Experts: Studying Knowledge and Expertise with Qualitative Methods**<br>新手如何成为专家：以质性方法研究知识与专长 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Designing Explorable Explanations for Learning**<br>设计面向学习的可探索解释 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Literacy Research from Lab to School**<br>读写研究：从实验室到学校 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Using Video as Data in the Learning Sciences**<br>学习科学中以视频为数据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Race, Ethnicity, and Linguistic Diversity in Classrooms: Sociocultural Theory and Practices**<br>课堂中的种族、族裔与语言多样性：社会文化理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Raza Youth in Urban Schools: Mis-educating Chicana/o/x and Latina/o/x Communities**<br>城市学校中的拉萨青年：对奇卡诺与拉丁裔社区的错误教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
-| **Introduction to Chicanx/Latinx Studies**<br>奇卡诺/拉丁裔研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
+| **Introduction to Chicanx/Latinx Studies**<br>奇卡诺/拉丁裔研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures**<br>Funkentelechy：技术、社会正义与黑人本土文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Race, Ethnicity, and Language: Writing Race, Ethnicity, and Language in Ethnography**<br>种族、族裔与语言：在民族志中书写种族、族裔与语言 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |
 | **Education for Liberation: A History of African American Education, 1800 to the Present**<br>解放教育：1800年至今的非裔美国人教育史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/doctor-of-philosophy) |

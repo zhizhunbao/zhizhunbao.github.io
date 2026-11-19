@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **IT Support Technician**<br>IT 支持技术员 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 | **Waskawimakanwa Meciwaci Isihwawina**<br>Waskawimakanwa Meciwaci Isihwawina | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
-| **Introduction to Networks**<br>网络导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
+| **Introduction to Networks**<br>网络入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 | **IT Essentials Core 1**<br>IT Essentials 核心 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 | **IT Essentials Core 2**<br>IT Essentials 核心 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 | **IT Fundamentals**<br>IT 基础 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |

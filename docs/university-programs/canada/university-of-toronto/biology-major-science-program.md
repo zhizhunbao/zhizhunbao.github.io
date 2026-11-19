@@ -53,7 +53,7 @@ ms.date: 2026-11-11
 | **History of Evolutionary Biology**<br>进化生物学史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2364) |
 | **History and Philosophy of Evolutionary Biology**<br>进化生物学的历史与哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2364) |
 | **Basic Human Nutrition**<br>基础人类营养学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2364) |
-| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2364) |
+| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2364) |
 | **Pharmacodynamic Principles**<br>药效学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2364) |
 | **Molecular Toxicology Foundations**<br>分子毒理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2364) |
 | **The DNA Damage Response in Pharmacology and Toxicology**<br>药理学与毒理学中的DNA损伤反应 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2364) |

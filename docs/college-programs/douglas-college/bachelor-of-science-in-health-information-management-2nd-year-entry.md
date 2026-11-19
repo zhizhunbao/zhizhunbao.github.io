@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Health Data Management II**<br>健康数据管理 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bschim) |
 | **Healthcare Information Management Practicum**<br>医疗信息管理实习 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bschim) |
 | **Artificial Intelligence in Healthcare**<br>医疗保健中的人工智能 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bschim) |
-| **Introduction to Programming I**<br>编程导论 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bschim) |
+| **Introduction to Programming I**<br>编程入门 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bschim) |
 | **Fundamentals of Machine Learning in Data Science**<br>数据科学中的机器学习基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bschim) |
 | **Database II**<br>数据库 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bschim) |
 | **Fundamentals of Data Analytics**<br>数据分析基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bschim) |

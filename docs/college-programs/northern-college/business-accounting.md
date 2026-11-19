@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business – Accounting**<br>商科 – 会计 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
-| **Introduction to Business Concepts**<br>商业概念导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
+| **Introduction to Business Concepts**<br>商业概念入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
 | **Computer Applications for Business I**<br>商务计算机应用 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
 | **Business Math I**<br>商业数学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
 | **Financial Accounting II**<br>财务会计 II | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/business-accounting/) |

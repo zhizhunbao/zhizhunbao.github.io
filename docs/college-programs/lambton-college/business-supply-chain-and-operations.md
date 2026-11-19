@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bcss) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bcss) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bcss) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bcss) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bcss) |
 | **Supply Chain Practices**<br>供应链实践 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bcss) |
 | **Transportation Systems & Global Trade**<br>运输系统与全球贸易 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bcss) |
 | **Supply Chain Operations Management**<br>供应链运营管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bcss) |

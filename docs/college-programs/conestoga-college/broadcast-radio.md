@@ -15,13 +15,13 @@ ms.date: 2026-11-08
 | **Writing for On-Air**<br>播音写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **Media Tools and Technology I**<br>媒体工具与技术 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
-| **Introduction to Media Ethics**<br>媒体伦理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
-| **Introduction to Audio and Video Editing**<br>音视频编辑导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
+| **Introduction to Media Ethics**<br>媒体伦理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
+| **Introduction to Audio and Video Editing**<br>音视频编辑入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **Social Media and Digital Marketing**<br>社交媒体与数字营销 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **Technology 2 - Advanced Audio Production**<br>技术 2 - 高级音频制作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **Sports Media**<br>体育媒体 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
-| **Introduction to News**<br>新闻导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
+| **Introduction to News**<br>新闻入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **Content Creation**<br>内容创作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **Integrated Media Technology**<br>综合媒体技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |
 | **Technology 3 - Multi-channel Audio Production**<br>技术 3 - 多声道音频制作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/broadcast-radio/courses?id=33928) |

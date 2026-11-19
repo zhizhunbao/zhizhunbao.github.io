@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Hazardous Materials Awareness and Operations**<br>危险品意识与操作 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Physical Fitness I**<br>体能 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Technology for Human Service Professionals**<br>人类服务专业人员技术 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Comprehensive Fire Ground Review**<br>综合火场复习 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Fire Control Operations**<br>火场控制行动 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Fire Fighting Graduate Development**<br>消防员毕业发展 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-service-firefighter-education-and-training) |

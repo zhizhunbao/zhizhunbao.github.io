@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Social Service Worker (Gerontology)**<br>社会服务工作者（老年学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we) |
-| **Introduction to Gerontology**<br>老年学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
+| **Introduction to Gerontology**<br>老年学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
 | **Communication Skills with Older Adults I**<br>老年人沟通技能 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
 | **Social Policy and Aging**<br>社会政策与老龄化 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
 | **Gerontology Practicum I**<br>老年学实习 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
-| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
+| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
 | **Communication Skills with Older Adults II**<br>老年人沟通技能 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |
 | **Gerontology Practicum II**<br>老年学实习 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-gerontology-certificate-we/courses) |

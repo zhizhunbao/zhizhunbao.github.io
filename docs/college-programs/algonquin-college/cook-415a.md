@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Pastry and Plating Techniques**<br>糕点与摆盘技巧 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0346X01FWO.pdf) |
 | **Advanced Culinary Operations**<br>高级烹饪运营 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0346X01FWO.pdf) |
 | **Food and Beverage Management**<br>餐饮管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0346X01FWO.pdf) |
-| **Introduction to Marketing and Social Media**<br>营销与社交媒体导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0346X01FWO.pdf) |
+| **Introduction to Marketing and Social Media**<br>营销与社交媒体入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0346X01FWO.pdf) |
 
 ## Courses
 

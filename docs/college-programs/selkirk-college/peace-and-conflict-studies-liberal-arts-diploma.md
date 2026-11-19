@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Peace and Conflict Studies - Liberal Arts Diploma**<br>和平与冲突研究人文学科文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
 | **College Composition**<br>大学写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
-| **Introduction to Peace Studies I**<br>和平研究导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
+| **Introduction to Peace Studies I**<br>和平研究入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
 | **Peace Studies II**<br>和平研究 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
 | **From Water to Chocolate: Environment, Conflict and Justice**<br>从水到巧克力：环境、冲突与正义 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
-| **Introduction to Restorative Justice: Theory and Practice**<br>恢复性司法导论：理论与实践 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
+| **Introduction to Restorative Justice: Theory and Practice**<br>恢复性司法入门：理论与实践 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
 | **Leadership for Peace: The Individual and Social Transformation**<br>和平领导力：个人与社会转型 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/peace-and-conflict-studies-liberal-arts-diploma) |
 
 ## Courses

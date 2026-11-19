@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Mathematics for Teachers (MMT)**<br>教师数学硕士（MMT） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByxxWyACi2) |
-| **Introduction to Mathematical Software for Teachers**<br>面向教师的数学软件导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByxxWyACi2) |
+| **Introduction to Mathematical Software for Teachers**<br>面向教师的数学软件入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByxxWyACi2) |
 | **Reading, Writing and Discovering Proofs**<br>阅读、书写与发现证明 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByxxWyACi2) |
 | **Problem Solving and Mathematical Discovery**<br>问题求解与数学发现 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByxxWyACi2) |
 | **Master of Mathematics for Teachers Capstone**<br>教师数学硕士顶点课程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByxxWyACi2) |

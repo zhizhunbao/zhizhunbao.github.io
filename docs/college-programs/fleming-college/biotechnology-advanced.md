@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Introduction to Computing for BTF**<br>BTF计算机入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/biotechnology-advanced) |
 | **Laboratory Math I**<br>实验室数学 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/biotechnology-advanced) |
 | **Scientific Communications**<br>科学传播 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/biotechnology-advanced) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/biotechnology-advanced) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/biotechnology-advanced) |
 | **Biology II**<br>生物学 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/biotechnology-advanced) |
 | **Biotech: Techniques & Regulations**<br>生物技术：技术与法规 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/biotechnology-advanced) |
 | **Chemistry II**<br>化学 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/biotechnology-advanced) |

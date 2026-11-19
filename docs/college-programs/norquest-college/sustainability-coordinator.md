@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sustainability Coordinator**<br>可持续发展协调员 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/sustainability-coordinator/) |
-| **Introduction to Sustainability**<br>可持续性导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/sustainability-coordinator/costs-and-courses/) |
+| **Introduction to Sustainability**<br>可持续性入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/sustainability-coordinator/costs-and-courses/) |
 | **Sustainability Project Management**<br>可持续性项目管理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/sustainability-coordinator/costs-and-courses/) |
 | **ESG Fundamentals**<br>ESG 基础 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/sustainability-coordinator/costs-and-courses/) |
 | **Effective Communication in Sustainability**<br>可持续发展中的有效沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/sustainability-coordinator/costs-and-courses/) |

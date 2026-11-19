@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Software Developer**<br>软件开发人员 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Software-Developer.aspx) |
-| **Introduction to Programming 1**<br>编程导论 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Software-Developer.aspx) |
-| **Introduction to Programming 2**<br>编程导论 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Software-Developer.aspx) |
+| **Introduction to Programming 1**<br>编程入门 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Software-Developer.aspx) |
+| **Introduction to Programming 2**<br>编程入门 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Software-Developer.aspx) |
 | **Website Development**<br>网站开发 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Software-Developer.aspx) |
 | **Internet Programming and Web Applications**<br>互联网编程与 Web 应用 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Software-Developer.aspx) |
 | **Software Development Fundamentals**<br>软件开发基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Software-Developer.aspx) |

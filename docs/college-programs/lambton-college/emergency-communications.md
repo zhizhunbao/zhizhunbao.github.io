@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Crisis Intervention\***<br>危机干预\* | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/emef) |
 | **Medical Terminology\***<br>医学术语\* | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/emef) |
 | **Customer Service & Ethics\***<br>客户服务与伦理\* | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/emef) |
-| **Introduction to Public Safety Telecommunicator\***<br>公共安全通信员导论\* | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/emef) |
+| **Introduction to Public Safety Telecommunicator\***<br>公共安全通信员入门\* | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/emef) |
 | **Placement Preparation**<br>实习准备 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/emef) |
 | **Contemporary Canadian Social Problems\***<br>当代加拿大社会问题\* | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/emef) |
 | **Role of Self, Communication & Workplace in Decolonizing Systems**<br>自我角色、沟通与职场在去殖民化体系中的作用 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/emef) |

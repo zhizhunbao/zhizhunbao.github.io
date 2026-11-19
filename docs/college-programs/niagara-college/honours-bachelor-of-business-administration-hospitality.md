@@ -18,12 +18,12 @@ ms.date: 2026-11-08
 | **Principles of Marketing**<br>市场营销原理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Best Practices in Food Service Management**<br>餐饮服务管理最佳实践 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Best Practices in Accommodation Management**<br>住宿管理最佳实践 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
-| **Introduction to Human Resources Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
+| **Introduction to Human Resources Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Statistical Research Concepts**<br>统计研究概念 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Completion of additional Liberal Education elective 1 course required**<br>须再完成1门额外博雅教育选修课 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
-| **Introduction to Culinary Operations Management**<br>烹饪运营管理导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
+| **Introduction to Culinary Operations Management**<br>烹饪运营管理入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Concepts of Customer Service**<br>客户服务概念 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **AND Completion of additional Language Education elective 1 course required**<br>并且 须完成另外1门语言教育选修课 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Guest Systems Management**<br>宾客系统管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Fundamentals of Wines and Beverages**<br>葡萄酒与饮品基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Integration of Food and Wine: Global Perspective**<br>美食与葡萄酒融合：全球视角 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Costings and Pricing Strategies: Food and Beverage**<br>成本核算与定价策略：餐饮 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Consumer Research Theory and Application**<br>消费者研究理论与应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Event Planning and Management**<br>活动策划与管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Strategic Revenue Management**<br>战略收益管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |
 | **Advanced Managerial Communications**<br>高级管理沟通 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/hospitalityandtourism/program/hbba-hospitality/) |

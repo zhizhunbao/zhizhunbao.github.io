@@ -18,14 +18,14 @@ ms.date: 2026-11-08
 | **Mathematics I**<br>数学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Placement Prep**<br>实习准备 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Surveying Principles I**<br>测量原理 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
-| **Introduction to Mineralogy and Geology**<br>矿物学与地质学导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
+| **Introduction to Mineralogy and Geology**<br>矿物学与地质学入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Chemistry**<br>化学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Communications in the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Environmental Principles**<br>环境原理 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **GIS, Drones and LiDAR**<br>GIS、无人机与LiDAR | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Mathematics II**<br>数学 II | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Mining Instrumentation and Process Control**<br>采矿仪表与过程控制 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
-| **Introduction to Ore Deposits**<br>矿床导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
+| **Introduction to Ore Deposits**<br>矿床入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Surface Mining**<br>露天采矿 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **Co-op Work Placement**<br>带薪实习岗位 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mining-engineering-technician/) |

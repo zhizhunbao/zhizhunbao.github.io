@@ -54,7 +54,7 @@ ms.date: 2026-11-11
 | **Critical Thinking About Music.**<br>音乐批判性思考 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-major-lmus/) |
 | **Musicianship for Strings.**<br>弦乐音乐素养 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-major-lmus/) |
 | **Post-Tonal Musicianship.**<br>后调性音乐素养 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-major-lmus/) |
-| **Introduction to Improvisation and Ornamentation.**<br>即兴演奏与装饰音导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-major-lmus/) |
+| **Introduction to Improvisation and Ornamentation.**<br>即兴演奏与装饰音入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-major-lmus/) |
 | **Advanced Rhythm in Musicianship.**<br>高级音乐素养节奏 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-major-lmus/) |
 | **Topics in Musicianship.**<br>音乐素养专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-major-lmus/) |
 | **Singing Renaissance Notation.**<br>文艺复兴记谱法演唱 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-major-lmus/) |

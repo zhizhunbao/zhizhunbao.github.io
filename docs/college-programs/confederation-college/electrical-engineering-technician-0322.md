@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Installation Methods**<br>安装方法 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technician/) |
 | **Electrical II**<br>电气 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technician/) |
 | **Electronics II**<br>电子学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technician/) |
-| **Introduction to CAD**<br>CAD 导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technician/) |
+| **Introduction to CAD**<br>CAD 入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technician/) |
 | **Technology Math II**<br>技术数学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technician/) |
 | **Industrial Data Networks**<br>工业数据网络 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technician/) |
 | **Drawings, Specifications & Standards**<br>图纸、规格与标准 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/electrical-engineering-technician/) |

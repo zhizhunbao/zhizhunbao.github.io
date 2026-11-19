@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Written Communication**<br>书面沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/educational-assistant/costs-and-courses/) |
 | **Universal Design and Adaptive Instruction**<br>通用设计与适应性教学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/educational-assistant/costs-and-courses/) |
 | **Disability 1**<br>残障 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/educational-assistant/costs-and-courses/) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/educational-assistant/costs-and-courses/) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/educational-assistant/costs-and-courses/) |
 | **Fostering Positive Behaviour and Self-Regulation**<br>培养积极行为与自我调节 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/educational-assistant/costs-and-courses/) |
 | **Supporting Literacy, Numeracy and Science**<br>支持读写、算术与科学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/educational-assistant/costs-and-courses/) |
 | **Education Assistant Field Experience**<br>教育助理现场体验 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/educational-assistant/costs-and-courses/) |

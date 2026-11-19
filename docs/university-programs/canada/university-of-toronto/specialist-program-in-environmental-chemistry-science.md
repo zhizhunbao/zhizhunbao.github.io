@@ -16,8 +16,8 @@ ms.date: 2026-11-11
 | **Introductory Chemistry I: Structure and Bonding**<br>化学入门 I：结构与成键 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Introductory Chemistry II: Reactions and Mechanisms**<br>化学入门 II：反应与机理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Advanced General Chemistry**<br>高级普通化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
-| **Introduction to Planet Earth**<br>地球导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Calculus I for the Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Calculus II for Biological Sciences**<br>生物科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
@@ -25,14 +25,14 @@ ms.date: 2026-11-11
 | **Physics I for the Physical Sciences**<br>物理科学物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Physics I for the Life Sciences**<br>生命科学物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Techniques in Analytical Chemistry**<br>分析化学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
-| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学导论：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
-| **Introduction to Inorganic Chemistry**<br>无机化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
+| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学入门：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Earth History**<br>地球历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Chemical Structure and Spectroscopy**<br>化学结构与波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Principles of Climatology**<br>气候学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Mineralogy**<br>矿物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Principles of Analytical Instrumentation**<br>分析仪器原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
@@ -53,7 +53,7 @@ ms.date: 2026-11-11
 | **Advanced Chemistry Laboratory Course**<br>高级化学实验课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Application of Spectroscopy in Chemical Structure Determination**<br>波谱学在化学结构测定中的应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 | **Modelling the Fate of Organic Chemicals in the Environment**<br>有机化学品在环境中归趋的建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
-| **Introduction to Green Chemistry**<br>绿色化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
+| **Introduction to Green Chemistry**<br>绿色化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0361) |
 
 ## Courses
 

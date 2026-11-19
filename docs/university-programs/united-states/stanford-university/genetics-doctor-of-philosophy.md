@@ -1,10 +1,10 @@
 ---
-title: "3.3.179 Genetics, Doctor of Philosophy"
+title: "4.3.179 Genetics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Genetics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.179 Genetics, Doctor of Philosophy
+# 4.3.179 Genetics, Doctor of Philosophy
 
 ## Glossary
 
@@ -12,9 +12,9 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Genetics, Doctor of Philosophy**<br>遗传学，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Foundations in Experimental Biology**<br>实验生物学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Principles of Data Science**<br>数据科学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Genetics and Developmental Biology Training Camp**<br>遗传学与发育生物学训练营 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Advanced Genetics**<br>高级遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Genomics**<br>基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-18
 | **Bioinformatics for Stem Cell and Cancer Biology**<br>干细胞与癌症生物学的生物信息学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
-| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
+| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Exploring Neural Circuits**<br>探索神经回路 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Fundamentals of Molecular Evolution**<br>分子演化基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Tumor Immunology**<br>肿瘤免疫学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-18
 | **LONGEVITY VENTURE CAPITAL**<br>长寿领域风险投资 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Microfluidic Device Laboratory**<br>微流控器件实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **AI, Genes and Ethics**<br>AI、基因与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
-| **Introduction to Genetics, Ethics, and Society**<br>遗传学、伦理与社会导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
+| **Introduction to Genetics, Ethics, and Society**<br>遗传学、伦理与社会入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Healthcare Venture Capital**<br>医疗健康风险投资 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Genetics of Viral Emergence and Emerging Viruses**<br>病毒出现的遗传学与新发病毒 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |
 | **Genomic approaches to the study of human disease**<br>人类疾病研究的基因组学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/genetics/doctor-of-philosophy) |

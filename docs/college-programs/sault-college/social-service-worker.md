@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Social Service Worker**<br>社会服务工作者 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
 | **College Communication Skills**<br>大学沟通技能 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
-| **Introduction to Indigenous Canada**<br>原住民加拿大导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
-| **Introduction to SSW Helping Skills**<br>SSW助人技能导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
-| **Introduction to Concurrent Disorders**<br>共病障碍导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
-| **Introduction to Social Service Work Theory and Practice**<br>社会服务工作理论与实践导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
-| **Introduction to Trauma Informed Care**<br>创伤知情照护导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
+| **Introduction to Indigenous Canada**<br>原住民加拿大入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
+| **Introduction to SSW Helping Skills**<br>SSW助人技能入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
+| **Introduction to Concurrent Disorders**<br>共病障碍入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
+| **Introduction to Social Service Work Theory and Practice**<br>社会服务工作理论与实践入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
+| **Introduction to Trauma Informed Care**<br>创伤知情照护入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
 | **Global Citizenship**<br>全球公民意识 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
 | **SSW Community Resources & Fieldwork Preparation**<br>SSW社区资源与实地工作准备 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |
 | **SSW Group Practice Skills**<br>SSW团体实践技能 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/social-service-worker) |

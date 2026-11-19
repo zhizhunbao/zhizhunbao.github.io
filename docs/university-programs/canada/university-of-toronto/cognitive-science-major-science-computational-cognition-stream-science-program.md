@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Cognitive Science Major - Science (Computational Cognition Stream) (Science Program)**<br>认知科学主修－理科（计算认知方向）（理科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Cognitive Science**<br>认知科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Cognitive Science**<br>认知科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Foundations of Computer Science I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Foundations of Computer Science II**<br>计算机科学基础 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Calculus II with Proofs**<br>含证明的微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Analysis 1A**<br>分析 1A | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Analysis 1B**<br>分析 1B | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Mathematical Expression and Reasoning for Computer Science**<br>计算机科学的数学表达与推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Foundations of Cognitive Science**<br>认知科学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **Statistical Theory**<br>统计理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Probability and Statistics I**<br>概率与统计 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Cognitive Psychology**<br>认知心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Cognitive Psychology**<br>认知心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Behavioural Neuroscience**<br>行为神经科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Minds and Machines**<br>心灵与机器 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Data, Computation, and the Mind**<br>数据、计算与心智 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
@@ -50,22 +50,22 @@ ms.date: 2026-11-11
 | **Computational Principles and Methods for Data Science**<br>数据科学的计算原理与方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Social and Information Networks**<br>社会与信息网络 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Algorithmic Game Theory and Mechanism Design**<br>算法博弈论与机制设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Visual Computing**<br>视觉计算导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Visual Computing**<br>视觉计算入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Principles of Programming Languages**<br>编程语言原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Natural Language Computing**<br>自然语言计算 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Probabilistic Learning and Reasoning**<br>概率学习与推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Neural Networks and Deep Learning**<br>神经网络与深度学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Image Understanding**<br>图像理解导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Image Understanding**<br>图像理解入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Computational Linguistics**<br>计算语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Knowledge Representation and Reasoning**<br>知识表示与推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Psycholinguistics: Language Acquisition in Children**<br>心理语言学：儿童语言习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Psycholinguistics: Language Processing in Adults**<br>心理语言学：成人语言加工 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Advanced Psycholinguistics**<br>高级心理语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Linguistics: Sentence Structure and Meaning**<br>语言学导论：句子结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Linguistics: Sentence Structure and Meaning**<br>语言学入门：句子结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Phonetics**<br>语音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Syntactic Patterns in Language**<br>语言中的句法模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Semantics**<br>语义学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Semantics**<br>语义学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Acoustic Phonetics**<br>声学语音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Syntactic Theory**<br>句法理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Semantic Theory**<br>语义理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
@@ -80,11 +80,11 @@ ms.date: 2026-11-11
 | **Set Theory**<br>集合论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Philosophy of Natural Science**<br>自然科学哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Understanding Neural Networks using Physics**<br>用物理学理解神经网络 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Developmental Psychology**<br>发展心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Social Psychology**<br>社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Developmental Psychology**<br>发展心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Social Psychology**<br>社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Personality and Its Transformations**<br>人格及其转变 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Learning and Plasticity**<br>学习与可塑性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
-| **Introduction to Sensation and Perception**<br>感觉与知觉导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Learning and Plasticity**<br>学习与可塑性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
+| **Introduction to Sensation and Perception**<br>感觉与知觉入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Cognitive Development**<br>认知发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **The Treatment of Psychological Data**<br>心理数据的处理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |
 | **Perceptual Development**<br>知觉发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1446a) |

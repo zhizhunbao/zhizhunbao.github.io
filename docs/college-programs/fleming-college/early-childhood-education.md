@@ -16,14 +16,14 @@ ms.date: 2026-11-08
 | **Pedagogical Foundations to Learning**<br>学习的教学法基础 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Strategies for College Success**<br>大学成功策略 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Supporting Children's Social Competencies**<br>支持儿童的社交能力 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Advocacy & Leadership**<br>倡导与领导力 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Anti Bias in Early Childhood Education**<br>幼儿教育中的反偏见 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Children's Health and the Environment**<br>儿童健康与环境 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Inquiry and Play**<br>探究与游戏 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Observing Children's Competencies**<br>观察儿童能力 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Strategies for Practicum Success**<br>实习成功策略 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Building Inclusive Environments**<br>营造包容性环境 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |
 | **Child Development II**<br>儿童发展 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education) |

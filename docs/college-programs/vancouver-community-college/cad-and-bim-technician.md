@@ -16,14 +16,14 @@ ms.date: 2026-11-08
 | **Office & Construct Site Safety**<br>办公室与施工现场安全 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Construction Mathematics**<br>建筑数学 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Civil Site Layout**<br>土木场地布置 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
-| **Introduction to Civil 3D**<br>Civil 3D 导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
-| **Introduction to Steel Structures**<br>钢结构导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
+| **Introduction to Civil 3D**<br>Civil 3D 入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
+| **Introduction to Steel Structures**<br>钢结构入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Reinforced Concrete and Foundations**<br>钢筋混凝土与基础 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Advanced Civil 3D**<br>高级Civil 3D | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
-| **Introduction to 3D CAD**<br>三维CAD导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
+| **Introduction to 3D CAD**<br>三维CAD入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Professional Communication**<br>职业沟通 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Engineering Statics**<br>工程静力学 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
-| **Introduction to Revit Structures**<br>Revit Structures 导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
+| **Introduction to Revit Structures**<br>Revit Structures 入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Concrete Floor Systems and Secondary Structures**<br>混凝土楼板系统与次级结构 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Reinforced Concrete Structural Components**<br>钢筋混凝土结构构件 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Integrated BIM Project**<br>BIM 综合项目 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-08
 | **Residential Multi-Family**<br>住宅多户型 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Commercial Retail Buildings 1**<br>商业零售建筑 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Commercial Retail Buildings 2**<br>商业零售建筑 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
-| **Introduction to 3D and BIM**<br>三维与 BIM 导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
+| **Introduction to 3D and BIM**<br>三维与 BIM 入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Commercial Office Layouts**<br>商业办公室布局 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Steel Detailing Fundamentals**<br>钢结构详图基础 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Professional Communications for Steel Detailing**<br>钢结构详图职业沟通 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-08
 | **Detail of Inclined Components**<br>斜向构件详图 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Miscellaneous Metals Detailing**<br>杂项金属详图 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **CAD 3D and Assemblies**<br>CAD 3D与装配体 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
-| **Introduction to BIM Software**<br>BIM 软件导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
+| **Introduction to BIM Software**<br>BIM 软件入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Working with BIM Software**<br>BIM 软件应用 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Heavy Structural Steel Framing**<br>重型结构钢框架 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Steel Trusses**<br>钢桁架 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
@@ -67,7 +67,7 @@ ms.date: 2026-11-08
 | **Mechanical, Electrical, Plumbing for Pipe Fabrication**<br>管道制造的机械、电气与管道工程 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Advanced Civil Site Layout**<br>高级土木场地布置 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Advanced Introduction Civil 3D**<br>高级Civil 3D入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
-| **Advanced Introduction to Steel Structures**<br>高级钢结构导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
+| **Advanced Introduction to Steel Structures**<br>高级钢结构入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Advanced Reinforced Concrete and Foundations**<br>高级钢筋混凝土与基础 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Statics 1**<br>静力学 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |
 | **Statics 2**<br>静力学 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/cad-and-bim-technician/) |

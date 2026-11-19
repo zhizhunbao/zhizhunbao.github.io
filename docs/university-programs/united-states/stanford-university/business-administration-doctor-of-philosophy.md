@@ -1,10 +1,10 @@
 ---
-title: "3.3.154 Business Administration, Doctor of Philosophy"
+title: "4.3.154 Business Administration, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Business Administration, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.154 Business Administration, Doctor of Philosophy
+# 4.3.154 Business Administration, Doctor of Philosophy
 
 ## Glossary
 
@@ -57,7 +57,7 @@ ms.date: 2026-11-18
 | **Macroeconomics III**<br>宏观经济学 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **Intermediate Econometrics III: Methods for Applied Econometrics**<br>中级计量经济学 III：应用计量经济学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **Emerging Topics in Econometrics**<br>计量经济学前沿专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
-| **Introduction to Structural Econometrics**<br>结构计量经济学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
+| **Introduction to Structural Econometrics**<br>结构计量经济学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **Machine Learning and Causal Inference**<br>机器学习与因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **International Finance and Exchange Rates**<br>国际金融与汇率 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **International Finance and Macroeconomics**<br>国际金融与宏观经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
@@ -119,7 +119,7 @@ ms.date: 2026-11-18
 | **Modeling Culture**<br>文化建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **Theoretical Computational Social Science**<br>理论计算社会科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **Rediscovering Social Science with Multiagent Simulations**<br>用多智能体模拟重新发现社会科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
-| **Introduction to the Behavioral Theory of the Firm and its Contemporary Applications**<br>企业行为理论及其当代应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
+| **Introduction to the Behavioral Theory of the Firm and its Contemporary Applications**<br>企业行为理论及其当代应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **Topics in Organizational Behavior: Individual Processes**<br>组织行为专题：个体过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **Micro Research Methods**<br>微观研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |
 | **Race and Natural Language Processing**<br>种族与自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/business-administration/doctor-of-philosophy) |

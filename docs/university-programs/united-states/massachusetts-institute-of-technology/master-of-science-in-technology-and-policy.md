@@ -1,10 +1,10 @@
 ---
-title: "3.2.75 Master of Science in Technology and Policy"
+title: "4.2.75 Master of Science in Technology and Policy"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Technology and Policy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.75 Master of Science in Technology and Policy
+# 4.2.75 Master of Science in Technology and Policy
 
 ## Glossary
 

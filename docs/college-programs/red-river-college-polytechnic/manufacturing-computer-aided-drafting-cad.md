@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Manufacturing Computer Aided Drafting (CAD)**<br>制造业计算机辅助绘图（CAD） | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT) |
 | **Communication Strategies**<br>沟通策略 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#COMM-1173) |
-| **Introduction to Manufacturing**<br>制造业导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#MANU-1074) |
+| **Introduction to Manufacturing**<br>制造业入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#MANU-1074) |
 | **Engineering Drawing 1**<br>工程制图 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#MANU-1076) |
-| **Introduction to 2D CAD**<br>二维CAD导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#MANU-1077) |
-| **Introduction to 3D CAD**<br>三维CAD导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#MANU-2077) |
+| **Introduction to 2D CAD**<br>二维CAD入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#MANU-1077) |
+| **Introduction to 3D CAD**<br>三维CAD入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#MANU-2077) |
 | **Mathematics for Manufacturing**<br>制造业数学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#MATH-1082) |
 | **WHMIS**<br>WHMIS | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#SAFE-1028) |
 | **Metallurgy and Material Science**<br>冶金与材料科学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MANCF-CT/PrinterFriendly#SCIE-1034) |

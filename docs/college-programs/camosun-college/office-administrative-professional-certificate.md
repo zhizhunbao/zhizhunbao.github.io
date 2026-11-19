@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Financial Accounting 1**<br>财务会计 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4191) |
 | **Financial Management**<br>财务管理 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4191) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4191) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4191) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4191) |
 | **Business Data Analysis**<br>商业数据分析 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4191) |
 | **Website Design & Maintenance**<br>网站设计与维护 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4191) |
 | **Maintaining an Online Presence**<br>维护网络形象 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4191) |

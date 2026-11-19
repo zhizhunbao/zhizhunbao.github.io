@@ -19,11 +19,11 @@ ms.date: 2026-11-08
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
 | **Biology II**<br>生物学 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
 | **Foundations Of Chemistry II**<br>化学基础 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
-| **Introduction To Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
+| **Introduction To Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
 | **Microbiology**<br>微生物学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/entry-pharmacy-associate-science-degree) |

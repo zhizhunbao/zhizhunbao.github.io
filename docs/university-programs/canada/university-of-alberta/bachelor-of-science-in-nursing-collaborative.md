@@ -22,10 +22,10 @@ ms.date: 2026-11-11
 | **Pathophysiology and Pharmacology II A**<br>病理生理学与药理学 II A | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
 | **Statistics and Knowledge Management (see Note 4)**<br>统计学与知识管理（见注 4） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
 | **Foundations of Nursing II**<br>护理基础 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
-| **Introduction to Nursing Practice**<br>护理实践导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
+| **Introduction to Nursing Practice**<br>护理实践入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
 | **Foundations of Nursing III**<br>护理基础 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
 | **Pathophysiology and Pharmacology II B**<br>病理生理学与药理学 II B | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
-| **Introduction to Acute Care Nursing Practice**<br>急症护理实践导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
+| **Introduction to Acute Care Nursing Practice**<br>急症护理实践入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
 | **Evidence Informed Nursing Practice**<br>循证护理实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
 | **Innovation, Leadership, Policy, and Health Care Organizations**<br>创新、领导力、政策与医疗机构 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |
 | **Advanced Acute Care Nursing Practice I**<br>高级急症护理实践 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110573&returnto=20852) |

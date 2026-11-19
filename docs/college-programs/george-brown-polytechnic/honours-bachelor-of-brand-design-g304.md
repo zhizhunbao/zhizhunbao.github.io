@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Honours Bachelor of Brand Design (G304)**<br>品牌设计荣誉学士 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Communicating for Design**<br>面向设计的沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **History & Culture of Branding**<br>品牌的历史与文化 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
-| **Introduction to Design Thinking**<br>设计思维导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
+| **Introduction to Design Thinking**<br>设计思维入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Design Studio 1: Design Foundations**<br>设计工作室 1：设计基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Production 1: Print & Digital Applications**<br>制作 1：印刷与数字应用 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Type 1: Foundations**<br>字体 1：基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
@@ -24,13 +24,13 @@ ms.date: 2026-11-08
 | **Writing Studio 1: Brand Copywriting**<br>写作工作室 1：品牌文案 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Lower Liberal Elective**<br>低年级通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Brand Strategy 1: a to Z of the Brand**<br>品牌战略 1：品牌A到Z | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
-| **Design Studio 3: Intro to 2D & 3D Design**<br>设计工作室 3：2D与3D设计导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
+| **Design Studio 3: Intro to 2D & 3D Design**<br>设计工作室 3：2D与3D设计入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Production 3: Motion and Video**<br>制作 3：动态与视频 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Type 3: Typographic System**<br>字体 3：字体系统 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Critical Perspectives in Communications and Cultural Theory**<br>传播与文化理论中的批判视角 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Research for Design 2: Qualitative Approaches and Tools**<br>面向设计的研究 2：定性方法与工具 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Design Studio 4: Product and Packaging**<br>设计工作室 4：产品与包装 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
-| **Production 4: Introduction to Web Design**<br>制作 4：网页设计导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
+| **Production 4: Introduction to Web Design**<br>制作 4：网页设计入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Writing Studio 2: Brand Story**<br>写作工作室 2：品牌故事 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Brand Strategy 2: Brand Resilience**<br>品牌战略 2：品牌韧性 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |
 | **Research for Design 3: Data Collection and Analysis**<br>面向设计的研究 3：数据收集与分析 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-program-g304) |

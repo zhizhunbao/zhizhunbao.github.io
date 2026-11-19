@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Human Physiology 2**<br>人体生理学 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Exercise Physiology**<br>运动生理学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
-| **Introduction to Public Health**<br>公共卫生导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
+| **Introduction to Public Health**<br>公共卫生入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Motor Control and Learning**<br>运动控制与学习 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Breadth Elective**<br>广度选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Anatomy**<br>解剖学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Ergonomics**<br>人机工程学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Pathophysiology**<br>病理生理学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Seminar in Health Sciences and Field Placement 1**<br>健康科学研讨与实地安置 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
-| **Introduction to Sports Injury**<br>运动损伤导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
+| **Introduction to Sports Injury**<br>运动损伤入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Principles of Occupational Health and Safety**<br>职业健康与安全原理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Advanced Exercise Physiology**<br>高级运动生理学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |
 | **Health Communications**<br>健康传播 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-health-sciences-kinesiology-and-health-promotion) |

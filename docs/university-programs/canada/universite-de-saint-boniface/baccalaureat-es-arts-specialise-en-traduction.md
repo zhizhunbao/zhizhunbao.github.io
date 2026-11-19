@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Intermediate Writing and Research**<br>中级写作与研究 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---bacc-specialise-en-traduction/index.html) |
 | **Analyse et résumé de textes I**<br>文本分析与摘要 I | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---bacc-specialise-en-traduction/index.html) |
 | **Informatique et traduction**<br>信息学与翻译 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---bacc-specialise-en-traduction/index.html) |
-| **Introduction à la traduction**<br>翻译导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---bacc-specialise-en-traduction/index.html) |
+| **Introduction à la traduction**<br>翻译入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---bacc-specialise-en-traduction/index.html) |
 | **Syntaxe comparée**<br>比较句法学 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---bacc-specialise-en-traduction/index.html) |
 | **Analyse et résumé de textes II**<br>文本分析与摘要 II | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---bacc-specialise-en-traduction/index.html) |
 | **Terminologie bilingue et documentation**<br>双语术语与文献 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---bacc-specialise-en-traduction/index.html) |

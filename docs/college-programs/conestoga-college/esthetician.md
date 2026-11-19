@@ -18,14 +18,14 @@ ms.date: 2026-11-08
 | **Basic Manicure Techniques**<br>基础手部美甲技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Basic Pedicure Techniques**<br>基础足部修护技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Spa Health and Safety**<br>水疗健康与安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
-| **Introduction to Customer Service**<br>客户服务导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
-| **Introduction to Retailing, Merchandising and Promotions**<br>零售、商品陈列与促销导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
+| **Introduction to Customer Service**<br>客户服务入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
+| **Introduction to Retailing, Merchandising and Promotions**<br>零售、商品陈列与促销入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Enhanced Skin Care**<br>强化皮肤护理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Enhanced Manicure Techniques**<br>强化手部美甲技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Enhanced Pedicure Techniques**<br>强化足部修护技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Safety in the Workplace**<br>工作场所安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Electives: General Education**<br>选修课：通识教育 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
-| **Introduction to Spa Management**<br>水疗管理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
+| **Introduction to Spa Management**<br>水疗管理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Body and Spa Services Techniques**<br>身体与水疗服务技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Specialized Skin Care**<br>专业护肤 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |
 | **Specialized Nail Techniques**<br>特色美甲技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/esthetician/courses?id=36413) |

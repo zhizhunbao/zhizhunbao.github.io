@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **TV & Film Industry Foundations**<br>电视与电影产业基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
 | **TV & Film Analysis**<br>电视与电影分析 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
-| **Intro to Camera, Lighting & Grip**<br>摄影、灯光与灯光机械导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
-| **Intro to Sound & Sound Recording**<br>声音与录音导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
+| **Intro to Camera, Lighting & Grip**<br>摄影、灯光与灯光机械入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
+| **Intro to Sound & Sound Recording**<br>声音与录音入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
 | **Film Design & the Art Dept**<br>电影设计与美术部门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
 | **Communications for TV and Film**<br>影视沟通 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |
 | **Location Sound Recording**<br>外景录音 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/television-and-film-technical-production) |

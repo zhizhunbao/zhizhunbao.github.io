@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Mechanical Engineering, B.Sc.**<br>机械工程，B.Sc. | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
 | **Introductory Chemistry 2: Interaction, Reactivity, and Chemical Properties**<br>化学入门 2：相互作用、反应性与化学性质 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
-| **Introduction to Chemistry Techniques for Engineering 2**<br>工程化学技术导论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
+| **Introduction to Chemistry Techniques for Engineering 2**<br>工程化学技术入门 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
 | **Engineering Communication: Strategies, Practice and Design**<br>工程沟通：策略、实践与设计 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
 | **Engineering Economics**<br>工程经济学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
 | **Technology, Society and the Future**<br>技术、社会与未来 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
@@ -48,7 +48,7 @@ ms.date: 2026-11-11
 | **Indigenous History in Canada (C)**<br>加拿大原住民史 (C) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
 | **The Métis in Canada**<br>加拿大的梅蒂人 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
 | **The Métis in Canada (C)**<br>加拿大的梅蒂人（C） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
-| **Introduction to Indigenous Politics**<br>原住民政治导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
+| **Introduction to Indigenous Politics**<br>原住民政治入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/engineering/mechanical-engineering/mechanical-engineering-bsc/) |
 
 ## Courses
 

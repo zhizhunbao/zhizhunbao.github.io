@@ -12,17 +12,17 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Social Services Worker Diploma**<br>社会服务工作者文凭 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Social Service Work**<br>社会服务工作导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Human Service Work**<br>人类服务工作导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Social Service Work**<br>社会服务工作入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Human Service Work**<br>人类服务工作入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Ethics and Practice**<br>伦理与实践 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Nonfictional Prose**<br>非虚构散文 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Workplace Communications**<br>职场沟通导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Workplace Communications**<br>职场沟通入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Poetry and Drama**<br>诗歌与戏剧 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Prose Fiction**<br>散文体小说 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Technical Writing**<br>技术写作 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Social Work Practice**<br>社会工作实务导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Social Work Practice**<br>社会工作实务入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Methods of Intervention and Practice Areas**<br>干预方法与实践领域 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Women and Gender Studies**<br>妇女与性别研究 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Contemporary Moral Issues**<br>当代道德问题 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Human Development I**<br>人类发展 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Human Development II**<br>人类发展 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Social Welfare**<br>社会福利导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Social Welfare**<br>社会福利入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Practicum and Seminar**<br>实习与研讨 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Canada, Post-Confederation**<br>联邦成立后的加拿大 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **The Government of Canada**<br>加拿大政府 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
@@ -44,16 +44,16 @@ ms.date: 2026-11-08
 | **Building Professional Family Partnerships**<br>建立专业的家庭伙伴关系 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Cultural and Social Anthropology I**<br>文化与社会人类学 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Cultural and Social Anthropology II**<br>文化与社会人类学 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Psychological Explanations of Criminal and Deviant Behaviour**<br>犯罪与越轨行为的心理学解释 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Canadian Law and Legal Institutions**<br>加拿大法律与法律制度导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Canadian Law and Legal Institutions**<br>加拿大法律与法律制度入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Youth and the Criminal Justice System**<br>青少年与刑事司法系统 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Indigenous Wellness and Healthy Practices**<br>原住民福祉与健康实践 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Social and Health Issues in Indigenous Communities**<br>原住民社区的社会与健康问题 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
-| **Introduction to Sociology II**<br>社会学导论 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
+| **Introduction to Sociology II**<br>社会学入门 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Research Methods for the Social Sciences**<br>社会科学研究方法 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 | **Community Helping Project**<br>社区助人项目 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/social-services-worker-diploma/) |
 

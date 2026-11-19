@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Jewish Studies Major (Arts Program)**<br>犹太研究主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0385) |
-| **Introduction to Jewish Thought**<br>犹太思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0385) |
-| **Introduction to Jewish Cultures**<br>犹太文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0385) |
+| **Introduction to Jewish Thought**<br>犹太思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0385) |
+| **Introduction to Jewish Cultures**<br>犹太文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0385) |
 | **Qualitative and Quantitative Reasoning**<br>定性与定量推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0385) |
 | **Elementary Modern Hebrew I**<br>初级现代希伯来语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0385) |
 | **Elementary Modern Hebrew II**<br>初级现代希伯来语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0385) |

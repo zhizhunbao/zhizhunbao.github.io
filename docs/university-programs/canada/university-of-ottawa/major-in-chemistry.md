@@ -17,11 +17,11 @@ ms.date: 2026-11-11
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
 | **Fundamentals of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
 | **Fundamentals of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
 | **Laboratory of Organic Chemistry II**<br>有机化学实验 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
 | **Chemical Thermodynamics of Gases and Solutions**<br>气体与溶液的化学热力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
-| **Physical Chemistry: Introduction to the Molecular Properties of Matter**<br>物理化学：物质分子性质导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
+| **Physical Chemistry: Introduction to the Molecular Properties of Matter**<br>物理化学：物质分子性质入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
 | **Descriptive Inorganic Chemistry**<br>描述无机化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
 | **Analytical Chemistry**<br>分析化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-chemistry/) |
 

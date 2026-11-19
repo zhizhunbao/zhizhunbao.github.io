@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Theory and Analysis I**<br>理论与分析 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-music-studies/) |
 | **Theory and Analysis II**<br>理论与分析 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-music-studies/) |
 | **Music in the Movies**<br>电影中的音乐 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-music-studies/) |
-| **Introduction to World Music**<br>世界音乐导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-music-studies/) |
+| **Introduction to World Music**<br>世界音乐入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-music-studies/) |
 | **Music Education I**<br>音乐教育 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-music-studies/) |
 | **Music Education II**<br>音乐教育 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-music-studies/) |
 | **Theory and Analysis IV**<br>理论与分析 IV | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-music-studies/) |

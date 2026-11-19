@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Science – Cosmetic Science**<br>理学学士：化妆品科学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS.html) |
 | **Biology I**<br>生物学 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
-| **Introduction to General Chemistry**<br>普通化学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
+| **Introduction to General Chemistry**<br>普通化学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
 | **Lab Operations I**<br>实验室运作 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
 | **Math I**<br>数学 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
 | **Biology II**<br>生物学 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
-| **Introduction to General Chemistry II**<br>普通化学导论 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
+| **Introduction to General Chemistry II**<br>普通化学入门 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
 | **Project Management Fundamentals**<br>项目管理基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
 | **Lab Operations II**<br>实验室运作 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |
 | **Computers and Data**<br>计算机与数据 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSCS/courses.html) |

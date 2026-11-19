@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Mechanical Engineering Technician**<br>机械工程技术员 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
 | **Health and Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
-| **Introduction to Physics**<br>物理学导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
+| **Introduction to Physics**<br>物理学入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
 | **Mathematics I**<br>数学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
-| **Introduction to Product Design**<br>产品设计导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
+| **Introduction to Product Design**<br>产品设计入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
 | **Millwright Machining I**<br>机修工机械加工 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
 | **Industrial Indoctrination**<br>工业入门指导 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-engineering-technician/) |

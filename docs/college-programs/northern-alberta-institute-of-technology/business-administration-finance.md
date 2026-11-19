@@ -26,14 +26,14 @@ ms.date: 2026-11-08
 | **Personal Risk Management and Estate Planning**<br>个人风险管理与遗产规划 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **Communications 2**<br>沟通 2 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **Introductory Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
-| **Introduction to Financial Planning**<br>财务规划导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
+| **Introduction to Financial Planning**<br>财务规划入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **Business Productivity Software**<br>商务生产力软件 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **Communications 1**<br>沟通 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **The Economics of Money, Banking and Financial Markets**<br>货币、银行与金融市场经济学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **Credit, Lending, & Financial Decisions**<br>信贷、借贷与财务决策 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |
 | **Investments**<br>投资学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-finance) |

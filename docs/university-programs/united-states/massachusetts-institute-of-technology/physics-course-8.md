@@ -1,10 +1,10 @@
 ---
-title: "3.2.49 Physics (Course 8)"
+title: "4.2.49 Physics (Course 8)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Physics (Course 8): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.49 Physics (Course 8)
+# 4.2.49 Physics (Course 8)
 
 ## Glossary
 
@@ -26,7 +26,7 @@ ms.date: 2026-11-18
 | **Statistical Physics II**<br>统计物理 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/physics-course-8/) |
 | **Classical Mechanics III**<br>经典力学 III | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/physics-course-8/) |
 | **Physics of Energy**<br>能源物理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/physics-course-8/) |
-| **Introduction to Special Relativity**<br>狭义相对论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/physics-course-8/) |
+| **Introduction to Special Relativity**<br>狭义相对论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/physics-course-8/) |
 | **Quantum Physics III**<br>量子物理 III | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/physics-course-8/) |
 | **Experimental Physics I**<br>实验物理 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/physics-course-8/) |
 | **Forty-three Orders of Magnitude**<br>四十三个数量级 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/physics-course-8/) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Peace, Conflict and Justice Major (Arts Program)**<br>和平、冲突与正义主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Global Innovation**<br>全球创新 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Changing World Orders**<br>变动中的世界秩序 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
-| **Locating Asia: An Introduction to Contemporary Asian Studies**<br>定位亚洲：当代亚洲研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
+| **Locating Asia: An Introduction to Contemporary Asian Studies**<br>定位亚洲：当代亚洲研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Revolutions**<br>革命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Global Capitalism**<br>全球资本主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
@@ -22,24 +22,24 @@ ms.date: 2026-11-11
 | **Histories of Violence**<br>暴力的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly**<br>哪里出了错？政治灾难、灾难性政策失败与史诗般的愚行事后检讨 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Might and Right: Power and Justice in International Relations**<br>强权与公理：国际关系中的权力与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
-| **Africa: A Critical Introduction**<br>非洲：批判性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
+| **Africa: A Critical Introduction**<br>非洲：批判性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Justice & Global Conflict**<br>正义与全球冲突 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
-| **Introduction to Sociology I: Sociological Perspectives**<br>社会学导论 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
-| **Introduction to Sociology II: Sociological Inquiries**<br>社会学导论 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
+| **Introduction to Sociology I: Sociological Perspectives**<br>社会学入门 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
+| **Introduction to Sociology II: Sociological Inquiries**<br>社会学入门 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Popular Uprisings in Africa**<br>非洲的民众起义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Climate Change, Food Security, and Sustainability in Africa**<br>非洲的气候变化、粮食安全与可持续性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Tearing Down Monuments: Controversies in Public Memory**<br>推倒纪念碑：公共记忆中的争议 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Capitalism and Crisis in the Caribbean**<br>加勒比地区的资本主义与危机 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Comparative Colonialisms in Asia**<br>亚洲殖民主义比较 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **The Holocaust in Fiction**<br>小说中的大屠杀 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Theory and Praxis in Food Security**<br>粮食安全的理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Community Organizing and Global Solidarity**<br>社区组织与全球团结 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **The "Yellow Peril": Past & Present**<br>“黄祸”：过去与现在 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Microeconomic Theory**<br>微观经济理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Macroeconomic Theory and Policy**<br>宏观经济理论与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Confronting the Climate Crisis**<br>直面气候危机 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Geographies of Colonialism in North America**<br>北美殖民主义的地理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1228) |

@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Visual Art: In Relationship with Art, Story and Materials**<br>视觉艺术：与艺术、故事和材料的关系 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECE/courses.html) |
 | **Wellbeing and Ethics of Care**<br>身心健康与关怀伦理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECE/courses.html) |
 | **Foundations of Pedagogy and Care**<br>教育学与照护基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECE/courses.html) |
-| **Introduction to Childhood Development**<br>儿童期发展导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECE/courses.html) |
+| **Introduction to Childhood Development**<br>儿童期发展入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECE/courses.html) |
 | **Human Rights and Social Justice in Early Learning and Care**<br>幼儿早期学习与照护中的人权与社会正义 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECE/courses.html) |
 | **Pedagogy and Care in Practice**<br>教学法与照护实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECE/courses.html) |
 | **Observation and Documentation of Children's Development**<br>儿童发展的观察与记录 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECE/courses.html) |

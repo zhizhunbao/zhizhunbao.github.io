@@ -1,10 +1,10 @@
 ---
-title: "3.3.49 Mathematics, Major: Bachelor of Science"
+title: "4.3.49 Mathematics, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Mathematics, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.49 Mathematics, Major: Bachelor of Science
+# 4.3.49 Mathematics, Major: Bachelor of Science
 
 ## Glossary
 
@@ -14,7 +14,7 @@ ms.date: 2026-11-18
 | **Projection-Based Model Order Reduction**<br>基于投影的模型降阶 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Statistical Mechanics of Learning and Computation**<br>学习与计算的统计力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Quantitative Evolutionary Dynamics and Genomics**<br>定量进化动力学与基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Quantitative Approaches in Modern Biology**<br>现代生物学中的定量方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Systems Biology: Principles of Cell Signaling**<br>系统生物学：细胞信号传导原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Systems Biology**<br>系统生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
@@ -24,13 +24,13 @@ ms.date: 2026-11-18
 | **Physical Chemistry II**<br>物理化学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Physical Chemistry III**<br>物理化学 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **The Greek Invention of Mathematics**<br>希腊人对数学的发明 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **A Hands-On Introduction to Building AI-Enabled Robots**<br>构建AI机器人实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **A Hands-On Introduction to Building AI-Enabled Robots**<br>构建AI机器人实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Applied Machine Learning**<br>应用机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Computational Logic**<br>计算逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Advanced Data Structures**<br>高级数据结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-18
 | **Algebraic Error Correcting Codes**<br>代数纠错码 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Cryptocurrencies and blockchain technologies**<br>加密货币与区块链技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Computational Complexity**<br>计算复杂性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Algorithmic Fairness**<br>算法公平性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Quantum Computing**<br>量子计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
@@ -59,13 +59,13 @@ ms.date: 2026-11-18
 | **Economic Analysis I**<br>经济分析 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Economic Analysis II**<br>经济分析 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Economic Analysis III**<br>经济分析 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Applied Econometrics**<br>应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Advanced Topics in Econometrics**<br>计量经济学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Money and Banking**<br>货币与银行 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Market Design**<br>市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Decision Modeling and Information**<br>决策建模与信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Investments in Financial Markets**<br>金融市场投资学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Game Theory and Economic Applications**<br>博弈论及其经济应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Game Theory and Social Behavior**<br>博弈论与社会行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
@@ -75,31 +75,31 @@ ms.date: 2026-11-18
 | **Microeconomics III**<br>微观经济学 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Simplicity and Complexity in Economic Theory**<br>经济理论中的简单与复杂 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Linear Dynamical Systems**<br>线性动力系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Intro to Solid Mechanics**<br>固体力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Intro to Solid Mechanics**<br>固体力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Engineering Economics and Sustainability**<br>工程经济学与可持续性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Information Science and Engineering**<br>信息科学与工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation**<br>大气、海洋与气候动力学：大气环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Optimization: Data Science**<br>优化导论：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Optimization (Accelerated)**<br>优化导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Optimization: Data Science**<br>优化入门：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Optimization (Accelerated)**<br>优化入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Graph and Combinatorial Optimization**<br>图与组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Stochastic Modeling**<br>随机建模导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Stochastic Modeling**<br>随机建模入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Networks**<br>网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Finance and Investment**<br>金融与投资导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Finance and Investment**<br>金融与投资入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Probabilistic Analysis**<br>概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Stochastic Modeling**<br>随机建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Stochastic Simulation and Monte Carlo Methods**<br>随机模拟与蒙特卡罗方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Fundamentals of Data Science: Prediction, Inference, Causality**<br>数据科学基础：预测、推断、因果 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Game Theory (Accelerated)**<br>博弈论导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Game Theory (Accelerated)**<br>博弈论入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Statistical Arbitrage**<br>统计套利 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Investment Science**<br>投资科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Advanced Investment Science**<br>高级投资科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Linear Programming**<br>线性规划 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Aligning Superintelligence**<br>对齐超级智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Audio Signal Processing**<br>音频信号处理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Audio Signal Processing**<br>音频信号处理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Graduate Research in Music Technology**<br>音乐技术研究生研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Mathematical Logic**<br>数理逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Metalogic**<br>元逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
@@ -113,8 +113,8 @@ ms.date: 2026-11-18
 | **Mechanics and Special Relativity**<br>力学与狭义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Quantum and Thermal Physics**<br>量子与热物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Electricity and Magnetism Using Special Relativity and Vector Calculus**<br>运用狭义相对论与矢量微积分的电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Observational Astrophysics**<br>观测天体物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Electronic Techniques for Physics Research Instrumentation**<br>物理研究仪器的电子技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Observational Astrophysics**<br>观测天体物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Electronic Techniques for Physics Research Instrumentation**<br>物理研究仪器的电子技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Advanced Physics Laboratory: Project**<br>高级物理实验室：项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Advanced Mechanics**<br>高级力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Partial Differential Equations of Mathematical Physics**<br>数学物理中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
@@ -125,8 +125,8 @@ ms.date: 2026-11-18
 | **Quantum Mechanics I**<br>量子力学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Quantum Mechanics II**<br>量子力学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Advanced Topics in Quantum Mechanics**<br>量子力学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Stellar and Galactic Astrophysics**<br>恒星与星系天体物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Cosmology and Extragalactic Astrophysics**<br>宇宙学与河外天体物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Stellar and Galactic Astrophysics**<br>恒星与星系天体物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Cosmology and Extragalactic Astrophysics**<br>宇宙学与河外天体物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Thermodynamics, Kinetic Theory, and Statistical Mechanics I**<br>热力学、气体动理论与统计力学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Thermodynamics, Kinetic Theory, and Statistical Mechanics II**<br>热力学、气体动理论与统计力学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Solid State Physics**<br>固体物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
@@ -135,27 +135,27 @@ ms.date: 2026-11-18
 | **Classical Electrodynamics**<br>经典电动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Graduate Quantum Mechanics I**<br>研究生量子力学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Graduate Quantum Mechanics II**<br>研究生量子力学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Nuclear Energy**<br>核能导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Particle Physics I**<br>粒子物理导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Nuclear Energy**<br>核能入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Particle Physics I**<br>粒子物理入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **General Relativity**<br>广义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Statistical Methods in Experimental Physics**<br>实验物理中的统计方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Neutrinos in Astrophysics and Cosmology**<br>天体物理与宇宙学中的中微子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Quantum Field Theory II**<br>量子场论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Formal Theory I**<br>形式理论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Formal Theory II**<br>形式理论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Probability Theory for Statistical Inference**<br>统计推断的概率论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Nonparametric Statistics**<br>非参数统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Nonparametric Statistics**<br>非参数统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Bayesian Statistics**<br>贝叶斯统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Applied Bayesian Statistics**<br>应用贝叶斯统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Applied Statistics I**<br>应用统计学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
@@ -177,15 +177,15 @@ ms.date: 2026-11-18
 | **Lie Theory**<br>李理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Algebraic Topology**<br>代数拓扑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Differential Geometry**<br>微分几何 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Algebraic Geometry**<br>代数几何导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Algebraic Geometry**<br>代数几何入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Theory of Probability I**<br>概率论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Complex Analysis**<br>复分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Topology and Geometry**<br>拓扑与几何导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Topology and Geometry**<br>拓扑与几何入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Groups and Rings**<br>群与环 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Fundamental Concepts of Analysis**<br>分析学基本概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Modern Mathematics: Discrete Methods**<br>现代数学：离散方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Graph Theory**<br>图论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
-| **Introduction to Combinatorics and Its Applications**<br>组合数学及其应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
+| **Introduction to Combinatorics and Its Applications**<br>组合数学及其应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Topics in Combinatorics**<br>组合数学专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Linear Algebra and Matrix Theory**<br>线性代数与矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |
 | **Elementary Theory of Numbers**<br>初等数论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mathematics/bachelor-of-science) |

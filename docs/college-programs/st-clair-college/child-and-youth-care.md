@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Reflective Child And Youth Care Practice**<br>反思性儿童与青少年照护实践 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/child-and-youth-care) |
 | **Basic Psychology**<br>基础心理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/child-and-youth-care) |
 | **Child Care Techniques I**<br>儿童照护技术 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/child-and-youth-care) |
-| **Introduction To Treatment**<br>治疗导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/child-and-youth-care) |
+| **Introduction To Treatment**<br>治疗入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/child-and-youth-care) |
 | **Diversity In CYC Practice**<br>儿童与青少年关怀实践中的多元性 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/child-and-youth-care) |
 | **Abnormal Psychology**<br>异常心理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/child-and-youth-care) |
 | **Relational And Developmental Practice**<br>关系与发展实践 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/child-and-youth-care) |

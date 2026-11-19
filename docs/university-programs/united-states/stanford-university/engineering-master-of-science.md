@@ -1,10 +1,10 @@
 ---
-title: "3.3.103 Engineering, Master of Science"
+title: "4.3.103 Engineering, Master of Science"
 description: "University Programs > United States > Stanford University > Engineering, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.103 Engineering, Master of Science
+# 4.3.103 Engineering, Master of Science
 
 ## Glossary
 
@@ -13,15 +13,15 @@ ms.date: 2026-11-18
 | **Engineering, Master of Science**<br>工程，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Linear Algebra and Matrix Theory**<br>线性代数与矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Mathematical Modeling of Biological Systems**<br>生物系统的数学建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
-| **Introduction to Neuromechanics**<br>神经力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
+| **Introduction to Neuromechanics**<br>神经力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Biotransport Phenomena**<br>生物传输现象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Mechanotransduction in Cells and Tissues**<br>细胞与组织中的力学转导 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Biomechanics of Movement**<br>运动生物力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
-| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
+| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Computational Modeling in the Cardiovascular System**<br>心血管系统的计算建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Mechanics of Biological Tissues**<br>生物组织力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |
 | **Dynamics and Feedback Control of Living Systems**<br>生命系统的动力学与反馈控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/engineering/master-of-science) |

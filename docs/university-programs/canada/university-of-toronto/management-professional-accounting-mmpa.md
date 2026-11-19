@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Management & Professional Accounting MMPA**<br>管理与专业会计学（MMPA） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Accounting Work-Term I**<br>会计工作学期 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Communications**<br>传播学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
-| **Introduction to Integration and Professional Decision Making**<br>整合与专业决策导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
+| **Introduction to Integration and Professional Decision Making**<br>整合与专业决策入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Ethics and Governance**<br>伦理与治理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Managerial Economics**<br>管理经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Economic Environment of Business**<br>商业经济环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |

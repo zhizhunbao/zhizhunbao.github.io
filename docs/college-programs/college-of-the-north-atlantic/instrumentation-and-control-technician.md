@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Communication and Trade Documentation**<br>沟通与行业文档 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Conductors and Cables**<br>导线与电缆 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Tubing and Piping Systems**<br>管材与管道系统 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
-| **Introduction to Fluids**<br>流体导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
+| **Introduction to Fluids**<br>流体入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Signal Transmission Systems**<br>信号传输系统 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Electronics (Circuits and Components)**<br>电子学（电路与元器件） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Pneumatic Supply Systems I**<br>气动供气系统 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
@@ -37,14 +37,14 @@ ms.date: 2026-11-08
 | **On-Off Control Devices**<br>开关控制装置 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Final Control Elements**<br>最终控制元件 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Trade Related Computer Use**<br>行业相关计算机使用 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Instrumentation and Control Math Fundamentals**<br>仪表与控制数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 | **Mentoring I**<br>辅导指导 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/instrumentation-and-control-technician) |
 
 ## Courses
 

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Global Medieval and Early Modern Studies**<br>全球中世纪与近代早期研究主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/global-medieval-and-early-modern-studies) |
-| **Introduction to Global Medieval and Early Modern Studies**<br>全球中世纪与早期近代研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/global-medieval-and-early-modern-studies) |
+| **Introduction to Global Medieval and Early Modern Studies**<br>全球中世纪与早期近代研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/global-medieval-and-early-modern-studies) |
 | **Research Seminar in Medieval Studies**<br>中世纪研究研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/global-medieval-and-early-modern-studies) |
 
 ## Courses

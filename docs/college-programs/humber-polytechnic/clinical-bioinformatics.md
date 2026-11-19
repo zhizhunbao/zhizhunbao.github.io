@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Clinical Bioinformatics**<br>临床生物信息学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
-| **Introduction to Omics**<br>组学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
+| **Introduction to Omics**<br>组学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
 | **Computational Tools and Methods**<br>计算工具与方法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
 | **Data Mining, Modeling and Biostatistics**<br>数据挖掘、建模与生物统计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
-| **Introduction to Python for Bioinformatics**<br>生物信息学Python导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
+| **Introduction to Python for Bioinformatics**<br>生物信息学Python入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
 | **Professional Development**<br>职业发展 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
 | **Bioinformatics and Precision Medicine**<br>生物信息学与精准医学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |
 | **Data Analytics and Storytelling**<br>数据分析与数据叙事 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/clinical-bioinformatics) |

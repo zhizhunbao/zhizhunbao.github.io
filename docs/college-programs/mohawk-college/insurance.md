@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Business Success Strategies**<br>商务成功策略 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Basic Math Review and Business Math**<br>基础数学复习与商业数学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Economics**<br>经济学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Underwriting Essentials**<br>核保基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Principles Of Insurance 1**<br>保险原理 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **General Education Elective 2**<br>通识教育选修课 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Personal Financial Management**<br>个人理财管理 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
-| **Introduction To Organizational Behaviour**<br>组织行为导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
+| **Introduction To Organizational Behaviour**<br>组织行为入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Negotiation Strategies**<br>谈判策略 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Business Reports**<br>商务报告 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Essential Skills for the Insurance Broker and Agent**<br>保险经纪人与代理人必备技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Insurance on Property**<br>财产保险 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Automobile Insurance**<br>汽车保险 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Business Applications with Excel**<br>使用Excel的业务应用 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
-| **Introduction to Analytics For Insurance**<br>保险分析导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
+| **Introduction to Analytics For Insurance**<br>保险分析入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Essentials of Loss Adjusting**<br>保险理赔基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Fraud Awareness and Prevention**<br>欺诈意识与预防 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |
 | **Insurance Against Liability**<br>责任保险 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=368&prg_ver=26-A) |

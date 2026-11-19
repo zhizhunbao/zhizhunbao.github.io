@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Brewmaster and Brewery Operations Management**<br>酿酒师与啤酒厂运营管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/brewmaster-brewery-operations/) |
-| **Introduction to Brewing**<br>酿造导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/brewmaster-brewery-operations/) |
+| **Introduction to Brewing**<br>酿造入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/brewmaster-brewery-operations/) |
 | **Basic Practical Brewing**<br>基础实用酿造 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/brewmaster-brewery-operations/) |
 | **Sensory Evaluation of Beer**<br>啤酒感官评价 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/brewmaster-brewery-operations/) |
 | **Packaging**<br>包装 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/brewmaster-brewery-operations/) |

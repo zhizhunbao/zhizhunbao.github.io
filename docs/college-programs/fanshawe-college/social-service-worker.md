@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Communications for Community Studies**<br>社区研究沟通 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4182/courses-next/) |
 | **Ethical Principles-Research & Evaluation**<br>伦理原则-研究与评估 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4182/courses-next/) |
 | **Professional Practice-SSW**<br>专业实践 - SSW | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4182/courses-next/) |
-| **Social Work With Families-Intro**<br>家庭社会工作导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4182/courses-next/) |
+| **Social Work With Families-Intro**<br>家庭社会工作入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4182/courses-next/) |
 | **Human Development & Social Work**<br>人类发展与社会工作 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4182/courses-next/) |
 | **Counselling 2**<br>咨询 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4182/courses-next/) |
 | **SSW Practice & Intervention**<br>SSW实践与干预 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4182/courses-next/) |

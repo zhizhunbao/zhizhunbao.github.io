@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1938X01FWO.pdf) |
 | **Plants, Soil and Fertilization**<br>植物、土壤与施肥 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1938X01FWO.pdf) |
 | **Farm Safety and Biosecurity Regulations**<br>农场安全与生物安保法规 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1938X01FWO.pdf) |
-| **Introduction to Management Fundamentals**<br>管理基础导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1938X01FWO.pdf) |
+| **Introduction to Management Fundamentals**<br>管理基础入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1938X01FWO.pdf) |
 | **Basic Business Mathematics**<br>基础商务数学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1938X01FWO.pdf) |
 | **Accounting Concepts I**<br>会计概念 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1938X01FWO.pdf) |
 | **Crop Production Management**<br>作物生产管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1938X01FWO.pdf) |

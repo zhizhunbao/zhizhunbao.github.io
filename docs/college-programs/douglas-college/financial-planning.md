@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Excel for Business**<br>商务 EXCEL | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfipl) |
 | **Personal Finance I (CFP)**<br>个人理财 1（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfipl) |
 | **Corporate Finance**<br>公司财务 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfipl) |
-| **Introduction to Corporate Finance**<br>公司理财导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfipl) |
+| **Introduction to Corporate Finance**<br>公司理财入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfipl) |
 | **Security Analysis (CFP)**<br>证券分析（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfipl) |
 | **Income Tax I (CFP)**<br>所得税 I（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfipl) |
 | **Personal Finance II (CFP)**<br>个人理财 2（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfipl) |

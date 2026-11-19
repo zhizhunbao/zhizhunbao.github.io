@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Introductory Financial Accounting I**<br>财务会计入门 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
 | **Marketing Essentials**<br>营销要点 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
 | **Business Certificate Capstone**<br>商务证书毕业设计项目 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
 | **Intercultural Communications**<br>跨文化交际 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
 | **Communication and Presentation Skills**<br>沟通与演示技能 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Leadership**<br>领导力 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
 | **Marketing Action: From Concept to Creation**<br>营销实战：从概念到创作 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/business-and-entrepreneurship) |
 
 ## Courses
 

@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Visual Studies Major**<br>视觉研究主修 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahmaj0660) |
 | **Visual Concepts**<br>视觉概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahmaj0660) |
 | **Visual Strategies**<br>视觉策略 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahmaj0660) |
-| **Introduction to Critical Theory**<br>批判理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahmaj0660) |
+| **Introduction to Critical Theory**<br>批判理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahmaj0660) |
 
 ## Courses
 

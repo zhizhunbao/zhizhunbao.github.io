@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **CAD Fundamentals**<br>CAD 基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MBT/courses.html) |
 | **Building a Sustainable Future**<br>构建可持续未来 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MBT/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MBT/courses.html) |
-| **Introduction to Engineering and the Built Environment**<br>工程与建成环境导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MBT/courses.html) |
+| **Introduction to Engineering and the Built Environment**<br>工程与建成环境入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MBT/courses.html) |
 | **Mathematics with Foundations**<br>数学（含基础） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MBT/courses.html) |
 | **Applied Heating**<br>应用供暖 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MBT/courses.html) |
 | **Applied Air Conditioning and Refrigeration**<br>应用空调与制冷 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MBT/courses.html) |

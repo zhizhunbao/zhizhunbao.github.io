@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN GLOBAL COMMERCE (must be part of an Honours Double Major)**<br>全球商务主修（必须属于荣誉双主修） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUSINESS**<br>商业导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUSINESS**<br>商业入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR SOCIAL SCIENCES**<br>社会科学微积分 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
@@ -25,8 +25,8 @@ ms.date: 2026-11-11
 | **INFORMATION TECHNOLOGY IN THE COMMERCIAL ENVIRONMENT**<br>商业环境中的信息技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY CALCULUS**<br>微积分入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
 | **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
 | **ECONOMETRICS I**<br>计量经济学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
 | **CROSS-CULTURAL COMMERCIAL RELATIONSHIPS**<br>跨文化商业关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL BUSINESS ENVIRONMENT**<br>全球商业环境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21509&SelectedCalendar=Live&ArchiveID=) |

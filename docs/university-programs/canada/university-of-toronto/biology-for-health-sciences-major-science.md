@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Biology for Health Sciences - Major (Science)**<br>健康科学生物学－主修（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Diversity of Organisms**<br>生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Chemical Principles 1**<br>化学原理 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Chemical Principles 2**<br>化学原理 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
@@ -28,11 +28,11 @@ ms.date: 2026-11-11
 | **Introductory Genetics**<br>遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Biomechanics of Human Movement**<br>人体运动生物力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Foundations of Human Physiology**<br>人体生理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
-| **Introduction to Biological Data**<br>生物数据导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
+| **Introduction to Biological Data**<br>生物数据入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Molecular Physiology of Excitable Cells**<br>可兴奋细胞的分子生理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Physiology of Regulatory Systems**<br>调节系统生理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Human Development**<br>人类发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
-| **Introduction to Pharmacology: Pharmacokinetic Principles**<br>药理学导论：药代动力学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
+| **Introduction to Pharmacology: Pharmacokinetic Principles**<br>药理学入门：药代动力学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Laboratory in Cell and Molecular Biology**<br>细胞与分子生物学实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Human Cell Biology**<br>人体细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |
 | **Animal Behaviour**<br>动物行为学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1149) |

@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Information Technology Services**<br>信息技术服务 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |
-| **Introduction to Hardware**<br>计算机硬件导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |
+| **Introduction to Hardware**<br>计算机硬件入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |
-| **Introduction to Networks**<br>网络导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |
+| **Introduction to Networks**<br>网络入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |
 | **Object-Oriented Programming I**<br>面向对象编程 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |
 | **Mathematics for Technologists**<br>技术人员数学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |
 | **Switching and Routing Essentials**<br>交换与路由基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services) |

@@ -13,14 +13,14 @@ ms.date: 2026-11-11
 | **Work and Organizations Major: Social Sciences Contexts (Arts Program)**<br>工作与组织主修：社会科学情境（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Geopolitics, Globalization, and Inequality**<br>地缘政治、全球化与不平等 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Cities and Urban Life**<br>城市与城市生活 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
-| **The Real World of Politics: An Introduction**<br>政治的真实世界：导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
+| **The Real World of Politics: An Introduction**<br>政治的真实世界：入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Contemporary Challenges to Democracy: Democracy in the Social Media Age**<br>民主面临的当代挑战：社交媒体时代的民主 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly**<br>哪里出了错？政治灾难、灾难性政策失败与史诗般的愚行事后检讨 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Might and Right: Power and Justice in International Relations**<br>强权与公理：国际关系中的权力与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
-| **Introduction to Sociology I: Sociological Perspectives**<br>社会学导论 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
-| **Introduction to Sociology II: Sociological Inquiries**<br>社会学导论 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
-| **Introduction to Work and Organizations**<br>工作与组织导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
+| **Introduction to Sociology I: Sociological Perspectives**<br>社会学入门 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
+| **Introduction to Sociology II: Sociological Inquiries**<br>社会学入门 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
+| **Introduction to Work and Organizations**<br>工作与组织入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Effective Communication and Strategic Writing in Organizations**<br>组织中的有效沟通与战略写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
@@ -28,12 +28,12 @@ ms.date: 2026-11-11
 | **Management Skills for Project and Strategy Implementation**<br>项目与战略实施的管理技能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Research and Data Analytics**<br>研究与数据分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Statistics for Work and Organizations**<br>工作与组织统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Biostatistics for Biological Sciences**<br>生物科学生物统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Introductory Analytical Methods**<br>分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
-| **Introduction to Quantitative Reasoning I**<br>定量推理导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
+| **Introduction to Quantitative Reasoning I**<br>定量推理入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
-| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
+| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Probability, Statistics and Data Analysis II**<br>概率、统计与数据分析 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Statistics for Computer Scientists**<br>计算机科学家统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-11
 | **Infrastructure**<br>基础设施 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Innovation and Governance**<br>创新与治理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Geographies of Markets**<br>市场地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
-| **Introduction to Social Psychology**<br>社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
+| **Introduction to Social Psychology**<br>社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Social Psychology: Attitudes**<br>社会心理学：态度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Cross-Cultural Psychology**<br>跨文化心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |
 | **Intergroup Relations**<br>群体间关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1533) |

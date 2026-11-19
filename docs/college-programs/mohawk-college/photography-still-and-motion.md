@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Photography - Still and Motion**<br>摄影：静态与动态 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://www.mohawkcollege.ca/programs/creative-industries/photography-still-and-motion) |
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
-| **Introduction to Editing Software**<br>编辑软件导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
+| **Introduction to Editing Software**<br>编辑软件入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **Light and Colour**<br>光与色彩 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **Studio 01**<br>工作室 01 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **Photography Fundamentals**<br>摄影基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **General Education Elective 2**<br>通识教育选修课 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **Motion Photography Basics**<br>动态摄影基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **Digital Still Image Editing**<br>数字静态图像编辑 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
-| **Introduction to Motion Editing**<br>动作编辑导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
+| **Introduction to Motion Editing**<br>动作编辑入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **Creative Lighting Techniques**<br>创意灯光技术 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **Creative Photography Techniques**<br>创意摄影技术 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |
 | **Studio 02**<br>工作室 02 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=378&prg_ver=26-A) |

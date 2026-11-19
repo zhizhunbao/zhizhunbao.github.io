@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Life on Earth: Form, Function and Interactions**<br>地球上的生命：形态、功能与相互作用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Introductory Chemistry I: Structure and Bonding**<br>化学入门 I：结构与成键 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Introductory Chemistry II: Reactions and Mechanisms**<br>化学入门 II：反应与机理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
-| **Introduction to Planet Earth**<br>地球导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Calculus I for the Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Calculus II for Biological Sciences**<br>生物科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
@@ -32,8 +32,8 @@ ms.date: 2026-11-11
 | **Principles of Geomorphology**<br>地貌学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Environmental Geophysics**<br>环境地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Hydro Politics and Transboundary Water Resources Management**<br>水政治与跨境水资源管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
-| **Introduction to Computer Science I**<br>计算机科学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
+| **Introduction to Computer Science I**<br>计算机科学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 | **Communicating Science: Film, Media, Journalism, and Society**<br>科学传播：电影、媒体、新闻与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1076) |
 

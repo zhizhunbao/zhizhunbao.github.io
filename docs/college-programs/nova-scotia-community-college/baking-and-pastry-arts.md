@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Quick Breads and Cookies**<br>快速面包与饼干 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/baking-and-pastry-arts) |
 | **Plated Dessert I**<br>装盘甜点 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/baking-and-pastry-arts) |
 | **Patisserie I**<br>法式糕点 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/baking-and-pastry-arts) |
-| **Introduction to Human Relations**<br>人际关系导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/baking-and-pastry-arts) |
+| **Introduction to Human Relations**<br>人际关系入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/baking-and-pastry-arts) |
 | **Baking Theory II**<br>烘焙理论 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/baking-and-pastry-arts) |
 | **Yeast Dough Products II**<br>酵母面团产品 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/baking-and-pastry-arts) |
 | **Plated Dessert II**<br>装盘甜点 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/baking-and-pastry-arts) |

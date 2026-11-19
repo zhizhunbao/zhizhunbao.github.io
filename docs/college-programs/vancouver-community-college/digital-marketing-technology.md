@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/digital-marketing-technology/) |
 | **International E-Commerce**<br>国际电子商务 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/digital-marketing-technology/) |
 | **Customer Relationship Management**<br>客户关系管理 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/digital-marketing-technology/) |
-| **Introduction to Digital Marketing**<br>数字营销导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/digital-marketing-technology/) |
+| **Introduction to Digital Marketing**<br>数字营销入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/digital-marketing-technology/) |
 | **Marketing Math**<br>营销数学 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/digital-marketing-technology/) |
 | **Marketing Communication for the Web**<br>网络营销传播 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/digital-marketing-technology/) |
 | **Business Analysis and Systems Design**<br>业务分析与系统设计 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/business/digital-marketing-technology/) |

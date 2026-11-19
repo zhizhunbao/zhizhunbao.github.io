@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Social and Community Development**<br>荣誉社会与社区发展学士 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-social-community-development) |
-| **Introduction to Qualitative and Quantitative Research Methods with Communities**<br>面向社区的定性与定量研究方法导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-social-community-development) |
+| **Introduction to Qualitative and Quantitative Research Methods with Communities**<br>面向社区的定性与定量研究方法入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-social-community-development) |
 | **Values, Ethics and Anti-Oppressive Practice**<br>价值观、伦理与反压迫实践 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-social-community-development) |
 | **Sociological Perspectives in Community Development**<br>社区发展中的社会学视角 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-social-community-development) |
 | **Community Development: Issues, Trends & Strategies**<br>社区发展：议题、趋势与策略 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-social-community-development) |

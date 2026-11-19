@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Power Engineering Technician**<br>动力工程技术员 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/power-engineering-technician/) |
-| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 导论 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/power-engineering-technician/) |
+| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 入门 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/power-engineering-technician/) |
 | **Basic Electricity**<br>基础电学 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/power-engineering-technician/) |
 | **Applied Mechanics (Fourth Class)**<br>应用力学（四级） | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/power-engineering-technician/) |
 | **Power Lab**<br>动力实验室 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/power-engineering-technician/) |

@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Early Childhood Education (Advanced Standing) (Part-time)**<br>幼儿教育（插班）（兼读） | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
 | **Child Development I**<br>儿童发展 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
 | **Supporting Children's Social Competencies**<br>支持儿童的社交能力 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
 | **Inquiry and Play**<br>探究与游戏 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
 | **Observing Children's Competencies**<br>观察儿童能力 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
 | **Child Development II**<br>儿童发展 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
 | **Field Practicum II**<br>实地实习 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/early-childhood-education-advance-standing) |
 
 ## Courses

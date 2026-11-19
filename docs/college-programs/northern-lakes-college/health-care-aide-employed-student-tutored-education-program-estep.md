@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Health Across the Life Span**<br>全生命周期健康 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/health-care-aide) |
 | **Communication and Collaborative Care**<br>沟通与协作护理 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/health-care-aide) |
 | **Fundamentals of Providing Safe, Person-Centered Care**<br>安全的以人为本护理基础 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/health-care-aide) |
-| **Introduction to Clinical Practice I**<br>临床实践导论 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/health-care-aide) |
+| **Introduction to Clinical Practice I**<br>临床实践入门 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/health-care-aide) |
 | **Advanced Care Techniques: Addressing Complex Care Needs**<br>高级护理技术：应对复杂护理需求 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/health-care-aide) |
 | **Comprehensive Care Strategies for Diverse Client Needs**<br>应对多元客户需求的综合护理策略 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/health-care-aide) |
 | **Intermediate Clinical Placement II**<br>中级临床实习 II | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/health-care-aide) |

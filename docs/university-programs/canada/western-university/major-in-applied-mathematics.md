@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **MATHEMATICAL MODELLING**<br>数学建模 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21064&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICS OF FINANCIAL OPTIONS**<br>金融期权数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21064&SelectedCalendar=Live&ArchiveID=) |
 | **OPTIMIZATION METHODS FOR FINANCIAL MODELLING**<br>金融建模优化方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21064&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MATHEMATICAL PROBLEMS**<br>数学问题导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21064&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MATHEMATICAL PROBLEMS**<br>数学问题入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21064&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

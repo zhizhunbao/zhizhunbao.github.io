@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education (Counselling Psychology)**<br>教育学硕士，咨询心理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-counselling-psychology/) |
-| **Introduction to Research in Education**<br>教育研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-counselling-psychology/) |
+| **Introduction to Research in Education**<br>教育研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-counselling-psychology/) |
 | **Professional Ethics in Counselling Psychology**<br>心理咨询的职业伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-counselling-psychology/) |
 | **Counselling and Psychotherapy: Theories and Practices I**<br>咨询与心理治疗：理论与实践 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-counselling-psychology/) |
 | **Tests and Measurement in Counselling Psychology**<br>心理咨询中的测验与测量 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-counselling-psychology/) |

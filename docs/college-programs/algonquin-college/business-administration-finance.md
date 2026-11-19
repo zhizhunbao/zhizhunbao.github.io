@@ -21,18 +21,18 @@ ms.date: 2026-11-08
 | **Database & Advanced Excel Concepts**<br>数据库与高级Excel概念 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Communications 2**<br>沟通 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
-| **Introduction to Management Fundamentals**<br>管理基础导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
+| **Introduction to Management Fundamentals**<br>管理基础入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Quantitative Methods I**<br>定量方法 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Accounting Concepts II**<br>会计概念 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Global Business Environment**<br>全球商业环境 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
-| **Introduction to Finance**<br>金融导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
+| **Introduction to Finance**<br>金融入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Material and Operations Management**<br>物料与运营管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Business Finance**<br>企业财务 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Retirement Planning**<br>退休规划 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Client Relations**<br>客户关系 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
-| **Introduction to the Canadian Financial System**<br>加拿大金融体系导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
+| **Introduction to the Canadian Financial System**<br>加拿大金融体系入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Quantitative Methods II**<br>定量方法 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |
 | **Risk and Estate Planning**<br>风险与遗产规划 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0216K01FWO.pdf) |

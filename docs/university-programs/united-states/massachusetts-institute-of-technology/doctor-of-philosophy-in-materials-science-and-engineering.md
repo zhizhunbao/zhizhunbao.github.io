@@ -1,17 +1,17 @@
 ---
-title: "3.2.108 Doctor of Philosophy in Materials Science and Engineering"
+title: "4.2.108 Doctor of Philosophy in Materials Science and Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Materials Science and Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.108 Doctor of Philosophy in Materials Science and Engineering
+# 4.2.108 Doctor of Philosophy in Materials Science and Engineering
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Doctor of Philosophy in Materials Science and Engineering**<br>材料科学与工程哲学博士 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-materials-science-engineering/) |
-| **Introduction to DMSE**<br>DMSE 导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-materials-science-engineering/) |
+| **Introduction to DMSE**<br>DMSE 入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-materials-science-engineering/) |
 | **Essential Research Skills**<br>研究技能精要 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-materials-science-engineering/) |
 | **Physical Chemistry of Materials**<br>材料物理化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-materials-science-engineering/) |
 | **Structure of Materials**<br>材料结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-materials-science-engineering/) |

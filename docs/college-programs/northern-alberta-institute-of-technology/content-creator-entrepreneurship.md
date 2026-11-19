@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Mobile Media Production**<br>移动媒体制作 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
 | **Audio Storytelling & Sonic Branding**<br>音频叙事与声音品牌 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
 | **Communications 1**<br>沟通 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
-| **Introduction to Graphic Design**<br>平面设计导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
+| **Introduction to Graphic Design**<br>平面设计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
 | **Social Media Marketing**<br>社交媒体营销 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
 | **Creator Brand Foundations**<br>创作者品牌基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |
 | **AI for Content and Platforms**<br>面向内容与平台的人工智能 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/content-creator-entrepreneurship) |

@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Applied Science Biomedical Engineering**<br>应用科学硕士，生物医学工程 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
-| **Introduction to Biomedical Engineering**<br>生物医学工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
+| **Introduction to Biomedical Engineering**<br>生物医学工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
 | **Biomedical Engineering Seminar**<br>生物医学工程研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
 | **Master's Thesis**<br>硕士论文 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
 | **Synthetic Membranes in Biomedical Engineering**<br>生物医学工程中的合成膜 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
-| **Introduction to Polymer Reaction Engineering**<br>聚合物反应工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
+| **Introduction to Polymer Reaction Engineering**<br>聚合物反应工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
 | **Polymer Properties and Characterization**<br>聚合物性能与表征 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
 | **Advanced Numerical Methods in Chemical and Biological Engineering**<br>化学与生物工程高级数值方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |
 | **Interfacial Phenomena in Engineering**<br>工程中的界面现象 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-biomedical-engineering/) |

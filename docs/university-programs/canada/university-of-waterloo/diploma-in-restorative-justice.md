@@ -14,12 +14,12 @@ ms.date: 2026-11-11
 | **Trauma, Healing, and Social Transformation**<br>创伤、疗愈与社会转型 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **Issues in Contemporary Indigenous Communities in Canada**<br>加拿大当代原住民社区议题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **The Indigenous Experience in Canada**<br>加拿大的原住民经历 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
-| **Introduction to Indigenous Political Thought**<br>原住民政治思想导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
+| **Introduction to Indigenous Political Thought**<br>原住民政治思想入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **Conflict Resolution**<br>冲突解决 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **Restorative Justice**<br>恢复性司法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **Combating Racisms**<br>反对种族主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **Taking B(l)ack History**<br>夺回黑人历史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
-| **Introduction to Anti-Racist Communication**<br>反种族主义传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
+| **Introduction to Anti-Racist Communication**<br>反种族主义传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **Social Determinants of Health**<br>健康的社会决定因素 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **Global History of the Prison**<br>监狱的全球史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |
 | **Indigenous Worldviews and Spirituality**<br>原住民世界观与灵性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1t2s0J3n) |

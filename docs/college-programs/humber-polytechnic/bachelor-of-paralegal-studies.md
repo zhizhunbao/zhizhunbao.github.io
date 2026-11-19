@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Paralegal Studies**<br>律务助理研究学士 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
-| **Introduction to Canada's Legal System**<br>加拿大法律体系导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
+| **Introduction to Canada's Legal System**<br>加拿大法律体系入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
 | **Small Claims Court 1**<br>小额索赔法庭 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
 | **Tort Law**<br>侵权法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
-| **Introduction to Legal Writing**<br>法律写作导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
+| **Introduction to Legal Writing**<br>法律写作入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
 | **Small Claims Court 2**<br>小额索赔法庭 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
 | **Contract Law**<br>合同法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |
 | **Legal Computer Applications**<br>法律计算机应用 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-paralegal-studies) |

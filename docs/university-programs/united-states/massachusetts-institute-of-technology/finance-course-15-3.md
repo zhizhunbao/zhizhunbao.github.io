@@ -1,10 +1,10 @@
 ---
-title: "3.2.31 Finance (Course 15-3)"
+title: "4.2.31 Finance (Course 15-3)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Finance (Course 15-3): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.31 Finance (Course 15-3)
+# 4.2.31 Finance (Course 15-3)
 
 ## Glossary
 
@@ -16,9 +16,9 @@ ms.date: 2026-11-18
 | **Laboratory in Investments (CI-M)**<br>投资实验室 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Laboratory in Corporate Finance (CI-M)**<br>公司金融实验室 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Corporate Financial Accounting**<br>公司财务会计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
-| **Introduction to Statistical Methods in Economics**<br>经济学统计方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
+| **Introduction to Statistical Methods in Economics**<br>经济学统计方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Applied Probability and Statistics**<br>应用概率与统计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Entrepreneurial Finance and Venture Capital**<br>创业金融与风险投资 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Financial Markets**<br>金融市场 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Advanced Corporate Finance**<br>高级公司金融 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-18
 | **Management Communication for Undergraduates (CI-M)**<br>本科生管理沟通（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **People, Teams, and Organizations Laboratory (CI-M)**<br>人、团队与组织实验室（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Organizational Processes for Business Analytics (CI-M)**<br>商业分析的组织过程（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
-| **Introduction to Operations Management**<br>运营管理导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
+| **Introduction to Operations Management**<br>运营管理入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Marketing Innovation**<br>营销创新 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 | **Competitive Strategy**<br>竞争战略 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/finance-course-15-3/) |
 

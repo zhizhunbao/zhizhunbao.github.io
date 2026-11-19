@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Farrier Science Certificate**<br>蹄铁匠科学证书 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
 | **Equine Anatomy**<br>马解剖学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
 | **Equine Behaviour and Horse Handling For Farriers**<br>蹄铁匠的马行为与保定 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
-| **Introduction to Horseshoeing**<br>蹄铁工艺导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
-| **Introduction to Blacksmithing**<br>铁匠工艺导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
+| **Introduction to Horseshoeing**<br>蹄铁工艺入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
+| **Introduction to Blacksmithing**<br>铁匠工艺入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
 | **Workplace Communication**<br>职场沟通 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
 | **Farrier Welding**<br>蹄铁匠焊接 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |
 | **Advanced Corrective and Therapeutic Forging**<br>高级矫正与治疗性锻造 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/farrier-science-certificate.html) |

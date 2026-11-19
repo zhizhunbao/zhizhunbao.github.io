@@ -1,10 +1,10 @@
 ---
-title: "3.2.96 Cognitive Science (PhD)"
+title: "4.2.96 Cognitive Science (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Cognitive Science (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.96 Cognitive Science (PhD)
+# 4.2.96 Cognitive Science (PhD)
 
 ## Glossary
 

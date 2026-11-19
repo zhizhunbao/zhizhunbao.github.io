@@ -19,12 +19,11 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
-|  | Students must complete 2.0 credits as follows |  | 1. 1.0 credit from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
-|  | Students must complete 2.0 credits as follows | MGEC61H3 | International Economics: Finance | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
-|  | Students must complete 2.0 credits as follows | MGEC62H3 | International Economics: Trade Theory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
-|  | Students must complete 2.0 credits as follows | MGEC82H3 | International Aspects of Development Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
-|  | Students must complete 2.0 credits as follows |  | 2. 1.0 additional credit at the B-, C- or D-level, in Economics (MGE) courses offered by the Department of Management, or equivalent courses.\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
-|  | Students must complete 2.0 credits as follows |  | \*Note: MGE courses included as core requirements in the MIB program cannot be used to towards the completion of this Certificate. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
+|  | 1. 1.0 credit from the following | MGEC61H3 | International Economics: Finance | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
+|  | 1. 1.0 credit from the following | MGEC62H3 | International Economics: Trade Theory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
+|  | 1. 1.0 credit from the following | MGEC82H3 | International Aspects of Development Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
+|  | 1. 1.0 credit from the following |  | 2. 1.0 additional credit at the B-, C- or D-level, in Economics (MGE) courses offered by the Department of Management, or equivalent courses.\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
+|  | 1. 1.0 credit from the following |  | \*Note: MGE courses included as core requirements in the MIB program cannot be used to towards the completion of this Certificate. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1060) |
 
 ## References
 

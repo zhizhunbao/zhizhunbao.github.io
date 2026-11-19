@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Digital Agriculture Degree**<br>数字农业学士学位 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
-| **Introduction to Engineering Design for Digital Agriculture**<br>数字农业工程设计导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
+| **Introduction to Engineering Design for Digital Agriculture**<br>数字农业工程设计入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
 | **Applied Math**<br>应用数学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
 | **Experiencing Technology**<br>体验技术 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
 | **Solving Technology Problems**<br>解决技术问题 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Plants in Agricultural Ecosystems**<br>农业生态系统中的植物 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
 | **Water in Agricultural Ecosystems**<br>农业生态系统中的水 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
 | **Workplace Communication**<br>职场沟通 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
-| **Introduction to GIS**<br>GIS导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
+| **Introduction to GIS**<br>GIS入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
 | **Agricultural Equipment Design and Function**<br>农业设备设计与功能 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
 | **Crop Production Technology**<br>作物生产技术 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |
 | **Project Management for Sustainable Systems**<br>可持续系统项目管理 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture-technology/bachelor-of-digital-agriculture.html) |

@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Communications for Security**<br>安保沟通 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4138/courses-next/) |
 | **Diverse Communities & Public Safety**<br>多元社区与公共安全 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4138/courses-next/) |
 | **Fitness, Health, and Wellness 2**<br>健身、健康与保健 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4138/courses-next/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4138/courses-next/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4138/courses-next/) |
 | **Institutional Security 1**<br>机构安保 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4138/courses-next/) |
 | **Corrections 1**<br>惩教 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4138/courses-next/) |
 | **Canadian Border Security 1**<br>加拿大边境安全 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4138/courses-next/) |

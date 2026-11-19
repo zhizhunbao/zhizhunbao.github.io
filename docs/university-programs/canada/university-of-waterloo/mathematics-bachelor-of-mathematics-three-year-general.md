@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mathematics (Bachelor of Mathematics, Three-Year General)**<br>数学（数学学士 - 3 年制普通） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
-| **Introduction to Computer Science 1**<br>计算机科学导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
+| **Introduction to Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Designing Functional Programs**<br>函数式程序设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Designing Functional Programs (Advanced Level)**<br>函数式程序设计（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
-| **Introduction to Computer Science 2**<br>计算机科学导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
+| **Introduction to Computer Science 2**<br>计算机科学入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Elementary Algorithm Design and Data Abstraction**<br>初级算法设计与数据抽象 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Elementary Algorithm Design and Data Abstraction (Advanced Level)**<br>初级算法设计与数据抽象（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Applied Linear Algebra 1**<br>应用线性代数 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
@@ -29,11 +29,11 @@ ms.date: 2026-11-11
 | **Algebra for Honours Mathematics**<br>荣誉数学代数 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Algebra (Advanced Level)**<br>代数（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Calculus 3 (Non-Specialist Level)**<br>微积分 3（非专业水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
-| **Introduction to Combinatorics (Non-Specialist Level)**<br>组合数学导论（非专业水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
+| **Introduction to Combinatorics (Non-Specialist Level)**<br>组合数学入门（非专业水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Calculus 3 for Honours Mathematics**<br>荣誉数学微积分 3 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
-| **Introduction to Combinatorics**<br>组合数学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
+| **Introduction to Combinatorics**<br>组合数学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Calculus 3 (Advanced Level)**<br>微积分 3（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
-| **Introduction to Combinatorics (Advanced Level)**<br>组合数学导论（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
+| **Introduction to Combinatorics (Advanced Level)**<br>组合数学入门（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Logic and Computation**<br>逻辑与计算 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Logic and Computation (Enriched)**<br>逻辑与计算（强化） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |
 | **Applied Linear Algebra 2**<br>应用线性代数 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B17AJkCCi2) |

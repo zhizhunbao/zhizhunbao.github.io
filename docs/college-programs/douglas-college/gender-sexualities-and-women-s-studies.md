@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Gender, Sexualities and Women's Studies**<br>性别、性取向与女性研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |
-| **Introduction to Feminisms: Silences, Voices and Experiences**<br>女性主义导论：沉默、声音与经历 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |
+| **Introduction to Feminisms: Silences, Voices and Experiences**<br>女性主义入门：沉默、声音与经历 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |
 | **Contemporary Issues in Gender, Sexualities, and Women's Studies**<br>性别、性取向与妇女研究当代议题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |
-| **Introduction to Contemporary Issues in Sexuality Studies**<br>性研究当代议题导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |
+| **Introduction to Contemporary Issues in Sexuality Studies**<br>性研究当代议题入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |
 | **Gender Today: Exploring Gender in Contemporary Contexts**<br>当今性别：探索当代情境中的性别 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |
 | **The Anthropology of Gender and Sexuality**<br>性别与性的人类学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |
 | **The Female Offender**<br>女性犯罪者 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asartg) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.17 Comparative Literature, Major: Bachelor of Arts"
+title: "4.3.17 Comparative Literature, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Comparative Literature, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.17 Comparative Literature, Major: Bachelor of Arts
+# 4.3.17 Comparative Literature, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -70,7 +70,7 @@ ms.date: 2026-11-18
 | **Aristotle's Posterior Analytics**<br>亚里士多德《后分析篇》 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Contemporary Virtue Ethics and its Critics**<br>当代美德伦理学及其批评者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Hellenistic Philosophy**<br>希腊化哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
-| **Porphyry's Introduction to Logic**<br>波菲利的逻辑学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
+| **Porphyry's Introduction to Logic**<br>波菲利的逻辑学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Hellenistic Ethics**<br>希腊化时期的伦理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Aristotle's Nicomachean Ethics**<br>亚里士多德《尼各马可伦理学》 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Ancient Democratic Theory and Contemporary Problems of Latin American Democracy**<br>古代民主理论与拉丁美洲民主的当代问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
@@ -79,12 +79,12 @@ ms.date: 2026-11-18
 | **Descartes**<br>笛卡尔 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Origins of Empiricism**<br>经验主义的起源 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Spinoza's Metaphysics**<br>斯宾诺莎的形而上学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
-| **What Makes You Tick? An Introduction to Affective Science**<br>是什么让你运转？情感科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
+| **What Makes You Tick? An Introduction to Affective Science**<br>是什么让你运转？情感科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Kant's First Critique**<br>康德的第一批判 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Kant's Foundations of Morality, 2nd Critique**<br>康德的道德基础，第 2 批判 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Kant's Value Theory**<br>康德的价值理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Kant and German Idealism**<br>康德与德国唯心主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
-| **Introduction to Phenomenology**<br>现象学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
+| **Introduction to Phenomenology**<br>现象学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Phenomenology: Merleau-Ponty**<br>现象学：梅洛庞蒂 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Phenomenology: Animals**<br>现象学：动物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **The Normal and the Pathological**<br>正常与病理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
@@ -114,11 +114,11 @@ ms.date: 2026-11-18
 | **Philosophy of Biology**<br>生物学哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **The Birth of Modern Moral Philosophy**<br>现代道德哲学的诞生 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Moral Psychology**<br>道德心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
-| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
+| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Topics in Metaethics: Moral Error Theory**<br>元伦理学专题：道德错误论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Philosophy of Social Science**<br>社会科学哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Ethics in Society Honors Seminar**<br>社会伦理荣誉研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
-| **Introduction to Environmental Ethics**<br>环境伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
+| **Introduction to Environmental Ethics**<br>环境伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Feminist Ethics**<br>女性主义伦理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Feminist Philosophy**<br>女性主义哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |
 | **Film & Philosophy**<br>电影与哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/comparative-literature/bachelor-of-arts) |

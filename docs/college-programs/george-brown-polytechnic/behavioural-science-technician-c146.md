@@ -12,9 +12,9 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Behavioural Science Technician (C146)**<br>行为科学技术员 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
 | **Behavioural Theory**<br>行为理论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
-| **Behaviour Theory and Practice: Introduction to Applied Behaviour Analysis**<br>行为理论与实践：应用行为分析导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
+| **Behaviour Theory and Practice: Introduction to Applied Behaviour Analysis**<br>行为理论与实践：应用行为分析入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
 | **Lifespan Development**<br>毕生发展 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
 | **Strategies for Student Success**<br>学生成功策略 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |
 | **General Elective**<br>通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-c146) |

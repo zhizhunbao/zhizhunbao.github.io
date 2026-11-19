@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Philosophy (Bachelor of Arts - Honours)**<br>哲学（文学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1BeyR0on) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1BeyR0on) |
-| **Introduction to Formal Logic**<br>形式逻辑导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1BeyR0on) |
+| **Introduction to Formal Logic**<br>形式逻辑入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1BeyR0on) |
 | **Metaphysics and Epistemology**<br>形而上学与认识论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1BeyR0on) |
 | **Philosophy as Practice**<br>作为实践的哲学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1BeyR0on) |
 | **Great Works: Ancient and Medieval**<br>伟大作品：古代与中世纪 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1BeyR0on) |

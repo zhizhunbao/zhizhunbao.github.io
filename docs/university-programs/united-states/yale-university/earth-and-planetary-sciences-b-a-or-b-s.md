@@ -1,10 +1,10 @@
 ---
-title: "3.4.25 Earth and Planetary Sciences (B.A. or B.S.)"
+title: "4.4.25 Earth and Planetary Sciences (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Earth and Planetary Sciences (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.25 Earth and Planetary Sciences (B.A. or B.S.)
+# 4.4.25 Earth and Planetary Sciences (B.A. or B.S.)
 
 ## Glossary
 
@@ -25,7 +25,7 @@ ms.date: 2026-11-18
 | **Research and Senior Thesis**<br>研究与毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/) |
 | **Multivariable Calculus for Engineers**<br>工程师多元微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/) |
-| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/) |
+| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/) |
 | **Ordinary and Partial Differential Equations with Applications**<br>常微分与偏微分方程及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/) |
 | **Modern Physical Measurement**<br>现代物理测量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/) |
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/) |

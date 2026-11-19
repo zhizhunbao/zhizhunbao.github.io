@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Architecture de l'ordinateur**<br>计算机体系结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Service à la clientèle**<br>客户服务 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Administration d'un système d'exploitation**<br>操作系统管理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
-| **Introduction aux réseaux**<br>网络导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
+| **Introduction aux réseaux**<br>网络入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Dépannage technique**<br>技术故障排除 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Stratégies de communication en milieu professionnel**<br>职场沟通策略 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Communication orale en milieu professionnel**<br>职业口头沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
@@ -24,8 +24,8 @@ ms.date: 2026-11-08
 | **Oral Communication: Beginner Level**<br>口语交际：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Oral Communication: Intermediate Level**<br>口语交际：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Fondation de l'infrastructure informatique**<br>信息技术基础设施基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
-| **Introduction à la gestion d'un système d'exploitation**<br>操作系统管理导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
-| **Introduction à l'environnement infonuagique**<br>云环境导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
+| **Introduction à la gestion d'un système d'exploitation**<br>操作系统管理入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
+| **Introduction à l'environnement infonuagique**<br>云环境入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Gestion des serveurs**<br>服务器管理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Fondamentaux du service d'assistance**<br>服务台基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |
 | **Written Communication: Beginner Level**<br>书面沟通：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41044) |

@@ -12,11 +12,11 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Neuroscience, Honours BSc**<br>神经科学，荣誉 BSc | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
-| **Introduction to the Chemical Properties of Matter**<br>物质化学性质导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
+| **Introduction to the Chemical Properties of Matter**<br>物质化学性质入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Basic Principles of Chemical Reactivity**<br>化学反应性基本原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Cells and Cellular Processes**<br>细胞与细胞过程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Evolution, Ecology and Biodiversity**<br>进化、生态与生物多样性 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Elementary Biological Statistics II**<br>初级生物统计学 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Statistical Analysis II**<br>统计分析 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Biology Honours Thesis in a neuroscience area approved by the Neuroscience Coordinator**<br>生物学荣誉论文，神经科学领域，需经神经科学协调员批准 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Honours Thesis in a neuroscience area of Psychology approved by the Neuroscience**<br>心理学神经科学领域荣誉论文，需经神经科学批准 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Foundations of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
-| **(6 Introduction to Physics**<br>（6 物理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
+| **(6 Introduction to Physics**<br>（6 物理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Medical Imaging**<br>医学影像 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Histology**<br>组织学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Molecular Genetics and Genomics**<br>分子遗传学与基因组学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
@@ -47,9 +47,9 @@ ms.date: 2026-11-11
 | **Medicinal Chemistry**<br>药物化学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Drug Design**<br>药物设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Molecular Enzymology**<br>分子酶学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
-| **Introduction to Animal Behavior**<br>动物行为学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
+| **Introduction to Animal Behavior**<br>动物行为学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Field Research in Animal Ecology and Energetics**<br>动物生态与能量学野外研究 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
-| **Introduction to Cognitive Psychology**<br>认知心理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
+| **Introduction to Cognitive Psychology**<br>认知心理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Psycholinguistics**<br>心理语言学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Perception I**<br>知觉 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |
 | **Fundamentals of Animal Learning**<br>动物学习基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/nsci.pdf#page=5) |

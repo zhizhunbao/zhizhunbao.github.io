@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Machine Shop 2**<br>机械加工车间 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mety/) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mety/) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mety/) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mety/) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mety/) |
 | **Computers and Programmable Controllers**<br>计算机与可编程控制器 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mety/) |
 | **Sustainable Engineering**<br>可持续工程 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mety/) |
 | **Strength of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mety/) |

@@ -1,10 +1,10 @@
 ---
-title: "3.1.68 Master of Public Health – Epidemiology"
+title: "4.1.68 Master of Public Health – Epidemiology"
 description: "University Programs > United States > Harvard University > Master of Public Health – Epidemiology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.68 Master of Public Health – Epidemiology
+# 4.1.68 Master of Public Health – Epidemiology
 
 ## Glossary
 
@@ -24,7 +24,7 @@ ms.date: 2026-11-18
 | **Social, Behavioral, and Structural Determinants of Health**<br>健康的社会、行为与结构性决定因素 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Public Health Policy and Politics**<br>公共卫生政策与政治 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Linear and Longitudinal Regression**<br>线性与纵向回归 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
-| **Introduction to Machine Learning and Risk Prediction**<br>机器学习与风险预测导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
+| **Introduction to Machine Learning and Risk Prediction**<br>机器学习与风险预测入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Analysis of Publicly Available Databases for Epidemiologic and Health Services Research**<br>用于流行病学与卫生服务研究的公开数据库分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Design and Conduct of Trials in Preventive Medicine**<br>预防医学试验的设计与实施 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Systematic Review and Meta-Analysis**<br>系统综述与Meta分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-18
 | **Practical Scientific Methods for Improving Health and Heath Care**<br>改善健康与卫生保健的实用科学方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Survey Research Methods for Public Health**<br>公共卫生调查研究方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Investigating Outbreaks**<br>暴发调查 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
-| **Introduction to R**<br>R语言导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
+| **Introduction to R**<br>R语言入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Writing Public Health Research**<br>公共卫生研究写作 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 | **Decision Science for Public Health**<br>公共卫生决策科学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/hybrid-mph-epidemiology/) |
 

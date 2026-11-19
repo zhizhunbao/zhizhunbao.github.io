@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Geographic Data Science Major: Physical and Environmental Systems Stream (Science Program)**<br>地理数据科学主修：物理与环境系统方向（理科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Digital Earth**<br>数字地球 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
-| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
+| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Earth System Processes**<br>地球系统过程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Histories of Environmental Change**<br>环境变迁的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Environment, Food and People**<br>环境、食物与人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
@@ -30,9 +30,9 @@ ms.date: 2026-11-11
 | **Advanced Geographic Information Systems**<br>高级地理信息系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Environmental Remote Sensing**<br>环境遥感 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **GIS for Public Health**<br>公共卫生 GIS | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
-| **Introduction to Programming in GIS**<br>GIS编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
+| **Introduction to Programming in GIS**<br>GIS编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Geovisualization**<br>地理可视化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
-| **Introduction to Urban Data Analytics**<br>城市数据分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
+| **Introduction to Urban Data Analytics**<br>城市数据分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Special Topics in Geographic Information Systems**<br>地理信息系统专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Computational Principles and Methods for Data Science**<br>数据科学的计算原理与方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Statistical Models for Data Science**<br>数据科学统计模型 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
@@ -46,9 +46,9 @@ ms.date: 2026-11-11
 | **Senior Practicum**<br>高年级实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Independent Research**<br>独立研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Geomorphology**<br>地貌学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
-| **Introduction to Climatology**<br>气候学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
+| **Introduction to Climatology**<br>气候学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Environment, Society and Resources**<br>环境、社会与资源 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Fluvial Geomorphology**<br>河流地貌学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |
 | **Biogeography**<br>生物地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305c) |

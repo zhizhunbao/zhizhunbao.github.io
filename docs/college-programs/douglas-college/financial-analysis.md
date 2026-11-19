@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Personal Finance I (CFP)**<br>个人理财 1（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfian) |
 | **International Financial Management**<br>国际财务管理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfian) |
 | **Corporate Finance**<br>公司财务 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfian) |
-| **Introduction to Corporate Finance**<br>公司理财导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfian) |
+| **Introduction to Corporate Finance**<br>公司理财入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfian) |
 | **Security Analysis (CFP)**<br>证券分析（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfian) |
 | **Intermediate Accounting II**<br>中级会计 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfian) |
 | **Business Statistics II**<br>商业统计 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdfian) |

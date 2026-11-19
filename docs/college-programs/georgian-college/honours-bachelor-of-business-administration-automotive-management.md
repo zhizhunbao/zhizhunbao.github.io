@@ -14,17 +14,17 @@ ms.date: 2026-11-08
 | **Concepts of the Automotive Industry**<br>汽车行业概念 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Introduction to Aftermarket**<br>售后市场入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Management Principles**<br>管理学原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Introduction to Multidisciplinary Research**<br>多学科研究入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Automotive Technology**<br>汽车技术 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Dealership Management Systems**<br>经销商管理系统 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Core Business Applications**<br>核心商业应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Digital Marketing and Social Media**<br>数字营销与社交媒体 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
-| **Introduction to Human Resource Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
+| **Introduction to Human Resource Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Automotive Sales Concepts and Applications**<br>汽车销售概念与应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |
 | **Dealership Sales Management**<br>经销商销售管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbaa/) |

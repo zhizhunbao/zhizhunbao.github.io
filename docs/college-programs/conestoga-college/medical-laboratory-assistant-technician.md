@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Specimen Procurement A**<br>标本采集 A | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician/courses?id=34614) |
 | **Specimen Procurement B**<br>标本采集 B | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician/courses?id=34614) |
 | **Medical Lab Techniques 2**<br>医学实验室技术 2 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician/courses?id=34614) |
-| **Introduction to Immunology & Hematology**<br>免疫学与血液学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician/courses?id=34614) |
+| **Introduction to Immunology & Hematology**<br>免疫学与血液学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician/courses?id=34614) |
 | **Medical Lab Assistant/Technician Simulation**<br>医学实验室助理/技术员模拟 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician/courses?id=34614) |
 | **Electives: General Education**<br>选修课：通识教育 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician/courses?id=34614) |
 | **Field Placement (Medical Laboratory Assistant/Technician)**<br>实地实习（医学实验室助理/技术员） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/medical-laboratory-assistant-technician/courses?id=34614) |

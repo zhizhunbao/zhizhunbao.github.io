@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Ecology and Environment**<br>生态与环境 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/ecosystem-management-technician) |
 | **Field Skills**<br>现场技能 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/ecosystem-management-technician) |
 | **Fundamentals of Geomatics**<br>地理信息学基础 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/ecosystem-management-technician) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/ecosystem-management-technician) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/ecosystem-management-technician) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/ecosystem-management-technician) |
 | **Ecology: Concepts and Linkages**<br>生态学：概念与联系 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/ecosystem-management-technician) |
 | **Forest Measurement**<br>森林测量 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/ecosystem-management-technician) |

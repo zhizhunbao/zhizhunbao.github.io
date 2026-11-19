@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Honours Bachelor of Film and Television**<br>荣誉学士 电影与电视 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **The Art of Cinema**<br>电影艺术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **The Screen Story**<br>银幕故事 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
-| **Introduction to Cinematography**<br>电影摄影导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
+| **Introduction to Cinematography**<br>电影摄影入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Sound Recording**<br>录音 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **The Art of Documentary**<br>纪录片艺术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Production Planning**<br>生产计划 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
-| **Introduction to Directing**<br>导演导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
-| **Introduction to Post-Production**<br>后期制作导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
+| **Introduction to Directing**<br>导演入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
+| **Introduction to Post-Production**<br>后期制作入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Degree Breadth Elective**<br>学位广度选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Media Theory and Criticism**<br>媒体理论与批评 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Television Production Process 1**<br>电视制作流程 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-08
 | **Non-linear Editing Systems**<br>非线性编辑系统 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Aesthetic Principles of Editing**<br>剪辑美学原理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Assistant Editor**<br>助理剪辑师 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
-| **Introduction to 2D Effects**<br>2D特效导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
+| **Introduction to 2D Effects**<br>2D特效入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Post-Production Supervisor**<br>后期制作主管 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Location and Studio Recording**<br>外景与录音棚录音 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Audio Post-Production Techniques**<br>音频后期制作技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
@@ -75,8 +75,8 @@ ms.date: 2026-11-08
 | **Adaptation: From Text to Film**<br>改编：从文本到电影 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Cinema of Horror**<br>恐怖电影 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Film and Genre**<br>电影与类型 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
-| **Introduction to 3D and Previsualization**<br>3D与预演可视化导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
-| **Introduction to Virtual Production**<br>虚拟制作导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
+| **Introduction to 3D and Previsualization**<br>3D与预演可视化入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
+| **Introduction to Virtual Production**<br>虚拟制作入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Visual Effects Integration**<br>视觉特效整合 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 | **Visual Effects Artist**<br>视觉特效艺术家 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-film-and-television) |
 

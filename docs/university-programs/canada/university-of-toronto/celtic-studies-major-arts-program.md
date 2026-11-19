@@ -14,8 +14,8 @@ ms.date: 2026-11-11
 | **The Celts in the Ancient and Medieval World**<br>古代与中世纪世界的凯尔特人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **Irish and British Identities from Macbeth to Yeats**<br>从麦克白到叶芝的爱尔兰与英国身份认同 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **Celtic Mythology and Saga**<br>凯尔特神话与传奇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
-| **Introduction to the Irish Language**<br>爱尔兰语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
-| **An Introduction to Scottish Gaelic**<br>苏格兰盖尔语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
+| **Introduction to the Irish Language**<br>爱尔兰语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
+| **An Introduction to Scottish Gaelic**<br>苏格兰盖尔语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **Modern Welsh**<br>现代威尔士语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **Lowland Scots Language and Literature**<br>低地苏格兰语言与文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **Intermediate Irish Language I**<br>中级爱尔兰语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-11
 | **Romantic Scotland**<br>浪漫的苏格兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **Ireland, Race and Empires**<br>爱尔兰、种族与帝国 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **Middle Welsh**<br>中古威尔士语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
-| **Introduction to Old Irish**<br>古爱尔兰语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
+| **Introduction to Old Irish**<br>古爱尔兰语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **SMC One: The Boyle Seminar in Scripts and Stories**<br>SMC One：博伊尔研讨课，文字与故事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **Directed Research**<br>指导研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |
 | **King Arthur**<br>亚瑟王 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1682) |

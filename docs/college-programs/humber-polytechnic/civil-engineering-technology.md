@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Civil Engineering Technology**<br>土木工程技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Surveying 1**<br>测量学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Sketching and Computer Aided Drafting and Design 1**<br>草图与计算机辅助制图设计 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
-| **Introduction to Engineering Design**<br>工程设计导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
+| **Introduction to Engineering Design**<br>工程设计入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Physics and Statics**<br>物理与静力学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Technical Mathematics 1**<br>技术数学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Technical Communications 1**<br>技术沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
@@ -28,12 +28,12 @@ ms.date: 2026-11-08
 | **Ontario Building Codes and Standards**<br>安大略省建筑规范与标准 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Strengths of Materials 2**<br>材料强度 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Surveying 2**<br>测量学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Construction Administration/Estimating**<br>施工行政/估算 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Soil Mechanics**<br>土力学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Water Supply Operations**<br>供水运营 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Building Information Modelling for Civil**<br>土木工程建筑信息建模 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Infrastructure Rehabilitation**<br>基础设施修复 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Structural Analysis**<br>结构分析 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |
 | **Municipal Services 1**<br>市政服务 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/civil-engineering-technology) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **Entrepreneurship Essentials**<br>创业要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **Financial Accounting Principles 1**<br>财务会计原理 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **Consumer Behaviour**<br>消费者行为 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
@@ -36,10 +36,10 @@ ms.date: 2026-11-08
 | **Business - Entrepreneurship Co-op Work Term ( occurs after Semester 2 )**<br>商业 - 创业合作实习工作学期（第2学期后） | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **International Business**<br>国际商务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **Production and Operations Management**<br>生产与运营管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 | **Strategic Marketing Planning**<br>战略营销规划 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
-| **Introduction to Logistics**<br>物流导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
+| **Introduction to Logistics**<br>物流入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/entc/) |
 
 ## Courses
 

@@ -12,9 +12,9 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Networking and Cyber Security**<br>计算机网络与网络安全 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
 | **Computing Environments and Tools**<br>计算环境与工具 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
-| **Introduction to Computer Networks**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
+| **Introduction to Computer Networks**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
 | **Computer Mathematics**<br>计算机数学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
 | **AI and You**<br>AI与你 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |
 | **Business Applications I**<br>业务应用 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-networking-and-cyber-security) |

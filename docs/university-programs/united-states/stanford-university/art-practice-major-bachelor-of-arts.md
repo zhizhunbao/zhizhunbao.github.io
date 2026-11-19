@@ -1,10 +1,10 @@
 ---
-title: "3.3.7 Art Practice, Major: Bachelor of Arts"
+title: "4.3.7 Art Practice, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Art Practice, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.7 Art Practice, Major: Bachelor of Arts
+# 4.3.7 Art Practice, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -16,8 +16,8 @@ ms.date: 2026-11-18
 | **Art and Power**<br>艺术与权力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Moving Image I**<br>动态影像 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Worldbuilding: Sound, Video, Space**<br>世界构建：声音、视频、空间 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Holt Visiting Artist: Introduction Photography: Blue**<br>霍尔特访问艺术家：摄影导论：蓝 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Intro to Relief Printmaking**<br>浮雕版画导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Holt Visiting Artist: Introduction Photography: Blue**<br>霍尔特访问艺术家：摄影入门：蓝 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Intro to Relief Printmaking**<br>浮雕版画入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Decolonizing Archives: Video and AI**<br>去殖民档案：视频与AI | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **History and Practice of Web-Based Media**<br>网络媒体的历史与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Augmented Reality: Placemaking and Storytelling**<br>增强现实：场所营造与故事讲述 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
@@ -32,8 +32,8 @@ ms.date: 2026-11-18
 | **Painting as Storytelling**<br>绘画作为叙事 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Painting Off the Wall**<br>墙外绘画 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Monotype**<br>单版画 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Lithography**<br>光刻导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Printmaking**<br>版画导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Lithography**<br>光刻入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Printmaking**<br>版画入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **The Hybrid Print**<br>混合版画 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Etching**<br>蚀刻版画 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Queer Sculpture**<br>酷儿雕塑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
@@ -43,14 +43,14 @@ ms.date: 2026-11-18
 | **Social Sculpture**<br>社会雕塑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Performance Art**<br>行为艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Constructing Color**<br>构建色彩 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to 3D and Digital Animation**<br>3D 与数字动画导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to 3D and Digital Animation**<br>3D 与数字动画入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Drawing with Code**<br>用代码绘图 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Intro to Art & Technology**<br>艺术与技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Animation**<br>动画导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Intro to Art & Technology**<br>艺术与技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Animation**<br>动画入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Data as Material**<br>数据作为材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Virtual Reality: the possibility and peril of immersive artwork**<br>虚拟现实：沉浸式艺术作品的可能与危险 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Light and Shadow**<br>光与影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Photography**<br>摄影导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Photography**<br>摄影入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Introductory Photography: Blue**<br>摄影入门：蓝 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Cell Phone Photography**<br>手机摄影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Sound Installation**<br>声音装置 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
@@ -84,15 +84,15 @@ ms.date: 2026-11-18
 | **Intermediate Photography: Portraiture I**<br>中级摄影：肖像 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Intermediate Photography: Portraiture II**<br>中级摄影：肖像 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Intermediate Photography: Documentary**<br>中级摄影：纪实 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **How to Look at Art and Why: An Introduction to the History of Western Painting**<br>如何看艺术及为何看：西方绘画史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **How to Look at Art and Why: An Introduction to the History of Western Painting**<br>如何看艺术及为何看：西方绘画史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Asian Arts and Cultures**<br>亚洲艺术与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Islamic Art**<br>伊斯兰艺术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Islamic Art**<br>伊斯兰艺术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Roman Portraits and Persons**<br>罗马肖像与人物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **War and Art**<br>战争与艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **The Artist in Ancient Greek Society**<br>古希腊社会中的艺术家 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Greek Art I: The Archaic Period**<br>希腊艺术导论 I：古风时期 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Greek Art II: From the Parthenon to Scopas**<br>希腊艺术导论 II：从帕特农神庙到斯科帕斯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Greek Art I: The Archaic Period**<br>希腊艺术入门 I：古风时期 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Greek Art II: From the Parthenon to Scopas**<br>希腊艺术入门 II：从帕特农神庙到斯科帕斯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Designing How We Live: Why Architecture is More Than Just Building**<br>设计我们的生活：为何建筑不只是建造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Byzantine Art and Architecture, 300-1453 C.E.**<br>拜占庭艺术与建筑，公元300至1453年 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Art Worlds: Museum, Studio, Gallery, Archive**<br>艺术世界：博物馆、工作室、画廊、档案馆 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
@@ -104,8 +104,8 @@ ms.date: 2026-11-18
 | **Modern Africa: Art and Decolonization**<br>现代非洲：艺术与去殖民化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Fashion**<br>时尚 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **The Age of Romanticism: Painting, Literature, Politics**<br>浪漫主义时代：绘画、文学与政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Global Modern Art**<br>全球现代艺术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Early Andean Visual Culture: Interspecies Value and More-than-Human Presence**<br>早期安第斯视觉文化导论：物种间价值与超越人类的存在 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Global Modern Art**<br>全球现代艺术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Early Andean Visual Culture: Interspecies Value and More-than-Human Presence**<br>早期安第斯视觉文化入门：物种间价值与超越人类的存在 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **East Asian Buddhist Painting: Visions and Practices**<br>东亚佛教绘画：愿景与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **The American West**<br>美国西部 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Censorship in American Art**<br>美国艺术中的审查 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
@@ -139,8 +139,8 @@ ms.date: 2026-11-18
 | **Warhol's World**<br>沃霍尔的世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Aesthetics and Phenomenology**<br>美学与现象学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Picturing Ecology: Flora and Fauna in East Asian Art**<br>描绘生态：东亚艺术中的动植物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Middle Byzantine Music Notation: Transcribing and Singing Old Byzantine Chants**<br>中期拜占庭音乐记谱法导论：转写与演唱古拜占庭圣歌 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
-| **Introduction to Middle Byzantine Music Notation II**<br>中期拜占庭音乐记谱法导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Middle Byzantine Music Notation: Transcribing and Singing Old Byzantine Chants**<br>中期拜占庭音乐记谱法入门：转写与演唱古拜占庭圣歌 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
+| **Introduction to Middle Byzantine Music Notation II**<br>中期拜占庭音乐记谱法入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Queer America: Art, Photography and Politics**<br>酷儿美国：艺术、摄影与政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **Intimacies as Method: Studying Black and Brown Relation**<br>作为方法的亲密关系：研究黑人与棕色人种的关系 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |
 | **What is Contemporary Art?**<br>什么是当代艺术？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-practice/bachelor-of-arts) |

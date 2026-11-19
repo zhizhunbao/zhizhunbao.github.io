@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Biostatistics (Thesis) (M.Sc.)**<br>生物统计学（论文型）（M.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/biostatistics-thesis-msc/) |
 | **M.Sc. Thesis.**<br>理学硕士论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/biostatistics-thesis-msc/) |
-| **Epidemiology: Introduction and Statistical Models.**<br>流行病学：导论与统计模型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/biostatistics-thesis-msc/) |
+| **Epidemiology: Introduction and Statistical Models.**<br>流行病学：入门与统计模型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/biostatistics-thesis-msc/) |
 | **Epidemiology: Regression Models.**<br>流行病学：回归模型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/biostatistics-thesis-msc/) |
 | **Generalized Linear Models.**<br>广义线性模型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/biostatistics-thesis-msc/) |
 | **Regression and Analysis of Variance.**<br>回归与方差分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/biostatistics-thesis-msc/) |

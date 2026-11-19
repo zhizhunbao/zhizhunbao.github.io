@@ -1,10 +1,10 @@
 ---
-title: "3.3.14 Civil Engineering, Major: Bachelor of Science"
+title: "4.3.14 Civil Engineering, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Civil Engineering, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.14 Civil Engineering, Major: Bachelor of Science
+# 4.3.14 Civil Engineering, Major: Bachelor of Science
 
 ## Glossary
 
@@ -16,9 +16,9 @@ ms.date: 2026-11-18
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Ordinary Differential Equations for Engineers**<br>工程师常微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Probabilistic Models in Civil and Environmental Engineering**<br>土木与环境工程中的概率模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Mechanics, Concepts, Calculations, and Context**<br>力学：概念、计算与情境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Mechanics and Special Relativity**<br>力学与狭义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
@@ -28,9 +28,9 @@ ms.date: 2026-11-18
 | **Chemical Principles I**<br>化学原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Chemical Foundations and 21st Century Problems**<br>化学基础与21世纪问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Aquatic Chemistry and Biology**<br>水生化学与生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Legal / Ethical Principles in Design, Construction, Project Delivery**<br>设计、施工与项目交付中的法律与伦理原则 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Intro to Solid Mechanics**<br>固体力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Intro to Solid Mechanics**<br>固体力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Environmental Science and Technology**<br>环境科学与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Managing Sustainable Building Projects**<br>可持续建筑项目管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Engineering Economics and Sustainability**<br>工程经济学与可持续性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-18
 | **Computations in Civil and Environmental Engineering**<br>土木与环境工程中的计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Chemical Engineering Thermodynamics**<br>化工热力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Chemical Engineering Thermodynamics**<br>化工热力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Engineering Thermodynamics**<br>工程热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Geotechnical Engineering**<br>岩土工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Building Modeling for Design & Construction**<br>设计与施工的建筑建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
@@ -58,38 +58,38 @@ ms.date: 2026-11-18
 | **100% Clean, Renewable Energy and Storage for Everything**<br>100%清洁、可再生的能源与储能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Mechanics of Fluids**<br>流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation**<br>大气、海洋与气候动力学：大气环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Physical Oceanography**<br>物理海洋学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Physical Oceanography**<br>物理海洋学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Rivers, Streams, and Canals**<br>河流、溪流与运河 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Coastal Processes**<br>海岸过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation**<br>大气、海洋与气候动力学：海洋环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Hydrologic Processes, Water Resources and Hazards**<br>水文过程、水资源与灾害 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **California Coast: Science, Policy, and Law**<br>加州海岸：科学、政策与法律 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Urban Water**<br>城市水系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Human Exposure Analysis**<br>人体暴露分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Human Exposure Analysis**<br>人体暴露分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Providing Safe Water for the Developing and Developed World**<br>为发展中与发达世界提供安全用水 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Wastewater Treatment: From Disposal to Resource Recovery**<br>废水处理：从处置到资源回收 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Data Analytics for Physical Systems**<br>物理系统的数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Dynamic Systems, Vibrations and Control**<br>动态系统、振动与控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Mechanics of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Structural Analysis**<br>结构分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Structural Design**<br>结构设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Laboratory Characterization of Properties of Rocks and Geomaterials**<br>岩石与岩土材料性质的实验室表征 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Smart Cities & Communities: Sustainability Design Thinking**<br>智慧城市与社区：可持续性设计思维 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Intro to Urban Sys Engrg**<br>城市系统工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Intro to Urban Sys Engrg**<br>城市系统工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Clean Water Now! Urban Water Conflicts**<br>立即获得清洁水！城市水冲突 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **From Safer Buildings to Resilient Cities: An Introduction to Earthquake Engineering**<br>从更安全的建筑到有韧性的城市：地震工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **From Safer Buildings to Resilient Cities: An Introduction to Earthquake Engineering**<br>从更安全的建筑到有韧性的城市：地震工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Studio 5: Integrated Design Capstone Predesign**<br>设计工作室 5：综合设计毕业前期设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Undergraduate Research in Civil and Environmental Engineering**<br>土木与环境工程本科生研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Independent Project in Civil and Environmental Engineering**<br>土木与环境工程独立项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Engineering Analysis**<br>工程分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Engineering Analysis**<br>工程分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Engineering of Systems**<br>系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **An Intro to Making: What is EE**<br>制作入门：什么是电子工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Introductory Electronics**<br>电子学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Nanotechnology Emphasis**<br>材料科学导论，纳米技术方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Energy Emphasis**<br>材料科学导论，能源方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Biomaterials Emphasis**<br>材料科学导论，生物材料方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Nanotechnology Emphasis**<br>材料科学入门，纳米技术方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Energy Emphasis**<br>材料科学入门，能源方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Biomaterials Emphasis**<br>材料科学入门，生物材料方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Directed Writing Projects**<br>指导性写作项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 | **Undergraduate Honors Thesis**<br>本科生荣誉论文 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/civil-engineering/bachelor-of-science) |
 

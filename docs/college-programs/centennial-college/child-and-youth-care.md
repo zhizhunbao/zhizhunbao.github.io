@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care) |
 | **Field Practicum 2**<br>实地实习 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care) |
 | **Reflective Practice 2**<br>反思性实践 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care) |
-| **Introduction to Family**<br>家庭导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care) |
+| **Introduction to Family**<br>家庭入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care) |
 | **Trauma Informed Care**<br>创伤知情照护 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care) |
 | **Counselling Skills**<br>咨询技能 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care) |
 | **Field Practicum 3 Specialized - Part 1**<br>实地实习 3 专项 - 第1部分 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/child-youth-care) |

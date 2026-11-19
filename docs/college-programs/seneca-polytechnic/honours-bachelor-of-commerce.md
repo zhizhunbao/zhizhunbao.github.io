@@ -11,19 +11,19 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Commerce**<br>商学荣誉学士 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM.html) |
-| **Introduction to Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
+| **Introduction to Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Financial Mathematics**<br>金融数学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Computer Applications for Business I**<br>商务计算机应用 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Business Presentations Strategy**<br>商务演示策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Computer Applications for Business II**<br>商务计算机应用 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
-| **Introduction to Business Law**<br>商法导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
+| **Introduction to Business Law**<br>商法入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Applied Communication for Business and Industry**<br>商业与行业应用沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
-| **Introduction to Human Resources Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
+| **Introduction to Human Resources Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCOMM/courses.html) |

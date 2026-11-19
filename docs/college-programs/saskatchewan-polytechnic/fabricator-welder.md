@@ -13,17 +13,17 @@ ms.date: 2026-11-08
 | **Fabricator - Welder**<br>制造工-焊工 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Hand and Power Tools**<br>手动与电动工具 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Fundamental Communication Skills**<br>基础沟通技能 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
-| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
+| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Layout and Template Development**<br>放样与样板开发 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Layout and Fitting**<br>放样与装配 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Metal Working Equipment**<br>金属加工设备 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Shop Management**<br>车间管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Trade Mathematics**<br>行业数学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Metallurgy and Material Designations**<br>冶金与材料牌号 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Hand Drafting**<br>手工制图 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Drawing Interpretation and Welding Symbols**<br>图纸解读与焊接符号 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
-| **Introduction to Computer Aided Design**<br>计算机辅助设计导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
+| **Introduction to Computer Aided Design**<br>计算机辅助设计入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Fab, Form and Fit Projects**<br>Fab、造型与装配项目 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Tank and Vessel Project**<br>储罐与容器项目 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Final Fabrication Project**<br>最终制造项目 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Oxy-Fuel and Thermal Cutting**<br>氧燃料与热切割 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Wire Feed Welding Process Theory**<br>送丝焊接工艺理论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Canadian Welding Bureau W47.1 Welder Qualification**<br>加拿大焊接局 W47.1 焊工资格认证 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
-| **Introduction to Gas Tungsten Arc Welding**<br>钨极气体保护焊导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
+| **Introduction to Gas Tungsten Arc Welding**<br>钨极气体保护焊入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Shielded Metal Arc Welding Shop 2**<br>手工电弧焊车间 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Wire Feed Welding Processes Shop 1**<br>送丝焊接工艺车间 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |
 | **Wire Feed Welding Processes Shop 2**<br>送丝焊接工艺车间 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Fabricator-Welder.aspx) |

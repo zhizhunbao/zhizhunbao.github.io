@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Computer-aided translation and localization**<br>计算机辅助翻译与本地化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-translation/) |
 | **Translating general texts to and from a third language**<br>涉及第三语言的一般文本翻译 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-translation/) |
 | **Translating specialized texts to and from a third language**<br>涉及第三语言的专业文本翻译 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-translation/) |
-| **Introduction to interpreting**<br>口译导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-translation/) |
+| **Introduction to interpreting**<br>口译入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-translation/) |
 | **Sight translation**<br>视译 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-translation/) |
 | **Translation and literature**<br>翻译与文学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-translation/) |
 | **Translating literature**<br>文学翻译 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-translation/) |

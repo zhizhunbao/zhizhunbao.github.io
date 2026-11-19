@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
-| **Seminar Course: Introduction to Mechanical and Industrial Engineering**<br>研讨课程：机械与工业工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
+| **Seminar Course: Introduction to Mechanical and Industrial Engineering**<br>研讨课程：机械与工业工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Calculus III: Engineering Analysis**<br>微积分 III：工程分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Probability and Statistics with Engineering Applications**<br>概率与统计及其工程应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
@@ -50,14 +50,14 @@ ms.date: 2026-11-11
 | **Aerodynamics**<br>空气动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Robotics**<br>机器人学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Applied Fundamentals of Deep Learning**<br>深度学习应用基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
-| **\*Introduction to Electric Vehicle Design**<br>电动汽车设计导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
+| **\*Introduction to Electric Vehicle Design**<br>电动汽车设计入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Biomedical Engineering Technology and Investigation**<br>生物医学工程技术与研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Medical Imaging**<br>医学影像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Data Structures and Analysis**<br>数据结构与分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Interfacing & Modulating the Nervous System**<br>神经系统的接口与调控 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
-| **Introduction to Quality Control**<br>质量控制导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
+| **Introduction to Quality Control**<br>质量控制入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Systems Modelling and Simulation**<br>系统建模与仿真 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Nuclear Reactor Theory and Design**<br>核反应堆理论与设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **\*Finite Element Analysis in Engineering Design**<br>工程设计中的有限元分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
@@ -79,12 +79,12 @@ ms.date: 2026-11-11
 | **Composite Materials Engineering**<br>复合材料工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Physiological Control Systems**<br>生理控制系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Drug Delivery at Biological Barriers and Interfaces**<br>生物屏障与界面的药物递送 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
-| **Introduction to Immunoengineering**<br>免疫工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
+| **Introduction to Immunoengineering**<br>免疫工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Cellular and Molecular Biology**<br>细胞与分子生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Biocomposites: Mechanics and Bioinspiration**<br>生物复合材料：力学与仿生 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Environmental Impact and Risk Assessment**<br>环境影响与风险评估 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Innovation and Manufacturing of Sustainable Materials**<br>可持续材料的创新与制造 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Vibrations**<br>振动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **\* Thermal and Machine Design of Nuclear Power Reactors**<br>核动力反应堆的热工与机械设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |
 | **Embedded Systems**<br>嵌入式系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemecbasc) |

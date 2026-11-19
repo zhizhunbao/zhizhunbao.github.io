@@ -1,17 +1,17 @@
 ---
-title: "3.3.110 Health Policy, Master of Science"
+title: "4.3.110 Health Policy, Master of Science"
 description: "University Programs > United States > Stanford University > Health Policy, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.110 Health Policy, Master of Science
+# 4.3.110 Health Policy, Master of Science
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Policy, Master of Science**<br>卫生政策，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Intermediate Biostatistics: Analysis of Discrete Data**<br>中级生物统计学：离散数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Health Policy Graduate Student Tutorial I**<br>卫生政策研究生辅导课 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Health Policy Graduate Student Tutorial II**<br>卫生政策研究生辅导课 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
@@ -19,7 +19,7 @@ ms.date: 2026-11-18
 | **Methods for Reproducible Population Health and Clinical Research**<br>可重复的人群健康与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Outcomes Analysis**<br>结果分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Health Law: Finance and Insurance**<br>卫生法：融资与保险 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
-| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析导论：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
+| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析入门：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **The Responsible Conduct of Research**<br>负责任的科研行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Advanced Decision Science Methods and Modeling in Health**<br>健康领域的高级决策科学方法与建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Methods for Health Care Delivery Innovation, Implementation and Evaluation**<br>医疗服务提供的创新、实施与评估方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-18
 | **Meta-research: Appraising Research Findings, Bias, and Meta-analysis**<br>元研究：评估研究发现、偏倚与荟萃分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Scientific Writing**<br>科学写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Evaluating Technologies for Diagnosis, Prediction and Screening**<br>诊断、预测与筛查技术的评估 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
-| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
+| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Developing Measurement Tools for Health Research**<br>开发健康研究测量工具 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Design and Conduct of Clinical Trials**<br>临床试验的设计与实施 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
@@ -54,8 +54,8 @@ ms.date: 2026-11-18
 | **Practical Applications for Qualitative Data Analysis**<br>质性数据分析的实际应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Qualitative Research Methods and Study Design**<br>定性研究方法与研究设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 | **Theories of Change in Global Health**<br>全球健康中的变革理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/health-policy/master-of-science) |
 
 ## Courses
 

@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bookkeeping/courses?id=36089) |
 | **Business Mathematics I**<br>商务数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bookkeeping/courses?id=36089) |
 | **Introductory Financial Accounting II**<br>财务会计入门 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bookkeeping/courses?id=36089) |
-| **Introduction To Payroll Administration**<br>薪资管理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bookkeeping/courses?id=36089) |
+| **Introduction To Payroll Administration**<br>薪资管理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bookkeeping/courses?id=36089) |
 | **Excel in Accounting**<br>会计中的Excel | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bookkeeping/courses?id=36089) |
 | **Advanced Personal Tax Returns**<br>高级个人税务申报 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bookkeeping/courses?id=36089) |
 | **Cost And Management Accounting I**<br>成本与管理会计 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bookkeeping/courses?id=36089) |

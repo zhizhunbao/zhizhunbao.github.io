@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Electronics Engineering Technology (Co-op)**<br>电子工程技术（带薪实习） | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
-| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
+| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
 | **Computer Concepts**<br>计算机概念 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
 | **Electrical I**<br>电气 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
 | **Mathematics I for the School of Technology Studies**<br>技术研究学院数学 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Mathematics II for Technicians and Technologists**<br>技术员与技术师数学 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
 | **Wireless Communications Fundamentals**<br>无线通信基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
-| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
+| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
 | **DC/AC Machines and Motor Controls**<br>直流/交流电机与电机控制 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
 | **Operational Amplifiers and Analog Circuits**<br>运算放大器与模拟电路 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |
 | **Mathematics III - Calculus I**<br>数学 III - 微积分 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electronics-engineering-technology/) |

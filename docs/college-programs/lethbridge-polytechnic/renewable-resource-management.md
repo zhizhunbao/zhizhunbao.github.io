@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Water Resources 1**<br>水资源 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/renewable-resource-management) |
 | **Fundamentals of Soil Science 1**<br>土壤科学基础 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/renewable-resource-management) |
 | **Descriptive Statistics**<br>描述统计学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/renewable-resource-management) |
-| **Introduction to Environmental Law**<br>环境法导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/renewable-resource-management) |
+| **Introduction to Environmental Law**<br>环境法入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/renewable-resource-management) |
 | **Rangeland Management 1**<br>牧场管理 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/renewable-resource-management) |
 | **Principles of Wildlife Biology 1**<br>野生动物生物学原理 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/renewable-resource-management) |
 | **Principles of Fishery Science 1**<br>渔业科学原理 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/renewable-resource-management) |

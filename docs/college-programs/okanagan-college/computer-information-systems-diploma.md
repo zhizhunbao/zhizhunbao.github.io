@@ -20,19 +20,19 @@ ms.date: 2026-11-08
 | **Computer Programming II**<br>计算机编程 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Systems Analysis and Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Networks and Telecommunications I**<br>网络与电信 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
-| **Introduction to Discrete Structures**<br>离散结构导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
+| **Introduction to Discrete Structures**<br>离散结构入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **(Co-op Work Term I): 4 months**<br>（带薪实习学期 I）：4 个月 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Web development with LAMP**<br>LAMP 网页开发 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Computer Data Structures**<br>计算机数据结构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Object-Oriented Systems Analysis and Design**<br>面向对象系统分析与设计 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
-| **Introduction to Database Management Systems**<br>数据库管理系统导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
+| **Introduction to Database Management Systems**<br>数据库管理系统入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Client-side Web Systems**<br>客户端Web系统 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **(Co-op Work Term II): 4 months January - April**<br>（带薪实习学期 II）：4 个月，1月至4月 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **(Co-op Work Term III): 4 months May - August**<br>（带薪实习学期 III）：4 个月，5月至8月 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **(Co-op Work Term IV): 4 months September - December**<br>（带薪实习学期 IV）：4 个月，9月至12月 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Projects in Computer Science**<br>计算机科学项目 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
-| **Introduction to Operating Systems**<br>操作系统导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
+| **Introduction to Operating Systems**<br>操作系统入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 | **Graphical User Interface Programming**<br>图形用户界面编程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/computer-information-systems-diploma) |
 
 ## Courses

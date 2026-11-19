@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Baccalauréat spécialisé en administration publique**<br>公共管理荣誉学士 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Microéconomie**<br>微观经济学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Structures, fonctions et dynamiques des systèmes sociaux**<br>社会系统的结构、功能与动态 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
-| **Introduction à l'administration publique**<br>公共行政导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
+| **Introduction à l'administration publique**<br>公共行政入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Rédaction et raisonnement critique**<br>写作与批判性思维 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Système politique canadien**<br>加拿大政治体制 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
-| **Introduction à la comptabilité**<br>会计导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
+| **Introduction à la comptabilité**<br>会计入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Macroéconomie**<br>宏观经济学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Gestion en administration publique**<br>公共行政管理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
-| **Introduction aux politiques publiques**<br>公共政策导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
+| **Introduction aux politiques publiques**<br>公共政策入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Professional Communication**<br>职业沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Écriture et rhétorique gouvernementale**<br>政府写作与修辞 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |
 | **Pratique et méthode de recherche**<br>实践与研究方法 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-administration-publique/) |

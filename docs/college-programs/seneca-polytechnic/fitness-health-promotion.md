@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Motor Learning**<br>运动学习 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FHP/courses.html) |
 | **Biomechanical Analysis of Fundamental Movement**<br>基本运动生物力学分析 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FHP/courses.html) |
 | **Placement Preparation**<br>实习准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FHP/courses.html) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FHP/courses.html) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FHP/courses.html) |
 | **Exercise Prescription II**<br>运动处方 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FHP/courses.html) |
 | **Exercise Counselling**<br>运动咨询 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FHP/courses.html) |
 | **Placement Internship**<br>实习（实训） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FHP/courses.html) |

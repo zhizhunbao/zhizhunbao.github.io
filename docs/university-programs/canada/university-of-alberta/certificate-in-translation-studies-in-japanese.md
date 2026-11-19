@@ -14,10 +14,10 @@ ms.date: 2026-11-11
 | **Advanced Japanese II**<br>高级日语 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
 | **Japanese-English Translation**<br>日英翻译 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
 | **Practical Translation**<br>实用翻译 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
-| **Introduction to Translation**<br>翻译导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
+| **Introduction to Translation**<br>翻译入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
 | **The History of Translation**<br>翻译史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
 | **Overview of the Japanese Language**<br>日语概览 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
-| **Introduction to Japanese Linguistics**<br>日语语言学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
+| **Introduction to Japanese Linguistics**<br>日语语言学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110042&returnto=20844) |
 
 ## Courses
 

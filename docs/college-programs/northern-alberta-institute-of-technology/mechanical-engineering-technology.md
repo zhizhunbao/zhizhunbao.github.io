@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Engineering Graphics and Technical Drawings**<br>工程制图与技术图纸 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
 | **Industrial Hydraulics and Pneumatics**<br>工业液压与气动 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
 | **Solid Modeling**<br>实体建模 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
-| **Introduction to Design and Projects**<br>设计与项目导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
+| **Introduction to Design and Projects**<br>设计与项目入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
 | **Engineering Mechanics: Dynamics of Machinery**<br>工程力学：机械动力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
 | **Strength of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Technical Project (Capstone)**<br>技术项目（毕业设计项目） | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
 | **Machine Design**<br>机械设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
 | **Facilities Engineering and Management**<br>设施工程与管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
-| **Basic Electricity and Introduction to Robotics**<br>电学基础与机器人导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
+| **Basic Electricity and Introduction to Robotics**<br>电学基础与机器人入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/mechanical-engineering-technology) |
 
 ## Courses
 

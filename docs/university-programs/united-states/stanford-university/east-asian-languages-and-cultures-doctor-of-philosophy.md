@@ -1,10 +1,10 @@
 ---
-title: "3.3.168 East Asian Languages and Cultures, Doctor of Philosophy"
+title: "4.3.168 East Asian Languages and Cultures, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > East Asian Languages and Cultures, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.168 East Asian Languages and Cultures, Doctor of Philosophy
+# 4.3.168 East Asian Languages and Cultures, Doctor of Philosophy
 
 ## Glossary
 
@@ -26,7 +26,7 @@ ms.date: 2026-11-18
 | **Chinese through Modern Fiction**<br>通过现代小说学中文 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Chinese for Academic Discussion and Reading**<br>学术讨论与阅读中文 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Fourth-Year Japanese, Third Quarter**<br>日语四年级，第三学季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
-| **Introduction to Premodern Japanese**<br>前现代日语导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
+| **Introduction to Premodern Japanese**<br>前现代日语入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Readings in Premodern Japanese**<br>前现代日语读本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Seminar in Premodern Japanese Literature**<br>前现代日本文学研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Fourth-Year Korean,Third Quarter**<br>韩语四年级，第三学季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
@@ -35,10 +35,10 @@ ms.date: 2026-11-18
 | **Fourth-Year Modern Chinese for Bilingual Students, Third Quarter**<br>双语学生四年级现代汉语，第三学季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Concepts of Modernity I: Queer Theory - Literature, Performance, and Art**<br>现代性概念 I：酷儿理论，文学、表演与艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Concepts of Modernity II: Aesthetics and Phenomenology**<br>现代性概念 II：美学与现象学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
-| **Introduction to Cultural and Social Anthropology**<br>文化与社会人类学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
+| **Introduction to Cultural and Social Anthropology**<br>文化与社会人类学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **History of Anthropological Theory, Culture and Society**<br>人类学理论、文化与社会的历史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Foundations of Social Theory**<br>社会理论基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
-| **Introduction to Archaeological Thought**<br>考古思想导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
+| **Introduction to Archaeological Thought**<br>考古思想入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Contemporary Debates in Archaeological Thought**<br>考古思想的当代争论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Archaeological Methods**<br>考古方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |
 | **Proposal Writing Seminar in Archaeology**<br>考古学提案写作研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/doctor-of-philosophy) |

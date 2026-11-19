@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Intermediate Russian II**<br>中级俄语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 | **Advanced Russian I**<br>高级俄语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 | **Advanced Russian II**<br>高级俄语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
-| **Introduction to Russian Culture**<br>俄罗斯文化导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
+| **Introduction to Russian Culture**<br>俄罗斯文化入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 | **Contemporary Russian Culture**<br>当代俄罗斯文化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 | **The Age of Dostoevsky and Tolstoy**<br>陀思妥耶夫斯基与托尔斯泰的时代 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 | **Russian Cinema**<br>俄罗斯电影 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
@@ -37,8 +37,8 @@ ms.date: 2026-11-11
 | **Intermediate Polish**<br>中级波兰语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 | **Polish Grammar and Translation**<br>波兰语语法与翻译 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 | **Special Topic in Polish Culture**<br>波兰文化专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
-| **Introduction to the Yiddish Language and Culture I**<br>意第绪语言与文化导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
-| **Introduction to the Yiddish Language and Culture II**<br>意第绪语言与文化导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
+| **Introduction to the Yiddish Language and Culture I**<br>意第绪语言与文化入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
+| **Introduction to the Yiddish Language and Culture II**<br>意第绪语言与文化入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 | **Yiddish Culture, Literature, and Film**<br>意第绪文化、文学与电影 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-russian-language-culture/) |
 
 ## Courses

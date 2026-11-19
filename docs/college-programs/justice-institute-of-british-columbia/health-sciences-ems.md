@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/paramedicine-health-sciences/health-sciences-ems) |
 | **Pathophysiology**<br>病理生理学 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/paramedicine-health-sciences/health-sciences-ems) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/paramedicine-health-sciences/health-sciences-ems) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/paramedicine-health-sciences/health-sciences-ems) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/paramedicine-health-sciences/health-sciences-ems) |
 | **Professional Practice: Evidence-based Practice**<br>专业实践：循证实践 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/paramedicine-health-sciences/health-sciences-ems) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/paramedicine-health-sciences/health-sciences-ems) |
 | **Human Anatomy & Physiology**<br>人体解剖学与生理学 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/paramedicine-health-sciences/health-sciences-ems) |

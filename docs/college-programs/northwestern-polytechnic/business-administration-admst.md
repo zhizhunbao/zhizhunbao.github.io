@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Business Administration (ADMST)**<br>工商管理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Principles of Accounting**<br>会计原理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Computers in Business**<br>商务计算机 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Organizational Behavior**<br>组织行为学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Financial Modelling**<br>财务建模 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Contemporary Issues in Business**<br>商业当代议题 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
-| **Introduction to Hospitality and Tourism**<br>酒店与旅游导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
+| **Introduction to Hospitality and Tourism**<br>酒店与旅游入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Food and Beverage Operations**<br>餐饮运营 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Culinary Arts**<br>烹饪艺术 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |
 | **Front Office and Hotel Operations**<br>前台与酒店运营 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/business-administration-diploma) |

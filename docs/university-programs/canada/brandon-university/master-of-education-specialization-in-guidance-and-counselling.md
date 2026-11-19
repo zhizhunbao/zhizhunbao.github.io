@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education, SPECIALIZATION IN GUIDANCE AND COUNSELLING**<br>教育学硕士，辅导与咨询专业方向 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
-| **Introduction to Educational Research Methodologies**<br>教育研究方法论导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
+| **Introduction to Educational Research Methodologies**<br>教育研究方法论入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
 | **Overview of Educational Issues**<br>教育问题概述 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
 | **Counselling Interventions**<br>咨询干预 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
-| **Introduction to Counselling: Helping Relationships**<br>咨询导论：帮助关系 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
+| **Introduction to Counselling: Helping Relationships**<br>咨询入门：帮助关系 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
 | **Theories of Counselling**<br>咨询理论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
 | **Theory and Practice of Group Process & Counselling**<br>团体过程与咨询的理论与实践 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |
 | **Ethical & Legal Issues for Counsellors**<br>咨询师的伦理与法律问题 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=29) |

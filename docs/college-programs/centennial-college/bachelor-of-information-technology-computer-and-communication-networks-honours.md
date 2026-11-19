@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Information Technology (Computer and Communication Networks), Honours**<br>信息技术学士（计算机与通信网络），荣誉 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **The Power of Communications**<br>传播的力量 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Applied Mathematics**<br>应用数学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
-| **Introduction to Computer Networks**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
+| **Introduction to Computer Networks**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Calculus**<br>微积分 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Computer Architecture**<br>计算机体系结构 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
-| **Introduction to Switching and Routing**<br>交换与路由导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
+| **Introduction to Switching and Routing**<br>交换与路由入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Object Oriented Programming**<br>面向对象程序设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Management Principles and Practices**<br>管理原理与实践 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |
 | **Global Citizenship and Equity: World Hunger**<br>全球公民与公平：世界饥饿 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bachelor-of-information-technology) |

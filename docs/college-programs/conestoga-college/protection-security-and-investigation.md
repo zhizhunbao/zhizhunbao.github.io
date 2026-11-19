@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Applied Ethics**<br>应用伦理学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/protection-security-and-investigation/courses?id=36172) |
 | **Canadian Criminal Justice System**<br>加拿大刑事司法系统 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/protection-security-and-investigation/courses?id=36172) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/protection-security-and-investigation/courses?id=36172) |
-| **Introduction to Cyber Security**<br>网络安全导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/protection-security-and-investigation/courses?id=36172) |
+| **Introduction to Cyber Security**<br>网络安全入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/protection-security-and-investigation/courses?id=36172) |
 | **Security Guard Fundamentals**<br>保安基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/protection-security-and-investigation/courses?id=36172) |
 | **Working with Complex Populations**<br>与复杂人群合作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/protection-security-and-investigation/courses?id=36172) |
 | **Wellness and the Professional**<br>健康与职业人士 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/protection-security-and-investigation/courses?id=36172) |

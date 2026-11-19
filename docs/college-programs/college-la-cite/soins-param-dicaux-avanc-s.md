@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Soins paramédicaux avancés**<br>高级急救医疗 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71627) |
-| **Introduction aux soins avancés**<br>高级护理导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71627) |
+| **Introduction aux soins avancés**<br>高级护理入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71627) |
 | **Techniques avancées**<br>高级技术 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71627) |
 | **Intervention respiratoire avancée**<br>高级呼吸干预 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71627) |
 | **Consolidation**<br>整合 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71627) |

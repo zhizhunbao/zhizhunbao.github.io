@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate Human Resource Management**<br>人力资源管理证书 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-human-resource-management/) |
-| **Introduction to Business**<br>商务导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-human-resource-management/) |
+| **Introduction to Business**<br>商务入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-human-resource-management/) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-human-resource-management/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-human-resource-management/) |
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-human-resource-management/) |

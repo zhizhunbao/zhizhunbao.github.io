@@ -17,14 +17,14 @@ ms.date: 2026-11-11
 | **Specialized Translation from French into English (L1) I**<br>法译英（L1）专业翻译 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **General Translation from French into English (L1) III**<br>法译英通用翻译（L1）III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Technical Translation from French into English (L1) I**<br>法译英（L1）技术翻译 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
-| **Introduction to Terminology and Terminotics**<br>术语学与术语信息技术导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
+| **Introduction to Terminology and Terminotics**<br>术语学与术语信息技术入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Comparative Stylistics**<br>比较文体学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Writing Techniques for Translators and Professional Writers I**<br>译者与专业写作者的写作技巧 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Translation Technologies**<br>翻译技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Specialized Translation from French into English (L1) II**<br>法译英（L1）专业翻译 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Technical Translation from French into English (L1) II**<br>法译英（L1）技术翻译 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Writing Techniques for Translators and Professional Writers II**<br>译者与专业写作者的写作技巧 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
-| **Introduction to the Theory of Translation**<br>翻译理论导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
+| **Introduction to the Theory of Translation**<br>翻译理论入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **In-House Practicum**<br>内部实习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **External Practicum**<br>外部实习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Language in Society**<br>社会中的语言 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
@@ -42,11 +42,11 @@ ms.date: 2026-11-11
 | **Traduction générale de l'espagnol vers le français I**<br>西译法一般翻译 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Traduction du français vers l'espagnol**<br>法译西翻译 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Translation and Literature**<br>翻译与文学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
-| **Introduction to Subtitling**<br>字幕翻译导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
+| **Introduction to Subtitling**<br>字幕翻译入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Specialized Professional Training**<br>专门职业培训 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Professional Aspects of Translation**<br>翻译的专业方面 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 | **Applied Translation Technologies**<br>应用翻译技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
-| **Introduction to Interpreting**<br>口译导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
+| **Introduction to Interpreting**<br>口译入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-frenchenglish-translation-two-years/) |
 
 ## Courses
 

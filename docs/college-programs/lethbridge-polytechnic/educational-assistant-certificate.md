@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Observation and Assessment**<br>观察与评估 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/educational-assistant-certificate) |
 | **Applied Behaviour Analysis**<br>应用行为分析 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/educational-assistant-certificate) |
 | **Composition**<br>作文 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/educational-assistant-certificate) |
-| **Introduction to Language and Literature**<br>语言与文学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/educational-assistant-certificate) |
+| **Introduction to Language and Literature**<br>语言与文学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/educational-assistant-certificate) |
 | **Field Placement I**<br>现场实习 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/educational-assistant-certificate) |
 | **Field Placement II**<br>现场实习 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/educational-assistant-certificate) |
 | **Family Systems and Development**<br>家庭系统与发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/educational-assistant-certificate) |

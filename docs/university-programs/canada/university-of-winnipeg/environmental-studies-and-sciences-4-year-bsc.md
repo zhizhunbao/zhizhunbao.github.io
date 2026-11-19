@@ -14,13 +14,13 @@ ms.date: 2026-11-11
 | **Cells and Cellular Processes**<br>细胞与细胞过程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Evolution, Ecology and Biodiversity**<br>进化、生态与生物多样性 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Principles of Ecology**<br>生态学原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to the Chemical Properties of Matter**<br>物质化学性质导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to the Chemical Properties of Matter**<br>物质化学性质入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Basic Principles of Chemical Reactivity**<br>化学反应性基本原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Economic Theory**<br>经济理论导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Economic Theory**<br>经济理论入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Human-Environmental Interactions**<br>人类与环境的相互作用 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Law and the Environment**<br>法律与环境 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environmental Impact Assessment**<br>环境影响评价 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Science for a Dynamic World: An Introduction to Physical Geography**<br>动态世界的科学：自然地理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Science for a Dynamic World: An Introduction to Physical Geography**<br>动态世界的科学：自然地理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environmental Ethics**<br>环境伦理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Statistical Techniques in Environmental Analysis**<br>环境分析中的统计技术 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Statistical Analysis I**<br>统计分析 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
@@ -37,11 +37,11 @@ ms.date: 2026-11-11
 | **Methods of Chemical Analysis**<br>化学分析方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environmental Sustainability: A Global Dilemma**<br>环境可持续性：全球困境 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Calculus I**<br>微积分导论 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Calculus II**<br>微积分导论 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Calculus I**<br>微积分入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Calculus II**<br>微积分入门 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Physics**<br>物理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Physics**<br>物理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environment and Health**<br>环境与健康 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environmental Governance for Sustainability**<br>可持续发展的环境治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environmental Soil Science**<br>环境土壤科学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
@@ -56,9 +56,9 @@ ms.date: 2026-11-11
 | **Tropical Environments**<br>热带环境 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Water Resources**<br>水资源 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Research Methods and Design**<br>研究方法与设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Cartography**<br>制图学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Remote Sensing**<br>遥感导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Cartography**<br>制图学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Remote Sensing**<br>遥感入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Advanced Remote Sensing**<br>高级遥感 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **The Environment and Business**<br>环境与商业 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Forest Wildlife Management**<br>森林野生动物管理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
@@ -66,13 +66,13 @@ ms.date: 2026-11-11
 | **Mineralogy and Petrology**<br>矿物学与岩石学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Fluvial and Hillslope Processes**<br>河流与山坡过程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Climate Change and Variability**<br>气候变化与变异 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Conflict Resolution Studies**<br>冲突解决研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Conflict Resolution Studies**<br>冲突解决研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Sociology of the Environment**<br>环境社会学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Women, Health and the Environment**<br>女性、健康与环境 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environmental Perception and Human Behaviour**<br>环境感知与人类行为 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **The Urban Environment**<br>城市环境 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Population Geography**<br>人口地理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to International Development Studies**<br>国际发展研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to International Development Studies**<br>国际发展研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Cultural Perspectives on Global Processes**<br>全球进程的文化视角 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Biology of Vascular Plants**<br>维管植物生物学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Forest Field Skills Camp**<br>森林野外技能营 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
@@ -95,7 +95,7 @@ ms.date: 2026-11-11
 | **Forest Health and Protection**<br>森林健康与保护 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Urban Forestry**<br>城市林业 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Environmental Economics**<br>环境经济学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究导论：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究入门：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Indigenous Peoples, Lands, and Resources**<br>原住民、土地与资源 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Indigenous Treaties in Canada**<br>加拿大原住民条约 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Indigenous People in Canada and the Law**<br>加拿大原住民与法律 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
@@ -103,7 +103,7 @@ ms.date: 2026-11-11
 | **Principles of Silviculture+**<br>造林学原理 + | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Indigenous Politics in Manitoba**<br>马尼托巴原住民政治 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 | **Indigenous Justice & Canadian Law**<br>原住民司法与加拿大法律 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
-| **Introduction to Indigenous Spirituality**<br>原住民灵性导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
+| **Introduction to Indigenous Spirituality**<br>原住民灵性入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=5) |
 
 ## Courses
 

@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Ethical Issues in Genetics**<br>遗传学中的伦理问题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110744&returnto=20844) |
 | **Professional Planning Practice and Ethics**<br>专业规划实践与伦理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110744&returnto=20844) |
 | **Applied Ethics in Sport, Physical Activity and Exercise**<br>体育、身体活动与运动中的应用伦理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110744&returnto=20844) |
-| **Introduction to Philosophy: Values and Society**<br>哲学导论：价值观与社会 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110744&returnto=20844) |
+| **Introduction to Philosophy: Values and Society**<br>哲学入门：价值观与社会 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110744&returnto=20844) |
 | **Biology, Society, and Values**<br>生物学、社会与价值观 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110744&returnto=20844) |
 | **Moral Philosophy and the Christian Tradition**<br>道德哲学与基督教传统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110744&returnto=20844) |
 | **Philosophy of Hunting**<br>狩猎哲学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110744&returnto=20844) |

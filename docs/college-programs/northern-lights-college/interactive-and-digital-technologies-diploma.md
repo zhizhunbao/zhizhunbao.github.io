@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Interactive and Digital Technologies Diploma**<br>交互与数字技术文凭 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
-| **Introduction to Workplace Communications**<br>职场沟通导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
+| **Introduction to Workplace Communications**<br>职场沟通入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
 | **Foundations of Web Development**<br>Web 开发基础 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
 | **Small Computer Systems: Organization And Architecture**<br>小型计算机系统：组织与结构 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Entrepreneurship: Start Up**<br>创业：初创企业 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
 | **Organizational Communications**<br>组织沟通 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
 | **Introductory Discrete Mathematics I**<br>离散数学入门 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
-| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
+| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
 | **Organizational Behavior**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/interactive-technologies-and-game-design-diploma/) |
 
 ## Courses

@@ -1,10 +1,10 @@
 ---
-title: "3.3.98 Economics, Master of Arts"
+title: "4.3.98 Economics, Master of Arts"
 description: "University Programs > United States > Stanford University > Economics, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.98 Economics, Master of Arts
+# 4.3.98 Economics, Master of Arts
 
 ## Glossary
 
@@ -15,7 +15,7 @@ ms.date: 2026-11-18
 | **Microeconomics I For Non-Economics PhDs students**<br>面向非经济学博士生的微观经济学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/economics/master-of-arts) |
 | **Intermediate Econometrics I**<br>中级计量经济学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/economics/master-of-arts) |
 | **Intermediate Econometrics II**<br>中级计量经济学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/economics/master-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/economics/master-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/economics/master-of-arts) |
 | **Applied Econometrics**<br>应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/economics/master-of-arts) |
 | **Advanced Topics in Econometrics**<br>计量经济学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/economics/master-of-arts) |
 | **Microeconomics II**<br>微观经济学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/economics/master-of-arts) |

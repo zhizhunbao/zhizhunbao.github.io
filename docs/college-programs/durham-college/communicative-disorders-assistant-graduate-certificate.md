@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Communicative Disorders Assistant (graduate certificate)**<br>沟通障碍助理（研究生证书） | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/communicative-disorders-assistant-graduate-certificate) |
 | **Anatomy and Physiology Of Communication and Swallowing**<br>交流与吞咽解剖学与生理学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/communicative-disorders-assistant-graduate-certificate) |
-| **Introduction to Audiology**<br>听力学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/communicative-disorders-assistant-graduate-certificate) |
+| **Introduction to Audiology**<br>听力学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/communicative-disorders-assistant-graduate-certificate) |
 | **Augmentative and Alternative Communication and Assistive Technology 1**<br>辅助与替代沟通及辅助技术 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/communicative-disorders-assistant-graduate-certificate) |
 | **Clinical and Professional Practice 1**<br>临床与专业实践 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/communicative-disorders-assistant-graduate-certificate) |
 | **Child Language Acquisition and Related Disorders 1**<br>儿童语言习得及相关障碍 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/communicative-disorders-assistant-graduate-certificate) |

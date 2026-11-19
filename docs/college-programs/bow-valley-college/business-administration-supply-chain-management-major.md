@@ -11,19 +11,19 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration - Supply Chain Management Major**<br>工商管理，供应链管理专业方向 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Organizations and Sustainability**<br>组织与可持续性导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Organizations and Sustainability**<br>组织与可持续性入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Operations Management I**<br>运营管理 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Management Accounting I**<br>管理会计 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Business Analytics**<br>商业分析导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Business Analytics**<br>商业分析入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Negotiation Skills**<br>谈判技巧 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Global Logistics and International Trade**<br>全球物流与国际贸易 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Logistics & Transportation**<br>物流与运输 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **International Business**<br>国际商务 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Business Strategy**<br>商业战略 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Insurance and Risk Management**<br>保险与风险管理导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Insurance and Risk Management**<br>保险与风险管理入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Quality Management**<br>质量管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Supply Chain Specialization: Service Learning**<br>供应链专业方向：服务学习 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |
 | **Supply Chain Specialization: Capstone Project**<br>供应链专业方向：毕业设计项目 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-supply-chain-management) |

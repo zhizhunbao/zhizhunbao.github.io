@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Problem Solving & Problem Logic**<br>问题解决与问题逻辑 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csam) |
 | **Python Programming**<br>Python 编程 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csam) |
 | **Database Design & SQL**<br>数据库设计与SQL | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csam) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csam) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csam) |
 | **Front-End Development II**<br>前端开发 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csam) |
 | **Programming C# .NET**<br>C# .NET编程 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csam) |
 | **Programming Java SE**<br>Java SE编程 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/csam) |

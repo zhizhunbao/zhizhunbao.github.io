@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIST (JOINT) PROGRAM IN JOURNALISM (ARTS)**<br>新闻学专精项目（联合）（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
-| **Introduction to Journalism and News Literacy I**<br>新闻与新闻素养导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
-| **Introduction to Journalism II**<br>新闻学导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
+| **Introduction to Journalism and News Literacy I**<br>新闻与新闻素养入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
+| **Introduction to Journalism II**<br>新闻学入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 | **Media Foundations**<br>媒体基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 | **Media History**<br>媒体史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 | **Covering Immigration and Transnational Issues**<br>移民与跨国议题报道 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
@@ -46,7 +46,6 @@ ms.date: 2026-11-11
 |  | Media Studies Courses (1.0 credit) | MDSA10H3 | Media Foundations | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Media Studies Courses (1.0 credit) | MDSA13H3 | Media History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Media Studies Courses (1.0 credit) |  | Note: Courses for Year 1 of the program are taught on the UTSC Campus. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
-|  | Media Studies Courses (1.0 credit) |  | 2. Second Year (2.5 credits): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Journalism Core Courses | JOUB01H3 | Covering Immigration and Transnational Issues | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Journalism Core Courses | JOUB02H3 | Critical Journalism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Journalism Core Courses | JOUB24H3 | Journalism in the Age of Digital Media | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
@@ -56,7 +55,6 @@ ms.date: 2026-11-11
 |  | Journalism Core Courses |  | (MDSB25H3) Political Economy of Media |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Journalism Core Courses | JOUB21H3 | Witnessing and Bearing Witness | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Journalism Core Courses |  | Note: Courses for Year 2 of the program are taught on the UTSC Campus. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
-|  | Journalism Core Courses |  | 3. Third Year (6.5 credits): Note that students are required to be on full-time status while they are taking courses at Centennial College |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Journalism Application Courses |  | (a) Centennial College Group 1 (2.5 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Journalism Application Courses | JOUA06H3 | Contemporary Issues in Law and Ethics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Journalism Application Courses | JOUB11H3 | News Reporting | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
@@ -88,7 +86,6 @@ ms.date: 2026-11-11
 |  | Advanced Journalism Application Courses |  | Students will be eligible to enrol in Centennial College Group 3 courses after successfully completing the courses from Centennial College Group 2 above. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Advanced Journalism Application Courses |  | Courses for Year 3 of the program are taught at Centennial College. For details, including campus location changes, please consult the Joint Programs website for the most up-to-date information. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Advanced Journalism Application Courses |  | Students are advised not to enrol in UTSC courses during the same term they are taking courses at Centennial College. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
-|  | Advanced Journalism Application Courses |  | 4. Fourth Year (3.0 credits): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Senior Journalism Studies Courses |  | \* 2.5 credits at the C- or D-level in MDS or JOU courses, of which at least 0.5 credit must be at the D-level. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Senior Journalism Studies Courses | JOUD10H3 | Senior Seminar in Journalism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |
 |  | Senior Journalism Studies Courses |  | Note: courses for Year 4 of the program are taught on the UTSC campus |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspejou) |

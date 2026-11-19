@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Musculoskeletal Anatomy and Conditions**<br>肌肉骨骼解剖与病症 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/occupational-therapist-and-physiotherapist-assistant) |
 | **Client & Career Communication**<br>客户与职业沟通 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/occupational-therapist-and-physiotherapist-assistant) |
 | **Research & Writing/Health Sciences**<br>研究与写作/健康科学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/occupational-therapist-and-physiotherapist-assistant) |
-| **Introduction to Healthcare and Ethics**<br>医疗保健与伦理导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/occupational-therapist-and-physiotherapist-assistant) |
+| **Introduction to Healthcare and Ethics**<br>医疗保健与伦理入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/occupational-therapist-and-physiotherapist-assistant) |
 | **Health Promotion**<br>健康促进 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/occupational-therapist-and-physiotherapist-assistant) |
 | **Neuroanatomy and Cognition**<br>神经解剖学与认知 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/occupational-therapist-and-physiotherapist-assistant) |
 | **One General Education Course**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/occupational-therapist-and-physiotherapist-assistant) |

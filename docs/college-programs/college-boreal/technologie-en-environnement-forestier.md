@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Fondements d'écologie**<br>生态学基础 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-environnement-forestier/) |
 | **Taxonomie végétale**<br>植物分类学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-environnement-forestier/) |
 | **Inventaires forestiers**<br>森林资源清查 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-environnement-forestier/) |
-| **Introduction à la gestion des richesses naturelles**<br>自然资源管理导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-environnement-forestier/) |
+| **Introduction à la gestion des richesses naturelles**<br>自然资源管理入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-environnement-forestier/) |
 | **Oral Communication for Professional Environments**<br>职业环境口语沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-environnement-forestier/) |
 | **Méthodes quantitatives en richesses naturelles**<br>自然资源定量方法 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-environnement-forestier/) |
 | **Taxonomie animale**<br>动物分类学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-environnement-forestier/) |

@@ -13,21 +13,21 @@ ms.date: 2026-11-11
 | **Honours BSocSc Economics and Public Policy**<br>经济学与公共政策荣誉（BSocSc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Mathematical Methods II**<br>数学方法 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Public Administration**<br>公共行政导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Public Administration**<br>公共行政入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Macroeconomic Theory I**<br>宏观经济理论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Macroeconomic Theory II**<br>宏观经济理论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Microeconomic Theory I**<br>微观经济理论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Microeconomic Theory II**<br>微观经济理论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Probability and Statistics for Economists**<br>经济学家的概率与统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Econometrics**<br>计量经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Public Policy Analysis**<br>公共政策分析导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Canadian Politics**<br>加拿大政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Econometrics**<br>计量经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Public Policy Analysis**<br>公共政策分析入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Canadian Politics**<br>加拿大政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Sectoral Issues in Public Policy**<br>公共政策中的部门议题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Mathematical Methods I**<br>数学方法 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Sociology of Ethics**<br>伦理社会学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Sociology of Work**<br>工作社会学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Microeconomic Analysis of the Public Sector**<br>公共部门的微观经济分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
@@ -35,12 +35,12 @@ ms.date: 2026-11-11
 | **Cost-Benefit Analysis**<br>成本效益分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Public Economics**<br>公共经济学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Economics of Women's Issues**<br>女性议题经济学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Labour and Population Economics**<br>劳动与人口经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Environmental and Natural Resources Economics**<br>环境与自然资源经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Labour and Population Economics**<br>劳动与人口经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Environmental and Natural Resources Economics**<br>环境与自然资源经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **International Finance**<br>国际金融 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Health Economics**<br>卫生经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Health Economics**<br>卫生经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Industrial Organization I**<br>产业组织 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
-| **Introduction to Regional and Urban Economics**<br>区域与城市经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
+| **Introduction to Regional and Urban Economics**<br>区域与城市经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **International Trade**<br>国际贸易 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Monetary Theory**<br>货币理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |
 | **Labour Economics**<br>劳动经济学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-economics-public-policy/) |

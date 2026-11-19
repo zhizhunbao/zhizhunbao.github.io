@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in World Sound Arts**<br>世界声音艺术证书 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
-| **Introduction to Popular Music**<br>流行音乐导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
+| **Introduction to Popular Music**<br>流行音乐入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
 | **Issues in Popular Music Studies**<br>流行音乐研究中的问题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
-| **Introduction to Music Technologies**<br>音乐技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
+| **Introduction to Music Technologies**<br>音乐技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
 | **Electroacoustic Music**<br>电声音乐 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
 | **Interactive Sounds and Systems**<br>交互式声音与系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
-| **Introduction to World Music**<br>世界音乐导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
+| **Introduction to World Music**<br>世界音乐入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
 | **Studies in World Music**<br>世界音乐研究 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
 | **Topics in Ethnomusicology**<br>民族音乐学专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |
 | **Topics in Ethnomusicology: Music and Religion**<br>民族音乐学专题：音乐与宗教 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110022&returnto=20844) |

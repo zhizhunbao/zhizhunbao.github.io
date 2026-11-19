@@ -1,10 +1,10 @@
 ---
-title: "3.3.100 Education, Master of Science"
+title: "4.3.100 Education, Master of Science"
 description: "University Programs > United States > Stanford University > Education, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.100 Education, Master of Science
+# 4.3.100 Education, Master of Science
 
 ## Glossary
 
@@ -14,11 +14,11 @@ ms.date: 2026-11-18
 | **Education Internship Workshop**<br>教育实习工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Education Data Science Seminar**<br>教育数据科学研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Education Data Science Capstone Projects**<br>教育数据科学毕业项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Education Data Science: Data Processing**<br>教育数据科学导论：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Education Data Science: Data Analysis**<br>教育数据科学导论：数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Data Analysis and Interpretation**<br>数据分析与解释导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Education Data Science: Data Processing**<br>教育数据科学入门：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Education Data Science: Data Analysis**<br>教育数据科学入门：数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Data Analysis and Interpretation**<br>数据分析与解释入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Advanced Regression Analysis**<br>高级回归分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Statistical Methods in Education**<br>教育统计方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Statistical Methods in Education**<br>教育统计方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Statistical Analysis in Education: Regression**<br>教育中的统计分析：回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Political Methodology I: Regression**<br>政治方法论 I：回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Political Methodology II: Causal Inference**<br>政治方法论 II：因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-18
 | **Statistics for an Open Science: Explanation**<br>面向开放科学的统计学：解释 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Statistics for an Open Science: Modeling**<br>面向开放科学的统计学：建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Longitudinal Data Analysis in Social Science Research**<br>社会科学研究中的纵向数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Simulation in Education Research**<br>教育研究中的模拟 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
@@ -43,15 +43,15 @@ ms.date: 2026-11-18
 | **Experimental Methods**<br>实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Empirical Methods in Public Policy**<br>公共政策中的实证方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Applied Econometrics for Public Policy**<br>公共政策应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Causal Inference**<br>因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Computer Vision: Foundations and Applications**<br>计算机视觉：基础与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Mining Massive Data Sets**<br>海量数据集挖掘 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Data Science and the Science of Learning**<br>数据科学与学习科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Curiosity in Artificial Intelligence**<br>人工智能中的好奇心 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Interactive and Embodied Learning**<br>互动与具身学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 导论：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Learning Sciences: Understanding Learning and Learning Environments**<br>学习科学导论：理解学习与学习环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 入门：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Learning Sciences: Understanding Learning and Learning Environments**<br>学习科学入门：理解学习与学习环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Engineering Education and Online Learning**<br>工程教育与在线学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Lytics Seminar**<br>Lytics 研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Computer Vision for Education and Social Science Research**<br>面向教育与社会科学研究的计算机视觉 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
@@ -59,8 +59,8 @@ ms.date: 2026-11-18
 | **Math Out Loud: Collaborative Learning Analytics for Multilingual Math Discourse**<br>大声说数学：多语言数学话语的协作学习分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Deep Learning for Computer Vision**<br>计算机视觉深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Reinforcement Learning**<br>强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Psychometrics**<br>心理测量学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Psychometrics - Lab**<br>心理测量学导论：实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Psychometrics**<br>心理测量学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Psychometrics - Lab**<br>心理测量学入门：实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Problems in Measurement: Item Response Theory**<br>测量问题：项目反应理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Measuring Learning in the Brain**<br>测量大脑中的学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Multivariate Analysis, Measurement, and Study of Change in Social Science Research**<br>社会科学研究中的多元分析、测量与变化研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
@@ -83,11 +83,11 @@ ms.date: 2026-11-18
 | **Social Network Methods**<br>社会网络方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Networks**<br>网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Graph and Combinatorial Optimization**<br>图与组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Social Networks**<br>社交网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Social Networks**<br>社交网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Theoretical Computational Social Science**<br>理论计算社会科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Learning Design and Technology Seminar**<br>学习设计与技术研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Qualitative Research Methods**<br>定性研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Qualitative Research Methods**<br>定性研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Design for Artificial Intelligence**<br>面向人工智能的设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Design for Play**<br>游戏设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Human-Computer Interaction: Foundations and Frontiers**<br>人机交互：基础与前沿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
@@ -123,7 +123,7 @@ ms.date: 2026-11-18
 | **Science, Engineering and Technology Education Seminar**<br>科学、工程与技术教育研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Cognition and Learning**<br>认知与学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **Academic Achievement of Language Minority Students**<br>语言少数群体学生的学业成就 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
-| **Introduction to Research in Curriculum and Teacher Education**<br>课程与教师教育研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
+| **Introduction to Research in Curriculum and Teacher Education**<br>课程与教师教育研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **(Re)Meditating Systems Change: Disability, Language & Difference**<br>（重新）审思系统变革：残障、语言与差异 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 | **AI Tools Learning Lab**<br>AI工具学习实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/education/master-of-science) |
 

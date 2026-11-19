@@ -1,10 +1,10 @@
 ---
-title: "3.4.26 East Asian Languages and Literatures (B.A.)"
+title: "4.4.26 East Asian Languages and Literatures (B.A.)"
 description: "University Programs > United States > Yale University > East Asian Languages and Literatures (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.26 East Asian Languages and Literatures (B.A.)
+# 4.4.26 East Asian Languages and Literatures (B.A.)
 
 ## Glossary
 
@@ -18,12 +18,12 @@ ms.date: 2026-11-18
 | **Yearlong Senior Essay**<br>全年毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
 | **Advanced Modern Chinese I**<br>高级现代汉语 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
 | **Advanced Modern Chinese II**<br>高级现代汉语 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
-| **Introduction to Literary Chinese I**<br>文言文导论 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
+| **Introduction to Literary Chinese I**<br>文言文入门 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
 | **Advanced Japanese I: Japanese Language through Contemporary Life in Japan**<br>高级日语 I：通过日本当代生活学日语 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
-| **Introduction to Literary Japanese**<br>古典日语导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
+| **Introduction to Literary Japanese**<br>古典日语入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
 | **Advanced Korean I: Korean Language and Culture through K-Pop Music**<br>高级韩语 I：通过K-Pop音乐学韩国语言与文化 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
 | **Advanced Korean II: Korean Language and Culture through Media**<br>高级韩语 II：通过媒体学韩国语言与文化 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
-| **Introduction to Hanja**<br>汉字导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
+| **Introduction to Hanja**<br>汉字入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/) |
 
 ## Courses
 

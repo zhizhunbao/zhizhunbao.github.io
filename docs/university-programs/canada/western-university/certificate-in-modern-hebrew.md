@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN MODERN HEBREW**<br>现代希伯来语证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21692&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE MODERN HEBREW LANGUAGE**<br>现代希伯来语导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21692&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE MODERN HEBREW LANGUAGE**<br>现代希伯来语入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21692&SelectedCalendar=Live&ArchiveID=) |
 | **HEBREW 1**<br>希伯来语 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21692&SelectedCalendar=Live&ArchiveID=) |
 | **HEBREW 2**<br>希伯来语 2 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21692&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED MODERN HEBREW LANGUAGE**<br>高级现代希伯来语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21692&SelectedCalendar=Live&ArchiveID=) |

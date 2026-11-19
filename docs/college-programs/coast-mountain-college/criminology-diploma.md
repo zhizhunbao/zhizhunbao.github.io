@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminology Diploma**<br>犯罪学文凭 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
-| **Introduction to Canadian Law**<br>加拿大法律导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
+| **Introduction to Canadian Law**<br>加拿大法律入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
 | **The Criminal Justice System**<br>刑事司法体系 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
 | **Psychology of Crime & Deviance**<br>犯罪与越轨心理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
 | **Crime, Deviance & Society**<br>犯罪、越轨与社会 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Law, Youth and Young Offenders (or)**<br>法律、青少年与青少年犯（或） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
 | **Women and Crime**<br>女性与犯罪 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
 | **Criminal Law in Canada**<br>加拿大刑法 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
 | **Any first year or second year English**<br>任意一或二年级英语课程 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
 | **Any first year or second year Political Science**<br>任意一或二年级政治学课程 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |
 | **Any first year or second year Psychology**<br>任意一或二年级心理学课程 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology) |

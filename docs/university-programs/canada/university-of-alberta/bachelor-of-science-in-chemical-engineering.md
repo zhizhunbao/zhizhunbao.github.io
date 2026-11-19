@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Bachelor of Science in Chemical Engineering**<br>理学学士（化学工程） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Engineering Thermodynamics**<br>工程热力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Chemical and Materials Engineering**<br>化学与材料工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Chemical and Materials Engineering**<br>化学与材料工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Process Analysis**<br>过程分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Calculus for Engineering III**<br>工程微积分 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
@@ -39,39 +39,39 @@ ms.date: 2026-11-11
 | **Chemical Engineering Project Laboratory**<br>化学工程项目实验室 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Chemical Engineering Design II**<br>化学工程设计 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **The Practice of the Engineering Profession**<br>工程职业实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Biological Diversity**<br>生物多样性导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Biological Diversity**<br>生物多样性入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Quantitative Analysis I**<br>定量分析 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Planet Earth**<br>地球 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Engineering Earth Science**<br>工程地球科学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Classical Mechanics I**<br>经典力学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Modern Physics**<br>近代物理学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Modern Physics**<br>近代物理学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Human Anatomy and Physiology: Cells and Tissue**<br>人体解剖与生理学：细胞与组织 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Human Anatomy and Physiology: Systems**<br>人体解剖与生理学：系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Forecasting for Planners and Managers**<br>规划者与管理者的预测 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Fluid-Particle Systems**<br>流体-颗粒系统导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Fluid-Particle Systems**<br>流体-颗粒系统入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Modelling Process Dynamics**<br>过程动力学建模 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Biochemical Engineering**<br>生化工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Biochemical Engineering**<br>生化工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Fuel Cells and Their Applications**<br>燃料电池及其应用 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Special Topics in Chemical Engineering**<br>化学工程专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Fundamentals of Oil Sands Upgrading**<br>油砂改质基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Fundamentals of Oilsands Extraction**<br>油砂提取基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Digital Signal Processing for Chemical Engineers**<br>化学工程师的数字信号处理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Intermediate Process Control**<br>中级过程控制 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Biomaterials**<br>生物材料导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Biomaterials**<br>生物材料入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Mechanics of Deformable Bodies I**<br>变形体力学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Principles of Environmental Modeling and Risk**<br>环境建模与风险原理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Mineral Processing**<br>矿物加工 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Special Projects in Chemical and Materials Engineering I (see Note)**<br>化学与材料工程特别项目 I（见注） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Special Projects in Chemical and Materials Engineering II (see Note)**<br>化学与材料工程特别项目 II（见注） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Extractive Metallurgy**<br>提取冶金 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Polymer Science and Engineering**<br>高分子科学与工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Polymer Science and Engineering**<br>高分子科学与工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Special Topics in Chemical and Materials Engineering**<br>化学与材料工程专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Electrical Circuits II**<br>电路 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Digital Logic Design**<br>数字逻辑设计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Microprocessors**<br>微处理器导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Digital Logic Design**<br>数字逻辑设计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Microprocessors**<br>微处理器入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Engineering Safety and Risk Management - Methodologies and Tools**<br>工程安全与风险管理：方法与工具 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Production and Operations Management**<br>生产与运营管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Engineering Project Management**<br>工程项目管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
@@ -100,7 +100,7 @@ ms.date: 2026-11-11
 | **Principles of Ecology**<br>生态学原理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **A Planet in Crisis**<br>危机中的星球 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Plant Physiology**<br>植物生理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Molecular Cell Biology**<br>分子细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Molecular Cell Biology**<br>分子细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Quantitative Analysis II**<br>定量分析 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Environmental Chemistry I**<br>环境化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Inorganic Materials Chemistry**<br>无机材料化学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
@@ -113,15 +113,15 @@ ms.date: 2026-11-11
 | **Advanced Boundary Value Problems**<br>高级边值问题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Mathematical Methods for Electrical Engineers**<br>电气工程师的数学方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Theory of Functions of a Complex Variable**<br>复变函数论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Partial Differential Equations**<br>偏微分方程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Partial Differential Equations**<br>偏微分方程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Mathematical Modelling in the Life Sciences**<br>生命科学中的数学建模 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Optimization**<br>最优化导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Optimization**<br>最优化入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **General Microbiology**<br>普通微生物学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Microbial Physiology**<br>微生物生理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Molecular Microbiology**<br>分子微生物学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Simulation and Computer Modelling Techniques in Management**<br>管理学中的模拟与计算机建模技术 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Soil Biogeochemistry**<br>土壤生物地球化学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Soil Physics**<br>土壤物理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |
 | **Environmental Soil Chemistry**<br>环境土壤化学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110438&returnto=20848) |

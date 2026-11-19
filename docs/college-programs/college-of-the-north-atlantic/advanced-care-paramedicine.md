@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Advanced Care for Medical Emergencies II**<br>内科急症高级救护 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/advanced-care-paramedicine) |
 | **Management of Toxicology**<br>毒理学管理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/advanced-care-paramedicine) |
 | **Advanced Care for Medical Emergencies III**<br>内科急症高级救护 III | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/advanced-care-paramedicine) |
-| **Introduction to Critical Care**<br>重症监护导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/advanced-care-paramedicine) |
+| **Introduction to Critical Care**<br>重症监护入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/advanced-care-paramedicine) |
 | **Social Responsibilities of the Paramedic**<br>急救医护人员的社会责任 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/advanced-care-paramedicine) |
 | **Final Practicum**<br>最终实习 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/advanced-care-paramedicine) |
 

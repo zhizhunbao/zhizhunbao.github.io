@@ -41,7 +41,7 @@ ms.date: 2026-11-11
 | **Advanced Topics in Strategy Analytics.**<br>战略分析高级专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/management/analytics-non-thesis-mm/) |
 | **Revenue Management.**<br>收益管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/management/analytics-non-thesis-mm/) |
 | **Operations and Supply Chain Analytics.**<br>运营与供应链分析学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/management/analytics-non-thesis-mm/) |
-| **Introduction to Artificial Intelligence and Deep Learning.**<br>人工智能与深度学习导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/management/analytics-non-thesis-mm/) |
+| **Introduction to Artificial Intelligence and Deep Learning.**<br>人工智能与深度学习入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/management/analytics-non-thesis-mm/) |
 | **Optimization for Data Science.**<br>数据科学优化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/management/analytics-non-thesis-mm/) |
 | **Data Driven Decisions and Modelling for Operations**<br>运营的数据驱动决策与建模 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/management/analytics-non-thesis-mm/) |
 | **Advanced Topics in Management Science 1**<br>管理科学高级专题 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/management/analytics-non-thesis-mm/) |

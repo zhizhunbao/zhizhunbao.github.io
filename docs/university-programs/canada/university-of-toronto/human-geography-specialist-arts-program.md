@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Human Geography Specialist (Arts Program)**<br>人类地理学专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
-| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
+| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Histories of Environmental Change**<br>环境变迁的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Environment, Food and People**<br>环境、食物与人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Geopolitics, Globalization, and Inequality**<br>地缘政治、全球化与不平等 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
@@ -22,9 +22,9 @@ ms.date: 2026-11-11
 | **Mobility and Borders**<br>流动与边界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Global Racial Capitalism in the 21st Century**<br>21 世纪全球种族资本主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Geomorphology**<br>地貌学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
-| **Introduction to Climatology**<br>气候学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
+| **Introduction to Climatology**<br>气候学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Environment, Society and Resources**<br>环境、社会与资源 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Introductory Analytical Methods**<br>分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Social Research Methods**<br>社会研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
@@ -63,12 +63,12 @@ ms.date: 2026-11-11
 | **Housing and Community Development**<br>住房与社区发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Comparative Urban Policy**<br>比较城市政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Culture, History, and Landscape**<br>文化、历史与景观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
-| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
+| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **GIS for Public Health**<br>公共卫生 GIS | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Advanced Geographic Information Systems**<br>高级地理信息系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
-| **Introduction to Programming in GIS**<br>GIS编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
+| **Introduction to Programming in GIS**<br>GIS编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Geovisualization**<br>地理可视化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
-| **Introduction to Urban Data Analytics**<br>城市数据分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
+| **Introduction to Urban Data Analytics**<br>城市数据分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Field Course in Human Geography**<br>人文地理学野外课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Special Topics in Geographic Information Systems**<br>地理信息系统专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |
 | **Special Topics in Environmental Geography**<br>环境地理学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1667) |

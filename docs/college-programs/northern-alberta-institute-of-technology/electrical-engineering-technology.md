@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Technical Math, Data Analysis and Calculus I**<br>技术数学、数据分析与微积分 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-engineering-technology) |
 | **Three Phase Fundamentals**<br>三相基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-engineering-technology) |
 | **Transformers**<br>变压器 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-engineering-technology) |
-| **Introduction to Controls and Programmable Logic Controllers**<br>控制与可编程逻辑控制器导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-engineering-technology) |
+| **Introduction to Controls and Programmable Logic Controllers**<br>控制与可编程逻辑控制器入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-engineering-technology) |
 | **Power Electronics I**<br>电力电子 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-engineering-technology) |
 | **Calculus II, Differential Equations and Statistics**<br>微积分 II、微分方程与统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-engineering-technology) |
 | **Field Service**<br>现场服务 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-engineering-technology) |

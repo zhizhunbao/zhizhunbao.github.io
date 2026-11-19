@@ -11,24 +11,24 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Commerce**<br>商学学士 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction to Commerce**<br>商学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction To Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction To Finance (for students starting Fall 2026 and after)**<br>金融学导论（适用于2026年秋季及以后入学的学生） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction to Commerce**<br>商学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction To Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction To Finance (for students starting Fall 2026 and after)**<br>金融学入门（适用于2026年秋季及以后入学的学生） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction To Mathematical Analysis**<br>数学分析导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction To Mathematical Analysis**<br>数学分析入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Managerial Statistics**<br>管理统计学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Principles of Economics for Business**<br>商科经济学原理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Managerial Economics**<br>管理经济学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction To Management Accounting (for students starting Fall 2026 and after)**<br>管理会计导论（适用于 2026 年秋季及以后入学的学生） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction To Management Accounting (for students starting Fall 2026 and after)**<br>管理会计入门（适用于 2026 年秋季及以后入学的学生） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Finance II**<br>金融学 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction To Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction To Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Marketing II**<br>营销学 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Business Decision Models I**<br>商业决策模型 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction to International Business**<br>国际商务导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction to Human Resources Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Introduction to Digital Business and Technologies**<br>数字商业与技术导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction to International Business**<br>国际商务入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction to Human Resources Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Introduction to Digital Business and Technologies**<br>数字商业与技术入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Operations Management 1**<br>运营管理 1 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
-| **Business for Good: An Introduction to Impact-Driven Leadership 1**<br>向善的商业：影响力驱动型领导力导论 1 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
+| **Business for Good: An Introduction to Impact-Driven Leadership 1**<br>向善的商业：影响力驱动型领导力入门 1 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **Business and Corporate Strategy 2**<br>商业与公司战略 2 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/) |
 | **ESG Reporting & Sustainability**<br>ESG 报告与可持续性 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Fin Acctng Pract Prin & Concep**<br>财务会计实务、原则与概念 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Financial Accounting II**<br>财务会计 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Auditing**<br>审计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Income Taxation**<br>所得税 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
-| **Introduction to Data Management and Analytics for Business**<br>商业数据管理与分析导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
+| **Introduction to Data Management and Analytics for Business**<br>商业数据管理与分析入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Financial Statement Analysis & Accounting Based Valuation**<br>财务报表分析与基于会计的估值 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Blockchain: Implications for Business and Society**<br>区块链：对商业与社会的影响 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Management Control**<br>管理控制 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-11
 | **The Future: Forecasting and the Business Environment**<br>未来：预测与商业环境 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Decision-Making in Competitive Environments**<br>竞争环境中的决策 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Business And Development**<br>商业与发展 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
-| **Introduction To Finance**<br>金融学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
+| **Introduction To Finance**<br>金融学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Derivative Securities**<br>衍生证券 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Advanced Corporate Finance**<br>高级公司金融 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Corporate Financial Decision Making**<br>公司财务决策 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
@@ -55,13 +55,13 @@ ms.date: 2026-11-11
 | **International Finance**<br>国际金融 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Global Financial Institutions**<br>全球金融机构 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Algorithmic Trading**<br>算法交易 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
-| **Introduction To Entrepreneurship**<br>创业导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
+| **Introduction To Entrepreneurship**<br>创业入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Real Estate Management**<br>房地产管理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Relationships & Reconciliation in Business and Beyond**<br>商业及其他领域中的关系与和解 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Business Communication in North America**<br>北美商务沟通 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Business Law I**<br>商法 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Business Law II**<br>商法 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
-| **Discovering New Knowledge: Introduction to Research in Business**<br>发现新知：商业研究导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
+| **Discovering New Knowledge: Introduction to Research in Business**<br>发现新知：商业研究入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Sustainability Strategies and Practices**<br>可持续性战略与实践 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Managing Non-Profit Organizations**<br>非营利组织管理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Is In Consult & Prof. Service**<br>咨询与专业服务中的信息系统 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
@@ -100,7 +100,7 @@ ms.date: 2026-11-11
 | **Funding New Ventures**<br>新企业融资 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Launching New Ventures**<br>创办新企业 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Organizational Intelligence and Strategy**<br>组织情报与战略 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
-| **Business for Good: An Introduction to Impact-Driven Leadership**<br>向善商业：影响力驱动型领导力导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
+| **Business for Good: An Introduction to Impact-Driven Leadership**<br>向善商业：影响力驱动型领导力入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Business and Corporate Strategy**<br>业务与公司战略 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **New Business Development**<br>新业务开发 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
 | **Social Impact and Innovation**<br>社会影响力与创新 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/) |
@@ -236,3 +236,5 @@ ms.date: 2026-11-11
 ## References
 
 Queen’s University. (n.d.). *Bachelor of Commerce*. Retrieved November 11, 2026, from <https://www.queensu.ca/academic-calendar/business/bachelor-commerce/curriculum/fall2021/>
+
+Queen’s University. (n.d.). *Bachelor of Commerce*. Retrieved November 11, 2026, from <https://www.queensu.ca/academic-calendar/business/bachelor-commerce/courses-of-instruction/by20stream/>

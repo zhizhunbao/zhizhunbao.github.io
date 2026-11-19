@@ -11,16 +11,16 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Technical Production for the Performing Arts Industry**<br>供应链管理 – 物流自动化 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
-| **Introduction to Scenic Construction**<br>舞台布景制作导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
+| **Introduction to Scenic Construction**<br>舞台布景制作入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Scenic Art Techniques and Colour Theory**<br>布景美术技术与色彩理论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Sewing Fundamentals**<br>缝纫基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
-| **Introduction to Theatre Properties**<br>剧场道具导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
+| **Introduction to Theatre Properties**<br>剧场道具入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Fundamentals of Stage Lighting**<br>舞台灯光基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Audio Fundamentals**<br>音频基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Stagecraft and Production Techniques**<br>舞台技术与制作技巧 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **General Education Elective: Technical Theatre Histories**<br>通识教育选修课：技术戏剧史 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Rigging for the Performing Arts Industry**<br>表演艺术行业索具 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
-| **Introduction to Technical Production 1**<br>技术制作导论 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
+| **Introduction to Technical Production 1**<br>技术制作入门 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Fundamentals of CAD and Drafting Standards**<br>CAD与制图标准基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **General Education Course (Open)**<br>通识教育课程（开放） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Scenic Construction Techniques**<br>布景制作技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
@@ -28,15 +28,15 @@ ms.date: 2026-11-08
 | **Costume Construction Skills**<br>服装制作技能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Theatre Properties Techniques**<br>剧场道具技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Stage Lighting Plots**<br>舞台灯光图 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
-| **Introduction to Sound Design for the Performing Arts Industry**<br>表演艺术行业声音设计导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
+| **Introduction to Sound Design for the Performing Arts Industry**<br>表演艺术行业声音设计入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Management for the Performing Arts**<br>表演艺术管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Technical Production**<br>技术制作 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Advanced CAD and Drafting Standards**<br>高级CAD与制图标准 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
-| **Introduction to Set Design**<br>布景设计导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
+| **Introduction to Set Design**<br>布景设计入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Employment Practices for the Performing Arts Industry**<br>表演艺术行业就业实务 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Scenic Construction Applications**<br>布景制作应用 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Scenic Finishes**<br>布景饰面 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
-| **Introduction to Pattern Drafting**<br>服装版型绘制导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
+| **Introduction to Pattern Drafting**<br>服装版型绘制入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Theatre Properties Applications**<br>剧场道具应用 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Stage Lighting Equipment Applications**<br>舞台灯光设备应用 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |
 | **Practical Application of Live Sound**<br>现场扩声实践应用 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/technical-production-performing-arts) |

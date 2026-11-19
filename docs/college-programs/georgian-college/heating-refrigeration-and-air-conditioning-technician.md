@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Heating, Refrigeration and Air Conditioning Technician**<br>供暖、制冷与空调技术员 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/heating-refrigeration-air-conditioning-technician/) |
-| **Introduction to Electricity**<br>电学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hrac/) |
+| **Introduction to Electricity**<br>电学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hrac/) |
 | **Introduction to Gas Appliances**<br>燃气设备入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hrac/) |
 | **Professional Practices**<br>职业实践 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hrac/) |
 | **Piping and Tubing Systems**<br>管道与管材系统 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hrac/) |

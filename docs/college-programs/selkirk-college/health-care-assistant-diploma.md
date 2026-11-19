@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **College Preparation - Research Writing**<br>大学预备 - 研究写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-diploma) |
 | **Program Foundations**<br>课程基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-diploma) |
 | **Concepts for Practice**<br>实践概念 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-diploma) |
-| **Introduction to Practice**<br>实践导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-diploma) |
+| **Introduction to Practice**<br>实践入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-diploma) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-diploma) |
 | **Lifestyle and Choices**<br>生活方式与选择 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-diploma) |
 | **Foundations Of Practice**<br>实践基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-diploma) |

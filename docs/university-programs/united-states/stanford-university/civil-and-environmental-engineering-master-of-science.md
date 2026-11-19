@@ -1,10 +1,10 @@
 ---
-title: "3.3.83 Civil and Environmental Engineering, Master of Science"
+title: "4.3.83 Civil and Environmental Engineering, Master of Science"
 description: "University Programs > United States > Stanford University > Civil and Environmental Engineering, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.83 Civil and Environmental Engineering, Master of Science
+# 4.3.83 Civil and Environmental Engineering, Master of Science
 
 ## Glossary
 
@@ -35,14 +35,14 @@ ms.date: 2026-11-18
 | **Energy and Environmental Policy Analysis**<br>能源与环境政策分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Mining and the Green Transition**<br>采矿与绿色转型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Optimization of Energy Systems**<br>能源系统优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Scaling Sustainability Solutions: From Breakthrough to Planetary Scale**<br>扩展可持续性解决方案：从突破到全球规模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Fundamentals of Compressible Flow**<br>可压缩流基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Air Quality Management**<br>空气质量管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **WindWise: CFD for civil engineers and architects**<br>WindWise：面向土木工程师与建筑师的计算流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation**<br>大气、海洋与气候动力学：大气环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Hydrodynamics**<br>流体动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to Physical Oceanography**<br>物理海洋学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to Physical Oceanography**<br>物理海洋学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation**<br>大气、海洋与气候动力学：海洋环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Weather and Storms**<br>天气与风暴 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Air Pollution and Global Warming: History, Science, and Solutions**<br>空气污染与全球变暖：历史、科学与解决方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
@@ -66,7 +66,7 @@ ms.date: 2026-11-18
 | **Disaster and Climate Resilience Seminar**<br>灾害与气候韧性研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Techniques and Methods for Decarbonized and Energy Efficient Building Design**<br>脱碳节能建筑设计的技术与方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Infrastructure Project Development**<br>基础设施项目开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to Sensing Networks for CEE**<br>土木与环境工程传感网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to Sensing Networks for CEE**<br>土木与环境工程传感网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Building Systems Design & Analysis**<br>建筑系统设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Energy Policy in California and the West**<br>加利福尼亚与西部的能源政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Atmosphere/Energy Seminar**<br>大气/能源研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
@@ -118,9 +118,9 @@ ms.date: 2026-11-18
 | **Advanced Structural Concrete Behavior and Design**<br>高级结构混凝土性能与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Advanced Structural Steel Behavior and Design**<br>高级结构钢性能与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Structural Engineering and Mechanics Seminar**<br>结构工程与力学研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Intro to Urban Sys Engrg**<br>城市系统工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Intro to Urban Sys Engrg**<br>城市系统工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Real Estate Development and Finance**<br>房地产开发与金融 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to Real Estate Development**<br>房地产开发导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to Real Estate Development**<br>房地产开发入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Real Estate Investment**<br>房地产投资 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Computer Integrated Architecture/Engineering/Construction (AEC) Global Teamwork**<br>计算机集成建筑/工程/施工（AEC）全球团队协作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Infrastructure Project Delivery**<br>基础设施项目交付 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
@@ -156,7 +156,7 @@ ms.date: 2026-11-18
 | **Contaminant Hydrogeology and Reactive Transport**<br>污染物水文地质学与反应运移 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Remote Sensing of Hydrology**<br>水文遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Imaging with Incomplete Information**<br>不完全信息成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Water Resources Systems Analysis**<br>水资源系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Fundamentals of Applied Research Design**<br>应用研究设计基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Water Supply and Management in California and the West**<br>加州与西部的供水与管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
@@ -198,8 +198,8 @@ ms.date: 2026-11-18
 | **Mechanics - Elasticity and Inelasticity**<br>力学：弹性与非弹性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Partial Differential Equations in Engineering**<br>工程中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Deep Learning**<br>深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Uncertainty Quantification in Data-Centric Simulations**<br>以数据为中心的模拟中的不确定性量化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
@@ -218,8 +218,8 @@ ms.date: 2026-11-18
 | **Automated Model Discovery**<br>自动化模型发现 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Soft Composites and Soft Robotics**<br>软复合材料与软体机器人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Fatigue Design and Analysis**<br>疲劳设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to Statistical Mechanics**<br>统计力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to Statistical Mechanics**<br>统计力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Project Risk Analysis**<br>项目风险分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Mining Massive Data Sets**<br>海量数据集挖掘 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/master-of-science) |

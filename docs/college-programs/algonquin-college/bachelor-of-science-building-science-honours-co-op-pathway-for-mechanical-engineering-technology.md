@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Building Design Process**<br>建筑设计流程 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Cooperative Education and Job Readiness**<br>合作教育与就业准备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
-| **Introduction to Construction Project Management**<br>建筑项目管理导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
+| **Introduction to Construction Project Management**<br>建筑项目管理入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Materials Science II**<br>材料科学 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **French as a Second Language-Beginner 1**<br>第二语言法语：初级 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Navigating Canada's Political Landscape**<br>解读加拿大政治格局 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Building Science I**<br>建筑科学 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
@@ -59,7 +59,7 @@ ms.date: 2026-11-08
 | **Black Holes, Big Bangs and the Cosmos**<br>黑洞、宇宙大爆炸与宇宙 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Global Perspectives**<br>全球视野 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
-| **Introduction to Structural Analysis and Design**<br>结构分析与设计导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
+| **Introduction to Structural Analysis and Design**<br>结构分析与设计入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Cost Estimating**<br>成本估算 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Building Systems 2**<br>建筑系统 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |
 | **Building Envelope II**<br>建筑围护结构 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1512F03FWO.pdf) |

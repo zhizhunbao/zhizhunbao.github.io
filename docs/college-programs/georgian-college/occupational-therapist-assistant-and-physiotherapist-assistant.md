@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Occupational Therapy Treatment Techniques**<br>职业治疗技术 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/opta/) |
 | **Lifespan Development**<br>毕生发展 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/opta/) |
 | **Health Conditions 1**<br>健康状况 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/opta/) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/opta/) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/opta/) |
 | **Culture and Communication**<br>文化与沟通 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/opta/) |
 | **Cognitive and Perceptual Impairment**<br>认知与感知障碍 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/opta/) |
 | **Health Conditions 2**<br>健康状况 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/opta/) |

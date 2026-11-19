@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Ethics and Social Responsibility for Leaders of Today**<br>当代领导者的伦理与社会责任 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-business-management-2024-2025.pdf) |
 | **Budgeting and Financial Management**<br>预算编制与财务管理 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-business-management-2024-2025.pdf) |
 | **Marketing Fundamentals**<br>营销基础 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-business-management-2024-2025.pdf) |
-| **Introduction to Human Resource Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-business-management-2024-2025.pdf) |
+| **Introduction to Human Resource Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-business-management-2024-2025.pdf) |
 
 ## Courses
 

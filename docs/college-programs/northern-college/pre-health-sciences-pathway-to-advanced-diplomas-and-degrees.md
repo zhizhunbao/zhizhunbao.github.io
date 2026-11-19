@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Human Biology I**<br>人体生物学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/pre-health-sciences-pathyway/) |
 | **Chemistry I**<br>化学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/pre-health-sciences-pathyway/) |
 | **Mathematics for Health Sciences**<br>健康科学数学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/pre-health-sciences-pathyway/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/pre-health-sciences-pathyway/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/pre-health-sciences-pathyway/) |
 | **Working With Diversity**<br>多元化环境下的工作 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/pre-health-sciences-pathyway/) |
 | **Mathematics for Health Sciences II**<br>健康科学数学 II | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/pre-health-sciences-pathyway/) |
 | **Human Biology II**<br>人体生物学 II | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/pre-health-sciences-pathyway/) |

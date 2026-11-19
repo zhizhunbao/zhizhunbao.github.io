@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Baking for Cooks**<br>厨师烘焙 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/culinary-skills-chef-training) |
 | **Sanitation and Safety**<br>卫生与安全 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/culinary-skills-chef-training) |
 | **Cost Control I**<br>成本控制 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/culinary-skills-chef-training) |
-| **Introduction to Food Service**<br>餐饮服务导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/culinary-skills-chef-training) |
+| **Introduction to Food Service**<br>餐饮服务入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/culinary-skills-chef-training) |
 | **Pastry Arts**<br>糕点艺术 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/culinary-skills-chef-training) |
 | **Kitchen Operations**<br>厨房运营 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/culinary-skills-chef-training) |
 | **Restaurant Food Production**<br>餐厅食品生产 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/culinary-skills-chef-training) |

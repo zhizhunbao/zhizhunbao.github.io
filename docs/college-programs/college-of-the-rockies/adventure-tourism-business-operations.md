@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Natural Interpretation**<br>自然解说 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/adventure-tourism-business-operations/) |
 | **Risk Management**<br>风险管理 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/adventure-tourism-business-operations/) |
 | **Backpacking Level 1**<br>背包旅行 1级 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/adventure-tourism-business-operations/) |
-| **Introduction to Outdoor Skills**<br>户外技能导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/adventure-tourism-business-operations/) |
+| **Introduction to Outdoor Skills**<br>户外技能入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/adventure-tourism-business-operations/) |
 | **Wilderness First Aid**<br>荒野急救 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/adventure-tourism-business-operations/) |
 | **Technical and Professional Writing**<br>技术与专业写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/adventure-tourism-business-operations/) |
 | **Whitewater Kayaking Level 1**<br>激流皮划艇一级 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/adventure-tourism-business-operations/) |

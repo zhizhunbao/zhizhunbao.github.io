@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Gaming & Gender**<br>游戏与性别 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/rpn-bridge-semester-into-honours-bachelor-of-science-in-nursing/) |
 | **Global Citizenship**<br>全球公民意识 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/rpn-bridge-semester-into-honours-bachelor-of-science-in-nursing/) |
 | **Global Perspectives**<br>全球视野 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/rpn-bridge-semester-into-honours-bachelor-of-science-in-nursing/) |
-| **Introduction to World Drama**<br>世界戏剧导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/rpn-bridge-semester-into-honours-bachelor-of-science-in-nursing/) |
+| **Introduction to World Drama**<br>世界戏剧入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/rpn-bridge-semester-into-honours-bachelor-of-science-in-nursing/) |
 | **New Worlds & Alt Realities**<br>新世界与替代现实 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/rpn-bridge-semester-into-honours-bachelor-of-science-in-nursing/) |
 | **Survival: Information Age**<br>生存：信息时代 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/rpn-bridge-semester-into-honours-bachelor-of-science-in-nursing/) |
 | **Interprofessional Collaboration**<br>跨专业协作 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/rpn-bridge-semester-into-honours-bachelor-of-science-in-nursing/) |

@@ -13,13 +13,13 @@ ms.date: 2026-11-11
 | **Honours Bachelor of Health Sciences**<br>健康科学荣誉学士 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Essentials of Human Anatomy and Physiology I**<br>人体解剖与生理学要义 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Essentials of Human Anatomy and Physiology II**<br>人体解剖与生理学要义 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
-| **Introduction to Cell and Molecular Biology**<br>细胞与分子生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
+| **Introduction to Cell and Molecular Biology**<br>细胞与分子生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **BioZoo: An Introduction Laboratory in Biology**<br>BioZoo：生物学入门实验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Principles of Chemistry**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Microbiology and Immunology**<br>微生物学与免疫学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Determinants of Health**<br>健康决定因素 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
-| **Introduction to Psychology: Foundations**<br>心理学导论：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
+| **Introduction to Psychology: Foundations**<br>心理学入门：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Principles of Sociology**<br>社会学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Communication and Health**<br>传播与健康 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |
 | **Molecular Mechanisms of Disease**<br>疾病的分子机制 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-health-sciences/) |

@@ -1,10 +1,10 @@
 ---
-title: "3.4.75 Sociology (B.A.)"
+title: "4.4.75 Sociology (B.A.)"
 description: "University Programs > United States > Yale University > Sociology (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.75 Sociology (B.A.)
+# 4.4.75 Sociology (B.A.)
 
 ## Glossary
 

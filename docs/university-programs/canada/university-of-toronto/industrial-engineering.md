@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
-| **Seminar Course: Introduction to Mechanical and Industrial Engineering**<br>研讨课程：机械与工业工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
+| **Seminar Course: Introduction to Mechanical and Industrial Engineering**<br>研讨课程：机械与工业工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Differential Equations and Discrete Math**<br>微分方程与离散数学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Probability**<br>概率论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Foundations of Cognitive Psychology**<br>认知心理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
@@ -36,10 +36,10 @@ ms.date: 2026-11-11
 | **Data Modelling**<br>数据建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Engineering Economics**<br>工程经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Systems Modelling and Simulation**<br>系统建模与仿真 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Applied Fundamentals of Deep Learning**<br>深度学习应用基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
-| **Introduction to Quality Control**<br>质量控制导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
+| **Introduction to Quality Control**<br>质量控制入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Ergonomic Design of Information Systems**<br>信息系统的人因工程设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Business Process Engineering**<br>业务流程工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Advanced Operations Research**<br>高级运筹学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-11
 | **Scheduling**<br>调度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Decision Making Under Uncertainty**<br>不确定性下的决策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Drug Delivery at Biological Barriers and Interfaces**<br>生物屏障与界面的药物递送 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
-| **Introduction to Immunoengineering**<br>免疫工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
+| **Introduction to Immunoengineering**<br>免疫工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Optimization in Machine Learning**<br>机器学习中的优化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **Knowledge Modelling and Management**<br>知识建模与管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |
 | **\* Advanced Manufacturing Technologies**<br>先进制造技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeindbasc) |

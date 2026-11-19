@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Advanced Accounting Diploma**<br>高级会计文凭 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/advanced-accounting-diploma) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Advanced%20Accounting%20Diploma%202026-27%20%28April%202026%29.pdf) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Advanced%20Accounting%20Diploma%202026-27%20%28April%202026%29.pdf) |
 | **Business Statistics I**<br>商业统计 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Advanced%20Accounting%20Diploma%202026-27%20%28April%202026%29.pdf) |
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Advanced%20Accounting%20Diploma%202026-27%20%28April%202026%29.pdf) |
 | **Business Microeconomics**<br>商业微观经济学 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-04/Advanced%20Accounting%20Diploma%202026-27%20%28April%202026%29.pdf) |

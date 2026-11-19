@@ -1,10 +1,10 @@
 ---
-title: "3.3.9 Bioengineering, Major: Bachelor of Science"
+title: "4.3.9 Bioengineering, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Bioengineering, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.9 Bioengineering, Major: Bachelor of Science
+# 4.3.9 Bioengineering, Major: Bachelor of Science
 
 ## Glossary
 
@@ -16,9 +16,9 @@ ms.date: 2026-11-18
 | **Ordinary Differential Equations for Engineers**<br>工程师常微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Biochemistry & Molecular Biology**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-18
 | **Chemical Principles II**<br>化学原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Chemical Foundations and 21st Century Problems**<br>化学基础与21世纪问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Ethics in Bioengineering**<br>生物工程中的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
-| **Introduction to Bioengineering (Engineering Living Matter)**<br>生物工程导论（工程化活体物质） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
+| **Introduction to Bioengineering (Engineering Living Matter)**<br>生物工程入门（工程化活体物质） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Fundamentals for Engineering Biology Lab**<br>工程生物学实验基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-18
 | **Senior Capstone Design I**<br>高年级毕业设计 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Senior Capstone Design II**<br>高年级毕业设计 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Anatomy for Bioengineers**<br>生物工程师解剖学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Biochemical Engineering**<br>生物化学工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Diagnostic Devices Lab**<br>诊断设备实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Genetic and Epigenetic Engineering**<br>遗传与表观遗传工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
@@ -61,7 +61,7 @@ ms.date: 2026-11-18
 | **Frugal Science**<br>节俭科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Computational Biology: Structure and Organization of Biomolecules and Cells**<br>计算生物学：生物分子与细胞的结构与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Biomechanics of Movement**<br>运动生物力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
-| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
+| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Computational Modeling in the Cardiovascular System**<br>心血管系统的计算建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Principles and Practice of Optogenetics for Optical Control of Biological Tissues**<br>光遗传学的原理与实践：生物组织的光学控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |
 | **Computational Protein Modeling Laboratory**<br>计算蛋白质建模实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/bioengineering/bachelor-of-science) |

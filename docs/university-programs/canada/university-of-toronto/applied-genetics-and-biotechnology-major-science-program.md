@@ -16,11 +16,11 @@ ms.date: 2026-11-11
 | **Chemistry: The Molecular Science**<br>化学：分子科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Foundations of Computer Science I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Biochemistry I: Proteins, Lipids and Metabolism**<br>生物化学 I：蛋白质、脂质与代谢 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Adaptation and Biodiversity**<br>适应与生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Molecular and Cell Biology**<br>分子与细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-11
 | **Functional Genomics**<br>功能基因组学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Human and Molecular Genetics**<br>人类与分子遗传学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Mammalian Molecular Biology**<br>哺乳动物分子生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
-| **Introduction to Applied Genetics and Biotechnology**<br>应用遗传学与生物技术导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
+| **Introduction to Applied Genetics and Biotechnology**<br>应用遗传学与生物技术入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Biotechnology**<br>生物技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **The Human Microbiome in Health & Disease**<br>健康与疾病中的人类微生物组 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 | **Biomedical Advances & Technologies**<br>生物医学进展与技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
@@ -200,10 +200,9 @@ ms.date: 2026-11-11
 |  | Data Analysis and Research-Based Courses; credit from | MGY377H1 | Microbiology I: Bacteria | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 |  | Data Analysis and Research-Based Courses; credit from | MGY378H1 | Microbiology II: Viruses | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 |  | Data Analysis and Research-Based Courses |  | \* A research project from a different unit may be accepted with prior written approval from Human Biology. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
-|  | Applied Genetics and Biotechnology Major Notes |  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
-|  | Applied Genetics and Biotechnology Major Notes |  | 2. Not all courses listed have priority enrolment for Applied Genetics and Biotechnology majors. Students are responsible for checking priority of courses and meeting course prerequisites for courses they wish to take. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
-|  | Applied Genetics and Biotechnology Major Notes |  | 3. The Applied Genetics and Biotechnology major cannot be paired with any other Human Biology Program managed major program. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
-|  | Applied Genetics and Biotechnology Major Notes |  | 4. Effective Fall 2026, all courses associated with University College’s Public Health program will have the "PHS" designator. Existing "PHS" coded courses remain unchanged. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
+|  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program. |  | 2. Not all courses listed have priority enrolment for Applied Genetics and Biotechnology majors. Students are responsible for checking priority of courses and meeting course prerequisites for courses they wish to take. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
+|  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program. |  | 3. The Applied Genetics and Biotechnology major cannot be paired with any other Human Biology Program managed major program. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
+|  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program. |  | 4. Effective Fall 2026, all courses associated with University College’s Public Health program will have the "PHS" designator. Existing "PHS" coded courses remain unchanged. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 |  | Course Group |  | Applied Genetics and Biotechnology Centric Courses |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 |  | Course Group | HMB201H1 | Introduction to Applied Genetics and Biotechnology | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |
 |  | Course Group | HMB301H1 | Biotechnology | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1053) |

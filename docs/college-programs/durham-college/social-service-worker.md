@@ -25,8 +25,8 @@ ms.date: 2026-11-08
 | **Crisis Intervention**<br>危机干预 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
 | **Pharmacology and Behaviour**<br>药理学与行为 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
 | **Social Welfare and Anti-Oppressive Practice**<br>社会福利与反压迫实践 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
-| **Special Populations: Introduction to Addictions and Mental Health**<br>特殊人群：成瘾与心理健康导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
-| **Special Populations: Introduction to Gerontology**<br>特殊人群：老年学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
+| **Special Populations: Introduction to Addictions and Mental Health**<br>特殊人群：成瘾与心理健康入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
+| **Special Populations: Introduction to Gerontology**<br>特殊人群：老年学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
 | **Family and Family Systems**<br>家庭与家庭系统 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
 | **Group Counselling Skills**<br>团体咨询技能 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |
 | **Field Placement 2 and Seminar**<br>实地实习 2 与研讨 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/social-services-worker) |

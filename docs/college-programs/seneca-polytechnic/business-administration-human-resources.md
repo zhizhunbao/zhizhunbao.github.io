@@ -11,18 +11,18 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration – Human Resources**<br>商务管理：人力资源 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR.html) |
-| **Introduction to Business Administration**<br>工商管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
+| **Introduction to Business Administration**<br>工商管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Mathematics of Business and Finance or Mathematics of Business and Finance**<br>商业与金融数学或商业与金融数学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Professional Presentation Skills**<br>专业演讲技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Business Computer Applications**<br>商务计算机应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Accounting I**<br>会计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Business Communication for the Digital Workplace**<br>数字化职场商务沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
-| **Introduction to Human Resources Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
+| **Introduction to Human Resources Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Data Analysis Tools for Business**<br>商业数据分析工具 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Customer Service Solutions**<br>客户服务解决方案 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
-| **Introduction to Management Accounting**<br>管理会计导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
+| **Introduction to Management Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Training Techniques and Practices**<br>培训技巧与实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **The Legal Environment**<br>法律环境 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHR/courses.html) |

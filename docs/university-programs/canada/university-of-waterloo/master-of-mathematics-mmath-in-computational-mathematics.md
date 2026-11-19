@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Mathematics (MMath) in Computational Mathematics**<br>数学硕士（MMath），计算数学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
-| **Introduction to Symbolic Computation**<br>符号计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
+| **Introduction to Symbolic Computation**<br>符号计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Numerical Solution of Partial Differential Equations**<br>偏微分方程数值解 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Numerical Analysis**<br>数值分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Finance 1**<br>金融 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Stochastic Processes in the Physical Sciences**<br>物理科学中的随机过程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Advanced Numerical Methods for Computational and Data Sciences**<br>计算与数据科学高级数值方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Finite Element Methods**<br>有限元方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
-| **Introduction to Mathematical Oncology**<br>数学肿瘤学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
+| **Introduction to Mathematical Oncology**<br>数学肿瘤学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Mathematical Cell Biology**<br>数学细胞生物学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Integer Programming**<br>整数规划 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
@@ -39,11 +39,11 @@ ms.date: 2026-11-11
 | **Computational Linear Algebra**<br>计算线性代数 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Numeric Computation for Financial Modelling**<br>金融建模的数值计算 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Neural Networks**<br>神经网络 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Computational Techniques in Biological Sequence Analysis**<br>生物序列分析计算技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Computational Vision**<br>计算视觉 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
-| **Introduction to Computer Graphics**<br>计算机图形学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
+| **Introduction to Computer Graphics**<br>计算机图形学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Computational Geometry**<br>计算几何 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Algorithmic Number Theory**<br>算法数论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |
 | **Advanced Computational Finance**<br>高级计算金融 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJI6gJA0o2) |

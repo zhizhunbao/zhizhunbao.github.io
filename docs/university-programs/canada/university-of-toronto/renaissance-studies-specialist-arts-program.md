@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **Renaissance Studies Independent Study**<br>文艺复兴研究独立研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0532) |
 | **The Renaissance Book**<br>文艺复兴书籍 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0532) |
 | **Advanced Seminar in the Renaissance**<br>文艺复兴高级研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0532) |
-| **Introduction to Shakespeare**<br>莎士比亚导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0532) |
+| **Introduction to Shakespeare**<br>莎士比亚入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0532) |
 | **Milton**<br>弥尔顿 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0532) |
 | **Drama 1485-1603**<br>1485-1603 年戏剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0532) |
 | **Drama 1603-1642**<br>1603-1642 年戏剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0532) |

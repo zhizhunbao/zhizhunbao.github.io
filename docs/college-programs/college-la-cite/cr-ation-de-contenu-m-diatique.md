@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Création de contenu médiatique**<br>媒体内容创作 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51830) |
 | **Techniques de création visuelle**<br>视觉创作技术 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51830) |
 | **Traitement de l'image**<br>图像处理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51830) |
-| **Introduction à la production vidéo**<br>视频制作导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51830) |
+| **Introduction à la production vidéo**<br>视频制作入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51830) |
 | **Humour et processus créatif**<br>幽默与创作过程 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51830) |
 | **Production audio**<br>音频制作 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51830) |
 | **Médias sociaux**<br>社交媒体 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51830) |

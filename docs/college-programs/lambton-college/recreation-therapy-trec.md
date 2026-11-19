@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Current Concepts in Health and Wellness**<br>健康与福祉的当前概念 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/TREC) |
 | **Therapeutic Recreation Leadership**<br>治疗性休闲领导力 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/TREC) |
 | **Leisure & Aging**<br>休闲与老龄化 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/TREC) |
-| **Introduction to Community Mental Health**<br>社区心理健康导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/TREC) |
+| **Introduction to Community Mental Health**<br>社区心理健康入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/TREC) |
 | **Research in Therapeutic Recreation**<br>治疗性休闲研究 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/TREC) |
 | **Field placement Seminar**<br>实习研讨 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/TREC) |
 | **Diverse Abilities in Therapeutic Recreation**<br>治疗性康复中的多元能力 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/TREC) |

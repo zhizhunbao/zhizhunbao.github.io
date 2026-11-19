@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Civil Engineering Technology (Optional Co-op)**<br>土木工程技术（可选带薪实习） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
-| **Introduction to Civil Projects and Construction Safety**<br>土木工程项目与施工安全导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
+| **Introduction to Civil Projects and Construction Safety**<br>土木工程项目与施工安全入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Mathematics I**<br>数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Mechanics of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Civil Design Fundamentals**<br>土木设计基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Construction Materials**<br>建筑材料 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
-| **Introduction to Water and Wastewater**<br>水与污水导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
+| **Introduction to Water and Wastewater**<br>水与污水入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Mathematics II**<br>数学 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **CAD II**<br>CAD II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Highway Technology I**<br>公路技术 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Project Solutions in Civil Engineering**<br>土木工程项目解决方案 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Reinforced Concrete and Masonry Design**<br>钢筋混凝土与砌体设计 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Soils and Foundations I**<br>土壤与地基 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
-| **Introduction to the Global Navigation Satellite System (GNSS)**<br>全球导航卫星系统（GNSS）导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
+| **Introduction to the Global Navigation Satellite System (GNSS)**<br>全球导航卫星系统（GNSS）入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Computer Aided Land Development**<br>计算机辅助土地开发 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Structural Design (Wood)**<br>结构设计（木） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |
 | **Soils and Foundations II**<br>土壤与地基 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/civil-engineering-technology/courses?id=36069) |

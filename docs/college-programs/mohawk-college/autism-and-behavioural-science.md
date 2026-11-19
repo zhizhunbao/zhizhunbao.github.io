@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Transition Planning and Implementation**<br>过渡规划与实施 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=164&prg_ver=26-A) |
 | **Ethics and Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=164&prg_ver=26-A) |
 | **Autism - Introduction to Autism Spectrum Disorder (ASD)**<br>孤独症 - 孤独症谱系障碍（ASD）入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=164&prg_ver=26-A) |
-| **Introduction to Applied Behaviour Analysis**<br>应用行为分析导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=164&prg_ver=26-A) |
+| **Introduction to Applied Behaviour Analysis**<br>应用行为分析入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=164&prg_ver=26-A) |
 | **Autism Behavioural Science Seminar 1**<br>孤独症行为科学研讨 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=164&prg_ver=26-A) |
 | **Field Placement Preparation**<br>现场实习准备 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=164&prg_ver=26-A) |
 | **Field Placement**<br>实地实习 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=164&prg_ver=26-A) |

@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business - Human Resources**<br>商科 - 人力资源 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Business Computing Applications I**<br>商务计算应用 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Business Mathematics I**<br>商务数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Marketing I**<br>市场营销 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
-| **Introduction To Payroll Administration**<br>薪资管理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
+| **Introduction To Payroll Administration**<br>薪资管理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Professional Writing Skills for Business**<br>商务专业写作技能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
-| **Introduction to Personal Finances**<br>个人理财导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
+| **Introduction to Personal Finances**<br>个人理财入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Recruitment And Selection**<br>招聘与甄选 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |
 | **Business Mathematics II**<br>商务数学 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-human-resources/courses?id=36818) |

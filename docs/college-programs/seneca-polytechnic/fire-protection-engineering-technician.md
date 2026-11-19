@@ -28,9 +28,9 @@ ms.date: 2026-11-08
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
 | **NFPA 1031 - Level I Fire Inspector**<br>NFPA 1031 - I级消防检查员 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
 | **Ontario Fire Code - FPPA Inspections, Legal and Courtroom Procedures**<br>安大略省消防规范 - FPPA检查、法律与法庭程序 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
-| **Introduction to Firefighter Wellness and Fitness**<br>消防员健康与体能导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
+| **Introduction to Firefighter Wellness and Fitness**<br>消防员健康与体能入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
 | **Introduction to the Fire Service**<br>消防服务入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
-| **Introduction to Technical Rescue**<br>技术救援导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
+| **Introduction to Technical Rescue**<br>技术救援入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
 | **Wildland Fire Suppression**<br>荒野火灾扑救 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
 | **Computer Aided Design I**<br>计算机辅助设计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |
 | **Fire Sprinkler Systems - Applied II**<br>消防喷淋系统 - 应用 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPN/courses.html) |

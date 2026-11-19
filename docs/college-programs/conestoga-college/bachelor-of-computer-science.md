@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Operating Systems and Security Fundamentals**<br>操作系统与安全基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Co-op and Career Preparation**<br>合作教育与职业准备 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
-| **Introduction to Database Systems**<br>数据库系统导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
+| **Introduction to Database Systems**<br>数据库系统入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Software Quality I: Testing Tools and Methodologies**<br>软件质量 I：测试工具与方法 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Computer Networks**<br>计算机网络 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Project III: Software Development Life Cycle**<br>项目 III：软件开发生命周期 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Parallel Computing Techniques**<br>并行计算技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Software Quality III: Build and Release**<br>软件质量 III：构建与发布 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Project V: Advanced Software Development**<br>项目 V：高级软件开发 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
-| **Introduction to Software Security**<br>软件安全导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
+| **Introduction to Software Security**<br>软件安全入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Electives: Interdisciplinary Elective**<br>选修课：跨学科选修 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Software Quality IV: Performance and Analysis**<br>软件质量 IV：性能与分析 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |
 | **Project VI: Software Efficiency and Performance**<br>项目 VI：软件效率与性能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science/courses?id=34654) |

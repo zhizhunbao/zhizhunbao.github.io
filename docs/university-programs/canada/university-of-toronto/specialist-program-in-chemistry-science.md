@@ -22,12 +22,12 @@ ms.date: 2026-11-11
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
 | **Techniques in Analytical Chemistry**<br>分析化学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
 | **Chemical Structure and Spectroscopy**<br>化学结构与波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
-| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学导论：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
-| **Introduction to Inorganic Chemistry**<br>无机化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
+| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学入门：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
 | **Techniques of the Calculus of Several Variables I**<br>多变量微积分技巧 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
 | **Principles of Analytical Instrumentation**<br>分析仪器原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |
 | **Analytical Instrumentation**<br>分析仪器学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376) |

@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Advanced Nutrition I**<br>高级营养学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-advanced-standing-diploma/courses) |
 | **Advanced Nutrition II**<br>高级营养学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-advanced-standing-diploma/courses) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-advanced-standing-diploma/courses) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-advanced-standing-diploma/courses) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-advanced-standing-diploma/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-advanced-standing-diploma/courses) |
 | **Advanced Written Communications**<br>高级书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-advanced-standing-diploma/courses) |
 | **Food Service Supervision Practicum**<br>餐饮服务监督实习 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/nutrition-and-food-service-management-advanced-standing-diploma/courses) |

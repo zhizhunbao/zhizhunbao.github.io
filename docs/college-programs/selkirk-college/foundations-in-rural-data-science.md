@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Foundations in Rural Data Science**<br>乡村数据科学基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
-| **Introduction To Programming I**<br>编程导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
+| **Introduction To Programming I**<br>编程入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
 | **College Composition**<br>大学写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
-| **Introduction To Programming II**<br>编程导论 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
+| **Introduction To Programming II**<br>编程入门 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
 | **Foundations in Rural Research**<br>农村研究基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/foundations-rural-data-science) |
 
 ## Courses

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Veterinary Technology Diploma**<br>兽医技术文凭 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/animal-health/veterinary-technology-diploma.html) |
-| **Introduction to the Veterinary Profession**<br>兽医职业导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/animal-health/veterinary-technology-diploma.html) |
+| **Introduction to the Veterinary Profession**<br>兽医职业入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/animal-health/veterinary-technology-diploma.html) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/animal-health/veterinary-technology-diploma.html) |
 | **Veterinary Pharmacy and Medical Math**<br>兽医药学与医学数学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/animal-health/veterinary-technology-diploma.html) |
 | **Animal Nutrition**<br>动物营养学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/animal-health/veterinary-technology-diploma.html) |

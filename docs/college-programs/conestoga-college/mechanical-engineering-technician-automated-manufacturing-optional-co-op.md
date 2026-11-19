@@ -18,9 +18,9 @@ ms.date: 2026-11-08
 | **Mathematics I**<br>数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
 | **Engineering Drawing I**<br>工程制图 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
-| **Introduction to Structured Programming**<br>结构化编程导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
-| **Introduction to Geometric Dimensioning and Tolerancing**<br>几何尺寸与公差导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
-| **Introduction to Fluid Power and Automation**<br>流体动力与自动化导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
+| **Introduction to Structured Programming**<br>结构化编程入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
+| **Introduction to Geometric Dimensioning and Tolerancing**<br>几何尺寸与公差入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
+| **Introduction to Fluid Power and Automation**<br>流体动力与自动化入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
 | **Machining Processes**<br>机械加工工艺 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
 | **Mathematics II**<br>数学 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
 | **Engineering Drawing II**<br>工程制图 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Tool and Die Design**<br>工具与模具设计 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
 | **CNC Graphics and MasterCAM 3D**<br>CNC图形与MasterCAM 3D | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
 | **Quality Assurance and Systems**<br>质量保证与体系 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-engineering-technician-automated-manufacturing/courses?id=36300) |
 
 ## Courses
 

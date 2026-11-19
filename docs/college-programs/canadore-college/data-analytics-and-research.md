@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Data Analytics and Research**<br>数据分析与研究 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/data-analytics-and-research) |
 | **Computer Apps for Business I**<br>商务计算机应用 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/data-analytics-and-research) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/data-analytics-and-research) |
-| **Introduction To Data Analytics**<br>数据分析导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/data-analytics-and-research) |
+| **Introduction To Data Analytics**<br>数据分析入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/data-analytics-and-research) |
 | **Business Systems Analysis**<br>业务系统分析 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/data-analytics-and-research) |
 | **General Education Elective - Online (EA Sem 1)**<br>通识教育选修课 - 在线（EA 第1学期） | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/data-analytics-and-research) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/data-analytics-and-research) |

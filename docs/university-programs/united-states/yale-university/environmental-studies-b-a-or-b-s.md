@@ -1,17 +1,17 @@
 ---
-title: "3.4.39 Environmental Studies (B.A. or B.S.)"
+title: "4.4.39 Environmental Studies (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Environmental Studies (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.39 Environmental Studies (B.A. or B.S.)
+# 4.4.39 Environmental Studies (B.A. or B.S.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Environmental Studies (B.A. or B.S.)**<br>环境研究（文学学士或理学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-studies/) |
-| **Introductory Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-studies/) |
+| **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-studies/) |
 | **Calculus of Functions of One Variable I**<br>一元函数微积分 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-studies/) |
 | **University Physics for the Life Sciences**<br>生命科学大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-studies/) |
 | **Biochemistry and Biophysics**<br>生物化学与生物物理学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-studies/) |

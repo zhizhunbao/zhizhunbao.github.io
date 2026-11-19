@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Pre-Health Sciences Pathway to Certificates and Diplomas**<br>健康科学预科升读证书与文凭 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/pre-health-sciences-pathway-to-certificates-and-diplomas) |
-| **Cell Biology and Introduction to Anatomy**<br>细胞生物学与解剖学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/pre-health-sciences-pathway-to-certificates-and-diplomas/courses?id=34050) |
+| **Cell Biology and Introduction to Anatomy**<br>细胞生物学与解剖学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/pre-health-sciences-pathway-to-certificates-and-diplomas/courses?id=34050) |
 | **Chemistry I for Health Sciences Foundations**<br>健康科学基础化学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/pre-health-sciences-pathway-to-certificates-and-diplomas/courses?id=34050) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/pre-health-sciences-pathway-to-certificates-and-diplomas/courses?id=34050) |
 | **Computer Software Applications**<br>计算机软件应用 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/pre-health-sciences-pathway-to-certificates-and-diplomas/courses?id=34050) |

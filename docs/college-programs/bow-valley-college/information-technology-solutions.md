@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Information Technology Solutions**<br>信息技术解决方案 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
 | **Scripting Fundamentals**<br>脚本编程基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
-| **Introduction to Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
+| **Introduction to Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
 | **Deploy and Administer Enterprise Infrastructure**<br>企业基础设施部署与管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
-| **Introduction to Virtualization**<br>虚拟化导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
+| **Introduction to Virtualization**<br>虚拟化入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
 | **Apply Scripting Techniques for Web Application**<br>网页应用脚本技术应用 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
-| **Introduction to Cloud Infrastructure**<br>云基础设施导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
+| **Introduction to Cloud Infrastructure**<br>云基础设施入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
 | **Implement ITIL Service Management**<br>实施 ITIL 服务管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
 | **Manage Projects**<br>项目管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |
 | **Configure and Administer Servers**<br>服务器配置与管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/information-technology-solutions) |

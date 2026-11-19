@@ -1,10 +1,10 @@
 ---
-title: "3.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)"
+title: "4.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)
+# 4.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)
 
 ## Glossary
 
@@ -12,7 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)**<br>化学工程系推荐的理学学士（Course 10-C） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/) |
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/) |
-| **Introduction to Chemical Engineering**<br>化学工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/) |
+| **Introduction to Chemical Engineering**<br>化学工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/) |
 | **Chemical and Biological Engineering Thermodynamics**<br>化学与生物工程热力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/) |
 | **Transport Processes**<br>传递过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/) |

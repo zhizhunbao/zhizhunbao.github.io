@@ -39,7 +39,7 @@ ms.date: 2026-11-11
 | **Advanced Topics in Near and Middle Eastern Civilizations**<br>近东与中东文明高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Gender, Body and Sexuality in Islam**<br>伊斯兰教中的性别、身体与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **The Life of Muhammad**<br>穆罕默德的生平 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
-| **The Quran: An Introduction**<br>古兰经导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
+| **The Quran: An Introduction**<br>古兰经入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Post-Colonial Islam**<br>后殖民伊斯兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Living Islam**<br>活生生的伊斯兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Advanced Topics in Islam**<br>伊斯兰教高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
@@ -54,13 +54,13 @@ ms.date: 2026-11-11
 | **Advanced Topics in Religion**<br>宗教高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Introductory Pali I**<br>巴利语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Introductory Pali II**<br>巴利语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
-| **Introduction to Sanskrit I**<br>梵语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
-| **Introduction to Sanskrit II**<br>梵语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
+| **Introduction to Sanskrit I**<br>梵语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
+| **Introduction to Sanskrit II**<br>梵语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Intermediate Sanskrit I**<br>中级梵语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Intermediate Sanskrit II**<br>中级梵语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Sanskrit Readings I**<br>梵语选读 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
-| **Introduction to Tibetan I**<br>藏语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
-| **Introduction to Tibetan II**<br>藏语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
+| **Introduction to Tibetan I**<br>藏语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
+| **Introduction to Tibetan II**<br>藏语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Elementary Modern Hebrew I**<br>初级现代希伯来语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Elementary Modern Hebrew II**<br>初级现代希伯来语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |
 | **Intermediate Modern Hebrew I**<br>中级现代希伯来语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1359) |

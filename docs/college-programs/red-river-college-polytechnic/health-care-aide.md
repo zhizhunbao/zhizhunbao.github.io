@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Health Care Aide**<br>护理助理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEACF-CT) |
 | **Activities of Daily Living, Part 1**<br>日常生活活动 第 1 部分 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEACF-CT/PrinterFriendly#HCAP-1000) |
 | **Activities of Daily Living, Part 2**<br>日常生活活动 第 2 部分 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEACF-CT/PrinterFriendly#HCAP-1001) |
-| **Introduction to Gerontology**<br>老年学导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEACF-CT/PrinterFriendly#HCAP-1006) |
+| **Introduction to Gerontology**<br>老年学入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEACF-CT/PrinterFriendly#HCAP-1006) |
 | **Caring for Clients in the Community**<br>社区服务对象护理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEACF-CT/PrinterFriendly#HCAP-1131) |
 | **Growth and Development**<br>生长发育 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEACF-CT/PrinterFriendly#HCAP-1132) |
 | **Long-Term Care**<br>长期护理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEACF-CT/PrinterFriendly#HCAP-1133) |

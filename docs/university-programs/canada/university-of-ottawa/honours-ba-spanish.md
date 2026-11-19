@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Reasoning and Critical Thinking**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Philosophy: Ideas and Arguments**<br>哲学：观念与论证 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
-| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
+| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Moral Reasoning**<br>道德推理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Fundamental Philosophical Questions**<br>基本哲学问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Intermediate Spanish II**<br>中级西班牙语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Spain in its literature, (20th-21st centuries)**<br>西班牙文学中的西班牙（20-21 世纪） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Latin America in its literature, 20th-21st centuries**<br>20 至 21 世纪文学中的拉丁美洲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
-| **Introduction to Hispanic Linguistics**<br>西语语言学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
+| **Introduction to Hispanic Linguistics**<br>西语语言学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Advanced Spanish I**<br>高级西班牙语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Advanced Spanish II**<br>高级西班牙语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |
 | **Contrastive Grammar: Spanish and English**<br>对比语法：西班牙语与英语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-ba-spanish/) |

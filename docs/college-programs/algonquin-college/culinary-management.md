@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Farm to Fork**<br>从农场到餐桌 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0354X01FWO.pdf) |
 | **Pastry and Plating Techniques**<br>糕点与摆盘技巧 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0354X01FWO.pdf) |
 | **Food and Beverage Management**<br>餐饮管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0354X01FWO.pdf) |
-| **Introduction to Marketing and Social Media**<br>营销与社交媒体导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0354X01FWO.pdf) |
+| **Introduction to Marketing and Social Media**<br>营销与社交媒体入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0354X01FWO.pdf) |
 | **Field Placement 2 Culinary Arts**<br>现场实习 2：烹饪艺术 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0354X01FWO.pdf) |
 | **Culinary Project**<br>烹饪项目 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0354X01FWO.pdf) |
 | **Advanced Culinary Operations**<br>高级烹饪运营 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0354X01FWO.pdf) |

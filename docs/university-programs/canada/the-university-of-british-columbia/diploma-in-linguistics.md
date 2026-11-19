@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **Diploma in Linguistics**<br>语言学文凭 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-linguistics) |
 | **Studies in Grammar**<br>语法研究 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-linguistics) |
 | **Studies in Phonology**<br>音系学研究 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-linguistics) |
-| **Introduction to Linguistic Phonetics and Speech Science**<br>语言语音学与言语科学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-linguistics) |
-| **Introduction to Semantics**<br>语义学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-linguistics) |
+| **Introduction to Linguistic Phonetics and Speech Science**<br>语言语音学与言语科学入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-linguistics) |
+| **Introduction to Semantics**<br>语义学入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-linguistics) |
 
 ## Courses
 

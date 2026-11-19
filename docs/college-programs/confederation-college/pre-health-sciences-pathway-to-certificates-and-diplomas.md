@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Pre-Health Sciences - Pathway to Certificates and Diplomas**<br>健康科学预科 - 升读证书与文凭 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **Pre-Health Mathematics I**<br>健康预科数学 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
-| **Pre-Health Intro. Biology I**<br>健康预科生物导论 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
+| **Pre-Health Intro. Biology I**<br>健康预科生物入门 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **Intro to Health Care in Canada**<br>加拿大医疗保健入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **Chemistry I**<br>化学 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **Pre-Health Mathematics II**<br>健康预科数学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **Human Biology**<br>人体生物学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
-| **Pre-Health Intro. Biology II**<br>健康预科生物导论 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
+| **Pre-Health Intro. Biology II**<br>健康预科生物入门 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **Chemistry II**<br>化学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 | **Communication for Health Professionals**<br>健康专业人员沟通 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/pre-health-sciences-pathway-certificates-and-diplomas/) |
 

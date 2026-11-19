@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Administration - Supply Chain Management**<br>工商管理－供应链管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Introductory Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Fundamentals of Human Resources Management**<br>人力资源管理基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Business Productivity Software**<br>商务生产力软件 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Communications 1**<br>沟通 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Managing Business Information Technologies**<br>商务信息技术管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Principles of Supply Chain Management**<br>供应链管理原理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Communications 2**<br>沟通 2 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Procurement and Global Sourcing**<br>采购与全球寻源 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Logistics and Transportation**<br>物流与运输 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |
 | **Supply Chain Analytics**<br>供应链分析 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/business-administration-supply-chain-management) |

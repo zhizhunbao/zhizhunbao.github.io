@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Nail Care Techniques**<br>美甲护理技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician/full-time/kingston) |
 | **Hair Removal**<br>脱毛 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician/full-time/kingston) |
 | **Skin Care 1: Facial Treatments**<br>皮肤护理 1：面部护理 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician/full-time/kingston) |
-| **Dynamic Designs 1: Introduction to Client Services**<br>动态设计 1：客户服务导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician/full-time/kingston) |
+| **Dynamic Designs 1: Introduction to Client Services**<br>动态设计 1：客户服务入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician/full-time/kingston) |
 | **Work Placement 1**<br>工作岗位实习 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician/full-time/kingston) |
 | **Skin Care 2: Technologies**<br>皮肤护理 2：技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician/full-time/kingston) |
 | **Dynamic Designs 2A: Client Services**<br>动态设计 2A：客户服务 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician/full-time/kingston) |

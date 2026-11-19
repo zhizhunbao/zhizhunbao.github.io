@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **English, 4-Year BA (Creative Writing)**<br>英语，4 年制 BA（创意写作） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/engl.pdf#page=2) |
-| **Introduction to Creative Writing**<br>创意写作导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/engl.pdf#page=2) |
+| **Introduction to Creative Writing**<br>创意写作入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/engl.pdf#page=2) |
 | **Hybrid Genres Writing**<br>混合体裁写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/engl.pdf#page=2) |
 | **Writing Creative Non-Fiction**<br>创意非虚构写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/engl.pdf#page=2) |
 | **Writing Short Fiction**<br>短篇小说写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/engl.pdf#page=2) |

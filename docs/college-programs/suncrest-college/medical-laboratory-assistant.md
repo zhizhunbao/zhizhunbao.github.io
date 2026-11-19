@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Medical Laboratory Assistant**<br>医学检验助理 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
-| **Introduction to Anatomy and Physiology**<br>解剖与生理学导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
+| **Introduction to Anatomy and Physiology**<br>解剖与生理学入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
 | **Basic Electrocardiography**<br>基础心电图学 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
 | **Professionalism in Health Care**<br>医疗保健中的职业素养 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
 | **Infection Control and Safety**<br>感染控制与安全 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
 | **General Laboratory Practice**<br>通用实验室实践 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
-| **Introduction to Basic Lab Procedures**<br>基础实验室操作导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
+| **Introduction to Basic Lab Procedures**<br>基础实验室操作入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
 | **Laboratory Specimen Procurement**<br>实验室标本采集 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
 | **Psychology of Health and Wellness Management**<br>健康与保健管理心理学 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |
 | **Introduction to Histology & Cytology**<br>组织学与细胞学入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/medical-laboratory-assistant) |

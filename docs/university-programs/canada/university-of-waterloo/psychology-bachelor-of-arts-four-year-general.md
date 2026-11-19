@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkwlJCCj2) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkwlJCCj2) |
 | **Psychopathology**<br>精神病理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkwlJCCj2) |
-| **An Introduction to Computational Neuroscience Methods**<br>计算神经科学方法导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkwlJCCj2) |
+| **An Introduction to Computational Neuroscience Methods**<br>计算神经科学方法入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkwlJCCj2) |
 | **Honours Seminar - Child and Adolescent Psychopathology**<br>荣誉研讨课：儿童与青少年精神病理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkwlJCCj2) |
 | **Honours Seminar in Developmental Psychology**<br>发展心理学荣誉研讨课 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkwlJCCj2) |
 | **Honours Seminar in Educational Psychology**<br>教育心理学荣誉研讨课 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkwlJCCj2) |

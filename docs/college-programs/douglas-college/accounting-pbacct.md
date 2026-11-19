@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbacct) |
 | **Corporate Finance**<br>公司财务 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbacct) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbacct) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbacct) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbacct) |
 | **Cooperative Education I**<br>带薪实习教育 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbacct) |
 
 ## Courses

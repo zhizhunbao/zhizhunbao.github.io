@@ -1,26 +1,26 @@
 ---
-title: "3.3.34 Film and Media Studies, Major: Bachelor of Arts"
+title: "4.3.34 Film and Media Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Film and Media Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.34 Film and Media Studies, Major: Bachelor of Arts
+# 4.3.34 Film and Media Studies, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Film and Media Studies, Major: Bachelor of Arts**<br>电影与媒体研究，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
-| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
-| **How to Look at Art and Why: An Introduction to the History of Western Painting**<br>如何看艺术及为何看：西方绘画史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
-| **Introduction to Film Study**<br>电影研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
+| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
+| **How to Look at Art and Why: An Introduction to the History of Western Painting**<br>如何看艺术及为何看：西方绘画史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
+| **Introduction to Film Study**<br>电影研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **Media and Mediums**<br>媒体与媒介 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **Close Cinematic Analysis: Poetic Cinema**<br>细读电影：诗意电影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **Theories of the Moving Image: The Technologically Mediated Image**<br>动态影像理论：技术中介的影像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **History of World Cinema I: Silent Cinema and Modern Life**<br>世界电影史 I：默片与现代生活 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **History of World Cinema II: Film as Industrial Art**<br>世界电影史 II：作为工业艺术的电影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **History of World Cinema III: Queer Cinemas Around the World**<br>世界电影史 III：世界各地的酷儿电影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
-| **Introduction to Film and Video Production**<br>电影与视频制作导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
+| **Introduction to Film and Video Production**<br>电影与视频制作入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **Remixing the Moving Image**<br>重混动态影像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **Movies and Methods: The Films of Howard Hawks**<br>电影与方法：霍华德霍克斯的电影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |
 | **The Video Essay: Writing with Video about Media and Culture**<br>视频论文：用视频书写媒体与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/film-and-media-studies/bachelor-of-arts) |

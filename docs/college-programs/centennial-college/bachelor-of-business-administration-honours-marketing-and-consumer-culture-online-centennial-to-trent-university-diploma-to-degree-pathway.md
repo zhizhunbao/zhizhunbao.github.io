@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **AI and Digital Marketing Strategies**<br>AI与数字营销策略 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-marketing-and-consumer-culture-online) |
 | **Business Marketing Capstone**<br>商务营销毕业设计项目 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-marketing-and-consumer-culture-online) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-marketing-and-consumer-culture-online) |
-| **Introduction to Mathematics for Economics and Management**<br>经济与管理数学导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-marketing-and-consumer-culture-online) |
+| **Introduction to Mathematics for Economics and Management**<br>经济与管理数学入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-marketing-and-consumer-culture-online) |
 | **Managerial and Market Research**<br>管理与市场研究 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-marketing-and-consumer-culture-online) |
 | **Fundamentals of Managerial Accounting**<br>管理会计基础 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-marketing-and-consumer-culture-online) |
 | **Organization Theory**<br>组织理论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-marketing-and-consumer-culture-online) |

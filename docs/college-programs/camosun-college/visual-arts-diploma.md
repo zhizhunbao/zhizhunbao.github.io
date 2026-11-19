@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Graphic Design Foundations**<br>平面设计基础 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/visual-arts-diploma) |
 | **Visual Foundations 3D Design**<br>视觉基础：三维设计 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/visual-arts-diploma) |
 | **Modern Art History**<br>现代艺术史 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/visual-arts-diploma) |
-| **Introduction to Painting**<br>绘画导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/visual-arts-diploma) |
+| **Introduction to Painting**<br>绘画入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/visual-arts-diploma) |
 | **Sculpture**<br>雕塑 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/visual-arts-diploma) |
 | **Ceramics 1**<br>陶艺 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/visual-arts-diploma) |
 | **Visual Culture**<br>视觉文化 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/visual-arts-diploma) |

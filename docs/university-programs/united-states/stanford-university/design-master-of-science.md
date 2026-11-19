@@ -1,10 +1,10 @@
 ---
-title: "3.3.90 Design, Master of Science"
+title: "4.3.90 Design, Master of Science"
 description: "University Programs > United States > Stanford University > Design, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.90 Design, Master of Science
+# 4.3.90 Design, Master of Science
 
 ## Glossary
 
@@ -20,7 +20,7 @@ ms.date: 2026-11-18
 | **The Data Science of Disinformation**<br>虚假信息的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **The Science & Practice of Valuing Nature for a Better World**<br>为更美好世界重视自然的科学与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Diversity and Equity Issues in Higher Education**<br>高等教育中的多样性与公平问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
-| **Introduction to Genetics, Ethics, and Society**<br>遗传学、伦理与社会导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
+| **Introduction to Genetics, Ethics, and Society**<br>遗传学、伦理与社会入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Leading with Values**<br>以价值观领导 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Health Law: Improving Public Health**<br>卫生法：改善公共卫生 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Reproductive Rights and Justice**<br>生育权利与正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
@@ -66,8 +66,8 @@ ms.date: 2026-11-18
 | **MS Design Thesis 2**<br>设计理学硕士论文 2 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **MS Design Thesis 3**<br>设计理学硕士论文 3 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Design and Manufacturing**<br>设计与制造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
-| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
+| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **The Magic of Materials and Manufacturing**<br>材料与制造的魔力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **The Chair**<br>椅子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Computer-Aided Product Creation**<br>计算机辅助产品创造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
@@ -81,7 +81,7 @@ ms.date: 2026-11-18
 | **Media Psychology**<br>媒体心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Applied Machine Learning**<br>应用机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Computer Vision: Foundations and Applications**<br>计算机视觉：基础与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Design for Artificial Intelligence**<br>面向人工智能的设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Social Computing**<br>社会计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Human-Computer Interaction: Foundations and Frontiers**<br>人机交互：基础与前沿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
@@ -93,8 +93,8 @@ ms.date: 2026-11-18
 | **Communication Research Methods**<br>传播研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Mind, Culture, and Society**<br>心智、文化与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Wise Interventions**<br>明智的干预 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Digital Methods in Anthropology**<br>人类学中的数字方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Truth, Trust, and Tech**<br>真理、信任与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Virtual People**<br>虚拟人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
@@ -104,7 +104,7 @@ ms.date: 2026-11-18
 | **New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment**<br>科学、医学、技术与环境中性别化创新的新方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Fundamentals of Data Science: Prediction, Inference, Causality**<br>数据科学基础：预测、推断、因果 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 | **Natural Language Processing in the Social Sciences**<br>社会科学中的自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
-| **Introduction to Social Networks**<br>社交网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
+| **Introduction to Social Networks**<br>社交网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/design/master-of-science) |
 
 ## Courses
 

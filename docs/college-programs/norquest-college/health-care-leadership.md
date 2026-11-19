@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Care Leadership**<br>医疗保健领导力 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/health-care-leadership/) |
-| **Introduction to Leadership & Management**<br>领导力与管理导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/health-care-leadership/costs-and-courses/) |
+| **Introduction to Leadership & Management**<br>领导力与管理入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/health-care-leadership/costs-and-courses/) |
 | **Leadership: Communication, Collaboration and Relationship Building**<br>领导力：沟通、协作与关系建立 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/health-care-leadership/costs-and-courses/) |
 | **Fundamentals of Inclusive Leadership**<br>包容性领导力基础 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/health-care-leadership/costs-and-courses/) |
 | **Organizational Behaviour and Leadership**<br>组织行为与领导力 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/health-care-leadership/costs-and-courses/) |

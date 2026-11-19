@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN THANATOLOGY**<br>死亡学主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20881&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THANATOLOGY**<br>死亡学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20881&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THANATOLOGY**<br>死亡学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20881&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN THANATOLOGY**<br>死亡学研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20881&SelectedCalendar=Live&ArchiveID=) |
 | **TOPICAL ISSUES IN THANATOLOGY**<br>死亡学热点问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20881&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF PALLIATIVE CARE**<br>姑息治疗原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20881&SelectedCalendar=Live&ArchiveID=) |

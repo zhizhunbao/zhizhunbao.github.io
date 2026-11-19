@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Front-End Web Development I**<br>前端网页开发 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpro) |
 | **Problem Solving & Program Logic**<br>问题解决与程序逻辑 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpro) |
 | **Relational Database Design & SQL**<br>关系数据库设计与SQL | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpro) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpro) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpro) |
 | **Workplace Communication Applications & Analysis**<br>职场沟通应用与分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpro) |
 | **ITIL Foundations**<br>ITIL基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpro) |
 | **Programming C# .NET**<br>C# .NET编程 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpro) |

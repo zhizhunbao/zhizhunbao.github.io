@@ -17,18 +17,18 @@ ms.date: 2026-11-11
 | **Environment, Food and People**<br>环境、食物与人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Geopolitics, Globalization, and Inequality**<br>地缘政治、全球化与不平等 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Cities and Urban Life**<br>城市与城市生活 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **The Real World of Politics: An Introduction**<br>政治的真实世界：导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **The Real World of Politics: An Introduction**<br>政治的真实世界：入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Contemporary Challenges to Democracy: Democracy in the Social Media Age**<br>民主面临的当代挑战：社交媒体时代的民主 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly**<br>哪里出了错？政治灾难、灾难性政策失败与史诗般的愚行事后检讨 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Might and Right: Power and Justice in International Relations**<br>强权与公理：国际关系中的权力与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **Introduction to Sociology I: Sociological Perspectives**<br>社会学导论 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **Introduction to Sociology II: Sociological Inquiries**<br>社会学导论 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **Introduction to Sociology I: Sociological Perspectives**<br>社会学入门 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **Introduction to Sociology II: Sociological Inquiries**<br>社会学入门 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Visual Concepts**<br>视觉概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **History of Architecture, Landscape, Urbanism, and Art I**<br>建筑、景观、城市规划与艺术史 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **History of Architecture, Landscape, Urbanism, and Art II**<br>建筑、景观、城市规划与艺术史 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Technologies of Architecture, Landscape, Urbanism, and Art I**<br>建筑、景观、城市主义与艺术技术 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **A Multidisciplinary Introduction to Urban Studies I: Theoretical Foundations of City Building**<br>城市研究多学科导论 I：城市建设的理论基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **A Multidisciplinary Introduction to Urban Studies II: Urban Challenges and Theoretical Application**<br>城市研究多学科导论 II：城市挑战与理论应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **A Multidisciplinary Introduction to Urban Studies I: Theoretical Foundations of City Building**<br>城市研究多学科入门 I：城市建设的理论基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **A Multidisciplinary Introduction to Urban Studies II: Urban Challenges and Theoretical Application**<br>城市研究多学科入门 II：城市挑战与理论应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Empirical Industrial Organization**<br>实证产业组织 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Environmental Economics and Policies**<br>环境经济学与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Energy and the Environment**<br>能源与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
@@ -126,16 +126,16 @@ ms.date: 2026-11-11
 | **The Politics of Immigration and Multiculturalism in Canada**<br>加拿大的移民与多元文化政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Urban Sociology**<br>城市社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Sociology of Work & Occupations**<br>工作与职业社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **Introduction to Social Policy**<br>社会政策导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **Introduction to Social Policy**<br>社会政策入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Sociology of Race and Ethnicity**<br>种族与族裔社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Sociology of the Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Social Stratification**<br>社会分层 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Sociology of Health and Illness**<br>健康与疾病社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Sociology of Aging**<br>老龄化社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Sociology of Migration**<br>移民社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **Introduction to Political Sociology**<br>政治社会学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **Introduction to Political Sociology**<br>政治社会学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Sociology of Culture**<br>文化社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **Introduction to Social Problems**<br>社会问题导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **Introduction to Social Problems**<br>社会问题入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Family Demography**<br>家庭人口学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Economic Sociology**<br>经济社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Immigration and Race Relations in Canada**<br>加拿大的移民与种族关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
@@ -167,7 +167,7 @@ ms.date: 2026-11-11
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Resource and Environmental Theory**<br>资源与环境理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Africa in the 21st Century: Challenges and Opportunities**<br>21世纪的非洲：挑战与机遇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **The Preindustrial City and Urban Social Theory**<br>前工业城市与城市社会理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Metropolis: Global Cities**<br>大都会：全球城市 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |
 | **Canada and Globalization**<br>加拿大与全球化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2207) |

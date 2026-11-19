@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Introductory Earth Sciences**<br>地球科学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Communications for Environmental Professions**<br>环境专业沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Environmental Applications of Data Management and Statistics**<br>数据管理与统计的环境应用 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
-| **Introduction to Environmental Studies**<br>环境研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
+| **Introduction to Environmental Studies**<br>环境研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Field Ecology**<br>野外生态学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Applied Statistics for Environmental Research**<br>环境研究应用统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Designing Effective Maps**<br>有效地图设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
@@ -31,12 +31,12 @@ ms.date: 2026-11-11
 | **Fluvial Geomorphology**<br>河流地貌学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **The Cryosphere**<br>冰冻圈 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Physical Science of Climate Change**<br>气候变化的物理科学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
-| **Introduction to Plant Structure and Function**<br>植物结构与功能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
+| **Introduction to Plant Structure and Function**<br>植物结构与功能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Fundamentals of Microbiology**<br>微生物学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **General Chemistry 1**<br>普通化学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Physics 1**<br>物理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Earth from Space Using Remote Sensing**<br>利用遥感从太空观察地球 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
-| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
+| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Economy and Development: Spaces of Global Transformation**<br>经济与发展：全球转型的空间 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Global Environment and Health**<br>全球环境与健康 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |
 | **Climate Change Fundamentals**<br>气候变化基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1zHkkCAo2) |

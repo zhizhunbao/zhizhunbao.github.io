@@ -1,10 +1,10 @@
 ---
-title: "3.2.34 Humanities (Course 21)"
+title: "4.2.34 Humanities (Course 21)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Humanities (Course 21): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.34 Humanities (Course 21)
+# 4.2.34 Humanities (Course 21)
 
 ## Glossary
 
@@ -13,9 +13,9 @@ ms.date: 2026-11-18
 | **Humanities (Course 21)**<br>人文学科（Course 21） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
 | **Humanities Pre-Thesis Tutorial**<br>人文学科论文预备辅导课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
 | **Undergraduate Thesis in Humanities**<br>人文学科本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
-| **Black Matters: Introduction to Black Studies**<br>黑人问题：黑人研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
-| **Introduction to Latin American Studies**<br>拉丁美洲研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
-| **Introduction to Women's and Gender Studies**<br>女性与性别研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
+| **Black Matters: Introduction to Black Studies**<br>黑人问题：黑人研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
+| **Introduction to Latin American Studies**<br>拉丁美洲研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
+| **Introduction to Women's and Gender Studies**<br>女性与性别研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
 | **Feminist Thought**<br>女性主义思想 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-course-21/) |
 
 ## Courses

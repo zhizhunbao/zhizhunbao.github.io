@@ -1,20 +1,20 @@
 ---
-title: "3.4.71 Psychology (B.A. or B.S.)"
+title: "4.4.71 Psychology (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Psychology (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.71 Psychology (B.A. or B.S.)
+# 4.4.71 Psychology (B.A. or B.S.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Psychology (B.A. or B.S.)**<br>心理学（文学学士或理学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
-| **Introductory Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
+| **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
 | **Data Exploration and Analysis**<br>数据探索与分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
-| **YData: An Introduction to Data Science**<br>YData：数据科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
+| **YData: An Introduction to Data Science**<br>YData：数据科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
 | **Senior Essay**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
 | **The Human Brain**<br>人类大脑 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |
 | **Biochemistry and Biophysics**<br>生物化学与生物物理学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/psychology/) |

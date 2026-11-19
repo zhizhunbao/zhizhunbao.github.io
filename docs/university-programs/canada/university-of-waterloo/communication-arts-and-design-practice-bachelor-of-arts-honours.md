@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **Key Concepts in Media and Culture**<br>媒体与文化的关键概念 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Public Communication**<br>公共传播 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Black and Free**<br>黑人与自由 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
-| **Introduction to Anti-Racist Communication**<br>反种族主义传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
+| **Introduction to Anti-Racist Communication**<br>反种族主义传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **African American Rhetoric**<br>非裔美国人修辞 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
-| **Introduction to Gender and Sexuality in Communication**<br>传播中的性别与性取向导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
-| **Introduction to Race, Culture, and Communication**<br>种族、文化与传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
+| **Introduction to Gender and Sexuality in Communication**<br>传播中的性别与性取向入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
+| **Introduction to Race, Culture, and Communication**<br>种族、文化与传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **History and Communication**<br>历史与传播 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Games and Society**<br>游戏与社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Gender and Performance**<br>性别与表演 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Black Performance Studies**<br>黑人表演研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Performance Studies**<br>表演研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Writing Anti-Racism**<br>书写反种族主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
-| **Introduction to Performance**<br>表现导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
+| **Introduction to Performance**<br>表现入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Public Speaking**<br>公共演讲 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Special Topics in Digital Design**<br>数字设计专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Speech Writing**<br>演讲稿写作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **Designing Digital Media**<br>数字媒体设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Designing Digital Video**<br>数字视频设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Designing Digital Sound**<br>数字声音设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
-| **Introduction to Game Design**<br>游戏设计导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
+| **Introduction to Game Design**<br>游戏设计入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Fundamentals of Design**<br>设计基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Project Management in the Arts**<br>艺术项目管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Digital Storytelling Design**<br>数字叙事设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
@@ -70,7 +70,7 @@ ms.date: 2026-11-11
 | **Writing for Performance**<br>表演写作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Sustainability in Design**<br>设计中的可持续性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 | **Mixed Reality Design**<br>混合现实设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
-| **Introduction to Critical Design Practices**<br>批判性设计实践导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
+| **Introduction to Critical Design Practices**<br>批判性设计实践入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJeGlkCAi3) |
 
 ## Courses
 

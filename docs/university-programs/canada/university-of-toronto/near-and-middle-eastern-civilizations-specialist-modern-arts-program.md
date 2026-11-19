@@ -24,12 +24,12 @@ ms.date: 2026-11-11
 | **The Turks in History: From Nomads of the Steppe Frontier to Islamic Rulers**<br>历史中的突厥人：从草原边疆游牧民到伊斯兰统治者 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **The Mongol Empire and the World It Made**<br>蒙古帝国及其塑造的世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Topics in Near & Middle Eastern Civilizations**<br>近东与中东文明专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
-| **Modern Middle East: A Historical Introduction**<br>近代中东：历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
+| **Modern Middle East: A Historical Introduction**<br>近代中东：历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **GIS and Spatial Analysis in Archaeology**<br>考古学中的 GIS 与空间分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **The Plague in the Middle East: 13th-19th Centuries**<br>中东的瘟疫：13-19世纪 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **History of Late Antique & Early Islamic Iran**<br>古代晚期与早期伊斯兰伊朗史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Safavid Iran: Reign of the Shahs**<br>萨法维伊朗：沙阿的统治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
-| **Kurdish Studies: A Critical Introduction**<br>库尔德研究：批判性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
+| **Kurdish Studies: A Critical Introduction**<br>库尔德研究：批判性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Ottoman Empire: The Age of Reform**<br>奥斯曼帝国：改革时代 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Gender and Sexuality in Modern Middle Eastern Cultures**<br>现代中东文化中的性别与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Islam and Muslims in the Balkans**<br>巴尔干的伊斯兰教与穆斯林 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **Modern Arab Societies**<br>近代阿拉伯社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Islamic Law and the Modern State**<br>伊斯兰法与现代国家 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Judaism and Feminism: Legal Issues from Menstruation to Ordination**<br>犹太教与女性主义：从月经到按立的法律问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
-| **Introduction to Coptic Studies**<br>科普特研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
+| **Introduction to Coptic Studies**<br>科普特研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **King David: Musician, Monarch, or Murderer?**<br>大卫王：音乐家、君主还是凶手？ | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Samson: Lover, Liar, lion-slayer**<br>参孙：情人、骗子、屠狮者 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Modern Islamic Thought**<br>近代伊斯兰思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
@@ -71,7 +71,7 @@ ms.date: 2026-11-11
 | **Sumerian and Babylonian Literature in Translation**<br>苏美尔与巴比伦文学译本 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Ancient Bureaucracies**<br>古代官僚制度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Health and Healing on the Nile: Ancient Egyptian Medicine**<br>尼罗河上的健康与治疗：古埃及医学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
-| **Pyramids, Temples, and Tombs: An Introduction to Egyptian Art and Architecture**<br>金字塔、神庙与陵墓：埃及艺术与建筑导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
+| **Pyramids, Temples, and Tombs: An Introduction to Egyptian Art and Architecture**<br>金字塔、神庙与陵墓：埃及艺术与建筑入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Voices from Ancient Egypt**<br>来自古埃及的声音 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Hebrew Bible**<br>希伯来圣经 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |
 | **Egyptian Myths**<br>埃及神话 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2669) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Educational Support Fast Track**<br>教育支持快速通道 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support-fast-track) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support-fast-track/courses?id=34788) |
 | **Student Growth and Development**<br>学生成长与发展 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support-fast-track/courses?id=34788) |
-| **Introduction to Exceptionalities**<br>特殊需求导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support-fast-track/courses?id=34788) |
+| **Introduction to Exceptionalities**<br>特殊需求入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support-fast-track/courses?id=34788) |
 | **Principles of Learning**<br>学习原理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support-fast-track/courses?id=34788) |
 | **Elements of Practice**<br>实践要素 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support-fast-track/courses?id=34788) |
 | **Supporting Communication through Assistive Technology**<br>通过辅助技术支持沟通 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support-fast-track/courses?id=34788) |

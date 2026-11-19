@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **The Global Middle East**<br>全球中东 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
 | **Themes in World History I**<br>世界史主题 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
 | **Themes in World History II**<br>世界史主题 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-| **Introducing Global Asia and its Histories**<br>全球亚洲及其历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+| **Introducing Global Asia and its Histories**<br>全球亚洲及其历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
 | **The Ancient Mediterranean World**<br>古代地中海世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
 | **Capitalism: A Global History**<br>资本主义：全球史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
 | **Critical Writing and Research for Historians**<br>历史学家的批判写作与研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
@@ -26,26 +26,20 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
-|  | Students must complete at least 12.0 credits in History, including |  | 1. 1.0 credit from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISA01H3 | Drugs: A History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISA02H3 | Rise of the Machines: How Technology Remakes the World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISA03H3 | The Global Middle East | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISA04H3 | Themes in World History I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISA05H3 | Themes in World History II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISA06H3 | Introducing Global Asia and its Histories | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | GASA01H3 | Introducing Global Asia and its Histories | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISA07H3 | The Ancient Mediterranean World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | CLAA04H3 | The Ancient Mediterranean World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including |  | (HISA08H3) Africa in the World: An Introduction |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISA09H3 | Capitalism: A Global History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including |  | 2. 1.0 credit as follows: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISB03H3 | Critical Writing and Research for Historians | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including | HISC01H3 | History and Evidence | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including |  | 3. 4.5 credits at the C-level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including |  | 4. 1.0 credit at the D-level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including |  | 5. Additional 4.5 credits in History |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including |  | 6. Within the 12.0 credits required, students must also complete: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
-|  | Students must complete at least 12.0 credits in History, including |  | 2.0 credits must deal with the period prior to 1800 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | HISA01H3 | Drugs: A History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | HISA02H3 | Rise of the Machines: How Technology Remakes the World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | HISA03H3 | The Global Middle East | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | HISA04H3 | Themes in World History I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | HISA05H3 | Themes in World History II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | HISA06H3 | Introducing Global Asia and its Histories | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | GASA01H3 | Introducing Global Asia and its Histories | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | HISA07H3 | The Ancient Mediterranean World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | CLAA04H3 | The Ancient Mediterranean World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following |  | (HISA08H3) Africa in the World: An Introduction |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 1. 1.0 credit from the following | HISA09H3 | Capitalism: A Global History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 2. 1.0 credit as follows | HISB03H3 | Critical Writing and Research for Historians | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 2. 1.0 credit as follows | HISC01H3 | History and Evidence | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
+|  | 6. Within the 12.0 credits required, students must also complete |  | 2.0 credits must deal with the period prior to 1800 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
 |  | and |  | 1.0 credit in Canadian history |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
 |  | and |  | 4.0 credits distributed over four of the following areas of history: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |
 |  | and |  | a. United States and Latin America |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652) |

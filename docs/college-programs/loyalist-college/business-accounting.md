@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-accounting/) |
 | **Computer Applications for Business**<br>商业计算机应用 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-accounting/) |
 | **Financial Accounting 1**<br>财务会计 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-accounting/) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-accounting/) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-accounting/) |
 | **Advanced Excel Functions**<br>高级Excel函数 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-accounting/) |
 | **Economics**<br>经济学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-accounting/) |
 | **Financial Accounting 2**<br>财务会计 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-accounting/) |

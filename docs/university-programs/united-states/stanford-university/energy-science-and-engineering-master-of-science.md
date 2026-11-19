@@ -1,10 +1,10 @@
 ---
-title: "3.3.102 Energy Science and Engineering, Master of Science"
+title: "4.3.102 Energy Science and Engineering, Master of Science"
 description: "University Programs > United States > Stanford University > Energy Science and Engineering, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.102 Energy Science and Engineering, Master of Science
+# 4.3.102 Energy Science and Engineering, Master of Science
 
 ## Glossary
 
@@ -19,7 +19,7 @@ ms.date: 2026-11-18
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/master-of-science) |
 | **Mathematical Methods for Engineers**<br>工程师数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/master-of-science) |
 | **Subsurface Flow Simulation**<br>地下流动模拟 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/master-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/master-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/master-of-science) |
 | **ESE Graduate Seminar**<br>ESE（能源科学与工程）研究生研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/master-of-science) |
 | **ESE Teaching Requirement**<br>ESE（能源科学与工程）教学要求 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/master-of-science) |
 | **Master's Degree Research in Energy Science and Engineering**<br>能源科学与工程硕士学位研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/energy-science-and-engineering/master-of-science) |

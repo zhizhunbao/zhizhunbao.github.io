@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Computer Systems Technology**<br>计算机系统技术 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/) |
 | **Communication and Workplace Behaviour**<br>沟通与职场行为 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/) |
 | **Website Development**<br>网站开发 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/) |
-| **Introduction to Computer Systems**<br>计算机系统导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/) |
+| **Introduction to Computer Systems**<br>计算机系统入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/) |
 | **Python Programming**<br>Python 编程 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/) |
 | **Applied Mathematics for Programmers**<br>程序员应用数学 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/) |
 | **Data Communication and Networking**<br>数据通信与网络 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/) |

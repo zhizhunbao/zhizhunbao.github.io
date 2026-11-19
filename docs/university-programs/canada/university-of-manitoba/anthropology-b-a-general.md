@@ -14,8 +14,8 @@ ms.date: 2026-11-11
 | **Ancient Peoples and Places**<br>古代民族与地点 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/anthropology/anthropology-ba-general/) |
 | **Socio-Cultural Anthropology**<br>社会文化人类学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/anthropology/anthropology-ba-general/) |
 | **Culture, Society, and Power**<br>文化、社会与权力 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/anthropology/anthropology-ba-general/) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/anthropology/anthropology-ba-general/) |
-| **Introduction to Biological Anthropology**<br>生物人类学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/anthropology/anthropology-ba-general/) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/anthropology/anthropology-ba-general/) |
+| **Introduction to Biological Anthropology**<br>生物人类学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/anthropology/anthropology-ba-general/) |
 | **Relatedness in a Globalizing World or Anthropology of Political Systems**<br>全球化世界中的亲缘关系 或 政治体系人类学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/anthropology/anthropology-ba-general/) |
 
 ## Courses

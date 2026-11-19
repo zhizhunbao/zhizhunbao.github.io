@@ -1,22 +1,22 @@
 ---
-title: "3.2.26 Engineering (Course 1-ENG)"
+title: "4.2.26 Engineering (Course 1-ENG)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Engineering (Course 1-ENG): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.26 Engineering (Course 1-ENG)
+# 4.2.26 Engineering (Course 1-ENG)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Engineering (Course 1-ENG)**<br>工程（Course 1-ENG） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
-| **Introduction to Computer Programming and Numerical Methods for Engineering Applications**<br>面向工程应用的计算机编程与数值方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
+| **Introduction to Computer Programming and Numerical Methods for Engineering Applications**<br>面向工程应用的计算机编程与数值方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Probability: Concepts and Applications**<br>概率：概念与应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Senior Civil and Environmental Engineering Design (CI-M)**<br>土木与环境工程毕业设计（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
-| **Introduction to Environmental Data Analysis**<br>环境数据分析导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
+| **Introduction to Environmental Data Analysis**<br>环境数据分析入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Data Science Fundamentals**<br>数据科学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
-| **Introduction to Civil and Environmental Engineering Design**<br>土木与环境工程设计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
+| **Introduction to Civil and Environmental Engineering Design**<br>土木与环境工程设计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Fundamentals of Ecology**<br>生态学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
@@ -29,10 +29,10 @@ ms.date: 2026-11-18
 | **Mechanics of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Structural Mechanics and Design**<br>结构力学与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Solid Mechanics**<br>固体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
-| **Introduction to Structural Design**<br>结构设计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
+| **Introduction to Structural Design**<br>结构设计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Sensing and Intelligent Systems (CI-M)**<br>感知与智能系统（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Modeling and Decision-Making for Sustainability**<br>面向可持续性的建模与决策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
-| **Introduction to Network Models**<br>网络模型导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
+| **Introduction to Network Models**<br>网络模型入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Transportation: Foundations and Methods**<br>交通：基础与方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 | **Optimization Methods in Business Analytics**<br>商业分析中的优化方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/) |
 

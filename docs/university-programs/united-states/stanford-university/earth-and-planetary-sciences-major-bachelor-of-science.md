@@ -1,32 +1,32 @@
 ---
-title: "3.3.23 Earth and Planetary Sciences, Major: Bachelor of Science"
+title: "4.3.23 Earth and Planetary Sciences, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Earth and Planetary Sciences, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.23 Earth and Planetary Sciences, Major: Bachelor of Science
+# 4.3.23 Earth and Planetary Sciences, Major: Bachelor of Science
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Earth and Planetary Sciences, Major: Bachelor of Science**<br>地球与行星科学，主修：理学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Chemistry of the Earth and Planets**<br>地球与行星化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Earth and Planetary Processes and Mechanics**<br>地球与行星过程及力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Coevolution of Earth and Life**<br>地球与生命的协同演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
-| **Introduction to Data Science for Geoscience**<br>地球科学数据科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
-| **Introduction to Field Methods**<br>田野方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
+| **Introduction to Data Science for Geoscience**<br>地球科学数据科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
+| **Introduction to Field Methods**<br>田野方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **The Geoscience of Environmental Justice**<br>环境正义的地球科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Designing Science Fiction Planets**<br>设计科幻行星 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Moving and Shaking in the Bay Area**<br>湾区的风云人物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
-| **Earth Materials: Introduction to Mineralogy**<br>地球材料：矿物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
-| **Introduction to Sedimentology and Stratigraphy**<br>沉积学与地层学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
-| **Introduction to Igneous and Metamorphic Petrology**<br>火成岩与变质岩岩石学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
+| **Earth Materials: Introduction to Mineralogy**<br>地球材料：矿物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
+| **Introduction to Sedimentology and Stratigraphy**<br>沉积学与地层学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
+| **Introduction to Igneous and Metamorphic Petrology**<br>火成岩与变质岩岩石学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Journey to the Center of the Earth**<br>地心之旅 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Fundamentals of Structural Geology**<br>结构地质学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Formation and Dynamics of Planets**<br>行星的形成与动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
-| **Introduction to Planetary Science**<br>行星科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
+| **Introduction to Planetary Science**<br>行星科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Evolution of Terrestrial Ecosystems**<br>陆地生态系统的演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Paleomagnetism**<br>古地磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Sedimentary Geochemistry and Analysis**<br>沉积地球化学与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-18
 | **Geomicrobiology**<br>地质微生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Physical Hydrogeology**<br>物理水文地质学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Soil and Water Chemistry**<br>土壤与水化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
-| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
+| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Geophysical Mechanics and Dynamics**<br>地球物理力学与动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Introductory Seismology**<br>地震学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |
 | **Near-Surface Geophysics: Imaging Groundwater Systems**<br>近地表地球物理：地下水系统成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-and-planetary-sciences/bachelor-of-science) |

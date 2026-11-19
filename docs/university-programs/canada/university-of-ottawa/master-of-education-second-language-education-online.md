@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education (Second Language Education) (Online)**<br>教育学硕士，第二语言教育（网络授课） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-second-language-education-virtual/) |
-| **Introduction to Research in Education**<br>教育研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-second-language-education-virtual/) |
+| **Introduction to Research in Education**<br>教育研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-second-language-education-virtual/) |
 | **Social and Political Issues in Second Language Education**<br>第二语言教育中的社会与政治议题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-second-language-education-virtual/) |
 | **Technologies, Languages, and Education**<br>技术、语言与教育 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-second-language-education-virtual/) |
 | **Trends in Second Language Teaching**<br>第二语言教学趋势 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-second-language-education-virtual/) |

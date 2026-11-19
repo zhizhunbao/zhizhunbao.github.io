@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Thermal Systems Design**<br>热系统设计 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33022) |
 | **Numerical Methods for Engineering**<br>工程数值方法 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33022) |
 | **Computational Mechanics: Statics**<br>计算力学：静力学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33022) |
-| **Introduction to Quantum Mechanics**<br>量子力学导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33022) |
+| **Introduction to Quantum Mechanics**<br>量子力学入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33022) |
 | **Engineering: Communications and Social Impact**<br>工程：沟通与社会影响 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33022) |
 | **Engineering Mathematics III**<br>工程数学 III | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33022) |
 | **Engineering Mathematics IV**<br>工程数学 IV | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33022) |

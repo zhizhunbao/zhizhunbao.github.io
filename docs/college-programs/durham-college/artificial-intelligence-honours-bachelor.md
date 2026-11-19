@@ -12,15 +12,15 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Artificial Intelligence – Honours Bachelor**<br>人工智能 - 荣誉学士 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Breadth Elective Credit**<br>广度选修学分 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
-| **Introduction To Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
-| **Introduction To Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
-| **Introduction To Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
+| **Introduction To Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
+| **Introduction To Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
+| **Introduction To Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
-| **Introduction To Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
+| **Introduction To Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Programming For Artificial Intelligence**<br>人工智能编程 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Discrete Math**<br>离散数学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
-| **Introduction To Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
+| **Introduction To Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Data Structures And Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Ethics And Privacy In Artificial Intelligence**<br>人工智能的伦理与隐私 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Calculus**<br>微积分 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Machine Learning - Regression**<br>机器学习 - 回归 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Data Management**<br>数据管理 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Systems Analysis And Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
-| **Introduction To Artificial Neural Networks**<br>人工神经网络导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
+| **Introduction To Artificial Neural Networks**<br>人工神经网络入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Data Visualization**<br>数据可视化 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Human-Computer Interaction**<br>人机交互 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |
 | **Societal And Legal Issues In Artificial Intelligence**<br>人工智能的社会与法律问题 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/artificial-intelligence-honours-bachelor) |

@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Operations Management (minimum “C+” grade)**<br>运营管理（最低成绩 C+） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=91) |
 | **Business Policy (minimum “C+” grade)**<br>商业政策（最低成绩 C+） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=91) |
 | **Strategic Management**<br>战略管理 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=91) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=91) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=91) |
 | **Managerial Statistics**<br>管理统计学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=91) |
 
 ## Courses

@@ -1,10 +1,10 @@
 ---
-title: "3.2.15 Chemistry (Course 5)"
+title: "4.2.15 Chemistry (Course 5)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Chemistry (Course 5): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.15 Chemistry (Course 5)
+# 4.2.15 Chemistry (Course 5)
 
 ## Glossary
 
@@ -12,12 +12,12 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Chemistry (Course 5)**<br>化学（Course 5） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
 | **Principles of Inorganic Chemistry I**<br>无机化学原理 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
-| **Introduction to Biological Chemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
+| **Introduction to Biological Chemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
 | **Thermodynamics II and Kinetics**<br>热力学 II与动力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
-| **Introduction to Spectroscopy**<br>光谱学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
+| **Introduction to Spectroscopy**<br>光谱学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
 | **Electronic Structure of Molecules**<br>分子电子结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
 | **Principles of Inorganic Chemistry II**<br>无机化学原理 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |
 | **Fundamentals of Chemical Biology**<br>化学生物学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemistry-course-5/) |

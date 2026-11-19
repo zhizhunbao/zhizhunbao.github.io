@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Labour and Employment Relations**<br>劳动与雇佣关系 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Exploring Indigenous Economic Perspectives**<br>探索原住民经济视角 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Indigenous Economic Leadership**<br>原住民经济领导力 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Staffing and Management Development**<br>人员配备与管理发展 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Compensation**<br>薪酬 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Collective Bargaining and Administration**<br>集体谈判与管理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
@@ -53,9 +53,9 @@ ms.date: 2026-11-11
 | **Personal Financial Planning**<br>个人理财规划 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Entrepreneurial Finance**<br>创业金融 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Learning to Lead**<br>学会领导 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
-| **Introduction to Indigenous Community Development**<br>原住民社区发展导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
+| **Introduction to Indigenous Community Development**<br>原住民社区发展入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Indigenous Societies and the Political Process**<br>原住民社会与政治过程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
-| **Introduction to Indigenous Theory**<br>原住民理论导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
+| **Introduction to Indigenous Theory**<br>原住民理论入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Indigenous Healing Ways**<br>原住民疗愈方式 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Fundraising for Indigenous Organizations**<br>原住民组织的筹款 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |
 | **Canadian Law and Indigenous Peoples**<br>加拿大法律与原住民 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/RRCP-bcomm-honours/) |

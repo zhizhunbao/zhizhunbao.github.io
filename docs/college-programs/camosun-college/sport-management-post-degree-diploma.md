@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sport Management, Post-Degree Diploma**<br>体育管理学位后文凭 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/sport-management-post-degree-diploma) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4311) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4311) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4311) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4311) |
 | **The Business of Sport**<br>体育产业经营 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4311) |
 | **Sport Technology**<br>体育技术 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4311) |
 | **Financial Accounting 1**<br>财务会计 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4311) |

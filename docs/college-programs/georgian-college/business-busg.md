@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Financial Accounting Principles 1**<br>财务会计原理 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Customer Service**<br>客户服务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Finance and Management Accounting**<br>财务与管理会计 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Statistics 1**<br>统计学 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Entrepreneurship and Small Business**<br>创业与小型企业 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |
 | **Business Finance**<br>企业财务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/busg/) |

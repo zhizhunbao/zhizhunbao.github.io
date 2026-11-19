@@ -1,10 +1,10 @@
 ---
-title: "3.3.128 Neurosciences, Master of Science"
+title: "4.3.128 Neurosciences, Master of Science"
 description: "University Programs > United States > Stanford University > Neurosciences, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.128 Neurosciences, Master of Science
+# 4.3.128 Neurosciences, Master of Science
 
 ## Glossary
 
@@ -18,30 +18,30 @@ ms.date: 2026-11-18
 | **Neuroscience Data Basics**<br>神经科学数据基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Neurosciences Cognitive Core**<br>神经科学认知核心课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Neuroscience Computational Core**<br>神经科学计算核心课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
-| **Introduction to Mathematical Tools in Neuroscience**<br>神经科学数学工具导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
+| **Introduction to Mathematical Tools in Neuroscience**<br>神经科学数学工具入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Animal Behavior for Neuroscientists**<br>面向神经科学家的动物行为学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Responsible Conduct of Neuroscience Research**<br>神经科学研究的负责任行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Neurogenetics Core**<br>神经遗传学核心课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Neuroscience Journal Club and Professional Development Series**<br>神经科学文献研读会与职业发展系列 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Cellular/Molecular Neuroscience Laboratory**<br>细胞/分子神经科学实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Foundations of statistics and reproducible research**<br>统计学与可重复研究基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Robust, reproducible, real-world experimental design and analysis for life and biomedical scientists**<br>面向生命与生物医学科学家的稳健、可重复、真实世界实验设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Probabilistic Graphical Models: Principles and Techniques**<br>概率图模型：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Probabilistic Systems Analysis**<br>概率系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
-| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
+| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Fundamentals of Data Science: Prediction, Inference, Causality**<br>数据科学基础：预测、推断、因果 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Computational Neuroimaging: Data Analyses**<br>计算神经影像：数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Statistical Methods for Behavioral and Social Sciences**<br>行为与社会科学的统计方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Statistical Models in Biology**<br>生物学中的统计模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Machine Learning Methods for Neural Data Analysis**<br>神经数据分析的机器学习方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |
 | **Applied Statistics I**<br>应用统计学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/neurosciences/master-of-science) |

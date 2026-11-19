@@ -1,10 +1,10 @@
 ---
-title: "3.3.149 Bioengineering, Doctor of Philosophy"
+title: "4.3.149 Bioengineering, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Bioengineering, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.149 Bioengineering, Doctor of Philosophy
+# 4.3.149 Bioengineering, Doctor of Philosophy
 
 ## Glossary
 
@@ -25,7 +25,7 @@ ms.date: 2026-11-18
 | **Quantitative Physiology**<br>定量生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Partial Differential Equations in Engineering**<br>工程中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Numerical Linear Algebra**<br>数值线性代数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Computational Methods of Applied Mathematics**<br>应用数学计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
@@ -56,12 +56,12 @@ ms.date: 2026-11-18
 | **Machine Learning for Neuroimaging**<br>神经影像的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Ethics in Bioengineering**<br>生物工程中的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Mixed-Reality in Medicine**<br>医学中的混合现实 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Stochastic and Nonlinear Dynamics**<br>随机与非线性动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Translational Bioinformatics**<br>转化生物信息学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Fundamentals of Regeneration Biology**<br>再生生物学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Physics and Engineering of Radionuclide-based Medical Imaging**<br>放射性核素医学成像的物理与工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Gut Microbiota in Health and Disease**<br>肠道微生物群与健康和疾病 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Physics and Engineering Principles of Multi-modality Molecular Imaging of Living Subjects**<br>活体多模态分子成像的物理与工程原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
@@ -80,7 +80,7 @@ ms.date: 2026-11-18
 | **Frugal Science**<br>节俭科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Computational Biology: Structure and Organization of Biomolecules and Cells**<br>计算生物学：生物分子与细胞的结构与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Biomechanics of Movement**<br>运动生物力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Mechanotransduction in Cells and Tissues**<br>细胞与组织中的力学转导 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Computational Modeling in the Cardiovascular System**<br>心血管系统的计算建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Principles and Practice of Optogenetics for Optical Control of Biological Tissues**<br>光遗传学的原理与实践：生物组织的光学控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
@@ -133,11 +133,11 @@ ms.date: 2026-11-18
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Programming Methodologies in JavaScript and Python (Accelerated)**<br>JavaScript 与 Python 编程方法（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Foundations of Computational Human Genomics**<br>计算人类基因组学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Deep Reinforcement Learning**<br>深度强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Machine Learning with Graphs**<br>图机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
@@ -194,7 +194,7 @@ ms.date: 2026-11-18
 | **The Financial Economics of Climate and Sustainability**<br>气候与可持续性的金融经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Advanced Immunology I**<br>高级免疫学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Immunology in Health and Disease**<br>健康与疾病中的免疫学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Essential Methods in Computational and Systems Immunology**<br>计算与系统免疫学的基本方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Organic and Biological Materials**<br>有机与生物材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Principles, Materials and Devices of Batteries**<br>电池的原理、材料与器件 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
@@ -207,9 +207,9 @@ ms.date: 2026-11-18
 | **Smart Product Design Fundamentals**<br>智能产品设计基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Smart Product Design Applications**<br>智能产品设计应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Smart Product Design Practice**<br>智能产品设计实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Applied Robot Design for Non-Robot-Designers: How to Fix, Modify, Design, and Build Robots**<br>面向非机器人设计者的应用机器人设计：如何维修、改装、设计与制造机器人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Neuromechanics**<br>神经力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Neuromechanics**<br>神经力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Deliverables: A Mechanical Engineering Design Practicum**<br>交付成果：机械工程设计实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Mechanics of Biological Tissues**<br>生物组织力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Soft Composites and Soft Robotics**<br>软复合材料与软体机器人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
@@ -224,7 +224,7 @@ ms.date: 2026-11-18
 | **Foundations of Causal Machine Learning**<br>因果机器学习基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **The Nervous System**<br>神经系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Understanding Techniques in Neuroscience**<br>理解神经科学中的技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Electro-neural Interfaces**<br>电神经接口导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Electro-neural Interfaces**<br>电神经接口入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Graduate Quantum Mechanics I**<br>研究生量子力学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Graduate Quantum Mechanics II**<br>研究生量子力学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
@@ -232,12 +232,12 @@ ms.date: 2026-11-18
 | **A modern explainable AI approach to Theoretical Neuroscience**<br>理论神经科学的现代可解释AI方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Advanced Statistical Modeling for Behavioral and Neural Sciences**<br>行为与神经科学高级统计建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **MRI Sequences and Signals**<br>MRI 序列与信号 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Statistical Models in Biology**<br>生物学中的统计模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Machine Learning Methods for Neural Data Analysis**<br>神经数据分析的机器学习方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |
 | **Applied Statistics I**<br>应用统计学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/bioengineering/doctor-of-philosophy) |

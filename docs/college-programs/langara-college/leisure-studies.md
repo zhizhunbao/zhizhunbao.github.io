@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Direct Leadership in Recreation**<br>康乐领域直接领导力 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/leisure-studies-diploma/courses) |
 | **Valuing Diversity in Leadership**<br>领导力中的多元价值 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/leisure-studies-diploma/courses) |
 | **Recreation Program Planning**<br>休闲项目规划 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/leisure-studies-diploma/courses) |
-| **Introduction to Recreation Facilities and Environments**<br>休闲设施与环境导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/leisure-studies-diploma/courses) |
+| **Introduction to Recreation Facilities and Environments**<br>休闲设施与环境入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/leisure-studies-diploma/courses) |
 | **Special Topics I**<br>专题 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/leisure-studies-diploma/courses) |
 | **Applied Skills in Recreation Operations**<br>康体运营应用技能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/leisure-studies-diploma/courses) |
 | **The Arts and Heritage in Recreation**<br>休闲中的艺术与遗产 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/leisure-studies-diploma/courses) |

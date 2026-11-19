@@ -1,10 +1,10 @@
 ---
-title: "3.4.68 Physics and Philosophy (B.A. or B.S.)"
+title: "4.4.68 Physics and Philosophy (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Physics and Philosophy (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.68 Physics and Philosophy (B.A. or B.S.)
+# 4.4.68 Physics and Philosophy (B.A. or B.S.)
 
 ## Glossary
 
@@ -15,11 +15,11 @@ ms.date: 2026-11-18
 | **University Physics for the Life Sciences**<br>生命科学大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
 | **General Physics Laboratory**<br>普通物理实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
 | **Modern Physical Measurement**<br>现代物理测量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
-| **Introduction to Mathematical Methods of Physics**<br>物理学数学方法导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
+| **Introduction to Mathematical Methods of Physics**<br>物理学数学方法入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
 | **Basic Quantum Mechanics**<br>基础量子力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
 | **Quantum Mechanics and Natural Phenomena I**<br>量子力学与自然现象 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
-| **Introduction to Ancient Philosophy**<br>古代哲学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
-| **Introduction to Modern Philosophy from Descartes to Kant**<br>近代哲学导论：从笛卡尔到康德 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
+| **Introduction to Ancient Philosophy**<br>古代哲学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
+| **Introduction to Modern Philosophy from Descartes to Kant**<br>近代哲学入门：从笛卡尔到康德 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
 | **Independent Projects in Physics**<br>物理学独立项目 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
 | **The Senior Essay**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/) |
 

@@ -25,9 +25,9 @@ ms.date: 2026-11-08
 | **Excel Core**<br>Excel核心 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
 | **General Education Elective 2**<br>通识教育选修课 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
-| **Introduction to Computers 1**<br>计算机导论 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
-| **Introduction to Computers 2**<br>计算机导论 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
-| **Introduction to the Legal Environment**<br>法律环境导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
+| **Introduction to Computers 1**<br>计算机入门 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
+| **Introduction to Computers 2**<br>计算机入门 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
+| **Introduction to the Legal Environment**<br>法律环境入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
 | **Legal Accounting Procedures**<br>法律会计程序 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
 | **Legal Office Procedures**<br>法律办公程序 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |
 | **Legal Transcription**<br>法律文书转录 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-legal-online/) |

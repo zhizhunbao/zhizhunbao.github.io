@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Cinema Studies - Major (Arts)**<br>电影研究－主修（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0797) |
-| **An Introduction to Cinema Studies**<br>电影研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0797) |
+| **An Introduction to Cinema Studies**<br>电影研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0797) |
 | **Modernity and the Moving Image**<br>现代性与动态影像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0797) |
 | **The Video Essay**<br>视频论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0797) |
 | **Writing for University and Beyond**<br>面向大学及以后的写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0797) |

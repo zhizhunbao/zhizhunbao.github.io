@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Post-Degree Diploma in Information Resources Management**<br>信息资源管理学位后文凭 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
-| **Introduction to Workplace Communications**<br>职场沟通导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
+| **Introduction to Workplace Communications**<br>职场沟通入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Indigenous Peoples of Canada**<br>加拿大原住民 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Cyber Security Analysis**<br>网络安全分析 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
@@ -42,14 +42,14 @@ ms.date: 2026-11-08
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Management Science II**<br>管理科学 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Business Ethics and Social Responsibility**<br>商业伦理与社会责任 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Managerial Economics**<br>管理经济学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Data Communication and Network Infrastructure**<br>数据通信与网络基础设施 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
-| **Introduction to Cloud Computing**<br>云计算导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
+| **Introduction to Cloud Computing**<br>云计算入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Calculus**<br>微积分 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Introductory Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
-| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
+| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 | **Organizational Behavior**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-information-resources-management/) |
 
 ## Courses

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Forestry Technician - Conservation**<br>林业技术员：保护 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
-| **Introduction to Green Careers**<br>绿色职业导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
+| **Introduction to Green Careers**<br>绿色职业入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Numeracy and Quantitative Reasoning**<br>计算能力与定量推理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Trees and Shrubs I**<br>乔木与灌木 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Outdoor Navigation**<br>户外导航 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Forest Health**<br>森林健康 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Fall Camp - Forestry - Second Year**<br>秋季营 - 林业 - 二年级 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Ecosystem Classification**<br>生态系统分类 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Global Citizenship**<br>全球公民意识 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Career Readiness**<br>就业准备 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |
 | **Natural Environment Business Management**<br>自然环境商业管理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/forestry-technician-conservation) |

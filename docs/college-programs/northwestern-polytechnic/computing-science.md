@@ -11,15 +11,15 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computing Science**<br>计算机科学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
-| **Introduction to Computing Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
+| **Introduction to Computing Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Elementary Data Structures**<br>初等数据结构 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Formal Systems and Logic in Computing Science**<br>计算机科学中的形式系统与逻辑 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Linear Algebra I**<br>线性代数 1 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Practical Programming Methodology**<br>实用编程方法 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Algorithms I**<br>算法 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Computer Organization and Architecture I**<br>计算机组成与体系结构 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
-| **Introduction to File and Database Management**<br>文件与数据库管理导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
+| **Introduction to File and Database Management**<br>文件与数据库管理入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Computer Organization and Architecture II**<br>计算机组成与体系结构 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Elementary Calculus I**<br>初等微积分 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computing-science-degree) |

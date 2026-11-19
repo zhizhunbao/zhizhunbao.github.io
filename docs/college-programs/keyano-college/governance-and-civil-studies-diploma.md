@@ -11,15 +11,15 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Governance and Civil Studies Diploma**<br>治理与公民研究文凭 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
-| **Introduction to Critical Analysis**<br>批判性分析导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
-| **Introduction to Government and Politics**<br>政府与政治导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
+| **Introduction to Critical Analysis**<br>批判性分析入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
+| **Introduction to Government and Politics**<br>政府与政治入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 | **Core Elective**<br>核心选修课 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 | **Core Elective or Open Elective**<br>核心选修课或开放选修课 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 | **Open Elective**<br>自由选修课 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 | **Indigenous Literatures**<br>原住民文学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 | **Practical Logic**<br>实用逻辑 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 | **Work Integrated Learning (Optional)**<br>工作整合学习（选修） | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
-| **Introduction to Philosophy: Values and Society**<br>哲学导论：价值观与社会 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
+| **Introduction to Philosophy: Values and Society**<br>哲学入门：价值观与社会 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 | **Introductory Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 | **Race and Racism in the Modern World**<br>现代世界中的种族与种族主义 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/governance-and-civil-studies-diploma/) |
 

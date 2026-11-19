@@ -1,10 +1,10 @@
 ---
-title: "3.1.41 Slavic Literatures and Cultures (B.A.)"
+title: "4.1.41 Slavic Literatures and Cultures (B.A.)"
 description: "University Programs > United States > Harvard University > Slavic Literatures and Cultures (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.41 Slavic Literatures and Cultures (B.A.)
+# 4.1.41 Slavic Literatures and Cultures (B.A.)
 
 ## Glossary
 
@@ -20,7 +20,7 @@ ms.date: 2026-11-18
 | **What Is Avant-Garde? Prof. Nariman Skakov**<br>何为先锋派？Nariman Skakov教授 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Making Sense of the Russo-Ukrainian War; Prof. Nariman Skakov**<br>理解俄乌战争；Nariman Skakov教授 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Russian Fiction of the Soviet Era; Prof. Justin Weir**<br>苏联时期的俄罗斯小说；Justin Weir教授 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Slavic Literatures and Cultures**<br>斯拉夫文学与文化导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Slavic Literatures and Cultures**<br>斯拉夫文学与文化入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Literature of Catastrophe: Ukraine 1917-2022; Prof. Tamara Hundorova**<br>灾难文学：乌克兰1917-2022；Tamara Hundorova教授 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Ballet, Past and Present; Prof. Daria Khitrova**<br>芭蕾的过去与现在；Daria Khitrova教授 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **The Holocaust in Polish Memory and Culture; Prof. Aleksandra Kremer**<br>波兰记忆与文化中的大屠杀；Aleksandra Kremer教授 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |

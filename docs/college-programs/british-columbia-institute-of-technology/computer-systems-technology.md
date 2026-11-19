@@ -28,11 +28,11 @@ ms.date: 2026-11-08
 | **Computer Organization/Architecture**<br>计算机组成/体系结构 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Object Oriented Programming 2**<br>面向对象编程 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Mobile Development with Android Technologies**<br>Android 技术移动开发 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
-| **Introduction to Data Communications**<br>数据通信导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
+| **Introduction to Data Communications**<br>数据通信入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Algorithm Analysis and Design**<br>算法分析与设计 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Applied Probability and Statistics**<br>应用概率与统计 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Projects Practicum 1\***<br>项目实习 1\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Client/Server Systems Development Fundamentals**<br>客户端/服务器系统开发基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Cloud Computing Platforms**<br>云计算平台 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Server-Side Web Scripting**<br>服务器端网页脚本编程 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-08
 | **Ideation**<br>创意构思 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Selected Topics in Application Development**<br>应用开发专题 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Internet Software Architecture\***<br>互联网软件架构\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
-| **Introduction to Operating Systems**<br>操作系统导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
+| **Introduction to Operating Systems**<br>操作系统入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Ethics for Computing Professionals\***<br>计算机专业人员伦理\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Projects Practicum 1\*\***<br>项目实习 1\*\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Projects Practicum 2\*\***<br>项目实习 2\*\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
@@ -75,7 +75,7 @@ ms.date: 2026-11-08
 | **Business Plan**<br>商业计划 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Pitching and Positioning**<br>推介与定位 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **HCI for Application Development**<br>应用开发人机交互 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Cooperative Education Workterm 1**<br>带薪实习工作学期 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 | **Cooperative Education Workterm 2**<br>带薪实习工作学期 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) |
 

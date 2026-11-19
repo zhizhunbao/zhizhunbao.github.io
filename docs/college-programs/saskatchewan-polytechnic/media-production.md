@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Audio Processing and Mixing**<br>音频处理与混音 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Lighting**<br>照明 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Indigenous Cultural Awareness**<br>原住民文化意识 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
-| **Introduction to Script Writing**<br>剧本写作导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
+| **Introduction to Script Writing**<br>剧本写作入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Web Development 1**<br>Web 开发 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Videography**<br>摄像 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Video Editing**<br>视频剪辑 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Corporate Video Production**<br>企业视频制作 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Documentary Production**<br>纪录片制作 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Multi-Camera Video Production**<br>多机位视频制作 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
-| **Introduction to Streaming Media**<br>流媒体导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
+| **Introduction to Streaming Media**<br>流媒体入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Career Management**<br>职业管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Client Directed Project**<br>客户指导项目 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |
 | **Work Experience**<br>工作经历 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Media-Production.aspx) |

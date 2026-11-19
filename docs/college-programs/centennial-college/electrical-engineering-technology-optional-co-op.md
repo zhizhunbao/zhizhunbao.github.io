@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Mathematics 2**<br>数学 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technology) |
 | **College Communications 2**<br>学院交流 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technology) |
 | **Electronics 2**<br>电子学 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technology) |
-| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technology) |
+| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technology) |
 | **Drawings and Installation Methods 3**<br>图纸与安装方法 3 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technology) |
 | **Electrical Theory 3**<br>电气理论 3 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technology) |
 | **Global Citizenship: From Social Analysis to Social Action**<br>全球公民：从社会分析到社会行动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technology) |

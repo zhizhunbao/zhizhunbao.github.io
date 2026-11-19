@@ -13,14 +13,14 @@ ms.date: 2026-11-11
 | **Psychology, 3-Year BA**<br>心理学，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Introductory Psychology, or a 3 credit introductory course transferred from another university as**<br>心理学入门，或从其他大学转入的 3 学分入门课程，作为 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **minimum 2.0 GPA (C) or standing (S)**<br>最低 GPA 2.0（C）或通过（S） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Elementary Biological Statistics II**<br>初级生物统计学 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Statistical Analysis II**<br>统计分析 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Developmental Psychology I: Fundamentals**<br>发展心理学 I：基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Personality Psychology**<br>人格心理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Social Psychology I**<br>社会心理学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
-| **An Introduction to Cognitive Psychology**<br>认知心理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
+| **An Introduction to Cognitive Psychology**<br>认知心理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Perception I**<br>知觉 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Fundamentals of Animal Learning**<br>动物学习基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |
 | **Physiological Psychology I**<br>生理心理学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/psyc.pdf#page=1) |

@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **AC-22 Accreditation for Level 1**<br>AC-22 一级认证 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/REFMF-CT/PrinterFriendly#ACCR-9010) |
 | **Electrical Fundamentals 2**<br>电气基础 2 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/REFMF-CT/PrinterFriendly#ELEC-2070) |
 | **Field Placement**<br>实地实习 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/REFMF-CT/PrinterFriendly#FIEP-3010) |
-| **Introduction to Mechanical Refrigeration**<br>机械制冷导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/REFMF-CT/PrinterFriendly#REFR-2001) |
+| **Introduction to Mechanical Refrigeration**<br>机械制冷入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/REFMF-CT/PrinterFriendly#REFR-2001) |
 | **The Principles of Refrigeration**<br>制冷原理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/REFMF-CT/PrinterFriendly#REFR-2002) |
 | **Mechanical Cooling Cycle and Accessories**<br>机械制冷循环及附件 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/REFMF-CT/PrinterFriendly#REFR-2004) |
 | **Trade Documents**<br>贸易文件 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/REFMF-CT/PrinterFriendly#TRAD-1050) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.185 Immunology, Doctor of Philosophy"
+title: "4.3.185 Immunology, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Immunology, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.185 Immunology, Doctor of Philosophy
+# 4.3.185 Immunology, Doctor of Philosophy
 
 ## Glossary
 
@@ -20,9 +20,9 @@ ms.date: 2026-11-18
 | **Seminar in Immunology**<br>免疫学研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Graduate Research**<br>研究生研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **The Responsible Conduct of Research**<br>负责任的科研行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
-| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
+| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Intermediate Biostatistics: Analysis of Discrete Data**<br>中级生物统计学：离散数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-18
 | **Synthetic proteins and genetic circuits**<br>合成蛋白与基因线路 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Molecular and Genetic Basis of Cancer**<br>癌症的分子与遗传基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Developmental Biology**<br>发育生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
-| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
+| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Biology and Disease of Hematopoiesis**<br>造血的生物学与疾病 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Tumor Immunology**<br>肿瘤免疫学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Microbe-Host Interactions in Health and Disease**<br>健康与疾病中的微生物与宿主相互作用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
@@ -39,13 +39,13 @@ ms.date: 2026-11-18
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Essential Methods in Computational and Systems Immunology**<br>计算与系统免疫学的基本方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Translational Bioinformatics**<br>转化生物信息学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Computational Methods for Biomedical Image Analysis and Interpretation**<br>生物医学图像分析与解释的计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Randomized Algorithms and Probabilistic Analysis**<br>随机算法与概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-18
 | **Artificial General Intelligence for Reasoning, Planning, and Decision Making**<br>面向推理、规划与决策的通用人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 | **Probability and Statistical Inference**<br>概率与统计推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/immunology/doctor-of-philosophy) |
 
 ## Courses
 

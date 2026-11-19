@@ -11,32 +11,32 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration - General Business Major**<br>工商管理，综合商务专业方向 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
-| **Introduction to Organizations and Sustainability**<br>组织与可持续性导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
+| **Introduction to Organizations and Sustainability**<br>组织与可持续性入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Change Management**<br>变革管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Operations Management I**<br>运营管理 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Business Finance**<br>企业财务 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Risk Management Principles and Practice**<br>风险管理原理与实践 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Management Accounting I**<br>管理会计 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Sustainable Development**<br>可持续发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Business Strategy**<br>商业战略 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
-| **Introduction to Business Analytics**<br>商业分析导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
+| **Introduction to Business Analytics**<br>商业分析入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Introductory Statistics for Business Disciplines**<br>商科统计学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Microsoft Excel**<br>Microsoft Excel | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Selling and the Customer Experience**<br>销售与客户体验 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **Applied Marketing**<br>应用营销 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **International Business**<br>国际商务 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **International Business and Culture**<br>国际商务与文化 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |
 | **General Business Sustainable Service Learning**<br>综合商务可持续服务学习 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-general-business) |

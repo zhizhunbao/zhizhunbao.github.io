@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Music MA; Field: Music Theory**<br>音乐（MA）；领域：音乐理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Music Research I**<br>音乐研究导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Music Research I**<br>音乐研究入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **MA Major Paper or Project**<br>文学硕士主修论文或项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Reading German for Graduate Students**<br>研究生德语阅读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 

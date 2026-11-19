@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Conflict Management**<br>冲突管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 | **Field Placement: Justice Studies**<br>现场实习：司法研究 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 | **Industry Capstone: Justice Studies**<br>行业毕业设计项目：司法研究 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 | **Abnormal Psychology**<br>异常心理学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 | **Interpersonal Behaviour**<br>人际行为 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 | **Work Safely**<br>安全作业 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-08
 | **Legal Authority and Interventions II**<br>法律权限与干预 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 | **First Responder Health and Fitness**<br>急救人员健康与体能 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 | **Indigenous History and Culture**<br>原住民历史与文化 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 | **Victimology**<br>被害人学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dde1be55-51b8-43bc-b458-940ee60f39ad) |
 
 ## Courses

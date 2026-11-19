@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Ski Resort Operations and Management - Diploma**<br>滑雪度假村运营与管理文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/hospitality-tourism/ski-resort-operations-and-management-diploma) |
-| **Introduction to Tourism**<br>旅游业导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/hospitality-tourism/ski-resort-operations-and-management-diploma) |
+| **Introduction to Tourism**<br>旅游业入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/hospitality-tourism/ski-resort-operations-and-management-diploma) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/hospitality-tourism/ski-resort-operations-and-management-diploma) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/hospitality-tourism/ski-resort-operations-and-management-diploma) |
 | **Ski Area Risk Prevention and Management**<br>滑雪场风险预防与管理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/hospitality-tourism/ski-resort-operations-and-management-diploma) |

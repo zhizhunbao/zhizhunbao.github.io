@@ -1,17 +1,17 @@
 ---
-title: "3.3.94 Earth Systems, Master of Arts"
+title: "4.3.94 Earth Systems, Master of Arts"
 description: "University Programs > United States > Stanford University > Earth Systems, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.94 Earth Systems, Master of Arts
+# 4.3.94 Earth Systems, Master of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Earth Systems, Master of Arts**<br>地球系统，文学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Master's Seminar**<br>硕士研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Concepts in Environmental Communication**<br>环境传播中的概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Multimedia Environmental Communication**<br>多媒体环境传播 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
@@ -32,10 +32,10 @@ ms.date: 2026-11-18
 | **Evolution of Terrestrial Ecosystems**<br>陆地生态系统的演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Science of Soils**<br>土壤科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
-| **Introduction to Environmental Ethics**<br>环境伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
+| **Introduction to Environmental Ethics**<br>环境伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Agroecology**<br>农业生态学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Feeding Nine Billion**<br>养活九十亿人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Oceans and the Global Imaginary**<br>海洋与全球想象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **Ocean Solutions: Science, Policy, and Community-Engaged Learning**<br>海洋解决方案：科学、政策与社区参与式学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |
 | **The Politics of Climate Change**<br>气候变化的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-arts) |

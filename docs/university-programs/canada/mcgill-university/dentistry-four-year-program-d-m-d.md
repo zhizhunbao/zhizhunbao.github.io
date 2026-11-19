@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Dentistry (Four-Year Program) (D.M.D.)**<br>牙医学（4 年制项目）（D.M.D.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
-| **Introduction to Dentistry.**<br>牙科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
+| **Introduction to Dentistry.**<br>牙科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
 | **Oral Medicine and Manifestation of Systemic Diseases.**<br>口腔医学与全身性疾病表现 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
 | **Community Oral Health Services 1.**<br>社区口腔健康服务 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
 | **Head and Neck Anatomy and Histology.**<br>头颈部解剖学与组织学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
@@ -39,10 +39,10 @@ ms.date: 2026-11-11
 | **Management of Partial Edentulism**<br>部分无牙颌的处理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
 | **Management of Complete Edentulism.**<br>完全无牙颌的处理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
 | **Periodontics**<br>牙周病学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
-| **Introduction to Development and Orthodontics.**<br>发育与正畸导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
-| **Introduction to Development and Orthodontics .**<br>发育与正畸导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
-| **Introduction to Clinical Care.**<br>临床护理导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
-| **Introduction to Clinical Care**<br>临床护理导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
+| **Introduction to Development and Orthodontics.**<br>发育与正畸入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
+| **Introduction to Development and Orthodontics .**<br>发育与正畸入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
+| **Introduction to Clinical Care.**<br>临床护理入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
+| **Introduction to Clinical Care**<br>临床护理入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
 | **Business Aspects of Dentistry.**<br>牙科商业事务 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
 | **Implantology.**<br>种植学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |
 | **Community Oral Health Services 3.**<br>社区口腔健康服务 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/) |

@@ -27,15 +27,15 @@ ms.date: 2026-11-11
 | **CALCULUS FOR ENGINEERS II**<br>工程师微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **DATA SCIENCE CONCEPTS**<br>数据科学概念 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS AND PROBABILITY WITH BIOLOGICAL APPLICATIONS**<br>生物应用的微积分与概率 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS**<br>统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS**<br>统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS I**<br>工科学生物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SCIENCE FUNDAMENTALS I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS II**<br>工科学生物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS I**<br>物理学导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **BIOCHEMISTRY AND MOLECULAR BIOLOGY**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **SCIENTIFIC METHOD IN BIOLOGY**<br>生物学中的科学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |
 | **CELL BIOLOGY**<br>细胞生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21137&SelectedCalendar=Live&ArchiveID=) |

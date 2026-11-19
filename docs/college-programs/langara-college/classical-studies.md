@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Classical Studies**<br>古典研究 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree) |
 | **Lecture Series**<br>系列讲座 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
-| **Introduction to Greek Civilization**<br>希腊文明导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
-| **Introduction to Roman Civilization**<br>罗马文明导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
+| **Introduction to Greek Civilization**<br>希腊文明入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
+| **Introduction to Roman Civilization**<br>罗马文明入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Reading and Writing about Literature**<br>文学阅读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
@@ -25,9 +25,9 @@ ms.date: 2026-11-08
 | **Beginner's Latin I**<br>初级拉丁语 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Beginner's Latin II**<br>初级拉丁语 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Western Art: Prehistory to the Renaissance**<br>西方艺术：史前至文艺复兴 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
-| **Introduction to Museum and Curatorial Studies**<br>博物馆与策展研究导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
+| **Introduction to Museum and Curatorial Studies**<br>博物馆与策展研究入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Western Art: Renaissance to the Present**<br>西方艺术：文艺复兴至今 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
-| **An Introduction to Myth and Folklore**<br>神话与民间传说导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
+| **An Introduction to Myth and Folklore**<br>神话与民间传说入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Field Techniques in Archaeology**<br>考古野外技术 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Methods in Archaeology: Laboratory Analysis**<br>考古方法：实验室分析 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Methods in Archaeology: Geospatial Analysis**<br>考古方法：地理空间分析 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
@@ -51,8 +51,8 @@ ms.date: 2026-11-08
 | **History and Religion in Islam Art**<br>伊斯兰艺术中的历史与宗教 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Special Topics II**<br>专题 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Latin and Greek Roots**<br>拉丁语与希腊语词根 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
-| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学导论：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
-| **Introduction to Philosophy: Knowledge and Reality**<br>哲学导论：知识与实在 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
+| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学入门：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
+| **Introduction to Philosophy: Knowledge and Reality**<br>哲学入门：知识与实在 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **Ancient Philosophy**<br>古代哲学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 | **The Evolution of Early Christian Thought and Spirituality**<br>早期基督教思想与灵修的演变 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/classical-studies-associate-arts-degree/courses) |
 

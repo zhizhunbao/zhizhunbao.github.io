@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Respiratory Therapy, B.R.T.**<br>呼吸治疗，B.R.T. | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/rehabilitation-sciences/respiratory-therapy-brt/) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/rehabilitation-sciences/respiratory-therapy-brt/) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/rehabilitation-sciences/respiratory-therapy-brt/) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/rehabilitation-sciences/respiratory-therapy-brt/) |
 | **Health Systems and Respiratory Care**<br>卫生系统与呼吸护理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/rehabilitation-sciences/respiratory-therapy-brt/) |
 | **Applied Physiology for Respiratory Therapy**<br>呼吸治疗应用生理学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/rehabilitation-sciences/respiratory-therapy-brt/) |
 | **Respiratory Therapeutics 1**<br>呼吸治疗学 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/rehabilitation-sciences/respiratory-therapy-brt/) |

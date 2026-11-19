@@ -23,28 +23,28 @@ ms.date: 2026-11-08
 | **Fetal Alcohol Spectrum Awareness for Human Service Professionals**<br>面向人类服务专业人员的胎儿酒精谱系认知 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Health, Wellness, and Professional Practice in Canada’s Health Care System**<br>加拿大医疗体系中的健康、福祉与专业实践 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Indigenous Approaches to Healing and Wellness**<br>原住民疗愈与健康方法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
-| **Introduction to Statistics I**<br>统计学导论 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
-| **Introduction to Statistics II**<br>统计学导论 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
+| **Introduction to Statistics I**<br>统计学入门 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
+| **Introduction to Statistics II**<br>统计学入门 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Introductory Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Introductory Calculus II**<br>微积分入门 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Linear Methods I**<br>线性方法 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Modern Physics**<br>近代物理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Human Growth And Development Across The Life Span**<br>全生命周期人类成长与发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Personality**<br>人格心理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Adolescence**<br>青春期 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Psychopathology**<br>精神病理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Sociology of Health and Illness**<br>健康与疾病社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Sociology of Death and Dying**<br>死亡与临终社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Interpersonal Relationships And Communication Skills**<br>人际关系与沟通技能 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
-| **Introduction to Pathophysiology**<br>病理生理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
+| **Introduction to Pathophysiology**<br>病理生理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Fundamentals in Math for Health Professions**<br>卫生专业数学基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Technology in the Health Care Sector**<br>医疗保健行业中的技术 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |
 | **Health Sciences Capstone**<br>健康科学毕业设计项目 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-health-sciences) |

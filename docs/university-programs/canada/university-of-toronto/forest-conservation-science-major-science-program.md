@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Forest Conservation Science Major (Science Program)**<br>森林保护科学主修（理科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Adaptation and Biodiversity**<br>适应与生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
-| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
+| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Histories of Environmental Change**<br>环境变迁的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Chemistry: Physical Principles**<br>化学：物理原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Introductory Organic Chemistry I**<br>有机化学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Environmental Biology: From Organisms to Ecosystems**<br>环境生物学：从生物体到生态系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Physics of the Changing Environment A**<br>变化环境的物理学 A | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Physics of the Changing Environment B**<br>变化环境的物理学 B | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
-| **Introduction to Climatology**<br>气候学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
+| **Introduction to Climatology**<br>气候学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Environment, Society and Resources**<br>环境、社会与资源 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Geographic Information and Mapping I**<br>地理信息与制图 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |
 | **Geographic Information and Mapping II**<br>地理信息与制图 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1102) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/veterinary-assistant) |
 | **Small Animal Health Management**<br>小动物健康管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/veterinary-assistant) |
 | **Financial Management for the Veterinary Office**<br>兽医办公室财务管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/veterinary-assistant) |
-| **Introduction to the Veterinary Profession**<br>兽医职业导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/veterinary-assistant) |
+| **Introduction to the Veterinary Profession**<br>兽医职业入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/veterinary-assistant) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/veterinary-assistant) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/veterinary-assistant) |
 | **Clinical Skills for the Veterinary Assistant**<br>兽医助理临床技能 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/veterinary-assistant) |

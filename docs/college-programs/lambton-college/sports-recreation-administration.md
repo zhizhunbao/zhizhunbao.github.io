@@ -13,14 +13,14 @@ ms.date: 2026-11-08
 | **Sports & Recreation Administration**<br>体育与康乐管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Critical Thinking & Writing**<br>批判性思维与写作 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
-| **Introduction to Sport and Recreation**<br>体育与休闲导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
+| **Introduction to Sport and Recreation**<br>体育与休闲入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Marketing Fundamentals**<br>营销基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Accounting Theory and Practice I**<br>会计理论与实践 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Job Search and Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Communications for Business**<br>商务沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Entrepreneurial Mindset**<br>创业思维 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Fundraising and Sport Sponsorship**<br>筹款与体育赞助 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |
 | **Business Mathematics II**<br>商务数学 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/sraa) |

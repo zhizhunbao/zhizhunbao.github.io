@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Concepts in Health Care**<br>医疗保健概念 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/paramedic) |
 | **Patient Care I**<br>患者护理 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/paramedic) |
 | **Patient Care I Labs**<br>患者护理 I 实验 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/paramedic) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/paramedic) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/paramedic) |
 | **Anatomy & Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/paramedic) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/paramedic) |
 | **Paramedic Clinical I**<br>急救医护实习 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/paramedic) |

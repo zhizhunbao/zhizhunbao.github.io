@@ -1,10 +1,10 @@
 ---
-title: "3.3.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy"
+title: "4.3.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy
+# 4.3.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy
 
 ## Glossary
 
@@ -35,7 +35,7 @@ ms.date: 2026-11-18
 | **Genomics**<br>基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Imaging: Biological Light Microscopy**<br>成像：生物光学显微术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Biodesign Innovation: Needs Finding and Concept Creation**<br>生物设计创新：需求发现与概念创造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
-| **Introduction to Bioengineering Research**<br>生物工程研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
+| **Introduction to Bioengineering Research**<br>生物工程研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Foundations of statistics and reproducible research**<br>统计学与可重复研究基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Stem Cell Biology and Applications**<br>干细胞生物学及应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Mass Spectrometry and Proteomics: Opening the Black Box**<br>质谱与蛋白质组学：打开黑箱 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-18
 | **Science and Art**<br>科学与艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Preparation & Practice: Biotechnology Business**<br>准备与实践：生物技术商业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Analysis of Public Companies in the Life Sciences**<br>生命科学上市公司分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
-| **Antibody Anywhere All at Once: An Introduction to Techniques in Immunology**<br>抗体瞬息全宇宙：免疫学技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
+| **Antibody Anywhere All at Once: An Introduction to Techniques in Immunology**<br>抗体瞬息全宇宙：免疫学技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Building Connections, Defining the Future of Biosciences**<br>建立联系，定义生物科学的未来 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Modeling Biomedical Systems**<br>生物医学系统建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Molecular and Genetic Basis of Cancer**<br>癌症的分子与遗传基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-18
 | **Advanced Immunology I**<br>高级免疫学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **How Cells Work: Energetics, Compartments, and Coupling in Cell Biology**<br>细胞如何运作：细胞生物学中的能量学、区室与耦合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Biology and Physics of Hearing**<br>听觉的生物学与物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
-| **Introduction to R**<br>R 语言导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
+| **Introduction to R**<br>R 语言入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Biology and Disease of Hematopoiesis**<br>造血的生物学与疾病 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Entrepreneurship: Formation of New Ventures**<br>创业：新企业的创建 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |
 | **Writing Compelling Fellowships and Career Development Awards**<br>撰写有说服力的奖学金与职业发展奖申请 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/stem-cell-biology-and-regenerative-medicine/doctor-of-philosophy) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Mechanics & Dynamics**<br>力学与动力学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/power-engineering-technology) |
 | **Phys. & Chem. Thermodynamics**<br>物理化学热力学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/power-engineering-technology) |
 | **Canada Power Eng. Leg. & Reg.**<br>加拿大动力工程法规 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/power-engineering-technology) |
-| **Intro to Plant & Fire Safety**<br>工厂与消防安全导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/power-engineering-technology) |
+| **Intro to Plant & Fire Safety**<br>工厂与消防安全入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/power-engineering-technology) |
 | **Plant Operation & Environment**<br>工厂运行与环境 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/power-engineering-technology) |
 | **Mat. Science & Welding Tech.**<br>材料科学与焊接技术 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/power-engineering-technology) |
 | **Fluid Handling Technology**<br>流体输送技术 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/power-engineering-technology) |

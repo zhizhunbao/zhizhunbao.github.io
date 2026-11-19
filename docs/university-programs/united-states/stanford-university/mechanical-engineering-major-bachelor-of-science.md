@@ -1,10 +1,10 @@
 ---
-title: "3.3.50 Mechanical Engineering, Major: Bachelor of Science"
+title: "4.3.50 Mechanical Engineering, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Mechanical Engineering, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.50 Mechanical Engineering, Major: Bachelor of Science
+# 4.3.50 Mechanical Engineering, Major: Bachelor of Science
 
 ## Glossary
 
@@ -17,10 +17,10 @@ ms.date: 2026-11-18
 | **Ordinary Differential Equations for Engineers**<br>工程师常微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Linear Algebra and Partial Differential Equations for Engineers**<br>工程师线性代数与偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Matrix Methods**<br>矩阵方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Matrix Methods**<br>矩阵方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Mechanics, Concepts, Calculations, and Context**<br>力学：概念、计算与情境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Mechanics and Special Relativity**<br>力学与狭义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-18
 | **Social and Ethical Issues in the Neurosciences**<br>神经科学中的社会与伦理问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Intro to Solid Mechanics**<br>固体力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Intro to Solid Mechanics**<br>固体力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Engineering Thermodynamics**<br>工程热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Introductory Fluids Engineering**<br>流体工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
@@ -52,7 +52,7 @@ ms.date: 2026-11-18
 | **Mechanical Engineering Design- Integrating Context with Engineering**<br>机械工程设计：将情境与工程结合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Mechanical Engineering Design: Integrating Context with Engineering**<br>机械工程设计：将情境与工程结合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Air and Space Propulsion**<br>航空与航天推进 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Mechanics of Composite Materials**<br>复合材料力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Mechanics of Composite Materials**<br>复合材料力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Principles of Robot Autonomy I**<br>机器人自主性原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Principles of Robot Autonomy II**<br>机器人自主性原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Engineering Design Optimization**<br>工程设计优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
@@ -62,17 +62,17 @@ ms.date: 2026-11-18
 | **Silver Pendant Project**<br>银吊坠项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Silversmithing and Design**<br>银饰制作与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **An Intro to Making: What is EE**<br>制作入门：什么是电子工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Nanotechnology Emphasis**<br>材料科学导论，纳米技术方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Energy Emphasis**<br>材料科学导论，能源方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Materials Science, Biomaterials Emphasis**<br>材料科学导论，生物材料方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Nanotechnology Emphasis**<br>材料科学入门，纳米技术方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Energy Emphasis**<br>材料科学入门，能源方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Materials Science, Biomaterials Emphasis**<br>材料科学入门，生物材料方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Feedback Control Design**<br>反馈控制设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Perspectives in Assistive Technology (ENGR 110)**<br>辅助技术视角 (ENGR 110) | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Control Design Techniques**<br>控制设计技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Control Design Techniques**<br>控制设计技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Thermodynamic Evaluation of Green Energy Technologies**<br>绿色能源技术的热力学评估 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Microstructure and Mechanical Properties**<br>微观结构与力学性能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Mechanical Properties of Materials**<br>材料的力学性能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Deformable Bodies**<br>可变形体导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Deformable Bodies**<br>可变形体入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Design for Additive Manufacturing**<br>增材制造设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Computer-Aided Product Realization**<br>计算机辅助产品实现 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Manufacturing Processes and Design**<br>制造工艺与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
@@ -81,24 +81,24 @@ ms.date: 2026-11-18
 | **Material Behaviors and Failure Prediction**<br>材料行为与失效预测 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Mechanical Engineering Design - Integrating Context with Engineering III**<br>机械工程设计：将情境与工程结合 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Advanced Mechanical Systems Design**<br>高级机械系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Engineering Design Analytics for Product Realization**<br>面向产品实现的工程设计分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Neuromechanics**<br>神经力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Neuromechanics**<br>神经力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Biotransport Phenomena**<br>生物传输现象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Gas-Turbine Design Analysis**<br>燃气轮机设计分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Biomechanics of Movement**<br>运动生物力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Computational Modeling in the Cardiovascular System**<br>心血管系统的计算建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Mechanics of Biological Tissues**<br>生物组织力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Soft Composites and Soft Robotics**<br>软复合材料与软体机器人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Design and Control of Haptic Systems**<br>触觉系统的设计与控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Advanced Dynamics & Computation**<br>高级动力学与计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Finite Element Analysis**<br>有限元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Continuum Mechanics**<br>连续介质力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Fundamentals of Heat Conduction**<br>热传导基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Convective Heat Transfer**<br>对流传热 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
@@ -106,7 +106,7 @@ ms.date: 2026-11-18
 | **Energy Systems I: Thermodynamics**<br>能源系统 I：热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Combustion Fundamentals**<br>燃烧基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Modeling and Simulation of Human Movement**<br>人体运动建模与仿真 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 | **Honors Research**<br>荣誉研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/mechanical-engineering/bachelor-of-science) |
 
 ## Courses

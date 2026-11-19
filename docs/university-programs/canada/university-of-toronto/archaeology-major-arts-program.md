@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Archaeology Major (Arts Program)**<br>考古学主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
-| **Introduction to Classical Studies**<br>古典学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
+| **Introduction to Classical Studies**<br>古典学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Greek and Roman Archaeology**<br>希腊与罗马考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
-| **Introduction to Greek History**<br>希腊史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
-| **Introduction to Roman History**<br>罗马史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
+| **Introduction to Greek History**<br>希腊史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
+| **Introduction to Roman History**<br>罗马史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Prehistoric Aegean and East Mediterranean Art and Archaeology**<br>史前爱琴海与东地中海艺术与考古 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Greek and Roman Art and Archaeology**<br>希腊与罗马艺术与考古 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Histories of Environmental Change**<br>环境变迁的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Anthropologists and Indigenous Peoples in North America**<br>人类学家与北美原住民 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Fight the Power!: A Global History of Resistance and Revolution**<br>对抗权力！抵抗与革命的全球史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Indigenous Archaeologies**<br>原住民考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
-| **Introduction to Social Anthropological Theory**<br>社会人类学理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
+| **Introduction to Social Anthropological Theory**<br>社会人类学理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Landscape Archaeology**<br>景观考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Advanced Archaeological Theory**<br>高级考古理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Archaeology of Ritual and Identity**<br>仪式与身份考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-11
 | **Archaeology in War Zones: Syria, Iraq, Afghanistan**<br>战区考古学：叙利亚、伊拉克、阿富汗 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Archaeologies of Power**<br>权力考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Data Science Applications in Archaeology**<br>考古学中的数据科学应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
-| **Introduction to Instrumental Methods of Analysis**<br>仪器分析方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
+| **Introduction to Instrumental Methods of Analysis**<br>仪器分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Biosensors and Chemical Sensors**<br>生物传感器与化学传感器 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Separation Science**<br>分离科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Environmental Remote Sensing**<br>环境遥感 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-11
 | **Geographic Information and Mapping II**<br>地理信息与制图 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Advanced Geographic Information Systems**<br>高级地理信息系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Field Methods**<br>田野方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
-| **Introduction to Geological Field Methods**<br>地质野外方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
+| **Introduction to Geological Field Methods**<br>地质野外方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Sedimentation and Stratigraphy**<br>沉积作用与地层学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Human Skeletal Biology**<br>人体骨骼生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |
 | **Human Evolution**<br>人类进化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0155) |

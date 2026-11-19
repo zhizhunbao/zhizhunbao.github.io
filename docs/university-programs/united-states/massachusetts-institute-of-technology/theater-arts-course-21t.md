@@ -1,17 +1,17 @@
 ---
-title: "3.2.53 Theater Arts (Course 21T)"
+title: "4.2.53 Theater Arts (Course 21T)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Theater Arts (Course 21T): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.53 Theater Arts (Course 21T)
+# 4.2.53 Theater Arts (Course 21T)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Theater Arts (Course 21T)**<br>戏剧艺术（Course 21T） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/theater-arts-course-21t/) |
-| **Introduction to Acting**<br>表演导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/theater-arts-course-21t/) |
+| **Introduction to Acting**<br>表演入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/theater-arts-course-21t/) |
 | **Physical Improvisation: Bodies in Motion**<br>肢体即兴：运动中的身体 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/theater-arts-course-21t/) |
 | **Fundamentals of Theater Design**<br>戏剧设计基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/theater-arts-course-21t/) |
 | **Performance Media**<br>表演媒体 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/theater-arts-course-21t/) |

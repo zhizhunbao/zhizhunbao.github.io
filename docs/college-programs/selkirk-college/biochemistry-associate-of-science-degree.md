@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Fundamental Physics I**<br>基础物理 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/biochemistry-associate-science-degree) |
 | **Biology II**<br>生物学 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/biochemistry-associate-science-degree) |
 | **Foundations Of Chemistry II**<br>化学基础 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/biochemistry-associate-science-degree) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/biochemistry-associate-science-degree) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/biochemistry-associate-science-degree) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/biochemistry-associate-science-degree) |
 | **Basic Physics II**<br>基础物理 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/biochemistry-associate-science-degree) |
 | **Fundamental Physics II**<br>基础物理 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/biochemistry-associate-science-degree) |

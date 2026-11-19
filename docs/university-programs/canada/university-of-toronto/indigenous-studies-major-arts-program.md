@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Indigenous Studies Major (Arts Program)**<br>原住民研究主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Indigenous Studies: Foundations**<br>原住民研究导论：基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Indigenous Studies: History & Politics**<br>原住民研究导论：历史与政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Anishinaabemowin**<br>阿尼什纳比语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Kanien’kéha (Mohawk Language)**<br>Kanien’kéha（莫霍克语）导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Inuktitut**<br>因纽特语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Indigenous Studies: Foundations**<br>原住民研究入门：基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Indigenous Studies: History & Politics**<br>原住民研究入门：历史与政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Anishinaabemowin**<br>阿尼什纳比语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Kanien’kéha (Mohawk Language)**<br>Kanien’kéha（莫霍克语）入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Inuktitut**<br>因纽特语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Elementary Inuktitut**<br>初级因纽特语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Indigenous Languages and Cultures**<br>原住民语言与文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Understanding Indigenous Language Vitality and Endangerment**<br>理解原住民语言的活力与濒危 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
@@ -23,9 +23,9 @@ ms.date: 2026-11-11
 | **Indigenous Politics in Canada**<br>加拿大的原住民政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Indigenous Worlds, Worldviews and the Environment**<br>原住民世界、世界观与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Research and Ethics in Indigenous Studies**<br>原住民研究中的研究与伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Indigenous Worldviews, Spiritual and Healing Traditions**<br>原住民世界观、精神与疗愈传统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Indigenous Environmental Studies**<br>原住民环境研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Indigenous Environmental Studies**<br>原住民环境研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Contemporary Challenges Facing Indigenous Communities**<br>原住民社区面临的当代挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Indigenous Representation in the Mass Media and Society**<br>大众传媒与社会中的原住民表现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Anishinaabemowin II**<br>阿尼什纳比语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-11
 | **Indigenous Peoples & Criminal Justice**<br>原住民与刑事司法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Indigenous Law**<br>原住民法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Theorizing Settler Colonialism, Capitalism and Race**<br>殖民定居主义、资本主义与种族的理论化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Indigenous Literatures**<br>原住民文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Indigenous Literatures**<br>原住民文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Art of Indigenous North America**<br>北美原住民艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Contemporary Indigenous Art in Canada and the United States**<br>加拿大与美国当代原住民艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Canada: A Short History of Here**<br>加拿大：本地简史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
@@ -65,7 +65,7 @@ ms.date: 2026-11-11
 | **Revitalizing Languages**<br>语言复兴 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Creation Narratives and Epistemologies**<br>创世叙事与认识论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Queer Indigenous Politics and Cultures**<br>酷儿原住民政治与文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Social Cultural Anthropology and Global Issues**<br>社会文化人类学与全球议题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Archaeological Fieldwork**<br>考古田野工作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Archaeology of Eastern North America**<br>北美东部考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
@@ -75,8 +75,8 @@ ms.date: 2026-11-11
 | **Inka and Aztec States**<br>印加与阿兹特克国家 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Caribbean Societies**<br>加勒比社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Caribbean Political Thought**<br>加勒比政治思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Early Canadian Literature**<br>早期加拿大文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Topics in Indigenous, Postcolonial, Transnational Literatures**<br>原住民、后殖民、跨国文学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **The African Diaspora in the Americas, 1492-1804**<br>美洲的非洲离散群体，1492-1804年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
@@ -89,7 +89,7 @@ ms.date: 2026-11-11
 | **Indigenous Realities in Latin America**<br>拉丁美洲的原住民现实 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Sociolinguistic Patterns in Language**<br>语言中的社会语言学模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 | **Museums and Material Religion**<br>博物馆与物质宗教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
-| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
+| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0115) |
 
 ## Courses
 

@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Server-Side Web Programming**<br>服务器端网页编程 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cmpa/) |
 | **Applied Problem Solving in Computing 2**<br>计算机应用问题解决 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cmpa/) |
 | **Relational Databases 2**<br>关系数据库 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cmpa/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cmpa/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cmpa/) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cmpa/) |
 | **Full-Stack Web Development**<br>全栈 Web 开发 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cmpa/) |
 | **Cloud Computing Services**<br>云计算服务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cmpa/) |

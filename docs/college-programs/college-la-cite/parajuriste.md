@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Parajuriste**<br>法律助理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51639) |
-| **Introduction au système judiciaire**<br>司法体系导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51639) |
+| **Introduction au système judiciaire**<br>司法体系入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51639) |
 | **Outils de travail informatiques en milieu juridique**<br>法律领域计算机工作工具 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51639) |
 | **Communication et rédaction en milieu juridique**<br>法律环境中的沟通与写作 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51639) |
 | **Recherche et rédaction juridiques**<br>法律研究与写作 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51639) |

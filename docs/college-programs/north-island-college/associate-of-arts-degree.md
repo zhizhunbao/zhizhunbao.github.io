@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Introductory Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/associate-of-arts-degree.html) |
 | **Introductory Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/associate-of-arts-degree.html) |
 | **Research Methods in Psychology**<br>心理学研究方法 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/associate-of-arts-degree.html) |
-| **Intro to Data Analysis in Psychology**<br>心理学数据分析导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/associate-of-arts-degree.html) |
+| **Intro to Data Analysis in Psychology**<br>心理学数据分析入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/associate-of-arts-degree.html) |
 
 ## Courses
 

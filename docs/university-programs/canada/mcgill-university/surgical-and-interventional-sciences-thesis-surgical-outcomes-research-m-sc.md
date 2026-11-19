@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Regression Analysis for Health Sciences.**<br>健康科学回归分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/surgical-interventional-sciences-thesis-surgical-outcomes-research-msc/) |
 | **Knowledge Synthesis.**<br>知识综合 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/surgical-interventional-sciences-thesis-surgical-outcomes-research-msc/) |
 | **Fundamentals of AI in Medicine**<br>医学人工智能基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/surgical-interventional-sciences-thesis-surgical-outcomes-research-msc/) |
-| **Introduction to Qualitative Research in Health.**<br>健康领域定性研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/surgical-interventional-sciences-thesis-surgical-outcomes-research-msc/) |
+| **Introduction to Qualitative Research in Health.**<br>健康领域定性研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/surgical-interventional-sciences-thesis-surgical-outcomes-research-msc/) |
 | **Economics for Health Services Research and Policy.**<br>卫生服务研究与政策经济学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/surgical-interventional-sciences-thesis-surgical-outcomes-research-msc/) |
 
 ## Courses

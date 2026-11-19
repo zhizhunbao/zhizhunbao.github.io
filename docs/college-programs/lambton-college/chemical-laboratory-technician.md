@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **General Chemistry III**<br>普通化学 III | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/clab) |
 | **Statistics for Technology**<br>技术统计 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/clab) |
 | **Analytical - Physical & Spectometry Methods**<br>分析 - 物理与光谱方法 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/clab) |
-| **Introduction to Industrial Chemical Processes**<br>工业化学过程导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/clab) |
+| **Introduction to Industrial Chemical Processes**<br>工业化学过程入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/clab) |
 | **Biotechnology**<br>生物技术 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/clab) |
 | **Quality Assurance & Control**<br>质量保证与控制 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/clab) |
 | **Analytical - Separation & Imaging Methods**<br>分析 - 分离与成像方法 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/clab) |

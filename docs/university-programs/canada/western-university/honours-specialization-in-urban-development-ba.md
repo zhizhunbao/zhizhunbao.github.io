@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **HONOURS SPECIALIZATION IN URBAN DEVELOPMENT - BA**<br>城市发展荣誉专业方向－BA | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **FUNDAMENTALS OF GEOGRAPHY**<br>地理学基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **THE CLIMATE EMERGENCY**<br>气候紧急状态 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE PHYSICAL ENVIRONMENT**<br>自然环境导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE HUMAN ENVIRONMENT**<br>人类环境导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE PHYSICAL ENVIRONMENT**<br>自然环境入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE HUMAN ENVIRONMENT**<br>人类环境入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENT AND DEVELOPMENT CHALLENGES**<br>环境与发展挑战 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENTAL SCIENCE AND SUSTAINABILITY**<br>环境科学与可持续性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MICROECONOMICS**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
@@ -26,10 +26,10 @@ ms.date: 2026-11-11
 | **ENVIRONMENT, ECONOMY AND SOCIETY**<br>环境、经济与社会 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTHY CITIES**<br>健康城市 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **PLANNING SUSTAINABLE CITIES**<br>可持续城市规划 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS FOR GEOGRAPHERS**<br>地理学者统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS FOR GEOGRAPHERS**<br>地理学者统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **GEOGRAPHIC INFORMATION SCIENCE I**<br>地理信息科学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **ECONOMIC GEOGRAPHY**<br>经济地理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO URBAN DEVELOPMENT**<br>城市发展导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO URBAN DEVELOPMENT**<br>城市发展入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **TRANSPORTATION GEOGRAPHY AND GIS**<br>交通地理学与 GIS | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **LAND USE AND DEVELOPMENT ISSUES**<br>土地利用与开发问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **LAND USE PLANNING**<br>土地利用规划 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
@@ -87,9 +87,9 @@ ms.date: 2026-11-11
 | **ECONOMIC ANALYSIS OF LAW: PROPERTY RIGHTS AND CONTRACTS**<br>法律的经济分析：产权与合同 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **COST-BENEFIT ANALYSIS**<br>成本效益分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **CORPORATE FINANCE**<br>公司金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LAW**<br>法律导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LAW: THE INDIVIDUAL AND THE STATE**<br>法律导论：个人与国家 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LAW: INDIVIDUAL AND COMMERCIAL RELATIONS**<br>法律导论：个人与商业关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LAW**<br>法律入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LAW: THE INDIVIDUAL AND THE STATE**<br>法律入门：个人与国家 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LAW: INDIVIDUAL AND COMMERCIAL RELATIONS**<br>法律入门：个人与商业关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **MUNICIPAL LAW**<br>市政法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **REAL ESTATE LAW**<br>房地产法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **PLANNING LAW**<br>规划法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
@@ -100,8 +100,8 @@ ms.date: 2026-11-11
 | **POPULATION STUDIES**<br>人口研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL MIGRATION IN A GLOBALIZED WORLD**<br>全球化世界中的国际移民 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 | **CRIME AND THE CITY**<br>犯罪与城市 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
-| **WRITING IN THE WORLD: INTRODUCTION TO PROFESSIONAL WRITING**<br>世界中的写作：专业写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
+| **WRITING IN THE WORLD: INTRODUCTION TO PROFESSIONAL WRITING**<br>世界中的写作：专业写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21038&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

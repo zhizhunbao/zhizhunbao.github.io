@@ -23,9 +23,9 @@ ms.date: 2026-11-11
 | **Supervised Research Project 2.**<br>指导研究项目 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
 | **Supervised Research Project 3.**<br>指导研究项目 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
 | **Planning Law.**<br>规划法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
-| **Introduction to Planning Statistics.**<br>规划统计导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
+| **Introduction to Planning Statistics.**<br>规划统计入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
 | **Reading the Urban Landscape .**<br>解读城市景观 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
-| **Introduction to Planning Data.**<br>规划数据导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
+| **Introduction to Planning Data.**<br>规划数据入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
 | **Sustainable Design.**<br>可持续设计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
 | **Urban Transportation Planning.**<br>城市交通规划 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |
 | **Greenhouse Gas Emissions.**<br>温室气体排放 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/urban-planning/urban-planning-non-thesis-mup/) |

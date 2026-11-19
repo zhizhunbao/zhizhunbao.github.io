@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Histories of Indigenous Peoples and Kanata after 1870**<br>1870 年后的原住民与加拿大史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110647&returnto=20851) |
 | **Indian Residential Schooling in Canada**<br>加拿大印第安寄宿学校教育 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110647&returnto=20851) |
 | **Topics in Indigenous Histories - Global and Local**<br>原住民历史专题：全球与本土 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110647&returnto=20851) |
-| **Introduction to Indigenous Legal Issues**<br>原住民法律问题导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110647&returnto=20851) |
+| **Introduction to Indigenous Legal Issues**<br>原住民法律问题入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110647&returnto=20851) |
 | **Indigenous Economies**<br>原住民经济 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110647&returnto=20851) |
 | **Indigenous Legal Systems**<br>原住民法律体系 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110647&returnto=20851) |
 | **Governance in Indigenous Nations**<br>原住民民族的治理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110647&returnto=20851) |

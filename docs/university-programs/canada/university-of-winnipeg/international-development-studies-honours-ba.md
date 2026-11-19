@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **International Development Studies, Honours BA**<br>国际发展研究，荣誉 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to International Development Studies**<br>国际发展研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to International Development Studies**<br>国际发展研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Participatory Local Development**<br>参与式地方发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Development Ethics**<br>发展伦理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Development Aid Policy and Practise**<br>发展援助政策与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
@@ -22,10 +22,10 @@ ms.date: 2026-11-11
 | **A History of the Developing World**<br>发展中世界史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **African Development Issues**<br>非洲发展问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Regional Development Issues**<br>区域发展问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Economic Theory**<br>经济理论导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Economic Development**<br>经济发展导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Economics: Micro**<br>经济学导论：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Economics: Macro**<br>经济学导论：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Economic Theory**<br>经济理论入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Economic Development**<br>经济发展入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Economics: Micro**<br>经济学入门：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Economics: Macro**<br>经济学入门：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **History of Anthropology**<br>人类学史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Semiotics and Structuralism**<br>符号学与结构主义 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Peace Theory and Practice**<br>和平理论与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **Intermediate Economics: Macro**<br>中级经济学：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **History of Economic Thought I**<br>经济思想史 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **History of Economic Thought II**<br>经济思想史 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Critical Theory: An Introduction**<br>批判理论导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Critical Theory: An Introduction**<br>批判理论入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Social and Political Philosophy**<br>社会与政治哲学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Moral Philosophy**<br>道德哲学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Violence, Hegemony and the Rise of Mass Politics**<br>暴力、霸权与大众政治的兴起 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
@@ -56,14 +56,14 @@ ms.date: 2026-11-11
 | **Research Methods and Design**<br>研究方法与设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Research Projects**<br>研究项目 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Environmental Impact Assessment**<br>环境影响评价 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Oral History**<br>口述史导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Oral History**<br>口述史入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Ethnoecology: A Research Approach**<br>民族生态学：一种研究途径 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Indigenous Research Methodologies and Ethics**<br>原住民研究方法论与伦理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Rhetorical Criticism**<br>修辞批评 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Quantitative Research Methods**<br>定量研究方法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
-| **Introduction to Research Design and Qualitative Research**<br>研究设计与定性研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Quantitative Research Methods**<br>定量研究方法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
+| **Introduction to Research Design and Qualitative Research**<br>研究设计与定性研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Seminar in Quantitative Research**<br>定量研究研讨课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Seminar in Qualitative Research**<br>定性研究研讨课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |
 | **Statistical Analysis I**<br>统计分析 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=5) |

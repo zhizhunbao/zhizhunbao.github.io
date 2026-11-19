@@ -16,14 +16,14 @@ ms.date: 2026-11-11
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Applied Linear Models and Process Improvement for Business**<br>应用线性模型与商务流程改进 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Survey Sampling and Experimental Design Techniques for Business**<br>商业调查抽样与实验设计技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
-| **Introduction to Optimization**<br>最优化导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
-| **Introduction to Optimization (Advanced Level)**<br>最优化导论（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
+| **Introduction to Optimization**<br>最优化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
+| **Introduction to Optimization (Advanced Level)**<br>最优化入门（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Understanding the Business Environment (WLU)**<br>理解商业环境（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Critical Thinking and Communication Skills (WLU)**<br>批判性思维与沟通技能（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
-| **Introduction to Financial Accounting (WLU)**<br>财务会计导论（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
+| **Introduction to Financial Accounting (WLU)**<br>财务会计入门（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Business Law (WLU)**<br>商法（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Managerial Accounting (WLU)**<br>管理会计（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
-| **Introduction to Marketing Management (WLU)**<br>市场营销管理导论（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
+| **Introduction to Marketing Management (WLU)**<br>市场营销管理入门（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Financial Management 1 (WLU)**<br>财务管理 1（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Organizational Behaviour 1 (WLU)**<br>组织行为学 1（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Human Resources Management (WLU)**<br>人力资源管理（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
@@ -33,8 +33,8 @@ ms.date: 2026-11-11
 | **Financial Management 2 (WLU)**<br>财务管理 2（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Organizational Behaviour 2 (WLU)**<br>组织行为学 2（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 | **Strategic Management II (WLU)**<br>战略管理 II（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
-| **Introduction to Microeconomics (WLU)**<br>微观经济学导论（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
-| **Introduction to Macroeconomics (WLU)**<br>宏观经济学导论（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
+| **Introduction to Microeconomics (WLU)**<br>微观经济学入门（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
+| **Introduction to Macroeconomics (WLU)**<br>宏观经济学入门（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HJbRkyC0j3) |
 
 ## Courses
 

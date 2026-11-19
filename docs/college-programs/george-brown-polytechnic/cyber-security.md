@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Cyber Security**<br>网络安全 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
 | **Networking Technologies Fundamentals**<br>网络技术基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
-| **Introduction to SOC**<br>SOC导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
+| **Introduction to SOC**<br>SOC入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
 | **Legality and Compliance in Security**<br>安全中的合法性与合规 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
-| **Intro to Cyberspace Security**<br>网络空间安全导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
+| **Intro to Cyberspace Security**<br>网络空间安全入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
 | **Risk Analysis**<br>风险分析 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
 | **SETA Development and Delivery**<br>SETA开发与交付 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |
 | **Cryptography and Network Security**<br>密码学与网络安全 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/cyber-security-program-postgraduate-t433) |

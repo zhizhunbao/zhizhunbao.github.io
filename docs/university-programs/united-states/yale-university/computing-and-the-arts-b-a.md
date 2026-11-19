@@ -1,10 +1,10 @@
 ---
-title: "3.4.24 Computing and the Arts (B.A.)"
+title: "4.4.24 Computing and the Arts (B.A.)"
 description: "University Programs > United States > Yale University > Computing and the Arts (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.24 Computing and the Arts (B.A.)
+# 4.4.24 Computing and the Arts (B.A.)
 
 ## Glossary
 
@@ -13,11 +13,11 @@ ms.date: 2026-11-18
 | **Computing and the Arts (B.A.)**<br>计算与艺术（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
 | **Visual Thinking**<br>视觉思维 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
 | **Basic Drawing**<br>基础素描 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
 | **Mathematical Tools for Computer Science**<br>计算机科学数学工具 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
 | **Data Structures and Programming Techniques**<br>数据结构与编程技术 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
 | **Senior Project**<br>毕业项目 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
-| **Introduction to Architecture**<br>建筑学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
+| **Introduction to Architecture**<br>建筑学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
 | **Architecture Before Modernity**<br>现代以前的建筑 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
 | **Database Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |
 | **Computational Vision and Biological Perception**<br>计算视觉与生物感知 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/) |

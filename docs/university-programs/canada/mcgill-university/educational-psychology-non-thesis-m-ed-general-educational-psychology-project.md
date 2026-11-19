@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Leadership and Support Roles of the Teacher.**<br>教师的领导与支持角色 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-general-project/) |
 | **Career as a Lifelong Process.**<br>作为终身过程的职业 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-general-project/) |
 | **Gender Identity Development.**<br>性别认同发展 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-general-project/) |
-| **Introduction to Learning Sciences**<br>学习科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-general-project/) |
+| **Introduction to Learning Sciences**<br>学习科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-general-project/) |
 | **Seminar in Special Topics 1 .**<br>特殊专题研讨课 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-general-project/) |
 | **Seminar in Special Topics 2.**<br>特殊专题研讨课 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-general-project/) |
 | **Cognitive Development.**<br>认知发展 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ecp/psychology-non-thesis-med-general-project/) |

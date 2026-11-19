@@ -1,10 +1,10 @@
 ---
-title: "3.3.180 Geophysics, Doctor of Philosophy"
+title: "4.3.180 Geophysics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Geophysics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.180 Geophysics, Doctor of Philosophy
+# 4.3.180 Geophysics, Doctor of Philosophy
 
 ## Glossary
 
@@ -13,16 +13,16 @@ ms.date: 2026-11-18
 | **Geophysics, Doctor of Philosophy**<br>地球物理学，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Imaging with Incomplete Information**<br>不完全信息成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Data Science for Geoscience**<br>地球科学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Exploring Geosciences with MATLAB**<br>用 MATLAB 探索地球科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Computational Engineering**<br>计算工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Numerical Linear Algebra**<br>数值线性代数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Computational Methods of Applied Mathematics**<br>应用数学计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Spectral Methods in Computational Physics**<br>计算物理中的谱方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Programming for performance**<br>高性能编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Computational Earth System Analysis**<br>计算地球系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-18
 | **Near-Surface Geophysics: Imaging Groundwater Systems**<br>近地表地球物理：地下水系统成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Ice Penetrating Radar**<br>冰穿透雷达 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Seismic Reservoir Characterization**<br>地震储层表征 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
-| **Introduction to Radar Remote Sensing**<br>雷达遥感导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
+| **Introduction to Radar Remote Sensing**<br>雷达遥感入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Imaging Radar and Applications**<br>成像雷达及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **3-D Seismic Imaging**<br>3-D地震成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |
 | **Geophysical Inverse Problems**<br>地球物理反演问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/doctor-of-philosophy) |

@@ -17,8 +17,8 @@ ms.date: 2026-11-11
 | **History of Moral Philosophy**<br>道德哲学史 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-ba-honours/) |
 | **History of Political Philosophy**<br>政治哲学史 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-ba-honours/) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-ba-honours/) |
-| **Introduction to Logic**<br>逻辑学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-ba-honours/) |
-| **Introduction to Probability and Inductive Logic**<br>概率与归纳逻辑导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-ba-honours/) |
+| **Introduction to Logic**<br>逻辑学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-ba-honours/) |
+| **Introduction to Probability and Inductive Logic**<br>概率与归纳逻辑入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-ba-honours/) |
 | **Greek Geometry**<br>希腊几何 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-ba-honours/) |
 
 ## Courses

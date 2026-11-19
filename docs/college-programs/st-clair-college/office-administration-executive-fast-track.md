@@ -13,14 +13,14 @@ ms.date: 2026-11-08
 | **Office Administration - Executive (Fast Track)**<br>办公室管理：行政（快读） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Language Fundamentals**<br>语言基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
-| **Introduction to Keyboarding**<br>键盘输入导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
+| **Introduction to Keyboarding**<br>键盘输入入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Essential Business Calculations**<br>基本商业计算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Business For The Office Assistant**<br>办公助理商务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
-| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
+| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
-| **Introduction To Computer Technology**<br>计算机技术导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
+| **Introduction To Computer Technology**<br>计算机技术入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Accounting For The Office Assistant**<br>办公助理会计 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
-| **Introduction To Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
+| **Introduction To Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Advanced Word Processing And Documents**<br>高级文字处理与文档 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Keyboarding And Transcription**<br>键盘输入与转录 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |
 | **Electronic Spreadsheets And Databases**<br>电子表格与数据库 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive-fast-track) |

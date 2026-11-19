@@ -12,16 +12,16 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Work and Organizations Major: Humanities Contexts (Arts Program)**<br>工作与组织主修：人文学科情境（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Effective Writing**<br>有效写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to German**<br>德语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to German b**<br>德语导论 b | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to German Culture (E)**<br>德国文化导论 (E) | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to German**<br>德语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to German b**<br>德语入门 b | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to German Culture (E)**<br>德国文化入门 (E) | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **The Development of European Civilization, 1350-1945**<br>欧洲文明的发展，1350-1945年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to History and Philosophy of Science and Technology**<br>科学技术史与科学技术哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to History and Philosophy of Science and Technology**<br>科学技术史与科学技术哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **The Science of Human Nature**<br>人性科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **How to Think about Science**<br>如何思考科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Ancient Wisdom, Modern Insights: A Historical Introduction to Philosophy**<br>古代智慧，现代洞见：哲学史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **What Should I Believe? An Introduction to Philosophical Issues**<br>我应该相信什么？哲学议题导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to Work and Organizations**<br>工作与组织导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Ancient Wisdom, Modern Insights: A Historical Introduction to Philosophy**<br>古代智慧，现代洞见：哲学史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **What Should I Believe? An Introduction to Philosophical Issues**<br>我应该相信什么？哲学议题入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to Work and Organizations**<br>工作与组织入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Effective Communication and Strategic Writing in Organizations**<br>组织中的有效沟通与战略写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
@@ -29,12 +29,12 @@ ms.date: 2026-11-11
 | **Management Skills for Project and Strategy Implementation**<br>项目与战略实施的管理技能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Research and Data Analytics**<br>研究与数据分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Statistics for Work and Organizations**<br>工作与组织统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Biostatistics for Biological Sciences**<br>生物科学生物统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Introductory Analytical Methods**<br>分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to Quantitative Reasoning I**<br>定量推理导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to Quantitative Reasoning I**<br>定量推理入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Probability, Statistics and Data Analysis II**<br>概率、统计与数据分析 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Statistics for Computer Scientists**<br>计算机科学家统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
@@ -57,8 +57,8 @@ ms.date: 2026-11-11
 | **The Progressive Era and Rise of Big Business in America**<br>美国的进步时代与大企业的兴起 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **The Short Story**<br>短篇小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **The Canadian Short Story**<br>加拿大短篇小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to Indigenous Literatures**<br>原住民文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to Indigenous Literatures**<br>原住民文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **The Digital Text**<br>数字文本 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **New Writing in Canada**<br>加拿大新写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Topics in Indigenous, Postcolonial, Transnational Literatures**<br>原住民、后殖民、跨国文学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
@@ -76,7 +76,7 @@ ms.date: 2026-11-11
 | **Religion in the Public Sphere: Community-Engaged Learning**<br>公共领域中的宗教：社区参与式学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Religion and Economy**<br>宗教与经济 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Money and Economy in German Literature and Culture (E)**<br>德国文学与文化中的货币与经济（E） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
-| **Introduction to Business German**<br>商务德语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
+| **Introduction to Business German**<br>商务德语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Global Issues - German Contexts (E)**<br>全球议题：德语语境 (E) | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **Contemporary German Culture and Media**<br>当代德国文化与媒体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |
 | **German Business Culture**<br>德国商业文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1532) |

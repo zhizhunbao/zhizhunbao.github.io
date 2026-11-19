@@ -1,10 +1,10 @@
 ---
-title: "3.3.108 Geophysics, Master of Science"
+title: "4.3.108 Geophysics, Master of Science"
 description: "University Programs > United States > Stanford University > Geophysics, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.108 Geophysics, Master of Science
+# 4.3.108 Geophysics, Master of Science
 
 ## Glossary
 
@@ -13,16 +13,16 @@ ms.date: 2026-11-18
 | **Geophysics, Master of Science**<br>地球物理学，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Data Science for Geoscience**<br>地球科学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Imaging with Incomplete Information**<br>不完全信息成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Computational Engineering**<br>计算工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Exploring Geosciences with MATLAB**<br>用 MATLAB 探索地球科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Numerical Linear Algebra**<br>数值线性代数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Computational Methods of Applied Mathematics**<br>应用数学计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Spectral Methods in Computational Physics**<br>计算物理中的谱方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Programming for performance**<br>高性能编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Computational Earth System Analysis**<br>计算地球系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-18
 | **Introductory Seismology**<br>地震学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Near-Surface Geophysics: Imaging Groundwater Systems**<br>近地表地球物理：地下水系统成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Ice Penetrating Radar**<br>冰穿透雷达 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
-| **Introduction to Radar Remote Sensing**<br>雷达遥感导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
+| **Introduction to Radar Remote Sensing**<br>雷达遥感入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Imaging Radar and Applications**<br>成像雷达及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **3-D Seismic Imaging**<br>3-D地震成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |
 | **Geophysical Inverse Problems**<br>地球物理反演问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/geophysics/master-of-science) |

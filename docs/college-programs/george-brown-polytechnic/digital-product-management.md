@@ -15,11 +15,11 @@ ms.date: 2026-11-08
 | **Quantitative Research/Qualitative Research**<br>定量研究/定性研究 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
 | **Foundations of Business Analysis**<br>商业分析基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
 | **Foundations of Product Management and Product Ownership**<br>产品管理与产品负责制基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
 | **Capstone I**<br>毕业设计项目 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
 | **Analytics: Metrics, KPI, Reporting and Dashboards**<br>分析：指标、KPI、报告与仪表盘 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
 | **Agile Product Management**<br>敏捷产品管理 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
-| **Introduction to UI/UX**<br>UI/UX导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
+| **Introduction to UI/UX**<br>UI/UX入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
 | **Product Marketing and Commercialization**<br>产品营销与商业化 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
 | **Technical Writing and Communications**<br>技术写作与沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |
 | **Advanced Product Management and Product Ownership**<br>高级产品管理与产品负责制 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/digital-product-management-t428) |

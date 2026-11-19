@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Autism & Behavioural Science**<br>孤独症与行为科学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/autism-behavioural-science) |
 | **Intro To Applied Behaviour Analysis**<br>应用行为分析入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/autism-behavioural-science) |
-| **Introduction To Autism Spectrum Disorder**<br>自闭症谱系障碍导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/autism-behavioural-science) |
+| **Introduction To Autism Spectrum Disorder**<br>自闭症谱系障碍入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/autism-behavioural-science) |
 | **Working With Families & Teams**<br>与家庭和团队合作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/autism-behavioural-science) |
 | **Field Placement I**<br>现场实习 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/autism-behavioural-science) |
 | **Specialized Instructional Strategies**<br>专门教学策略 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/autism-behavioural-science) |

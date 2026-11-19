@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Web Interface Design**<br>网页界面设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online) |
 | **Functions and Number Systems**<br>函数与数系 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online) |
-| **Introduction to Database Concepts**<br>数据库概念导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online) |
+| **Introduction to Database Concepts**<br>数据库概念入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online) |
 | **Programming 2**<br>编程 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online) |
 | **Client-Side Web Development**<br>客户端Web开发 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online) |
 | **Software Requirements Engineering**<br>软件需求工程 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online) |

@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Commercial Agriculture Production, 1-year Post-Bachelor Certificate**<br>商业化农业生产，1年制学士后证书 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/post-bachelor-commercial-agriculture-production/index.html) |
-| **Introduction to Diseases and Treatments**<br>疾病与治疗导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/post-bachelor-commercial-agriculture-production/index.html) |
-| **Introduction to Animal Science and Business Communications**<br>动物科学与商务沟通导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/post-bachelor-commercial-agriculture-production/index.html) |
+| **Introduction to Diseases and Treatments**<br>疾病与治疗入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/post-bachelor-commercial-agriculture-production/index.html) |
+| **Introduction to Animal Science and Business Communications**<br>动物科学与商务沟通入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/post-bachelor-commercial-agriculture-production/index.html) |
 | **Animal Handling, Welfare and Ethics**<br>动物保定、福利与伦理 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/post-bachelor-commercial-agriculture-production/index.html) |
 | **Livestock Marketing and Sales**<br>家畜营销与销售 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/post-bachelor-commercial-agriculture-production/index.html) |
 | **Beef Technology and Sustainability**<br>肉牛技术与可持续性 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/agricultural-sciences/post-bachelor-commercial-agriculture-production/index.html) |

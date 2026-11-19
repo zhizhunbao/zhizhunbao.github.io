@@ -13,14 +13,14 @@ ms.date: 2026-11-08
 | **Baking and Pastry Arts**<br>烘焙与糕点艺术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Yeast Fundamentals**<br>酵母基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Cakes, Cookies, and Quick Breads**<br>蛋糕、饼干与快速面包 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
-| **Introduction to Decorating**<br>装饰导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
+| **Introduction to Decorating**<br>装饰入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Trade Calculations and Communications**<br>行业计算与沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Baking Foundations and Standards**<br>烘焙基础与标准 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Specialty Cake Decorating**<br>特色蛋糕装饰 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Artisan Breads and Lamination**<br>工匠面包与起酥 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
-| **Introduction to Chocolate and Chocolate Centrepieces**<br>巧克力与巧克力装饰品导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
-| **Introduction to Pastry**<br>糕点导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
-| **Introduction to Confections and Sugar Centrepieces**<br>糖果与糖艺装饰品导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
+| **Introduction to Chocolate and Chocolate Centrepieces**<br>巧克力与巧克力装饰品入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
+| **Introduction to Pastry**<br>糕点入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
+| **Introduction to Confections and Sugar Centrepieces**<br>糖果与糖艺装饰品入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Advanced Artisan Breads**<br>高级工匠面包 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Nutrition and Formula Modifications**<br>营养与配方调整 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |
 | **Baking for Restaurant Service**<br>餐厅服务烘焙 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/baking-and-pastry-arts) |

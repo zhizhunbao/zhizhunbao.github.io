@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Systems Technology Certificate**<br>计算机系统技术证书 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
-| **Introduction to the Foundation of Computation I**<br>计算基础导论 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
-| **Introduction to PC Hardware & Systems Configuration**<br>PC硬件与系统配置导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
+| **Introduction to the Foundation of Computation I**<br>计算基础入门 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
+| **Introduction to PC Hardware & Systems Configuration**<br>PC硬件与系统配置入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
 | **Any 100-level English (Recommended: ENGL 126)**<br>任意100级英语（建议：ENGL 126） | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
 | **Formal Systems and Logic in Computing Science**<br>计算机科学中的形式系统与逻辑 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
-| **Introduction to the Foundation of Computation II**<br>计算基础导论 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
+| **Introduction to the Foundation of Computation II**<br>计算基础入门 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
 | **Data Communications and Networking**<br>数据通信与网络 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
 | **Basic Linear Algebra I**<br>基础线性代数 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |
 | **Approved University Studies Elective**<br>经批准的大学学习选修课 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-certificate/) |

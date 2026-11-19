@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Cell Biology and Metabolism.**<br>细胞生物学与代谢 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/) |
 | **Functional Biology of Plants and Animals.**<br>动植物功能生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/) |
 | **Methods in Biology.**<br>生物学方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/) |
-| **Introduction to Ecology and Evolution.**<br>生态学与进化导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/) |
+| **Introduction to Ecology and Evolution.**<br>生态学与进化入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/) |
 | **Biology of Behaviour.**<br>行为生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/) |
 | **Cell and Molecular Laboratory.**<br>细胞与分子实验 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/) |
 | **Fundamentals of Genetics and Genomics.**<br>遗传学与基因组学基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/) |

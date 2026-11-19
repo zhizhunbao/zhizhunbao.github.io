@@ -11,22 +11,22 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business**<br>商务 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS.html) |
-| **Introduction to Business Administration**<br>工商管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
+| **Introduction to Business Administration**<br>工商管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Mathematics of Business and Finance or Mathematics of Business and Finance**<br>商业与金融数学或商业与金融数学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Professional Presentation Skills**<br>专业演讲技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
-| **Introduction to Sustainable Business**<br>可持续商业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
+| **Introduction to Sustainable Business**<br>可持续商业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Business Computer Applications**<br>商务计算机应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Accounting I**<br>会计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Innovation and Entrepreneurship**<br>创新与创业 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Data Analysis Tools for Business**<br>商业数据分析工具 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Global Economic Issues**<br>全球经济问题 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Customer Service Solutions**<br>客户服务解决方案 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Business Communication for the Digital Workplace**<br>数字化职场商务沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
-| **Introduction to Principles of Economics - Micro**<br>经济学原理导论 - 微观 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
-| **Introduction to Human Resources Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
+| **Introduction to Principles of Economics - Micro**<br>经济学原理入门 - 微观 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
+| **Introduction to Human Resources Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Production and Operations Management - Manufacturing and Services**<br>生产与运营管理 - 制造与服务 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Work Term Preparation**<br>工作学期准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Managerial Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Business Economics**<br>商业经济学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **CRM and Selling**<br>CRM与销售 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 | **Management Studies: Canadian Business Law**<br>管理研究：加拿大商法 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BBS/courses.html) |
 
 ## Courses

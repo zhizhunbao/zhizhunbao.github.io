@@ -11,15 +11,15 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Strategic Management Major (B.Com.)**<br>战略管理主修（B.Com.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
-| **Introduction to Financial Accounting.**<br>财务会计导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
-| **Introduction to Organizational Behaviour.**<br>组织行为学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
+| **Introduction to Financial Accounting.**<br>财务会计入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
+| **Introduction to Organizational Behaviour.**<br>组织行为学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Data Programming for Business.**<br>商业数据编程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Expressive Analysis for Management.**<br>管理表达分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Business Statistics.**<br>商业统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Managerial Economics.**<br>管理经济学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **The Firm in the Macroeconomy.**<br>宏观经济中的企业 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Information Technology Management .**<br>信息技术管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
-| **Introduction to Finance.**<br>金融导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
+| **Introduction to Finance.**<br>金融入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Principles of Marketing.**<br>市场营销原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Operations Management.**<br>运营管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **International Business.**<br>国际商务 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-11
 | **Industrial Organization.**<br>产业组织 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Economic Development 1.**<br>经济发展 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Economic Development 2.**<br>经济发展 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
-| **Introduction to International Development.**<br>国际发展导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
+| **Introduction to International Development.**<br>国际发展入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Fundamentals of Entrepreneurship.**<br>创业基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Dynamic Cities.**<br>动态城市 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |
 | **Practicum in Not for Profit Consulting.**<br>非营利组织咨询实习 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/) |

@@ -11,16 +11,16 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Linguistics Major (Arts Program)**<br>语言学主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to Linguistics: Sound Structure**<br>语言学导论：声音结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to Linguistics: Sentence Structure and Meaning**<br>语言学导论：句子结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to Linguistics: Sound Structure**<br>语言学入门：声音结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to Linguistics: Sentence Structure and Meaning**<br>语言学入门：句子结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Phonetics**<br>语音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Phonological Patterns in Language**<br>语言中的音系模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Syntactic Patterns in Language**<br>语言中的句法模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to Semantics**<br>语义学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to Sociolinguistics**<br>社会语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to Semantics**<br>语义学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to Sociolinguistics**<br>社会语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Psycholinguistics: Language Processing in Adults**<br>心理语言学：成人语言加工 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Psycholinguistics: Language Acquisition in Children**<br>心理语言学：儿童语言习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to Language**<br>语言导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to Language**<br>语言入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **English Words**<br>英语词汇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **English Grammar**<br>英语语法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Languages of the World**<br>世界语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
@@ -31,14 +31,14 @@ ms.date: 2026-11-11
 | **Language & Society**<br>语言与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Language & Power Structure**<br>语言与权力结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Language in Anthropological Thought**<br>人类学思想中的语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to Cognitive Science**<br>认知科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to Cognitive Science**<br>认知科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Natural Language Computing**<br>自然语言计算 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Formal Languages and Automata**<br>形式语言与自动机 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Computational Linguistics**<br>计算语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **The French Language: A Linguistic Introduction**<br>法语：语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to the History of the French Language**<br>法语史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to the Linguistic Analysis of French**<br>法语语言分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **The French Language: A Linguistic Introduction**<br>法语：语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to the History of the French Language**<br>法语史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to the Linguistic Analysis of French**<br>法语语言分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **French Phonology and Phonetics**<br>法语音系学与语音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **French Syntax**<br>法语句法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Sociolinguistics of Quebec and Canadian French**<br>魁北克与加拿大法语社会语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
@@ -73,7 +73,7 @@ ms.date: 2026-11-11
 | **Advanced Topics in the Philosophy of Language**<br>语言哲学高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Portuguese Language in the World**<br>世界中的葡萄牙语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Language, Politics, Identity**<br>语言、政治、身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
-| **Introduction to Hispanic Linguistics**<br>西语语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
+| **Introduction to Hispanic Linguistics**<br>西语语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Spanish Bilingualism**<br>西班牙语双语现象 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **The Structure of Spanish**<br>西班牙语的结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |
 | **Sociolinguistics of Spanish**<br>西班牙语社会语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0506) |

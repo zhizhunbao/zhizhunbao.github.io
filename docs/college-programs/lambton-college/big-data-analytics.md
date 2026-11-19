@@ -15,10 +15,10 @@ ms.date: 2026-11-08
 | **Data Encoding Principles & Collection Methods**<br>数据编码原理与收集方法 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
 | **Data Technology Solutions**<br>数据技术解决方案 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
 | **Big Data Fundamentals**<br>大数据基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
-| **Introduction to Programming for Big Data**<br>大数据编程导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
+| **Introduction to Programming for Big Data**<br>大数据编程入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
 | **NoSQL Database**<br>NoSQL数据库 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
 | **Application Design for Big Data**<br>大数据应用设计 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
 | **Python Programming**<br>Python 编程 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
 | **Big Data Algorithms & Statistics**<br>大数据算法与统计 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |
 | **Big Data Visualization for Business Communication**<br>商务沟通大数据可视化 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/dsmm) |

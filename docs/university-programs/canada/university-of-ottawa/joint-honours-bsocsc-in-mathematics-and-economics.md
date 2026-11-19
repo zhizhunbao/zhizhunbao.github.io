@@ -15,26 +15,26 @@ ms.date: 2026-11-11
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Mathematical Reasoning and Proofs**<br>数学推理与证明 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Multivariable Calculus**<br>多元微积分 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Elementary Real Analysis**<br>初等实分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Honours Linear Algebra**<br>荣誉线性代数 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Applied Linear Algebra**<br>应用线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Group Theory**<br>群论导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Applied Linear Algebra**<br>应用线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Group Theory**<br>群论入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Ordinary Differential Equations and the Laplace Transform**<br>常微分方程与拉普拉斯变换 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Discrete Mathematics**<br>离散数学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Geometry**<br>几何学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Geometry**<br>几何学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Foundations of Mathematics**<br>数学基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Macroeconomic Theory I**<br>宏观经济理论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Macroeconomic Theory II**<br>宏观经济理论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Microeconomic Theory I**<br>微观经济理论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Microeconomic Theory II**<br>微观经济理论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
-| **Introduction to Econometrics**<br>计量经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
+| **Introduction to Econometrics**<br>计量经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Macroeconomic Theory III**<br>宏观经济理论 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 | **Microeconomic Theory III**<br>微观经济理论 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-mathematics-economics/) |
 

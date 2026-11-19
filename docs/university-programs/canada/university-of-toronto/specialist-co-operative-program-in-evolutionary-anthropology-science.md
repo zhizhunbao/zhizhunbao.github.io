@@ -11,6 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIST (CO-OPERATIVE) PROGRAM IN EVOLUTIONARY ANTHROPOLOGY (SCIENCE)**<br>进化人类学专精项目（合作教育）（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+| **Introduction to Anthropology: Becoming Human**<br>人类学入门：成为人类 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+| **Introduction to Anthropology: Society, Culture and Language**<br>人类学入门：社会、文化与语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+| **Evolutionary Anthropology**<br>进化人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+| **Human Biological Variation and Evolution**<br>人类生物变异与进化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
 | **Becoming Job Search Ready: Science Co-op**<br>为求职做好准备：理科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
 | **Finding Your First Work Term and Getting Workplace Ready: Science Co-op**<br>寻找首个工作学期并做好职场准备：理科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
@@ -26,6 +30,14 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+|  | Program requirements (same as SCSPE17806): |  | The Program requires completion of 12.0 credits, as indicated below. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+|  | Program requirements (same as SCSPE17806): 1. 1.0 credit as follows | ANTA01H3 | Introduction to Anthropology: Becoming Human | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+|  | Program requirements (same as SCSPE17806): 1. 1.0 credit as follows | ANTA02H3 | Introduction to Anthropology: Society, Culture and Language | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+|  | Program requirements (same as SCSPE17806): 1. 1.0 credit as follows | ANTB14H3 | Evolutionary Anthropology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+|  | Program requirements (same as SCSPE17806): 1. 1.0 credit as follows | ANTB15H3 | Human Biological Variation and Evolution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+|  | Program requirements (same as SCSPE17806): 1. 1.0 credit as follows |  | 4. 10.0 credits at the B-level or above, of which at least 5.0 credits must be at the C- or D-level, including at least 1.0 credit at the D-level. At least 7.5 credits must be composed of ANT courses identified as "Science credit" in the UTSC Academic Calendar. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+|  | Program requirements (same as SCSPE17806): 1. 1.0 credit as follows; Note | ANTB14H3 | Evolutionary Anthropology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
+|  | Program requirements (same as SCSPE17806): 1. 1.0 credit as follows; Note | ANTB15H3 | Human Biological Variation and Evolution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
 |  | Academic Program Requirements |  | Students must complete the program requirements as described in the Specialist Program in Evolutionary Anthropology. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1780m) |

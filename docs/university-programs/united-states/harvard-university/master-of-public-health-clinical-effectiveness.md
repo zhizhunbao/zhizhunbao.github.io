@@ -1,10 +1,10 @@
 ---
-title: "3.1.67 Master of Public Health – Clinical Effectiveness"
+title: "4.1.67 Master of Public Health – Clinical Effectiveness"
 description: "University Programs > United States > Harvard University > Master of Public Health – Clinical Effectiveness: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.67 Master of Public Health – Clinical Effectiveness
+# 4.1.67 Master of Public Health – Clinical Effectiveness
 
 ## Glossary
 
@@ -13,7 +13,7 @@ ms.date: 2026-11-18
 | **Master of Public Health – Clinical Effectiveness**<br>临床效果（公共卫生硕士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-clinical-effectiveness/) |
 | **Foundations for Public Health**<br>公共卫生基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-clinical-effectiveness/) |
 | **Introductory Statistics for Medical Research**<br>医学研究入门统计学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-clinical-effectiveness/) |
-| **Introduction to Clinical Epidemiology**<br>临床流行病学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-clinical-effectiveness/) |
+| **Introduction to Clinical Epidemiology**<br>临床流行病学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-clinical-effectiveness/) |
 | **Qualitative Methods for Public Health**<br>公共卫生定性方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-clinical-effectiveness/) |
 | **Leadership and Communication**<br>领导力与沟通 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-clinical-effectiveness/) |
 | **Social, Behavioral, and Structural Determinants of Health**<br>健康的社会、行为与结构性决定因素 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-clinical-effectiveness/) |

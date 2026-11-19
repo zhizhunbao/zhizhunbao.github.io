@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Drama, Theatre and Performance Studies MA**<br>戏剧、剧场与表演研究（MA） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Drama%2C-Theatre-and-Performance-Studies) |
 | **History and Historiography in Drama, Theatre, and Performance Studies**<br>戏剧、剧场与表演研究中的历史与史学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Drama%2C-Theatre-and-Performance-Studies) |
 | **Graduate Laboratory in Drama, Theatre, and Performance Studies**<br>戏剧、剧场与表演研究研究生实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Drama%2C-Theatre-and-Performance-Studies) |
-| **Introduction to Drama, Theatre, and Performance Studies**<br>戏剧、剧场与表演研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Drama%2C-Theatre-and-Performance-Studies) |
+| **Introduction to Drama, Theatre, and Performance Studies**<br>戏剧、剧场与表演研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Drama%2C-Theatre-and-Performance-Studies) |
 | **MA Thesis**<br>文学硕士论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Drama%2C-Theatre-and-Performance-Studies) |
 | **Research and Creative Praxis**<br>研究与创意实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Drama%2C-Theatre-and-Performance-Studies) |
 

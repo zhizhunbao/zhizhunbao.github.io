@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Business Productivity Tools and Technology**<br>商务生产力工具与技术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Communication and Presentation Skills**<br>沟通与演示技能 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Marketing Essentials**<br>营销要点 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
@@ -24,8 +24,8 @@ ms.date: 2026-11-08
 | **Personal Financial Planning**<br>个人理财规划 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Digital Marketing Foundations**<br>数字营销基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Intermediate Financial Accounting I**<br>中级财务会计 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Introductory Management Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Intermediate Financial Accounting II**<br>中级财务会计 II | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Intermediate Management Accounting**<br>中级管理会计 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Finance Management**<br>财务管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
-| **Introduction to Taxation**<br>税务导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
+| **Introduction to Taxation**<br>税务入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Computer Accounting Software**<br>计算机会计软件 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |
 | **Business Diploma Integrative Experience Capstone**<br>商务文凭综合体验毕业设计项目 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/business-administration-accounting) |

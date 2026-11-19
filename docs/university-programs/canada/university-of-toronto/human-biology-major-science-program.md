@@ -16,12 +16,12 @@ ms.date: 2026-11-11
 | **Chemistry: The Molecular Science**<br>化学：分子科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Calculus I for Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Foundations of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Biochemistry I: Proteins, Lipids and Metabolism**<br>生物化学 I：蛋白质、脂质与代谢 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Adaptation and Biodiversity**<br>适应与生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Molecular and Cell Biology**<br>分子与细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
-| **Introduction to Human Biology**<br>人类生物学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
+| **Introduction to Human Biology**<br>人类生物学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **From Genes to Organisms**<br>从基因到生物体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **From Genes to Organisms with Advanced Laboratory**<br>从基因到生物体（含高级实验） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **From Genomes to Ecosystems in a Changing World**<br>变化世界中从基因组到生态系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
@@ -108,7 +108,7 @@ ms.date: 2026-11-11
 | **Nutritional Toxicology**<br>营养毒理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Nutritional Neurosciences**<br>营养神经科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **International and Community Nutrition**<br>国际与社区营养 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
-| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
+| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Pharmacodynamic Principles**<br>药效学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Molecular Toxicology Foundations**<br>分子毒理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 | **Integrative Toxicology**<br>综合毒理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
@@ -273,9 +273,8 @@ ms.date: 2026-11-11
 |  | Biological Foundations of Living Systems; credit from | PSY471H1 | Seminar in Cognition | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 |  | Biological Foundations of Living Systems; credit from | PSY494H1 | Physiology and Psychology of Emotion | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 |  | Biological Foundations of Living Systems |  | \*A research project from a different unit may be accepted with prior written approval from Human Biology. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
-|  | Human Biology Major Notes |  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
-|  | Human Biology Major Notes |  | 2. Not all courses listed have priority enrolment for Human Biology majors. Students are responsible for checking priority of courses and meeting course prerequisites for courses they wish to take. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
-|  | Human Biology Major Notes |  | 3. The Human Biology major cannot be paired with any other Human Biology Program managed major program. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
+|  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program. |  | 2. Not all courses listed have priority enrolment for Human Biology majors. Students are responsible for checking priority of courses and meeting course prerequisites for courses they wish to take. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
+|  | 1. Courses can only count toward one requirement, even if listed as options to multiple requisites of the program. |  | 3. The Human Biology major cannot be paired with any other Human Biology Program managed major program. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2035) |
 
 ## References
 

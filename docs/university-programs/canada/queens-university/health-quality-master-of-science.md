@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Quality - Master of Science**<br>健康质量 - 理学硕士 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-quality/health-quality-ms/) |
-| **Introduction to Quality, Risk and Safety**<br>质量、风险与安全导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-quality/health-quality-ms/) |
+| **Introduction to Quality, Risk and Safety**<br>质量、风险与安全入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-quality/health-quality-ms/) |
 | **Process Improvement in Health Care**<br>医疗保健流程改进 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-quality/health-quality-ms/) |
 | **Research and Evaluation Methods to Assess Quality, Risk and Safety**<br>评估质量、风险与安全的研究与评价方法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-quality/health-quality-ms/) |
 | **Law, Risk and Healthcare**<br>法律、风险与医疗保健 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-quality/health-quality-ms/) |

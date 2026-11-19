@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **CAD Drafting**<br>CAD 制图 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Mechanical-Engineering-Technology.aspx) |
 | **Fundamental Communication Skills**<br>基础沟通技能 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Mechanical-Engineering-Technology.aspx) |
 | **Drafting Principles**<br>制图原理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Mechanical-Engineering-Technology.aspx) |
-| **Introduction to Engineering Analysis**<br>工程分析导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Mechanical-Engineering-Technology.aspx) |
+| **Introduction to Engineering Analysis**<br>工程分析入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Mechanical-Engineering-Technology.aspx) |
 | **Applied Mechanics: Statics**<br>应用力学：静力学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Mechanical-Engineering-Technology.aspx) |
 | **Fluid, Mechanical, and Energy Concepts**<br>流体、机械与能源概念 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Mechanical-Engineering-Technology.aspx) |
 | **Mechanical Engineering Concepts and Applications**<br>机械工程概念与应用 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Mechanical-Engineering-Technology.aspx) |

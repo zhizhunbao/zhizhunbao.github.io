@@ -41,10 +41,10 @@ ms.date: 2026-11-11
 | **Interpreting Sacred Texts**<br>解读神圣文本 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Intermediate Modern Hebrew I**<br>中级现代希伯来语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Intermediate Modern Hebrew II**<br>中级现代希伯来语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
-| **Introduction to Sanskrit I**<br>梵语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
-| **Introduction to Sanskrit II**<br>梵语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
-| **Introduction to Tibetan I**<br>藏语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
-| **Introduction to Tibetan II**<br>藏语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
+| **Introduction to Sanskrit I**<br>梵语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
+| **Introduction to Sanskrit II**<br>梵语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
+| **Introduction to Tibetan I**<br>藏语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
+| **Introduction to Tibetan II**<br>藏语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Introductory Pali I**<br>巴利语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Introductory Pali II**<br>巴利语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Advanced Topics in Judaism**<br>犹太教高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
@@ -94,7 +94,7 @@ ms.date: 2026-11-11
 | **The Catholic Church in Canada**<br>加拿大天主教会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Faith and Physics**<br>信仰与物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Indian Christianity**<br>印度基督教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
-| **Introduction to Classical Mythology**<br>古典神话导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
+| **Introduction to Classical Mythology**<br>古典神话入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Theories of Myth**<br>神话理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Religion in the Greek World**<br>希腊世界的宗教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Religion in the Roman World**<br>罗马世界的宗教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
@@ -121,7 +121,7 @@ ms.date: 2026-11-11
 | **Dante: Vita Nuova and Divina Commedia (Inferno)**<br>但丁：《新生》与《神曲》（《地狱》） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Dante: Divina Commedia (Purgatorio and Paradiso)**<br>但丁：《神曲》（《炼狱》与《天堂》） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Love in the Renaissance**<br>文艺复兴中的爱 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
-| **Introduction to Jewish Thought**<br>犹太思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
+| **Introduction to Jewish Thought**<br>犹太思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Topics in Jewish Studies**<br>犹太研究专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Special Topics in Jewish Studies**<br>犹太研究专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Research Seminar in Jewish Studies**<br>犹太研究研究研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
@@ -150,7 +150,7 @@ ms.date: 2026-11-11
 | **C.G. Jung: Stories, Patterns, Symbols**<br>C.G. 荣格：故事、模式、象征 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Mind, Consciousness and the Self**<br>心灵、意识与自我 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Philosophy of Religion**<br>宗教哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
-| **Introduction to Chinese Philosophy**<br>中国哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
+| **Introduction to Chinese Philosophy**<br>中国哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Classical Islamic Philosophy**<br>古典伊斯兰哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Post-Classical Islamic Philosophy**<br>后古典伊斯兰哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |
 | **Augustine**<br>奥古斯丁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0151) |

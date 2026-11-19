@@ -22,11 +22,11 @@ ms.date: 2026-11-11
 | **Reading Empire and the Postcolonial**<br>阅读帝国与后殖民 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
 | **The Modern World**<br>现代世界 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
 | **The History of the World in the Last 10 Years**<br>最近 10 年的世界史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
-| **Introduction to Philosophy: Values and Society**<br>哲学导论：价值观与社会 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
+| **Introduction to Philosophy: Values and Society**<br>哲学入门：价值观与社会 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
 | **Political Philosophy**<br>政治哲学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
 | **Risk, Choice, and Rationality**<br>风险、选择与理性 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
 | **Topics in Social Justice**<br>社会正义专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
-| **Introduction to Politics**<br>政治学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
+| **Introduction to Politics**<br>政治学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
 | **City Government and Politics**<br>城市政府与政治 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
 | **Managing Modern Government**<br>管理现代政府 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |
 | **Politics of East Asia**<br>东亚政治 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110004&returnto=20844) |

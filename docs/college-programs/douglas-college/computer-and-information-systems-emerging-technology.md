@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer and Information Systems, Emerging Technology**<br>计算机与信息系统，新兴技术 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
-| **Introduction to Programming I**<br>编程导论 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
+| **Introduction to Programming I**<br>编程入门 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **Multimedia Web Development**<br>多媒体网页开发 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **Advanced Integrated Software Development**<br>高级集成软件开发 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **Systems Analysis & Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **Virtualization and Computer Networking**<br>虚拟化与计算机网络 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **Database I**<br>数据库 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
-| **Introduction to Mobile Application Development**<br>移动应用开发导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
+| **Introduction to Mobile Application Development**<br>移动应用开发入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **IT Security Fundamentals**<br>IT 安全基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |
 | **Evidence Imaging**<br>证据影像 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdcis) |

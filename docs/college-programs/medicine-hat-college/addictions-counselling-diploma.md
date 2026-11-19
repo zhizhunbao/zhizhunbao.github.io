@@ -11,16 +11,16 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Addictions Counselling Diploma**<br>成瘾咨询文凭 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
-| **Introduction to Addictions**<br>成瘾导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
+| **Introduction to Addictions**<br>成瘾入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Introductory Communications for Helping Professionals**<br>助人专业沟通入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
-| **Introduction to Psychology I & Natural Science**<br>心理学导论 I 与自然科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
+| **Introduction to Psychology I & Natural Science**<br>心理学入门 I 与自然科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Introductory Report Writing and Speech**<br>报告写作与演讲入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Introductory Composition**<br>入门写作 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Assessment of Addiction**<br>成瘾评估 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Counselling Theories and Approaches**<br>咨询理论与方法 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Contemporary Indigenous Issues in Canada**<br>加拿大当代原住民议题 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
-| **Identity and Invention: An Introduction to Literature**<br>身份与创造：文学导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
+| **Identity and Invention: An Introduction to Literature**<br>身份与创造：文学入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Introductory Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Prevention and Relapse**<br>预防与复发 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |
 | **Suicide and Mental Health**<br>自杀与心理健康 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/addictions-counselling) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Community, Family and Child Studies, Diploma**<br>社区、家庭与儿童研究文凭 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/community-family-and-child-studies-diploma) |
 | **Foundations for Practice**<br>实践基础 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4200) |
 | **Lifespan Development 1**<br>生命全程发展 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4200) |
-| **Intro to Community Resources & Supports**<br>社区资源与支持导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4200) |
+| **Intro to Community Resources & Supports**<br>社区资源与支持入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4200) |
 | **Academic Writing Strategies**<br>学术写作策略 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4200) |
 | **Interpersonal Skills**<br>人际技能 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4200) |
 | **Professional Practice 1**<br>职业实践 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4200) |

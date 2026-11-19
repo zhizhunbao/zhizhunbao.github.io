@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Music in Performance - Clarinet: Classical**<br>音乐学士（演奏）－单簧管：古典 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPECLARP) |
-| **Introduction to Music & Society**<br>音乐与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPECLARP) |
+| **Introduction to Music & Society**<br>音乐与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPECLARP) |
 | **Survey of Western Music History I**<br>西方音乐史概览 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPECLARP) |
 | **Survey of Western Music History II**<br>西方音乐史概览 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPECLARP) |
 | **Lives in Music**<br>音乐中的生命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance#MSSPECLARP) |

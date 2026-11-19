@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **BIOLOGY AND MICROORGANISMS**<br>生物学与微生物 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21634&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY HUMAN NUTRITION**<br>人体营养学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21634&SelectedCalendar=Live&ArchiveID=) |
 | **LIFECYCLE NUTRITION**<br>生命周期营养学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21634&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN PHYSIOLOGY**<br>人体生理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21634&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN PHYSIOLOGY**<br>人体生理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21634&SelectedCalendar=Live&ArchiveID=) |
 | **CULINARY NUTRITION**<br>烹饪营养学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21634&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF FOOD SCIENCE**<br>食品科学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21634&SelectedCalendar=Live&ArchiveID=) |
 | **NUTRITION EDUCATION AND COMMUNICATION**<br>营养教育与传播 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21634&SelectedCalendar=Live&ArchiveID=) |

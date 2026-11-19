@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Communication and Critical Thinking**<br>沟通与批判性思维 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-radiation-medicale/) |
 | **Formation générale au choix**<br>选修通识教育 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-radiation-medicale/) |
 | **Techniques radiologiques III**<br>放射技术 III | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-radiation-medicale/) |
-| **Introduction à la tomodensitométrie**<br>计算机断层扫描导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-radiation-medicale/) |
+| **Introduction à la tomodensitométrie**<br>计算机断层扫描入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-radiation-medicale/) |
 | **Jurisprudence et éthique en radiation médicale**<br>医用辐射中的法理与伦理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-radiation-medicale/) |
 | **Enregistrement de l'image II (Radiodiagnostic)**<br>影像记录 II（放射诊断） | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-radiation-medicale/) |
 | **Pathologie radiologique II**<br>放射病理学 II | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-en-radiation-medicale/) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.77 Business Administration, Master of Business Administration"
+title: "4.3.77 Business Administration, Master of Business Administration"
 description: "University Programs > United States > Stanford University > Business Administration, Master of Business Administration: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.77 Business Administration, Master of Business Administration
+# 4.3.77 Business Administration, Master of Business Administration
 
 ## Glossary
 

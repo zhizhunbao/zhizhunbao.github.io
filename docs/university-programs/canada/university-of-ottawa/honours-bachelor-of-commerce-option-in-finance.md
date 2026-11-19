@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Commerce (Option in Finance)**<br>荣誉商学学士（金融选项） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
-| **Introduction to Business**<br>商务导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
+| **Introduction to Business**<br>商务入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Business and Society**<br>商业与社会 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Mathematics for Management**<br>管理数学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Applications of Information Technology for Business**<br>信息技术在商业中的应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Effective Business English**<br>高效商务英语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Business Analytics for Decision Making**<br>决策商业分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Statistics for Management**<br>管理统计学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
@@ -87,7 +87,7 @@ ms.date: 2026-11-11
 | **Healthcare Informatics for Managers**<br>管理者的医疗信息学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Healthcare Management**<br>医疗管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Applied Biostatistics in R**<br>R 语言应用生物统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
-| **Introduction to Health Economics**<br>卫生经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
+| **Introduction to Health Economics**<br>卫生经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Health Research: Quantitative and Qualitative Approaches**<br>健康研究：定量与定性方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Epidemiology**<br>流行病学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |
 | **Staffing Organizations**<br>组织人员配置 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-finance/) |

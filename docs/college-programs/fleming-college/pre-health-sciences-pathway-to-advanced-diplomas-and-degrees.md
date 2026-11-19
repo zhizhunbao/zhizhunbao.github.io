@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Human Biology I for Pre-Health Science**<br>健康科学预科人体生物学 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **Mathematics I for Pre-Health Science**<br>预备健康科学数学 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **Professional Issues in Health Science**<br>健康科学的专业问题 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **General & Human Biology**<br>综合与人体生物学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **General & Organic Chemistry**<br>综合与有机化学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |

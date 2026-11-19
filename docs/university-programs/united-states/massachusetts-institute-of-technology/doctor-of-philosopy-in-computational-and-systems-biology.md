@@ -1,10 +1,10 @@
 ---
-title: "3.2.114 Doctor of Philosopy in Computational and Systems Biology"
+title: "4.2.114 Doctor of Philosopy in Computational and Systems Biology"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosopy in Computational and Systems Biology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.114 Doctor of Philosopy in Computational and Systems Biology
+# 4.2.114 Doctor of Philosopy in Computational and Systems Biology
 
 ## Glossary
 
@@ -39,8 +39,8 @@ ms.date: 2026-11-18
 | **Optical Engineering**<br>光学工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Advances in Interdisciplinary Science in Human Health and Disease**<br>人类健康与疾病跨学科科学进展 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Statistical Thermodynamics**<br>统计热力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
-| **Introduction to Statistical Data Analysis**<br>统计数据分析导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
+| **Introduction to Statistical Data Analysis**<br>统计数据分析入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Algorithm Engineering**<br>算法工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Large-scale Symbolic Systems**<br>大规模符号系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Advanced Algorithms**<br>高级算法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
@@ -48,8 +48,8 @@ ms.date: 2026-11-18
 | **Power Electronics**<br>电力电子学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Integrated Microelectronic Devices**<br>集成微电子器件 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Dynamic Systems and Control**<br>动态系统与控制 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
-| **Introduction to Modeling and Simulation**<br>建模与仿真导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
-| **Introduction to Numerical Methods**<br>数值方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
+| **Introduction to Modeling and Simulation**<br>建模与仿真入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
+| **Introduction to Numerical Methods**<br>数值方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Numerical Methods for Partial Differential Equations**<br>偏微分方程数值方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Fundamentals of Probability**<br>概率论基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Discrete Stochastic Processes**<br>离散随机过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
@@ -97,7 +97,7 @@ ms.date: 2026-11-18
 | **Computational Science and Engineering I**<br>计算科学与工程 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Computational Science and Engineering II**<br>计算科学与工程 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Topics in Theoretical Computer Science**<br>理论计算机科学专题 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
-| **Introduction to Computational Molecular Biology**<br>计算分子生物学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
+| **Introduction to Computational Molecular Biology**<br>计算分子生物学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Topics in Computational Molecular Biology**<br>计算分子生物学专题 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |
 | **Advanced Combinatorial Optimization**<br>高级组合优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/) |

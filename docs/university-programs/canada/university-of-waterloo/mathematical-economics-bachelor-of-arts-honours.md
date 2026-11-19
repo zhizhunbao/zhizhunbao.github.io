@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mathematical Economics (Bachelor of Arts - Honours)**<br>数理经济学（文学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Models of Choice in Competitive Markets**<br>竞争市场中的选择模型 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Equilibrium in Market Economies**<br>市场经济中的均衡 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
@@ -26,17 +26,17 @@ ms.date: 2026-11-11
 | **Business Cycles**<br>商业周期 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Workers, Jobs, and Wages**<br>工人、工作与工资 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Microeconomic Theory for Business and Policy**<br>商业与政策的微观经济理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Mathematical Economics**<br>数理经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Mathematical Economics**<br>数理经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Statistics for Economists**<br>经济学家统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Differential Equations**<br>微分方程导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Differential Equations**<br>微分方程入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Differential Equations for Business and Economics**<br>商业与经济微分方程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Optimization (Non-Specialist Level)**<br>最优化导论（非专业） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Optimization**<br>最优化导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Optimization (Advanced Level)**<br>最优化导论（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Computer Science 1**<br>计算机科学导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Optimization (Non-Specialist Level)**<br>最优化入门（非专业） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Optimization**<br>最优化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Optimization (Advanced Level)**<br>最优化入门（高级） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Designing Functional Programs**<br>函数式程序设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Designing Functional Programs (Advanced Level)**<br>函数式程序设计（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
-| **Introduction to Computer Science 2**<br>计算机科学导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
+| **Introduction to Computer Science 2**<br>计算机科学入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Elementary Algorithm Design and Data Abstraction**<br>初级算法设计与数据抽象 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Elementary Algorithm Design and Data Abstraction (Advanced Level)**<br>初级算法设计与数据抽象（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |
 | **Applied Linear Algebra 1**<br>应用线性代数 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SySxyRAj2) |

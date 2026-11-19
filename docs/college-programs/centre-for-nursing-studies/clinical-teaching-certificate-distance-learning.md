@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Clinical Teaching Certificate – Distance Learning**<br>临床教学证书（远程学习） | (Definition pending) | （定义待补） | [Centre for Nursing Studies, n.d.](https://cns.easternhealth.ca/programs-and-courses/continuing-nursing-studies/lpn-program-courses/clinical-teaching-certificate-distance-learning/) |
-| **Introduction**<br>导论 | (Definition pending) | （定义待补） | [Centre for Nursing Studies, n.d.](https://cns.easternhealth.ca/programs-and-courses/continuing-nursing-studies/lpn-program-courses/clinical-teaching-certificate-distance-learning/) |
+| **Introduction**<br>入门 | (Definition pending) | （定义待补） | [Centre for Nursing Studies, n.d.](https://cns.easternhealth.ca/programs-and-courses/continuing-nursing-studies/lpn-program-courses/clinical-teaching-certificate-distance-learning/) |
 | **Clinical Teaching**<br>临床教学 | (Definition pending) | （定义待补） | [Centre for Nursing Studies, n.d.](https://cns.easternhealth.ca/programs-and-courses/continuing-nursing-studies/lpn-program-courses/clinical-teaching-certificate-distance-learning/) |
 | **Evaluation**<br>评估 | (Definition pending) | （定义待补） | [Centre for Nursing Studies, n.d.](https://cns.easternhealth.ca/programs-and-courses/continuing-nursing-studies/lpn-program-courses/clinical-teaching-certificate-distance-learning/) |
 | **Legal Ethical Issues**<br>法律与伦理问题 | (Definition pending) | （定义待补） | [Centre for Nursing Studies, n.d.](https://cns.easternhealth.ca/programs-and-courses/continuing-nursing-studies/lpn-program-courses/clinical-teaching-certificate-distance-learning/) |

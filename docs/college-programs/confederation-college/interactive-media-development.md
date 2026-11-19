@@ -15,9 +15,9 @@ ms.date: 2026-11-08
 | **3D Modelling and Texturing**<br>3D建模与贴图 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
 | **Audio/Video Production**<br>音视频制作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
 | **Web Design & Development Fundamentals**<br>网页设计与开发基础 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
-| **Introduction to Photography and Image Editing**<br>摄影与图像编辑导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
+| **Introduction to Photography and Image Editing**<br>摄影与图像编辑入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
-| **Introduction to User Experience Design**<br>用户体验设计导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
+| **Introduction to User Experience Design**<br>用户体验设计入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
 | **2D Illustration and Animation**<br>2D插画与动画 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
 | **3D Animation and Rigging**<br>3D动画与绑定 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |
 | **Audio/Video Storytelling**<br>音频/视频叙事 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/interactive-media-development/) |

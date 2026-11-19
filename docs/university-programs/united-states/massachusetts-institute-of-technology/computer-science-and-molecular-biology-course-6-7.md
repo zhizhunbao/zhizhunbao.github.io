@@ -1,20 +1,20 @@
 ---
-title: "3.2.21 Computer Science and Molecular Biology (Course 6-7)"
+title: "4.2.21 Computer Science and Molecular Biology (Course 6-7)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science and Molecular Biology (Course 6-7): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.21 Computer Science and Molecular Biology (Course 6-7)
+# 4.2.21 Computer Science and Molecular Biology (Course 6-7)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Science and Molecular Biology (Course 6-7)**<br>计算机科学与分子生物学（Course 6-7） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
-| **Introduction to Programming and Computer Science**<br>编程与计算机科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
+| **Introduction to Programming and Computer Science**<br>编程与计算机科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Discrete Mathematics and Proof for Computer Science**<br>面向计算机科学的离散数学与证明 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
@@ -24,13 +24,13 @@ ms.date: 2026-11-18
 | **Applied Molecular Biology Laboratory (CI-M)**<br>应用分子生物学实验（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Laboratory Fundamentals in Biological Engineering (CI-M)**<br>生物工程实验基础 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Fundamentals of Programming**<br>编程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Modeling with Machine Learning: from Algorithms to Applications**<br>机器学习建模：从算法到应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Machine Learning in Molecular and Cellular Biology**<br>分子与细胞生物学中的机器学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **General Biochemistry**<br>普通生物化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
-| **Introduction to Biological Chemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
+| **Introduction to Biological Chemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Genomics and Evolution of Infectious Disease**<br>传染病的基因组学与进化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Computational Biology: Genomes, Networks, Evolution**<br>计算生物学：基因组、网络、演化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-18
 | **Modern Computational Biology**<br>现代计算生物学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Systems Biology**<br>系统生物学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Evolutionary Biology: Concepts, Models and Computation**<br>进化生物学：概念、模型与计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
-| **Introduction to Computational Molecular Biology**<br>计算分子生物学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
+| **Introduction to Computational Molecular Biology**<br>计算分子生物学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Seminar in Undergraduate Advanced Research (12 units, CI-M)**<br>本科高级研究研讨课（12学分，CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Oral Communication (CI-M)**<br>口头沟通（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |
 | **Communication in Experimental Biology (CI-M)**<br>实验生物学中的沟通（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/) |

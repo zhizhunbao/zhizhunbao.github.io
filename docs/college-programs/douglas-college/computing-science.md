@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcsci) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcsci) |
 | **Discrete Mathematics**<br>离散数学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcsci) |
-| **Intro to Computing Science & Programming or Computer Programming I**<br>计算机科学与编程导论或计算机编程 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcsci) |
+| **Intro to Computing Science & Programming or Computer Programming I**<br>计算机科学与编程入门或计算机编程 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcsci) |
 | **Computer Programming II**<br>计算机编程 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcsci) |
 | **Designing with Raspberry Pi**<br>基于 Raspberry Pi 的设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcsci) |
 

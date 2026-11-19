@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **CULTURAL FOUNDATIONS OF MODERN CHINA**<br>现代中国的文化基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20695&SelectedCalendar=Live&ArchiveID=) |
 | **CULTURAL FOUNDATIONS OF MODERN JAPAN**<br>现代日本的文化基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20695&SelectedCalendar=Live&ArchiveID=) |
 | **THE CULTURAL FOUNDATIONS OF MODERN JAPAN**<br>现代日本的文化基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20695&SelectedCalendar=Live&ArchiveID=) |
-| **AN INTRODUCTION TO JAPANESE LINGUISTICS**<br>日本语言学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20695&SelectedCalendar=Live&ArchiveID=) |
+| **AN INTRODUCTION TO JAPANESE LINGUISTICS**<br>日本语言学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20695&SelectedCalendar=Live&ArchiveID=) |
 | **JAPAN THROUGH FILM**<br>透过电影看日本 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20695&SelectedCalendar=Live&ArchiveID=) |
 | **JAPAN THROUGH ANIME**<br>透过动漫看日本 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20695&SelectedCalendar=Live&ArchiveID=) |
 | **JAPAN THROUGH FOOD: TALES OF CULTURAL CONTACT**<br>透过食物看日本：文化接触的故事 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20695&SelectedCalendar=Live&ArchiveID=) |

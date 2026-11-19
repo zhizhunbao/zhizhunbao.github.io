@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Justice**<br>司法 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Scientific and Technical Writing**<br>科技写作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
-| **Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
+| **Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Principles of Psychology**<br>心理学原理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Diversity and Criminal Justice in Canada**<br>加拿大的多样性与刑事司法 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Mental Health, Wellness, and the Justice System**<br>精神健康、福祉与司法系统 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Indigenous Studies I**<br>原住民研究 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
@@ -29,12 +29,12 @@ ms.date: 2026-11-08
 | **Trauma Informed Justice**<br>创伤知情司法 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Abnormal Psychology- Psychiatric Disorders and Interventions**<br>变态心理学：精神障碍与干预 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Special Topics in Justice**<br>司法专题 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
-| **An Introduction to Government and Politics**<br>政府与政治导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
+| **An Introduction to Government and Politics**<br>政府与政治入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Canadian Criminal Procedure & Evidence**<br>加拿大刑事诉讼程序与证据 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Law, Sex Work, and Structural Racism**<br>法律、性工作与结构性种族主义 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Law, Youth, and Young Offenders**<br>法律、青少年与未成年犯 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
-| **Introduction to Corrections**<br>矫正学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
-| **Introduction to Law Enforcement**<br>执法导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
+| **Introduction to Corrections**<br>矫正学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
+| **Introduction to Law Enforcement**<br>执法入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Refugees, Migrants, and Immigration**<br>难民、移民与移民政策 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Counselling Skills and Facilitating Groups**<br>咨询技能与团体带领 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |
 | **Indigenous Resolution Strategies**<br>原住民解决策略 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/justice/costs-and-courses/) |

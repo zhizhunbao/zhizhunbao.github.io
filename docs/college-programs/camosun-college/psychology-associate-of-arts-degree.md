@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Non-Majors Biology(Diversity)**<br>非专业生物学（多样性） | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4208) |
 | **Non-Majors General Biology**<br>非专业普通生物学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4208) |
 | **Infectious Disease**<br>传染病 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4208) |
-| **Introduction to Marine Biology**<br>海洋生物学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4208) |
+| **Introduction to Marine Biology**<br>海洋生物学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4208) |
 | **Evolution and Diversity**<br>进化与多样性 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4208) |
 | **Physiological Basis of Life**<br>生命的生理基础 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4208) |
 | **Workplace Preparation Skills**<br>职场准备技能 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4208) |

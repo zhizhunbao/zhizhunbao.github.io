@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Principles of Marketing 1**<br>营销原理 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3623/courses-next/) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3623/courses-next/) |
 | **Strategies for Success**<br>成功策略 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3623/courses-next/) |
-| **Introduction to Business Processes**<br>业务流程导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3623/courses-next/) |
+| **Introduction to Business Processes**<br>业务流程入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3623/courses-next/) |
 | **Co-operative Education Employment Prep**<br>合作教育就业准备 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3623/courses-next/) |
 | **Retirement Planning 1**<br>退休规划 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3623/courses-next/) |
 | **Mathematics of Finance Accounting**<br>财务会计数学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3623/courses-next/) |

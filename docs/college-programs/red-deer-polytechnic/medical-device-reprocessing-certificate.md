@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Medical Device Reprocessing Certificate**<br>医疗器械再处理证书 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/medical-device-reprocessing-certificate) |
 | **Sterile Processing Practices**<br>无菌处理实践 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Medical%20Device%20Reprocessing%202026-2027.pdf) |
 | **Surgical Instrumentation**<br>手术器械 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Medical%20Device%20Reprocessing%202026-2027.pdf) |
-| **Introduction to Microbiology and Infection Control**<br>微生物学与感染控制导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Medical%20Device%20Reprocessing%202026-2027.pdf) |
+| **Introduction to Microbiology and Infection Control**<br>微生物学与感染控制入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Medical%20Device%20Reprocessing%202026-2027.pdf) |
 | **MDR Medical Terminology and Anatomy**<br>MDR医学术语与解剖学 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Medical%20Device%20Reprocessing%202026-2027.pdf) |
 | **Healthcare Communications I**<br>医疗保健沟通 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Medical%20Device%20Reprocessing%202026-2027.pdf) |
 | **MDR Practicum**<br>MDR 实习 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-05/Medical%20Device%20Reprocessing%202026-2027.pdf) |

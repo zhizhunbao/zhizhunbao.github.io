@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Radio, Television and Broadcast News - Broadcast News Major**<br>广播、电视与广播新闻－广播新闻专业 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |
-| **Introduction to Digital Productivity Applications and Web Design**<br>数字办公应用与网页设计导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |
+| **Introduction to Digital Productivity Applications and Web Design**<br>数字办公应用与网页设计入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |
 | **Writing Fundamentals for Media**<br>媒体写作基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |
-| **Introduction to Broadcast News**<br>广播新闻导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |
+| **Introduction to Broadcast News**<br>广播新闻入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |
 | **Leadership in Broadcasting**<br>广播领导力 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |
 | **Audio Video Production**<br>音视频制作 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |
 | **Speech and Presentation**<br>演讲与陈述 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-broadcast-news) |

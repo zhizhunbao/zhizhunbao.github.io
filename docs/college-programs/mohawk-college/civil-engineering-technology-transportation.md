@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Transportation Design**<br>交通工具设计 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=524&prg_ver=26-A) |
 | **Land Registry Systems**<br>土地登记系统 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=524&prg_ver=26-A) |
 | **Computer Applications for Civil Engineering**<br>土木工程计算机应用 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=524&prg_ver=26-A) |
-| **Introduction To Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=524&prg_ver=26-A) |
+| **Introduction To Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=524&prg_ver=26-A) |
 | **Planning Law A**<br>规划法 A | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=524&prg_ver=26-A) |
 | **Active Transportation**<br>主动出行 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=524&prg_ver=26-A) |
 | **Transportation Data Analysis**<br>交通数据分析 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=524&prg_ver=26-A) |

@@ -12,15 +12,15 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Psychology Specialist (Science Program)**<br>心理学专精（理科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Biostatistics for Biological Sciences**<br>生物科学生物统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Introductory Analytical Methods**<br>分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Statistics for Work and Organizations**<br>工作与组织统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Quantitative Reasoning I**<br>定量推理导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Quantitative Reasoning I**<br>定量推理入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Probability, Statistics and Data Analysis II**<br>概率、统计与数据分析 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Statistics for Computer Scientists**<br>计算机科学家统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
@@ -29,15 +29,15 @@ ms.date: 2026-11-11
 | **Intermediate Quantitative Methods in Sociology**<br>社会学中级定量方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **The Practice of Statistics II**<br>统计实践 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Psychological Research**<br>心理学研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Developmental Psychology**<br>发展心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Social Psychology**<br>社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Developmental Psychology**<br>发展心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Social Psychology**<br>社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Personality and Its Transformations**<br>人格及其转变 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Psychopathology and Clinical Science**<br>精神病理学与临床科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Learning and Plasticity**<br>学习与可塑性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Cognitive Psychology**<br>认知心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Sensation and Perception**<br>感觉与知觉导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Psychopathology and Clinical Science**<br>精神病理学与临床科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Learning and Plasticity**<br>学习与可塑性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Cognitive Psychology**<br>认知心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Sensation and Perception**<br>感觉与知觉入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Behavioural Neuroscience**<br>行为神经科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Developmental Laboratory**<br>发育实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Social Psychology Laboratory**<br>社会心理学实验课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Individual Differences Laboratory**<br>个体差异实验课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
@@ -145,7 +145,7 @@ ms.date: 2026-11-11
 | **Mindfulness Meditation: Science and Research**<br>正念冥想：科学与研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Advanced Topics in Buddhism, Psychology and Mental Health**<br>佛教、心理学与心理健康高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Cellular and Molecular Neurobiology of the Synapse**<br>突触的细胞与分子神经生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Cognitive Science**<br>认知科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Cognitive Science**<br>认知科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Data, Computation, and the Mind**<br>数据、计算与心智 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Issues in Cognitive Science I: Attention, Perception, and Consciousness**<br>认知科学问题 I：注意、知觉与意识 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Issues in Cognitive Science II: Concepts, Theories of Mind, and Cognitive Evolution**<br>认知科学问题 II：概念、心智理论与认知进化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
@@ -177,11 +177,11 @@ ms.date: 2026-11-11
 | **Adult Speech and Language Disorders**<br>成人言语与语言障碍 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Literacy and Reading Disorders**<br>读写与阅读障碍 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Linguistics in the Workforce: Clinical Practice and Research**<br>职场中的语言学：临床实践与研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Linguistics: Sound Structure**<br>语言学导论：声音结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Linguistics: Sentence Structure and Meaning**<br>语言学导论：句子结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Linguistics: Sound Structure**<br>语言学入门：声音结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Linguistics: Sentence Structure and Meaning**<br>语言学入门：句子结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **The Science Behind Our Accents**<br>口音背后的科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Babel: Language in the Mind of Speakers**<br>巴别塔：说话者心智中的语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
-| **Introduction to Language**<br>语言导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
+| **Introduction to Language**<br>语言入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Linguistic Discrimination and Justice**<br>语言歧视与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **C.G. Jung: Stories, Patterns, Symbols**<br>C.G. 荣格：故事、模式、象征 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |
 | **Hypotheses of the Unconscious**<br>无意识假说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1160) |

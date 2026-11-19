@@ -23,8 +23,8 @@ ms.date: 2026-11-08
 | **Anatomy Lab**<br>解剖学实验课 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
 | **Jurisprudence and Safety Concepts**<br>法理学与安全概念 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
 | **Channel Studies 2**<br>渠道研究 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
-| **Introduction to Addictions and Mental Health**<br>成瘾与心理健康导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
+| **Introduction to Addictions and Mental Health**<br>成瘾与心理健康入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
 | **Interprofessional Education: Exploring Team Functioning**<br>跨专业教育：探索团队运作 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
 | **Acupuncture Point Theory**<br>针灸穴位理论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/acupuncture) |

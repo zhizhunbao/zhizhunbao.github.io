@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **DISCOVERING CHEMICAL STRUCTURE**<br>探索化学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20841&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL ENERGETICS**<br>探索化学能量学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20841&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY AND MICROORGANISMS**<br>生物学与微生物 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20841&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN PHYSIOLOGY**<br>人体生理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20841&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN PHYSIOLOGY**<br>人体生理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20841&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY HUMAN NUTRITION**<br>人体营养学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20841&SelectedCalendar=Live&ArchiveID=) |
 | **LIFECYCLE NUTRITION**<br>生命周期营养学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20841&SelectedCalendar=Live&ArchiveID=) |
 | **CULINARY NUTRITION**<br>烹饪营养学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20841&SelectedCalendar=Live&ArchiveID=) |

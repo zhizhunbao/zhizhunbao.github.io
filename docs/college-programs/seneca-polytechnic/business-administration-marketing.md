@@ -11,20 +11,20 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration – Marketing**<br>商务管理：市场营销 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM.html) |
-| **Introduction to Business Administration**<br>工商管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
+| **Introduction to Business Administration**<br>工商管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Mathematics of Business and Finance or Mathematics of Business and Finance**<br>商业与金融数学或商业与金融数学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Marketing I**<br>市场营销 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Marketing Professionalism and Careers**<br>营销职业素养与职业发展 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Advanced Computer Applications for Marketing**<br>营销高级计算机应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
-| **Introduction to Sustainable Business**<br>可持续商业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
+| **Introduction to Sustainable Business**<br>可持续商业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Accounting I**<br>会计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Business Communication for the Digital Workplace**<br>数字化职场商务沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Economics: An Overview**<br>经济学：概览 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Professional Presentations**<br>专业演示 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Marketing II**<br>市场营销 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Modern Research Methods**<br>现代研究方法 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Graphic and Web Design**<br>平面与网页设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Professional Selling**<br>专业销售 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |
 | **Applied Marketing Research**<br>应用营销研究 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BAM/courses.html) |

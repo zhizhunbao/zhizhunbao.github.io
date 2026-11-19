@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Organic Chemistry**<br>有机化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1762) |
 | **Biochemistry II: Nucleic Acids and Biological Information Flow**<br>生物化学 II：核酸与生物信息流 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1762) |
 | **Laboratory Course in Biochemical Techniques**<br>生物化学技术实验课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1762) |
-| **Introduction to Analytical Chemistry**<br>分析化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1762) |
+| **Introduction to Analytical Chemistry**<br>分析化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1762) |
 | **Physical Chemistry for Life Sciences**<br>生命科学物理化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1762) |
 | **Proteins: From Structure to Function**<br>蛋白质：从结构到功能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1762) |
 | **From Genomes to Ecosystems in a Changing World**<br>变化世界中从基因组到生态系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1762) |

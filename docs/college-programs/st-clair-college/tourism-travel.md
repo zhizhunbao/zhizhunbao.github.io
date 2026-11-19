@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Tourism - Travel**<br>旅游 - 旅行 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/tourism-travel) |
-| **Introduction To Tourism**<br>旅游导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/tourism-travel) |
+| **Introduction To Tourism**<br>旅游入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/tourism-travel) |
 | **Destinations I**<br>目的地 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/tourism-travel) |
 | **Professional Travel Presentations**<br>专业旅行演示 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/tourism-travel) |
 | **Tourism Service Excellence**<br>旅游服务卓越 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/tourism-travel) |

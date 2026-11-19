@@ -1,10 +1,10 @@
 ---
-title: "3.4.36 Engineering Sciences (Mechanical) (B.A. or B.S.)"
+title: "4.4.36 Engineering Sciences (Mechanical) (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Engineering Sciences (Mechanical) (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.36 Engineering Sciences (Mechanical) (B.A. or B.S.)
+# 4.4.36 Engineering Sciences (Mechanical) (B.A. or B.S.)
 
 ## Glossary
 
@@ -16,7 +16,7 @@ ms.date: 2026-11-18
 | **Multivariable Calculus for Engineers**<br>工程师多元微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/) |
 | **University Physics**<br>大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/) |
 | **Fundamentals of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/) |
-| **Intensive Introductory Physics**<br>强化物理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/) |
+| **Intensive Introductory Physics**<br>强化物理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/) |
 | **General Physics Laboratory**<br>普通物理实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/) |
 | **Modern Physical Measurement**<br>现代物理测量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/) |
 | **Solid Mechanics and Materials Science Laboratory**<br>固体力学与材料科学实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/) |

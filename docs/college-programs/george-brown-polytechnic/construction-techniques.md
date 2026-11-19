@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Technical Drawing**<br>工程制图 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-techniques-program-t176) |
 | **Millwright Trade Shop**<br>机修工实训车间 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-techniques-program-t176) |
 | **Electrical Trade Theory**<br>电气实训理论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-techniques-program-t176) |
-| **Introduction to Electrical Code & Prints**<br>电气规范与图纸导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-techniques-program-t176) |
+| **Introduction to Electrical Code & Prints**<br>电气规范与图纸入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-techniques-program-t176) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-techniques-program-t176) |
 | **Carpentry Trade Theory**<br>木工实训理论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-techniques-program-t176) |
 | **Carpentry Trade Shop**<br>木工实训车间 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-techniques-program-t176) |

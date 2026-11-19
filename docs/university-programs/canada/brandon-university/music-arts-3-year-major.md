@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Chromatic Harmony**<br>半音阶和声 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Aural & Keyboard Skills III**<br>听觉与键盘技能 III | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Aural & Keyboard Skills IV**<br>听觉与键盘技能 IV | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
-| **Introduction to Arts Administration**<br>艺术管理导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
+| **Introduction to Arts Administration**<br>艺术管理入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Composition**<br>作曲 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Music of the Baroque Period**<br>巴洛克时期音乐 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Music of the Classic Period**<br>古典时期音乐 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-11
 | **Post-Tonal Theory and Analysis**<br>后调性理论与分析 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **History of Music Since 1900**<br>1900 年以来的音乐史 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Philosophical Perspectives on Music**<br>音乐的哲学视角 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
-| **Introduction to Electroacoustic Music**<br>电子声学音乐导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
+| **Introduction to Electroacoustic Music**<br>电子声学音乐入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Electroacoustic Composition**<br>电子声学作曲 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Baroque Counterpoint**<br>巴洛克对位法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |
 | **Schenkerian Analysis**<br>申克分析 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=202) |

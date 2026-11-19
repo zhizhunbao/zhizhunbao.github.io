@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Scripting Fundamentals**<br>脚本基础 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/computer-engineering-technician) |
 | **Concepts of Information Security and Risk Management**<br>信息安全与风险管理概念 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/computer-engineering-technician) |
 | **Electronics I**<br>电子学 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/computer-engineering-technician) |
-| **Introduction to Networks**<br>网络导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/computer-engineering-technician) |
+| **Introduction to Networks**<br>网络入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/computer-engineering-technician) |
 | **Operating Systems II**<br>操作系统 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/computer-engineering-technician) |
 | **Scripting Applications**<br>脚本应用 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/computer-engineering-technician) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/computer-engineering-technician) |

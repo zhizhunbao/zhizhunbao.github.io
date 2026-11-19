@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Reasoning and Critical Thinking**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Philosophy: Ideas and Arguments**<br>哲学：观念与论证 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
-| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
+| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Moral Reasoning**<br>道德推理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Fundamental Philosophical Questions**<br>基本哲学问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
@@ -26,8 +26,8 @@ ms.date: 2026-11-11
 | **Quantitative Analysis in Political Science**<br>政治学中的定量分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Qualitative Methods**<br>定性方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Qualitative Analysis in Political Science**<br>政治学中的定性分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
-| **Introduction to Organizational Communication**<br>组织传播导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
-| **Introduction to Media Studies**<br>媒体研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
+| **Introduction to Organizational Communication**<br>组织传播入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
+| **Introduction to Media Studies**<br>媒体研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Organizational Communication**<br>组织传播 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Theories of the Media**<br>媒体理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Media Ethics**<br>媒体伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
@@ -38,11 +38,11 @@ ms.date: 2026-11-11
 | **Communication in Governmental Organizations**<br>政府组织中的传播 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Communication and International Development**<br>传播与国际发展 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Political Economy of the Media**<br>媒体政治经济学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
-| **Introduction to Political Science**<br>政治学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
-| **Introduction to Canadian Politics**<br>加拿大政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
-| **Introduction to International Relations and Global Politics**<br>国际关系与全球政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
-| **Introduction to Comparative Politics**<br>比较政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
-| **Introduction to Political Thought**<br>政治思想导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
+| **Introduction to Political Science**<br>政治学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
+| **Introduction to Canadian Politics**<br>加拿大政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
+| **Introduction to International Relations and Global Politics**<br>国际关系与全球政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
+| **Introduction to Comparative Politics**<br>比较政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
+| **Introduction to Political Thought**<br>政治思想入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Modern Political Thought I**<br>现代政治思想 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Modern Political Thought II**<br>现代政治思想 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |
 | **Urban Politics in Canada**<br>加拿大的城市政治 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-ba-communication-political-science/) |

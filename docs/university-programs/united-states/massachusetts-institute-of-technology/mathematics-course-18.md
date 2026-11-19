@@ -1,10 +1,10 @@
 ---
-title: "3.2.42 Mathematics (Course 18)"
+title: "4.2.42 Mathematics (Course 18)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mathematics (Course 18): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.42 Mathematics (Course 18)
+# 4.2.42 Mathematics (Course 18)
 
 ## Glossary
 
@@ -12,24 +12,24 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Mathematics (Course 18)**<br>数学（Course 18） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
-| **Introduction to Partial Differential Equations**<br>偏微分方程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
+| **Introduction to Partial Differential Equations**<br>偏微分方程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Linear Partial Differential Equations: Analysis and Numerics**<br>线性偏微分方程：分析与数值方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Real Analysis**<br>实分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Probability and Random Variables**<br>概率与随机变量 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
-| **Introduction to Numerical Analysis**<br>数值分析导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
+| **Introduction to Numerical Analysis**<br>数值分析入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Theory of Computation**<br>计算理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
-| **Introduction to Mathematical Logic and Set Theory**<br>数理逻辑与集合论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
+| **Introduction to Mathematical Logic and Set Theory**<br>数理逻辑与集合论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Algebra II**<br>代数 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Modern Algebra**<br>近世代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Applied Abstract Algebra**<br>应用抽象代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Theory of Numbers**<br>数论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
-| **Introduction to Topology**<br>拓扑学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
+| **Introduction to Topology**<br>拓扑学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Differential Geometry**<br>微分几何 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Seminar in Analysis**<br>分析研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |
 | **Undergraduate Seminar in Discrete Mathematics**<br>离散数学本科研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mathematics-course-18/) |

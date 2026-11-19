@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Co-op and Career Preparation**<br>合作教育与职业准备 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours/courses?id=36508) |
 | **Instrumental Analysis Laboratory I**<br>仪器分析实验 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours/courses?id=36508) |
 | **Instrumental Analysis Theory I**<br>仪器分析理论 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours/courses?id=36508) |
-| **Introduction to Lean Six Sigma**<br>精益六西格玛导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours/courses?id=36508) |
+| **Introduction to Lean Six Sigma**<br>精益六西格玛入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours/courses?id=36508) |
 | **Biochemistry II**<br>生物化学 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours/courses?id=36508) |
 | **Instrumental Analysis Laboratory II**<br>仪器分析实验 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours/courses?id=36508) |
 | **Instrumental Analysis Theory II**<br>仪器分析理论 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-applied-biotechnology-honours/courses?id=36508) |

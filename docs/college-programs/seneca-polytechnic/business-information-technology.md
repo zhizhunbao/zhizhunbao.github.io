@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Information Technology**<br>商务信息技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT.html) |
 | **Communication Skills IT Professionals**<br>IT专业人员沟通技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
-| **Introduction to Database Systems**<br>数据库系统导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
-| **Introduction to Networks**<br>网络导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
-| **Introduction to Open Source Systems**<br>开源系统导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
+| **Introduction to Database Systems**<br>数据库系统入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
+| **Introduction to Networks**<br>网络入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
+| **Introduction to Open Source Systems**<br>开源系统入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
 | **Fundamentals of Microsoft Systems**<br>Microsoft系统基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
-| **Introduction to Cloud Infrastructure**<br>云基础设施导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
+| **Introduction to Cloud Infrastructure**<br>云基础设施入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
 | **Advanced Database Design**<br>高级数据库设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
 | **Traditional Networks**<br>传统网络 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |
 | **Administration of Open Source Systems**<br>开源系统管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BTT/courses.html) |

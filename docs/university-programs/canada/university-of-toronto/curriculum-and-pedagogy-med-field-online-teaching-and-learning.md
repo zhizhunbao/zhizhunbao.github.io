@@ -14,11 +14,11 @@ ms.date: 2026-11-11
 | **Foundations of Curriculum & Pedagogy / Fondements de l' étude des programmes scolaires**<br>课程与教学法基础 / 课程研究基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
 | **Foundations of Online Teaching and Learning**<br>在线教学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
 | **Instructional Design: Beyond the Lecture**<br>教学设计：超越讲课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
-| **Introduction to Knowledge Building**<br>知识建构导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
+| **Introduction to Knowledge Building**<br>知识建构入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
 | **Computers in the Curriculum**<br>课程中的计算机 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
 | **The Design of Online Environments: Theory & Practice**<br>在线环境设计：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
 | **Perspectives on the Development of Computer-Mediated Communication in Education**<br>教育中计算机媒介交流发展的视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
-| **Introduction to AI in Education**<br>教育中的AI导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
+| **Introduction to AI in Education**<br>教育中的AI入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
 | **Blended Learning: Issues and Applications**<br>混合式学习：问题与应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
 | **Social Media & Education**<br>社交媒体与教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |
 | **Design and Development of Online Content, Media, and Artifacts**<br>在线内容、媒体与制品的设计与开发 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Curriculum%2C-Teaching-and-Learning) |

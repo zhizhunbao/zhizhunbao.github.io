@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Teaching English as a Second Language (TESL)**<br>英语作为第二语言教学（TESL） | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
 | **The Adult ESL Learner**<br>成人ESL学习者 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
-| **Introduction to Language 1**<br>语言导论 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
+| **Introduction to Language 1**<br>语言入门 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
 | **Methodology 1**<br>方法论 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
 | **Planning and Assessment 1**<br>规划与评估 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
 | **Professional Practicum I**<br>专业实习 I | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
 | **Teaching with Technology 1**<br>技术辅助教学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
-| **Introduction to Language 2**<br>语言导论 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
+| **Introduction to Language 2**<br>语言入门 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
 | **Methodology 2**<br>方法论 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
 | **Pedagogical Grammar**<br>教学语法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |
 | **Planning and Assessment 2**<br>规划与评估 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/teaching-english-as-a-second-language-tesl) |

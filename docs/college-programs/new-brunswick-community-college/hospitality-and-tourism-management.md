@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Hospitality and Tourism Management**<br>接待业与旅游管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bb958385-44d8-4c59-90fe-f4181b432344) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bb958385-44d8-4c59-90fe-f4181b432344) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bb958385-44d8-4c59-90fe-f4181b432344) |
 | **Entrepreneurship: Ideation and Strategies**<br>创业：创意构思与战略 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bb958385-44d8-4c59-90fe-f4181b432344) |
 | **Bar and Beverage Service Fundamentals**<br>酒吧与饮品服务基础 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bb958385-44d8-4c59-90fe-f4181b432344) |
 | **Hospitality Financial Accounting**<br>酒店财务会计 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bb958385-44d8-4c59-90fe-f4181b432344) |

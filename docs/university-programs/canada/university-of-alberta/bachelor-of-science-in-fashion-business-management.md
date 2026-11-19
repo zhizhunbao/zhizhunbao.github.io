@@ -11,15 +11,15 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science in Fashion Business Management**<br>理学学士（时装商业管理） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
-| **Introduction to Accounting for Financial Performance**<br>财务绩效会计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
-| **Introduction to Accounting for Management Decision Making**<br>管理决策会计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
+| **Introduction to Accounting for Financial Performance**<br>财务绩效会计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
+| **Introduction to Accounting for Management Decision Making**<br>管理决策会计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Communication Fundamentals for Professionals**<br>专业人员沟通基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Strategic Management in Food and Resource Businesses**<br>食品与资源企业的战略管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Intermediate Microeconomic Theory I**<br>中级微观经济理论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
-| **Introduction to Textiles**<br>纺织品导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
-| **Introduction to Material Culture**<br>物质文化导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
+| **Introduction to Textiles**<br>纺织品入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
+| **Introduction to Material Culture**<br>物质文化入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Fashion Industries**<br>时装产业 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Design Studies and Practices**<br>设计研究与实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Apparel Design and Construction Fundamentals**<br>服装设计与制作基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
@@ -28,13 +28,13 @@ ms.date: 2026-11-11
 | **Dress and Culture**<br>服饰与文化 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Quality Assurance for Textiles and Apparel**<br>纺织品与服装质量保证 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Conditions & Consequences of the Fashion Industry**<br>时装产业的条件与后果 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Consumer Behavior**<br>消费者行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Digital Marketing**<br>数字营销 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **E-Commerce and Retailing**<br>电子商务与零售 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Behavior in Organizations**<br>组织中的行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Statistical Analysis**<br>统计分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Marketing Analytics**<br>营销分析学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |
 | **Legal Foundations of the Canadian Economy**<br>加拿大经济的法律基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110732&returnto=20843) |

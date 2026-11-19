@@ -15,13 +15,13 @@ ms.date: 2026-11-08
 | **General Biology II**<br>普通生物学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **General Chemistry I**<br>普通化学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
-| **Introduction to Plant and Animal Physiology**<br>动植物生理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
+| **Introduction to Plant and Animal Physiology**<br>动植物生理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
-| **Introduction to Genetics**<br>遗传学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
+| **Introduction to Genetics**<br>遗传学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **Vascular Botany**<br>维管植物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **Comparative Vertebrate Anatomy**<br>比较脊椎动物解剖学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **Microbiology I**<br>微生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **Biology of Algae, Bryophytes, and Fungi**<br>藻类、苔藓植物与真菌生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |
 | **Invertebrate Biology**<br>无脊椎动物生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/biology-diploma-we/courses) |

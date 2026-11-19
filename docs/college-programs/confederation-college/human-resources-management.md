@@ -16,9 +16,9 @@ ms.date: 2026-11-08
 | **Compensation Management**<br>薪酬管理 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
 | **Training and Development**<br>培训与发展 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
-| **Introduction to Business Management and Organizational Behaviour**<br>企业管理与组织行为导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
+| **Introduction to Business Management and Organizational Behaviour**<br>企业管理与组织行为入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
 | **Industrial Relations**<br>劳资关系 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
-| **Introduction to Financial Management Accounting**<br>财务管理会计导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
+| **Introduction to Financial Management Accounting**<br>财务管理会计入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
 | **Recruitment & Selection**<br>招聘与选拔 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
 | **Human Resources Planning & Development**<br>人力资源规划与发展 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |
 | **Human Rights in Employment**<br>就业中的人权 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/human-resources-management/) |

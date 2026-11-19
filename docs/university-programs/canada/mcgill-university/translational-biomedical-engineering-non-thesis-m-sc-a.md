@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **Advanced Medical Imaging.**<br>高级医学影像 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-non-thesis-msca/) |
 | **Advanced MR Imaging and Spectroscopy of the Brain.**<br>大脑高级磁共振成像与波谱学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-non-thesis-msca/) |
 | **Medical Imaging.**<br>医学影像 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-non-thesis-msca/) |
-| **Introduction to Micro and Nano-Bioengineering.**<br>微纳生物工程导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-non-thesis-msca/) |
+| **Introduction to Micro and Nano-Bioengineering.**<br>微纳生物工程入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-non-thesis-msca/) |
 | **Design of Assistive Technologies: Principles and Praxis.**<br>辅助技术设计：原理与实践 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-non-thesis-msca/) |
 
 ## Courses

@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Occupational Health, Safety and Wellness**<br>职业健康、安全与保健 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness) |
 | **Organizational Effectiveness**<br>组织效能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
 | **Consulting Proposal**<br>咨询方案 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
 | **Ergonomics**<br>人机工程学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
 | **Workplace Health Promotion (Wellness)**<br>职场健康促进（健康） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
-| **Introduction to Occupational Health, Safety & Wellness**<br>职业健康、安全与保健导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
+| **Introduction to Occupational Health, Safety & Wellness**<br>职业健康、安全与保健入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
 | **Career Success Strategies**<br>职业成功策略 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
 | **Program Design, Implementation and Evaluation**<br>项目设计、实施与评估 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |
 | **Hazard Identification and Applied Safety Processes**<br>危害识别与应用安全流程 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/occupational-health-safety-and-wellness/courses?id=36723) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Theatre, B.A. General**<br>戏剧，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-general/) |
-| **Introduction to Theatre**<br>戏剧导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-general/) |
+| **Introduction to Theatre**<br>戏剧入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-general/) |
 | **Theatrical Techniques: Backstage**<br>戏剧技术：后台 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-general/) |
 | **Fundamentals of Dramatic Analysis**<br>戏剧分析基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-general/) |
 | **Theatrical Techniques: Onstage**<br>戏剧技术：台前 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-general/) |

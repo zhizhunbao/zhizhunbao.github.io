@@ -1,10 +1,10 @@
 ---
-title: "3.4.54 Linguistics (B.A.)"
+title: "4.4.54 Linguistics (B.A.)"
 description: "University Programs > United States > Yale University > Linguistics (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.54 Linguistics (B.A.)
+# 4.4.54 Linguistics (B.A.)
 
 ## Glossary
 
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **Pragmatics**<br>语用学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics/) |
 | **Morphology I**<br>形态学 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics/) |
 | **Language Acquisition**<br>语言习得 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics/) |
-| **Language: Introduction to Linguistics**<br>语言：语言学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics/) |
+| **Language: Introduction to Linguistics**<br>语言：语言学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics/) |
 | **Cognitive Science of Language**<br>语言认知科学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics/) |
 | **Research Methods in Linguistics**<br>语言学研究方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics/) |
 | **The Senior Essay**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics/) |

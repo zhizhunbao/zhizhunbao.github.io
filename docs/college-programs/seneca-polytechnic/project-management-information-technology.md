@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Diverse and Distributed Project Teams Communication Skills**<br>多元分布式项目团队沟通技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html) |
 | **IT Change and Service Management**<br>IT变更与服务管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html) |
 | **Insight to Project Management Institute Body of Knowledge**<br>项目管理协会知识体系洞察 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html) |
-| **Introduction Scrum Body of Knowledge**<br>Scrum知识体系导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html) |
+| **Introduction Scrum Body of Knowledge**<br>Scrum知识体系入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html) |
 | **System Development Lifecycle and IT Strategy Alignment**<br>系统开发生命周期与 IT 战略对齐 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html) |
 | **Collaborative Leadership for IT Project Teams**<br>IT项目团队协作领导力 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html) |
 | **Data Analytics for Finance and Project Management**<br>财务与项目管理数据分析 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html) |

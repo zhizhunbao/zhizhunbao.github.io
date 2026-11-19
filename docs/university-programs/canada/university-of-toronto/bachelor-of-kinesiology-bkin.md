@@ -18,7 +18,7 @@ ms.date: 2026-11-11
 | **Fundamentals of Human Movement**<br>人体运动基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Fitness: Principles & Practice**<br>健身：原理与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Physical Activity and Healthy Lifestyles**<br>体育活动与健康生活方式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
-| **Introduction to Movement Observation and Evaluation**<br>运动观察与评估导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
+| **Introduction to Movement Observation and Evaluation**<br>运动观察与评估入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Inquiry in Kinesiology and Physical Education**<br>运动机能学与体育教育中的探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Physical Cultural Studies: Society, Bodies and Politics**<br>身体文化研究：社会、身体与政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Psychosocial Development**<br>心理社会发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **Aging, Health and Physical Activity**<br>衰老、健康与身体活动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Developing Physical Literacy Foundations in the Early Years**<br>幼儿期身体素养基础培养 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **The Pedagogy of Playing Games**<br>游戏教学法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
-| **Introduction to Physical Activity Pedagogy**<br>体育活动教学法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
+| **Introduction to Physical Activity Pedagogy**<br>体育活动教学法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Theory of Coaching part I**<br>教练理论 第 I 部分 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Advanced Assessment and Exercise Program Design**<br>高级评估与运动方案设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |
 | **Theory of Dance Performance**<br>舞蹈表演理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/BKin) |

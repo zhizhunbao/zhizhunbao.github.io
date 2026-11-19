@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Electromechanical Engineering Technician**<br>机电工程技术员 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Engineering Graphics**<br>工程图学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
-| **Introduction to Control Circuits**<br>控制电路导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
+| **Introduction to Control Circuits**<br>控制电路入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Workshop Practices 1**<br>车间实践 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Technical Mathematics for Electromechanical Engineering**<br>机电工程技术数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
@@ -27,9 +27,9 @@ ms.date: 2026-11-08
 | **Industrial Hydraulics**<br>工业液压 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Robotics 2**<br>机器人技术 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Mechatronics 2**<br>机电一体化 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Programming**<br>编程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
-| **Introduction to Building Information Modeling (BIM)**<br>建筑信息模型 (BIM) 导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
+| **Introduction to Building Information Modeling (BIM)**<br>建筑信息模型 (BIM) 入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Mechatronics 3**<br>机电一体化 3 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **PLC Applications 1**<br>PLC应用 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |
 | **Second Year Mechatronics Project**<br>第二年机电一体化项目 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electromechanical-engineering-technician) |

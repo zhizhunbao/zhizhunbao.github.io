@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Computer Programming I**<br>计算机编程 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Designing with Raspberry Pi**<br>基于 Raspberry Pi 的设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Engineering Graphics & Design**<br>工程制图与设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
-| **Introduction to Engineering Design**<br>工程设计导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
+| **Introduction to Engineering Design**<br>工程设计入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Prototype and Practical Skills 1: Mechanical Prototyping**<br>原型与实操技能 1：机械原型制作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Prototype and Practical Skills 2: Electronics Design and Prototyping**<br>原型与实操技能 2：电子设计与原型制作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Applied Engineering Project: Protoype Development**<br>应用工程项目：原型开发 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
@@ -23,20 +23,20 @@ ms.date: 2026-11-08
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Applied Linear Algebra**<br>应用线性代数 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Calculus III**<br>微积分 III | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
-| **Introduction to Differential Equations**<br>微分方程导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
+| **Introduction to Differential Equations**<br>微分方程入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Optics, Electromagnetism, and Circuits**<br>光学、电磁学与电路 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Professional Communication for Engineering Students**<br>工程专业学生专业沟通 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Computer Programming II**<br>计算机编程 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Engineering and Technology in Society**<br>社会中的工程与技术 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Discrete Mathematics I**<br>离散数学 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Probability and Statistics for Science & Engineering**<br>理工科概率与统计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Calculus IV**<br>微积分 IV | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
-| **Introduction to Numerical Analysis**<br>数值分析导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
+| **Introduction to Numerical Analysis**<br>数值分析入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 | **Mechanics for Applied Science**<br>应用科学力学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpegess) |
 
 ## Courses

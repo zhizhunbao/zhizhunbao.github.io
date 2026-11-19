@@ -24,13 +24,13 @@ ms.date: 2026-11-08
 | **Pharmacology and Math Part 1**<br>药理学与数学 第1部分 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Practicum II Lab**<br>实习 II 实验 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Professional Practice II**<br>专业实践 II | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Health, Healing and the Nursing Process III**<br>健康、疗愈与护理程序 III | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Practicum III Lab**<br>实习 III 实验 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Professional Practice III**<br>专业实践 III | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Pharmacology and Math Part 2**<br>药理学与数学 第2部分 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Health, Healing and the Nursing Process IV**<br>健康、疗愈与护理程序 IV | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Entry to Practice Readiness**<br>执业准入准备 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |
 | **Practicum IV Lab**<br>实习 IV 实验 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=715&prg_ver=26-A) |

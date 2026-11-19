@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Time-Trekker's Travelog: Our Evolving Earth**<br>时间旅行者游记：我们演化中的地球 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/earth-sciences-bsc-general/) |
 | **Natural Disasters and Global Change**<br>自然灾害与全球变化 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/earth-sciences-bsc-general/) |
 | **Exploring the Planets**<br>探索行星 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/earth-sciences-bsc-general/) |
-| **Introduction to Mineralogy**<br>矿物学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/earth-sciences-bsc-general/) |
+| **Introduction to Mineralogy**<br>矿物学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/earth-sciences-bsc-general/) |
 
 ## Courses
 

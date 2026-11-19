@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Audio Acquisition**<br>音频采集 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/television-filmmaking-and-digital-content-creation/) |
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/television-filmmaking-and-digital-content-creation/) |
 | **Digital Content Creation 1**<br>数字内容创作 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/television-filmmaking-and-digital-content-creation/) |
-| **Introduction to Storytelling and Writing for the Screen**<br>银幕叙事与写作导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/television-filmmaking-and-digital-content-creation/) |
+| **Introduction to Storytelling and Writing for the Screen**<br>银幕叙事与写作入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/television-filmmaking-and-digital-content-creation/) |
 | **Multicamera & Technical Operations 1**<br>多机位与技术操作 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/television-filmmaking-and-digital-content-creation/) |
 | **Professional Practice of Film and TV**<br>电影与电视专业实践 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/television-filmmaking-and-digital-content-creation/) |
 | **Visual Content Creation 1**<br>视觉内容创作 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/television-filmmaking-and-digital-content-creation/) |

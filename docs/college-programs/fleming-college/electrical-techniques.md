@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Electrical Documentation**<br>电气文档 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/electrical-techniques) |
 | **Electronic Fundamentals**<br>电子学基础 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/electrical-techniques) |
 | **Installation and Maintenance Methods**<br>安装与维护方法 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/electrical-techniques) |
-| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/electrical-techniques) |
+| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/electrical-techniques) |
 | **Trade Calculations II**<br>行业计算 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/electrical-techniques) |
 | **Trade Practices**<br>行业实务 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/electrical-techniques) |
 

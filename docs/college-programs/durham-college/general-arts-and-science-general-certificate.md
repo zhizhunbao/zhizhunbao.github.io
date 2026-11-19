@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **General Arts and Science – General Certificate**<br>通识文理 - 通识证书 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-general-certificate-gasc) |
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-general-certificate-gasc) |
-| **Introduction to Computer Applications**<br>计算机应用导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-general-certificate-gasc) |
+| **Introduction to Computer Applications**<br>计算机应用入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-general-certificate-gasc) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-general-certificate-gasc) |
 | **Foundations for Academic Success**<br>学业成功基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-general-certificate-gasc) |
 | **Academic Writing for Success Strategies**<br>学术写作成功策略 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-general-certificate-gasc) |

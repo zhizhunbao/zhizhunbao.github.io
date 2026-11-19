@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Joinery and Fastening**<br>木工接合与紧固 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cote/) |
 | **Finishing Applications**<br>表面处理应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cote/) |
 | **CAD Drafting**<br>CAD 制图 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cote/) |
-| **Introduction to Electricity**<br>电学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cote/) |
+| **Introduction to Electricity**<br>电学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cote/) |
 | **Introduction to Gas Appliances**<br>燃气设备入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cote/) |
 | **Select 1 course from the General Education list during registration.**<br>注册时从通识教育列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cote/) |
 

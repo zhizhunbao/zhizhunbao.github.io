@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Medical Anthropology: Sociocultural Perspectives on Illness, Medicine and Care**<br>医学人类学：疾病、医学与照护的社会文化视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2112) |
 | **Anthropologists and Indigenous Peoples in North America**<br>人类学家与北美原住民 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2112) |
 | **Language & Society**<br>语言与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2112) |
-| **Introduction to Social Anthropological Theory**<br>社会人类学理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2112) |
+| **Introduction to Social Anthropological Theory**<br>社会人类学理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2112) |
 | **Language in Anthropological Thought**<br>人类学思想中的语言 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2112) |
 | **Medical Anthropology: an Evolutionary Perspective on Human Health**<br>医学人类学：人类健康的进化视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2112) |
 | **Fight the Power!: A Global History of Resistance and Revolution**<br>对抗权力！抵抗与革命的全球史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2112) |

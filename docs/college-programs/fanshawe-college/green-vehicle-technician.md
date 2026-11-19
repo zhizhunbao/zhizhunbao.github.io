@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Physics Fundamentals for EV's**<br>电动汽车物理基础 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6412941/courses-next/) |
 | **Introduction to Electric Vehicles**<br>电动汽车入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6412941/courses-next/) |
 | **Reason & Writing 1-Technology**<br>推理与写作 1 - 技术 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6412941/courses-next/) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6412941/courses-next/) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6412941/courses-next/) |
 | **Auto, Heavy Truck & Equip. Fundamentals**<br>汽车、重型卡车与设备基础 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6412941/courses-next/) |
 | **Electrical Systems for Electric Vehicles**<br>电动汽车电气系统 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6412941/courses-next/) |
 | **Electric Charging Infrastructure**<br>电动汽车充电基础设施 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6412941/courses-next/) |

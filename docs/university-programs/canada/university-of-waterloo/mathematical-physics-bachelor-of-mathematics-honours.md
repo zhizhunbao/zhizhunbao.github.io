@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Mathematical Physics (Bachelor of Mathematics - Honours)**<br>数学物理（数学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Calculus 4**<br>微积分 4 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
-| **Introduction to Theoretical Mechanics**<br>理论力学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
+| **Introduction to Theoretical Mechanics**<br>理论力学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Partial Differential Equations 1**<br>偏微分方程 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Continuum Mechanics**<br>连续介质力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Quantum Theory**<br>量子理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
@@ -20,14 +20,14 @@ ms.date: 2026-11-11
 | **Waves**<br>波 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Quantum Physics 1**<br>量子物理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Electricity and Magnetism 1**<br>电与磁 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
-| **Introduction to Computational Mathematics**<br>计算数学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
+| **Introduction to Computational Mathematics**<br>计算数学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Data-Driven Mathematical Models**<br>数据驱动数学模型 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Data Analysis with Fourier and Wavelet Methods**<br>傅里叶与小波方法的数据分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Scientific Machine Learning**<br>科学机器学习 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
-| **Introduction to Differential Equations**<br>微分方程导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
-| **Introduction to Differential Equations (Advanced Level)**<br>微分方程导论（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
+| **Introduction to Differential Equations**<br>微分方程入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
+| **Introduction to Differential Equations (Advanced Level)**<br>微分方程入门（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Applied Real Analysis**<br>应用实分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
-| **Introduction to Real Analysis**<br>实分析导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
+| **Introduction to Real Analysis**<br>实分析入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Real Analysis**<br>实分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Applied Complex Analysis**<br>应用复分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Complex Analysis**<br>复分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Electricity and Magnetism 2**<br>电与磁 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Statistical Mechanics and Thermodynamics**<br>统计力学与热力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Intermediate Classical Mechanics**<br>中级经典力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
-| **Introduction to General Relativity**<br>广义相对论导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
+| **Introduction to General Relativity**<br>广义相对论入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Calculus 3 for Honours Mathematics**<br>荣誉数学微积分 3 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 | **Calculus 3 (Advanced Level)**<br>微积分 3（高级水平） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ByzRyy0Rj2) |
 

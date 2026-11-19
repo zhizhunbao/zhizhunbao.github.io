@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Research Concepts and Applications**<br>研究概念与应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Soil Science and Management**<br>土壤科学与管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Crop Production Systems**<br>作物生产系统 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Pest Management and Biosecurity**<br>病虫害管理与生物安全 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Introduction to Organizational Behaviour**<br>组织行为学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Livestock Production and Management**<br>家畜生产与管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |
 | **Sustainable Practices in Agriculture**<br>农业可持续实践 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/agri/) |

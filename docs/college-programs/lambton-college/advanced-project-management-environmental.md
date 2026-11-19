@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Initiating a Project**<br>启动项目 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pmes) |
 | **Identifying Project Requirements: Scope & Quality Management**<br>识别项目需求：范围与质量管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pmes) |
 | **Sustainable Development in Canada**<br>加拿大可持续发展 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pmes) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pmes) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pmes) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pmes) |
 | **GenAI Overview for PMs Certificate**<br>项目经理生成式AI概览证书 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pmes) |
 | **Project Planning: Resource Management**<br>项目规划：资源管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/pmes) |

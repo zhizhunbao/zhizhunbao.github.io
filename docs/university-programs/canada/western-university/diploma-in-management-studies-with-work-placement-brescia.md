@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **DIPLOMA IN MANAGEMENT STUDIES WITH WORK PLACEMENT (Brescia)**<br>管理研究（含工作实习）文凭（Brescia） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS COMMUNICATIONS**<br>商务沟通 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
 | **ORGANIZATIONAL BEHAVIOR**<br>组织行为学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
 | **FINANCE FOR MANAGEMENT AND ORGANIZATIONAL STUDIES**<br>管理与组织研究金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
 | **NONPROFIT FINANCIAL MANAGEMENT**<br>非营利组织财务管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |
 | **MANAGEMENT ACCOUNTING**<br>管理会计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20876&SelectedCalendar=Live&ArchiveID=) |

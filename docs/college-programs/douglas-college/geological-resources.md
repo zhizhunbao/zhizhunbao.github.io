@@ -16,14 +16,14 @@ ms.date: 2026-11-08
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **Introductory General Physics I**<br>普通物理入门 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
-| **Introduction to Earth Sciences**<br>地球科学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
+| **Introduction to Earth Sciences**<br>地球科学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **The Structure of Matter**<br>物质结构 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **History of the Earth**<br>地球史 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **Field Methods 1**<br>野外方法 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **Resources from the Earth**<br>地球资源 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **Sedimentology & Stratigraphy**<br>沉积学与地层学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
-| **Introduction to Mineralogy**<br>矿物学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
-| **Introduction to Petrology**<br>岩石学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
+| **Introduction to Mineralogy**<br>矿物学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
+| **Introduction to Petrology**<br>岩石学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **Field Methods 2**<br>野外方法 2 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **Structural Geology**<br>构造地质学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |
 | **Resource Deposits and Maps**<br>资源矿床与地图 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpgeor) |

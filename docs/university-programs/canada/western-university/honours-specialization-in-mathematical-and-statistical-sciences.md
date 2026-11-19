@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **COMPLEX VARIABLES WITH APPLICATIONS**<br>复变函数及应用 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21071&SelectedCalendar=Live&ArchiveID=) |
 | **PARTIAL DIFFERENTIAL EQUATIONS I**<br>偏微分方程 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21071&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICAL STRUCTURES II**<br>数学结构 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21071&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ABSTRACT ALGEBRA**<br>抽象代数导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21071&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ABSTRACT ALGEBRA**<br>抽象代数入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21071&SelectedCalendar=Live&ArchiveID=) |
 | **PROBABILITY AND STATISTICS I**<br>概率与统计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21071&SelectedCalendar=Live&ArchiveID=) |
 | **PROBABILITY AND STATISTICS II**<br>概率与统计 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21071&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE PROBABILITY**<br>中级概率论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21071&SelectedCalendar=Live&ArchiveID=) |

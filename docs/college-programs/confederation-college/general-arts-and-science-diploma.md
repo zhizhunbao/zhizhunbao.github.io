@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **General Arts and Science - Diploma**<br>通识文理 - 文凭 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-diploma/) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-diploma/) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-diploma/) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-diploma/) |
 | **Success Strategies**<br>成功策略 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-diploma/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-diploma/) |
 | **Intercultural Dynamics**<br>跨文化动力学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/general-arts-and-science-diploma/) |

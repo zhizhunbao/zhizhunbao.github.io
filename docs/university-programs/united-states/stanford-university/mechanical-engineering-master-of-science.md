@@ -1,10 +1,10 @@
 ---
-title: "3.3.123 Mechanical Engineering, Master of Science"
+title: "4.3.123 Mechanical Engineering, Master of Science"
 description: "University Programs > United States > Stanford University > Mechanical Engineering, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.123 Mechanical Engineering, Master of Science
+# 4.3.123 Mechanical Engineering, Master of Science
 
 ## Glossary
 
@@ -19,18 +19,18 @@ ms.date: 2026-11-18
 | **Partial Differential Equations of Applied Mathematics**<br>应用数学中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Partial Differential Equations in Engineering**<br>工程中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Computational Methods of Applied Mathematics**<br>应用数学计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Spectral Methods in Computational Physics**<br>计算物理中的谱方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Probability Theory for Statistical Inference**<br>统计推断的概率论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Optimal and Learning-based Control**<br>最优与基于学习的控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Advanced Feedback Control Design**<br>高级反馈控制设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Decision Making under Uncertainty**<br>不确定性下的决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Multi-Robot Control and Distributed Optimization**<br>多机器人控制与分布式优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Feedback Control Design**<br>反馈控制设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Control Design Techniques**<br>控制设计技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Control Design Techniques**<br>控制设计技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Principles of Robot Autonomy I**<br>机器人自主性原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Principles of Robot Autonomy II**<br>机器人自主性原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Identification and Estimation in Engineering Design**<br>工程设计中的识别与估计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
@@ -39,10 +39,10 @@ ms.date: 2026-11-18
 | **Mechanotransduction in Cells and Tissues**<br>细胞与组织中的力学转导 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Designing Biomaterials**<br>设计生物材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Biomechanics of Movement**<br>运动生物力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Biomechanics and Mechanobiology**<br>生物力学与力学生物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Mechanics of Biological Tissues**<br>生物组织力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Dynamics and Feedback Control of Living Systems**<br>生命系统的动力学与反馈控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Neuromechanics**<br>神经力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Neuromechanics**<br>神经力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Computational Modeling in the Cardiovascular System**<br>心血管系统的计算建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Soft Composites and Soft Robotics**<br>软复合材料与软体机器人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Orthopaedic Bioengineering**<br>骨科生物工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
@@ -94,18 +94,18 @@ ms.date: 2026-11-18
 | **Advanced Topics in Plasma Science and Engineering**<br>等离子体科学与工程高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Topics in Advanced Robotic Manipulation**<br>高级机器人操作专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Collaborative Robotics**<br>协作机器人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Finite Element Analysis**<br>有限元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Continuum Mechanics**<br>连续介质力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Statistical Mechanics**<br>统计力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Statistical Mechanics**<br>统计力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Microstructure and Mechanical Properties**<br>微观结构与力学性能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Design for Extreme Affordability**<br>极致可负担设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Advanced Micro and Nano Fabrication Laboratory**<br>高级微纳加工实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Engineering Design Optimization**<br>工程设计优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Computer Vision: Foundations and Applications**<br>计算机视觉：基础与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |
 | **Deep Learning**<br>深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/mechanical-engineering/master-of-science) |

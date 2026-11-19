@@ -11,23 +11,23 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diploma in Criminal and Social Justice**<br>刑事与社会司法文凭 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Psychology: Basic Processes**<br>心理学导论：基本过程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Psychology: Basic Processes**<br>心理学入门：基本过程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **University Writing**<br>大学写作 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Politics**<br>政治学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Psychology: Personal Functioning**<br>心理学导论：个人功能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Sociology II**<br>社会学导论 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Gender, Sexuality, and Women's Studies**<br>性别、性与女性研究导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Politics**<br>政治学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Psychology: Personal Functioning**<br>心理学入门：个人功能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Sociology II**<br>社会学入门 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Gender, Sexuality, and Women's Studies**<br>性别、性与女性研究入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **Canadian Law and Legal Institutions**<br>加拿大法律与法律机构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **Social Science Research Methods**<br>社会科学研究方法 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **Deviance and Social Control**<br>越轨与社会控制 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **Applied Ethics for Criminal and Social Justice Professions**<br>刑事与社会司法职业应用伦理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **Interpersonal Relations**<br>人际关系 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **Drugs and Behaviour**<br>药物与行为 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Psychopathology**<br>精神病理学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
-| **Introduction to Psychology and Law**<br>心理学与法律导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Psychopathology**<br>精神病理学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
+| **Introduction to Psychology and Law**<br>心理学与法律入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **The Biopsychology of Behaviour**<br>行为的生物心理学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **Crime and Society**<br>犯罪与社会 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |
 | **Law, Youth and Young Offenders**<br>法律、青少年与青少年罪犯 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-criminal-and-social-justice) |

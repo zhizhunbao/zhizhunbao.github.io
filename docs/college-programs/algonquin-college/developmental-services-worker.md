@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Promoting Health and Wellness**<br>促进健康与保健 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0436A01FWO.pdf) |
 | **Person Centered Approach**<br>以人为本的方法 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0436A01FWO.pdf) |
 | **Paraprofessionals in Education**<br>教育辅助专业人员 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0436A01FWO.pdf) |
-| **Introduction to the Field of Developmental Services**<br>发展服务领域导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0436A01FWO.pdf) |
+| **Introduction to the Field of Developmental Services**<br>发展服务领域入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0436A01FWO.pdf) |
 | **Community Field Placement**<br>社区现场实习 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0436A01FWO.pdf) |
 | **Current Topics in the Field of Developmental Services**<br>发育服务领域的当前专题 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0436A01FWO.pdf) |
 | **Pharmacology I**<br>药理学 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0436A01FWO.pdf) |

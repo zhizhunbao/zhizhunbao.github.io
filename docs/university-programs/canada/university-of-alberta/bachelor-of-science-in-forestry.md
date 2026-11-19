@@ -14,17 +14,17 @@ ms.date: 2026-11-11
 | **Applications of Quantitative Models to Food, Resources and the Environment**<br>定量模型在食品、资源与环境中的应用 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Principles of Ecology**<br>生态学原理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Introductory University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Economics of Forestry**<br>林业经济学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Forest Policy**<br>森林政策 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Introductory Forestry Field School**<br>林业野外学校入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Natural Resource Measurement**<br>自然资源测量 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Plant Structure and Function**<br>植物结构与功能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
-| **Introduction to Geomatic Techniques in Natural Resource Management**<br>自然资源管理中的地理空间技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
+| **Introduction to Geomatic Techniques in Natural Resource Management**<br>自然资源管理中的地理空间技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Wildlife Biodiversity and Ecology**<br>野生动物生物多样性与生态学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Forest Measurements**<br>森林测量 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
-| **Introduction to Plant Identification**<br>植物识别导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
+| **Introduction to Plant Identification**<br>植物识别入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Wildland Fire Science and Management**<br>野火科学与管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Field Skills in Environmental, Conservation, and Forest Sciences**<br>环境、保护与森林科学的野外技能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Special Topics in Field Skills and Their Application in Forest Sciences**<br>野外技能及其在森林科学中的应用专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **Forest Health**<br>森林健康 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Indigenous Foundations for Environmental and Conservation Sciences**<br>环境与保护科学的原住民基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Public Participation and Conflict Resolution**<br>公众参与与冲突解决 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Communication Fundamentals for Professionals**<br>专业人员沟通基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Forest Soils**<br>森林土壤 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |
 | **Forest Harvesting and Transport**<br>森林采伐与运输 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109981&returnto=20843) |

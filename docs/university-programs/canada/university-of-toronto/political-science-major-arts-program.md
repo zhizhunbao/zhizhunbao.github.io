@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Political Science Major (Arts Program)**<br>政治学主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
-| **The Real World of Politics: An Introduction**<br>政治的真实世界：导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
+| **The Real World of Politics: An Introduction**<br>政治的真实世界：入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Contemporary Challenges to Democracy: Democracy in the Social Media Age**<br>民主面临的当代挑战：社交媒体时代的民主 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly**<br>哪里出了错？政治灾难、灾难性政策失败与史诗般的愚行事后检讨 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Might and Right: Power and Justice in International Relations**<br>强权与公理：国际关系中的权力与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **First-Year Foundation Seminar: Political Homes**<br>一年级基础研讨课：政治家园 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
-| **First-Year Foundation Seminar: Beyond Voting: Introduction to Citizen Political Participation**<br>一年级基础研讨课：超越投票：公民政治参与导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
+| **First-Year Foundation Seminar: Beyond Voting: Introduction to Citizen Political Participation**<br>一年级基础研讨课：超越投票：公民政治参与入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **First-Year Foundation Seminar: Politics and the Arts**<br>一年级基础研讨课：政治与艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **First-Year Foundation Seminar: Settler Colonialism and Enduring Indigeneity**<br>一年级基础研讨课：定居者殖民主义与持久的原住民性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **First-Year Foundation Seminar: The China Challenge**<br>一年级基础研讨课：中国挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-11
 | **Order and Disorder II: Problems and Solutions**<br>秩序与失序 II：难题与对策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Political Theory: Visions of the Just/Good Society**<br>政治理论：公正与良善社会的愿景 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Politics of Development**<br>发展政治学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **State, Society and Power in Comparative Perspective**<br>比较视角下的国家、社会与权力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Unpacking Political Systems: Institutions and Behavior in Comparative Perspective**<br>解析政治体系：比较视角下的制度与行为 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Canadian Government**<br>加拿大政府 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
@@ -74,15 +74,15 @@ ms.date: 2026-11-11
 | **Politics and Policy Analysis**<br>政治与政策分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Topics in Canadian Politics I**<br>加拿大政治专题 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Topics in Canadian Politics II**<br>加拿大政治专题 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
-| **Introduction to Quantitative Reasoning I**<br>定量推理导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
+| **Introduction to Quantitative Reasoning I**<br>定量推理入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
-| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
+| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Globalization and Development: Issues and Challenges**<br>全球化与发展：议题与挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Colonial Legacies and Post-Independence African Politics**<br>殖民遗产与独立后的非洲政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Women in Western Political Thought**<br>西方政治思想中的妇女 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
-| **Introduction to Latin American Politics and Societies**<br>拉丁美洲政治与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
+| **Introduction to Latin American Politics and Societies**<br>拉丁美洲政治与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Contemporary African Politics: Dynamics and Challenges**<br>当代非洲政治：动态与挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **Nationality Building in Central Europe**<br>中欧的民族构建 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |
 | **LGBTQ Politics**<br>LGBTQ政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2015) |

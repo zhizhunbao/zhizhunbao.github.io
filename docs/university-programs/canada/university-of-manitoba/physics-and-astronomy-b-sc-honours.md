@@ -16,13 +16,13 @@ ms.date: 2026-11-11
 | **Physics 2: Waves and Modern Physics (B)**<br>物理学 2：波与现代物理（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **General Physics 2 (B+)**<br>普通物理学 2 (B+) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Vector Geometry and Linear Algebra (C+)**<br>向量几何与线性代数（C+） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Calculus 2**<br>微积分 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
-| **Introduction to Astronomy: The Magnificent Universe**<br>天文学导论：壮丽的宇宙 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
+| **Introduction to Astronomy: The Magnificent Universe**<br>天文学入门：壮丽的宇宙 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Computer Programming for Scientists and Engineers**<br>科学家与工程师的计算机编程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Electromagnetic Field Theory**<br>电磁场理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Classical Mechanics 1**<br>经典力学 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
-| **Introduction to Quantum Mechanics and Special Relativity**<br>量子力学与狭义相对论导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
+| **Introduction to Quantum Mechanics and Special Relativity**<br>量子力学与狭义相对论入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Mathematical Physics 1**<br>数学物理 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Optics or Circuit Theory and Introductory Electronics**<br>光学 或 电路理论与电子学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Foundations of Astrophysics**<br>天体物理学基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **General Relativity and Gravitation**<br>广义相对论与引力 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Computational Physics**<br>计算物理学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **The Physics of Fluids**<br>流体物理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
-| **Introduction to Nuclear and Particle Physics**<br>核物理与粒子物理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
+| **Introduction to Nuclear and Particle Physics**<br>核物理与粒子物理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Cosmology and Black Holes**<br>宇宙学与黑洞 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **High-Energy Astrophysics**<br>高能天体物理学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Radio Astronomy**<br>射电天文学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
@@ -59,7 +59,7 @@ ms.date: 2026-11-11
 | **Circuit Theory and Introductory Electronics**<br>电路理论与电子学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Introductory Physics for Life Sciences: Fundamentals and Applications or Physics for Medicine & Biology**<br>生命科学物理入门：基础与应用 或 医学与生物学物理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Medical Physics and Physiological Measurement**<br>医学物理与生理测量 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
-| **Introduction to Statistics and Computing**<br>统计与计算导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
+| **Introduction to Statistics and Computing**<br>统计与计算入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 | **Medical Radiation Physics or Linear Systems for Imaging**<br>医用辐射物理 或 成像线性系统 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/physics-astronomy/physics-bsc-honours/) |
 
 ## Courses

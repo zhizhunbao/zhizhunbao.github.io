@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Techniques de chauffage, de réfrigération et de climatisation en mode accéléré**<br>供暖、制冷与空调技术员级（加速模式） | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Sécurité, codes et manuels techniques**<br>安全、规范与技术手册 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Propriétés, caractéristiques et manutention du gaz**<br>燃气的特性、特征与处理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
-| **Introduction à l'électricité**<br>电学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
-| **Introduction aux tuyauteries de gaz**<br>燃气管道导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
-| **Introduction aux appareils au gaz**<br>燃气设备导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
+| **Introduction à l'électricité**<br>电学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
+| **Introduction aux tuyauteries de gaz**<br>燃气管道入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
+| **Introduction aux appareils au gaz**<br>燃气设备入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Mathématiques**<br>数学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Stratégies de communication en milieu professionnel**<br>职场沟通策略 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Communication orale en milieu professionnel**<br>职业口头沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Foundations of English**<br>英语基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Oral Communication: Beginner Level**<br>口语交际：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Oral Communication: Intermediate Level**<br>口语交际：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
-| **Introduction au métier TCRC**<br>TCRC职业导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
+| **Introduction au métier TCRC**<br>TCRC职业入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Stage d'exploration**<br>探索实习 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Électricité appliquée**<br>应用电学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |
 | **Systèmes de tuyauterie basse pression**<br>低压管道系统 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51556) |

@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Cardiac Devices I**<br>心脏设备 I | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=728&prg_ver=26-A) |
 | **Electrophysiology**<br>电生理学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=728&prg_ver=26-A) |
 | **Cardiac Rehabilitation Science**<br>心脏康复科学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=728&prg_ver=26-A) |
-| **Introduction To Pediatric Cardiology**<br>儿科心脏病学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=728&prg_ver=26-A) |
+| **Introduction To Pediatric Cardiology**<br>儿科心脏病学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=728&prg_ver=26-A) |
 | **Holter Monitoring II**<br>霍尔特监测 II | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=728&prg_ver=26-A) |
 | **Cardiovascular Diagnostics and Interventions**<br>心血管诊断与介入 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=728&prg_ver=26-A) |
 | **Clinical Practice II**<br>临床实践 II | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=728&prg_ver=26-A) |

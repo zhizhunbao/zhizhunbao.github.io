@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **ASL to English Interpreting Skills**<br>美国手语到英语口译技能 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 | **Pre-Interpreting ASL I**<br>传译预科美国手语 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 | **Discourse Analysis and Translation**<br>话语分析与翻译 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 | **Language Variation in ASL**<br>美国手语的语言变体 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 | **Pre-Interpreting ASL II**<br>传译预科美国手语 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Professional and Business Practices**<br>专业与商务实务 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 | **Applied Interpreting III**<br>应用口译 III | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 | **Digital Media Production**<br>数字媒体制作 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/american-sign-language-english-interpretation) |
 
 ## Courses

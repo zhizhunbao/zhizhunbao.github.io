@@ -1,19 +1,19 @@
 ---
-title: "3.3.69 Anthropology, Master of Arts"
+title: "4.3.69 Anthropology, Master of Arts"
 description: "University Programs > United States > Stanford University > Anthropology, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.69 Anthropology, Master of Arts
+# 4.3.69 Anthropology, Master of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Anthropology, Master of Arts**<br>人类学，文学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |
-| **Introduction to Graduate Studies**<br>研究生学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |
+| **Introduction to Graduate Studies**<br>研究生学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |
 | **Master's Project**<br>硕士项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |
-| **Introduction to Archaeological Thought**<br>考古思想导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |
+| **Introduction to Archaeological Thought**<br>考古思想入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |
 | **Contemporary Debates in Archaeological Thought**<br>考古思想的当代争论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |
 | **Archaeological Methods**<br>考古方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |
 | **History of Anthropological Theory, Culture and Society**<br>人类学理论、文化与社会的历史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/master-of-arts) |

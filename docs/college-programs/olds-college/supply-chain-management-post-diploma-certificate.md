@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Supply Chain Management Post-Diploma Certificate**<br>供应链管理文凭后证书 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/post-diploma-certificate-business-supply-chain-management.html) |
 | **Financial Literacy for Non-Financial Managers**<br>非财务经理财务素养 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/post-diploma-certificate-business-supply-chain-management.html) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/post-diploma-certificate-business-supply-chain-management.html) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/post-diploma-certificate-business-supply-chain-management.html) |
 | **Logistics and Planning**<br>后勤与规划 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/post-diploma-certificate-business-supply-chain-management.html) |
 | **Inventory and Materials Management**<br>库存与物料管理 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/post-diploma-certificate-business-supply-chain-management.html) |
 | **Transportation and Distribution**<br>运输与配送 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/business/post-diploma-certificate-business-supply-chain-management.html) |

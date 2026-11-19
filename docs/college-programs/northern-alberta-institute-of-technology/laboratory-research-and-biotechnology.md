@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Laboratory Research and Biotechnology**<br>实验室研究与生物技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Laboratory Techniques and Calculations**<br>实验室技术与计算 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Biological Diversity**<br>生物多样性 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Communications in the Biological Sciences**<br>生物科学沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Introductory Organic Chemistry for Biologists**<br>生物学专业有机化学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Principles in Microbiology**<br>微生物学原理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
@@ -23,10 +23,10 @@ ms.date: 2026-11-08
 | **Statistics for Science and Technology**<br>科学与技术统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Cell Culture**<br>细胞培养 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Instrumental Analysis**<br>仪器分析 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
-| **Introduction to Lab Animal Care**<br>实验动物护理导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
+| **Introduction to Lab Animal Care**<br>实验动物护理入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Bioinformatics**<br>生物信息学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Eukaryotic Cell Biology**<br>真核细胞生物学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
-| **Introduction to Molecular Biology**<br>分子生物学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
+| **Introduction to Molecular Biology**<br>分子生物学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Immunology**<br>免疫学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Advanced Molecular Biology**<br>高级分子生物学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |
 | **Biotechnology Project**<br>生物技术项目 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/lab-research) |

@@ -18,15 +18,15 @@ ms.date: 2026-11-08
 | **Environmental Geography**<br>环境地理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Our Changing Environment: Climate and Ecosystems**<br>我们变化的环境：气候与生态系统 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **General Biology I**<br>普通生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to Environmental Ecology**<br>环境生态学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to Environmental Ecology**<br>环境生态学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **General Biology II**<br>普通生物学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Biodiversity and Conservation Biology**<br>生物多样性与保护生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Environmental Chemistry for Arts Majors I**<br>文科专业环境化学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **General Chemistry I**<br>普通化学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Environmental Chemistry for Arts Majors II**<br>文科专业环境化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
@@ -34,13 +34,13 @@ ms.date: 2026-11-08
 | **Dynamic Earth**<br>动力地球 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Aboriginal Community Development**<br>原住民社区发展 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Urban Aboriginal Strategies**<br>城市原住民策略 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Colonialism and Reconciliation in BC**<br>BC 省的殖民主义与和解 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Vascular Botany**<br>维管植物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Microbiology I**<br>微生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Biology of Algae, Bryophytes, and Fungi**<br>藻类、苔藓植物与真菌生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Invertebrate Biology**<br>无脊椎动物生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
@@ -60,20 +60,20 @@ ms.date: 2026-11-08
 | **Urban Geography**<br>城市地理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Geography of British Columbia**<br>不列颠哥伦比亚地理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Sustainable Resource and Environmental Management**<br>可持续资源与环境管理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Contemporary Canadian Urban Life**<br>当代加拿大都市生活 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Geographies of Money and Power**<br>货币与权力地理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Advanced Geomorphology**<br>高级地貌学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Natural Hazards**<br>自然灾害 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Modern British Columbia**<br>现代不列颠哥伦比亚 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Environmental History**<br>环境史 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学导论：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to Philosophy: (Ethics, Social and Political Philosophy)**<br>哲学入门：（伦理学、社会与政治哲学） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Environmental Ethics**<br>环境伦理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Contemporary Moral Issues**<br>当代道德问题 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **International Political Economy**<br>国际政治经济学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
-| **Introduction to Environmental Sociology**<br>环境社会学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
+| **Introduction to Environmental Sociology**<br>环境社会学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 | **Statistical Methods I**<br>统计方法 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-diploma-arts-and-science/courses) |
 
 ## Courses

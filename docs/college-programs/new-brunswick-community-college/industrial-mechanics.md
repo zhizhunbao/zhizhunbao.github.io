@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Work Safely**<br>安全作业 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e80ed782-e20c-4833-9b6e-63800ecbdd33) |
 | **Rigging for Industrial Mechanics**<br>工业机械工索具 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e80ed782-e20c-4833-9b6e-63800ecbdd33) |
 | **Shop Tools and Equipment**<br>车间工具与设备 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e80ed782-e20c-4833-9b6e-63800ecbdd33) |
-| **Introduction to Industrial Mechanics Welding**<br>工业机械焊接导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e80ed782-e20c-4833-9b6e-63800ecbdd33) |
+| **Introduction to Industrial Mechanics Welding**<br>工业机械焊接入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e80ed782-e20c-4833-9b6e-63800ecbdd33) |
 | **Oxy-Fuel Processes**<br>氧燃料工艺 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=e80ed782-e20c-4833-9b6e-63800ecbdd33) |
 
 ## Courses

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Communication for Skilled Trades**<br>技术工种沟通 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=484&prg_ver=26-A) |
 | **Trade Calculations 1 Electrical Technician**<br>行业计算 1 电气技术员 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=484&prg_ver=26-A) |
 | **Electricity for Elevating Devices**<br>升降设备电气 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=484&prg_ver=26-A) |
-| **Introduction to Elevating Devices and the B44 Code Book**<br>升降设备与B44规范手册导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=484&prg_ver=26-A) |
+| **Introduction to Elevating Devices and the B44 Code Book**<br>升降设备与B44规范手册入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=484&prg_ver=26-A) |
 | **Mechanical Practice and Print Reading**<br>机械实践与识图 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=484&prg_ver=26-A) |
 | **Safety for Elevating Devices Mechanics**<br>升降设备机械师安全 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=484&prg_ver=26-A) |
 | **CAD Concepts 1**<br>CAD概念 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=484&prg_ver=26-A) |

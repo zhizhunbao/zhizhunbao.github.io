@@ -14,9 +14,9 @@ ms.date: 2026-11-11
 | **Oral Immersion Michif 1**<br>口语沉浸式米奇夫语 1 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
 | **Oral Immersion Michif 2**<br>口语沉浸式米奇夫语 2 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
 | **Indigenous Ways of Knowing**<br>原住民认知方式 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
-| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究导论：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
+| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究入门：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
 | **Indigenous Languages: Resilience and Identity**<br>原住民语言：韧性与身份认同 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
 | **Nutrition for Health and Wellness**<br>健康与保健营养学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |
 | **Language and Culture**<br>语言与文化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=5) |

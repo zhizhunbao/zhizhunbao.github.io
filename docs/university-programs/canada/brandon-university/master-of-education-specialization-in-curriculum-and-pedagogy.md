@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education, SPECIALIZATION IN CURRICULUM AND PEDAGOGY**<br>教育学硕士，课程与教学法专业方向 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
-| **Introduction to Educational Research Methodologies**<br>教育研究方法论导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
+| **Introduction to Educational Research Methodologies**<br>教育研究方法论入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
 | **Overview of Educational Issues**<br>教育问题概述 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
 | **Curriculum Foundations**<br>课程基础 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
 | **Innovative Pedagogies**<br>创新教学法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Conceptualizations of Science and Mathematics Education**<br>科学与数学教育的概念化 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
 | **Trends and Development in Teaching Middle/Senior Years Mathematics**<br>中高年级数学教学的趋势与发展 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
 | **Wild Pedagogies**<br>野性教学法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
-| **Introduction to Educational Technology: Theory & Practice**<br>教育技术导论：理论与实践 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
+| **Introduction to Educational Technology: Theory & Practice**<br>教育技术入门：理论与实践 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
 | **Practicum in Education (max 6 cr. hrs. in program)**<br>教育实习（课程中最多 6 学分） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
 | **Practicum in Community-Based Research**<br>社区研究实习 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |
 | **Action Research**<br>行动研究 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=25) |

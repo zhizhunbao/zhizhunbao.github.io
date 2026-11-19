@@ -1,20 +1,20 @@
 ---
-title: "3.3.107 Epidemiology and Clinical Research, Master of Science"
+title: "4.3.107 Epidemiology and Clinical Research, Master of Science"
 description: "University Programs > United States > Stanford University > Epidemiology and Clinical Research, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.107 Epidemiology and Clinical Research, Master of Science
+# 4.3.107 Epidemiology and Clinical Research, Master of Science
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Epidemiology and Clinical Research, Master of Science**<br>流行病学与临床研究，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
-| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
+| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Intermediate Epidemiologic and Clinical Research Methods**<br>中级流行病学与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Design and Conduct of Clinical Trials**<br>临床试验的设计与实施 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Intermediate Biostatistics: Analysis of Discrete Data**<br>中级生物统计学：离散数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Epidemiology Research Seminar**<br>流行病学研究研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-18
 | **Meta-research: Appraising Research Findings, Bias, and Meta-analysis**<br>元研究：评估研究发现、偏倚与荟萃分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Scientific Writing**<br>科学写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Evaluating Technologies for Diagnosis, Prediction and Screening**<br>诊断、预测与筛查技术的评估 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
-| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
+| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Genetic Epidemiology**<br>遗传流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Advanced Epidemiologic Methods**<br>高级流行病学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Epidemiology of Infectious Diseases**<br>传染病流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-18
 | **Epidemic Intelligence: How to Identify, Investigate and Interrupt Outbreaks of Disease**<br>疫情情报：如何识别、调查并阻断疾病暴发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Human Health and the Environment**<br>人类健康与环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Cancer Epidemiology and Prevention**<br>癌症流行病学与预防 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
-| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
+| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Social Epidemiology**<br>社会流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Foundations of Statistical and Scientific Inference**<br>统计与科学推断基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Using Real-World Data for Clinical and Population Health Research**<br>运用真实世界数据开展临床与人群健康研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-18
 | **Outcomes Analysis**<br>结果分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Advanced Decision Science Methods and Modeling in Health**<br>健康领域的高级决策科学方法与建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Health Law: Finance and Insurance**<br>卫生法：融资与保险 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
-| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析导论：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
+| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析入门：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **The Vaccine Revolution**<br>疫苗革命 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Microbe-Host Interactions in Health and Disease**<br>健康与疾病中的微生物与宿主相互作用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |
 | **Health Policy Modeling**<br>健康政策建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/master-of-science) |

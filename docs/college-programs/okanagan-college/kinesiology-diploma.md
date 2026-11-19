@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Health Behaviour Change**<br>健康行为改变 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/kinesiology-diploma) |
 | **Professionalism in Fitness and Recreation**<br>健身与休闲中的职业素养 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/kinesiology-diploma) |
 | **Fitness Testing and Exercise Prescription**<br>体能测试与运动处方 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/kinesiology-diploma) |
-| **Introduction to Athletic Injuries**<br>运动损伤导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/kinesiology-diploma) |
+| **Introduction to Athletic Injuries**<br>运动损伤入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/kinesiology-diploma) |
 | **Management Principles**<br>管理学原理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/kinesiology-diploma) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/kinesiology-diploma) |
 | **Financial Accounting I**<br>财务会计 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/kinesiology-diploma) |

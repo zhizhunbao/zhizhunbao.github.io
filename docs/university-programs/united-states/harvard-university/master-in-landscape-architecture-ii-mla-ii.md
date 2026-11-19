@@ -1,10 +1,10 @@
 ---
-title: "3.1.56 Master in Landscape Architecture II (MLA II)"
+title: "4.1.56 Master in Landscape Architecture II (MLA II)"
 description: "University Programs > United States > Harvard University > Master in Landscape Architecture II (MLA II): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.56 Master in Landscape Architecture II (MLA II)
+# 4.1.56 Master in Landscape Architecture II (MLA II)
 
 ## Glossary
 

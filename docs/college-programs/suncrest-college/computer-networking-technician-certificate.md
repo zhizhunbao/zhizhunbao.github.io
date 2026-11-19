@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **CISCO Network Associate 1B**<br>CISCO 网络助理 1B | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/computer-networking-technician-certificate) |
 | **CISCO Network Associate 2A**<br>CISCO 网络助理 2A | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/computer-networking-technician-certificate) |
 | **Programming with Python**<br>Python 编程 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/computer-networking-technician-certificate) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/computer-networking-technician-certificate) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/computer-networking-technician-certificate) |
 | **Managing Modern Desktops**<br>现代桌面管理 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/computer-networking-technician-certificate) |
 | **CISCO Network Associate 2B**<br>CISCO 网络助理 2B | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/computer-networking-technician-certificate) |
 | **CISCO Network Associate 3A**<br>CISCO 网络助理 3A | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/computer-networking-technician-certificate) |

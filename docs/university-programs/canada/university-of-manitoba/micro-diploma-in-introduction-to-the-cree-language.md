@@ -10,14 +10,14 @@ ms.date: 2026-11-11
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **Micro-Diploma in Introduction to the Cree Language**<br>克里语导论微型文凭 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
+| **Micro-Diploma in Introduction to the Cree Language**<br>克里语入门微型文凭 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
 | **Introductory Cree 1**<br>克里语入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
 | **Introductory Cree 1 - Pass/Fail Option**<br>克里语入门 1：及格/不及格选项 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
 | **Introductory Cree 2**<br>克里语入门 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
 | **Introductory Cree 2 - Pass/Fail Option**<br>克里语入门 2：及格/不及格选项 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
 | **Indigenous Language Planning and Development**<br>原住民语言规划与发展 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
-| **Introduction to Linguistics: Foundations of Language**<br>语言学导论：语言基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
-| **Introduction to Linguistics: Language in Context**<br>语言学导论：语境中的语言 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
+| **Introduction to Linguistics: Foundations of Language**<br>语言学入门：语言基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
+| **Introduction to Linguistics: Language in Context**<br>语言学入门：语境中的语言 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
 | **Language Endangerment**<br>语言濒危 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
 | **Indigenous Languages in Context**<br>语境中的原住民语言 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |
 | **Languages of Canada**<br>加拿大的语言 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/indigenous-studies/micro-diploma-introduction-cree-language/) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Information Technology (Computer and Communication Networks) – Diploma Pathway**<br>信息技术荣誉学士（计算机与通信网络）– 文凭衔接路径 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-it-computer-communication-network) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-it-computer-communication-network) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-it-computer-communication-network) |
 | **The Power of Communications**<br>传播的力量 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-it-computer-communication-network) |
 | **Applied Mathematics**<br>应用数学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-it-computer-communication-network) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-it-computer-communication-network) |

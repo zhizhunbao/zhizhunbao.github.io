@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Mathematics for the Trades**<br>技工数学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/electrical-engineering-technician) |
 | **Residential Prints and Standards**<br>住宅图纸与标准 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/electrical-engineering-technician) |
 | **Commercial Installations**<br>商业安装 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/electrical-engineering-technician) |
-| **Introduction to Renewable Energy**<br>可再生能源导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/electrical-engineering-technician) |
+| **Introduction to Renewable Energy**<br>可再生能源入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/electrical-engineering-technician) |
 | **Industrial Electronics Devices 1**<br>工业电子器件 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/electrical-engineering-technician) |
 | **Commercial Prints and Standards**<br>商业印刷与标准 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/electrical-engineering-technician) |
 | **General Education Elective (Open)**<br>通识教育选修课（开放） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/electrical-engineering-technician) |

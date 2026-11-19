@@ -1,10 +1,10 @@
 ---
-title: "3.2.130 Neuroscience and Statistics (PhD)"
+title: "4.2.130 Neuroscience and Statistics (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Neuroscience and Statistics (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.130 Neuroscience and Statistics (PhD)
+# 4.2.130 Neuroscience and Statistics (PhD)
 
 ## Glossary
 

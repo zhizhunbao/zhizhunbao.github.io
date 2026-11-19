@@ -30,14 +30,14 @@ ms.date: 2026-11-08
 | **Nutrition II**<br>营养学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
 | **Descriptive and Elementary Inferential Statistics**<br>描述统计与初等推断统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
 | **Intermediate Statistical Inference**<br>中级统计推断 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
-| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
-| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
-| **Introduction to Sociology: Models and Concepts**<br>社会学导论：模型与概念 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
-| **Introduction to Sociology: Structures and Processes**<br>社会学导论：结构与过程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
+| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
+| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
+| **Introduction to Sociology: Models and Concepts**<br>社会学入门：模型与概念 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
+| **Introduction to Sociology: Structures and Processes**<br>社会学入门：结构与过程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/food-and-nutrition-associate-science-degree/courses) |
 
 ## Courses
 

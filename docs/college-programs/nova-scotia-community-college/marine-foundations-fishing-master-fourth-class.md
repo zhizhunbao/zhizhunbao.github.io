@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Navigation Safety 1**<br>航行安全 1 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-fishing-master-fourth-class) |
 | **Ship Construction and Stability 1**<br>船舶建造与稳性 1 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-fishing-master-fourth-class) |
 | **Simulated Electronic Navigation - Limited**<br>模拟电子导航：有限 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-fishing-master-fourth-class) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-fishing-master-fourth-class) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-fishing-master-fourth-class) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-fishing-master-fourth-class) |
 
 ## Courses

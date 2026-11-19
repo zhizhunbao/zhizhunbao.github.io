@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment/courses?id=36299) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment/courses?id=36299) |
 | **Applied Mathematics**<br>应用数学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment/courses?id=36299) |
-| **Introduction to Heavy Equipment Service and Repair**<br>重型设备维修导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment/courses?id=36299) |
+| **Introduction to Heavy Equipment Service and Repair**<br>重型设备维修入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment/courses?id=36299) |
 | **Drawings, Schematics and Basic Electricity**<br>图纸、原理图与基础电学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment/courses?id=36299) |
 | **Trade and Repair Practices**<br>行业与维修实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment/courses?id=36299) |
 | **Welding for Motive Power**<br>动力设备焊接 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/motive-power-technician-heavy-duty-equipment/courses?id=36299) |

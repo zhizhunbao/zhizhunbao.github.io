@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **English Second Language - Level B1.3**<br>英语作为第二语言 - B1.3级 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/reseautique-et-securite-informatique/) |
 | **Infrastructure virtuelle**<br>虚拟基础设施 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/reseautique-et-securite-informatique/) |
 | **English for Work (A2.2)**<br>职场英语（A2.2） | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/reseautique-et-securite-informatique/) |
-| **Introduction aux réseaux**<br>网络导论 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/reseautique-et-securite-informatique/) |
+| **Introduction aux réseaux**<br>网络入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/reseautique-et-securite-informatique/) |
 | **Sécurité informatique**<br>计算机安全 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/reseautique-et-securite-informatique/) |
 | **Serveurs informatiques III**<br>计算机服务器 III | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/reseautique-et-securite-informatique/) |
 | **Matériel informatique II**<br>计算机硬件 II | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/reseautique-et-securite-informatique/) |

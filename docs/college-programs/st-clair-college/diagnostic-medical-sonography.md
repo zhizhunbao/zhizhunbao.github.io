@@ -18,12 +18,12 @@ ms.date: 2026-11-08
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **Pelvic Sonography & Pathology**<br>盆腔超声与病理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **Abdominal Sonography II**<br>腹部超声检查 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
-| **Introduction To Patient Care**<br>患者护理导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
+| **Introduction To Patient Care**<br>患者护理入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **High Resolution Imaging & Msk**<br>高分辨率成像与肌骨 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **Pathophysiology For Sonographers**<br>超声技师病理生理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **Clinical Sonography I**<br>临床超声检查 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **Sonography Physics II**<br>超声物理学 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
-| **Introduction To Vascular Sonography**<br>血管超声导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
+| **Introduction To Vascular Sonography**<br>血管超声入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **Advanced Sonography Techniques**<br>高级超声技术 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **Obstetric Sonography I**<br>产科超声 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |
 | **Clinical Sonography II**<br>临床超声检查 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-medical-sonography) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Physiology and Physics Major (B.Sc.)**<br>生理学与物理学主修（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-physics-major-bsc/) |
-| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-physics-major-bsc/) |
+| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-physics-major-bsc/) |
 | **Quantitative Biology Seminar.**<br>定量生物学研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-physics-major-bsc/) |
 | **Calculus 3.**<br>微积分 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-physics-major-bsc/) |
 | **Linear Algebra.**<br>线性代数 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-physics-major-bsc/) |

@@ -15,12 +15,12 @@ ms.date: 2026-11-08
 | **Graphic Design**<br>平面设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 | **Media Evolution**<br>媒体演进 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 | **Working in Creative Industries**<br>创意产业工作实务 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
-| **Introduction to Sound Design**<br>声音设计导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
+| **Introduction to Sound Design**<br>声音设计入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 | **Essential Communications**<br>基础沟通 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 | **Telling Stories for Screens**<br>为屏幕讲故事 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 | **Social Media Technology**<br>社交媒体技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 | **Content Creation Lab**<br>内容创作实验课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
-| **Introduction to Podcasting**<br>播客导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
+| **Introduction to Podcasting**<br>播客入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 | **Global Media and Popular Culture**<br>全球媒体与流行文化 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/media-fundamentals) |
 

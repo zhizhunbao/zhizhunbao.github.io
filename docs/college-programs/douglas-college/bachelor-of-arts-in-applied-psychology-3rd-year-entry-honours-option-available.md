@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Arts in Applied Psychology (3rd year entry) (Honours option available)**<br>应用心理学文学学士（三年级入学）（可选荣誉学位） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baapsyc) |
-| **An Introduction to Social Psychology**<br>社会心理学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baapsyc) |
+| **An Introduction to Social Psychology**<br>社会心理学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baapsyc) |
 | **Applications of Psychological Knowledge (Service Learning & Research)**<br>心理学知识的应用（服务学习与研究） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baapsyc) |
 | **Critical Issues in Psychology**<br>心理学关键议题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baapsyc) |
 | **History and Philosophy of Modern Psychology (see program coordinator for availability)**<br>现代心理学史与哲学（可用性请咨询项目协调人） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baapsyc) |

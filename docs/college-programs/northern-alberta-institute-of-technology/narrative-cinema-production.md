@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Communications for the Global Screen Industry**<br>全球银幕产业沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/narrative-cinema-production) |
 | **Digital Video & Sound Capture**<br>数字视频与声音采集 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/narrative-cinema-production) |
 | **Production Planning Process**<br>生产计划流程 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/narrative-cinema-production) |
-| **Introduction to Editing**<br>剪辑导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/narrative-cinema-production) |
+| **Introduction to Editing**<br>剪辑入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/narrative-cinema-production) |
 | **Intellectual Property & Monetization**<br>知识产权与变现 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/narrative-cinema-production) |
 | **Storytelling for Nonfiction**<br>非虚构叙事 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/narrative-cinema-production) |
 | **Professionalism for the Global Film Industry**<br>全球电影业职业素养 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/narrative-cinema-production) |

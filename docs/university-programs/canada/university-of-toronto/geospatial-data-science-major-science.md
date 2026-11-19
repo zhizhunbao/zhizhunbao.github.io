@@ -13,14 +13,14 @@ ms.date: 2026-11-11
 | **GeoSpatial Data Science - Major (Science)**<br>地理空间数据科学－主修（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **Spatial Data Science I**<br>空间数据科学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **Probability and Statistics I**<br>概率与统计 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
-| **Introduction to GIScience**<br>GIScience导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
+| **Introduction to GIScience**<br>GIScience入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **Advanced GIScience**<br>高级地理信息科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **Environmental Remote Sensing**<br>环境遥感 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **Digital Mapping and Principles of Cartography**<br>数字制图与地图学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **Neural Networks and Deep Learning**<br>神经网络与深度学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
-| **Introduction to Mobile Robotics**<br>移动机器人导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
+| **Introduction to Mobile Robotics**<br>移动机器人入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **Geological Remote Sensing**<br>地质遥感 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **Landscape Biogeography**<br>景观生物地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |
 | **GIS and Population Health**<br>GIS 与人口健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0305) |

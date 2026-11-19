@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Professional Issues in Computing**<br>计算领域的专业问题 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/cloud-and-information-technology-systems) |
 | **Virtualization Technology Fundamentals**<br>虚拟化技术基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/cloud-and-information-technology-systems) |
 | **Communications Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/cloud-and-information-technology-systems) |
-| **Introduction to Cloud Computing**<br>云计算导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/cloud-and-information-technology-systems) |
+| **Introduction to Cloud Computing**<br>云计算入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/cloud-and-information-technology-systems) |
 | **Communications for IT**<br>IT 沟通 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/cloud-and-information-technology-systems) |
 | **Windows Client-Server Administration Fundamentals**<br>Windows客户端-服务器管理基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/cloud-and-information-technology-systems) |
 | **Database Fundamentals and Administration**<br>数据库基础与管理 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/cloud-and-information-technology-systems) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificat de traduction**<br>翻译证书 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---certificat-de-traduction/index.html) |
-| **Introduction à la traduction**<br>翻译导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---certificat-de-traduction/index.html) |
+| **Introduction à la traduction**<br>翻译入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---certificat-de-traduction/index.html) |
 | **Terminologie bilingue et documentation**<br>双语术语与文献 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---certificat-de-traduction/index.html) |
 | **Traduction générale (anglais-français)**<br>通用翻译（英法） | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---certificat-de-traduction/index.html) |
 | **Lexicologie comparée**<br>比较词汇学 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/ecole-de-traduction---certificat-de-traduction/index.html) |

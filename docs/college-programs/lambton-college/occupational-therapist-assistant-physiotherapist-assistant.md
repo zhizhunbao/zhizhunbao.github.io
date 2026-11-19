@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Occupational Therapist Assistant & Physiotherapist Assistant**<br>职业治疗师助理与物理治疗师助理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OPTA) |
 | **Human Anatomy & Physiology I**<br>人体解剖学与生理学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OPTA) |
 | **Human Movement & Functions**<br>人体运动与功能 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OPTA) |
-| **Introduction to Rehabilitation**<br>康复导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OPTA) |
+| **Introduction to Rehabilitation**<br>康复入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OPTA) |
 | **Clinical Conditions in Rehabilitation**<br>康复中的临床状况 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OPTA) |
 | **Critical Thinking & Writing**<br>批判性思维与写作 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OPTA) |
 | **Human Growth & Development**<br>人类成长与发展 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/OPTA) |

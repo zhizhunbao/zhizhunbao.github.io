@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Bachelor of Community and Criminal Justice (Honours)**<br>社区与刑事司法学士（荣誉） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours/courses?id=36187) |
 | **Academic Communications**<br>学术交流 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours/courses?id=36187) |
-| **Introduction to Social Justice**<br>社会正义导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours/courses?id=36187) |
+| **Introduction to Social Justice**<br>社会正义入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours/courses?id=36187) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours/courses?id=36187) |
 | **Psychology: Basic Processes Of Behaviour**<br>心理学：行为的基本过程 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours/courses?id=36187) |
 | **Electives: Interdisciplinary Elective**<br>选修课：跨学科选修 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-community-and-criminal-justice-honours/courses?id=36187) |

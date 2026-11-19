@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Legal Studies**<br>法律研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
-| **Introduction to Business Law**<br>商法导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
+| **Introduction to Business Law**<br>商法入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **The Criminal Justice System**<br>刑事司法体系 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
-| **Introduction to the Canadian Legal System**<br>加拿大法律体系导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
+| **Introduction to the Canadian Legal System**<br>加拿大法律体系入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **The Administration of Justice**<br>司法行政 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **Criminal Procedure and Evidence**<br>刑事诉讼程序与证据 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
@@ -21,8 +21,8 @@ ms.date: 2026-11-08
 | **Legal Processes and Remedies**<br>法律程序与救济 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **Private Law**<br>私法 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **Public Law**<br>公法 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
-| **Introduction to Canadian Government**<br>加拿大政府导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
-| **An Introduction to Psychology (I)**<br>心理学导论（I） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
+| **Introduction to Canadian Government**<br>加拿大政府入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
+| **An Introduction to Psychology (I)**<br>心理学入门（I） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **Values and Contemporary Issues**<br>价值观与当代问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |
 | **Knowledge, Reason and Experience**<br>知识、理性与经验 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dplegal) |

@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Immersive Technologies 1**<br>沉浸式技术 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) |
 | **Professional Practices 2**<br>专业实践 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) |
 | **User Experience Design 3**<br>用户体验设计 3 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) |
 | **Digital Marketing 2**<br>数字营销 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) |
 | **3D Fundamentals 2**<br>三维基础 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) |
 | **Immersive Technologies 2**<br>沉浸式技术 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx) |

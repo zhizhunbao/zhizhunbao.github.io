@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **Computer Programming for Life Sciences.**<br>生命科学计算机编程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/) |
 | **Principles of Statistics 1.**<br>统计学原理 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/) |
 | **Calculus 3.**<br>微积分 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/) |
 | **Protein Structure and Function.**<br>蛋白质结构与功能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/) |
 | **Nucleic Acids.**<br>核酸 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/) |
 | **Membranes and Cellular Signaling.**<br>膜与细胞信号传导 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/) |

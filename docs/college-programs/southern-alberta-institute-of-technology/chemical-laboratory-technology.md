@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Applied Analytical Instrumentation I**<br>应用分析仪器 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology) |
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology) |
 | **Technical Project Week**<br>技术项目周 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology) |
-| **Oil Field Chemical & Fluids Intro**<br>油田化学品与流体导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology) |
+| **Oil Field Chemical & Fluids Intro**<br>油田化学品与流体入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology) |
 | **Environmental Science/Ecology**<br>环境科学/生态学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology) |
 | **Applied Analytical Instrumentation II**<br>应用分析仪器 II | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology) |
 | **Quality Assurance and Quality Control**<br>质量保证与质量控制 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-laboratory-technology) |

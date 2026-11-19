@@ -1,10 +1,10 @@
 ---
-title: "3.3.200 Philosophy, Doctor of Philosophy"
+title: "4.3.200 Philosophy, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Philosophy, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.200 Philosophy, Doctor of Philosophy
+# 4.3.200 Philosophy, Doctor of Philosophy
 
 ## Glossary
 
@@ -16,12 +16,12 @@ ms.date: 2026-11-18
 | **Plato's Later Metaphysics and Epistemology**<br>柏拉图的后期形而上学与认识论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Logic, Language, and Material Text in the Aristotelian Tradition**<br>亚里士多德传统中的逻辑、语言与物质文本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Hellenistic Philosophy**<br>希腊化哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
-| **Porphyry's Introduction to Logic**<br>波菲利的逻辑学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
+| **Porphyry's Introduction to Logic**<br>波菲利的逻辑学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Hellenistic Ethics**<br>希腊化时期的伦理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Kant's First Critique**<br>康德的第一批判 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Kant's Value Theory**<br>康德的价值理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Kant and German Idealism**<br>康德与德国唯心主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
-| **Introduction to Phenomenology**<br>现象学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
+| **Introduction to Phenomenology**<br>现象学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Phenomenology: Animals**<br>现象学：动物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Nietzsche**<br>尼采 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |
 | **Wittgenstein**<br>维特根斯坦 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/philosophy/doctor-of-philosophy) |

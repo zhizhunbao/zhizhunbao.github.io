@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Science (Master of Science)**<br>计算机科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=37) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=37) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=37) |
 | **Analysis of Algorithms I**<br>算法分析 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=37) |
 
 ## Courses

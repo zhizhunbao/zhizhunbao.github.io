@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Early Childhood Education (Kenora)**<br>幼儿教育（Kenora） | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/early-childhood-education-kenora) |
 | **College Communication Skills**<br>大学沟通技能 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/early-childhood-education-kenora) |
-| **Introduction to the Field of Early Childhood Education**<br>幼儿教育领域导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/early-childhood-education-kenora) |
+| **Introduction to the Field of Early Childhood Education**<br>幼儿教育领域入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/early-childhood-education-kenora) |
 | **Curriculum and Pedagogy 1**<br>课程与教学法 1 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/early-childhood-education-kenora) |
 | **Well-Being and Ethics of Care**<br>身心健康与关怀伦理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/early-childhood-education-kenora) |
 | **Lifespan Development: The Early Years**<br>毕生发展：早年 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/community-services/early-childhood-education-kenora) |

@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Global Citizenship: From Social Analysis to Social Action**<br>全球公民：从社会分析到社会行动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-operations) |
 | **International Business Concepts**<br>国际商务概念 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-operations) |
 | **Mathematics of Finance II**<br>金融数学 II | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-operations) |
-| **Introduction to Supply Chain and Business Operations**<br>供应链与企业运营导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-operations) |
+| **Introduction to Supply Chain and Business Operations**<br>供应链与企业运营入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-operations) |
 | **Financial Accounting Concepts**<br>财务会计概念 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-operations) |
 | **Career Planning**<br>职业规划 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-operations) |
 | **Business Culture and Collaborative Practices**<br>商业文化与协作实践 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-operations) |

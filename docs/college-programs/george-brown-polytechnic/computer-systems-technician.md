@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Computer Systems Technician**<br>计算机系统技术员 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
 | **IT Essentials: Computer Hardware Fundamentals**<br>IT基础：计算机硬件基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
-| **Introduction to Web Development**<br>Web开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
+| **Introduction to Web Development**<br>Web开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
 | **Fundamentals of Computing Logic**<br>计算逻辑基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
-| **Introduction to Data Management**<br>数据管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
+| **Introduction to Data Management**<br>数据管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
 | **Mathematics for Computer Technology I**<br>计算机技术数学 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
-| **Introduction to Networks - Ccna 1 - Essential Networking Technology**<br>网络导论 - CCNA 1 - 网络技术基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
+| **Introduction to Networks - Ccna 1 - Essential Networking Technology**<br>网络入门 - CCNA 1 - 网络技术基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
 | **Linux Essentials**<br>Linux 要点 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
 | **Enterprise Desktop Operation Systems**<br>企业桌面操作系统 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |
 | **Personal Finance**<br>个人理财 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141) |

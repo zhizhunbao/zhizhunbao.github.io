@@ -14,16 +14,16 @@ ms.date: 2026-11-08
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Introduction to Linux**<br>Linux入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **IT Essentials**<br>IT 基础 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
-| **Introduction to Operating Systems Using Windows**<br>使用Windows的操作系统导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
+| **Introduction to Operating Systems Using Windows**<br>使用Windows的操作系统入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Networking Fundamentals**<br>网络基础 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **General Education Elective - Online (CST Sem 1)**<br>通识教育选修课 - 在线（CST 第1学期） | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
-| **Introduction to Databases & SQL**<br>数据库与SQL导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
+| **Introduction to Databases & SQL**<br>数据库与SQL入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Web Programming Principles**<br>网页编程原理 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Advanced Linux**<br>高级Linux | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Basic Administration of Microsoft Windows Server**<br>Microsoft Windows Server 基础管理 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Routing and Switching Essentials**<br>路由与交换要点 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Career Preparation**<br>职业准备 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
-| **Introduction to Scripting and PowerShell**<br>脚本与PowerShell导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
+| **Introduction to Scripting and PowerShell**<br>脚本与PowerShell入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Information System Security**<br>信息系统安全 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Scaling Networks**<br>网络扩展 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |
 | **Advanced Administration of Microsoft Windows Server**<br>Microsoft Windows Server 高级管理 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/computer-systems-networking-technician) |

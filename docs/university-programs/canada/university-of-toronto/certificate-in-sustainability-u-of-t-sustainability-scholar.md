@@ -52,8 +52,8 @@ ms.date: 2026-11-11
 | **Comparative Environmental Policy**<br>比较环境政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
 | **Politics and Policy of Wildlife Conservation**<br>野生动物保护的政治与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
-| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
-| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
+| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
+| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
 | **Global Environmental and Sustainability Politics**<br>全球环境与可持续性政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
 | **The Sociology of Disasters**<br>灾难社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |
 | **Climate Crisis and Society**<br>气候危机与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer1287) |

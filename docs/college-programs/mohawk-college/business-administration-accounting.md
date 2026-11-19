@@ -15,12 +15,12 @@ ms.date: 2026-11-08
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **Business Success Strategies**<br>商务成功策略 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **Basic Math Review and Business Math**<br>基础数学复习与商业数学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **Financial Accounting 2**<br>财务会计 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **Applied Accounting Systems**<br>应用会计系统 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **Business Applications with Excel**<br>使用Excel的业务应用 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
-| **Introduction To Organizational Behaviour**<br>组织行为导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
+| **Introduction To Organizational Behaviour**<br>组织行为入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **Economics**<br>经济学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **Business Mathematics Of Finance**<br>金融商业数学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |
 | **Intermediate Financial Reporting I - Part 1**<br>中级财务报告 I - 第1部分 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=364&prg_ver=26-A) |

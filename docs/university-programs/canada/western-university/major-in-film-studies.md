@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN FILM STUDIES**<br>电影研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20901&SelectedCalendar=Live&ArchiveID=) |
-| **AN INTRODUCTION TO FILM**<br>电影导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20901&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FILM STUDIES**<br>电影研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20901&SelectedCalendar=Live&ArchiveID=) |
+| **AN INTRODUCTION TO FILM**<br>电影入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20901&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FILM STUDIES**<br>电影研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20901&SelectedCalendar=Live&ArchiveID=) |
 | **CLASSICAL HOLLYWOOD CINEMA**<br>好莱坞古典电影 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20901&SelectedCalendar=Live&ArchiveID=) |
 | **WORLD CINEMA**<br>世界电影 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20901&SelectedCalendar=Live&ArchiveID=) |
 | **FILM THEORY**<br>电影理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20901&SelectedCalendar=Live&ArchiveID=) |

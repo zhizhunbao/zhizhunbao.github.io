@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Electrician – Construction and Maintenance - 309A**<br>电工—建筑与维护—309A | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/acce/program/electrician-construction-and-maintenance-apprenticeship/) |
 | **Communication and Documentation**<br>沟通与文档记录 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0506X01FWO.pdf) |
-| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0506X01FWO.pdf) |
+| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0506X01FWO.pdf) |
 | **Trade Practices**<br>行业实务 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0506X01FWO.pdf) |
 | **Installation and Maintenance Methods**<br>安装与维护方法 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0506X01FWO.pdf) |
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0506X01FWO.pdf) |

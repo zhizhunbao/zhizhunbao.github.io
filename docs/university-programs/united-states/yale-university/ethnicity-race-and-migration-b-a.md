@@ -1,17 +1,17 @@
 ---
-title: "3.4.41 Ethnicity, Race, and Migration (B.A.)"
+title: "4.4.41 Ethnicity, Race, and Migration (B.A.)"
 description: "University Programs > United States > Yale University > Ethnicity, Race, and Migration (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.41 Ethnicity, Race, and Migration (B.A.)
+# 4.4.41 Ethnicity, Race, and Migration (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Ethnicity, Race, and Migration (B.A.)**<br>族裔、种族与移民（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ethnicity-race-migration/) |
-| **Introduction to Ethnicity, Race, and Migration**<br>族裔、种族与移民导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ethnicity-race-migration/) |
+| **Introduction to Ethnicity, Race, and Migration**<br>族裔、种族与移民入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ethnicity-race-migration/) |
 | **Comparative Ethnic Studies**<br>比较族裔研究 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ethnicity-race-migration/) |
 | **The Senior Colloquium: Theoretical and Methodological Issues**<br>毕业研讨会：理论与方法问题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/ethnicity-race-migration/) |
 

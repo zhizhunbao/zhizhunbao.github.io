@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diagnostic Medical Sonography - General and Cardiac**<br>医学超声诊断－普通与心脏 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
-| **Introduction to Diagnostic Medical Sonography**<br>诊断医学超声导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
+| **Introduction to Diagnostic Medical Sonography**<br>诊断医学超声入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
 | **Physical Principles and Instrumentation in Sonography**<br>超声物理原理与仪器 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
 | **Sonography of the Normal Abdominal and Superficial Structures**<br>正常腹部与浅表结构超声检查 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
-| **Introduction to the Cardiovascular System**<br>心血管系统导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
+| **Introduction to the Cardiovascular System**<br>心血管系统入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
 | **Gynaecologic Sonography**<br>妇科超声 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
 | **Pathology of the Abdomen and Superficial Structures in Sonography**<br>超声中的腹部与浅表结构病理学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |
 | **Fundamentals of Adult Echocardiography**<br>成人超声心动图基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general-and-cardiac) |

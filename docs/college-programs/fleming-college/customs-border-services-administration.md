@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Strategies for Customs**<br>海关策略 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/customs-border-services-administration) |
 | **Tariff I:Tariff Classification**<br>关税 I：关税分类 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/customs-border-services-administration) |
 | **Technology for Human Service Professionals**<br>人类服务专业人员技术 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/customs-border-services-administration) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/customs-border-services-administration) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/customs-border-services-administration) |
 | **Customs Operations II: Accounting and Taxation**<br>海关业务 II：会计与税务 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/customs-border-services-administration) |
 | **Enforcement II: Secondary Processing**<br>执法 II：二级处理 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/customs-border-services-administration) |
 | **Foundations in Customs**<br>海关基础 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/customs-border-services-administration) |

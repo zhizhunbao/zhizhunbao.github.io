@@ -1,10 +1,10 @@
 ---
-title: "3.4.5 Applied Physics (B.S.)"
+title: "4.4.5 Applied Physics (B.S.)"
 description: "University Programs > United States > Yale University > Applied Physics (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.5 Applied Physics (B.S.)
+# 4.4.5 Applied Physics (B.S.)
 
 ## Glossary
 
@@ -13,7 +13,7 @@ ms.date: 2026-11-18
 | **Applied Physics (B.S.)**<br>应用物理学（理学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/) |
 | **Multivariable Calculus for Engineers**<br>工程师多元微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/) |
-| **Introduction to Mathematical Methods of Physics**<br>物理学数学方法导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/) |
+| **Introduction to Mathematical Methods of Physics**<br>物理学数学方法入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/) |
 | **Ordinary and Partial Differential Equations with Applications**<br>常微分与偏微分方程及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/) |
 | **Linear Algebra with Applications**<br>线性代数及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/) |

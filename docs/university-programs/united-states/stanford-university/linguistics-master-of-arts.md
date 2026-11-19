@@ -1,10 +1,10 @@
 ---
-title: "3.3.119 Linguistics, Master of Arts"
+title: "4.3.119 Linguistics, Master of Arts"
 description: "University Programs > United States > Stanford University > Linguistics, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.119 Linguistics, Master of Arts
+# 4.3.119 Linguistics, Master of Arts
 
 ## Glossary
 
@@ -19,13 +19,13 @@ ms.date: 2026-11-18
 | **Foundations of Syntactic Theory I**<br>句法理论基础 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Foundations of Syntactic Theory II**<br>句法理论基础 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Syntax II**<br>句法学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
-| **Introduction to Semantics and Pragmatics**<br>语义学与语用学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
+| **Introduction to Semantics and Pragmatics**<br>语义学与语用学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Advanced Semantics**<br>高级语义学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Lexical Semantics**<br>词汇语义学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Language Acquisition**<br>语言习得 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
-| **Introduction to Psycholinguistics**<br>心理语言学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
+| **Introduction to Psycholinguistics**<br>心理语言学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Methods in Psycholinguistics**<br>心理语言学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Sociolinguistic Theory and Analysis**<br>社会语言学理论与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |
 | **Sociophonetics**<br>社会语音学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/master-of-arts) |

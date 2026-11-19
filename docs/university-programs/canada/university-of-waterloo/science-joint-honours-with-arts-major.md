@@ -17,12 +17,12 @@ ms.date: 2026-11-11
 | **Diversity of Life**<br>生命的多样性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Introductory Vertebrate Zoology**<br>脊椎动物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
-| **Introduction to Plant Structure and Function**<br>植物结构与功能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
+| **Introduction to Plant Structure and Function**<br>植物结构与功能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Fundamentals of Microbiology**<br>微生物学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
-| **Introduction to Applied Microbiology**<br>应用微生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
+| **Introduction to Applied Microbiology**<br>应用微生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Fundamentals of Ecology**<br>生态学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
-| **Introduction to Computational Biology**<br>计算生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
+| **Introduction to Computational Biology**<br>计算生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Principles of Human Physiology 1**<br>人体生理学原理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **General Chemistry 1**<br>普通化学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **General Chemistry Laboratory 1**<br>普通化学实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Physics 1 Laboratory**<br>物理 1 实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Physics 2**<br>物理 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Physics 2 Laboratory**<br>物理 2 实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
-| **Introduction to Computing Through Applications**<br>通过应用学习计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
+| **Introduction to Computing Through Applications**<br>通过应用学习计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Introductory Algebra for Arts and Social Science**<br>文科与社会科学入门代数 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 | **Environmental Geology**<br>环境地质学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Hk2E1-g4T) |
 

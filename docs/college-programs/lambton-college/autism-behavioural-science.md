@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Autism & Behavioural Science**<br>孤独症与行为科学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/auti) |
-| **Introduction to Applied Behaviour Analysis**<br>应用行为分析导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/auti) |
-| **Introduction to Autism Spectrum Disorder**<br>孤独症谱系障碍导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/auti) |
+| **Introduction to Applied Behaviour Analysis**<br>应用行为分析入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/auti) |
+| **Introduction to Autism Spectrum Disorder**<br>孤独症谱系障碍入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/auti) |
 | **Specialized Instructional Strategies**<br>专门教学策略 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/auti) |
 | **Working with Families & Teens**<br>与家庭及青少年合作 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/auti) |
 | **Ethics & Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/auti) |

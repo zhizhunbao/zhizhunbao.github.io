@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Introductory Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Social Research Methods**<br>社会研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **Introduction to Social Statistics**<br>社会统计学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **Introduction to Social Statistics**<br>社会统计学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Criminal Justice Administration in Canada**<br>加拿大刑事司法管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Sociology of Deviance and Conformity**<br>越轨与从众社会学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Surveillance Studies**<br>监控研究 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
@@ -42,16 +42,16 @@ ms.date: 2026-11-11
 | **Historical Perspectives in Indigenous Studies**<br>原住民研究的历史视角 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Contemporary Perspectives in Indigenous Studies**<br>原住民研究的当代视角 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Indigenous \| Canada: Looking Forward/Looking Back**<br>原住民 \| 加拿大：展望未来/回顾过去 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **Introduction to Social and Cultural Anthropology**<br>社会与文化人类学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **Introduction to Ethnographic Methods**<br>民族志方法导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **Introduction to Social and Cultural Anthropology**<br>社会与文化人类学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **Introduction to Ethnographic Methods**<br>民族志方法入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Forensic Anthropology**<br>法医人类学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Legal Foundations of the Canadian Economy**<br>加拿大经济的法律基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **An Introduction to Community Engagement**<br>社区参与导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **An Introduction to Community Engagement**<br>社区参与入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Theory and Practice in Community Service-Learning**<br>社区服务学习的理论与实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **The Economics of Public Expenditures**<br>公共支出经济学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Law and Economics**<br>法律与经济学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **Introduction to Principles and Practice in Human Ecology**<br>人类生态学原理与实践导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **Introduction to Principles and Practice in Human Ecology**<br>人类生态学原理与实践入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Intimate Relationships**<br>亲密关系 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Interviewing and Counseling**<br>访谈与咨询 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Program Planning and Evaluation**<br>项目规划与评估 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
@@ -60,7 +60,7 @@ ms.date: 2026-11-11
 | **History of Alberta**<br>艾伯塔史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Histories of Indigenous Peoples and Kanata until 1870**<br>1870 年前的原住民与加拿大史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Histories of Indigenous Peoples and Kanata after 1870**<br>1870 年后的原住民与加拿大史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **Introduction to Indigenous Legal Issues**<br>原住民法律问题导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **Introduction to Indigenous Legal Issues**<br>原住民法律问题入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Indigenous Politics and Diplomacy**<br>原住民政治与外交 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Indigenous Legal Systems**<br>原住民法律体系 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Colonialism and the Criminal Justice System**<br>殖民主义与刑事司法体系 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
@@ -76,8 +76,8 @@ ms.date: 2026-11-11
 | **Applied Research in Developmental Psychology**<br>发展心理学应用研究 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Adolescent Development**<br>青少年发展 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Personality Theory**<br>人格理论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **Introduction to Clinical Psychology**<br>临床心理学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
-| **Introduction to Management for Non-Business Students**<br>非商科学生管理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **Introduction to Clinical Psychology**<br>临床心理学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
+| **Introduction to Management for Non-Business Students**<br>非商科学生管理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Gender and Social Justice**<br>性别与社会正义 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Race, Class, and Gender**<br>种族、阶级与性别 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |
 | **Law and Feminism in Canada**<br>加拿大的法律与女性主义 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110005&returnto=20844) |

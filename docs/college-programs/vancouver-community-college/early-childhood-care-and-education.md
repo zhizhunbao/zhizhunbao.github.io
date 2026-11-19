@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Early Childhood Care and Education**<br>幼儿保育与教育 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/early-childhood-care-and-education/early-childhood-care-and-education/) |
-| **Introduction to Early Childhood Care and Education Studies**<br>幼儿保育与教育研究导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/early-childhood-care-and-education/early-childhood-care-and-education/) |
+| **Introduction to Early Childhood Care and Education Studies**<br>幼儿保育与教育研究入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/early-childhood-care-and-education/early-childhood-care-and-education/) |
 | **Foundations in ECCE**<br>ECCE基础 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/early-childhood-care-and-education/early-childhood-care-and-education/) |
 | **Early Childhood Care and Education Field Study 1**<br>幼儿保育与教育实地研究 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/early-childhood-care-and-education/early-childhood-care-and-education/) |
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/early-childhood-care-and-education/early-childhood-care-and-education/) |

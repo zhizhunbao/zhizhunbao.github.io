@@ -1,10 +1,10 @@
 ---
-title: "3.3.88 Computational and Mathematical Engineering, Master of Science"
+title: "4.3.88 Computational and Mathematical Engineering, Master of Science"
 description: "University Programs > United States > Stanford University > Computational and Mathematical Engineering, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.88 Computational and Mathematical Engineering, Master of Science
+# 4.3.88 Computational and Mathematical Engineering, Master of Science
 
 ## Glossary
 
@@ -17,7 +17,7 @@ ms.date: 2026-11-18
 | **Optimization**<br>优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Stochastic Differential Equations**<br>随机微分方程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Stochastic Differential Equations**<br>随机微分方程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Probability and Stochastic Differential Equations for Applications**<br>应用中的概率与随机微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Stochastic Methods in Engineering**<br>工程中的随机方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Programming for performance**<br>高性能编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-18
 | **Advanced Data Structures**<br>高级数据结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **The Modern Algorithmic Toolbox**<br>现代算法工具箱 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Software Design Studio**<br>软件设计工作室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Parallel Computing**<br>并行计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Software Project**<br>软件项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Mining Massive Data Sets**<br>海量数据集挖掘 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-18
 | **Decision Making under Uncertainty**<br>不确定性下的决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Advanced Topics in Sequential Decision Making**<br>序贯决策高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Distributed Systems**<br>分布式系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Machine Learning and Causal Inference**<br>机器学习与因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Applied Quantum Mechanics II**<br>应用量子力学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Analysis and Control of Nonlinear Systems**<br>非线性系统的分析与控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
@@ -74,7 +74,7 @@ ms.date: 2026-11-18
 | **Stochastic Simulation and Monte Carlo Methods**<br>随机模拟与蒙特卡罗方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Fundamentals of Data Science: Prediction, Inference, Causality**<br>数据科学基础：预测、推断、因果 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Applied Causal Inference with Machine Learning and AI**<br>结合机器学习与AI的应用因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Game Theory (Accelerated)**<br>博弈论导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Game Theory (Accelerated)**<br>博弈论入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Reinforcement Learning: Behaviors and Applications**<br>强化学习：行为与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Machine Learning for Discrete Optimization**<br>离散优化的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Linear Programming**<br>线性规划 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
@@ -85,8 +85,8 @@ ms.date: 2026-11-18
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Resampling Methods: Bootstrap, Cross Validation and Beyond**<br>重抽样方法：自助法、交叉验证及其他 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Theory of Statistics I**<br>统计学理论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Theory of Statistics II**<br>统计学理论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Theory of Statistics III**<br>统计学理论 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
@@ -96,17 +96,17 @@ ms.date: 2026-11-18
 | **Modern Applied Statistics: Learning II**<br>现代应用统计：学习 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Topic: Monte Carlo**<br>主题：蒙特卡罗 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Departmental Seminar**<br>系研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Intermediate Econometrics II**<br>中级计量经济学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Design of Experiments**<br>实验设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Machine Learning Theory**<br>机器学习理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Deep Multi-task and Meta Learning**<br>深度多任务与元学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Engineering Your Career Path - Career Readiness Workshops**<br>规划你的职业道路：职业准备工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Consulting Workshop**<br>咨询工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Advanced Imaging Lab in Biophysics**<br>生物物理高级成像实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Principles of Robot Autonomy I**<br>机器人自主性原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Remote Sensing of Land**<br>陆地遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Modern Optics**<br>现代光学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
@@ -134,7 +134,7 @@ ms.date: 2026-11-18
 | **Financial Statistics**<br>金融统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Aligning Superintelligence**<br>对齐超级智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Advanced Topics in Blockchain & DeFi: Research, Market Design, and Microstructure**<br>区块链与DeFi高级专题：研究、市场设计与微观结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
-| **Introduction to Nonparametric Statistics**<br>非参数统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
+| **Introduction to Nonparametric Statistics**<br>非参数统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Bayesian Statistics**<br>贝叶斯统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |
 | **Massive Computational Experiments, Painlessly**<br>轻松进行大规模计算实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/master-of-science) |

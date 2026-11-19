@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Digital Fundamentals**<br>数字基础 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **2D Fundamentals**<br>2D基础 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **World Art Before 1300 CE**<br>1300年以前的世界艺术 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
-| **Introduction to Canadian Art**<br>加拿大艺术导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
+| **Introduction to Canadian Art**<br>加拿大艺术入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **Introductory Report Writing & Speech**<br>报告写作与演讲入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **Any 200-level English course**<br>任意200级英语课程 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **Typography I**<br>字体排印 I | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **World Art Since 1300 CE**<br>1300年以来的世界艺术 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **Modern Art**<br>现代艺术 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **Any 200-level English**<br>任意200级英语 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
-| **Introduction to Film**<br>电影导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
+| **Introduction to Film**<br>电影入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **Print Production**<br>印刷制作 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **Graphic Design I**<br>平面设计 I | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |
 | **Portfolio and Work Term Preparation**<br>作品集与工作学期准备 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/art-design) |

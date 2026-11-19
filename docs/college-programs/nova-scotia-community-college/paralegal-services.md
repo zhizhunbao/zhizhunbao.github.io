@@ -21,11 +21,11 @@ ms.date: 2026-11-08
 | **Legal Ethics and Professional Responsibility**<br>法律伦理与职业责任 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Corporate Law**<br>公司法 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Property Law I - Principles of Property Law**<br>财产法 I：财产法原理 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
-| **Legal Research I - Introduction to Legal Research**<br>法律检索 I：法律检索导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
+| **Legal Research I - Introduction to Legal Research**<br>法律检索 I：法律检索入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Litigation I**<br>诉讼 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Commercial Law**<br>商法 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Accounting for the Legal Profession**<br>法律专业会计 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
-| **Property Law II - Introduction to Real Estate Conveyancing**<br>财产法 II：房地产转让导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
+| **Property Law II - Introduction to Real Estate Conveyancing**<br>财产法 II：房地产转让入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Legal Research II - Legal Research Process**<br>法律检索 II：法律检索流程 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Litigation II**<br>诉讼 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Paralegal Services Practicum**<br>律师助理服务实习 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-08
 | **Family Law**<br>家庭法 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Conflict Resolution for Paralegals**<br>律师助理冲突化解 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Work Experience II**<br>工作实习 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/paralegal-services) |
 
 ## Courses

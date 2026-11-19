@@ -22,17 +22,17 @@ ms.date: 2026-11-11
 | **CALCULUS II FOR MATHEMATICAL AND PHYSICAL SCIENCES**<br>数学与物理科学微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SCIENCE FUNDAMENTALS I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **BIOCHEMISTRY AND MOLECULAR BIOLOGY**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **ORGANIC CHEMISTRY FOR LIFE SCIENCES**<br>生命科学有机化学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR SCIENCE**<br>科学统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **SCIENTIFIC METHOD IN BIOLOGY**<br>生物学中的科学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **CELL BIOLOGY**<br>细胞生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **GENETICS**<br>遗传学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EPIDEMIOLOGY**<br>流行病学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EPIDEMIOLOGY**<br>流行病学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **BIOSTATISTICAL METHODS FOR EPIDEMIOLOGY**<br>流行病学生物统计方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **MULTIVARIABLE METHODS**<br>多变量方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **EPIDEMIOLOGY II**<br>流行病学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
@@ -40,8 +40,8 @@ ms.date: 2026-11-11
 | **SYSTEMIC REVIEWS AND META-ANALYSIS**<br>系统综述与元分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **PUBLIC HEALTH**<br>公共卫生 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **CLINICAL EPIDEMIOLOGY**<br>临床流行病学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIOSTATISTICAL COMPUTING**<br>生物统计计算导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HEALTH ECONOMICS**<br>健康经济学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIOSTATISTICAL COMPUTING**<br>生物统计计算入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HEALTH ECONOMICS**<br>健康经济学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **EPIDEMIOLOGY OF MAJOR DISEASES**<br>主要疾病流行病学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH ECONOMIC EVALUATION**<br>健康经济学评价 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |
 | **DESIGN & ANALYSIS OF CLINICAL TRIALS**<br>临床试验的设计与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21217&SelectedCalendar=Live&ArchiveID=) |

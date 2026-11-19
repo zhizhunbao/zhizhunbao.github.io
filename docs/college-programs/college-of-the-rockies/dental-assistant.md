@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Dental Assistant**<br>牙科助理 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/dental-assistant/) |
-| **Introduction to Dental Assisting**<br>牙科助理导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/dental-assistant/) |
+| **Introduction to Dental Assisting**<br>牙科助理入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/dental-assistant/) |
 | **Microbiology and Infection Control**<br>微生物学与感染控制 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/dental-assistant/) |
 | **Basic Dental Assisting**<br>基础牙科助理 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/dental-assistant/) |
 | **Patient Assessment**<br>患者评估 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/dental-assistant/) |

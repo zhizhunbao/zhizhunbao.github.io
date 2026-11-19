@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Physiology of Aging**<br>衰老生理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/therapeutic-recreation-gerontology) |
 | **Composition**<br>作文 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/therapeutic-recreation-gerontology) |
 | **Psychology of Aging**<br>老年心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/therapeutic-recreation-gerontology) |
-| **Introduction to Therapeutic Recreation**<br>治疗性娱乐导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/therapeutic-recreation-gerontology) |
+| **Introduction to Therapeutic Recreation**<br>治疗性娱乐入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/therapeutic-recreation-gerontology) |
 | **Leadership Theory**<br>领导力理论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/therapeutic-recreation-gerontology) |
 | **Interpersonal Relationships and Communications**<br>人际关系与沟通 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/therapeutic-recreation-gerontology) |
 | **Human Development Across the Lifespan**<br>人生全程人类发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/therapeutic-recreation-gerontology) |

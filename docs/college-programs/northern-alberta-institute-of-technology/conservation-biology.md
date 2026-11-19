@@ -12,15 +12,15 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Conservation Biology**<br>保护生物学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Laboratory Techniques and Calculations**<br>实验室技术与计算 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Communications in the Biological Sciences**<br>生物科学沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Invertebrate Zoology**<br>无脊椎动物学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Inorganic and Organic Chemistry in Biology**<br>生物学中的无机与有机化学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Law, Ethics and Professionalism**<br>法律、伦理与职业素养 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Collection and Analysis of Spatial Data**<br>空间数据采集与分析 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Vertebrate Zoology**<br>脊椎动物学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
-| **Introduction to Soil Sciences**<br>土壤科学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
+| **Introduction to Soil Sciences**<br>土壤科学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Applied Plant Morphology and Identification**<br>应用植物形态学与鉴定 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Statistics for Science and Technology**<br>科学与技术统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |
 | **Ecological Field Studies**<br>生态野外研究 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/conservation-biology) |

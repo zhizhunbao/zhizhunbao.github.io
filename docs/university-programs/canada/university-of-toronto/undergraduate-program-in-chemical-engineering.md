@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Engineering Strategies & Practice II**<br>工程策略与实践 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Physical Chemistry in Engineering Practice**<br>工程实践中的物理化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Concepts in Chemical and Biochemical Engineering**<br>化学与生化工程概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Chemical Engineering and Applied Chemistry**<br>化学工程与应用化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Chemical Engineering and Applied Chemistry**<br>化学工程与应用化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Chemical Engineering and Applied Chemistry- Laboratory I**<br>化学工程与应用化学实验 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Process Engineering**<br>过程工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **Chemical Plant Design**<br>化工厂设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Professional Practice**<br>专业实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Fusion Energy**<br>聚变能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Fusion Energy**<br>聚变能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Interdisciplinary Studies for Sustainability & Innovation: How to Change the World**<br>可持续性与创新的跨学科研究：如何改变世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Applied Fundamentals of Deep Learning**<br>深度学习应用基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **System-Theoretic Accident and Risk Analysis**<br>系统理论事故与风险分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-11
 | **Cellular and Molecular Bioengineering II**<br>细胞与分子生物工程 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Human Whole Body Biomechanics**<br>人体全身生物力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Medical Imaging**<br>医学影像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Machine Learning for Chemical Engineers**<br>化学工程师的机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Machine Learning for Chemical Engineers**<br>化学工程师的机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Cellular and Molecular Biology**<br>细胞与分子生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Advanced Reactor Design**<br>高级反应器设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
@@ -95,10 +95,10 @@ ms.date: 2026-11-11
 | **Sustainable Buildings**<br>可持续建筑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Groundwater Flow and Contamination**<br>地下水流动与污染 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Data Structures and Analysis**<br>数据结构与分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Electronic Devices**<br>电子器件导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Electronic Devices**<br>电子器件入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Algorithms and Data Structures**<br>算法与数据结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Probabilistic Reasoning**<br>概率推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Audio, Acoustics and Sensing**<br>音频、声学与传感 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
@@ -107,7 +107,7 @@ ms.date: 2026-11-11
 | **Bioenergy and Biorefinery Technology**<br>生物能源与生物炼制技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Energy Efficiency and Beyond**<br>能效及其他 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Carbon-Free Energy Systems**<br>无碳能源系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Quality Control**<br>质量控制导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Quality Control**<br>质量控制入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Business Process Engineering**<br>业务流程工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Nuclear Reactor Theory and Design**<br>核反应堆理论与设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **\* Thermal and Machine Design of Nuclear Power Reactors**<br>核动力反应堆的热工与机械设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
@@ -132,7 +132,7 @@ ms.date: 2026-11-11
 | **Synthesis of Nanostructured Materials**<br>纳米结构材料的合成 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Application of Artificial Intelligence in Materials Design**<br>人工智能在材料设计中的应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Artificial Intelligence**<br>人工智能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Biomolecular Engineering**<br>生物分子工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Biomolecular Engineering**<br>生物分子工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Engineering Biology**<br>工程生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Chemical Engineering in Human Health**<br>人类健康中的化学工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Applied Chemistry IV - Applied Polymer Chemistry, Science and Engineering**<br>应用化学 IV：应用高分子化学、科学与工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
@@ -141,11 +141,11 @@ ms.date: 2026-11-11
 | **Organic Materials Chemistry**<br>有机材料化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Polymer Chemistry**<br>高分子化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Bioenergy from Sustainable Forest Management**<br>可持续森林经营的生物能源 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Fundamental Genetics and its Applications**<br>基础遗传学及其应用导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Fundamental Genetics and its Applications**<br>基础遗传学及其应用入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **The Immune System and Infectious Disease**<br>免疫系统与传染病 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Medical Microbiology**<br>医学微生物学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Medical Microbiology**<br>医学微生物学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Microbiology I: Bacteria**<br>微生物学 I：细菌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
-| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
+| **Introduction to Pharmacology and Pharmacokinetic Principles**<br>药理学与药代动力学原理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Pharmacodynamic Principles**<br>药效学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Human Physiology I**<br>人体生理学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |
 | **Human Physiology II**<br>人体生理学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aechebasc) |

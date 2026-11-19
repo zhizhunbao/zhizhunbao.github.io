@@ -1,17 +1,17 @@
 ---
-title: "3.3.43 International Relations, Major: Bachelor of Arts"
+title: "4.3.43 International Relations, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > International Relations, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.43 International Relations, Major: Bachelor of Arts
+# 4.3.43 International Relations, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **International Relations, Major: Bachelor of Arts**<br>国际关系，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Modern International System**<br>现代国际体系 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Democracy, Development, and the Rule of Law**<br>民主、发展与法治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **America and the World Economy**<br>美国与世界经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-18
 | **Governance and Global Capitalism**<br>治理与全球资本主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Future of the European Union: Challenges and Opportunities**<br>欧盟的未来：挑战与机遇 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Political Economy of the Southern Cone Countries of South America**<br>南美南锥体国家的政治经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Finance and Investment**<br>金融与投资导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Finance and Investment**<br>金融与投资入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Globalization and Germany**<br>全球化与德国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **A People's Union? Money, Markets, and Identity in the EU**<br>人民的联盟？欧盟的货币、市场与认同 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Economics of the EU**<br>欧盟经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -73,17 +73,17 @@ ms.date: 2026-11-18
 | **Economic Sociology**<br>经济社会学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **China's Political Economy**<br>中国政治经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Urban Economy**<br>城市经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Data Science for Social Impact**<br>社会影响的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Data Science for Politics**<br>政治学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **African Literature: From Chinua Achebe to Afrofuturism**<br>非洲文学：从钦努阿契比到非洲未来主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Foundations in African Studies II: Knowledge outside the colonial library**<br>非洲研究基础 II：殖民图书馆之外的知识 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Ethnicity, Race, and Violence: Anthropological Perspectives**<br>族裔、种族与暴力：人类学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Literature and Society in Africa and the Caribbean**<br>非洲与加勒比的文学与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Designing Research-Based Interventions to Solve Global Health Problems**<br>设计基于研究的干预以解决全球健康问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Global Black Diaspora Studies II**<br>全球黑人离散研究导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Global Black Diaspora Studies II**<br>全球黑人离散研究入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Land and Power in the Anthropocene: Perspectives from Africa**<br>人类世中的土地与权力：非洲视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Cape to Cairo: Decolonization and African Urban Life 1940s-1960s**<br>从开普敦到开罗：非殖民化与1940至1960年代非洲城市生活 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Global Human Geography: Asia and Africa**<br>全球人文地理：亚洲与非洲 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -128,7 +128,7 @@ ms.date: 2026-11-18
 | **Totalitarianism**<br>极权主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Police Power in World History**<br>世界史中的警察权力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Politics of International Law**<br>国际法的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to European Studies**<br>欧洲研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to European Studies**<br>欧洲研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Global Human Rights and Local Practices**<br>全球人权与地方实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Russian Politics Since 1991**<br>1991年以来的俄罗斯政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Understanding Russia: Its Power and Purpose in a New Global Order**<br>理解俄罗斯：新全球秩序中的力量与目标 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -176,7 +176,7 @@ ms.date: 2026-11-18
 | **Chinese Politics**<br>中国政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Middle Eastern Politics**<br>中东政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Ethics, Public Policy, and Technological Change**<br>伦理、公共政策与技术变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Strategy: Introduction to Game Theory**<br>战略：博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Strategy: Introduction to Game Theory**<br>战略：博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Israel: Society, Politics, and Policy**<br>以色列：社会、政治与政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Deliberative Democracy and its Critics**<br>协商民主及其批评者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Chinese Political Thought: 1895-2021**<br>中国政治思想：1895至2021 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -220,7 +220,7 @@ ms.date: 2026-11-18
 | **State and Society in Korea**<br>韩国的国家与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **India in the Indo-Pacific**<br>印太地区的印度 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Tokyo, Kyoto, Osaka and Beyond: Place in Modern Japan**<br>东京、京都、大阪及其他：现代日本的地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Modern Japanese Literature and Culture**<br>现代日本文学与文化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Modern Japanese Literature and Culture**<br>现代日本文学与文化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Japanese Business Culture and Systems**<br>日本商业文化与制度 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Japanese Tea Ceremony: The History, Aesthetics, and Politics Behind a National Pastime**<br>日本茶道：一项全民消遣背后的历史、美学与政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Kangnam Style: K-pop and the Globalization of Korean Soft Power**<br>江南 Style：K-pop 与韩国软实力的全球化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -286,7 +286,7 @@ ms.date: 2026-11-18
 | **The Business of Water**<br>水的生意 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Environmental Sustainability: Global Predicaments and Possible Solutions**<br>环境可持续性：全球困境与可能的解决方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Ethical Challenges of the Global Climate Crisis**<br>全球气候危机的伦理挑战 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Exploring the Critical Interface between the Land and Monterey Bay: Elkhorn Slough**<br>探索陆地与蒙特雷湾的关键界面：埃尔克霍恩沼泽 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Energy and the Environment**<br>能源与环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Fundamentals of Renewable Energy Processes**<br>可再生能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -297,7 +297,7 @@ ms.date: 2026-11-18
 | **Remote Sensing of the Oceans**<br>海洋遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Feeding Nine Billion**<br>养活九十亿人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Innovating for Climate and Sustainability**<br>为气候与可持续性创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Energy, the Environment, and the Economy**<br>能源、环境与经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Man versus Nature: Coping with Disasters Using Space Technology**<br>人与自然：利用空间技术应对灾害 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -308,7 +308,7 @@ ms.date: 2026-11-18
 | **Environmental Governance**<br>环境治理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Sustainable Adaptation**<br>可持续适应 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Mitigating Climate Change through Soil Management**<br>通过土壤管理缓解气候变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Environmental Ethics**<br>环境伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Environmental Ethics**<br>环境伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Public Policy for Climate Innovation**<br>气候创新的公共政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Green Germany**<br>绿色德国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Oceans and the Global Imaginary**<br>海洋与全球想象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -364,7 +364,7 @@ ms.date: 2026-11-18
 | **East European Women and War**<br>东欧妇女与战争 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Circles of Hell: Poland in World War II**<br>地狱之圈：第二次世界大战中的波兰 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Ottoman Empire: Conquest, Coexistence, and Coffee**<br>奥斯曼帝国：征服、共存与咖啡 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Iberia: Cultural Perspectives**<br>伊比利亚导论：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Iberia: Cultural Perspectives**<br>伊比利亚入门：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Modern Iberian Literatures**<br>现代伊比利亚文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Almodovar's Cinema**<br>阿尔莫多瓦的电影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **All Roads Lead to Rome: Italy and the World**<br>条条大路通罗马：意大利与世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -399,9 +399,9 @@ ms.date: 2026-11-18
 | **Modernism in Eastern Europe**<br>东欧的现代主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Slavic Literatures and Cultures since the Death of Stalin**<br>斯大林逝世以来的斯拉夫文学与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Yugoslavia and the Literature of Freedom**<br>南斯拉夫与自由文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Cultural and Social Anthropology**<br>文化与社会人类学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **How to Look at Art and Why: An Introduction to the History of Western Painting**<br>如何看艺术及为何看：西方绘画史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Cultural and Social Anthropology**<br>文化与社会人类学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **How to Look at Art and Why: An Introduction to the History of Western Painting**<br>如何看艺术及为何看：西方绘画史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Byzantine Art and Architecture, 300-1453 C.E.**<br>拜占庭艺术与建筑，公元300至1453年 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Artists, Athletes, Courtesans and Crooks**<br>艺术家、运动员、名妓与骗子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Looted Art: Histories and Restitution**<br>被掠夺的艺术：历史与归还 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -411,9 +411,9 @@ ms.date: 2026-11-18
 | **Reflections on the Other: Literature from the Palestinian-Israeli Conflict**<br>反思他者：巴勒斯坦以色列冲突文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Time Travel in Abya Yala: Decolonising Time**<br>阿比亚亚拉的时间旅行：时间的去殖民化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Rebelión: Black Resistance in the Caribbean**<br>反抗：加勒比的黑人抵抗 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Feminist, Gender, and Sexuality Studies**<br>女性主义、性别与性学研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Feminist, Gender, and Sexuality Studies**<br>女性主义、性别与性学研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Around the World in Ten Films**<br>十部电影环游世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Medieval and Renaissance French Literature**<br>中世纪与文艺复兴法国文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Medieval and Renaissance French Literature**<br>中世纪与文艺复兴法国文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Songs of Love and War: Gender, Crusade, Politics**<br>爱与战争之歌：性别、十字军与政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Getting Through Proust**<br>读懂普鲁斯特 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Problem of Evil in Literature, Film, and Philosophy**<br>文学、电影与哲学中的恶的问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -435,27 +435,27 @@ ms.date: 2026-11-18
 | **The Holocaust: Insights from New Research**<br>大屠杀：新研究的洞见 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Tobacco and Health in World History: How Big Nic created the template for global science denial**<br>世界史中的烟草与健康：大尼古丁如何为全球科学否认树立模板 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Gender and Sexuality in African History**<br>非洲历史中的性别与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Islamic Law**<br>伊斯兰法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Islamic Law**<br>伊斯兰法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Refugees and Migrants in the Middle East and Balkans: 18th Century to Present**<br>中东与巴尔干的难民与移民：18 世纪至今 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Empire and Resistance in the Modern Middle East**<br>现代中东的帝国与抵抗 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Palestine, Zionism, Israel: 150 Years of Conflict**<br>巴勒斯坦、犹太复国主义、以色列：150 年的冲突 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Chinese Politics and Society**<br>中国政治与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Latin American Short Story**<br>拉丁美洲短篇小说 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Latin America: Cultural Perspectives**<br>拉丁美洲导论：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Latin America: Cultural Perspectives**<br>拉丁美洲入门：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Medieval and Early Modern Iberian Literatures**<br>中世纪与近代早期伊比利亚文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Modern Latin American Literature**<br>现代拉丁美洲文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Borges and Philosophy**<br>博尔赫斯与哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Iberian Expansion: One World or Many**<br>伊比利亚扩张：一个世界还是多个世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Senior Seminar: Writing the Disaster: Poetry, Film, and Infinity**<br>高年级研讨课：书写灾难：诗歌、电影与无限 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **An Introduction to Modern Military History**<br>现代军事史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Modern Military History**<br>现代军事史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **An Introduction to Modern Military History**<br>现代军事史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Modern Military History**<br>现代军事史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **War and Society**<br>战争与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Human Trafficking: Historical, Legal, and Medical Perspectives**<br>人口贩运：历史、法律与医学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The World and America**<br>世界与美国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Major Themes in U.S.-Latin America Diplomatic History**<br>美国与拉丁美洲外交史的主要主题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Great War**<br>第一次世界大战 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Modern Battle**<br>现代战役 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Islamic Art**<br>伊斯兰艺术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Islamic Art**<br>伊斯兰艺术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Inventing Italian Literature: Dante, Boccaccio, Petrarca**<br>创造意大利文学：但丁、薄伽丘、彼特拉克 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Word and Image from the Middle Ages to Modernity**<br>从中世纪到现代的文字与图像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Giambattista Vico**<br>詹巴蒂斯塔维柯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -498,7 +498,7 @@ ms.date: 2026-11-18
 | **Thinking About War**<br>思考战争 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Contemporary Issues in International Security**<br>国际安全当代问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Verification for 21st Century Arms Control Treaties**<br>21世纪军控条约的核查 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Strategic Technology and Global Challenges**<br>战略技术与全球挑战 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Foreign Policy Decision-Making in International Relations**<br>国际关系中的外交政策决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Fundamentals of Cyber Policy and Security**<br>网络政策与安全基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -515,7 +515,7 @@ ms.date: 2026-11-18
 | **BioSecurity and Pandemic Resilience**<br>生物安全与大流行韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Science and Technology Policy**<br>科学技术政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Making of U.S. Foreign Policy in Today's World**<br>当今世界美国外交政策的制定 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Chicanx/Latinx Studies**<br>奇卡诺/拉丁裔研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Chicanx/Latinx Studies**<br>奇卡诺/拉丁裔研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Literature of the Americas**<br>美洲文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Mexican Immigration to the United States**<br>墨西哥对美国的移民 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Caudillos and Dictators from Bolívar to Bolsonaro: Modern South America**<br>从玻利瓦尔到博索纳罗的考迪罗与独裁者：现代南美洲 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -533,7 +533,7 @@ ms.date: 2026-11-18
 | **Patagonia in Literature and Film: Indigenous peoples and clash of cultures at the end of the world**<br>文学与电影中的巴塔哥尼亚：世界尽头的原住民与文化冲突 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Santiago: Urban Planning, Public Policy, and the Built Environment**<br>圣地亚哥：城市规划、公共政策与建成环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Middle East through Graphic Novel**<br>通过图像小说看中东 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Arab Studies: Memory, Heritage, and Cultural Production**<br>阿拉伯研究导论：记忆、遗产与文化生产 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Arab Studies: Memory, Heritage, and Cultural Production**<br>阿拉伯研究入门：记忆、遗产与文化生产 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Human Rights and Gender in the MENA**<br>中东与北非的人权与性别 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Medieval Middle East: Crusaders, Turks, and Mongols**<br>中世纪中东：十字军、突厥人与蒙古人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Birth of Islam: Authority, Community, and Resistance**<br>伊斯兰的诞生：权威、共同体与抵抗 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -550,7 +550,7 @@ ms.date: 2026-11-18
 | **Race and Ethnicity Around the World**<br>世界各地的种族与族裔 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Media Markets and Social Good**<br>媒体市场与社会公益 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Global Social Change, Sustainable Development, and Education**<br>全球社会变迁、可持续发展与教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Global and Comparative Education**<br>全球与比较教育导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Global and Comparative Education**<br>全球与比较教育入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Social Psychology and Social Change**<br>社会心理学与社会变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Global Feminisms**<br>全球女性主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Global Algorithmic Development and Ethics**<br>全球算法发展与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -559,7 +559,7 @@ ms.date: 2026-11-18
 | **Advanced Topics in Agnotology**<br>无知学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Famine in the Modern World**<br>现代世界的饥荒 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Reparations in Law and History**<br>法律与历史中的赔偿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Global Health**<br>全球健康导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Global Health**<br>全球健康入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Epidemic Intelligence: How to Identify, Investigate and Interrupt Outbreaks of Disease**<br>疫情情报：如何识别、调查并阻断疾病暴发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Challenges of Human Migration: Health and Health Care of Migrants and Autochthonous Populations**<br>人类迁移的挑战：移民与本地人口的健康与医疗 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Community-Engaged Learning Workshop on Human Trafficking - Part I**<br>人口贩运社区参与学习工作坊：第 I 部分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
@@ -584,7 +584,7 @@ ms.date: 2026-11-18
 | **Interfaith Peacebuilding and Global Justice**<br>跨信仰和平建设与全球正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **The Immigrant Experience in Everyday Life**<br>日常生活中的移民经历 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Social Movements and Collective Action**<br>社会运动与集体行动 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
-| **Introduction to Social Networks**<br>社交网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
+| **Introduction to Social Networks**<br>社交网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Gender and Education in Global and Comparative Perspectives**<br>全球与比较视角下的性别与教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Race and Immigration**<br>种族与移民 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |
 | **Global Women's Health**<br>全球女性健康 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/international-relations/bachelor-of-arts) |

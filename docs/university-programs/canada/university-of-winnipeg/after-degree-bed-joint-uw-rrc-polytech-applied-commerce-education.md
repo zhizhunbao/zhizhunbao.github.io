@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Financial Accounting 1**<br>财务会计 1 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Financial Accounting 2**<br>财务会计 2 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Entrepreneurial Ventures**<br>创业企业 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
-| **Introduction to Applied Commerce**<br>应用商业导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
+| **Introduction to Applied Commerce**<br>应用商业入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Business and Personal Finance**<br>商务与个人理财 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Communication for Educators**<br>教育者沟通 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Visual Communication and Design**<br>视觉传达与设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Inclusive Approaches to Teaching**<br>包容性教学方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Just and Effective Schooling**<br>公正而有效的学校教育 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Contemporary Issues in Inner-City Education (also fulfills Inclusive Ed II requirement)**<br>内城教育中的当代问题（亦满足融合教育 II 的要求） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
-| **Introduction to Indigenous Education -**<br>原住民教育导论 - | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
+| **Introduction to Indigenous Education -**<br>原住民教育入门 - | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Classroom Management**<br>课堂管理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Practicum Block - Red River College Polytechnic**<br>实习阶段：红河学院理工学院 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |
 | **Senior Years Curriculum, Instruction & Assessment: Literacy Across the Curriculum\* One of:**<br>高年级课程、教学与评估：跨课程读写能力\* 以下之一： | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=11) |

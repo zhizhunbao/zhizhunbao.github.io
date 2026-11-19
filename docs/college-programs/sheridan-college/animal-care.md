@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Animal Nursing Fundamentals**<br>动物护理基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/animal-care) |
 | **Domestic Animal Science**<br>家畜科学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/animal-care) |
 | **Animal Anatomy & Physiology**<br>动物解剖与生理学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/animal-care) |
-| **Introduction to Animal Grooming**<br>动物美容导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/animal-care) |
+| **Introduction to Animal Grooming**<br>动物美容入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/animal-care) |
 | **Animal Centre Duty**<br>动物中心值班 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/animal-care) |
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/animal-care) |
 | **General Elective (Intensive or distance)**<br>通用选修课（集中或远程） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/animal-care) |

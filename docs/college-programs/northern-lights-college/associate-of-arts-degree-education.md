@@ -18,10 +18,10 @@ ms.date: 2026-11-08
 | **Canada, Pre-Confederation**<br>联邦成立前的加拿大 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
 | **Canada, Post-Confederation**<br>联邦成立后的加拿大 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
 | **Principles of Mathematics for Teachers**<br>教师数学原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
-| **Introduction to Computers and Computer Applications**<br>计算机与计算机应用导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
-| **Introduction to Educational Psychology**<br>教育心理学导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
+| **Introduction to Computers and Computer Applications**<br>计算机与计算机应用入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
+| **Introduction to Educational Psychology**<br>教育心理学入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
 | **Social Issues in Education**<br>教育中的社会问题 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
-| **Introduction to Reflective Practice**<br>反思性实践导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
+| **Introduction to Reflective Practice**<br>反思性实践入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
 | **Indigenous Peoples of Canada**<br>加拿大原住民 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-education/) |
 
 ## Courses

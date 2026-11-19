@@ -13,9 +13,9 @@ ms.date: 2026-11-11
 | **Linguistics MA**<br>语言学（MA） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 | **Field Methods**<br>田野方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 | **Phonological Theory**<br>音系理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
-| **Introduction to Syntactic Theory**<br>句法理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
+| **Introduction to Syntactic Theory**<br>句法理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 | **Linguistic Forum**<br>语言学论坛 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
-| **Introduction to Analysis and Argumentation**<br>分析与论证导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
+| **Introduction to Analysis and Argumentation**<br>分析与论证入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 
 ## Courses
 

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration: Accounting**<br>工商管理：会计 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=5ad4e7ac-7013-4782-a8ca-054cffc1721c) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=5ad4e7ac-7013-4782-a8ca-054cffc1721c) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=5ad4e7ac-7013-4782-a8ca-054cffc1721c) |
 | **Management**<br>管理学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=5ad4e7ac-7013-4782-a8ca-054cffc1721c) |
 | **Practicum: BA - Business Administration**<br>实习：BA - 工商管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=5ad4e7ac-7013-4782-a8ca-054cffc1721c) |
 | **Information technology**<br>信息技术 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=5ad4e7ac-7013-4782-a8ca-054cffc1721c) |

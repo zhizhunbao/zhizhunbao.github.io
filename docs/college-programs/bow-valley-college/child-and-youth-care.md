@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Child and Youth Care**<br>儿童与青少年关怀 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
-| **Introduction to Child and Youth Care Practice**<br>儿童与青少年关怀实务导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
+| **Introduction to Child and Youth Care Practice**<br>儿童与青少年关怀实务入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
 | **Professional Communication for Child and Youth Care Counsellors**<br>儿童与青少年照护咨询师专业沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
 | **Foundations of Child and Youth Care Counselling**<br>儿童与青少年关怀咨询基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
 | **Sociology of the Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
 | **Group Facilitation in Child and Youth Care**<br>儿童与青少年关怀中的团体带领 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
 | **Youth Mental Health and Substance Use**<br>青少年精神健康与物质使用 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |
 | **Intersectional Child and Youth Care Practice**<br>交叉性儿童与青少年关怀实务 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/child-and-youth-care) |

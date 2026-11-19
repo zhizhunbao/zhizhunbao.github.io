@@ -1,10 +1,10 @@
 ---
-title: "3.1.37 Philosophy (B.A.)"
+title: "4.1.37 Philosophy (B.A.)"
 description: "University Programs > United States > Harvard University > Philosophy (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.37 Philosophy (B.A.)
+# 4.1.37 Philosophy (B.A.)
 
 ## Glossary
 
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **Existentialism in Literature and Film**<br>文学与电影中的存在主义 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Happiness**<br>幸福 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Happiness and Different Ways of Life**<br>幸福与不同的生活方式 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Self and World: An Introduction to Early Modern Philosophy**<br>自我与世界：早期现代哲学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Self and World: An Introduction to Early Modern Philosophy**<br>自我与世界：早期现代哲学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Philosophy of Law**<br>法哲学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Human Ethics: A Brief History**<br>人类伦理简史 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 

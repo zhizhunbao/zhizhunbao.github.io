@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Advanced Topics in Biophysics**<br>生物物理学高级专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Principles of Human Physiology 1**<br>人体生理学原理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Communication in the Sciences**<br>科学中的沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Classical Mechanics and Special Relativity**<br>经典力学与狭义相对论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Quantum Physics 2**<br>量子物理 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
@@ -50,7 +50,7 @@ ms.date: 2026-11-11
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Fundamentals of Microbiology**<br>微生物学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Microbiology Laboratory**<br>微生物学实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
-| **Introduction to Computational Biology**<br>计算生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
+| **Introduction to Computational Biology**<br>计算生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Principles of Molecular Biology**<br>分子生物学原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Principles of Human Physiology 2**<br>人体生理学原理 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |
 | **Human Physiology Laboratory**<br>人体生理学实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyerJJRRjn) |

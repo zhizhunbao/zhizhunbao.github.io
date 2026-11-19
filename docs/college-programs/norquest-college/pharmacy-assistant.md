@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Pharmacy Assistant**<br>药房助理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/pharmacy-assistant/) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/pharmacy-assistant/costs-and-courses/) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/pharmacy-assistant/costs-and-courses/) |
 | **Pharmacy Fundamentals**<br>药学基础 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/pharmacy-assistant/costs-and-courses/) |
 | **Pharmacy Calculations and Prescription Processing**<br>药房计算与处方处理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/pharmacy-assistant/costs-and-courses/) |
 | **Pharmacotherapy**<br>药物治疗学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/pharmacy-assistant/costs-and-courses/) |

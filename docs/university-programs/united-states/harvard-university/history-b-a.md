@@ -1,10 +1,10 @@
 ---
-title: "3.1.24 History (B.A.)"
+title: "4.1.24 History (B.A.)"
 description: "University Programs > United States > Harvard University > History (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.24 History (B.A.)
+# 4.1.24 History (B.A.)
 
 ## Glossary
 
@@ -13,8 +13,8 @@ ms.date: 2026-11-18
 | **History (B.A.)**<br>历史学（文学学士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **A History of the Present (new!)**<br>当代史（新课！） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **A Colloquium in the Visual Arts (fall)**<br>视觉艺术研讨会（秋季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Contemporary Art (fall)**<br>当代艺术导论（秋季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Japanese Architecture (spring)**<br>日本建筑导论（春季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Contemporary Art (fall)**<br>当代艺术入门（秋季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Japanese Architecture (spring)**<br>日本建筑入门（春季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Landmarks of World Architecture (spring)**<br>世界建筑里程碑（春季） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 
 ## Courses

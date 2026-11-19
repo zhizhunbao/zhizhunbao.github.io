@@ -1,10 +1,10 @@
 ---
-title: "3.3.132 Political Science, Master of Arts"
+title: "4.3.132 Political Science, Master of Arts"
 description: "University Programs > United States > Stanford University > Political Science, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.132 Political Science, Master of Arts
+# 4.3.132 Political Science, Master of Arts
 
 ## Glossary
 
@@ -47,7 +47,7 @@ ms.date: 2026-11-18
 | **International Relations Theory, Part II**<br>国际关系理论，第 II 部分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/political-science/master-of-arts) |
 | **International Relations Theory, Part III**<br>国际关系理论，第 III 部分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/political-science/master-of-arts) |
 | **Research in International Relations**<br>国际关系研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/political-science/master-of-arts) |
-| **Strategy: Introduction to Game Theory**<br>战略：博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/political-science/master-of-arts) |
+| **Strategy: Introduction to Game Theory**<br>战略：博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/political-science/master-of-arts) |
 | **Data Science for Politics**<br>政治学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/political-science/master-of-arts) |
 | **Machine Learning for Social Scientists**<br>社会科学家的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/political-science/master-of-arts) |
 | **Causal Inference for Social Science**<br>社会科学因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/political-science/master-of-arts) |

@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Psychology Major (B.Sc.)**<br>心理学主修（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
-| **Introduction to Psychology.**<br>心理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
+| **Introduction to Psychology.**<br>心理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Principles: Organismal Biology.**<br>原理：生物体生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Cell and Molecular Biology.**<br>细胞与分子生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Introductory Behavioural Neuroscience.**<br>行为神经科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Cognition.**<br>认知 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Social Psychology.**<br>社会心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
@@ -23,11 +23,11 @@ ms.date: 2026-11-11
 | **Research Methods in Psychology.**<br>心理学研究方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Intelligence.**<br>智能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Human Cognition and the Brain.**<br>人类认知与大脑 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
-| **Introduction to Perception.**<br>知觉导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
+| **Introduction to Perception.**<br>知觉入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Computational Psychology.**<br>计算心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Behavioural Neuroscience 2.**<br>行为神经科学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Computational Models - Cognition.**<br>计算模型：认知 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
-| **Introduction to Auditory Cognition.**<br>听觉认知导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
+| **Introduction to Auditory Cognition.**<br>听觉认知入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Psychology of Language.**<br>语言心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **The Psychology of Bilingualism.**<br>双语心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Hormones and Behaviour.**<br>激素与行为 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
@@ -56,15 +56,15 @@ ms.date: 2026-11-11
 | **Topics in Language Acquisition.**<br>语言习得专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Machine Learning Tools in Psychology .**<br>心理学中的机器学习工具 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Measurement of Psychological Processes.**<br>心理过程的测量 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
-| **Introduction to Neuroscience 2.**<br>神经科学导论 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
+| **Introduction to Neuroscience 2.**<br>神经科学入门 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Child Development.**<br>儿童发展 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Positive Psychology: Science of Well-Being.**<br>积极心理学：幸福的科学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Health Psychology.**<br>健康心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Inter-Group Relations.**<br>群体间关系 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
-| **Introduction to Personality.**<br>人格导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
+| **Introduction to Personality.**<br>人格入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Personality and Social Psychology.**<br>人格与社会心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
-| **Introduction to Psychopathology.**<br>精神病理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
-| **Introduction to Applied Psychology.**<br>应用心理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
+| **Introduction to Psychopathology.**<br>精神病理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
+| **Introduction to Applied Psychology.**<br>应用心理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Research Methods and Laboratory in Social Psychology.**<br>社会心理学研究方法与实验室 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Principles and Applications of Psychotherapy.**<br>心理治疗的原理与应用 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |
 | **Discrimination & Wellbeing in Marginalized Communities.**<br>边缘化社区中的歧视与福祉 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/) |

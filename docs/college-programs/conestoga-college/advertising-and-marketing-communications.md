@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advertising-and-marketing-communications/courses?id=36470) |
 | **Social Media Platforms**<br>社交媒体平台 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advertising-and-marketing-communications/courses?id=36470) |
 | **Web Basics**<br>Web基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advertising-and-marketing-communications/courses?id=36470) |
-| **Introduction to Marketing and Research**<br>营销与调研导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advertising-and-marketing-communications/courses?id=36470) |
+| **Introduction to Marketing and Research**<br>营销与调研入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advertising-and-marketing-communications/courses?id=36470) |
 | **Advertising Creative Studio 2**<br>广告创意工作室 2 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advertising-and-marketing-communications/courses?id=36470) |
 | **Brand Engagement & Creative**<br>品牌互动与创意 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advertising-and-marketing-communications/courses?id=36470) |
 | **Advertising Strategy and Sales**<br>广告策略与销售 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/advertising-and-marketing-communications/courses?id=36470) |

@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **STUDIES IN POETICS**<br>诗学研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20718&SelectedCalendar=Live&ArchiveID=) |
 | **STUDIES IN NARRATIVE THEORY**<br>叙事理论研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20718&SelectedCalendar=Live&ArchiveID=) |
 | **FEMINIST LITERARY THEORY**<br>女性主义文学理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20718&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CULTURAL STUDIES**<br>文化研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20718&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CULTURAL STUDIES**<br>文化研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20718&SelectedCalendar=Live&ArchiveID=) |
 | **DIGITAL NARRATIVES**<br>数字叙事 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20718&SelectedCalendar=Live&ArchiveID=) |
 | **TOPICS IN THEORY**<br>理论专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20718&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOANALYSIS AND LITERARY CRITICISM IN THE TWENTY-FIRST CENTURY**<br>二十一世纪的精神分析与文学批评 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20718&SelectedCalendar=Live&ArchiveID=) |

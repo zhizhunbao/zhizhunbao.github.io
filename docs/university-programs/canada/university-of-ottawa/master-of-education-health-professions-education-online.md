@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education (Health Professions Education) (Online)**<br>教育学硕士，健康专业教育（网络授课） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-professions-education/) |
-| **Introduction to Research in Education**<br>教育研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-professions-education/) |
+| **Introduction to Research in Education**<br>教育研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-professions-education/) |
 | **Synthesis Seminar**<br>综合研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-professions-education/) |
 | **Teaching Strategies for Health Professions Education**<br>健康专业教育的教学策略 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-professions-education/) |
 | **Curriculum Design for Health Professions Education**<br>卫生专业教育课程设计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-health-professions-education/) |

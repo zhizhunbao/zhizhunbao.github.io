@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Information Systems Business Analysis**<br>信息系统商业分析 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
 | **Information Systems Ethics**<br>信息系统伦理 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
 | **Business Process Development**<br>业务流程开发 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
 | **Database Management**<br>数据库管理 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
 | **Foundations of Computer Science**<br>计算机科学基础 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
 | **e-Business and e-Commerce Management**<br>电子商务与电商管理 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/information-systems-business-analysis/) |
 
 ## Courses
 

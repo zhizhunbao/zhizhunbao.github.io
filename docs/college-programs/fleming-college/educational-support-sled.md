@@ -15,11 +15,11 @@ ms.date: 2026-11-08
 | **Communications I for Community Development Professionals**<br>社区发展专业人员沟通 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
 | **Foundations of Educational Support**<br>教育支持基础 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
 | **Technology for Human Service Professionals**<br>人类服务专业人员技术 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
 | **Curriculum for Educational Support**<br>教育支持课程 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
 | **Field Preparation I**<br>实地准备 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
-| **Introduction to Exceptionalities**<br>特殊需求导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
+| **Introduction to Exceptionalities**<br>特殊需求入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
 | **Technology for Today's Classroom**<br>当代课堂技术 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/educational-support) |

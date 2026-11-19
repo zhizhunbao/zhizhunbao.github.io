@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Library & Information Technician (Accelerated)**<br>图书馆与信息技术员（加速） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LITA.html) |
-| **LIT Introduction to Computer Applications**<br>LIT计算机应用导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LITA/courses.html) |
+| **LIT Introduction to Computer Applications**<br>LIT计算机应用入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LITA/courses.html) |
 | **Cataloguing I**<br>编目 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LITA/courses.html) |
 | **Circulation**<br>循环系统 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LITA/courses.html) |
 | **Searching I**<br>检索 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LITA/courses.html) |

@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Risk, Threat, and Crime Analysis (Honours)**<br>风险、威胁与犯罪分析学士（荣誉） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
-| **Introduction to Criminal Intelligence Analysis**<br>犯罪情报分析导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
+| **Introduction to Criminal Intelligence Analysis**<br>犯罪情报分析入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
 | **Open Source Intelligence Analysis**<br>开源情报分析 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
 | **Academic Communications**<br>学术交流 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
-| **Introduction to Social Justice**<br>社会正义导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
+| **Introduction to Social Justice**<br>社会正义入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
 | **Cybercrime**<br>网络犯罪 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |
 | **Applied Ethics, Critical Thinking & Perceptual Biases**<br>应用伦理、批判性思维与感知偏差 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-risk-threat-and-crime-analysis-honours/courses-no-intake?id=15522) |

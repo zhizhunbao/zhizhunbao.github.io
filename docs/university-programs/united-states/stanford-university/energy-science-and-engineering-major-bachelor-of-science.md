@@ -1,10 +1,10 @@
 ---
-title: "3.3.29 Energy Science and Engineering, Major: Bachelor of Science"
+title: "4.3.29 Energy Science and Engineering, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Energy Science and Engineering, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.29 Energy Science and Engineering, Major: Bachelor of Science
+# 4.3.29 Energy Science and Engineering, Major: Bachelor of Science
 
 ## Glossary
 
@@ -18,8 +18,8 @@ ms.date: 2026-11-18
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Linear Algebra and Partial Differential Equations for Engineers**<br>工程师线性代数与偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Integral Calculus of Several Variables**<br>多变量积分学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Mechanics, Concepts, Calculations, and Context**<br>力学：概念、计算与情境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Mechanics and Special Relativity**<br>力学与狭义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-18
 | **Chemistry of the Earth and Planets**<br>地球与行星化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
-| **Intro to Solid Mechanics**<br>固体力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
+| **Intro to Solid Mechanics**<br>固体力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Engineering Thermodynamics**<br>工程热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Introductory Fluids Engineering**<br>流体工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
@@ -61,7 +61,7 @@ ms.date: 2026-11-18
 | **Fundamentals of Energy Processes**<br>能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Energy storage and conversion systems: Solar Cells, Fuel Cells, Batteries**<br>储能与转换系统：太阳能电池、燃料电池、电池 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Geothermal Reservoir Engineering**<br>地热储层工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **The Geoscience of Environmental Justice**<br>环境正义的地球科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 | **Undergraduate Research Problems**<br>本科生研究问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/energy-science-and-engineering/bachelor-of-science) |
 

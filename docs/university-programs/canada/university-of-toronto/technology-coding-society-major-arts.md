@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Data Analysis I**<br>数据分析 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1040) |
 | **Immersive Environment Design**<br>沉浸式环境设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1040) |
 | **Interactive Media Design**<br>交互媒体设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1040) |
-| **Introduction to Technical Communication**<br>技术传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1040) |
+| **Introduction to Technical Communication**<br>技术传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1040) |
 | **Communication, Technology, and Social Change**<br>传播、技术与社会变革 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1040) |
 | **Human-Computer Interaction and Communication**<br>人机交互与传播 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1040) |
 | **Ethics and Code**<br>伦理与代码 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1040) |

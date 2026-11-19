@@ -15,11 +15,11 @@ ms.date: 2026-11-08
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
 | **Anti Oppressive Practice**<br>反压迫实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
 | **Resiliency through the Life Span**<br>全生命周期的心理韧性 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
-| **Introduction to Immigrant and Refugee Policies**<br>移民与难民政策导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
+| **Introduction to Immigrant and Refugee Policies**<br>移民与难民政策入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
 | **Field Seminar: Laws, Principles and Ethics**<br>实地研讨：法律、原则与伦理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
 | **Group Dynamics**<br>团体动力学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
 | **Interviewing Skills and Principles**<br>访谈技能与原则 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
-| **Introduction to Settlement Sectors**<br>安置服务领域导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
+| **Introduction to Settlement Sectors**<br>安置服务领域入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
 | **Immigrant Families and Systemic Violence**<br>移民家庭与系统性暴力 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
 | **Integrative Field Work Seminar**<br>综合实地工作研讨 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |
 | **Field Placement**<br>实地实习 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/SSWI/courses.html) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Textile Studio Safety**<br>纺织工作室安全 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/textile-and-apparel-design) |
 | **Fibre & Fabric Exploration**<br>纤维与织物探索 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/textile-and-apparel-design) |
 | **Introduction to Sewing**<br>缝纫入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/textile-and-apparel-design) |
-| **Introduction to Drawing**<br>绘画导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/textile-and-apparel-design) |
+| **Introduction to Drawing**<br>绘画入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/textile-and-apparel-design) |
 | **Elements of Design**<br>设计要素 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/textile-and-apparel-design) |
 | **Colour Theory**<br>色彩理论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/textile-and-apparel-design) |
 | **Art History**<br>艺术史 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/textile-and-apparel-design) |

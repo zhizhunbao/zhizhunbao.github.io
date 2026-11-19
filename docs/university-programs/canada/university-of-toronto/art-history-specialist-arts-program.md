@@ -51,7 +51,7 @@ ms.date: 2026-11-11
 | **Modernism and anti-Modernism, c. 1750-1900**<br>现代主义与反现代主义，约1750-1900年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0908) |
 | **Art Since 1900**<br>1900年以来的艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0908) |
 | **Canadian Painting 1665-1960**<br>加拿大绘画1665-1960年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0908) |
-| **Introduction to the History of Photography**<br>摄影史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0908) |
+| **Introduction to the History of Photography**<br>摄影史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0908) |
 | **Art of Indigenous North America**<br>北美原住民艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0908) |
 | **German Art and Architecture in the Age of Dürer**<br>丢勒时代的德国艺术与建筑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0908) |
 | **Netherlandish Renaissance Art and Culture**<br>尼德兰文艺复兴艺术与文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0908) |

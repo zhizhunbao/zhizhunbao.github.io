@@ -1,10 +1,10 @@
 ---
-title: "3.2.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)"
+title: "4.2.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)
+# 4.2.8 Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)
 
 ## Glossary
 
@@ -25,9 +25,9 @@ ms.date: 2026-11-18
 | **Materials Project Laboratory (CI-M)**<br>材料项目实验室（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Small Planet Engineering: Climate, Energy, and Sustainability**<br>小星球工程：气候、能源与可持续性 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Modelling, Problem Solving, Computing, and Visualization**<br>建模、问题求解、计算与可视化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
-| **Introduction to Modeling and Simulation**<br>建模与仿真导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
+| **Introduction to Modeling and Simulation**<br>建模与仿真入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Mathematics and Computational Thinking for Materials Scientists and Engineers II**<br>材料科学家与工程师的数学与计算思维 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
-| **Introduction to Materials Characterization**<br>材料表征导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
+| **Introduction to Materials Characterization**<br>材料表征入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Computational Materials Design**<br>计算材料设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Advanced Thermodynamics of Materials**<br>高级材料热力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Nanomechanics of Materials and Biomaterials**<br>材料与生物材料的纳米力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-18
 | **Materials Physics of Neural Interfaces**<br>神经接口的材料物理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Polymer Physics**<br>高分子物理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Polymer Engineering**<br>高分子工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
-| **Introduction to Ceramics**<br>陶艺导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
+| **Introduction to Ceramics**<br>陶艺入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Amorphous Materials**<br>非晶材料 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Imaging of Materials**<br>材料成像 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |
 | **Strategic Materials Selection**<br>战略性材料选择 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/) |

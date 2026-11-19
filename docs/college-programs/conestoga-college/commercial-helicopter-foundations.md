@@ -17,13 +17,13 @@ ms.date: 2026-11-08
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
 | **Exponents And Trigonometry**<br>指数与三角学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
-| **Introduction to the Electronic Flight Bag (EFB)**<br>电子飞行包（EFB）导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
+| **Introduction to the Electronic Flight Bag (EFB)**<br>电子飞行包（EFB）入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
 | **Electives: General Education**<br>选修课：通识教育 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
-| **Introduction to Aviation**<br>航空导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
+| **Introduction to Aviation**<br>航空入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
 | **Impact of Aviation on Canadian National Development**<br>航空对加拿大国家发展的影响 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
 | **Instrument Flight Rules Groundschool**<br>仪表飞行规则地面课程 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
-| **Introduction to Personal Finances**<br>个人理财导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
+| **Introduction to Personal Finances**<br>个人理财入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/commercial-helicopter-foundations/courses?id=35303) |
 
 ## Courses
 

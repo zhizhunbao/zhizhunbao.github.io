@@ -1,17 +1,17 @@
 ---
-title: "3.3.115 Laboratory Animal Science, Master of Science"
+title: "4.3.115 Laboratory Animal Science, Master of Science"
 description: "University Programs > United States > Stanford University > Laboratory Animal Science, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.115 Laboratory Animal Science, Master of Science
+# 4.3.115 Laboratory Animal Science, Master of Science
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Laboratory Animal Science, Master of Science**<br>实验动物科学，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/laboratory-animal-science/master-of-science) |
-| **Wielding White Coat Words: Introduction to Comparative Medical Terminology**<br>运用白大褂词汇：比较医学术语导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/laboratory-animal-science/master-of-science) |
+| **Wielding White Coat Words: Introduction to Comparative Medical Terminology**<br>运用白大褂词汇：比较医学术语入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/laboratory-animal-science/master-of-science) |
 | **One Health Journal Club**<br>同一健康文献研读会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/laboratory-animal-science/master-of-science) |
 | **Animal Use in Biomedical Research**<br>生物医学研究中的动物使用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/laboratory-animal-science/master-of-science) |
 | **Form and Funkiness of Lab Animals : Anatomy, Histology, and Pathology**<br>实验动物的形态与奇趣：解剖学、组织学与病理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/laboratory-animal-science/master-of-science) |

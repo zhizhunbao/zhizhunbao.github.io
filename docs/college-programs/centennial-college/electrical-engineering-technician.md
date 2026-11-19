@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Mathematics 2**<br>数学 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technician) |
 | **College Communications 2**<br>学院交流 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technician) |
 | **Electronics 2**<br>电子学 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technician) |
-| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technician) |
+| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technician) |
 | **Drawings and Installation Methods 3**<br>图纸与安装方法 3 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technician) |
 | **Electrical Theory 3**<br>电气理论 3 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technician) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/electrical-engineering-technician) |

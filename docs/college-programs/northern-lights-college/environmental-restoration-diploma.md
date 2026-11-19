@@ -11,26 +11,26 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Environmental Restoration Diploma**<br>环境修复文凭 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Basic Ecology**<br>基础生态学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Botany Basics**<br>植物学基础 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
-| **Introduction to Workplace Communications**<br>职场沟通导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
+| **Introduction to Workplace Communications**<br>职场沟通入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Technical Writing**<br>技术写作 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Physical Geography: Surface of the Earth**<br>自然地理学：地球表面 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Petroleum Fundamentals**<br>石油基础 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Inventory and Assessment Techniques**<br>清查与评估技术 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
-| **Introduction to Freshwater Resources**<br>淡水资源导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
-| **Introduction to Agriculture**<br>农业导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
+| **Introduction to Freshwater Resources**<br>淡水资源入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
+| **Introduction to Agriculture**<br>农业入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Cartography: Map and Airphoto Interpretation**<br>制图学：地图与航空照片判读 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Wildlife Habitat Conservation**<br>野生动物栖息地保护 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Soil Classification**<br>土壤分类 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Water Mensuration**<br>水文测量 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Treaties and Aboriginal Rights**<br>条约与原住民权利 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Forest Ecology**<br>森林生态学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Land Reclamation**<br>土地复垦 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
-| **Introduction to Contaminated Sites**<br>污染场地导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
+| **Introduction to Contaminated Sites**<br>污染场地入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 | **Work Practicum**<br>工作实习 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/environmental-restoration-diploma-cip-03-0201/) |
 
 ## Courses

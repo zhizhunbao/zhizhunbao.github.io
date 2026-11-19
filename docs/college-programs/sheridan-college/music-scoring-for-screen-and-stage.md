@@ -16,13 +16,13 @@ ms.date: 2026-11-08
 | **Orchestration 1**<br>配器 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **Game Audio**<br>游戏音频 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **The Digital Audio Workstation**<br>数字音频工作站 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
-| **Introduction to Recording Studio Techniques**<br>录音棚技术导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
+| **Introduction to Recording Studio Techniques**<br>录音棚技术入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **The Composer's Toolkit**<br>作曲家工具箱 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **Genres & Scores: Games & Feature Films**<br>配乐类型：游戏与长片 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **Composition for Animation & TV**<br>动画与电视配乐创作 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **Orchestration 2**<br>配器 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **Principles of Music & Sound Design**<br>音乐与声音设计原理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
-| **Introduction to Mixing**<br>混音导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
+| **Introduction to Mixing**<br>混音入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **Recording Studio Techniques 2**<br>录音棚技术 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **Pitching, Negotiating, Collaborating**<br>推介、谈判与协作 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |
 | **Composition & Orchestration: Orchestra**<br>作曲与配器：管弦乐 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/music-scoring-screen-stage) |

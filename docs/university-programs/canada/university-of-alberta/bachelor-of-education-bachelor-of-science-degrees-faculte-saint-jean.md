@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Education / Bachelor of Science Degrees [Faculté Saint-Jean]**<br>教育学学士/理学学士（圣让学院） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
-| **Introduction à la biologie cellulaire**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
-| **Introduction à la diversité biologique**<br>生物多样性导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
+| **Introduction à la biologie cellulaire**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
+| **Introduction à la diversité biologique**<br>生物多样性入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Calcul différentiel et intégral II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Particules et ondes**<br>粒子与波 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Calcul différentiel et intégral I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
@@ -23,8 +23,8 @@ ms.date: 2026-11-11
 | **Survol de la littérature d’expression française**<br>法语文学概览 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Histoire et fondements de l’apprentissage scolaire**<br>学校学习的历史与基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Théorie de l’apprentissage des langues et approche intégrée**<br>语言学习理论与综合方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
-| **Introduction au développement de l’adolescent**<br>青少年发展导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
-| **Introduction à l’enseignement et stage d’orientation**<br>教学导论与定向实习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
+| **Introduction au développement de l’adolescent**<br>青少年发展入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
+| **Introduction à l’enseignement et stage d’orientation**<br>教学入门与定向实习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Les francophonies canadiennes et acadiennes II: perspectives idéologiques et politiques.**<br>加拿大法语区与阿卡迪亚法语区 II：意识形态与政治视角 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Enjeux de l’équité et de la diversité en milieu scolaire**<br>学校环境中的公平与多样性议题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Les technologies de l’information et de la communication**<br>信息与通信技术 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
@@ -40,9 +40,9 @@ ms.date: 2026-11-11
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Geometry**<br>几何学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Transformation Geometry**<br>变换几何 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
-| **Introduction à la statistique appliquée I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
-| **Introduction à la chimie I**<br>化学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
-| **Introduction à la chimie II**<br>化学导论 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
+| **Introduction à la statistique appliquée I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
+| **Introduction à la chimie I**<br>化学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
+| **Introduction à la chimie II**<br>化学入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Mécanique**<br>力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Ondes, optique et son**<br>波、光学与声 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |
 | **Chimie organique I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110619&returnto=20856) |

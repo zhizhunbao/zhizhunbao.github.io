@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Artificial Intelligence Project Management**<br>人工智能项目管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/artificial-intelligence-integration-and-governance) |
 | **Artificial Intelligence Capstone Project Preparation**<br>人工智能毕业项目准备 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/artificial-intelligence-integration-and-governance) |
 | **Career Development in Artificial Intelligence**<br>人工智能职业发展 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/artificial-intelligence-integration-and-governance) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/artificial-intelligence-integration-and-governance) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/artificial-intelligence-integration-and-governance) |
 | **Emerging Technologies in Artificial Intelligence**<br>人工智能新兴技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/artificial-intelligence-integration-and-governance) |
 | **Artificial Intelligence Capstone Project**<br>人工智能毕业设计项目 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/artificial-intelligence-integration-and-governance) |
 | **Generative AI and Prompt Engineering**<br>生成式AI与提示工程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/artificial-intelligence-integration-and-governance) |

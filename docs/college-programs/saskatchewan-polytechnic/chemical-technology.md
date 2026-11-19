@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Organic Chemistry 1**<br>有机化学 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx) |
 | **Organic Chemistry 1 Lab**<br>有机化学 1 实验 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx) |
 | **General Chemistry 1**<br>普通化学 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx) |
-| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 导论 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx) |
+| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 入门 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx) |
 | **Analytical Instrumentation 1**<br>分析仪器 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx) |
 | **Analytical Instrumentation 1 Lab**<br>分析仪器 1 实验 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx) |
 | **Mathematics 1**<br>数学 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Chemical-Technology.aspx) |

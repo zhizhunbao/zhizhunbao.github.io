@@ -19,15 +19,15 @@ ms.date: 2026-11-11
 | **Shakespeare**<br>莎士比亚 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Modern Drama**<br>现代戏剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Le théâtre classique**<br>古典戏剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
-| **Introduction to Film**<br>电影导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Film**<br>电影入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Filmmaking I: Screen Narrative Technique**<br>电影制作 I：银幕叙事技巧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **History of Film**<br>电影史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Filmmaking II: Directing the Short Film**<br>电影制作 II：短片导演 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Advanced Post-Production**<br>高级后期制作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Documentary Filmmaking**<br>纪录片制作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Advanced Screenwriting**<br>高级编剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
-| **Introduction to Theatre: Performance**<br>戏剧导论：表演 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
-| **Introduction to Theatre: Performance (Only ONE of**<br>戏剧导论：表演（仅限其中之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Theatre: Performance**<br>戏剧入门：表演 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Theatre: Performance (Only ONE of**<br>戏剧入门：表演（仅限其中之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **1002 or 1003 may be used toward the major)**<br>1002 或 1003 可计入主修） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Acting Theory and Practice**<br>表演理论与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Acting III: Advanced Practice, Process and Performance**<br>表演 III：高级实践、过程与演出 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-11
 | **Drama in Education (offered every second year)**<br>教育戏剧（每两年开设一次） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Production I**<br>制作 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Approach to Directing**<br>导演方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
-| **Introduction to Screenwriting**<br>编剧导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Screenwriting**<br>编剧入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Film Comedy**<br>电影喜剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Film Horror**<br>电影恐怖片 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Producing for Film**<br>电影制片 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
@@ -68,7 +68,7 @@ ms.date: 2026-11-11
 | **Honours Stage Management – Practice**<br>荣誉舞台管理，实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Theories in Theatre**<br>戏剧理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Playwriting I**<br>剧本创作 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
-| **Introduction to Devised Theatre**<br>集体创作戏剧导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Devised Theatre**<br>集体创作戏剧入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Principles of Physical Training**<br>体能训练原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Acting III: APPP**<br>表演 III：APPP | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
 | **Advanced Movement**<br>高级形体动作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Honours Bachelor of Communications & Media**<br>传播与媒体荣誉学士 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMM.html) |
 | **Information Theory and Interactivity**<br>信息论与交互性 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMM/courses.html) |
-| **Introduction to Audio and Video Production**<br>音视频制作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMM/courses.html) |
+| **Introduction to Audio and Video Production**<br>音视频制作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMM/courses.html) |
 | **Persuasive Communication**<br>说服性沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMM/courses.html) |
 | **Contemporary Narrative Structures**<br>当代叙事结构 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMM/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMM/courses.html) |

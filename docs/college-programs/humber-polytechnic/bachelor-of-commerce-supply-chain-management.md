@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **e-Commerce**<br>电子商务 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-supply-chain-management) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-supply-chain-management) |
 | **Consumer Behaviour**<br>消费者行为 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-supply-chain-management) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-supply-chain-management) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-supply-chain-management) |
 | **Business Research Methods**<br>商业研究方法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-supply-chain-management) |
 | **Business Career Development**<br>商业职业发展 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-supply-chain-management) |
 | **Product Design, Development and Delivery**<br>产品设计、开发与交付 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-supply-chain-management) |

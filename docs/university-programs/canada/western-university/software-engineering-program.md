@@ -53,11 +53,11 @@ ms.date: 2026-11-11
 | **DEEP LEARNING FOR TIME SERIES DATA**<br>时间序列数据的深度学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
 | **ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING DESIGN I**<br>人工智能系统工程设计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
 | **ORGANIZATION OF PROGRAMMING LANGUAGES**<br>编程语言的组织 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ARTIFICIAL INTELLIGENCE**<br>人工智能导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ARTIFICIAL INTELLIGENCE**<br>人工智能入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER GRAPHICS I**<br>计算机图形学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
 | **GAME PROGRAMMING**<br>游戏编程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
 | **GAME DESIGN**<br>游戏设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SYSTEM DESIGN**<br>计算机系统设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
 | **HARDWARE/SOFTWARE CO-DESIGN**<br>硬件/软件协同设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |
 | **REAL-TIME AND EMBEDDED SYSTEMS**<br>实时与嵌入式系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21282&SelectedCalendar=Live&ArchiveID=) |

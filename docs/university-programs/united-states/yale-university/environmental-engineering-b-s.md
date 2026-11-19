@@ -1,10 +1,10 @@
 ---
-title: "3.4.38 Environmental Engineering (B.S.)"
+title: "4.4.38 Environmental Engineering (B.S.)"
 description: "University Programs > United States > Yale University > Environmental Engineering (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.38 Environmental Engineering (B.S.)
+# 4.4.38 Environmental Engineering (B.S.)
 
 ## Glossary
 
@@ -16,7 +16,7 @@ ms.date: 2026-11-18
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Multivariable Calculus for Engineers**<br>工程师多元微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Ordinary and Partial Differential Equations with Applications**<br>常微分与偏微分方程及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
-| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
+| **Introduction to Computing for Engineers and Scientists**<br>面向工程师与科学家的计算入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Data Exploration and Analysis**<br>数据探索与分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **University Physics**<br>大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Biochemistry and Biophysics**<br>生物化学与生物物理学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-18
 | **Principles of Ecology and Evolutionary Biology**<br>生态学与进化生物学原理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Chemical Engineering Thermodynamics**<br>化学工程热力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Thermodynamics for Mechanical Engineers**<br>机械工程师热力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
-| **Introduction to Environmental Engineering**<br>环境工程导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
+| **Introduction to Environmental Engineering**<br>环境工程入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Bio-Inspired and Sustainable Design**<br>仿生与可持续设计 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Air Pollution Control**<br>空气污染控制 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |
 | **Transport Phenomena I**<br>传递现象 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/) |

@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Recreation Leadership**<br>休闲领导力 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we) |
-| **Introduction to Business in Canada**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
+| **Introduction to Business in Canada**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Foundations of Leisure and Recreation**<br>休闲与康乐基础 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Direct Leadership in Recreation**<br>康乐领域直接领导力 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Valuing Diversity in Leadership**<br>领导力中的多元价值 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Recreation Program Planning**<br>休闲项目规划 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
-| **Introduction to Recreation Facilities and Environments**<br>休闲设施与环境导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
+| **Introduction to Recreation Facilities and Environments**<br>休闲设施与环境入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Applied Skills in Recreation Operations**<br>康体运营应用技能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **The Arts and Heritage in Recreation**<br>休闲中的艺术与遗产 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Personal Portfolio Development and Seminar**<br>个人作品集开发与研讨课 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
@@ -25,8 +25,8 @@ ms.date: 2026-11-08
 | **Internship Orientation and Portfolio Development**<br>实习说明与作品集开发 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Recreation Issues and Trends**<br>休闲议题与趋势 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/recreation-leadership-diploma-we/courses) |

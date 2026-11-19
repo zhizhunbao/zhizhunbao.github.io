@@ -1,10 +1,10 @@
 ---
-title: "3.3.38 History, Major: Bachelor of Arts"
+title: "4.3.38 History, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > History, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.38 History, Major: Bachelor of Arts
+# 4.3.38 History, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -187,7 +187,7 @@ ms.date: 2026-11-18
 | **Black Women, Trauma, and the Art of Resistance**<br>黑人女性、创伤与抵抗的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **Writing Black Women into History: Ten Characters from American Literature**<br>将黑人女性写入历史：美国文学中的十个人物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **American Protest Movements, Past and Present**<br>美国抗议运动，过去与现在 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
-| **Introduction to Asian American History**<br>亚裔美国人历史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
+| **Introduction to Asian American History**<br>亚裔美国人历史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **Presidents and Foreign Policy in Modern History**<br>总统与现代史上的外交政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **Race and Gender in the 1990s United States**<br>1990 年代美国的种族与性别 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **Taylor Swift and Millennial America**<br>泰勒斯威夫特与千禧一代美国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
@@ -212,7 +212,7 @@ ms.date: 2026-11-18
 | **Immigration and Asylum Practicum**<br>移民与庇护实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **The Middle East Underground: Revolutions, Resistance, and the Global South**<br>中东地下：革命、抵抗与全球南方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **Modern Iran: Constitution to Revolution**<br>现代伊朗：从宪法到革命 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
-| **Introduction to Islamic Law**<br>伊斯兰法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
+| **Introduction to Islamic Law**<br>伊斯兰法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **Departures: Late Ottoman Displacements of Muslims, Christians, and Jews, 1853-1923**<br>离去：晚期奥斯曼穆斯林、基督徒与犹太人的流离，1853至1923 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **Ottoman Palestine**<br>奥斯曼巴勒斯坦 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |
 | **Enslavement and the Protracted End of Slavery in the Middle East and East Africa**<br>奴役与中东及东非奴隶制的漫长终结 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/history/bachelor-of-arts) |

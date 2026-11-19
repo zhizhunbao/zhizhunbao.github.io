@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/employment-relations-certificate/) |
 | **Workplace Policies and Governance**<br>职场政策与治理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/employment-relations-certificate/) |
 | **Advancing Equity, Diversity, and Inclusion in the Workplace**<br>在职场推进公平、多元与包容 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/employment-relations-certificate/) |
-| **Introduction to Organizational Behaviour**<br>组织行为学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/employment-relations-certificate/) |
+| **Introduction to Organizational Behaviour**<br>组织行为学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/employment-relations-certificate/) |
 | **Finance and Accounting for HR Professionals**<br>人力资源专业人员的财务与会计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/employment-relations-certificate/) |
 | **Managing Workplace Health, Safety, and Wellness**<br>职场健康、安全与福祉管理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/employment-relations-certificate/) |
 

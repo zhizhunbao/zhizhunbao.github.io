@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Entrepreneurship and Small Business – Business – Transfer to Ontario Tech University Bachelor of Commerce (Hons)**<br>创业与小企业 - 商务 - 转入安大略理工大学商学学士（荣誉） | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/entrepreneurship-and-small-business-business-transfer-to-ontario-tech-bachelor-of-commerce-hons) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/entrepreneurship-and-small-business-business-transfer-to-ontario-tech-bachelor-of-commerce-hons) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/entrepreneurship-and-small-business-business-transfer-to-ontario-tech-bachelor-of-commerce-hons) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/entrepreneurship-and-small-business-business-transfer-to-ontario-tech-bachelor-of-commerce-hons) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/entrepreneurship-and-small-business-business-transfer-to-ontario-tech-bachelor-of-commerce-hons) |
 | **Financial Planning**<br>财务规划 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/entrepreneurship-and-small-business-business-transfer-to-ontario-tech-bachelor-of-commerce-hons) |
 | **Human Resource Management 1**<br>人力资源管理 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/entrepreneurship-and-small-business-business-transfer-to-ontario-tech-bachelor-of-commerce-hons) |
 | **Marketing 1**<br>市场营销 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/entrepreneurship-and-small-business-business-transfer-to-ontario-tech-bachelor-of-commerce-hons) |

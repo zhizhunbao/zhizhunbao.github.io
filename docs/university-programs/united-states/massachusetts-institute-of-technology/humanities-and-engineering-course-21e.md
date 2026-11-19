@@ -1,10 +1,10 @@
 ---
-title: "3.2.35 Humanities and Engineering (Course 21E)"
+title: "4.2.35 Humanities and Engineering (Course 21E)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Humanities and Engineering (Course 21E): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.35 Humanities and Engineering (Course 21E)
+# 4.2.35 Humanities and Engineering (Course 21E)
 
 ## Glossary
 
@@ -13,12 +13,12 @@ ms.date: 2026-11-18
 | **Humanities and Engineering (Course 21E)**<br>人文与工程（Course 21E） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Humanities Pre-Thesis Tutorial**<br>人文学科论文预备辅导课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Undergraduate Thesis in Humanities**<br>人文学科本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
-| **Introduction to Anthropology: Comparing Human Cultures**<br>人类学导论：比较人类文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
+| **Introduction to Anthropology: Comparing Human Cultures**<br>人类学入门：比较人类文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **How Culture Works**<br>文化如何运作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **The Meaning of Life**<br>生命的意义 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Food, Culture, and Politics (CI-M)**<br>饮食、文化与政治 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Seminar in Ethnography and Fieldwork (CI-M)**<br>民族志与田野调查研讨课（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
-| **Introduction to Media Studies**<br>媒介研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
+| **Introduction to Media Studies**<br>媒介研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Current Debates in Media**<br>媒体当前争论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Short Attention Span Documentary**<br>短注意力纪录片 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Civic Media Collaborative Design Studio**<br>公民媒体协作设计工作室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-18
 | **Theories and Methods in the Study of History**<br>历史研究的理论与方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **History Pre-Thesis Tutorial**<br>历史论文预备辅导课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **History Thesis**<br>历史论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
-| **Introduction to Latin American Studies**<br>拉丁美洲研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
+| **Introduction to Latin American Studies**<br>拉丁美洲研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Harmony and Counterpoint I**<br>和声与对位 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Medieval and Renaissance Music**<br>中世纪与文艺复兴音乐 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Baroque and Classical Music**<br>巴洛克与古典音乐 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
@@ -44,13 +44,13 @@ ms.date: 2026-11-18
 | **Intersections: Science, Technology, and the World**<br>交汇：科学、技术与世界 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Undergraduate Thesis Tutorial**<br>本科论文辅导 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Undergraduate Thesis**<br>本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
-| **Introduction to Acting**<br>表演导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
+| **Introduction to Acting**<br>表演入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Physical Improvisation: Bodies in Motion**<br>肢体即兴：运动中的身体 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Fundamentals of Theater Design**<br>戏剧设计基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Performance Media**<br>表演媒体 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Script Analysis**<br>剧本分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Playwriting Fundamentals**<br>剧本写作基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
-| **Introduction to Women's and Gender Studies**<br>女性与性别研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
+| **Introduction to Women's and Gender Studies**<br>女性与性别研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Feminist Thought**<br>女性主义思想 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Writing Pre-Thesis Tutorial**<br>写作论文预备辅导 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |
 | **Writing Program Thesis**<br>写作项目论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/) |

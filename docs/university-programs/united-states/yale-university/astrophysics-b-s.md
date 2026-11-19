@@ -1,10 +1,10 @@
 ---
-title: "3.4.10 Astrophysics (B.S.)"
+title: "4.4.10 Astrophysics (B.S.)"
 description: "University Programs > United States > Yale University > Astrophysics (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.10 Astrophysics (B.S.)
+# 4.4.10 Astrophysics (B.S.)
 
 ## Glossary
 
@@ -13,14 +13,14 @@ ms.date: 2026-11-18
 | **Astrophysics (B.S.)**<br>天体物理学（理学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **University Physics**<br>大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Fundamentals of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
-| **Intensive Introductory Physics**<br>强化物理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
+| **Intensive Introductory Physics**<br>强化物理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **General Physics Laboratory**<br>普通物理实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Modern Physical Measurement**<br>现代物理测量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Calculus of Functions of One Variable I**<br>一元函数微积分 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Calculus of Functions of One Variable II**<br>一元函数微积分 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Multivariable Calculus for Engineers**<br>工程师多元微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
-| **Introduction to Astronomical Observing**<br>天文观测导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
+| **Introduction to Astronomical Observing**<br>天文观测入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Stars and Their Evolution**<br>恒星及其演化 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Galaxies and Cosmology**<br>星系与宇宙学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |
 | **Research Methods in Astrophysics**<br>天体物理学研究方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **COMPRESSED TIME FRAME BACHELOR OF SCIENCE IN NURSING PROGRAM – RPN STREAM A**<br>压缩学制护理理学学士项目－RPN 路径 A | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21744&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HEALTH INFORMATICS WITHIN NURSING**<br>健康信息学导论（护理领域） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21744&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HEALTH INFORMATICS WITHIN NURSING**<br>健康信息学入门（护理领域） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21744&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS OF NURSING PRACTICE**<br>护理实践基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21744&SelectedCalendar=Live&ArchiveID=) |
 | **NURSING CARE FOR CLIENTS WITH ACUTE AND CHRONIC HEALTH CHALLENGES I**<br>急慢性健康挑战患者的护理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21744&SelectedCalendar=Live&ArchiveID=) |
 | **SIMULATION: CLIENTS WITH HEALTH CHALLENGES**<br>模拟：健康挑战患者 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21744&SelectedCalendar=Live&ArchiveID=) |

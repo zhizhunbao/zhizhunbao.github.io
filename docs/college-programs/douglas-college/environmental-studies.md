@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Environmental Studies**<br>环境研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Ecology and Culture**<br>生态与文化 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Environmental Economics**<br>环境经济学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
-| **Introduction to Earth Sciences**<br>地球科学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
+| **Introduction to Earth Sciences**<br>地球科学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Weather and Climate**<br>天气与气候 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Human Impact on the Environment**<br>人类对环境的影响 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Urban Environmental Sustainability**<br>城市环境可持续性 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Climate Action**<br>气候行动 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Anthropology in Developing Countries**<br>发展中国家的人类学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Environmental Criminology and Law**<br>环境犯罪学与法律 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
-| **Introduction to Human Geography**<br>人文地理学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
+| **Introduction to Human Geography**<br>人文地理学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Environment and Media**<br>环境与媒体 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **The Geography of British Columbia**<br>不列颠哥伦比亚省地理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **The Geography of Canada**<br>加拿大地理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Environmental History**<br>环境史 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Frontiers of Thought**<br>思想前沿 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Perspectives on the Environment Creating a Sustainable Society**<br>环境视角：创建可持续社会 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
-| **Introduction to World Politics**<br>世界政治导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
+| **Introduction to World Politics**<br>世界政治入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Current International Issues**<br>当前国际问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Principles of Biology: The Biosphere**<br>生物学原理：生物圈 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Principles of Biology: The Organism**<br>生物学原理：生物体 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-08
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **History of the Earth**<br>地球史 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Global Environmental Change**<br>全球环境变化 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Ocean and the Environment**<br>海洋与环境 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Resources from the Earth**<br>地球资源 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |
 | **Sedimentology and Stratigraphy**<br>沉积学与地层学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarte) |

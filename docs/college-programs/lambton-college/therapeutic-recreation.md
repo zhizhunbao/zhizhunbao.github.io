@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Therapeutic Recreation**<br>治疗性康乐 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
-| **Introduction to Canadian Health Care**<br>加拿大医疗保健导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
+| **Introduction to Canadian Health Care**<br>加拿大医疗保健入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
 | **Foundations of Therapeutic Recreation**<br>治疗性康复基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
 | **Ethics & Values for the Recreational Therapist**<br>娱乐治疗师的伦理与价值观 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
 | **Human Relations**<br>人际关系 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
-| **Introduction to Community Mental Health**<br>社区心理健康导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
+| **Introduction to Community Mental Health**<br>社区心理健康入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
 | **Therapeutic Recreation Support Networks & Community Resources**<br>治疗性休闲支持网络与社区资源 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
 | **Therapeutic Recreation Practice & Professional Portfolio**<br>治疗性休闲实践与专业档案 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |
 | **Patient & Family Centred Care**<br>以患者及家庭为中心的护理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/trpm) |

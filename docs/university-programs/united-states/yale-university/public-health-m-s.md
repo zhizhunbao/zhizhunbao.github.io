@@ -1,10 +1,10 @@
 ---
-title: "3.4.111 Public Health (M.S.)"
+title: "4.4.111 Public Health (M.S.)"
 description: "University Programs > United States > Yale University > Public Health (M.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.111 Public Health (M.S.)
+# 4.4.111 Public Health (M.S.)
 
 ## Glossary
 
@@ -14,7 +14,7 @@ ms.date: 2026-11-18
 | **Professional Leadership for Public Health**<br>公共卫生职业领导力 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Professional Leadership for Public Health Careers**<br>公共卫生职业生涯领导力 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Summer Internship in Biostatistics**<br>生物统计暑期实习 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to Health Data Science**<br>健康数据科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to Health Data Science**<br>健康数据科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Advanced Regression Models**<br>高级回归模型 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Linear Models**<br>线性模型 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Foundations of Epidemiology and Public Health**<br>流行病学与公共卫生基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-18
 | **Fundamentals of Clinical Trials**<br>临床试验基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Topics in Biomedical Informatics and Data Science**<br>生物医学信息学与数据科学专题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Machine Learning with Biomedical Data**<br>基于生物医学数据的机器学习 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to Clinical and Translational Informatics**<br>临床与转化信息学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to Clinical and Translational Informatics**<br>临床与转化信息学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **The Role of Ethics and Equity in Data Science and AI**<br>伦理与公平在数据科学和AI中的作用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Bayesian Statistics**<br>贝叶斯统计 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Applied Artificial Intelligence in Healthcare**<br>医疗保健中的应用人工智能 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-18
 | **Principles of Epidemiology II**<br>流行病学原理 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Database Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Large Language Models: From Foundations to Modern Practice**<br>大语言模型：从基础到现代实践 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to GIS for Public Health**<br>公共卫生GIS导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to GIS for Public Health**<br>公共卫生GIS入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Advanced GIS Workshop**<br>高级GIS工作坊 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Quantitative Methods for Infectious Disease Epidemiology**<br>传染病流行病学定量方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Transmission Dynamic Models for Understanding Infectious Diseases**<br>理解传染病的传播动力学模型 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -85,11 +85,11 @@ ms.date: 2026-11-18
 | **Health Outcomes Research: Matching the Right Research Question to the Right Data**<br>健康结局研究：为合适的研究问题匹配合适的数据 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Perinatal Epidemiology**<br>围产期流行病学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Genetic Concepts in Public Health**<br>公共卫生中的遗传学概念 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to Evidence-Based Medicine and Health Care**<br>循证医学与医疗卫生导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to Evidence-Based Medicine and Health Care**<br>循证医学与医疗卫生入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Seminar in Epidemiology of Microbial Diseases**<br>微生物疾病流行病学研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Principles of Infectious Diseases I**<br>传染病学原理 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Principles of Infectious Diseases II**<br>传染病学原理 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to the Analysis and Interpretation of Public Health Surveillance Data**<br>公共卫生监测数据分析与解读导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to the Analysis and Interpretation of Public Health Surveillance Data**<br>公共卫生监测数据分析与解读入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Biostatistics in Public Health II**<br>公共卫生生物统计学 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Health Care Epidemiology: Improving Health Care Quality through Infection Prevention**<br>医疗保健流行病学：通过感染预防提高医疗质量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Outbreak Investigations: Principles and Practice**<br>疫情调查：原理与实践 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -115,8 +115,8 @@ ms.date: 2026-11-18
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Data and Information Visualization**<br>数据与信息可视化 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Algorithms and their Societal Implications**<br>算法及其社会影响 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Current Topics in Applied Machine Learning**<br>应用机器学习专题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Deep Learning on Graph-Structured Data**<br>图结构数据上的深度学习 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Topics in Natural Language Processing**<br>自然语言处理专题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -137,7 +137,7 @@ ms.date: 2026-11-18
 | **Healthcare Operations**<br>医疗卫生运营 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Health Policy and Health Care Systems**<br>卫生政策与医疗卫生体系 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Computational Tools for Data Science**<br>数据科学计算工具 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introductory Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introductory Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Time Series with R/Python**<br>基于R/Python的时间序列 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Optimization and Computation**<br>优化与计算 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Computational Mathematics Situational Awareness and Survival Skills**<br>计算数学：态势感知与生存技能 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |

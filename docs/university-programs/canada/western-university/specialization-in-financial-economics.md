@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **MONEY**<br>货币 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20713&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL FINANCE**<br>国际金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20713&SelectedCalendar=Live&ArchiveID=) |
 | **APPLIED FINANCIAL MATHEMATICS**<br>应用金融数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20713&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20713&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20713&SelectedCalendar=Live&ArchiveID=) |
 | **FINANCE FOR MANAGEMENT AND ORGANIZATIONAL STUDIES**<br>管理与组织研究金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20713&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses

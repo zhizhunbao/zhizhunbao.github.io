@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Clinical Research**<br>临床研究 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ.html) |
 | **Clinical Trial Regulations**<br>临床试验法规 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
-| **Introduction to Drug Development/Clinical Trials**<br>药物研发/临床试验导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
+| **Introduction to Drug Development/Clinical Trials**<br>药物研发/临床试验入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
 | **Clinical Study Administration**<br>临床研究管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
 | **Clinical Trial Design and Pharmacology**<br>临床试验设计与药理学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
 | **GCP - Good Clinical Practice**<br>GCP - 药物临床试验质量管理规范 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
-| **Introduction to Clinical Quality Assurance**<br>临床质量保证导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
+| **Introduction to Clinical Quality Assurance**<br>临床质量保证入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
 | **Technical Writing and Communication I - Clinical Research**<br>技术写作与沟通 I - 临床研究 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
 | **Work Term Preparation**<br>工作学期准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |
 | **Clinical Research, Work Term**<br>临床研究，工作学期 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CRQ/courses.html) |

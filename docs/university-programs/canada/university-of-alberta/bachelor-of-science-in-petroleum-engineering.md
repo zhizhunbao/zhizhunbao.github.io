@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **The Geology of Your Environment**<br>你所处环境的地质学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
 | **Violent Earth: The Geology of Catastrophic Events**<br>暴烈的地球：灾难性事件的地质学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
 | **Geology of Western Canada and the National and Provincial Parks**<br>加拿大西部与国家公园和省立公园地质 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
-| **Introduction to Hydrogeology**<br>水文地质学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
+| **Introduction to Hydrogeology**<br>水文地质学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
 | **Analytical Methods in Electrical Engineering**<br>电气工程分析方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
 | **Engineering Safety and Risk Management - Methodologies and Tools**<br>工程安全与风险管理：方法与工具 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
 | **Geophysical Exploration Techniques**<br>地球物理勘探技术 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
@@ -62,7 +62,7 @@ ms.date: 2026-11-11
 | **Characterization of Subsurface Reservoirs**<br>地下储层表征 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
 | **Life Cycle Assessment (LCA) for Subsurface Energy Production**<br>地下能源生产的生命周期评估（LCA） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
 | **Sampling Techniques**<br>抽样技术 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
-| **Introduction to Design and Analysis of Experiments**<br>实验设计与分析导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
+| **Introduction to Design and Analysis of Experiments**<br>实验设计与分析入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110533&returnto=20848) |
 
 ## Courses
 

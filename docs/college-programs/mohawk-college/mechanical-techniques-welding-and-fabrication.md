@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Drawings and Schematics - Welding**<br>图纸与原理图 - 焊接 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=574&prg_ver=26-A) |
 | **Trade Calculations 2**<br>行业计算 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=574&prg_ver=26-A) |
 | **Trade Applications - Welding & Fabrication Practical**<br>行业应用 - 焊接与制造实操 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=574&prg_ver=26-A) |
-| **Introduction to Fabrication**<br>制作加工导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=574&prg_ver=26-A) |
+| **Introduction to Fabrication**<br>制作加工入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=574&prg_ver=26-A) |
 | **Industry Sustainability and Quality Pratices**<br>行业可持续与质量实践 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=574&prg_ver=26-A) |
 | **Material and Process Quality**<br>材料与工艺质量 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=574&prg_ver=26-A) |
 

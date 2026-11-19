@@ -1,10 +1,10 @@
 ---
-title: "3.3.199 Oceans, Doctor of Philosophy"
+title: "4.3.199 Oceans, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Oceans, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.199 Oceans, Doctor of Philosophy
+# 4.3.199 Oceans, Doctor of Philosophy
 
 ## Glossary
 
@@ -13,7 +13,7 @@ ms.date: 2026-11-18
 | **Oceans, Doctor of Philosophy**<br>海洋，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/oceans/doctor-of-philosophy) |
 | **Get to Know Your Oceans**<br>认识你的海洋 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/oceans/doctor-of-philosophy) |
 | **Managing Your PhD**<br>管理你的博士生涯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/oceans/doctor-of-philosophy) |
-| **Scientific Communications: An Introduction**<br>科学传播：导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/oceans/doctor-of-philosophy) |
+| **Scientific Communications: An Introduction**<br>科学传播：入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/oceans/doctor-of-philosophy) |
 | **Quals Prep Writing Workshop**<br>资格考试备考写作工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/oceans/doctor-of-philosophy) |
 | **Quals Prep Workshop**<br>资格考试备考工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/oceans/doctor-of-philosophy) |
 | **Research**<br>研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/oceans/doctor-of-philosophy) |

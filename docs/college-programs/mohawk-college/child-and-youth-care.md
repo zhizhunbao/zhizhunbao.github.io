@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Child and Youth Care**<br>儿童与青少年关怀 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://www.mohawkcollege.ca/programs/community-services/child-and-youth-care) |
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
-| **Introduction To Child And Youth Care Practice**<br>儿童与青少年照护实践导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
-| **Introduction To Group Dynamics**<br>团体动力导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
+| **Introduction To Child And Youth Care Practice**<br>儿童与青少年照护实践入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
+| **Introduction To Group Dynamics**<br>团体动力入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
 | **Therapeutic Programming & Life Skills**<br>治疗项目与生活技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
 | **Legislation: Policies & Procedures**<br>立法：政策与程序 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
-| **Introduction to Counselling and Communication Skills**<br>咨询与沟通技能导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
-| **Introduction to Abuse/Trauma/Resiliency**<br>虐待/创伤/心理韧性导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
+| **Introduction to Counselling and Communication Skills**<br>咨询与沟通技能入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
+| **Introduction to Abuse/Trauma/Resiliency**<br>虐待/创伤/心理韧性入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
 | **Professionalism in CYC Practice**<br>CYC实践中的职业素养 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
 | **CYC Relational Interventions**<br>儿童与青少年关爱关系性干预 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |
 | **Advanced Interviewing and Counselling**<br>高级访谈与咨询 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=612&prg_ver=26-A) |

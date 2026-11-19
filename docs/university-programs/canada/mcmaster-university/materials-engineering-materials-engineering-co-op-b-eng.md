@@ -14,8 +14,8 @@ ms.date: 2026-11-11
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
 | **Statics and Mechanics of Materials**<br>静力学与材料力学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
 | **Engineering: Communications and Social Impact**<br>工程：沟通与社会影响 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
-| **Introduction to Materials Engineering**<br>材料工程导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
-| **Introduction to the Thermodynamics of Materials**<br>材料热力学导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
+| **Introduction to Materials Engineering**<br>材料工程入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
+| **Introduction to the Thermodynamics of Materials**<br>材料热力学入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
 | **Thermodynamics of Alloys and Phase Diagrams**<br>合金热力学与相图 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
 | **Electronic Properties of Materials**<br>材料的电子性质 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |
 | **Mechanical Behaviour of Materials**<br>材料力学行为 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33025) |

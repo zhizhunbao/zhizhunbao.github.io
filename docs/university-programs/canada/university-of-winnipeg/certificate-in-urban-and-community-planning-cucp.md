@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Urban and Community Planning (CUCP)**<br>城市与社区规划证书（CUCP） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
-| **Introduction to Urban and Inner-City Studies**<br>城市与内城研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
-| **Challenges of a Changing World: An Introduction to Human Geography**<br>变化世界的挑战：人文地理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
-| **An Introduction to Urban Development**<br>城市发展导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
+| **Introduction to Urban and Inner-City Studies**<br>城市与内城研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
+| **Challenges of a Changing World: An Introduction to Human Geography**<br>变化世界的挑战：人文地理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
+| **An Introduction to Urban Development**<br>城市发展入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
 | **Housing and the Neighbourhood**<br>住房与社区 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
 | **Urban and Community Planning**<br>城市与社区规划 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
 | **Urban Land Use Developmental Processes**<br>城市土地利用发展过程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Geographic Perspectives on Environment and Sustainability**<br>环境与可持续性的地理视角 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
 | **History of Winnipeg**<br>温尼伯史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
 | **Art, Design and the City**<br>艺术、设计与城市 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
-| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究导论：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
+| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究入门：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
 | **Indigenous Peoples, Lands, and Resources**<br>原住民、土地与资源 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
 | **Indigenous Food systems Field Course**<br>原住民食物系统野外课程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |
 | **City Politics**<br>城市政治 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=9) |

@@ -15,14 +15,14 @@ ms.date: 2026-11-11
 | **Indigeneity in Canada**<br>加拿大的原住民性 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **Global Environmental Challenges**<br>全球环境挑战 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **The Making of Canada**<br>加拿大的形成 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
-| **Introduction to Global History**<br>全球史导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
+| **Introduction to Global History**<br>全球史入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **What Is Language?**<br>什么是语言？ | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **Interdisciplinary Studies: Expanding Boundaries of Knowledge**<br>跨学科研究：拓展知识边界 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **The Persistence of Magic: Myth, Ritual, and the Human Experience**<br>魔法的持续：神话、仪式与人类经验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **Ancient Wisdoms**<br>古代智慧 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **Indigenous Peoples, Technology, Media, and Law**<br>原住民、技术、媒体与法律 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
-| **Introduction to Canadian Literature**<br>加拿大文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
+| **Introduction to Canadian Literature**<br>加拿大文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **Animal Ethics**<br>动物伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |
 | **World Religions**<br>世界宗教 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-arts-interdisciplinary-studies-online/) |

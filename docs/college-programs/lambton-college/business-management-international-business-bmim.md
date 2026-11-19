@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Business Management - International Business (BMIM)**<br>商务管理：国际商务 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Applications of Marketing Concepts**<br>营销概念应用 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
-| **Introduction to Managerial Accounting**<br>管理会计导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
+| **Introduction to Managerial Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Workplace Communication Application & Analysis**<br>职场沟通应用与分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Feasibility of International Trade**<br>国际贸易可行性 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **International Sales & Marketing**<br>国际销售与营销 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **International Transportation & Trade**<br>国际运输与贸易 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
-| **Introduction to Freight Forwarding**<br>货运代理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
+| **Introduction to Freight Forwarding**<br>货运代理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Leadership in Change Management**<br>变革管理中的领导力 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |
 | **Global Value Chain**<br>全球价值链 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bmim) |

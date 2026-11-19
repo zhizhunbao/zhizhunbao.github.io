@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Highway Technology A**<br>公路技术 A | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=534&prg_ver=26-A) |
 | **Structural Design 3**<br>结构设计 3 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=534&prg_ver=26-A) |
 | **Municipal 3**<br>市政 3 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=534&prg_ver=26-A) |
-| **Introduction To Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=534&prg_ver=26-A) |
+| **Introduction To Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=534&prg_ver=26-A) |
 | **Geotechnics A**<br>岩土工程 A | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=534&prg_ver=26-A) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=534&prg_ver=26-A) |
 | **General Education Elective 2**<br>通识教育选修课 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=534&prg_ver=26-A) |

@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sports Administration**<br>体育管理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
 | **Computer Applications for Business I**<br>商务计算机应用 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
 | **Sports Practicum 1**<br>体育实习 1 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
 | **The Essence of Sport**<br>体育的本质 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
 | **Principles of Human Resource Management**<br>人力资源管理原理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |
 | **Sports Practicum 2**<br>体育实习 2 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/sports-administration) |

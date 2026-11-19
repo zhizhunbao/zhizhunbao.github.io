@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Comprehensive Maintenance**<br>综合维护 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/operations-leadership-in-food-manufacturing/courses-no-intake?id=15324) |
 | **Food Manufacturing - Equipment Operations II**<br>食品制造 - 设备操作 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/operations-leadership-in-food-manufacturing/courses-no-intake?id=15324) |
 | **Supply Chain Functionality**<br>供应链功能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/operations-leadership-in-food-manufacturing/courses-no-intake?id=15324) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/operations-leadership-in-food-manufacturing/courses-no-intake?id=15324) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/operations-leadership-in-food-manufacturing/courses-no-intake?id=15324) |
 | **Occupational Health and Safety and Food Law**<br>职业健康与安全及食品法 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/operations-leadership-in-food-manufacturing/courses-no-intake?id=15324) |
 | **Lean Six Sigma**<br>精益六西格玛 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/operations-leadership-in-food-manufacturing/courses-no-intake?id=15324) |
 

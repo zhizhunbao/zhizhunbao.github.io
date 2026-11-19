@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MASSF-CT/PrinterFriendly#RRCM-1019) |
 | **Human Development for Healthcare Professionals**<br>面向医疗专业人员的人类发展 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MASSF-CT/PrinterFriendly#RRCM-1056) |
 | **Anatomy and Physiology 1**<br>解剖与生理学 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MASSF-CT/PrinterFriendly#RRCM-1057) |
-| **Introduction to the Healthcare Environment**<br>医疗保健环境导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MASSF-CT/PrinterFriendly#RRCM-1059) |
+| **Introduction to the Healthcare Environment**<br>医疗保健环境入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MASSF-CT/PrinterFriendly#RRCM-1059) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MASSF-CT/PrinterFriendly#RRCM-1060) |
 | **Human Health Conditions and Disease States**<br>人类健康状况与疾病状态 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MASSF-CT/PrinterFriendly#RRCM-1070) |
 | **Communication in Healthcare**<br>医疗保健沟通 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/MASSF-CT/PrinterFriendly#RRCM-1071) |

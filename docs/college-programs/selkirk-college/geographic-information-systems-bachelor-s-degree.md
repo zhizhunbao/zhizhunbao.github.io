@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geographic Information Systems - Bachelor's Degree**<br>地理信息系统学士学位 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **GIS Analysis and Automation**<br>GIS分析与自动化 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
-| **Introduction to Remote Sensing**<br>遥感导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
+| **Introduction to Remote Sensing**<br>遥感入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **GIS Data Management**<br>GIS数据管理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
-| **Introduction to CAD for GIS Professionals**<br>GIS专业人员CAD导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
+| **Introduction to CAD for GIS Professionals**<br>GIS专业人员CAD入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **Cartography and Geovisualization**<br>制图学与地理可视化 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **GIS Programming**<br>GIS 编程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **Applied Research Methods**<br>应用研究方法 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Data Base Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **Databases II**<br>数据库 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **GIS Professional Development**<br>GIS职业发展 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
-| **Introduction to Global Navigation Satellite Systems and Unmanned Aerial Vehicles**<br>全球导航卫星系统与无人机导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
+| **Introduction to Global Navigation Satellite Systems and Unmanned Aerial Vehicles**<br>全球导航卫星系统与无人机入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **Internet Mapping**<br>互联网地图 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **Advanced Topics In GIS**<br>GIS高级专题 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |
 | **Technical Project**<br>技术项目 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geographic-information-systems-bachelors-degree) |

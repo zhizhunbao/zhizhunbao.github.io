@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Mathematics**<br>数学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Workplace Communication**<br>职场沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Precision Agriculture 1**<br>精准农业 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
-| **Introduction to Agribusiness**<br>农业综合企业导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
+| **Introduction to Agribusiness**<br>农业综合企业入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Integrated Pest Management 1**<br>病虫害综合治理 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Principles of Crop Production**<br>作物生产原理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Integrated Pest Management 2**<br>病虫害综合治理 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Agricultural Business Planning**<br>农业商业规划 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Beef and Cattle Production**<br>肉牛生产 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Rangeland Management**<br>牧场管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
-| **Introduction to Agricultural Economics**<br>农业经济学导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
+| **Introduction to Agricultural Economics**<br>农业经济学入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Internet of Things: Applications in Agriculture**<br>物联网：农业应用 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Commodity Marketing 2**<br>大宗商品营销 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |
 | **Technical Communication**<br>技术沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Agriculture-and-Food-Production.aspx) |

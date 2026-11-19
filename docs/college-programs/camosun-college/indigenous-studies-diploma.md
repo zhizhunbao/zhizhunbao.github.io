@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Indigenous Studies, Diploma**<br>原住民研究文凭 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/indigenous-studies-diploma) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4250) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4250) |
 | **Circle Seminar 1**<br>Circle 研讨课 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4250) |
 | **Indigenous Studies in Canada 1**<br>加拿大原住民研究 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4250) |
 | **Land, Water, & Stewardship**<br>土地、水与管护 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4250) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN RELIGION AND SOCIETY**<br>宗教与社会荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
 | **APPROACHES TO THE STUDY OF RELIGION**<br>宗教研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EASTERN RELIGIONS**<br>东方宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EASTERN RELIGIONS**<br>东方宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
 | **WORLD RELIGIONS: JUDAISM AND ISLAM**<br>世界宗教：犹太教与伊斯兰教 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
 | **THE SOCIOLOGY OF YOUTH**<br>青年社会学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
 | **DECOLONIZING SOCIAL SCIENCE**<br>去殖民化社会科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **CATHOLIC EDUCATION IN PRACTICE (2) - SERVICE LEARNING PROJECT**<br>天主教教育实践 (2)：服务学习项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
 | **CATHOLIC EDUCATION IN PRACTICE**<br>天主教教育实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
 | **CATHOLIC EDUCATION IN PRACTICE (1) - SERVICE LEARNING PROJECT**<br>天主教教育实践 (1)：服务学习项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WORLD RELIGIONS**<br>世界宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WORLD RELIGIONS**<br>世界宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21225&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

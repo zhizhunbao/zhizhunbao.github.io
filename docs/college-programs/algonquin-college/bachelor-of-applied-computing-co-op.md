@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Applied Computing (Co-op)**<br>应用计算学士（带薪实习） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/sat/program/bachelor-of-applied-computing/) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Database Design Fundamentals**<br>数据库设计基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Data Communication and Networking**<br>数据通信与网络 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Software Development Industry: Roles and Practices**<br>软件开发行业：角色与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-08
 | **Spanish-Beginner 1**<br>西班牙语初级 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Spanish-Beginner 2**<br>西班牙语初级 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Law**<br>法律 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Ethical Decision Making**<br>伦理决策 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Philosophy and Popular Culture**<br>哲学与流行文化 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **The Philosophy of Drugs**<br>药物哲学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
@@ -60,7 +60,7 @@ ms.date: 2026-11-08
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Statistics for the Social Sciences**<br>社会科学统计学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |
 | **Global Perspectives**<br>全球视野 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6530X03FWO.pdf) |

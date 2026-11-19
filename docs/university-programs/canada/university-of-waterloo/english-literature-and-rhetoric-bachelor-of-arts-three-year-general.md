@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **English - Literature and Rhetoric (Bachelor of Arts - Three-Year General)**<br>英语 - 文学与修辞（文学学士 - 3 年制普通） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **English Literatures 1**<br>英语文学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Literary Theory and Criticism**<br>文学理论与批评 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
-| **Introduction to Anti-Racist Communication**<br>反种族主义传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
+| **Introduction to Anti-Racist Communication**<br>反种族主义传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Writing Anti-Racism**<br>书写反种族主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Topics in Black Language and Linguistics**<br>黑人语言与语言学专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **African American Rhetoric**<br>非裔美国人修辞 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
@@ -25,10 +25,10 @@ ms.date: 2026-11-11
 | **Arts Writing**<br>艺术写作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Legal Writing**<br>法律写作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Technical Editing**<br>技术编辑 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **How English Grammar Works**<br>英语语法如何运作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **The History of the English Language**<br>英语语言史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
-| **Introduction to Semiotics**<br>符号学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
+| **Introduction to Semiotics**<br>符号学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Critical Discourse Analysis**<br>批判性话语分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Linguistic Imperialism and Resistance**<br>语言帝国主义与抵抗 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Race and Resistance**<br>种族与抵抗 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
@@ -52,7 +52,7 @@ ms.date: 2026-11-11
 | **Research Methods in Technical Communication**<br>技术传播研究方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Language, Life, and Literature in the Caribbean**<br>加勒比地区的语言、生活与文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Black Diasporic Lives: 1740-1900**<br>黑人离散生活：1740-1900 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
-| **Introduction to Black Canadian Writing**<br>加拿大黑人写作导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
+| **Introduction to Black Canadian Writing**<br>加拿大黑人写作入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Contemporary African Literature and Film**<br>当代非洲文学与电影 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Global Asian Diasporas**<br>全球亚洲离散群体 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |
 | **Old English Language and Literature**<br>古英语语言与文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1MNlyACo3) |

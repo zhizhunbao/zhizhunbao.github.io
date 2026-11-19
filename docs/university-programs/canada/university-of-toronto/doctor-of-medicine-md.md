@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Doctor of Medicine (MD)**<br>医学博士（MD） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://md.calendar.utoronto.ca/degree-requirements) |
-| **Introduction to Medicine**<br>医学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://md.calendar.utoronto.ca/degree-requirements) |
+| **Introduction to Medicine**<br>医学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://md.calendar.utoronto.ca/degree-requirements) |
 | **Concepts, Patients & Communities 1**<br>概念、患者与社区 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://md.calendar.utoronto.ca/degree-requirements) |
 | **Concepts, Patients & Communities 2**<br>概念、患者与社区 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://md.calendar.utoronto.ca/degree-requirements) |
 | **Concepts, Patients & Communities 3**<br>概念、患者与社区 3 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://md.calendar.utoronto.ca/degree-requirements) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Introduction to Organizational Behaviour**<br>组织行为学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
 | **Financial Accounting Principles 2**<br>财务会计原理 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
 | **Business Applications for Accounting**<br>会计商业应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-08
 | **Entrepreneurship Essentials**<br>创业要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
 | **Managerial Finance**<br>管理财务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
 | **Human Resources Management Foundations**<br>人力资源管理基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bact/) |
 
 ## Courses
 

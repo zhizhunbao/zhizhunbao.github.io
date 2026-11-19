@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Applied Arts in Social Justice & Legal Studies**<br>应用艺术荣誉学士：社会正义与法律研究 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
-| **Introduction To The Canadian Law And Legal Institutions**<br>加拿大法律与法律制度导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
+| **Introduction To The Canadian Law And Legal Institutions**<br>加拿大法律与法律制度入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
 | **Fundamentals Of Sociological And Psychological Theories**<br>社会学与心理学理论基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
 | **Critical Thinking And Argument Development**<br>批判性思维与论证发展 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
 | **Law, Power And Social Justice**<br>法律、权力与社会正义 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-08
 | **Restorative Justice**<br>恢复性司法 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
 | **Oral And Written Advocacy-Proposals And Presentations**<br>口头与书面倡导：提案与演示 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
 | **Constitutional Law and Human Rights**<br>宪法与人权 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
 | **The Philosophy Of Social And Political Change**<br>社会与政治变革的哲学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
 | **Activism, Advocacy And Social Change Through Social Media**<br>通过社交媒体开展行动主义、倡导与社会变革 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |
 | **Socio-Legal Approaches For Advancing Interests**<br>促进利益的社会法律方法 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/honours-bachelor-applied-arts-social-justice-legal-studies) |

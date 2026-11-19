@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Clinical Practice 1**<br>临床实践 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4221) |
 | **General Pathophysiology**<br>普通病理生理学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4221) |
 | **Oral Sciences 1**<br>口腔科学 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4221) |
-| **Introduction to Periodontology**<br>牙周病学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4221) |
+| **Introduction to Periodontology**<br>牙周病学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4221) |
 | **Radiology in Dental Practice**<br>牙科实践中的放射学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4221) |
 | **Professional Practice 2**<br>职业实践 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4221) |
 | **Clinical Theory 2**<br>临床理论 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4221) |

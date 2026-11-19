@@ -1,10 +1,10 @@
 ---
-title: "3.4.101 Master of Arts in Religion"
+title: "4.4.101 Master of Arts in Religion"
 description: "University Programs > United States > Yale University > Master of Arts in Religion: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.101 Master of Arts in Religion
+# 4.4.101 Master of Arts in Religion
 
 ## Glossary
 

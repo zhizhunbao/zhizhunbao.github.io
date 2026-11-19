@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Formation générale au choix**<br>选修通识教育 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/promotion-de-lactivite-physique-et-de-la-sante/) |
 | **Communication interpersonnelle**<br>人际沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/promotion-de-lactivite-physique-et-de-la-sante/) |
 | **Coaching sportif**<br>体育教练 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/promotion-de-lactivite-physique-et-de-la-sante/) |
-| **Introduction à l'entraînement**<br>训练导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/promotion-de-lactivite-physique-et-de-la-sante/) |
+| **Introduction à l'entraînement**<br>训练入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/promotion-de-lactivite-physique-et-de-la-sante/) |
 | **Leadership et professionnalisme**<br>领导力与专业素养 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/promotion-de-lactivite-physique-et-de-la-sante/) |
 | **Anatomie et physiologie sportive**<br>运动解剖学与生理学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/promotion-de-lactivite-physique-et-de-la-sante/) |
 | **Oral Communication for Professional Environments**<br>职业环境口语沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/promotion-de-lactivite-physique-et-de-la-sante/) |

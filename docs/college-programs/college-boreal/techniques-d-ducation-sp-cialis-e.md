@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Techniques d’éducation spécialisée**<br>特殊教育技术员 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-deducation-specialisee/) |
 | **Communication française professionnelle et scolaire**<br>法语专业与学术沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-deducation-specialisee/) |
 | **Logiciels Microsoft**<br>Microsoft软件 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-deducation-specialisee/) |
-| **Introduction à la psychologie**<br>心理学导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-deducation-specialisee/) |
+| **Introduction à la psychologie**<br>心理学入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-deducation-specialisee/) |
 | **Stratégies pour réussir à son plein potentiel**<br>充分发挥潜能的策略 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-deducation-specialisee/) |
 | **Initiation à la profession de TES**<br>TES职业入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-deducation-specialisee/) |
 | **Techniques d'intervention spécialisée I**<br>专业干预技术 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-deducation-specialisee/) |

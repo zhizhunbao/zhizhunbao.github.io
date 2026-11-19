@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Electric Circuits**<br>电路 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electronics-engineering-technology) |
 | **Technical Math, Data Analysis and Calculus I**<br>技术数学、数据分析与微积分 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electronics-engineering-technology) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electronics-engineering-technology) |
-| **Introduction to Microcontrollers**<br>微控制器导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electronics-engineering-technology) |
+| **Introduction to Microcontrollers**<br>微控制器入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electronics-engineering-technology) |
 | **Operating Systems and Data Networking Essentials**<br>操作系统与数据网络基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electronics-engineering-technology) |
 | **Electronic Fabrication**<br>电子制造 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electronics-engineering-technology) |
 | **Calculus II, Differential Equations and Statistics**<br>微积分 II、微分方程与统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electronics-engineering-technology) |

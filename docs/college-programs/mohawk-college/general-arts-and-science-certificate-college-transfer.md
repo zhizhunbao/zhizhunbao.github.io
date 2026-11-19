@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
 | **GAS Fundamentals**<br>气体基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
 | **First Nations, Metis, and Inuit Perspectives**<br>原住民、梅蒂人和因纽特人视角 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
-| **Introduction to Critical Thinking**<br>批判性思维导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
+| **Introduction to Critical Thinking**<br>批判性思维入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
 | **Belonging: Equity and Inclusion in a Diverse World**<br>归属感：多元世界中的公平与包容 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
 | **Inquiry**<br>探究 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
 | **Environmental Sustainability**<br>环境可持续性 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Indigenous Wholistic Practices**<br>原住民整体实践 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
 | **G.A.S. Option 1 (for exemption only)**<br>G.A.S. 选项 1 (仅用于豁免) | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
 | **G.A.S. Option 2 (for exemption only)**<br>G.A.S. 选项 2 (仅用于豁免) | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=230&prg_ver=26-A) |
 
 ## Courses
 

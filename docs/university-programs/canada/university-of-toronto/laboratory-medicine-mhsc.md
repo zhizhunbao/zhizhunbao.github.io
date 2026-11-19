@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Biomedical Research Methods**<br>生物医学研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology) |
 | **Management of the Clinical Laboratory**<br>临床实验室管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology) |
 | **Biomedical Ethics**<br>生物医学伦理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology) |
-| **Introduction to Biostatistics**<br>生物统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology) |
+| **Introduction to Biostatistics**<br>生物统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology) |
 | **Capstone Project in Laboratory Medicine**<br>检验医学顶点项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology) |
 | **Advanced Reproductive Physiology and Pathology**<br>高级生殖生理学与病理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology) |
 | **Foundations in Art (Assisted Reproductive Technology)**<br>艺术（辅助生殖技术）基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology) |

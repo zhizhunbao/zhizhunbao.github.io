@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Advanced Modalities & Quality Control**<br>高级影像方式与质量控制 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4039/courses-next/) |
 | **Sectional Anatomy**<br>断层解剖学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4039/courses-next/) |
 | **Radiographic Procedures 3**<br>放射影像程序 3 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4039/courses-next/) |
-| **Research Principles: Intro**<br>研究原则：导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4039/courses-next/) |
+| **Research Principles: Intro**<br>研究原则：入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4039/courses-next/) |
 | **Pathology**<br>病理学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4039/courses-next/) |
 | **Computed Tomography**<br>计算机断层扫描 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4039/courses-next/) |
 | **Clinical Practicum 1**<br>临床实习 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4039/courses-next/) |

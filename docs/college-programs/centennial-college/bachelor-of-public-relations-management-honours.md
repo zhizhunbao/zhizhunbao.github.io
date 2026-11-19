@@ -11,18 +11,18 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Public Relations Management, Honours**<br>公共关系管理学士，荣誉 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Principles of Marketing**<br>市场营销原理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **The Power of Communications**<br>传播的力量 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
-| **Introduction to Public Relations**<br>公共关系导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
-| **Introduction to Media**<br>媒体导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
+| **Introduction to Public Relations**<br>公共关系入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
+| **Introduction to Media**<br>媒体入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
-| **Introduction to Social Media**<br>社交媒体导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
+| **Introduction to Social Media**<br>社交媒体入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Writing for Public Relations 1**<br>公共关系写作 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Corporate Social Responsibility**<br>企业社会责任 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Media Relations**<br>媒体关系 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Strategic Communications Planning**<br>战略传播规划 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Fundamentals of Research**<br>研究基础 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Liberal Studies Elective: Social Science**<br>通识选修课：社会科学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Advanced Social Media**<br>高级社交媒体 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Writing for Public Relations 2**<br>公共关系写作 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
-| **Introduction to Communication Design**<br>传播设计导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
+| **Introduction to Communication Design**<br>传播设计入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Employment Preplacement 1**<br>就业前安置 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Liberal Studies Elective: Humanities**<br>通识选修课：人文学科 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Liberal Studies Elective: Natural Science**<br>通识选修课：自然科学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-08
 | **Investor Relations**<br>投资者关系 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Communications Law and Ethics**<br>传播法与伦理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Practicum Prep**<br>实习准备 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
-| **Introduction to Entrepreneurial Opportunities**<br>创业机会导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
+| **Introduction to Entrepreneurial Opportunities**<br>创业机会入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Liberal Studies Elective: Arts**<br>通识选修课：艺术 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Liberal Studies Elective: Philosophy**<br>通识选修课：哲学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |
 | **Public Sector Communications**<br>公共部门沟通 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/honours-bachelor-public-relations-management) |

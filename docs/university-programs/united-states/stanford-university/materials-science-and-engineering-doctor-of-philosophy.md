@@ -1,10 +1,10 @@
 ---
-title: "3.3.191 Materials Science and Engineering, Doctor of Philosophy"
+title: "4.3.191 Materials Science and Engineering, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Materials Science and Engineering, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.191 Materials Science and Engineering, Doctor of Philosophy
+# 4.3.191 Materials Science and Engineering, Doctor of Philosophy
 
 ## Glossary
 
@@ -17,7 +17,7 @@ ms.date: 2026-11-18
 | **Structure and Symmetry**<br>结构与对称 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/materials-science-and-engineering/doctor-of-philosophy) |
 | **Quantum Mechanics for Materials Science**<br>材料科学量子力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/materials-science-and-engineering/doctor-of-philosophy) |
 | **Solid State Physics**<br>固体物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/materials-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/materials-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/materials-science-and-engineering/doctor-of-philosophy) |
 | **Fundamentals and Applications of Spectroscopy**<br>光谱学的基础与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/materials-science-and-engineering/doctor-of-philosophy) |
 | **Mechanics of Soft Matter: Rheology**<br>软物质力学：流变学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/materials-science-and-engineering/doctor-of-philosophy) |
 | **3D+ Imaging Sensors**<br>3D+成像传感器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/materials-science-and-engineering/doctor-of-philosophy) |

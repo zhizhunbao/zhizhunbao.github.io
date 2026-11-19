@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Introduction to Law in Community Safety**<br>社区安全中的法律入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/plcs/) |
 | **Interviewing and Documentation**<br>访谈与文书记录 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/plcs/) |
 | **Mental Health in Community Safety**<br>社区安全中的心理健康 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/plcs/) |
-| **Introduction to Policing**<br>警务导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/plcs/) |
+| **Introduction to Policing**<br>警务入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/plcs/) |
 | **Community Policing Response to Social Issues**<br>警方对社会问题的社区响应 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/plcs/) |
 | **Fitness and Wellness - Fitness Testing Preparation**<br>体能与健康 - 体能测试准备 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/plcs/) |
 | **Public Safety and Emergency Management**<br>公共安全与应急管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/plcs/) |

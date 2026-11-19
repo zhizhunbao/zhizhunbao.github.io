@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Web Application Development**<br>Web应用开发 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming-fast-track) |
 | **Software Systems Design**<br>软件系统设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming-fast-track) |
 | **Assets for Game Developers**<br>游戏开发者素材 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming-fast-track) |
-| **Introduction to Game and Simulation**<br>游戏与模拟导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming-fast-track) |
+| **Introduction to Game and Simulation**<br>游戏与模拟入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming-fast-track) |
 | **Global Citizenship: From Social Analysis to Social Action**<br>全球公民：从社会分析到社会行动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming-fast-track) |
 | **C++ for Game Development**<br>游戏开发C++ | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming-fast-track) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/game-programming-fast-track) |

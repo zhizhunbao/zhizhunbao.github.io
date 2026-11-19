@@ -47,12 +47,12 @@ ms.date: 2026-11-11
 | **Sexuality in Ancient Egypt**<br>古埃及的性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **The Mummy: Technology and Transformation**<br>木乃伊：技术与转变 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Vice and Virtue in Biblical Traditions**<br>圣经传统中的恶习与美德 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
-| **Introduction to Coptic Studies**<br>科普特研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
+| **Introduction to Coptic Studies**<br>科普特研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **King David: Musician, Monarch, or Murderer?**<br>大卫王：音乐家、君主还是凶手？ | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Samson: Lover, Liar, lion-slayer**<br>参孙：情人、骗子、屠狮者 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Topics in Hebrew Bible**<br>希伯来圣经专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Religion in the Ancient Near East**<br>古代近东的宗教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
-| **Pyramids, Temples, and Tombs: An Introduction to Egyptian Art and Architecture**<br>金字塔、神庙与陵墓：埃及艺术与建筑导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
+| **Pyramids, Temples, and Tombs: An Introduction to Egyptian Art and Architecture**<br>金字塔、神庙与陵墓：埃及艺术与建筑入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **From Agriculture to Urbanism: The Archaeology of the Pre- and Proto-historic Near East**<br>从农业到城市化：史前与原史时期近东的考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Empires and Internationalism: The Archaeology of the Historic Near East**<br>帝国与国际主义：历史时期近东的考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **The Archaeology of Gods, Ghosts, Witches and Demons**<br>神、鬼、巫与魔的考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
@@ -132,11 +132,11 @@ ms.date: 2026-11-11
 | **Anthropology of the Middle East**<br>中东人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **The Arabic Novel**<br>阿拉伯小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **The Arab Spring and Cultural Production**<br>阿拉伯之春与文化生产 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
-| **Modern Middle East: A Historical Introduction**<br>近代中东：历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
+| **Modern Middle East: A Historical Introduction**<br>近代中东：历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Judaism and Feminism: Legal Issues from Menstruation to Ordination**<br>犹太教与女性主义：从月经到按立的法律问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **The Structure of Arabic Language**<br>阿拉伯语的结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Cultural Encounter in Arabic Narrative**<br>阿拉伯叙事中的文化相遇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
-| **Kurdish Studies: A Critical Introduction**<br>库尔德研究：批判性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
+| **Kurdish Studies: A Critical Introduction**<br>库尔德研究：批判性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Ottoman Empire: The Age of Reform**<br>奥斯曼帝国：改革时代 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Gender and Sexuality in Modern Middle Eastern Cultures**<br>现代中东文化中的性别与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |
 | **Modern Iran**<br>近代伊朗 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2665) |

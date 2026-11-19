@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science - Nursing (Bridge)**<br>理学学士：护理（衔接） | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
 | **RPN to RN: The BSCN Transition**<br>RPN到RN：BSCN过渡 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
 | **Medical Surgical Nursing**<br>内外科护理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
 | **Healthcare Informatics**<br>医疗信息学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Child & Family Health Theory**<br>儿童与家庭健康理论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
 | **Research I**<br>研究 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
 | **Simulation Lab II & Clinical VI**<br>模拟实验 II 与临床 VI | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
-| **Introduction to Indigenous Canada**<br>原住民加拿大导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
+| **Introduction to Indigenous Canada**<br>原住民加拿大入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
 | **Statistics and Data Analysis**<br>统计学与数据分析 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
 | **Advanced Clinical Concepts Theory**<br>高级临床概念理论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |
 | **Nurses Influencing Change**<br>护士推动变革 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-bridge) |

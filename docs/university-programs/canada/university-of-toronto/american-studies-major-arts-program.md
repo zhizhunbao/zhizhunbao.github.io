@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **American Studies Major (Arts Program)**<br>美国研究主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
-| **Introduction to American Studies**<br>美国研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
+| **Introduction to American Studies**<br>美国研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
 | **Myths and Realities of US Governance**<br>美国治理的迷思与现实 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
 | **Research Theory and Methods: The Logic of Social Inquiry**<br>研究理论与方法：社会探究的逻辑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
 | **Global Capitalism**<br>全球资本主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
-| **Introduction to American Literature**<br>美国文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
-| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
+| **Introduction to American Literature**<br>美国文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
+| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
 | **Geographies of Colonialism in North America**<br>北美殖民主义的地理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
 | **Geography USA**<br>美国地理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |
 | **U.S. Government and Politics: Constitutional Structure and Development**<br>美国政府与政治：宪法结构与发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0135) |

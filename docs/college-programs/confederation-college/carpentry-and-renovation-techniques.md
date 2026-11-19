@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Carpentry and Renovation Techniques**<br>木工与翻新技术 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/carpentry-and-renovation-techniques/) |
-| **Introduction to Carpentry and Renovations**<br>木工与翻新导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/carpentry-and-renovation-techniques/) |
+| **Introduction to Carpentry and Renovations**<br>木工与翻新入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/carpentry-and-renovation-techniques/) |
 | **Blueprint Reading**<br>图纸识读 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/carpentry-and-renovation-techniques/) |
 | **Construction Materials and Methods**<br>建筑材料与施工方法 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/carpentry-and-renovation-techniques/) |
 | **Communications for the Trades**<br>技工行业沟通 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/carpentry-and-renovation-techniques/) |

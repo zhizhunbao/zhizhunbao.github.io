@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Community Worker (C101)**<br>社区工作者 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/community-worker-program-c101) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/community-worker-program-c101) |
-| **Introduction to Community Work: Field Studies I**<br>社区工作导论：实地研究 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/community-worker-program-c101) |
+| **Introduction to Community Work: Field Studies I**<br>社区工作入门：实地研究 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/community-worker-program-c101) |
 | **Human Rights in Community Work Practice**<br>社区工作实践中的人权 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/community-worker-program-c101) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/community-worker-program-c101) |
 | **Sociology: Understanding Power and Anti-Oppression**<br>社会学：理解权力与反压迫 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/community-worker-program-c101) |

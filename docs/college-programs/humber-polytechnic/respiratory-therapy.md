@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Respiratory Therapy**<br>呼吸治疗 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Interprofessional Education: Exploring Professional Roles and Responsibilities**<br>跨专业教育：探索专业角色与职责 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Interprofessional Education: Exploring Team Functioning**<br>跨专业教育：探索团队运作 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Communications in Health Care**<br>医疗保健沟通 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Respiratory Therapy Clinical Assessment and Semiology**<br>呼吸治疗临床评估与症状学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Pathophysiology for Respiratory Therapy**<br>呼吸治疗病理生理学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Respiratory and Cardiovascular Pharmacology**<br>呼吸与心血管药理学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
-| **Introduction to Research Methods and Principles**<br>研究方法与原则导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
+| **Introduction to Research Methods and Principles**<br>研究方法与原则入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Cardiopulmonary Diagnostics 1**<br>心肺诊断 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Arterial Blood Gas Sampling, Assessment and Intervention**<br>动脉血气采样、评估与干预 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Cardiopulmonary Diagnostics 2**<br>心肺诊断 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Respiratory Care for Pediatrics and Neonates**<br>儿科与新生儿呼吸护理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Mechanical Ventilation 2**<br>机械通风 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
-| **Introduction to Anesthesia**<br>麻醉导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
+| **Introduction to Anesthesia**<br>麻醉入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Mandatory Professional Practicum 1**<br>必修专业实习 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 | **Mandatory Professional Practicum 2**<br>必修专业实习 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/respiratory-therapy) |
 

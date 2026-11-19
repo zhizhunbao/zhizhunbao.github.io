@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Business I**<br>商业 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IMP/courses.html) |
 | **Audio and Studio II**<br>音频与录音棚 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IMP/courses.html) |
 | **Sound and Recording II**<br>声音与录音 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IMP/courses.html) |
-| **Introduction to MIDI**<br>MIDI导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IMP/courses.html) |
+| **Introduction to MIDI**<br>MIDI入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IMP/courses.html) |
 | **Songwriting II**<br>歌曲创作 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IMP/courses.html) |
 | **Artist Development**<br>艺人发展 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IMP/courses.html) |
 | **Business II**<br>商业 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IMP/courses.html) |

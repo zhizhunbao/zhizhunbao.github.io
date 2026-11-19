@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Computer Systems Technician**<br>计算机系统技术员 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
 | **Computer Systems - Hardware**<br>计算机系统：硬件 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
 | **Data Communications and Networking 1**<br>数据通信与网络 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
 | **Mathematics for IT**<br>IT数学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
 | **Computer Systems - Software**<br>计算机系统：软件 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |
 | **Enterprise Client Support**<br>企业客户支持 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-systems-technician-two-year) |

@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Environmental Technician - Water Treatment Operations**<br>环境技术员：水处理运营 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
 | **Critical Thinking and Writing**<br>批判性思维与写作 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
-| **Introduction to Mathematics I**<br>数学导论 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
+| **Introduction to Mathematics I**<br>数学入门 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
 | **Workplace Communications Applications & Analysis**<br>职场沟通应用与分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
 | **Job Search and Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
-| **Introduction to GIS**<br>GIS导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
+| **Introduction to GIS**<br>GIS入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
 | **Chemistry and Physics**<br>化学与物理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
 | **Water Monitoring and Sampling**<br>水质监测与采样 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
-| **Introduction to Wastewater Collection and Treatment**<br>污水收集与处理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
+| **Introduction to Wastewater Collection and Treatment**<br>污水收集与处理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
 | **Soil and Air Monitoring and Sampling**<br>土壤与空气监测与采样 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |
 | **Communications for Technology**<br>技术沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ewso) |

@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Impact environnemental**<br>环境影响 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-prospection-et-exploration-miniere/) |
 | **Formation générale au choix**<br>选修通识教育 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-prospection-et-exploration-miniere/) |
 | **Statistiques**<br>统计学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-prospection-et-exploration-miniere/) |
-| **Introductions aux sondages et à la prospection minérale**<br>调查与矿产勘探导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-prospection-et-exploration-miniere/) |
+| **Introductions aux sondages et à la prospection minérale**<br>调查与矿产勘探入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-prospection-et-exploration-miniere/) |
 | **Opérations forestières**<br>森林作业 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-prospection-et-exploration-miniere/) |
 | **Initiation aux SIG (SIS)(PFF)**<br>GIS入门（SIS）（PFF） | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-prospection-et-exploration-miniere/) |
 | **Communication interpersonnelle**<br>人际沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-en-prospection-et-exploration-miniere/) |

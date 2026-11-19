@@ -12,15 +12,15 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Major in English**<br>英语主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
 | **Engaging with Literature**<br>文学研读 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
-| **Introduction to Indigenous Literatures**<br>原住民文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
+| **Introduction to Indigenous Literatures**<br>原住民文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
 | **Reading the Contemporary World**<br>解读当代世界 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
-| **Introduction to British Literature Before 1700**<br>1700 年前的英国文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
+| **Introduction to British Literature Before 1700**<br>1700 年前的英国文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
 | **Second-Year Seminar**<br>二年级研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
-| **Introduction to British Literature After 1700**<br>1700 年后的英国文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
-| **Introduction to Canadian Literature**<br>加拿大文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
-| **Introduction to American Literature**<br>美国文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
-| **Introduction to the Literatures of Asia and the Asian Diaspora**<br>亚洲与亚洲侨民文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
-| **Introduction to the Literatures of Africa and the African Diaspora**<br>非洲与非洲侨民文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
+| **Introduction to British Literature After 1700**<br>1700 年后的英国文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
+| **Introduction to Canadian Literature**<br>加拿大文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
+| **Introduction to American Literature**<br>美国文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
+| **Introduction to the Literatures of Asia and the Asian Diaspora**<br>亚洲与亚洲侨民文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
+| **Introduction to the Literatures of Africa and the African Diaspora**<br>非洲与非洲侨民文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
 | **Elizabethan Shakespeare**<br>伊丽莎白时代的莎士比亚 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
 | **Jacobean Shakespeare**<br>詹姆斯一世时期的莎士比亚 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |
 | **Early Modern Drama**<br>早期近代戏剧 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-english/) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Basic Arc Welding**<br>基础电弧焊 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/welding-techniques/) |
 | **Blueprint Reading**<br>图纸识读 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/welding-techniques/) |
 | **Pipe to Plate**<br>管板焊接 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/welding-techniques/) |
-| **Welding Introduction**<br>焊接导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/welding-techniques/) |
+| **Welding Introduction**<br>焊接入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/welding-techniques/) |
 | **T-Joints (Fillet Welds)**<br>T型接头（角焊缝） | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/welding-techniques/) |
 | **Oxy Fuel Welding and Cutting**<br>氧燃气焊接与切割 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/welding-techniques/) |
 | **Communications for the Trades**<br>技工行业沟通 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/welding-techniques/) |

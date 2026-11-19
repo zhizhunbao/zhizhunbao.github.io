@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Economics, 3-Year BA**<br>经济学，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
-| **Introduction to Economics: Micro**<br>经济学导论：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
-| **Introduction to Economics: Macro**<br>经济学导论：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
+| **Introduction to Economics: Micro**<br>经济学入门：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
+| **Introduction to Economics: Macro**<br>经济学入门：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
 | **Intermediate Economics: Micro**<br>中级经济学：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
 | **Intermediate Economics: Macro**<br>中级经济学：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
-| **Introduction to Calculus I**<br>微积分导论 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
+| **Introduction to Calculus I**<br>微积分入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
 | **Basic Calculus (TERMINAL)**<br>基础微积分（终结性） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
 | **Quantitative Methods for Economics and Business**<br>经济与商业定量方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |
 | **Statistics I for Economics, Business and Social Sciences**<br>经济、商业与社会科学统计学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/econ.pdf#page=1) |

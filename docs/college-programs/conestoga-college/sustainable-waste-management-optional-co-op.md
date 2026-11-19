@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Sustainable Waste Management (Optional Co-op)**<br>可持续废物管理（可选带薪实习） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
-| **Introduction to Waste Management Systems**<br>废弃物管理系统导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
+| **Introduction to Waste Management Systems**<br>废弃物管理系统入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Waste Management Legislation and Standards in Canada**<br>加拿大废物管理法规与标准 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Sustainable Waste Solutions: Innovations and Monitoring**<br>可持续废物解决方案：创新与监测 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Project Planning, Development & Implementation**<br>项目规划、开发与实施 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Workplace Safety**<br>工作场所安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Best Practices in Community and Public Relations**<br>社区与公共关系最佳实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Technical Writing and Communications**<br>技术写作与沟通 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
-| **Introduction to Economics and the Waste Life Cycle**<br>经济学与废弃物生命周期导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
+| **Introduction to Economics and the Waste Life Cycle**<br>经济学与废弃物生命周期入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Community Engagement and Environmental Education**<br>社区参与与环境教育 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Hazardous Materials Management**<br>危险物质管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |
 | **Organic Waste**<br>有机废弃物 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/sustainable-waste-management/courses?id=35370) |

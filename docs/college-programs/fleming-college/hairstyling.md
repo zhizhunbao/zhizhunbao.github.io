@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Guest Artist Experience**<br>特邀艺术家体验 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/hairstyling) |
 | **Marketing, Branding and Social Media**<br>营销、品牌与社交媒体 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/hairstyling) |
 | **Product Knowledge and Customer Care**<br>产品知识与客户服务 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/hairstyling) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/hairstyling) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/hairstyling) |
 | **Academy Salon I**<br>学院沙龙 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/hairstyling) |
 | **Customer Care and Retail Expertise**<br>客户关怀与零售专业知识 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/hairstyling) |
 | **Intermediate Colour II**<br>中级色彩 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/hairstyling) |

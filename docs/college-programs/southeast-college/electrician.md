@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Electrician**<br>电工 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/electrician/) |
 | **Introductory Electrical Theory and Practices**<br>电气理论与实践入门 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/electrician/) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/electrician/) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/electrician/) |
 | **Mathematics of Basic Electrical Principles**<br>基本电学原理数学 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/electrician/) |
 | **Resistive Circuit Analysis**<br>电阻电路分析 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/electrician/) |
 | **Conductors and Branch Circuits**<br>导体与分支电路 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/electrician/) |

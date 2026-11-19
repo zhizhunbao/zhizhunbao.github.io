@@ -14,18 +14,18 @@ ms.date: 2026-11-08
 | **Computer Systems Administration**<br>计算机系统管理 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Programming in JavaScript**<br>JavaScript编程 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Website Development**<br>网站开发 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
-| **Introduction to Database Management Systems (DBMS)**<br>数据库管理系统（DBMS）导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
-| **Introduction to Data Communication and Networking**<br>数据通信与网络导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
+| **Introduction to Database Management Systems (DBMS)**<br>数据库管理系统（DBMS）入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
+| **Introduction to Data Communication and Networking**<br>数据通信与网络入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Programming in Python**<br>Python编程 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
-| **Introduction to Linux Operating Systems**<br>Linux操作系统导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
+| **Introduction to Linux Operating Systems**<br>Linux操作系统入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Software Analysis and Design**<br>软件分析与设计 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Windows Administration 1**<br>Windows 管理 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Windows Administration 2**<br>Windows 管理 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **User Interface Design**<br>用户界面设计 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Algorithms Analysis and Data Structures**<br>算法分析与数据结构 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Switching, Routing and Wireless Essentials**<br>交换、路由与无线基础 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
-| **Introduction to Cloud Computing**<br>云计算导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
-| **Introduction to Computer Security**<br>计算机安全导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
+| **Introduction to Cloud Computing**<br>云计算入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
+| **Introduction to Computer Security**<br>计算机安全入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Windows Administration 3**<br>Windows 管理 3 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **Enterprise Networking, Security and Automation**<br>企业网络、安全与自动化 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |
 | **IT Development Project**<br>IT开发项目 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/computer-information-systems-technology/) |

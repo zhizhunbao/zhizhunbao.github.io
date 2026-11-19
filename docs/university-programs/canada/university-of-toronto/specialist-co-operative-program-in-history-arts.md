@@ -16,10 +16,11 @@ ms.date: 2026-11-11
 | **The Global Middle East**<br>全球中东 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 | **Themes in World History I**<br>世界史主题 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 | **Themes in World History II**<br>世界史主题 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
-| **Introducing Global Asia and its Histories**<br>全球亚洲及其历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+| **Introducing Global Asia and its Histories**<br>全球亚洲及其历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 | **The Ancient Mediterranean World**<br>古代地中海世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 | **Capitalism: A Global History**<br>资本主义：全球史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 | **Critical Writing and Research for Historians**<br>历史学家的批判写作与研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+| **History and Evidence**<br>历史与证据 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 | **Becoming Job Search Ready: Arts Co-op**<br>为求职做好准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 | **Finding Your First Work Term and Getting Workplace Ready: Arts Co-op**<br>寻找首个工作学期并做好职场准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
@@ -35,6 +36,29 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | HISA01H3 | Drugs: A History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | HISA02H3 | Rise of the Machines: How Technology Remakes the World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | HISA03H3 | The Global Middle East | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | HISA04H3 | Themes in World History I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | HISA05H3 | Themes in World History II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | HISA06H3 | Introducing Global Asia and its Histories | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | GASA01H3 | Introducing Global Asia and its Histories | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | HISA07H3 | The Ancient Mediterranean World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | CLAA04H3 | The Ancient Mediterranean World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following |  | (HISA08H3) Africa in the World: An Introduction |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 1. 1.0 credit from the following | HISA09H3 | Capitalism: A Global History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 2. 1.0 credit as follows | HISB03H3 | Critical Writing and Research for Historians | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 2. 1.0 credit as follows | HISC01H3 | History and Evidence | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): 6. Within the 12.0 credits required, students must also complete |  | 2.0 credits must deal with the period prior to 1800 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): and |  | 1.0 credit in Canadian history |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): and |  | 4.0 credits distributed over four of the following areas of history: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): and |  | a. United States and Latin America |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): and |  | b. Medieval |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): and |  | c. European |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): and |  | d. Africa and Asia |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): and |  | e. Transnational |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): and |  | f. Ancient World |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
+|  | Program requirements (same as SCSPE0652): Specialist Program in History--Language Stream |  | Students registered in the Specialist Program in History have the option of registering in the Language Stream. Students in the Language Stream must complete the Specialist Program in History and 2.0 credits in a single language. This option is designed to encourage Specialists to undertake language study with an eye to engaging historical writing and sources in the original language. Specialists who wish to demonstrate proficiency in a given language on their transcript should undertake the additional study that would qualify them for the UTSC Language Citation. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 |  | Academic Program Requirements |  | Students must complete the program requirements as described in the Specialist Program in History. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0652c) |

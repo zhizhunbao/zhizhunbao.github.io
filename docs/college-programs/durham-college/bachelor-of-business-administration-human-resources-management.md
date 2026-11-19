@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **HR Metrics and Data Analytics**<br>人力资源指标与数据分析 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-business-administration-human-resources-management) |
 | **Decolonizing Knowledge: Introducing Indigenous Ways Of Knowing and Being**<br>知识去殖民化：介绍原住民认知与存在方式 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-business-administration-human-resources-management) |
 | **Canadian Employment Law Practices**<br>加拿大雇佣法实务 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-business-administration-human-resources-management) |
-| **Introduction to Economics**<br>经济学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-business-administration-human-resources-management) |
+| **Introduction to Economics**<br>经济学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-business-administration-human-resources-management) |
 | **Breadth Elective Credit**<br>广度选修学分 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-business-administration-human-resources-management) |
 | **Wil Prep**<br>WIL准备 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-business-administration-human-resources-management) |
 | **Learning and Organizational Development**<br>学习与组织发展 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-business-administration-human-resources-management) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Financial Accounting I**<br>财务会计 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/marketing) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/marketing) |
 | **Human Resource Management I**<br>人力资源管理 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/marketing) |
-| **Introduction to Finance**<br>金融导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/marketing) |
+| **Introduction to Finance**<br>金融入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/marketing) |
 | **Integrated Software Applications**<br>集成软件应用 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/marketing) |
 | **Marketing I**<br>市场营销 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/marketing) |
 | **Financial Accounting II**<br>财务会计 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/marketing) |

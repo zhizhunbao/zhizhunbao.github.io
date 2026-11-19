@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Job Search & Workplace Skills**<br>求职与职场技能 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 | **Communications for Business**<br>商务沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 | **Entrepreneurship I**<br>创业 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 | **Digital Marketing**<br>数字营销 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 | **Consumer Behaviour in Strategic Marketing**<br>战略营销中的消费者行为 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-08
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 | **Integrated Marketing Communications**<br>整合营销传播 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 | **Entrepreneurship II**<br>创业 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
-| **Introduction to Financial Management Accounting**<br>财务管理会计导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
+| **Introduction to Financial Management Accounting**<br>财务管理会计入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 | **Integrated Business Solutions Capstone**<br>综合商业解决方案毕业项目 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bmrf) |
 
 ## Courses

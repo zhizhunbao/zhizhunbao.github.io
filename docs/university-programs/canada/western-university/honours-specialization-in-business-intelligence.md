@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN BUSINESS INTELLIGENCE**<br>商业智能荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUSINESS**<br>商业导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUSINESS**<br>商业入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MICROECONOMICS**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MACROECONOMICS**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **INFORMATION TECHNOLOGY IN THE COMMERCIAL ENVIRONMENT**<br>商业环境中的信息技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
@@ -23,8 +23,8 @@ ms.date: 2026-11-11
 | **CALCULUS II**<br>微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS II FOR MATHEMATICAL AND PHYSICAL SCIENCES**<br>数学与物理科学微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS**<br>统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS LAW**<br>商法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **FINANCE**<br>金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **ORGANIZATIONAL BEHAVIOR**<br>组织行为学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **EQUITY, DIVERSITY, AND INCLUSION IN ORGANIZATIONS**<br>组织中的公平、多样性与包容 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS INTELLIGENCE**<br>商业智能 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DATA SCIENCE FOR MOS**<br>MOS 数据科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DATA SCIENCE FOR MOS**<br>MOS 数据科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **MANAGEMENT INFORMATION SYSTEMS**<br>管理信息系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **STRATEGIC MANAGEMENT**<br>战略管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS APPROACHES FOR EMERGING 21ST CENTURY ISSUES**<br>应对 21 世纪新兴问题的商业方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-11
 | **PROJECT MANAGEMENT**<br>项目管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **ESSENTIALS OF HUMAN RESOURCES FOR NON HR STUDENTS**<br>非人力资源专业学生的人力资源要点 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **MANAGEMENT AND ORGANIZATIONAL CONSULTING**<br>管理与组织咨询 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ANALYTICS AND DECISION SCIENCE**<br>分析与决策科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ANALYTICS AND DECISION SCIENCE**<br>分析与决策科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **DEALING WITH DATA: ANALYSIS AND VISUALIZATION**<br>数据处理：分析与可视化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **MODERN SURVIVAL SKILLS I: CODING ESSENTIALS**<br>现代生存技能 I：编程基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICS FOR DATA SCIENCE**<br>数据科学数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
@@ -64,8 +64,8 @@ ms.date: 2026-11-11
 | **MONEY**<br>货币 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **ORAL PERSUASION: MAKING PUBLIC PERFORMANCE**<br>口头说服：公共表演 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **ORAL PERSUASION: MAKING PUBLIC POLICY**<br>口头说服：制定公共政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LOGIC**<br>逻辑学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LOGIC**<br>逻辑学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL POLITICAL ECONOMY**<br>全球政治经济学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21674&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses

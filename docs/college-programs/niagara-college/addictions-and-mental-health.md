@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Addictions and Mental Health**<br>成瘾与心理健康 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/addictions-and-mental-health/) |
-| **Introduction to Addictions and Mental Health**<br>成瘾与心理健康导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/addictions-and-mental-health/) |
+| **Introduction to Addictions and Mental Health**<br>成瘾与心理健康入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/addictions-and-mental-health/) |
 | **Counselling Fundamentals**<br>咨询基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/addictions-and-mental-health/) |
 | **Self-Care and the Working Professional**<br>自我关怀与在职专业人员 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/addictions-and-mental-health/) |
 | **Substance Use and Harm Reduction**<br>物质使用与减害 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/addictions-and-mental-health/) |

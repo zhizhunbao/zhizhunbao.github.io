@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Petroleum Land Administration**<br>石油土地管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
-| **Land Practices Introduction**<br>土地实务导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
+| **Land Practices Introduction**<br>土地实务入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
 | **Mineral Lease Documentation**<br>矿产租约文件 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
 | **Contract Documentation**<br>合同文件编制 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
 | **Lease Record Keeping**<br>租约记录保管 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
 | **Surface Land Practices**<br>地表土地利用实践 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
-| **Petroleum Industry - Introduction**<br>石油工业：导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
+| **Petroleum Industry - Introduction**<br>石油工业：入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/petroleum-land-administration) |
 
 ## Courses
 

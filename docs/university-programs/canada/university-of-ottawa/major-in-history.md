@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Major in History**<br>历史学主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-history/) |
 | **History Labs**<br>历史实验课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-history/) |
 | **The Making of Canada**<br>加拿大的形成 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-history/) |
-| **Introduction to Global History**<br>全球史导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-history/) |
+| **Introduction to Global History**<br>全球史入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-history/) |
 | **The Twentieth-Century World from 1945**<br>1945 年以来的二十世纪世界 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-history/) |
 | **What Is Europe? (16th-21th Century)**<br>什么是欧洲？（16-21 世纪） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-history/) |
 | **The Historian's Craft**<br>历史学家的技艺 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-history/) |

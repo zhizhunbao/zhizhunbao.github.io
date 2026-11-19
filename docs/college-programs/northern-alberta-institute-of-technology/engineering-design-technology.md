@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Engineering Design Technology**<br>工程设计技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
-| **Introduction to AutoCAD**<br>AutoCAD 导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
+| **Introduction to AutoCAD**<br>AutoCAD 入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
 | **Engineering Communications**<br>工程传播 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
 | **Engineering Graphics**<br>工程图学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
-| **Introduction to Surveying**<br>测量学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
+| **Introduction to Surveying**<br>测量学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
 | **Pre-Calculus, Technical Math and Data Analysis**<br>预备微积分、技术数学与数据分析 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |
 | **Strength of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/engineering-design-technology) |

@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Biometry.**<br>生物统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/) |
 | **Statistics and Spatial Analysis.**<br>统计与空间分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/) |
 | **Principles of Statistics 1.**<br>统计学原理 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/) |
 | **Statistics in Social Research.**<br>社会研究中的统计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/) |
 | **Soils and Environment.**<br>土壤与环境 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/) |
 | **Climatic Environments.**<br>气候环境 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/) |

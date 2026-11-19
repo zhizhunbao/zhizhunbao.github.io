@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Health Administration**<br>卫生管理荣誉学士 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHAD.html) |
-| **Introduction to Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHAD/courses.html) |
+| **Introduction to Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHAD/courses.html) |
 | **Mastering Business Administration in the Healthcare Sector**<br>医疗行业工商管理精通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHAD/courses.html) |
 | **Factors Influencing the Canadian Healthcare System**<br>影响加拿大医疗体系的因素 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHAD/courses.html) |
 | **Health Informatics: Information Technology**<br>健康信息学：信息技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHAD/courses.html) |

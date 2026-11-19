@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support/courses?id=36317) |
 | **Role of the Educational Assistant**<br>教育助理的角色 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support/courses?id=36317) |
 | **Student Growth and Development**<br>学生成长与发展 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support/courses?id=36317) |
-| **Introduction to Exceptionalities**<br>特殊需求导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support/courses?id=36317) |
+| **Introduction to Exceptionalities**<br>特殊需求入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support/courses?id=36317) |
 | **Elements of Practice**<br>实践要素 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support/courses?id=36317) |
 | **Safety in the Workplace**<br>工作场所安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support/courses?id=36317) |
 | **Principles of Learning**<br>学习原理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/educational-support/courses?id=36317) |

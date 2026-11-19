@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **Aboriginal and Northern Studies Major: Three-Year Degree Program**<br>原住民与北方研究主修：3 年制学位项目 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
 | **Waskawimakanwa Meciwaci Isihtwawina**<br>Waskawimakanwa Meciwaci Isihtwawina | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
 | **Academic Research and Writing**<br>学术研究与写作 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
-| **Introduction to Aboriginal Studies 1**<br>原住民研究导论 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
-| **Introduction to Aboriginal Studies 2**<br>原住民研究导论 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
+| **Introduction to Aboriginal Studies 1**<br>原住民研究入门 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
+| **Introduction to Aboriginal Studies 2**<br>原住民研究入门 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
 | **Research Methods in Aboriginal and Northern Studies 1**<br>原住民与北方研究的研究方法 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
 | **Kayas Achanohkewina, Stories of Long Ago**<br>Kayas Achanohkewina：古老的故事 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |
 | **Northern Manitoba First Nations and Environment**<br>曼尼托巴北部原住民与环境 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=35) |

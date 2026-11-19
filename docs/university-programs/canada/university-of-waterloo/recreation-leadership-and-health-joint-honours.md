@@ -13,15 +13,15 @@ ms.date: 2026-11-11
 | **Recreation, Leadership, and Health (Joint Honours)**<br>休闲、领导力与健康（联合荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Sustainability: The Future We Want**<br>可持续性：我们想要的未来 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Sociology of Activity, Health, and Well-Being**<br>活动、健康与幸福感的社会学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
-| **Introduction to the Study of Recreation and Leisure**<br>休闲与康乐研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
-| **Introduction to Leisure, Sport, and Recreation Management**<br>休闲、体育与康乐管理导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
+| **Introduction to the Study of Recreation and Leisure**<br>休闲与康乐研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
+| **Introduction to Leisure, Sport, and Recreation Management**<br>休闲、体育与康乐管理入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Experience Design and Delivery**<br>体验设计与交付 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
-| **Introduction to Leisure, Equity, Diversity, and Inclusion for Just Communities**<br>休闲、公平、多元与包容导论：迈向公正社区 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
+| **Introduction to Leisure, Equity, Diversity, and Inclusion for Just Communities**<br>休闲、公平、多元与包容入门：迈向公正社区 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Marketing Recreation, Sport, and Events**<br>康乐、体育与活动营销 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
-| **Introduction to Event Studies**<br>活动研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
+| **Introduction to Event Studies**<br>活动研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Outdoor Recreation and Land-Based Learning**<br>户外康乐与陆地学习 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Foundations of Community Engagement in Recreation and Leisure**<br>休闲与游憩中的社区参与基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
-| **Introduction to Tourism**<br>旅游业导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
+| **Introduction to Tourism**<br>旅游业入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Leadership Theory and Practice in Recreation, Sport and Leisure Organizations**<br>休闲、体育与康乐组织的领导理论与实践 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Leading Action for Community Change**<br>引领社区变革行动 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Quantitative Data Analysis and Mobilization**<br>定量数据分析与成果转化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
@@ -34,8 +34,8 @@ ms.date: 2026-11-11
 | **Social Determinants of Health**<br>健康的社会决定因素 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Conflict Resolution**<br>冲突解决 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Community Conflict Resolution**<br>社区冲突解决 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
-| **Power, Politics, and Policy: An Introduction**<br>权力、政治与政策导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
-| **Introduction to Social Policy Processes**<br>社会政策过程导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
+| **Power, Politics, and Policy: An Introduction**<br>权力、政治与政策入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
+| **Introduction to Social Policy Processes**<br>社会政策过程入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJegyCAjn) |
 
 ## Courses

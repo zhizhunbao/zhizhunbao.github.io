@@ -1,10 +1,10 @@
 ---
-title: "3.4.83 Biomedical Engineering (M.S.)"
+title: "4.4.83 Biomedical Engineering (M.S.)"
 description: "University Programs > United States > Yale University > Biomedical Engineering (M.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.83 Biomedical Engineering (M.S.)
+# 4.4.83 Biomedical Engineering (M.S.)
 
 ## Glossary
 

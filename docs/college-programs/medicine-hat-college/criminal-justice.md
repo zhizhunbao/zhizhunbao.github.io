@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminal Justice**<br>刑事司法 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
-| **Introduction to Criminal Justice**<br>刑事司法导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
+| **Introduction to Criminal Justice**<br>刑事司法入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Theories of Crime**<br>犯罪理论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Criminal Law and the Judicial Process**<br>刑法与司法程序 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
-| **Introduction to Psychology II - Social Science**<br>心理学导论 II - 社会科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
+| **Introduction to Psychology II - Social Science**<br>心理学入门 II - 社会科学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Communication Elective**<br>沟通选修课 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Policing and Law Enforcement**<br>警务与执法 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Corrections and Offender Rehabilitation**<br>矫正与罪犯康复 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
@@ -35,8 +35,8 @@ ms.date: 2026-11-08
 | **Introductory Composition**<br>入门写作 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Contemporary Indigenous Issues in Canada**<br>加拿大当代原住民议题 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Death and Dying**<br>死亡与临终 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
-| **Introduction to Wellness, Fitness & Nutrition**<br>健康、健身与营养导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
-| **Introduction to Nutrition**<br>营养学导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
+| **Introduction to Wellness, Fitness & Nutrition**<br>健康、健身与营养入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
+| **Introduction to Nutrition**<br>营养学入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 | **Current Social Issues**<br>当前社会问题 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/criminal-justice) |
 

@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Economics, B.A. Double Honours**<br>经济学，B.A. 双荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
-| **Introduction to Microeconomic Principles and Introduction to Macroeconomic Principles**<br>微观经济学原理导论 与 宏观经济学原理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
-| **Introduction to Canadian Economic Issues and Policies and Introduction to Global and Environmental Economic Issues and Policies**<br>加拿大经济问题与政策导论 与 全球与环境经济问题与政策导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
+| **Introduction to Microeconomic Principles and Introduction to Macroeconomic Principles**<br>微观经济学原理入门 与 宏观经济学原理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
+| **Introduction to Canadian Economic Issues and Policies and Introduction to Global and Environmental Economic Issues and Policies**<br>加拿大经济问题与政策入门 与 全球与环境经济问题与政策入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
 | **Mathematics for Management and Social Sciences**<br>管理与社会科学数学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
 | **Microeconomic Theory 1**<br>微观经济理论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
 | **Macroeconomic Theory 1**<br>宏观经济理论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Quantitative Methods in Economics**<br>经济学中的定量方法 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
 | **Microeconomic Theory 2**<br>微观经济理论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
 | **Macroeconomic Theory 2**<br>宏观经济理论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
-| **Introduction to Econometrics**<br>计量经济学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
+| **Introduction to Econometrics**<br>计量经济学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/economics/economics-ba-double-honours/) |
 
 ## Courses
 

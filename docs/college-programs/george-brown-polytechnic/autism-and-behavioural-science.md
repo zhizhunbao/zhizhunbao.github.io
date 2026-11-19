@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Autism and Behavioural Science**<br>孤独症与行为科学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/autism-and-behavioural-science-program-postgraduate-c405) |
-| **Introduction to Applied Behaviour Analysis**<br>应用行为分析导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/autism-and-behavioural-science-program-postgraduate-c405) |
-| **Introduction to Autism Spectrum Disorder (Asd)**<br>自闭症谱系障碍（ASD）导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/autism-and-behavioural-science-program-postgraduate-c405) |
+| **Introduction to Applied Behaviour Analysis**<br>应用行为分析入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/autism-and-behavioural-science-program-postgraduate-c405) |
+| **Introduction to Autism Spectrum Disorder (Asd)**<br>自闭症谱系障碍（ASD）入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/autism-and-behavioural-science-program-postgraduate-c405) |
 | **Working with Families and Teams**<br>与家庭和团队合作 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/autism-and-behavioural-science-program-postgraduate-c405) |
 | **Ethics & Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/autism-and-behavioural-science-program-postgraduate-c405) |
 | **Field Placement I**<br>现场实习 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/autism-and-behavioural-science-program-postgraduate-c405) |

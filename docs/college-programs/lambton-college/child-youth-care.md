@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Child & Youth Care**<br>儿童与青少年关怀 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CYCP) |
-| **Introduction to Field Placement**<br>实地实习导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CYCP) |
-| **Introduction to Child & Youth Care**<br>儿童与青少年照护导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CYCP) |
+| **Introduction to Field Placement**<br>实地实习入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CYCP) |
+| **Introduction to Child & Youth Care**<br>儿童与青少年照护入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CYCP) |
 | **Critical Analysis of Self**<br>自我批判分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CYCP) |
 | **Critical Thinking & Writing**<br>批判性思维与写作 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CYCP) |
 | **Psychology 1**<br>心理学 1 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/CYCP) |

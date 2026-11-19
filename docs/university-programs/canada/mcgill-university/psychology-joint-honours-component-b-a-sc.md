@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Psychology Joint Honours Component (B.A. & Sc.)**<br>心理学联合荣誉组成部分（B.A. & Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
-| **Introduction to Psychology.**<br>心理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
+| **Introduction to Psychology.**<br>心理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
 | **Principles: Organismal Biology.**<br>原理：生物体生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
 | **Cell and Molecular Biology.**<br>细胞与分子生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
 | **Essential Biology.**<br>基础生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
 | **Introductory Behavioural Neuroscience.**<br>行为神经科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
 | **Perception.**<br>知觉 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |
 | **Cognition.**<br>认知 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/) |

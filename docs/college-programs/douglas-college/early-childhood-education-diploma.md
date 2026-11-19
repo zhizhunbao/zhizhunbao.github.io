@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Early Childhood Education Diploma**<br>幼儿教育文凭 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpeces) |
-| **Introduction to Early Childhood Education**<br>幼儿教育导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpeces) |
+| **Introduction to Early Childhood Education**<br>幼儿教育入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpeces) |
 | **Positive Guidance in Early Childhood Programs**<br>幼儿教育项目中的积极引导 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpeces) |
 | **Promoting Healthy Practices in Early Childhood Education**<br>在幼儿教育中促进健康实践 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpeces) |
 | **Growth and Development: Preschool Years**<br>成长与发展：学龄前阶段 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpeces) |

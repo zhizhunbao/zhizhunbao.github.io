@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate Law**<br>法学证书 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
-| **Introduction to the Study of Law**<br>法学研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
+| **Introduction to the Study of Law**<br>法学研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
 | **General Public Law**<br>一般公法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
 | **Protection of Rights and Freedoms**<br>权利与自由的保护 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
 | **Law and Social Justice**<br>法律与社会正义 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
 | **Law of Persons and Family Law**<br>人身法与家庭法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
 | **Legal Aspects of Human Rights**<br>人权的法律问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
-| **Introduction to International Women's Rights Law**<br>国际妇女权利法导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
+| **Introduction to International Women's Rights Law**<br>国际妇女权利法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
 | **Canadian Federalism Law**<br>加拿大联邦制法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
 | **Labour Law**<br>劳动法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |
 | **Environmental Law**<br>环境法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-law/) |

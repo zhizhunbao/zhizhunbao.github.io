@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Interprofessional Collaboration**<br>跨专业协作 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCD/courses.html) |
 | **Indigenous Awareness: Towards Truth and Reconciliation**<br>原住民意识：走向真相与和解 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCD/courses.html) |
 | **The Brain and Cognitive Development**<br>大脑与认知发展 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCD/courses.html) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCD/courses.html) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCD/courses.html) |
 | **Care Collaboration with Families**<br>与家庭的护理协作 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCD/courses.html) |
 | **Language Development**<br>语言发展 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCD/courses.html) |
 | **Work Term Preparation**<br>工作学期准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCD/courses.html) |

@@ -1,10 +1,10 @@
 ---
-title: "3.4.103 Master of Environmental Design Degree Program"
+title: "4.4.103 Master of Environmental Design Degree Program"
 description: "University Programs > United States > Yale University > Master of Environmental Design Degree Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.103 Master of Environmental Design Degree Program
+# 4.4.103 Master of Environmental Design Degree Program
 
 ## Glossary
 

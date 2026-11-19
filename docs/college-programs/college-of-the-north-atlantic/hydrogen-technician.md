@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Mechanics & Dynamics**<br>力学与动力学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Phys. & Chem. Thermodynamics**<br>物理化学热力学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Canada Power Eng. Leg. & Reg.**<br>加拿大动力工程法规 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
-| **Intro to Plant & Fire Safety**<br>工厂与消防安全导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
+| **Intro to Plant & Fire Safety**<br>工厂与消防安全入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Plant Operation & Environment**<br>工厂运行与环境 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Mat. Science & Welding Tech.**<br>材料科学与焊接技术 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Fluid Handling Technology**<br>流体输送技术 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Ind. Plant Configurations**<br>工业厂房配置 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Power Ops. & Maint. Lab II**<br>电力运行与维护实验 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Hydrogen Safety**<br>氢安全 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
-| **Intro to Process Operations**<br>过程操作导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
+| **Intro to Process Operations**<br>过程操作入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Hoisting, Rigging, and Lifting**<br>起重、索具与吊装 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Process Diagrams**<br>工艺流程图 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |
 | **Final Control Elements**<br>最终控制元件 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/hydrogen-technician) |

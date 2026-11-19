@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Drawing II**<br>绘画 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/fine-arts-certificate) |
 | **Painting**<br>绘画 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/fine-arts-certificate) |
 | **First Nations Art Design Tech**<br>原住民艺术设计技术 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/fine-arts-certificate) |
-| **Intro to Digital Arts & Media**<br>数字艺术与媒体导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/fine-arts-certificate) |
+| **Intro to Digital Arts & Media**<br>数字艺术与媒体入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/fine-arts-certificate) |
 | **Colour Theory**<br>色彩理论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/fine-arts-certificate) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/fine-arts-certificate) |
 | **Writing and Communication**<br>写作与沟通 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/fine-arts-certificate) |

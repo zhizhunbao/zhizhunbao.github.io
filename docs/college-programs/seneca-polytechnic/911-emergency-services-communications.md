@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **911 & Emergency Services Communications**<br>911与紧急服务通信 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
-| **Introduction to Public Safety Communications**<br>公共安全通信导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
+| **Introduction to Public Safety Communications**<br>公共安全通信入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
 | **Communications and Conflict Management**<br>沟通与冲突管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
 | **Law for Communications Operators**<br>通信操作员法律 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
 | **Communication Centre Technology**<br>通信中心技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Fire Communications Procedures**<br>消防通信程序 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
 | **EMS Communications Procedures**<br>EMS通信程序 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
 | **Crisis and Emergency Management**<br>危机与应急管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ESC/courses.html) |
 
 ## Courses
 

@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Forced Warm Air Heat/Conv/Add-Ons**<br>强制热风供暖/对流/附加设备 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3990086/courses-next/) |
 | **HVAC Design Computer Applications**<br>暖通空调设计计算机应用 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3990086/courses-next/) |
 | **Air Handling**<br>空气处理 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3990086/courses-next/) |
-| **Introduction to Business Processes**<br>业务流程导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3990086/courses-next/) |
+| **Introduction to Business Processes**<br>业务流程入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3990086/courses-next/) |
 | **Introduction to Small Business Concepts**<br>小企业概念入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3990086/courses-next/) |
 | **Innovation Applications**<br>创新应用 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3990086/courses-next/) |
 | **Air Conditioning Lab Applications**<br>空调实验应用 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3990086/courses-next/) |

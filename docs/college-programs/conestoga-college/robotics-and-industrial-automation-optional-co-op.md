@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Safety Circuits and Standards**<br>安全电路与标准 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation/courses?id=36882) |
 | **Advanced Programming**<br>高级编程 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation/courses?id=36882) |
 | **Advanced PLC Programming**<br>高级PLC编程 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation/courses?id=36882) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation/courses?id=36882) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation/courses?id=36882) |
 | **Career Management in Canada**<br>加拿大职业管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation/courses?id=36882) |
 | **Internet and Device Communication**<br>互联网与设备通信 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation/courses?id=36882) |
 | **Instrumentation Design and Control**<br>仪表设计与控制 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation/courses?id=36882) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Autisme et sciences du comportement (71717)**<br>孤独症与行为科学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71717) |
-| **Introduction au trouble du spectre de l'autisme**<br>自闭症谱系障碍导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71717) |
+| **Introduction au trouble du spectre de l'autisme**<br>自闭症谱系障碍入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71717) |
 | **Évaluation du comportement**<br>行为评估 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71717) |
 | **Analyse des problématiques associées au trouble du spectre de l'autisme**<br>孤独症谱系障碍相关问题分析 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71717) |
 | **Communication et interactions avec des personnes ayant un trouble du spectre de l'autisme**<br>与自闭症谱系障碍人士的沟通与互动 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/71717) |

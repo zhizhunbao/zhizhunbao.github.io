@@ -15,14 +15,14 @@ ms.date: 2026-11-08
 | **Foundations in Presentation Skills - Media**<br>演讲技能基础 - 媒体 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 | **Media Tools and Technology I**<br>媒体工具与技术 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
-| **Introduction to Media Ethics**<br>媒体伦理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
-| **Introduction to Audio and Video Editing**<br>音视频编辑导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
+| **Introduction to Media Ethics**<br>媒体伦理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
+| **Introduction to Audio and Video Editing**<br>音视频编辑入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 | **Social Media and Digital Marketing**<br>社交媒体与数字营销 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 | **Writing for Media Basics**<br>媒体写作基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 | **Photography for Media**<br>媒体摄影 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 | **Media Tools and Technology II**<br>媒体工具与技术 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 | **The Art of Storytelling**<br>讲故事的艺术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
-| **Introduction to Web Platforms**<br>Web平台导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
+| **Introduction to Web Platforms**<br>Web平台入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 | **Creative Thinking and Content Generation**<br>创造性思维与内容生成 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/media-foundations/courses?id=35219) |
 
 ## Courses

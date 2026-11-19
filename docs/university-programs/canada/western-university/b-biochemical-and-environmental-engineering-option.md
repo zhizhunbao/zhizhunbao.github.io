@@ -38,8 +38,8 @@ ms.date: 2026-11-11
 | **PROCESS DYNAMICS AND CONTROL**<br>过程动力学与控制 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **REACTION ENGINEERING**<br>反应工程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **SUSTAINABLE CHEMICAL ENGINEERING & LIFE CYCLE ANALYSIS**<br>可持续化学工程与生命周期分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHEMICAL PROCESS SIMULATION**<br>化工过程模拟导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PLANT DESIGN & SAFETY**<br>工厂设计与安全导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHEMICAL PROCESS SIMULATION**<br>化工过程模拟入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PLANT DESIGN & SAFETY**<br>工厂设计与安全入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **HEAT TRANSFER OPERATIONS**<br>传热操作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **STAGED OPERATIONS**<br>舞台化运作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **MASS TRANSFER OPERATIONS**<br>传质操作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-11
 | **WASTEWATER TREATMENT**<br>废水处理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **ENGINEERING COFFEE**<br>工程咖啡 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **CARBON FOOTPRINT AND MANAGEMENT**<br>碳足迹与管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIOMATERIALS ENGINEERING**<br>生物材料工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIOMATERIALS ENGINEERING**<br>生物材料工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **NANOBIOTECHNOLOGY**<br>纳米生物技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **TISSUE ENGINEERING**<br>组织工程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |
 | **WATER POLLUTION DESIGN**<br>水污染设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21258&SelectedCalendar=Live&ArchiveID=) |

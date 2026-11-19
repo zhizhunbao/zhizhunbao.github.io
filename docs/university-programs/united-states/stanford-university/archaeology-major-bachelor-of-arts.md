@@ -1,21 +1,21 @@
 ---
-title: "3.3.5 Archaeology, Major: Bachelor of Arts"
+title: "4.3.5 Archaeology, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Archaeology, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.5 Archaeology, Major: Bachelor of Arts
+# 4.3.5 Archaeology, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Archaeology, Major: Bachelor of Arts**<br>考古学，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Archaeological Methods**<br>考古方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **History of Archaeological Thought**<br>考古思想史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Eight Great Archaeological Sites in Europe**<br>欧洲八大考古遗址 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Curatorial Internship**<br>策展实习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Collections Management Internship**<br>藏品管理实习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-18
 | **Archaeology of Food: production, consumption and ritual**<br>食物考古学：生产、消费与仪式 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Archaeological Field Methods: Excavating Campus Histories at Frenchman's Lake**<br>考古田野方法：在法国人湖发掘校园历史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Archaeobotany**<br>考古植物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
-| **Introduction to Museum Practice**<br>博物馆实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
+| **Introduction to Museum Practice**<br>博物馆实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Sailing the Wine-Dark Sea: Maritime Archaeology of the Ancient Mediterranean**<br>航行于酒红色的海上：古代地中海的海洋考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Theory and Method in Ceramic Analysis**<br>陶瓷分析的理论与方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Visualizing the Past: Images of the Market Street Chinatown**<br>可视化过去：市场街唐人街的影像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
@@ -67,7 +67,7 @@ ms.date: 2026-11-18
 | **Design of Cities**<br>城市设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Emergence of Chinese Civilization from Caves to Palaces**<br>中华文明的诞生：从洞穴到宫殿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Greek Archaeology: The Worlds the Greeks Made**<br>希腊考古学：希腊人创造的世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
-| **Introduction to Roman Archaeology**<br>罗马考古学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
+| **Introduction to Roman Archaeology**<br>罗马考古学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **"Erotic" Roman Art from Pompeii and Herculaneum**<br>庞贝与赫库兰尼姆的“情色”罗马艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Roman Gladiators**<br>罗马角斗士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **The Artist in Ancient Greek Society**<br>古希腊社会中的艺术家 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
@@ -75,7 +75,7 @@ ms.date: 2026-11-18
 | **The Archaeology of Money**<br>货币考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Monuments and Landscapes: Memory, Identity, and Power**<br>纪念碑与景观：记忆、身份与权力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Pompeii**<br>庞贝 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
-| **Introduction to Early Andean Visual Culture: Interspecies Value and More-than-Human Presence**<br>早期安第斯视觉文化导论：物种间价值与超越人类的存在 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
+| **Introduction to Early Andean Visual Culture: Interspecies Value and More-than-Human Presence**<br>早期安第斯视觉文化入门：物种间价值与超越人类的存在 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Archaeology Internship**<br>考古学实习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Etruscan Archaeology**<br>伊特鲁里亚考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |
 | **Food and Drink in Ancient Greece and Rome**<br>古希腊罗马的饮食 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/archaeology/bachelor-of-arts) |

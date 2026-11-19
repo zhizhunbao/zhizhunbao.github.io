@@ -1,10 +1,10 @@
 ---
-title: "3.3.39 Human Biology, Major: Bachelor of Arts"
+title: "4.3.39 Human Biology, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Human Biology, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.39 Human Biology, Major: Bachelor of Arts
+# 4.3.39 Human Biology, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -17,20 +17,20 @@ ms.date: 2026-11-18
 | **Health Policy Analysis and Population Health**<br>健康政策分析与人群健康 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **The Human Organism**<br>人体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Development and Epidemiology**<br>发育与流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **An overview of Biomedical Data Science**<br>生物医学数据科学概览 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Applied Econometrics**<br>应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Statistical Methods in Education**<br>教育统计方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Statistical Methods in Education**<br>教育统计方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Statistics for the Health Sciences**<br>健康科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Health Sciences Statistics**<br>健康科学统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Statistics for the Health Sciences**<br>健康科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Health Sciences Statistics**<br>健康科学统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Conservation Biology: A Latin American Perspective**<br>保护生物学：拉丁美洲视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **The Human-Plant Connection**<br>人与植物的联系 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
@@ -75,7 +75,7 @@ ms.date: 2026-11-18
 | **Foundations of Bioethics**<br>生物伦理学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Ethics in a Human Life**<br>人生中的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Medical Anthropology**<br>医学人类学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Intro to Disability Studies: Disability and Technology**<br>残障研究导论：残障与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Intro to Disability Studies: Disability and Technology**<br>残障研究入门：残障与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Music and Healing**<br>音乐与疗愈 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Teaching Aide in Human Biology**<br>人类生物学助教 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Terrestrial Ecology and Conservation**<br>陆地生态学与保护 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
@@ -94,7 +94,7 @@ ms.date: 2026-11-18
 | **Human Biology Practicum**<br>人类生物学实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Human Biology Synthesis**<br>人类生物学综合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Honors**<br>荣誉课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
-| **Intermediate Writing: Introduction to Science Communication**<br>中级写作：科学传播导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
+| **Intermediate Writing: Introduction to Science Communication**<br>中级写作：科学传播入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Sexual Health Communication: Strategies to Save Lives**<br>性健康沟通：拯救生命的策略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Intermediate Writing: Storytelling and Science**<br>中级写作：讲故事与科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |
 | **Intermediate Writing: Art in/and Science Communication**<br>中级写作：科学传播中的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/human-biology/bachelor-of-arts) |

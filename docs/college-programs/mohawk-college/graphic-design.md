@@ -65,7 +65,7 @@ ms.date: 2026-11-08
 | **Portfolio Design**<br>作品集设计 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=508&prg_ver=26-A) |
 | **Creative Image and Photogenic Design 4**<br>创意形象与上镜设计 4 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=508&prg_ver=26-A) |
 | **Entrepreneurial Business Strategies**<br>创业商业策略 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=508&prg_ver=26-A) |
-| **Motion Graphics Introduction**<br>动态图形导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=508&prg_ver=26-A) |
+| **Motion Graphics Introduction**<br>动态图形入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=508&prg_ver=26-A) |
 | **General Education Elective 3**<br>通识教育选修课 3 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=508&prg_ver=26-A) |
 | **Experiential Learning Internship/Work Placement**<br>体验式学习实习/工作实习 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=508&prg_ver=26-A) |
 

@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Capstone Convergence Prod. I**<br>毕业设计融合制作 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/media-convergence) |
 | **Performance Radio/TV**<br>广播/电视表演 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/media-convergence) |
 | **Radio Writing And Production**<br>广播写作与制作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/media-convergence) |
-| **Introduction To Creative Screenwriting**<br>创意编剧导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/media-convergence) |
+| **Introduction To Creative Screenwriting**<br>创意编剧入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/media-convergence) |
 | **Convergence Lab I**<br>融合实验 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/media-convergence) |
 | **Capstone Convergence Production II**<br>毕业设计融合制作 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/media-convergence) |
 | **Creative Production**<br>创意制作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/media-convergence) |

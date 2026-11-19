@@ -13,11 +13,11 @@ ms.date: 2026-11-11
 | **Environmental Studies and Sciences, 5-Year Joint Program in Applied Environmental Science (UW/RRC Polytech)**<br>环境研究与科学，5 年制应用环境科学联合项目（UW/RRC Polytech） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Cells and Cellular Processes**<br>细胞与细胞过程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Evolution, Ecology and Biodiversity**<br>进化、生态与生物多样性 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
-| **Introduction to the Chemical Properties of Matter**<br>物质化学性质导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
+| **Introduction to the Chemical Properties of Matter**<br>物质化学性质入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Basic Principles of Chemical Reactivity**<br>化学反应性基本原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
-| **Introduction to Economic Theory**<br>经济理论导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
+| **Introduction to Economic Theory**<br>经济理论入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Human-Environmental Interactions**<br>人类与环境的相互作用 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
-| **Our Dynamic World: An Introduction to Physical Geography**<br>我们的动态世界：自然地理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
+| **Our Dynamic World: An Introduction to Physical Geography**<br>我们的动态世界：自然地理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Principles of Ecology**<br>生态学原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Quantitative Chemical Analysis**<br>定量化学分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Methods of Chemical Analysis**<br>化学分析方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
@@ -29,8 +29,8 @@ ms.date: 2026-11-11
 | **Statistical Analysis I**<br>统计分析 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Elementary Biological Statistics I**<br>初级生物统计学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Quantitative and Theoretical Biology**<br>定量与理论生物学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
-| **Introduction to Computers in Chemistry**<br>化学中的计算机导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
+| **Introduction to Computers in Chemistry**<br>化学中的计算机入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Project Administration**<br>项目管理实务 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Calculus and Statistics**<br>微积分与统计学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |
 | **Geo-Environmental Fundamentals**<br>地质环境基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/env.pdf#page=9) |

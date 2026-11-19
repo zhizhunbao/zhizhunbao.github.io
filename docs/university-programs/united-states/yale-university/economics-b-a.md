@@ -1,10 +1,10 @@
 ---
-title: "3.4.29 Economics (B.A.)"
+title: "4.4.29 Economics (B.A.)"
 description: "University Programs > United States > Yale University > Economics (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.29 Economics (B.A.)
+# 4.4.29 Economics (B.A.)
 
 ## Glossary
 
@@ -12,21 +12,21 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Economics (B.A.)**<br>经济学（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Quantitative Foundations of Microeconomics**<br>微观经济学定量基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
-| **An Introduction to Microeconomic Analysis**<br>微观经济分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
-| **Introductory Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
-| **An Introduction to Macroeconomic Analysis**<br>宏观经济分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
-| **Introductory Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
+| **An Introduction to Microeconomic Analysis**<br>微观经济分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
+| **Introductory Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
+| **An Introduction to Macroeconomic Analysis**<br>宏观经济分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
+| **Introductory Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Intermediate Microeconomics**<br>中级微观经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Microeconomic Theory**<br>微观经济理论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Intermediate Macroeconomics**<br>中级宏观经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Macroeconomic Theory**<br>宏观经济理论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
-| **Introduction to Data Analysis and Econometrics**<br>数据分析与计量经济学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
+| **Introduction to Data Analysis and Econometrics**<br>数据分析与计量经济学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Intermediate Data Analysis and Econometrics**<br>中级数据分析与计量经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Econometrics**<br>计量经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
-| **Introduction to Functions of Several Variables**<br>多元函数导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
+| **Introduction to Functions of Several Variables**<br>多元函数入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
-| **Introduction to Functions and Calculus I**<br>函数与微积分导论 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
-| **Introduction to Functions and Calculus II**<br>函数与微积分导论 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
+| **Introduction to Functions and Calculus I**<br>函数与微积分入门 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
+| **Introduction to Functions and Calculus II**<br>函数与微积分入门 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Calculus of Functions of One Variable I**<br>一元函数微积分 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Calculus of Functions of One Variable II**<br>一元函数微积分 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |
 | **Mathematical Models in the Biosciences I: Calculus Techniques**<br>生物科学中的数学模型 I：微积分技术 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics/) |

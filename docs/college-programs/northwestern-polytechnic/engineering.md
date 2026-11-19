@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Success in Engineering**<br>工程学习成功之道 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/engineering-university-transfer) |
 | **Computer Programming for Engineers**<br>工程师计算机编程 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/engineering-university-transfer) |
 | **Engineering Mechanics**<br>工程力学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/engineering-university-transfer) |
-| **Introduction to Engineering Design, Communication, and Profession**<br>工程设计、沟通与职业导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/engineering-university-transfer) |
+| **Introduction to Engineering Design, Communication, and Profession**<br>工程设计、沟通与职业入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/engineering-university-transfer) |
 | **English for Engineering Students**<br>工程专业学生英语 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/engineering-university-transfer) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/engineering-university-transfer) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/engineering-university-transfer) |

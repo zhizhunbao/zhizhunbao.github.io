@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Computer Programming and Analysis**<br>计算机编程与分析 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **Technical Mathematics**<br>技术数学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
-| **Introduction to C++ Programming**<br>C++编程导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
+| **Introduction to C++ Programming**<br>C++编程入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **Networking 1**<br>网络 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **Databases 1**<br>数据库 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **PHP Programming**<br>PHP编程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **Object Oriented Programming using C++**<br>使用C++的面向对象编程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **Web Programming 2**<br>Web 编程 2 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
-| **Introduction to Game Programming**<br>游戏编程导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
+| **Introduction to Game Programming**<br>游戏编程入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **Intermediate Databases**<br>中级数据库 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **Database Administration and Design**<br>数据库管理与设计 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |
 | **COBOL Programming**<br>COBOL编程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming-and-analysis/full-time/kingston) |

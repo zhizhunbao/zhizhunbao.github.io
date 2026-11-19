@@ -14,11 +14,11 @@ ms.date: 2026-11-11
 | **Intermediate French I**<br>中级法语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
 | **Intermediate French II**<br>中级法语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
 | **Practical French for Exploring Literature**<br>探索文学的实用法语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
-| **Introduction to Québec Literature and Culture**<br>魁北克文学与文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
-| **Introduction to French Cultural and Literary Studies**<br>法国文化与文学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
-| **Introduction to French Literary Analysis**<br>法国文学分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
-| **The French Language: A Linguistic Introduction**<br>法语：语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
-| **Introduction to the History of the French Language**<br>法语史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
+| **Introduction to Québec Literature and Culture**<br>魁北克文学与文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
+| **Introduction to French Cultural and Literary Studies**<br>法国文化与文学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
+| **Introduction to French Literary Analysis**<br>法国文学分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
+| **The French Language: A Linguistic Introduction**<br>法语：语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
+| **Introduction to the History of the French Language**<br>法语史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
 | **Intermediate French III**<br>中级法语 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
 | **Intermediate French IV**<br>中级法语 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |
 | **Medieval French Literature**<br>中世纪法语文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1295) |

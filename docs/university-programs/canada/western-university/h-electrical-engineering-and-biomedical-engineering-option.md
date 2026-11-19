@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **PHYSICS FOR ENGINEERING STUDENTS II**<br>工科学生物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SCIENCE FUNDAMENTALS II**<br>计算机科学基础 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **ELECTRIC CIRCUITS**<br>电路 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ELECTRONICS**<br>电子学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ELECTRONICS**<br>电子学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **CIRCUITS AND SYSTEMS**<br>电路与系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **MAGNETIC CIRCUITS & TRANSMISSION LINES**<br>磁路与传输线 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **ELECTRICAL LABORATORY I**<br>电气实验 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
@@ -55,7 +55,7 @@ ms.date: 2026-11-11
 | **ELECTRICAL/COMPUTER DESIGN PROJECT**<br>电气/计算机设计项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED DIGITAL SIGNAL PROCESSING**<br>高级数字信号处理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **COMMUNICATIONS THEORY**<br>通信理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DIGITAL IMAGE PROCESSING**<br>数字图像处理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DIGITAL IMAGE PROCESSING**<br>数字图像处理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **MANAGING THE INNOVATION PROCESS**<br>创新过程管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **PLANNING AND PROJECT MANAGEMENT**<br>规划与项目管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **THE ENTREPRENEURIAL ENVIRONMENT**<br>创业环境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
@@ -77,11 +77,11 @@ ms.date: 2026-11-11
 | **DISEASE MARKERS AND PRECISION MEDICINE**<br>疾病标志物与精准医学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **SELECTED TOPICS IN MEDICAL SCIENCES**<br>医学科学精选专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **CELLULAR PHYSIOLOGY**<br>细胞生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BEHAVIOURAL AND COGNITIVE NEUROSCIENCE**<br>行为与认知神经科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COMPUTER ASSISTED SURGERY: THEORY AND PRACTICE**<br>计算机辅助手术导论：理论与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIOMATERIALS ENGINEERING**<br>生物材料工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BEHAVIOURAL AND COGNITIVE NEUROSCIENCE**<br>行为与认知神经科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COMPUTER ASSISTED SURGERY: THEORY AND PRACTICE**<br>计算机辅助手术入门：理论与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIOMATERIALS ENGINEERING**<br>生物材料工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED IMAGE PROCESSING AND ANALYSIS**<br>高级图像处理与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MOLECULAR IMAGING**<br>分子成像导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MOLECULAR IMAGING**<br>分子成像入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **IN VIVO MEDICAL IMAGING**<br>活体医学成像 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **PHOTONICS IN MEDICINE AND BIOLOGY**<br>医学与生物学中的光子学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |
 | **APPLIED MEDICAL IMAGING**<br>应用医学成像 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21608&SelectedCalendar=Live&ArchiveID=) |

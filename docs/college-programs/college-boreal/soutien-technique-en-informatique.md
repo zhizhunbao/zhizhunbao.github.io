@@ -19,9 +19,9 @@ ms.date: 2026-11-08
 | **Mathématiques informatiques**<br>计算机数学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
 | **Communication and Critical Thinking**<br>沟通与批判性思维 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
 | **Réseautique 2**<br>网络技术 2 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
-| **Introduction à l'administration des systèmes**<br>系统管理导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
+| **Introduction à l'administration des systèmes**<br>系统管理入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
 | **Programmation 2**<br>编程 2 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
-| **Introduction aux bases de données**<br>数据库导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
+| **Introduction aux bases de données**<br>数据库入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
 | **Appui et service technique**<br>技术支持与服务 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
 | **Stage en industrie**<br>行业实习 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/soutien-technique-en-informatique/) |
 

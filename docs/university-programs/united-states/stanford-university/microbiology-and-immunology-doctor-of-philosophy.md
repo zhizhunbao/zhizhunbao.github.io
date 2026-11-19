@@ -1,10 +1,10 @@
 ---
-title: "3.3.193 Microbiology and Immunology, Doctor of Philosophy"
+title: "4.3.193 Microbiology and Immunology, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Microbiology and Immunology, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.193 Microbiology and Immunology, Doctor of Philosophy
+# 4.3.193 Microbiology and Immunology, Doctor of Philosophy
 
 ## Glossary
 
@@ -28,7 +28,7 @@ ms.date: 2026-11-18
 | **Genomics**<br>基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/microbiology-and-immunology/doctor-of-philosophy) |
 | **Advanced Immunology II**<br>高级免疫学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/microbiology-and-immunology/doctor-of-philosophy) |
 | **How Cells Work: Energetics, Compartments, and Coupling in Cell Biology**<br>细胞如何运作：细胞生物学中的能量学、区室与耦合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/microbiology-and-immunology/doctor-of-philosophy) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/microbiology-and-immunology/doctor-of-philosophy) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/microbiology-and-immunology/doctor-of-philosophy) |
 
 ## Courses
 

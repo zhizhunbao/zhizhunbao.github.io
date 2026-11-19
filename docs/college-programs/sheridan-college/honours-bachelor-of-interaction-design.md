@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Design and Visual Language**<br>设计与视觉语言 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-interaction-design) |
 | **Interaction Design: Methods**<br>交互设计：方法 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-interaction-design) |
 | **History of Computational Media**<br>计算媒体史 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-interaction-design) |
-| **Introduction to Conceptual Process for Interaction Design**<br>交互设计概念流程导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-interaction-design) |
+| **Introduction to Conceptual Process for Interaction Design**<br>交互设计概念流程入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-interaction-design) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-interaction-design) |
 | **Design and Typography**<br>设计与排版 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-interaction-design) |
 | **Interaction Design: Behaviours**<br>交互设计：行为 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-interaction-design) |

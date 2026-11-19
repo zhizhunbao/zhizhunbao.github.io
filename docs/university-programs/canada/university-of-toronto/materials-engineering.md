@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Materials Engineering, Processing and Application**<br>材料工程、加工与应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
-| **Introduction to Materials Science and Engineering**<br>材料科学与工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
+| **Introduction to Materials Science and Engineering**<br>材料科学与工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Calculus and Differential Equations**<br>微积分与微分方程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Structure and Characterization of Materials**<br>材料的结构与表征 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Mechanics of Solid Materials**<br>固体材料力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-11
 | **Engineering Biology**<br>工程生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Cellular and Molecular Biology**<br>细胞与分子生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Biomaterials**<br>生物材料 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
-| **Introduction to Inorganic and Polymer Materials Chemistry**<br>无机与聚合物材料化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
+| **Introduction to Inorganic and Polymer Materials Chemistry**<br>无机与聚合物材料化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **\* Smart Materials and ManufacturingÂ**<br>智能材料与制造 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **AI Forensics: Trust, Bias, and Limits in Materials Modeling**<br>AI取证：材料建模中的信任、偏差与局限 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Synthesis of Nanostructured Materials**<br>纳米结构材料的合成 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
@@ -59,7 +59,7 @@ ms.date: 2026-11-11
 | **Mineral Processing**<br>选矿 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Manufacturing Engineering**<br>制造工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Mechanical Engineering Design**<br>机械工程设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
-| **Introduction to Quality Control**<br>质量控制导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
+| **Introduction to Quality Control**<br>质量控制入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Thermal Energy Conversion**<br>热能转换 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Mechanics of Solids II**<br>固体力学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |
 | **Circuits with Applications to Mechanical Engineering Systems**<br>电路及其在机械工程系统中的应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aemmsbasc) |

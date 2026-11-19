@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Employment Skills 2**<br>就业技能 2 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/carpentry-techniques/full-time/kingston) |
 | **Plans, Specifications, and Codes 3**<br>图纸、规格与规范 3 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/carpentry-techniques/full-time/kingston) |
 | **Estimating Calculations and Layouts 3**<br>估价计算与布局 3 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/carpentry-techniques/full-time/kingston) |
-| **Introduction to Metal Cutting and Welding**<br>金属切割与焊接导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/carpentry-techniques/full-time/kingston) |
+| **Introduction to Metal Cutting and Welding**<br>金属切割与焊接入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/carpentry-techniques/full-time/kingston) |
 
 ## Courses
 

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Nursing BScN**<br>护理学BScN | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/nursing-bscn) |
-| **Professional Nursing I: Introduction To The Profession Of Nursing**<br>专业护理 I：护理职业导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/nursing-bscn) |
+| **Professional Nursing I: Introduction To The Profession Of Nursing**<br>专业护理 I：护理职业入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/nursing-bscn) |
 | **Writing For The Professional Nurse**<br>专业护士写作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/nursing-bscn) |
 | **Human Anatomy & Physiology I**<br>人体解剖学与生理学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/nursing-bscn) |
 | **Experiential Learning Lab I**<br>体验式学习实验室 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/nursing-bscn) |

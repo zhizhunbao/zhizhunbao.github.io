@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **College Communication Skills**<br>大学沟通技能 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/pre-health-sciences-pathway-advanced-diplomas-and-degrees) |
 | **Computers in Human Services**<br>人类服务中的计算机 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/pre-health-sciences-pathway-advanced-diplomas-and-degrees) |
 | **Math I for PADD**<br>PADD数学 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/pre-health-sciences-pathway-advanced-diplomas-and-degrees) |
-| **Introduction to Canadian Health Care Providers**<br>加拿大医疗服务提供者导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/pre-health-sciences-pathway-advanced-diplomas-and-degrees) |
+| **Introduction to Canadian Health Care Providers**<br>加拿大医疗服务提供者入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/pre-health-sciences-pathway-advanced-diplomas-and-degrees) |
 | **Biology II for PADD**<br>药物成瘾与发育障碍项目生物学 II | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/pre-health-sciences-pathway-advanced-diplomas-and-degrees) |
 | **Chemistry II**<br>化学 II | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/pre-health-sciences-pathway-advanced-diplomas-and-degrees) |
 | **Laboratory Skills**<br>实验室技能 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/pre-health-sciences-pathway-advanced-diplomas-and-degrees) |

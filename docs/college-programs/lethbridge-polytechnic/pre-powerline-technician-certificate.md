@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Pre-Powerline Technician Certificate**<br>电力线路技术员预备证书 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-powerline-technician-certificate) |
 | **Standard Workplace Safety and Codes**<br>标准职场安全与规范 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-powerline-technician-certificate) |
-| **Introduction to Electrical Theory**<br>电气理论导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-powerline-technician-certificate) |
-| **Introduction to Transformer Theory**<br>变压器理论导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-powerline-technician-certificate) |
+| **Introduction to Electrical Theory**<br>电气理论入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-powerline-technician-certificate) |
+| **Introduction to Transformer Theory**<br>变压器理论入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-powerline-technician-certificate) |
 | **Overhead Line Construction**<br>架空线路施工 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-powerline-technician-certificate) |
 | **Practicum Placement**<br>实习安置 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/pre-powerline-technician-certificate) |
 

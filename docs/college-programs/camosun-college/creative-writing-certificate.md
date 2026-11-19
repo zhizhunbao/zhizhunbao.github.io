@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Creative Writing, Certificate**<br>创意写作证书 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
 | **Advanced Fiction**<br>高级小说写作 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
 | **Fiction for Children and Youth**<br>儿童与青少年小说 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
-| **Introduction to Fiction**<br>小说导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
-| **Introduction to Speculative Fiction**<br>思辨小说导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
-| **Introduction to Scriptwriting**<br>剧本写作导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
-| **Introduction to Poetry**<br>诗歌导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
-| **Introduction to Personal Narrative**<br>个人叙事导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
-| **Introduction to Creative Nonfiction**<br>创意非虚构写作导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
+| **Introduction to Fiction**<br>小说入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
+| **Introduction to Speculative Fiction**<br>思辨小说入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
+| **Introduction to Scriptwriting**<br>剧本写作入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
+| **Introduction to Poetry**<br>诗歌入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
+| **Introduction to Personal Narrative**<br>个人叙事入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
+| **Introduction to Creative Nonfiction**<br>创意非虚构写作入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
 | **Publishing**<br>出版 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
 | **Editing**<br>剪辑 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |
 | **Indigenous Literature**<br>原住民文学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/creative-writing-certificate) |

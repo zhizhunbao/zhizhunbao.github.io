@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/recreation-and-sport-administration/courses?id=36542) |
 | **Placement and Career Readiness**<br>实习安置与职业准备 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/recreation-and-sport-administration/courses?id=36542) |
 | **Safety in the Workplace**<br>工作场所安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/recreation-and-sport-administration/courses?id=36542) |
-| **Introduction to Recreation and Sports Contexts**<br>康乐与体育背景导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/recreation-and-sport-administration/courses?id=36542) |
+| **Introduction to Recreation and Sports Contexts**<br>康乐与体育背景入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/recreation-and-sport-administration/courses?id=36542) |
 | **Recreation and Sport Participation Across the Lifespan**<br>全生命周期休闲与体育参与 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/recreation-and-sport-administration/courses?id=36542) |
 | **Inclusion and Access in Recreation and Sport**<br>康乐与体育中的包容与可及性 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/recreation-and-sport-administration/courses?id=36542) |
 | **Foundations of Recreation and Sport Administration**<br>康乐与体育管理基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/recreation-and-sport-administration/courses?id=36542) |

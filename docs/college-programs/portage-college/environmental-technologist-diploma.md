@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **FISHERIES**<br>渔业 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **INTRODUCTORY COMPOSITION**<br>入门写作 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **FIELD BOTANY**<br>野外植物学 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
-| **INTRODUCTION TO SOILS**<br>土壤导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
+| **INTRODUCTION TO SOILS**<br>土壤入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **WATER AND WETLANDS**<br>水域与湿地 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **MAPPING AND NAVIGATION**<br>制图与导航 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **WEEDS AND WEED CONTROL**<br>杂草与杂草控制 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **ENVIRONMENTAL LAW**<br>环境法 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **SOIL CONSERVATION**<br>土壤保持 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **GLOBAL ISSUES**<br>全球议题 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
-| **INTRODUCTION TO EARTH SCIENCES: GEOLOGY & GEOMORPHOLOGY**<br>地球科学导论：地质学与地貌学 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
+| **INTRODUCTION TO EARTH SCIENCES: GEOLOGY & GEOMORPHOLOGY**<br>地球科学入门：地质学与地貌学 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **GPS SITE ASSESSMENT**<br>GPS现场评估 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **STATISTICS AND DATA MANAGEMENT**<br>统计与数据管理 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |
 | **PRINCIPLES OF ECOLOGY**<br>生态学原理 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Environmental-Technologist) |

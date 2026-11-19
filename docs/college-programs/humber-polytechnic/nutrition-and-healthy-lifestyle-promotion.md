@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Nutrition and Healthy Lifestyle Promotion**<br>营养与健康生活方式促进 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/nutrition-and-healthy-lifestyle-promotion) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/nutrition-and-healthy-lifestyle-promotion) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/nutrition-and-healthy-lifestyle-promotion) |
 | **Interprofessional Education: Exploring Professional Roles and Responsibilities**<br>跨专业教育：探索专业角色与职责 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/nutrition-and-healthy-lifestyle-promotion) |
 | **Math in Food and Nutrition**<br>食品与营养中的数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/nutrition-and-healthy-lifestyle-promotion) |
 | **Fundamentals of Nutrition**<br>营养学基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/nutrition-and-healthy-lifestyle-promotion) |

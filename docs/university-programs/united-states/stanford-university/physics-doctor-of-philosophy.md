@@ -1,10 +1,10 @@
 ---
-title: "3.3.201 Physics, Doctor of Philosophy"
+title: "4.3.201 Physics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Physics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.201 Physics, Doctor of Philosophy
+# 4.3.201 Physics, Doctor of Philosophy
 
 ## Glossary
 
@@ -27,7 +27,7 @@ ms.date: 2026-11-18
 | **Electrons and Photons**<br>电子与光子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Atoms, Fields and Photons**<br>原子、场与光子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Quantum Materials**<br>量子材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Laboratory Electronics**<br>实验室电子学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Principles of X-ray Scattering**<br>X 射线散射原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Quantum Hardware**<br>量子硬件 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-18
 | **ULTRACOLD QUANTUM PHYSICS**<br>超冷量子物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **A modern explainable AI approach to Theoretical Neuroscience**<br>理论神经科学的现代可解释AI方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Cellular Biophysics**<br>细胞生物物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
-| **Introduction to Accelerator Physics**<br>加速器物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
+| **Introduction to Accelerator Physics**<br>加速器物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Literature of Quantum Simulation**<br>量子模拟文献 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Biological Macromolecules**<br>生物大分子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Computational Biology: Structure and Organization of Biomolecules and Cells**<br>计算生物学：生物分子与细胞的结构与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
@@ -63,11 +63,11 @@ ms.date: 2026-11-18
 | **Partially Ionized Plasmas and Gas Discharges**<br>部分电离等离子体与气体放电 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Back of the Envelope Physics**<br>信封背面物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Stochastic and Nonlinear Dynamics**<br>随机与非线性动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
-| **Introduction to Nuclear Energy**<br>核能导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
-| **Introduction to Particle Physics I**<br>粒子物理导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
-| **Introduction to Stellar and Galactic Astrophysics**<br>恒星与星系天体物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
-| **Introduction to Cosmology and Extragalactic Astrophysics**<br>宇宙学与河外天体物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
+| **Introduction to Nuclear Energy**<br>核能入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
+| **Introduction to Particle Physics I**<br>粒子物理入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
+| **Introduction to Stellar and Galactic Astrophysics**<br>恒星与星系天体物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
+| **Introduction to Cosmology and Extragalactic Astrophysics**<br>宇宙学与河外天体物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **General Relativity**<br>广义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Statistical Methods in Experimental Physics**<br>实验物理中的统计方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |
 | **Statistical Methods in Astrophysics**<br>天体物理学中的统计方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/physics/doctor-of-philosophy) |

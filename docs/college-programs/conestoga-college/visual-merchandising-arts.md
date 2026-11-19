@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Creative Technologies I**<br>创意技术 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/visual-merchandising-arts/courses?id=36211) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/visual-merchandising-arts/courses?id=36211) |
 | **Retail Merchandising I**<br>零售商品陈列 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/visual-merchandising-arts/courses?id=36211) |
-| **Introduction to Window Displays**<br>橱窗展示导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/visual-merchandising-arts/courses?id=36211) |
+| **Introduction to Window Displays**<br>橱窗展示入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/visual-merchandising-arts/courses?id=36211) |
 | **Prop Production I**<br>道具制作 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/visual-merchandising-arts/courses?id=36211) |
 | **Creative Technologies II**<br>创意技术 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/visual-merchandising-arts/courses?id=36211) |
 | **Retail Merchandising II**<br>零售商品陈列 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/visual-merchandising-arts/courses?id=36211) |

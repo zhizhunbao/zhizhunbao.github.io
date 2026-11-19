@@ -1,10 +1,10 @@
 ---
-title: "3.4.70 Portuguese (B.A.)"
+title: "4.4.70 Portuguese (B.A.)"
 description: "University Programs > United States > Yale University > Portuguese (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.70 Portuguese (B.A.)
+# 4.4.70 Portuguese (B.A.)
 
 ## Glossary
 

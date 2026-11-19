@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Lab Techniques - Hematology**<br>实验室技术 - 血液学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlba/) |
 | **Lab Techniques - Microbiology**<br>实验室技术 - 微生物学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlba/) |
 | **Lab Techniques - Chemistry**<br>实验室技术 - 化学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlba/) |
-| **Introduction to Transfusion**<br>输血导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlba/) |
+| **Introduction to Transfusion**<br>输血入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlba/) |
 | **MLA Clinical Internship**<br>MLA 临床实习 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlba/) |
 | **Select 1 course from the General Education list during registration.**<br>注册时从通识教育列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlba/) |
 

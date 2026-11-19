@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Controls & Wiring**<br>控制与接线 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heating-systems-technician) |
 | **Oil Heat System Math Fundamentals**<br>燃油供暖系统数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heating-systems-technician) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heating-systems-technician) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heating-systems-technician) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heating-systems-technician) |
 | **Low Pressure Steam Systems**<br>低压蒸汽系统 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heating-systems-technician) |
 | **Design & Analysis**<br>设计与分析 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heating-systems-technician) |
 | **Hydronic Heating Systems I**<br>水暖供暖系统 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heating-systems-technician) |

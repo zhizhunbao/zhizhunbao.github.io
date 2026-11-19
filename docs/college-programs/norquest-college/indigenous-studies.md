@@ -11,24 +11,24 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Indigenous Studies**<br>原住民研究 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Studies I**<br>原住民研究 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Ways of Knowing and Being**<br>原住民认知与存在方式 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Political Realities**<br>原住民政治现实 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
-| **Introduction to Indigenous Literature and Storytelling**<br>原住民文学与讲故事导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
+| **Introduction to Indigenous Literature and Storytelling**<br>原住民文学与讲故事入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Studies II**<br>原住民研究 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Inuit Perspectives and Experiences**<br>因纽特人的观点与经历 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
-| **Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
+| **Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Land-Based Learning**<br>基于土地的学习 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Theory and Thought**<br>原住民理论与思想 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Health and Wellness**<br>原住民健康与福祉 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Women's and Gender Studies**<br>妇女与性别研究 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Global Indigenous Issues**<br>全球原住民议题 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Community Action and Engagement**<br>社区行动与参与 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
-| **Introduction to Cree Language**<br>克里语导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
+| **Introduction to Cree Language**<br>克里语入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Art Studies**<br>原住民艺术研究 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Resolution Strategies**<br>原住民解决策略 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |
 | **Indigenous Business and Economics**<br>原住民商业与经济 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/indigenous-studies/costs-and-courses/) |

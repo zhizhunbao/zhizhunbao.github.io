@@ -1,10 +1,10 @@
 ---
-title: "3.3.161 Communication, Doctor of Philosophy"
+title: "4.3.161 Communication, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Communication, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.161 Communication, Doctor of Philosophy
+# 4.3.161 Communication, Doctor of Philosophy
 
 ## Glossary
 
@@ -31,8 +31,8 @@ ms.date: 2026-11-18
 | **Political Methodology I: Regression**<br>政治方法论 I：回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
 | **Political Methodology II: Causal Inference**<br>政治方法论 II：因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
 | **Race, Space, and Stratification**<br>种族、空间与分层 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
 | **Meta-research: Appraising Research Findings, Bias, and Meta-analysis**<br>元研究：评估研究发现、偏倚与荟萃分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |
 | **Statistical Models of Text and Language**<br>文本与语言的统计模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/doctor-of-philosophy) |

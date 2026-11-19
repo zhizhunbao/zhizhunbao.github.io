@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Animation**<br>动画 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://www.mohawkcollege.ca/programs/creative-industries/animation) |
 | **Animation 1**<br>动画 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=393&prg_ver=26-A) |
 | **Studio Drawing**<br>工作室绘画 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=393&prg_ver=26-A) |
-| **Digital Media Introduction**<br>数字媒体导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=393&prg_ver=26-A) |
+| **Digital Media Introduction**<br>数字媒体入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=393&prg_ver=26-A) |
 | **Design 1**<br>设计 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=393&prg_ver=26-A) |
 | **Storyboarding Introduction**<br>分镜入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=393&prg_ver=26-A) |
 | **Life Drawing for Animation 1**<br>动画人体写生 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=393&prg_ver=26-A) |

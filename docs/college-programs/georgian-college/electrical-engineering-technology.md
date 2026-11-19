@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **DC Circuit Fundamentals**<br>直流电路基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eety/) |
 | **Applied Engineering Math**<br>应用工程数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eety/) |
 | **Physical Sciences**<br>物理科学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eety/) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eety/) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eety/) |
 | **Select 1 course from the General Education list during registration.**<br>注册时从通识教育列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eety/) |
 | **CAD Electrical Circuits**<br>CAD 电路 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eety/) |
 | **AC Circuit Fundamentals**<br>交流电路基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eety/) |

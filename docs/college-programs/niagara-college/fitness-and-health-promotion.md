@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Equity, Diversity and Inclusion in Canada**<br>加拿大的公平、多元与包容 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/justiceandfitness/program/fitness-health-promotion/) |
 | **Exercise Prescription**<br>运动处方 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/justiceandfitness/program/fitness-health-promotion/) |
 | **Group Exercise**<br>团体运动 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/justiceandfitness/program/fitness-health-promotion/) |
-| **Introduction to Biomechanics**<br>生物力学导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/justiceandfitness/program/fitness-health-promotion/) |
+| **Introduction to Biomechanics**<br>生物力学入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/justiceandfitness/program/fitness-health-promotion/) |
 | **Nutrition in Exercise Science**<br>运动科学中的营养 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/justiceandfitness/program/fitness-health-promotion/) |
 | **Special Populations I**<br>特殊人群 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/justiceandfitness/program/fitness-health-promotion/) |
 | **Field Placement I - Fitness**<br>实习 I - 健身 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/justiceandfitness/program/fitness-health-promotion/) |

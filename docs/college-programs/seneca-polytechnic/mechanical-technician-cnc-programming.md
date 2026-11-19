@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **CNC Technology**<br>CNC技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MTCP/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MTCP/courses.html) |
 | **Electricity**<br>电学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MTCP/courses.html) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MTCP/courses.html) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MTCP/courses.html) |
 | **Electronic Lab Instrumentation and Techniques**<br>电子实验室仪器与技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MTCP/courses.html) |
 | **Mathematics with Foundations**<br>数学（含基础） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MTCP/courses.html) |
 | **Mechanical Designs and Drawing**<br>机械设计与制图 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MTCP/courses.html) |

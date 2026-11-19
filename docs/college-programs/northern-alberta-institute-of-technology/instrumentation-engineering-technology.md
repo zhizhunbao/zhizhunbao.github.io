@@ -17,9 +17,9 @@ ms.date: 2026-11-08
 | **Industrial Practices**<br>工业实践 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
 | **Physics for Instrumentation**<br>仪表物理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
 | **Technical Math, Data Analysis and Calculus I**<br>技术数学、数据分析与微积分 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
 | **Electrical II**<br>电气 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
-| **Introduction to Unit Operations**<br>单元操作导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
+| **Introduction to Unit Operations**<br>单元操作入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
 | **Effective Communications**<br>有效沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
 | **Process Instruments II**<br>过程仪表 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |
 | **Calculus II, Differential Equations and Statistics**<br>微积分 II、微分方程与统计学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/instrumentation-engineering-technology) |

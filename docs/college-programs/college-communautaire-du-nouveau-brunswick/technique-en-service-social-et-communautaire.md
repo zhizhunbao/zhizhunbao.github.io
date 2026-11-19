@@ -32,10 +32,10 @@ ms.date: 2026-11-08
 | **Relation d'aide II**<br>助人关系 II | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
 | **Dimensions du bien-être**<br>健康的维度 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
 | **Animation de groupe et pratique**<br>团体活动带领与实践 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
-| **Introduction à la sociologie**<br>社会学导论 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
+| **Introduction à la sociologie**<br>社会学入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
 | **Développement communautaire**<br>社区发展 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
 | **Agence d'administration et levée de fonds**<br>行政代理机构与筹款 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
-| **Introduction à la psychologie**<br>心理学导论 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
+| **Introduction à la psychologie**<br>心理学入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
 | **Habiletés d'écriture appliquée**<br>应用写作技能 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
 | **Principes de comportement et d'intervention**<br>行为与干预原理 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |
 | **English for Work (B1.1)**<br>职场英语（B1.1） | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technique-en-service-social-et-communautaire/) |

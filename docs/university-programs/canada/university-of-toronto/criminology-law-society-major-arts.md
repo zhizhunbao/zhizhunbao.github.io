@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminology, Law & Society - Major (Arts)**<br>犯罪学、法学与社会－主修（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Criminology, Law & Society**<br>犯罪学、法律与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Criminology, Law & Society**<br>犯罪学、法律与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Writing for University and Beyond**<br>面向大学及以后的写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Theories in Criminology**<br>犯罪学理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **The Logic of Social Inquiry**<br>社会探究的逻辑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Quantitative Analysis of Social Data**<br>社会数据的定量分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Drugs and Popular Culture**<br>药物与流行文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to the Sociology of Genocide**<br>种族灭绝社会学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to the Sociology of Genocide**<br>种族灭绝社会学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **The Politics of Violence**<br>暴力政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Crime and Organizations**<br>犯罪与组织 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Canadian Criminal Justice**<br>加拿大刑事司法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
@@ -76,18 +76,18 @@ ms.date: 2026-11-11
 | **Hate Crime**<br>仇恨犯罪 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Senior Seminar in Law and Society**<br>法律与社会高年级研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Sociology of Legal Careers**<br>法律职业社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Forensic Anthropology**<br>法医人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Forensic Anthropology**<br>法医人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **War, Trade and Aid: The Anthropology of Global Intervention**<br>战争、贸易与援助：全球干预人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Forensic Anthropology Field School**<br>法医人类学野外学校 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Protest, Power and Authority: Topics in Political Anthropology**<br>抗议、权力与权威：政治人类学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Capitalism and its Rebels**<br>资本主义及其反叛者 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Religious Violence and Nonviolence**<br>宗教暴力与非暴力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Advanced Forensic Anthropology**<br>高级法医人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Forensic Psychology**<br>法医心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Forensic Science**<br>法医科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Forensic Psychology**<br>法医心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Forensic Science**<br>法医科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Ethics and Professionalism in Forensic Science**<br>法医学中的伦理与专业精神 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Evidence, Law and Forensic Science in Canada**<br>加拿大的证据、法律与法医学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction To 3D Crime Scene Mapping And Reconstruction**<br>3D犯罪现场测绘与重建导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction To 3D Crime Scene Mapping And Reconstruction**<br>3D犯罪现场测绘与重建入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Probability and Inductive Logic**<br>概率与归纳逻辑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Social and Political Philosophy**<br>社会与政治哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Ethics and the Law**<br>伦理与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
@@ -97,14 +97,14 @@ ms.date: 2026-11-11
 | **Issues in Philosophy of Law**<br>法哲学问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Issues in Normative Ethics**<br>规范伦理学问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Issues in Metaethics**<br>元伦理学问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Contemporary Challenges in International Relations**<br>国际关系的当代挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Canadian Government**<br>加拿大政府 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Canadian Politics**<br>加拿大政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **International Law**<br>国际法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Social Psychology**<br>社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Personality Science**<br>人格科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Abnormal Psychology**<br>变态心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Social Psychology**<br>社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Personality Science**<br>人格科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Abnormal Psychology**<br>变态心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Cognition: The Machinery of the Mind**<br>认知：心智的机制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Psychology and the Law**<br>心理学与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Abnormal Psychology: Adult Disorders**<br>异常心理学：成人障碍 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
@@ -131,7 +131,7 @@ ms.date: 2026-11-11
 | **Sociology of Race and Ethnicity**<br>种族与族裔社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Migrant Labour**<br>移民劳工 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **The Sociology of Disasters**<br>灾难社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| **Introduction to Women, Public Policy and the Law**<br>妇女、公共政策与法律导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| **Introduction to Women, Public Policy and the Law**<br>妇女、公共政策与法律入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Critical Race Theory in Women and Gender Studies**<br>妇女与性别研究中的批判种族理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Gender, Race, and Surveillance**<br>性别、种族与监控 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | **Gender, Justice and the Law**<br>性别、正义与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
@@ -335,19 +335,19 @@ ms.date: 2026-11-11
 | Higher Years | Group C - Enrichment Courses (or) | SOC499H5 | Research Opportunity Program | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | Higher Years | Group C - Enrichment Courses (or) | SOC499Y5 | Research Opportunity Program | 1.0 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 | Higher Years | Group C - Enrichment Courses |  | Note: |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC100H5 | Introduction to Sociology | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC109H5 | Introduction to Criminology, Law & Society | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC205H5 | Theories in Criminology | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC221H5 | The Logic of Social Inquiry | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC222H5 | Quantitative Analysis of Social Data | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC231H5 | Classical Sociological Theory | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC350H5 | Quantitative Analysis | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC387H5 | Qualitative Analysis | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere | SOC440Y5 | Research Project in Criminology, Law and Society | 1.0 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere |  | If any of the above credits are completed outside of UTM, students will be required to complete the UTM version of the |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere |  | course and it will be designated as an EXT course. Special consideration may be given to new students assessed for |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere |  | transfer credit at UTM. |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
-| Higher Years | Students are not permitted to take any of the following courses elsewhere |  | ERMAJ0727 |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC100H5 | Introduction to Sociology | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC109H5 | Introduction to Criminology, Law & Society | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC205H5 | Theories in Criminology | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC221H5 | The Logic of Social Inquiry | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC222H5 | Quantitative Analysis of Social Data | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC231H5 | Classical Sociological Theory | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC350H5 | Quantitative Analysis | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC387H5 | Qualitative Analysis | 0.5 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere | SOC440Y5 | Research Project in Criminology, Law and Society | 1.0 | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere |  | If any of the above credits are completed outside of UTM, students will be required to complete the UTM version of the |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere |  | course and it will be designated as an EXT course. Special consideration may be given to new students assessed for |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere |  | transfer credit at UTM. |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
+| Higher Years | Group C - Enrichment Courses; Students are not permitted to take any of the following courses elsewhere |  | ERMAJ0727 |  | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0727) |
 
 ## References
 

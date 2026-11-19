@@ -1,10 +1,10 @@
 ---
-title: "3.1.35 Near Eastern Languages and Civilizations (B.A.)"
+title: "4.1.35 Near Eastern Languages and Civilizations (B.A.)"
 description: "University Programs > United States > Harvard University > Near Eastern Languages and Civilizations (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.35 Near Eastern Languages and Civilizations (B.A.)
+# 4.1.35 Near Eastern Languages and Civilizations (B.A.)
 
 ## Glossary
 
@@ -17,8 +17,8 @@ ms.date: 2026-11-18
 | **Food, Identity and the Biblical World**<br>食物、身份与圣经世界 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **What Is a Book? From the Clay Tablet to the Kindle (Stern) S22**<br>何为书？从泥板到Kindle（Stern）S22 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Pyramid Schemes: What Can Ancient Egyptian Civilization Teach Us? (Manuelian) S22**<br>金字塔计划：古埃及文明能教给我们什么？（Manuelian）S22 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Islamic Philosophy and Theology (El-Rouayheb) F21**<br>伊斯兰哲学与神学导论（El-Rouayheb）F21 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Islamic Mystical Traditions (Asani) F21**<br>伊斯兰神秘主义传统导论（Asani）F21 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Islamic Philosophy and Theology (El-Rouayheb) F21**<br>伊斯兰哲学与神学入门（El-Rouayheb）F21 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Islamic Mystical Traditions (Asani) F21**<br>伊斯兰神秘主义传统入门（Asani）F21 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **The Modern Middle East, Real and Imagined (Zeghal) F21**<br>现代中东：真实与想象（Zeghal）F21 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Historical Background to the Contemporary Middle East (Barjamovic) S22**<br>当代中东的历史背景（Barjamovic）S22 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Literary and Visual Narrative in the Persian Epic Tradition (Landau) F21**<br>波斯史诗传统中的文学与视觉叙事（Landau）F21 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |

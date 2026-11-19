@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baccalauréat ès arts avancé en psychologie**<br>文学学士，心理学高级 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts-baccalaureat-es-arts-avance-en-psychologie/index.html) |
-| **Introduction à la recherche en psychologie**<br>心理学研究导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts-baccalaureat-es-arts-avance-en-psychologie/index.html) |
-| **Introduction aux méthodes de recherche en psychologie**<br>心理学研究方法导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts-baccalaureat-es-arts-avance-en-psychologie/index.html) |
+| **Introduction à la recherche en psychologie**<br>心理学研究入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts-baccalaureat-es-arts-avance-en-psychologie/index.html) |
+| **Introduction aux méthodes de recherche en psychologie**<br>心理学研究方法入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts-baccalaureat-es-arts-avance-en-psychologie/index.html) |
 
 ## Courses
 

@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Select 1 course from the General Education list during registration.**<br>注册时从通识教育列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/rels/) |
 | **Fitness and Wellness**<br>健身与健康 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/rels/) |
 | **Financial Analysis**<br>财务分析 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/rels/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/rels/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/rels/) |
 | **Event Planning**<br>活动策划 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/rels/) |
 | **Recreation Across the Lifespan**<br>全生命周期休闲活动 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/rels/) |
 | **Dynamic Presentations**<br>动态演示 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/rels/) |

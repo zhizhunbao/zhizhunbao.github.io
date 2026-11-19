@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Journalisme**<br>新闻学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Actualité**<br>时事 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Francophonie**<br>法语国家与地区 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
-| **Introduction au photojournalisme**<br>摄影新闻导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
+| **Introduction au photojournalisme**<br>摄影新闻入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Journalisme numérique**<br>数字新闻 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Techniques vocales**<br>声乐技巧 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
-| **Introduction à l'écriture journalistique**<br>新闻写作导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
+| **Introduction à l'écriture journalistique**<br>新闻写作入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Citoyenneté canadienne**<br>加拿大公民身份 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Santé, environnement et prévention des infections**<br>健康、环境与感染预防 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **De l'identité à la culture**<br>从身份认同到文化 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
@@ -33,10 +33,10 @@ ms.date: 2026-11-08
 | **Communication orale en milieu professionnel**<br>职业口头沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Communication écrite en milieu professionnel**<br>职场书面沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Balado**<br>播客 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
-| **Introduction au journalisme d'enquête**<br>调查性新闻导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
+| **Introduction au journalisme d'enquête**<br>调查性新闻入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Animation et Storytelling**<br>动画与叙事 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Journalisme écrit**<br>书面新闻 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
-| **Introduction à la production vidéo**<br>视频制作导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
+| **Introduction à la production vidéo**<br>视频制作入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Foundations of English**<br>英语基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Oral Communication: Beginner Level**<br>口语交际：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |
 | **Oral Communication: Intermediate Level**<br>口语交际：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51050) |

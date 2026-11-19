@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Book and Media Studies Major (Arts Program)**<br>图书与媒体研究主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
-| **Introduction to Book & Media Studies**<br>图书与媒体研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
+| **Introduction to Book & Media Studies**<br>图书与媒体研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Book & Media Histories**<br>图书与媒体史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Information Literacy, Writing, and Research for Book & Media Studies**<br>图书与媒体研究的信息素养、写作与研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Special Topics in Book & Media Theories**<br>书籍与媒体理论专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
@@ -69,8 +69,8 @@ ms.date: 2026-11-11
 | **The Celtic Book**<br>凯尔特书籍 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Staging Britishness from Shakespeare to the BBC**<br>从莎士比亚到BBC：英国性的舞台呈现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Reviewing, Reception, and Reading Communities**<br>书评、接受与阅读社群 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
-| **Introduction to Digital Humanities**<br>数字人文导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
-| **Virtual Worlds: Introduction to Spatial Digital Humanities**<br>虚拟世界：空间数字人文导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
+| **Introduction to Digital Humanities**<br>数字人文入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
+| **Virtual Worlds: Introduction to Spatial Digital Humanities**<br>虚拟世界：空间数字人文入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **From Book to Map to Video Game: Texts and their Digital Transformations**<br>从书到地图再到电子游戏：文本及其数字转型 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Japanese Cinemas I: Film Form and the Problems of Modernity**<br>日本电影 I：电影形式与现代性问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Japanese Cinemas II: Film Form and the Problems of Modernity**<br>日本电影 II：电影形式与现代性问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
@@ -91,7 +91,7 @@ ms.date: 2026-11-11
 | **New Writing in Canada**<br>加拿大新写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Literary Theory**<br>文学理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Social Media and Environmentalism**<br>社交媒体与环保主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
-| **Introduction to the History of Photography**<br>摄影史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
+| **Introduction to the History of Photography**<br>摄影史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Illuminated Manuscripts**<br>彩饰手抄本 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **19th Century Photography**<br>19世纪摄影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |
 | **Art Writing**<br>艺术写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1300) |

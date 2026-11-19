@@ -12,9 +12,9 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Cybersecurity**<br>网络安全学士 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
 | **Communications 1: Critical Thinking and Writing**<br>沟通 1：批判性思维与写作 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
-| **Introduction to Information Security**<br>信息安全导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
-| **Introduction to Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
+| **Introduction to Information Security**<br>信息安全入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
+| **Introduction to Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
 | **Math for Computing**<br>计算数学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
 | **Breadth Elective Credit**<br>广度选修学分 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |
 | **Cryptography Fundamentals**<br>密码学基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-cybersecurity) |

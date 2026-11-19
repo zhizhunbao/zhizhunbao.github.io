@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Sport Business Management**<br>体育商业管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/business-hospitality/program/sport-business-management/) |
 | **Field Placement 1**<br>现场实习 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6073X01FWO.pdf) |
-| **Introduction to Sport Management**<br>体育管理导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6073X01FWO.pdf) |
+| **Introduction to Sport Management**<br>体育管理入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6073X01FWO.pdf) |
 | **Driving Revenue in Sport Applied Project**<br>体育收入增长应用项目 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6073X01FWO.pdf) |
 | **Communication in Sport**<br>体育沟通 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6073X01FWO.pdf) |
 | **Sport Tourism**<br>体育旅游 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6073X01FWO.pdf) |

@@ -14,12 +14,12 @@ ms.date: 2026-11-08
 | **Workplace Communications**<br>职场沟通 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
 | **Hearing Aids and Bioacoustics I**<br>助听器与生物声学 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
 | **Anatomy and Physiology of the Ear**<br>耳的解剖学与生理学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
-| **Introduction to Hearing Aids**<br>助听器导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
-| **Introduction to Hearing Testing and Clinical Practices**<br>听力测试与临床实践导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
+| **Introduction to Hearing Aids**<br>助听器入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
+| **Introduction to Hearing Testing and Clinical Practices**<br>听力测试与临床实践入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
 | **Hearing Disorders**<br>听力障碍 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
-| **Introduction to Hearing Aid Fitting, Analysis and Verification**<br>助听器验配、分析与验证导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
-| **Introduction to Audiometry**<br>听力测定导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
-| **Clinical Practicum Introduction**<br>临床实习导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
+| **Introduction to Hearing Aid Fitting, Analysis and Verification**<br>助听器验配、分析与验证入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
+| **Introduction to Audiometry**<br>听力测定入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
+| **Clinical Practicum Introduction**<br>临床实习入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
 | **Hearing Aids and Bioacoustics II**<br>助听器与生物声学 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
 | **Hearing Instrument Practitioner Regulation**<br>助听器验配师监管 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |
 | **Advanced Fitting and Clinical Practices**<br>高级验配与临床实践 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphear) |

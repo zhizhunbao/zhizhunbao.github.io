@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Calculus 2**<br>微积分 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Fundamentals of Physics 2**<br>物理基础2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
-| **Introduction to Chemistry for Engineers**<br>工程师化学导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
+| **Introduction to Chemistry for Engineers**<br>工程师化学入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Engineering Design & Problem Solving**<br>工程设计与问题解决 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Technical Communication**<br>技术沟通 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Degree Breadth Elective**<br>学位广度选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Electronics Principles**<br>电子学原理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Electro-Mechanical Actuators and Drives**<br>机电执行器与驱动 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
-| **Introduction to Energy Systems**<br>能源系统导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
+| **Introduction to Energy Systems**<br>能源系统入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Fluid Dynamics**<br>流体动力学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Design of Machine Elements 1**<br>机械零件设计1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |
 | **Dynamics of Machines**<br>机器动力学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-engineering-mechanical) |

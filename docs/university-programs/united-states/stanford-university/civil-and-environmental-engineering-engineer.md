@@ -1,10 +1,10 @@
 ---
-title: "3.3.82 Civil and Environmental Engineering, Engineer"
+title: "4.3.82 Civil and Environmental Engineering, Engineer"
 description: "University Programs > United States > Stanford University > Civil and Environmental Engineering, Engineer: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.82 Civil and Environmental Engineering, Engineer
+# 4.3.82 Civil and Environmental Engineering, Engineer
 
 ## Glossary
 
@@ -16,7 +16,7 @@ ms.date: 2026-11-18
 | **Weather and Storms**<br>天气与风暴 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/engineer) |
 | **Air Pollution and Global Warming: History, Science, and Solutions**<br>空气污染与全球变暖：历史、科学与解决方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/engineer) |
 | **Movement and Fate of Organic Contaminants in Waters**<br>水中有机污染物的迁移与归宿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/engineer) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/engineer) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/engineer) |
 | **Hydrodynamics**<br>流体动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/engineer) |
 | **Rivers, Streams, and Canals**<br>河流、溪流与运河 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/engineer) |
 | **Mechanics and Finite Elements**<br>力学与有限元 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/civil-and-environmental-engineering/engineer) |

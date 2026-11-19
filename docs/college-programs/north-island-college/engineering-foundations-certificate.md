@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Computer Programming with C++**<br>C++编程 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
 | **Computer Programming II**<br>计算机编程 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
 | **Engineering Mechanics 1: Statics and Dynamics**<br>工程力学 1：静力学与动力学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
-| **Introduction to Engineering I**<br>工程导论 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
-| **Introduction to Engineering II**<br>工程导论 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
+| **Introduction to Engineering I**<br>工程入门 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
+| **Introduction to Engineering II**<br>工程入门 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
 | **Matrix Algebra**<br>矩阵代数 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/engineering-foundation-certificate.html) |

@@ -1,10 +1,10 @@
 ---
-title: "3.1.80 Master of Science – Biostatistics (42.5-credit)"
+title: "4.1.80 Master of Science – Biostatistics (42.5-credit)"
 description: "University Programs > United States > Harvard University > Master of Science – Biostatistics (42.5-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.80 Master of Science – Biostatistics (42.5-credit)
+# 4.1.80 Master of Science – Biostatistics (42.5-credit)
 
 ## Glossary
 
@@ -16,7 +16,7 @@ ms.date: 2026-11-18
 | **Applied Data Structures and Algorithms**<br>应用数据结构与算法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Applied Survival Analysis**<br>应用生存分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Applied Longitudinal Analysis**<br>应用纵向分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
-| **Introduction to Statistical Genetics**<br>统计遗传学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
+| **Introduction to Statistical Genetics**<br>统计遗传学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Applied Bayesian Analysis**<br>应用贝叶斯分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Advanced Regression and Statistical Learning**<br>高级回归与统计学习 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Computing for Big Data**<br>大数据计算 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |

@@ -1,17 +1,17 @@
 ---
-title: "3.1.31 Mathematics (B.A.)"
+title: "4.1.31 Mathematics (B.A.)"
 description: "University Programs > United States > Harvard University > Mathematics (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.31 Mathematics (B.A.)
+# 4.1.31 Mathematics (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mathematics (B.A.)**<br>数学（文学学士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Calculus (Offered both semesters.)**<br>微积分导论（两个学期均开设） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Calculus (Offered both semesters.)**<br>微积分入门（两个学期均开设） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Calculus, Series and Differential Equations (Offered both semesters.)**<br>微积分、级数与微分方程（两个学期均开设） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Multivariable Calculus (Offered both semesters.)**<br>多元微积分（两个学期均开设） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Linear Algebra and Differential Equations (Offered both semesters.)**<br>线性代数与微分方程（两个学期均开设） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |

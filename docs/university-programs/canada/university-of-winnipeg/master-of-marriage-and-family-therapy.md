@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Treating Relational Trauma**<br>治疗关系创伤 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mft.pdf#page=1) |
 | **Family Therapy Plans and Interventions**<br>家庭治疗方案与干预 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mft.pdf#page=1) |
 | **Health, Aging and Work of Adulthood**<br>成年期的健康、老龄化与工作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mft.pdf#page=1) |
-| **Marriage and Family Therapy as a Profession**<br>婚姻与家庭治疗职业导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mft.pdf#page=1) |
+| **Marriage and Family Therapy as a Profession**<br>婚姻与家庭治疗职业入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mft.pdf#page=1) |
 | **Family Therapy Research Methods**<br>家庭治疗研究方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mft.pdf#page=1) |
 | **Supervised Marriage and Family Therapy**<br>督导婚姻与家庭治疗 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mft.pdf#page=1) |
 

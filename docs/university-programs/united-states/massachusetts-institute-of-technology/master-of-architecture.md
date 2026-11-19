@@ -1,10 +1,10 @@
 ---
-title: "3.2.63 Master of Architecture"
+title: "4.2.63 Master of Architecture"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Architecture: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.63 Master of Architecture
+# 4.2.63 Master of Architecture
 
 ## Glossary
 
@@ -19,7 +19,7 @@ ms.date: 2026-11-18
 | **Architecture Design Option Studio**<br>建筑设计选修工作室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-architecture/) |
 | **Positions: Cultivating Critical Practice**<br>立场：培养批判性实践 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-architecture/) |
 | **Professional Practice**<br>专业实践 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-architecture/) |
-| **Introduction to Structural Design**<br>结构设计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-architecture/) |
+| **Introduction to Structural Design**<br>结构设计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-architecture/) |
 | **Building Technology Systems: Structures and Envelopes**<br>建筑技术系统：结构与围护 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-architecture/) |
 | **Environmental Technologies in Buildings**<br>建筑环境技术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-architecture/) |
 | **Selected Topics in Architecture: 1750 to the Present**<br>建筑专题：1750年至今 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-architecture/) |

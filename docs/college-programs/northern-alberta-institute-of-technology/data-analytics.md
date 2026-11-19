@@ -14,10 +14,10 @@ ms.date: 2026-11-08
 | **Data Prep 1**<br>数据准备 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
 | **Data Project Business Analysis**<br>数据项目业务分析 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
 | **Data Programming Fundamentals**<br>数据编程基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
-| **Introduction to Statistical Learning**<br>统计学习导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
+| **Introduction to Statistical Learning**<br>统计学习入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
 | **Communicating Insights**<br>传达洞察 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
 | **Data Governance and Organization Structure**<br>数据治理与组织结构 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
-| **Introduction to Machine Learning and Artificial Intelligence**<br>机器学习与人工智能导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
+| **Introduction to Machine Learning and Artificial Intelligence**<br>机器学习与人工智能入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
 | **Data Wrangling and Feature Engineering**<br>数据整理与特征工程 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
 | **Data Visualization Business Reporting**<br>数据可视化商业报告 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |
 | **Data Analytics Capstone**<br>数据分析毕业设计项目 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/data-analytics) |

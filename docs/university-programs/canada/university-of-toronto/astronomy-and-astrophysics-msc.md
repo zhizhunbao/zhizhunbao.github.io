@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Astronomy and Astrophysics MSc**<br>天文学与天体物理学（MSc） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
 | **Directed Research**<br>指导研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
 
 ## Courses

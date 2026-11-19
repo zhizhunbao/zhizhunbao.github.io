@@ -12,15 +12,15 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Commerce**<br>商学学士 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
-| **Introduction to Critical Analysis**<br>批判性分析导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
+| **Introduction to Critical Analysis**<br>批判性分析入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
 | **Elementary Calculus I**<br>初等微积分 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
 | **Basic Psychological Processes**<br>基础心理过程 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
-| **Intro to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
+| **Intro to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
 | **Fine Arts / Humanities / Social Sciences / Sciences / Junior English**<br>美术/人文/社会科学/科学/低年级英语 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
 | **Case Studies in Research**<br>研究案例分析 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
 | **Individual and Social Behaviour**<br>个体与社会行为 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/bachelor-of-commerce/) |
 
 ## Courses
 

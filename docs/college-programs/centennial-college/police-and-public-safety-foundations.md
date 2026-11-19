@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Fitness 3**<br>体能 3 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/police-foundations) |
 | **Community and Experiential Policing**<br>社区与体验式警务 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/police-foundations) |
 | **Police Preparation**<br>警务预备 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/police-foundations) |
-| **Introduction to Emergency Management**<br>应急管理导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/police-foundations) |
+| **Introduction to Emergency Management**<br>应急管理入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/police-foundations) |
 
 ## Courses
 

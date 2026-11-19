@@ -39,13 +39,13 @@ ms.date: 2026-11-08
 | **Refrigerant Flow Controls and Accessory Devices**<br>制冷剂流量控制与附属装置 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
 | **Refrigeration Air Conditioning Installation**<br>制冷空调安装 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
 | **Control Circuits and Wiring Diagrams**<br>控制电路与接线图 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
 | **Refrigeration Math Fundamentals**<br>制冷数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/refrigeration-and-air-conditioning-mechanic) |
 
 ## Courses
 

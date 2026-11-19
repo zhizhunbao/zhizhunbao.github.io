@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Music MA; Field: Music Education**<br>音乐（MA）；领域：音乐教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Research in Music Education**<br>音乐教育研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Research in Music Education**<br>音乐教育研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Philosophy and Music Education**<br>哲学与音乐教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **MA Major Essay**<br>文学硕士主修论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 

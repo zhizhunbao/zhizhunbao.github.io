@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Information and Communication Technology**<br>信息与通信技术 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdict) |
-| **Introduction to Programming I**<br>编程导论 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdict) |
+| **Introduction to Programming I**<br>编程入门 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdict) |
 | **Multimedia Web Development**<br>多媒体网页开发 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdict) |
 | **Advanced Integrated Software Development**<br>高级集成软件开发 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdict) |
 | **Systems Analysis & Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdict) |

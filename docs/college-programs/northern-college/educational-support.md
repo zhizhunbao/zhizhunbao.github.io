@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Educational Support**<br>教育支持 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
 | **Literacy Fundamentals Part 1 – Primary/Junior**<br>读写能力基础 第1部分 - 小学初级 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
-| **Introduction to the Role of Educational Support**<br>教育支持角色导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
+| **Introduction to the Role of Educational Support**<br>教育支持角色入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
 | **Working in a Team Environment**<br>团队环境中的工作 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
-| **Introduction to Exceptionalities and Individualized Education Plans (IEPs)**<br>特殊需求与个别化教育计划（IEP）导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
-| **Introduction to Interpersonal Relationships**<br>人际关系导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
+| **Introduction to Exceptionalities and Individualized Education Plans (IEPs)**<br>特殊需求与个别化教育计划（IEP）入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
+| **Introduction to Interpersonal Relationships**<br>人际关系入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
 | **Field Placement Orientation and Observation**<br>实习 定向与观察 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |
 | **Literacy Fundamentals Part 2 – Intermediate/Senior**<br>读写能力基础 第2部分 - 中高年级 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/educational-support/) |

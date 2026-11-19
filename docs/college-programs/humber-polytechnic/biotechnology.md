@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Biotechnology**<br>生物技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Foundations of Biology for Biotechnology**<br>生物技术生物学基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Chemistry I**<br>化学 I | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
-| **Introduction to Biotechnology**<br>生物技术导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
+| **Introduction to Biotechnology**<br>生物技术入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Biotechniques Laboratory 1**<br>生物技术实验课 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Mathematics for Biotechnology**<br>生物技术数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Data Collection Techniques and Biostatistical Methods**<br>数据收集技术与生物统计方法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Human and Cellular Physiology for Biotechnology**<br>生物技术人体与细胞生理学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Immunology**<br>免疫学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Interprofessional Education: Exploring Team Communication**<br>跨专业教育：探索团队沟通 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Biotechniques Laboratory 2**<br>生物技术实验课 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |
 | **Chemical Techniques Laboratory 2**<br>化学技术实验课 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/biotechnology) |

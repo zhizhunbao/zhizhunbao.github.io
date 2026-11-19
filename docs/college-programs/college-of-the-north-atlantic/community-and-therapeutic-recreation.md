@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Community and Therapeutic Recreation**<br>社区与治疗性休闲 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
-| **Intro to Community Recreation**<br>社区康乐导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
+| **Intro to Community Recreation**<br>社区康乐入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Program Planning**<br>项目策划 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
-| **Intro to Therapeutic Recreation**<br>治疗性娱乐导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
+| **Intro to Therapeutic Recreation**<br>治疗性娱乐入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Health & Wellness I**<br>健康与保健 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Workplace Correspondence**<br>职场书信 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Field Placement I**<br>现场实习 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
-| **Intro to Mental Health**<br>心理健康导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
+| **Intro to Mental Health**<br>心理健康入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Culture, Diversity, and Inclusion**<br>文化、多样性与包容 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Health & Wellness II**<br>健康与保健 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Recreation Programming for the Older Adult**<br>老年人休闲活动策划 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Risk Management & Legal Liability**<br>风险管理与法律责任 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Principles & Procedures of Therapeutic Recreation**<br>治疗性娱乐原理与流程 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
-| **Intro to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
+| **Intro to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Special Events Management**<br>特殊活动管理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 | **Field Placement IV**<br>现场实习 IV | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/community-and-therapeutic-recreation) |
 

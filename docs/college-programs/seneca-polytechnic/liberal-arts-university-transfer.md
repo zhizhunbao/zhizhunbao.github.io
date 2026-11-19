@@ -20,17 +20,17 @@ ms.date: 2026-11-08
 | **Introductory French or Introductory Spanish**<br>法语入门或西班牙语入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **Humanities: The Development of Western Thought II**<br>人文学科：西方思想的发展 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **Foundations of Psychology II**<br>心理学基础 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
-| **Introduction to Sociology I: Social Inequality**<br>社会学导论 I：社会不平等 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
+| **Introduction to Sociology I: Social Inequality**<br>社会学入门 I：社会不平等 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **Critical Thinking II**<br>批判性思维 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **Academic Research and Writing II**<br>学术研究与写作 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **Intermediate French or Intermediate Spanish**<br>中级法语或中级西班牙语 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **Humanities: The Development of Western Thought III**<br>人文学科：西方思想的发展 III | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
-| **Introduction to Sociology II: Social Inequality**<br>社会学导论 II：社会不平等 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
-| **Introduction to World Literature I**<br>世界文学导论 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
+| **Introduction to Sociology II: Social Inequality**<br>社会学入门 II：社会不平等 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
+| **Introduction to World Literature I**<br>世界文学入门 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **A Social History of Canada**<br>加拿大社会史 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **European Art and Culture**<br>欧洲艺术与文化 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 | **Humanities: The Development of Western Thought IV**<br>人文学科：西方思想的发展 IV | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
-| **Introduction to World Literature II**<br>世界文学导论 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
+| **Introduction to World Literature II**<br>世界文学入门 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAT/courses.html) |
 
 ## Courses
 

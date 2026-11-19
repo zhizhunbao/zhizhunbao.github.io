@@ -1,10 +1,10 @@
 ---
-title: "3.3.6 Art History, Major: Bachelor of Arts"
+title: "4.3.6 Art History, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Art History, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.6 Art History, Major: Bachelor of Arts
+# 4.3.6 Art History, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -14,19 +14,19 @@ ms.date: 2026-11-18
 | **Art and Power**<br>艺术与权力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Writing and the Visual: The Art of Art Writing**<br>写作与视觉：艺术写作的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Junior Seminar: Methods & Historiography of Art History**<br>大三研讨课：艺术史的方法与史学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **How to Look at Art and Why: An Introduction to the History of Western Painting**<br>如何看艺术及为何看：西方绘画史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **How to Look at Art and Why: An Introduction to the History of Western Painting**<br>如何看艺术及为何看：西方绘画史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Asian Arts and Cultures**<br>亚洲艺术与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **Introduction to Islamic Art**<br>伊斯兰艺术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **Introduction to Film Study**<br>电影研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **Introduction to Islamic Art**<br>伊斯兰艺术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **Introduction to Film Study**<br>电影研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Media and Mediums**<br>媒体与媒介 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **The Artist in Ancient Greek Society**<br>古希腊社会中的艺术家 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **Introduction to Greek Art I: The Archaic Period**<br>希腊艺术导论 I：古风时期 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **Introduction to Greek Art II: From the Parthenon to Scopas**<br>希腊艺术导论 II：从帕特农神庙到斯科帕斯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **Introduction to Greek Art I: The Archaic Period**<br>希腊艺术入门 I：古风时期 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **Introduction to Greek Art II: From the Parthenon to Scopas**<br>希腊艺术入门 II：从帕特农神庙到斯科帕斯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Byzantine Art and Architecture, 300-1453 C.E.**<br>拜占庭艺术与建筑，公元300至1453年 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Love at First Sight: Visual Desire, Attraction, and the Pleasures of Art**<br>一见钟情：视觉欲望、吸引与艺术之乐 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Islam and Water**<br>伊斯兰与水 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **Introduction to Early Andean Visual Culture: Interspecies Value and More-than-Human Presence**<br>早期安第斯视觉文化导论：物种间价值与超越人类的存在 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **Introduction to Early Andean Visual Culture: Interspecies Value and More-than-Human Presence**<br>早期安第斯视觉文化入门：物种间价值与超越人类的存在 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **East Asian Buddhist Painting: Visions and Practices**<br>东亚佛教绘画：愿景与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **American Architecture**<br>美国建筑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Cultures in Competition: Arts of Song-Era China, 960-1279 CE**<br>竞争中的文化：宋代中国的艺术，公元960至1279年 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
@@ -55,7 +55,7 @@ ms.date: 2026-11-18
 | **The American Civil War: A Ghost Story**<br>美国内战：一个鬼故事 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Nineteenth-Century Visual Culture in Europe: The Art World en masse**<br>十九世纪欧洲视觉文化：艺术界的大众化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Modern Africa: Art and Decolonization**<br>现代非洲：艺术与去殖民化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **Introduction to Global Modern Art**<br>全球现代艺术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **Introduction to Global Modern Art**<br>全球现代艺术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Architecture Since 1900**<br>1900年以来的建筑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Censorship in American Art**<br>美国艺术中的审查 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Queer America: Art, Photography, and Politics**<br>酷儿美国：艺术、摄影与政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
@@ -75,7 +75,7 @@ ms.date: 2026-11-18
 | **Wonder: The Event of Art and Literature**<br>惊奇：艺术与文学的事件 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **The Art of the Uncanny**<br>怪诞的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Material Metonymy: Ceramics and Asian America**<br>物质转喻：陶瓷与亚裔美国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
-| **Introduction to Museum Practice**<br>博物馆实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
+| **Introduction to Museum Practice**<br>博物馆实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Riot: Visualizing Civil Unrest in the 20th and 21st Centuries**<br>骚乱：20世纪与21世纪民众动乱的可视化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **Latin American Art and Literature: 100 Years of Modernisms**<br>拉丁美洲艺术与文学：现代主义 100 年 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |
 | **The Video Essay: Writing with Video about Media and Culture**<br>视频论文：用视频书写媒体与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/art-history/bachelor-of-arts) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.162 Comparative Literature, Doctor of Philosophy"
+title: "4.3.162 Comparative Literature, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Comparative Literature, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.162 Comparative Literature, Doctor of Philosophy
+# 4.3.162 Comparative Literature, Doctor of Philosophy
 
 ## Glossary
 
@@ -14,7 +14,7 @@ ms.date: 2026-11-18
 | **Graduate Studies Colloquium**<br>研究生学习研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/comparative-literature/doctor-of-philosophy) |
 | **Comparative Literature Pro-seminar**<br>比较文学预备研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/comparative-literature/doctor-of-philosophy) |
 | **The Learning and Teaching of Second Languages**<br>第二语言的学与教 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/comparative-literature/doctor-of-philosophy) |
-| **Introduction to the Profession of Literary Studies**<br>文学研究职业导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/comparative-literature/doctor-of-philosophy) |
+| **Introduction to the Profession of Literary Studies**<br>文学研究职业入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/comparative-literature/doctor-of-philosophy) |
 
 ## Courses
 

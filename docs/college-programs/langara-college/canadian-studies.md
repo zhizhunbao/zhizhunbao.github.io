@@ -18,8 +18,8 @@ ms.date: 2026-11-08
 | **Canadian First Nations' Concerns**<br>加拿大第一民族关切 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
 | **Work in Canadian Society**<br>加拿大社会中的工作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
 | **Racism and Ethnic Relations in Canada**<br>加拿大的种族主义与族群关系 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
@@ -44,9 +44,9 @@ ms.date: 2026-11-08
 | **Canadian Politics and Government**<br>加拿大政治与政府 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
 | **Canadian Public Policy**<br>加拿大公共政策 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
 | **Canadian Public Administration**<br>加拿大公共行政 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
-| **Introduction to Sociology: Structures and Processes**<br>社会学导论：结构与过程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
-| **Investigating Women's Realities: An Introduction**<br>探究女性的现实处境：导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
-| **Exploring Women's Lives: An Introduction**<br>探索女性生活：导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
+| **Introduction to Sociology: Structures and Processes**<br>社会学入门：结构与过程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
+| **Investigating Women's Realities: An Introduction**<br>探究女性的现实处境：入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
+| **Exploring Women's Lives: An Introduction**<br>探索女性生活：入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/canadian-studies-associate-arts-degree/courses) |
 
 ## Courses
 

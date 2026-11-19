@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Inspection Methods - CMM**<br>检验方法 - CMM | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mechanical-engineering-technology-automotive-product-design) |
 | **Technical Mathematics I**<br>技术数学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mechanical-engineering-technology-automotive-product-design) |
 | **Physics**<br>物理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mechanical-engineering-technology-automotive-product-design) |
-| **Introduction To Chemistry I, (Laboratory)**<br>化学导论 I（实验） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mechanical-engineering-technology-automotive-product-design) |
+| **Introduction To Chemistry I, (Laboratory)**<br>化学入门 I（实验） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mechanical-engineering-technology-automotive-product-design) |
 | **Applied Engineering I**<br>应用工程 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mechanical-engineering-technology-automotive-product-design) |
 | **PC CAD II - GD & T**<br>PC CAD II - GD & T | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mechanical-engineering-technology-automotive-product-design) |
 | **Analysis Of Electrical Circuits**<br>电路分析 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/mechanical-engineering-technology-automotive-product-design) |

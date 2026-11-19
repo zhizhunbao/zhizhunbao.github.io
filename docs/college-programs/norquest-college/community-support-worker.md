@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Community Support Worker**<br>社区支持工作者 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/) |
 | **Written Communication**<br>书面沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
 | **Utilizing Technology**<br>技术运用 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
-| **Introduction to Community Support Work**<br>社区支持工作导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
-| **Introduction to Indigenous World Views**<br>原住民世界观导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
+| **Introduction to Community Support Work**<br>社区支持工作入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
+| **Introduction to Indigenous World Views**<br>原住民世界观入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
 | **Understanding Community I**<br>理解社区 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
-| **Introduction to Disability Studies**<br>残障研究导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
+| **Introduction to Disability Studies**<br>残障研究入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
 | **Working with Older Adults**<br>与老年人合作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
-| **Introduction to Settlement Work I: Global Context**<br>安置工作导论 1：全球背景 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
+| **Introduction to Settlement Work I: Global Context**<br>安置工作入门 1：全球背景 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
 | **Community Support Work Field Experience**<br>社区支持工作现场体验 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/community-support-worker/costs-and-courses/) |
 
 ## Courses

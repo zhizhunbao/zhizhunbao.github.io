@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **Celtic Studies Specialist (Arts Program)**<br>凯尔特研究专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **The Celts in the Ancient and Medieval World**<br>古代与中世纪世界的凯尔特人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Irish and British Identities from Macbeth to Yeats**<br>从麦克白到叶芝的爱尔兰与英国身份认同 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
-| **Introduction to the Irish Language**<br>爱尔兰语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
-| **An Introduction to Scottish Gaelic**<br>苏格兰盖尔语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
+| **Introduction to the Irish Language**<br>爱尔兰语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
+| **An Introduction to Scottish Gaelic**<br>苏格兰盖尔语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Modern Welsh**<br>现代威尔士语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Lowland Scots Language and Literature**<br>低地苏格兰语言与文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Intermediate Irish Language I**<br>中级爱尔兰语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-11
 | **Romantic Scotland**<br>浪漫的苏格兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Ireland, Race and Empires**<br>爱尔兰、种族与帝国 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Middle Welsh**<br>中古威尔士语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
-| **Introduction to Old Irish**<br>古爱尔兰语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
+| **Introduction to Old Irish**<br>古爱尔兰语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Directed Research**<br>指导研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Senior Essay in Celtic Studies**<br>凯尔特研究高年级论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |
 | **Middle Ages by the Numbers**<br>数字中的中世纪 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1682) |

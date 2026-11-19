@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **4th Class Power Engineering Theory II**<br>四级动力工程理论 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/chemical-engineering-technology) |
 | **Alternative Energy and Processing Technologies**<br>替代能源与加工技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/chemical-engineering-technology) |
 | **Process Operations**<br>过程操作 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/chemical-engineering-technology) |
-| **Introduction to Project Management and Economic Evaluation**<br>项目管理与经济评价导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/chemical-engineering-technology) |
+| **Introduction to Project Management and Economic Evaluation**<br>项目管理与经济评价入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/chemical-engineering-technology) |
 | **Process Equipment Design**<br>过程设备设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/chemical-engineering-technology) |
 | **Process Industry Environmental Regulations & Protection**<br>过程工业环境法规与保护 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/chemical-engineering-technology) |
 | **Technical Report**<br>技术报告 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/chemical-engineering-technology) |

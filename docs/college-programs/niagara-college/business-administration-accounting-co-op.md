@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Canadian Income Tax II**<br>加拿大所得税 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-accounting-coop/) |
 | **Intermediate Accounting III**<br>中级会计 III | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-accounting-coop/) |
 | **Management Cost Accounting II**<br>管理成本会计 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-accounting-coop/) |
-| **Introduction to Business Analytics**<br>商业分析导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-accounting-coop/) |
+| **Introduction to Business Analytics**<br>商业分析入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-accounting-coop/) |
 | **Project Management Fundamentals**<br>项目管理基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-accounting-coop/) |
 | **Auditing Fundamentals**<br>审计基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-accounting-coop/) |
 | **Accounting for Public and Not-for-Profit Entities**<br>公共与非营利实体会计 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-accounting-coop/) |

@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Applied Computer Science, 3-Year BSc (Health Informatics Stream)**<br>应用计算机科学，3 年制 BSc（健康信息学方向） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Human Computer Interaction**<br>人机交互 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Programming Fundamentals I b)**<br>编程基础 I b) | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Principles in Information Systems Science**<br>信息系统科学原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Programming Fundamentals I**<br>编程基础 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
@@ -35,22 +35,22 @@ ms.date: 2026-11-11
 | **Advanced Internet Programming**<br>高级互联网编程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Computer Networks**<br>计算机网络 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Software Design and Architecture**<br>软件设计与架构 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Introduction to Game Development**<br>游戏开发导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Introduction to Game Development**<br>游戏开发入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Scientific Principles of Fitness and Conditioning**<br>健身与体能训练的科学原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Fundamentals of Financial Accounting**<br>财务会计基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Introduction to Managerial Accounting**<br>管理会计导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Introduction to Managerial Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Nutrition for Health and Wellness**<br>健康与保健营养学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Fundamentals of Organizational Behaviour**<br>组织行为学基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Fundamentals of Marketing**<br>市场营销基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Introduction to Clinical Psychology**<br>临床心理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Introduction to Clinical Psychology**<br>临床心理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Fundamentals of Production and Operational Management**<br>生产与运营管理基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Introduction to Economic Theory**<br>经济理论导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Introduction to Research Design and Qualitative Research**<br>研究设计与定性研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Challenges of a Changing World: An**<br>变化世界的挑战：导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Elementary Biological Statistics I Introduction to Human Geography**<br>初级生物统计学 I 人文地理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Introduction to Economic Theory**<br>经济理论入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Introduction to Research Design and Qualitative Research**<br>研究设计与定性研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Challenges of a Changing World: An**<br>变化世界的挑战：入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Elementary Biological Statistics I Introduction to Human Geography**<br>初级生物统计学 I 人文地理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Population Geography**<br>人口地理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Health Geography**<br>健康地理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
-| **Introduction to Conflict Resolution Studies**<br>冲突解决研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
+| **Introduction to Conflict Resolution Studies**<br>冲突解决研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 | **Conflict Theory and Analysis**<br>冲突理论与分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/acs.pdf#page=4) |
 
 ## Courses

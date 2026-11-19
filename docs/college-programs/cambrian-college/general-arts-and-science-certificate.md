@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **General Arts and Science Certificate**<br>通识文理证书 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **Thinking, Reasoning, Relating**<br>思考、推理、关联 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
-| **Introduction To Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
+| **Introduction To Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **Service Learning Experience**<br>服务学习体验 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **Digital Skills for Success**<br>成功所需数字技能 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **Essentials of Mathematics**<br>数学基础 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Global Issues**<br>全球议题 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **Introductory Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **Modes of Reasoning**<br>推理模式 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
-| **Introduction To Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
+| **Introduction To Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **Cross-Cultural Understanding**<br>跨文化理解 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 | **One General Education Course**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/general-arts-and-science-certificate) |
 

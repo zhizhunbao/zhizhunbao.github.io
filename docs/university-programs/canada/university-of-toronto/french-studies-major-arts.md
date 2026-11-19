@@ -12,9 +12,9 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **French Studies - Major (Arts)**<br>法语研究－主修（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
 | **French Language Skills and Learning Strategies for University Study**<br>大学学习的法语语言技能与学习策略 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
-| **Introduction to French Studies**<br>法国研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
+| **Introduction to French Studies**<br>法国研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
 | **Interpreting French Narratives**<br>解读法语叙事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
-| **A Linguistic Introduction to the French Language**<br>法语语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
+| **A Linguistic Introduction to the French Language**<br>法语语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
 | **Intermediate Language Practice: Written French**<br>中级语言实践：法语写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
 | **Intermediate Language Practice: Spoken French**<br>中级语言实践：法语口语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |
 | **Advanced Language Practice: Written French**<br>高级语言实践：法语写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1295) |

@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **English - Cultural Studies Joint Honours Component (B.A.)**<br>英语－文化研究联合荣誉组成部分（B.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/) |
-| **Introduction to Cultural Studies.**<br>文化研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/) |
-| **Introduction to Film Studies.**<br>电影研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/) |
+| **Introduction to Cultural Studies.**<br>文化研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/) |
+| **Introduction to Film Studies.**<br>电影研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/) |
 | **The Poetics of the Image.**<br>图像诗学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/) |
 | **Honours Essay.**<br>荣誉论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/) |
 | **Shakespeare.**<br>莎士比亚 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/) |

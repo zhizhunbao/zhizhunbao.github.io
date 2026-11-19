@@ -14,10 +14,10 @@ ms.date: 2026-11-11
 | **Mechanics of Deformable Bodies I**<br>变形体力学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Calculus for Engineering III**<br>工程微积分 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Introductory Statistics for Engineering**<br>工程统计学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Mechanical Engineering**<br>机械工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Mechanical Engineering**<br>机械工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Fundamentals of Thermodynamics**<br>热力学基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Engineering Mechanics II**<br>工程力学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Thermo-Fluid Sciences**<br>热流体科学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Thermo-Fluid Sciences**<br>热流体科学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Mechanical Design I**<br>机械设计 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Engineering Graphics and CAD**<br>工程图学与 CAD | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Fundamentals of Electrical Engineering**<br>电气工程基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
@@ -52,21 +52,21 @@ ms.date: 2026-11-11
 | **Numerical Simulation in Mechanical Engineering Design**<br>机械工程设计中的数值模拟 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Applied Computational Fluid Dynamics**<br>应用计算流体力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Finite Element Method for Mechanical Engineering**<br>机械工程有限元法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Accounting**<br>会计学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Accounting for Financial Performance**<br>财务绩效会计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Accounting**<br>会计学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Accounting for Financial Performance**<br>财务绩效会计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Legal Foundations of the Canadian Economy**<br>加拿大经济的法律基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Law of Business Organizations**<br>商业组织法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **International Business Transactions**<br>国际商业交易 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Biological Diversity**<br>生物多样性导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Biological Diversity**<br>生物多样性入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Molecular Genetics and Heredity**<br>分子遗传学与遗传 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Human Anatomy and Physiology: Cells and Tissue**<br>人体解剖与生理学：细胞与组织 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Human Anatomy and Physiology: Systems**<br>人体解剖与生理学：系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Imaging Methods in Medicine**<br>医学中的成像方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Rehabilitation Engineering: Assisted Movement After Injury**<br>康复工程：损伤后的辅助运动 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Fundamentals of Magnetic Resonance Imaging, MRI**<br>磁共振成像（MRI）基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Biomaterials**<br>生物材料导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Biomaterials**<br>生物材料入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Biophysical Measurement and Instrumentation**<br>生物物理测量与仪器 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
@@ -82,10 +82,10 @@ ms.date: 2026-11-11
 | **Reliability Engineering**<br>可靠性工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Maintenance Management**<br>维护管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Engineering Project Management**<br>工程项目管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Optimization Models and Algorithms**<br>优化模型与算法导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Optimization Models and Algorithms**<br>优化模型与算法入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Ergonomics and Work Design**<br>人因工程与工作设计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Finance**<br>金融学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Finance**<br>金融学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Corrosion, Oxidation, and Degradation**<br>腐蚀、氧化与降解 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Special Topics in Materials Engineering**<br>材料工程专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Nanomaterials and Biomedical Applications**<br>纳米材料与生物医学应用 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
@@ -97,7 +97,7 @@ ms.date: 2026-11-11
 | **Energy Conversion**<br>能量转换 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Experimental Design Project II**<br>实验设计项目 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Biomechanical Modelling of Human Tissues and Systems**<br>人体组织与系统的生物力学建模 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
-| **Introduction to Research (see Note 2)**<br>研究导论（见注 2） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
+| **Introduction to Research (see Note 2)**<br>研究入门（见注 2） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Research Project (see Note 2)**<br>研究项目（见注 2） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Aerodynamics**<br>空气动力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |
 | **Combustion Engines**<br>内燃机 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110540&returnto=20848) |

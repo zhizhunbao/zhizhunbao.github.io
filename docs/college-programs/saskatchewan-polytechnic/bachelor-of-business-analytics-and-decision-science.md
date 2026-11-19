@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Business Analytics and Decision Science**<br>商业分析与决策科学学士 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Bachelor-of-Business-Analytics-and-Decision-Science.aspx) |
-| **Introduction to Business Analytics**<br>商业分析导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Bachelor-of-Business-Analytics-and-Decision-Science.aspx) |
+| **Introduction to Business Analytics**<br>商业分析入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Bachelor-of-Business-Analytics-and-Decision-Science.aspx) |
 | **Business Analytics Research Foundations**<br>商业分析研究基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Bachelor-of-Business-Analytics-and-Decision-Science.aspx) |
 | **Calculus and Problem Solving**<br>微积分与问题解决 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Bachelor-of-Business-Analytics-and-Decision-Science.aspx) |
 | **Communications for Business Analytics**<br>商业分析沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Bachelor-of-Business-Analytics-and-Decision-Science.aspx) |

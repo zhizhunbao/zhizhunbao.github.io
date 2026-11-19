@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Biomedical Engineering Technology**<br>生物医学工程技术 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/biomedical-engineering-technology) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/biomedical-engineering-technology) |
-| **Introduction to Biomedical Engineering Technology**<br>生物医学工程技术导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/biomedical-engineering-technology) |
+| **Introduction to Biomedical Engineering Technology**<br>生物医学工程技术入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/biomedical-engineering-technology) |
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/biomedical-engineering-technology) |
 | **Digital Fundamentals**<br>数字基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/biomedical-engineering-technology) |
 | **Electricity I**<br>电学 I | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/biomedical-engineering-technology) |

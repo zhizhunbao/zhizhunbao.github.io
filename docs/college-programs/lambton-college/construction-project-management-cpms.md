@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Construction Job Site Management II**<br>建设工地管理 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpms) |
 | **Advanced Blueprint Reading & Drafting**<br>高级蓝图识读与制图 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpms) |
 | **Project Scope & Quality Management**<br>项目范围与质量管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpms) |
-| **Introduction to Structural Systems**<br>结构体系导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpms) |
+| **Introduction to Structural Systems**<br>结构体系入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpms) |
 | **Construction Estimation**<br>建设工程估算 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpms) |
 | **MS Project & Excel**<br>MS Project与Excel | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpms) |
 | **Computer Applicationss & Estimating**<br>计算机应用与估价 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpms) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.190 Management Science and Engineering, Doctor of Philosophy"
+title: "4.3.190 Management Science and Engineering, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Management Science and Engineering, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.190 Management Science and Engineering, Doctor of Philosophy
+# 4.3.190 Management Science and Engineering, Doctor of Philosophy
 
 ## Glossary
 
@@ -35,8 +35,8 @@ ms.date: 2026-11-18
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Computing for Data Science**<br>数据科学计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Social and Economic Networks**<br>社会与经济网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Game Theory (Accelerated)**<br>博弈论导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Game Theory (Accelerated)**<br>博弈论入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Game Theory, Data Science and AI**<br>博弈论、数据科学与人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Economic Analysis**<br>经济分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Strategy in Technology-Based Companies**<br>科技型公司的战略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
@@ -51,13 +51,13 @@ ms.date: 2026-11-18
 | **Strategy Doctoral Research Seminar**<br>战略学博士研究研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Social Network Methods**<br>社会网络方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Optimization: Data Science**<br>优化导论：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Optimization (Accelerated)**<br>优化导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Optimization: Data Science**<br>优化入门：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Optimization (Accelerated)**<br>优化入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Optimization**<br>优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Probabilistic Analysis**<br>概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Stochastic Modeling**<br>随机建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Stochastic Simulation and Monte Carlo Methods**<br>随机模拟与蒙特卡罗方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Reliability and Resilience of Engineered Systems**<br>工程系统的可靠性与韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Project Course in Engineering Risk Analysis**<br>工程风险分析项目课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
@@ -102,7 +102,7 @@ ms.date: 2026-11-18
 | **Intermediate Econometrics I**<br>中级计量经济学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Intermediate Econometrics II**<br>中级计量经济学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Intermediate Epidemiologic and Clinical Research Methods**<br>中级流行病学与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Advanced Epidemiologic Methods**<br>高级流行病学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
@@ -113,13 +113,13 @@ ms.date: 2026-11-18
 | **Foundation Models for Healthcare**<br>面向医疗健康的基础模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **AI-Assisted Care**<br>AI辅助护理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Advanced Decision Science Methods and Modeling in Health**<br>健康领域的高级决策科学方法与建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析导论：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析入门：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Healthcare Operations Management**<br>医疗运营管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Health Policy Modeling**<br>健康政策建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Healthcare Systems Design**<br>医疗系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Machine Learning for Algorithmic Trading**<br>算法交易的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Investment Science**<br>投资科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |
 | **Advanced Investment Science**<br>高级投资科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/management-science-and-engineering/doctor-of-philosophy) |

@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Computer Programming – AI Solutions**<br>计算机编程 – AI解决方案 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
 | **IT Essentials: Computer Hardware Fundamentals**<br>IT基础：计算机硬件基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
-| **Introduction to Web Development**<br>Web开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
+| **Introduction to Web Development**<br>Web开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
 | **Fundamentals of Computing Logic**<br>计算逻辑基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
-| **Introduction to Data Management**<br>数据管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
+| **Introduction to Data Management**<br>数据管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
 | **Mathematics for Computer Technology I**<br>计算机技术数学 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
-| **Introduction to Software Development**<br>软件开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
+| **Introduction to Software Development**<br>软件开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
 | **Database Management**<br>数据库管理 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
-| **Introduction to Full-Stack Development**<br>全栈开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
+| **Introduction to Full-Stack Development**<br>全栈开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
 | **Linux Essentials**<br>Linux 要点 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
 | **Mathematics for Computer Technology II**<br>计算机技术数学 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |
 | **General Elective**<br>通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-ai-solutions-program-t199) |

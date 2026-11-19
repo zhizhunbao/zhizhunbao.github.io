@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Arts in Child and Youth Care**<br>儿童与青少年关怀文学学士 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bacycc) |
-| **Introduction to CYC Practice or Introduction to Indigenous Child and Youth Care Practice**<br>儿童与青少年关怀实务导论或原住民儿童与青少年关怀实务导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bacycc) |
-| **Introduction to Community or Working In Communities**<br>社区导论或社区工作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bacycc) |
+| **Introduction to CYC Practice or Introduction to Indigenous Child and Youth Care Practice**<br>儿童与青少年关怀实务入门或原住民儿童与青少年关怀实务入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bacycc) |
+| **Introduction to Community or Working In Communities**<br>社区入门或社区工作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bacycc) |
 | **Relationship Building with Children and Youth**<br>与儿童和青少年建立关系 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bacycc) |
 | **Change and Development: Lifespan**<br>变化与发展：全生命周期 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bacycc) |
 | **Lifespan Human Development**<br>人类毕生发展 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bacycc) |

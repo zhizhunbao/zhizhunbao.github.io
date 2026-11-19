@@ -1,10 +1,10 @@
 ---
-title: "3.4.89 Executive M.P.H. Program"
+title: "4.4.89 Executive M.P.H. Program"
 description: "University Programs > United States > Yale University > Executive M.P.H. Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.89 Executive M.P.H. Program
+# 4.4.89 Executive M.P.H. Program
 
 ## Glossary
 
@@ -23,7 +23,7 @@ ms.date: 2026-11-18
 | **Ethics in Public Health**<br>公共卫生伦理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/executive-mph-program/) |
 | **Integrative Applied Practice Experience for Midcareer Professionals I**<br>面向职业中期专业人员的综合应用实践经历 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/executive-mph-program/) |
 | **Integrative Applied Practice Experience for Midcareer Professionals II**<br>面向职业中期专业人员的综合应用实践经历 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/executive-mph-program/) |
-| **Introduction to Clinical and Translational Informatics**<br>临床与转化信息学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/executive-mph-program/) |
+| **Introduction to Clinical and Translational Informatics**<br>临床与转化信息学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/executive-mph-program/) |
 | **Topics in Biomedical Informatics and Data Science**<br>生物医学信息学与数据科学专题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/executive-mph-program/) |
 | **Computational Methods for Informatics**<br>信息学计算方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/executive-mph-program/) |
 | **Environmental Exposure Assessment**<br>环境暴露评估 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/executive-mph-program/) |

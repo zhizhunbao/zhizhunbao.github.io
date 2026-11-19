@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Management**<br>商业管理 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Business Information Systems**<br>商业信息系统 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
-| **Introduction to Organizational Development**<br>组织发展导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
+| **Introduction to Organizational Development**<br>组织发展入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Business Communication 1**<br>商务沟通 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
-| **Introduction to Operations Management**<br>运营管理导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
+| **Introduction to Operations Management**<br>运营管理入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Applied Data Analytics in Excel**<br>Excel 应用数据分析 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Business Communication 2**<br>商务沟通 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Innovation and Intrapreneurship**<br>创新与内部创业 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Ethics and Sustainable Business Practices**<br>伦理与可持续商业实践 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Management Accounting Administration**<br>管理会计行政 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
-| **Introduction to Marketing Research**<br>市场调研导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
+| **Introduction to Marketing Research**<br>市场调研入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Leadership**<br>领导力 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Management Science**<br>管理科学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |
 | **Internet Applications\***<br>互联网应用\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/) |

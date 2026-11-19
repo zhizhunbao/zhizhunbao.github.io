@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Calculus 1.**<br>微积分 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **Calculus 2.**<br>微积分 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **Judaism, Christianity and Islam.**<br>犹太教、基督教与伊斯兰教 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
-| **Introduction to the Study of Religions.**<br>宗教研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
+| **Introduction to the Study of Religions.**<br>宗教研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **Research Essay and Rhetoric.**<br>研究论文与修辞 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **First Year Professional Seminar.**<br>一年级专业研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **English Exam for Teacher Certification.**<br>教师资格英语考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
@@ -72,11 +72,11 @@ ms.date: 2026-11-11
 | **Euclidean Geometry.**<br>欧几里得几何 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **Linear Optimization.**<br>线性优化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **Applied Regression.**<br>应用回归 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
-| **Introduction to Stochastic Processes.**<br>随机过程导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
+| **Introduction to Stochastic Processes.**<br>随机过程入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **Generalized Linear Models.**<br>广义线性模型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **Nonparametric Statistics.**<br>非参数统计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 | **Sampling Theory and Applications.**<br>抽样理论与应用 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
-| **Introduction to Deductive Logic 1.**<br>演绎逻辑导论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
+| **Introduction to Deductive Logic 1.**<br>演绎逻辑入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/) |
 
 ## Courses
 

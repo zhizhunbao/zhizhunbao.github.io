@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-systems-technician/full-time/cornwall) |
 | **Technical Mathematics**<br>技术数学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-systems-technician/full-time/cornwall) |
 | **Networking 1**<br>网络 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-systems-technician/full-time/cornwall) |
-| **Introduction to C++ Programming**<br>C++编程导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-systems-technician/full-time/cornwall) |
+| **Introduction to C++ Programming**<br>C++编程入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-systems-technician/full-time/cornwall) |
 | **Databases 1**<br>数据库 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-systems-technician/full-time/cornwall) |
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-systems-technician/full-time/cornwall) |
 | **Computer Hardware Systems**<br>计算机硬件系统 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-systems-technician/full-time/cornwall) |

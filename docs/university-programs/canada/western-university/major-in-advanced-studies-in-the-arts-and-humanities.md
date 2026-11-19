@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN ADVANCED STUDIES IN THE ARTS AND HUMANITIES**<br>艺术与人文高级研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE ARTS AND HUMANITIES**<br>艺术与人文学科导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE ARTS AND HUMANITIES**<br>艺术与人文学科入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
 | **TOPICS IN THE ARTS AND HUMANITIES**<br>艺术与人文学科专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
 | **EFFECTIVE COMMUNICATION IN THE ARTS AND HUMANITIES**<br>艺术与人文学科中的有效沟通 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
 | **DIGITAL TOOLS, DIGITAL LITERACIES**<br>数字工具、数字素养 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS OF THEORY IN THE ARTS AND HUMANITIES**<br>艺术与人文学科理论基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PROFESSIONAL AND COMMUNITY PRACTICES**<br>专业与社区实践导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PROFESSIONAL AND COMMUNITY PRACTICES**<br>专业与社区实践入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
 | **SPECIAL TOPICS IN INTERDISCIPLINARY STUDIES**<br>跨学科研究专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
 | **INTEGRATED SEMINAR**<br>综合研讨课 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |
 | **EXPERIENTIAL LEARNING IN THE ARTS AND HUMANITIES**<br>艺术与人文学科中的体验式学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20811&SelectedCalendar=Live&ArchiveID=) |

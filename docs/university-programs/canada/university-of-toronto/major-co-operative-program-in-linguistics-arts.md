@@ -11,8 +11,17 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR (CO-OPERATIVE) PROGRAM IN LINGUISTICS (ARTS)**<br>语言学主修项目（合作教育）（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Applications of Linguistics**<br>语言学的应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Phonology I**<br>音系学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
 | **Syntax I**<br>句法学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
 | **Phonetics: The Study of Speech Sounds**<br>语音学：言语声音研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Morphology**<br>形态学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Sociolinguistics**<br>社会语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Semantics: The Study of Meaning**<br>语义学：意义研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Comparative Study of English and Chinese**<br>英汉比较研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Structure of American Sign Language**<br>美国手语的结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+| **Structure of a Language**<br>语言的结构 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
 | **Becoming Job Search Ready: Arts Co-op**<br>为求职做好准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
 | **Finding Your First Work Term and Getting Workplace Ready: Arts Co-op**<br>寻找首个工作学期并做好职场准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
@@ -28,6 +37,17 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+|  | Program requirements (same as SCMAJ0506): 1. 2.5 credits as follows | LINA01H3 | Introduction to Linguistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 1. 2.5 credits as follows | LINA02H3 | Applications of Linguistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 1. 2.5 credits as follows | LINB04H3 | Phonology I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 1. 2.5 credits as follows | LINB06H3 | Syntax I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 1. 2.5 credits as follows | LINB09H3 | Phonetics: The Study of Speech Sounds | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 2. 0.5 credit from the following | LINB10H3 | Morphology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 2. 0.5 credit from the following | LINB20H3 | Sociolinguistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 2. 0.5 credit from the following | LINC12H3 | Semantics: The Study of Meaning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 3. 4.0 further credits in LIN and/or PLI, of which at least 2.0 credits must be at the C- or D-level.; credit of language study in one or more languages, which may include LGG courses; FRE A-level courses; language courses at another campus | LINB60H3 | Comparative Study of English and Chinese | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 3. 4.0 further credits in LIN and/or PLI, of which at least 2.0 credits must be at the C- or D-level.; credit of language study in one or more languages, which may include LGG courses; FRE A-level courses; language courses at another campus (or) | LINB62H3 | Structure of American Sign Language | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
+|  | Program requirements (same as SCMAJ0506): 3. 4.0 further credits in LIN and/or PLI, of which at least 2.0 credits must be at the C- or D-level.; credit of language study in one or more languages, which may include LGG courses; FRE A-level courses; language courses at another campus (or) | LINC61H3 | Structure of a Language | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
 |  | Academic Program Requirements | LINB06H3 | Syntax I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
 |  | Academic Program Requirements | LINB09H3 | Phonetics: The Study of Speech Sounds | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0506c) |

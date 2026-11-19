@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Honours Bachelor of Food Studies (H317)**<br>食品研究荣誉学士 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Emergency First Aid and Heartsaver CPR**<br>急救与Heartsaver心肺复苏 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Culinary Skills I**<br>烹饪技能 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
-| **Introduction to Food Studies I**<br>食品研究导论 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
+| **Introduction to Food Studies I**<br>食品研究入门 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Communicating About Food**<br>饮食传播 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Food & Culinary Literacy I**<br>食品与烹饪素养 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Sanitation**<br>卫生 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Smart Serve**<br>Smart Serve（负责任售酒） | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Butchery and Cafe Production**<br>屠宰与咖啡馆生产 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Culinary Skills II**<br>烹饪技能 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
-| **Introduction to Food Studies II**<br>食品研究导论 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
+| **Introduction to Food Studies II**<br>食品研究入门 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Food & Culinary Literacy II**<br>食品与烹饪素养 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Whmis**<br>WHMIS（工作场所危险物料信息系统） | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |
 | **Lower Liberal Elective**<br>低年级通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-food-studies-program-h317) |

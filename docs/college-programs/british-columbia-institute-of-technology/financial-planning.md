@@ -18,11 +18,11 @@ ms.date: 2026-11-08
 | **Essentials of Marketing**<br>营销学基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
 | **Applied Data Analytics in Excel**<br>Excel 应用数据分析 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
-| **Introduction to Organizational Development**<br>组织发展导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
+| **Introduction to Organizational Development**<br>组织发展入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
 | **Business Communication 2**<br>商务沟通 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
 | **Accounting 2 for Financial Management**<br>财务管理会计 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
-| **Introduction to Finance\***<br>金融学导论\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
+| **Introduction to Finance\***<br>金融学入门\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |
 | **Financial Statement Analysis 1**<br>财务报表分析 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/) |

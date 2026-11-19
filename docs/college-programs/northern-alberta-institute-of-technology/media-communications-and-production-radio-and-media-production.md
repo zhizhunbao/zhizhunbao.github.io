@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Media Communications and Production - Radio and Media Production**<br>媒体传播与制作－广播与媒体制作 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/radio) |
 | **Media Writing Standards**<br>媒体写作规范 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/radio) |
 | **Marketing Foundations**<br>营销基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/radio) |
-| **Introduction to Online Media**<br>在线媒体导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/radio) |
+| **Introduction to Online Media**<br>在线媒体入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/radio) |
 | **Media Production Fundamentals**<br>媒体制作基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/radio) |
 | **Journalism and Storytelling Fundamentals**<br>新闻与叙事基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/radio) |
 | **Professional Communications In Media**<br>媒体职业沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/radio) |

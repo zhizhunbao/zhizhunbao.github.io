@@ -153,3 +153,5 @@ ms.date: 2026-11-11
 ## References
 
 Western University. (n.d.). *Business Administration*. Retrieved November 11, 2026, from <https://grad.uwo.ca/admissions/program.cfm?p=24>
+
+Western University. (n.d.). *Business Administration*. Retrieved November 11, 2026, from <https://www.ivey.uwo.ca/phd/phd-program/program-overview/>

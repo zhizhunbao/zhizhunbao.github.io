@@ -17,8 +17,8 @@ ms.date: 2026-11-08
 | **Field Seminar I**<br>实地研讨会 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
 | **The Creative Learning Environment**<br>创造性学习环境 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
-| **Introduction To Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
+| **Introduction To Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
 | **Curriculum Planning I**<br>课程规划 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
 | **Observation and Documentation**<br>观察与记录 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |
 | **Field Seminar II**<br>实地研讨会 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/early-childhood-education-alternate-delivery) |

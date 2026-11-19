@@ -1,32 +1,32 @@
 ---
-title: "3.2.84 Aerospace Engineering and Computational Science (PhD, ScD)"
+title: "4.2.84 Aerospace Engineering and Computational Science (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Aerospace Engineering and Computational Science (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.84 Aerospace Engineering and Computational Science (PhD, ScD)
+# 4.2.84 Aerospace Engineering and Computational Science (PhD, ScD)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Aerospace Engineering and Computational Science (PhD, ScD)**<br>航空航天工程与计算科学（哲学博士，科学博士） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
-| **Introduction to Numerical Methods**<br>数值方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
+| **Introduction to Numerical Methods**<br>数值方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Doctoral Seminar in Computational Science and Engineering**<br>计算科学与工程博士研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Architecting and Engineering Software Systems**<br>软件系统架构与工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Atomistic Modeling and Simulation of Materials and Structures**<br>材料与结构的原子尺度建模与模拟 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Topology Optimization of Structures**<br>结构拓扑优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Computational Methods for Flow in Porous Media**<br>多孔介质流动计算方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
-| **Introduction to Finite Element Methods**<br>有限元方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
+| **Introduction to Finite Element Methods**<br>有限元方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Artificial Intelligence and Machine Learning for Engineering Design**<br>面向工程设计的人工智能与机器学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Learning Machines**<br>学习机器 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Numerical Fluid Mechanics**<br>数值流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Atomistic Computer Modeling of Materials**<br>材料的原子尺度计算机建模 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Computational Structural Design and Optimization**<br>计算结构设计与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
-| **Introduction to Mathematical Programming**<br>数学规划导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
+| **Introduction to Mathematical Programming**<br>数学规划入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Nonlinear Optimization**<br>非线性优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Algebraic Techniques and Semidefinite Optimization**<br>代数技术与半定优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
-| **Introduction to Modeling and Simulation**<br>建模与仿真导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
+| **Introduction to Modeling and Simulation**<br>建模与仿真入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Algorithms for Inference**<br>推断算法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Bayesian Modeling and Inference**<br>贝叶斯建模与推断 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/) |

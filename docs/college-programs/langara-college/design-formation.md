@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/design-formation-diploma-we/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/design-formation-diploma-we/courses) |
 | **Communications for Creative Professionals**<br>创意专业人员沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/design-formation-diploma-we/courses) |
-| **Interiors and Architecture II: Introduction to Interior Spaces**<br>室内与建筑 II：室内空间导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/design-formation-diploma-we/courses) |
+| **Interiors and Architecture II: Introduction to Interior Spaces**<br>室内与建筑 II：室内空间入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/design-formation-diploma-we/courses) |
 | **Material, Process, and Sustainability**<br>材料、工艺与可持续性 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/design-formation-diploma-we/courses) |
 | **Communication Design II: Design Systems**<br>传播设计 II：设计系统 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/design-formation-diploma-we/courses) |
 | **Experiential Design II: Designing Around Objects and Ideas**<br>体验设计 II：围绕物件与理念的设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/design-formation-diploma-we/courses) |

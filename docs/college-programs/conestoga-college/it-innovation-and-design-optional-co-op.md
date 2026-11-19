@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Programming Concepts I**<br>编程概念 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/it-innovation-and-design/courses?id=34033) |
 | **Technology Infrastructure: Networking**<br>技术基础设施：网络 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/it-innovation-and-design/courses?id=34033) |
 | **Mathematics for Information Technology II**<br>信息技术数学 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/it-innovation-and-design/courses?id=34033) |
-| **Introduction to Data Modelling**<br>数据建模导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/it-innovation-and-design/courses?id=34033) |
+| **Introduction to Data Modelling**<br>数据建模入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/it-innovation-and-design/courses?id=34033) |
 | **Programming Dynamic Websites**<br>动态网站编程 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/it-innovation-and-design/courses?id=34033) |
 | **Programming Concepts II**<br>编程概念 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/it-innovation-and-design/courses?id=34033) |
 | **Electives: General Education**<br>选修课：通识教育 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/it-innovation-and-design/courses?id=34033) |

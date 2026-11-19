@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Special Topics in Financial Economics**<br>金融经济学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2722) |
 | **Advanced Topics in Financial Economics**<br>金融经济学高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2722) |
 | **Public Policy Analysis**<br>公共政策分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2722) |
-| **Introduction to Financial Risk Management**<br>金融风险管理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2722) |
+| **Introduction to Financial Risk Management**<br>金融风险管理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2722) |
 | **The Economics of Financial Risk Management**<br>金融风险管理经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2722) |
 | **Financial Econometrics**<br>金融计量经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2722) |
 | **Applied Econometrics II**<br>应用计量经济学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe2722) |

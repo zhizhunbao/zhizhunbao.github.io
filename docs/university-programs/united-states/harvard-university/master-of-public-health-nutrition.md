@@ -1,10 +1,10 @@
 ---
-title: "3.1.77 Master of Public Health – Nutrition"
+title: "4.1.77 Master of Public Health – Nutrition"
 description: "University Programs > United States > Harvard University > Master of Public Health – Nutrition: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.77 Master of Public Health – Nutrition
+# 4.1.77 Master of Public Health – Nutrition
 
 ## Glossary
 
@@ -22,7 +22,7 @@ ms.date: 2026-11-18
 | **Nutrition Science Translation and Applications**<br>营养科学转化与应用 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-nutrition/) |
 | **Designing and Evaluating Behavioral Interventions Targeting Diet**<br>针对饮食的行为干预的设计与评估 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-nutrition/) |
 | **Nutritional Epidemiology**<br>营养流行病学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-nutrition/) |
-| **An Introduction to Planetary Health**<br>行星健康导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-nutrition/) |
+| **An Introduction to Planetary Health**<br>行星健康入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-nutrition/) |
 | **“Exercise as Medicine” for the Prevention and Management of Chronic Diseases**<br>“运动即良药”：用于慢性病的预防与管理 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-nutrition/) |
 | **Global Food Systems and Nutrition Policy and Practice**<br>全球食物系统与营养政策和实践 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-nutrition/) |
 | **Global Nutrition in Action**<br>行动中的全球营养 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-nutrition/) |

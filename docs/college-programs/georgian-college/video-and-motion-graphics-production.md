@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Video and Motion Graphics Production**<br>视频与动态图形制作 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/video-motion-graphics-production/) |
-| **Introduction to Video Production**<br>视频制作导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vmgp/) |
+| **Introduction to Video Production**<br>视频制作入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vmgp/) |
 | **Storyboarding and Concept Development**<br>分镜与概念开发 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vmgp/) |
 | **Fundamentals of Motion Graphics**<br>动态图形基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vmgp/) |
 | **Editing Techniques I - Video and Audio Post-Production**<br>剪辑技术 I - 视频与音频后期制作 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vmgp/) |

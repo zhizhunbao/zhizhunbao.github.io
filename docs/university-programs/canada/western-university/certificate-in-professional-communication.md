@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN PROFESSIONAL COMMUNICATION**<br>专业传播证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
-| **WRITING IN THE WORLD: INTRODUCTION TO PROFESSIONAL WRITING**<br>世界中的写作：专业写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
+| **WRITING IN THE WORLD: INTRODUCTION TO PROFESSIONAL WRITING**<br>世界中的写作：专业写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 | **BUILDING BETTER (COMMUNICATION) BRIDGES: RHETORIC & PROFESSIONAL COMMUNICATION FOR ENGINEERS**<br>搭建更好的（沟通）桥梁：工程师的修辞与专业沟通 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 | **NO BONES ABOUT IT: WRITING IN THE SCIENCES**<br>毫无疑问：科学写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
-| **GLOBAL POSITIONING: INTRODUCTION TO RHETORIC AND PROFESSIONAL COMMUNICATION**<br>全球定位：修辞与专业沟通导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
-| **WRITING WITH PURPOSE: INTRODUCTION TO EFFECTIVE PROFESSIONAL AND ACADEMIC COMMUNICATION**<br>有目的的写作：有效专业与学术沟通导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
+| **GLOBAL POSITIONING: INTRODUCTION TO RHETORIC AND PROFESSIONAL COMMUNICATION**<br>全球定位：修辞与专业沟通入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
+| **WRITING WITH PURPOSE: INTRODUCTION TO EFFECTIVE PROFESSIONAL AND ACADEMIC COMMUNICATION**<br>有目的的写作：有效专业与学术沟通入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 | **THE ENGLISH LANGUAGE FOR CREATIVE AND PROFESSIONAL WRITERS**<br>创意与专业写作者的英语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 | **RE-VISIONING SELF: CREATING YOUR PROFESSIONAL PORTFOLIO**<br>重塑自我：创建你的职业档案 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 | **WINNING YOUR ARGUMENT: RHETORICAL STRATEGY IN A VISUAL AGE**<br>赢得辩论：视觉时代的修辞策略 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **FIGURES OF SPEECH: WRITING FOR ORAL PRESENTATION**<br>修辞格：口头演讲写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 | **RHETORIC: LAW TALK**<br>修辞学：法律话语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 | **CONCEPT TO PRODUCT: PUBLISHING**<br>从概念到产品：出版 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
-| **SELF & THE RHETORICAL TRIANGLE: AN INTRO TO INTERPERSONAL COMMUNICATION**<br>自我与修辞三角：人际沟通导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
+| **SELF & THE RHETORICAL TRIANGLE: AN INTRO TO INTERPERSONAL COMMUNICATION**<br>自我与修辞三角：人际沟通入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 | **THE MAJOR FORMS OF ORAL DISCOURSE**<br>口头话语的主要形式 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20916&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses

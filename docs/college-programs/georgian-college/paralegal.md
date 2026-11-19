@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Legal Computer Applications**<br>法律计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/parl/) |
 | **Communication/Writing**<br>沟通/写作 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/parl/) |
 | **Administrative Law**<br>行政法 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/parl/) |
-| **Introduction to the Canadian Legal System**<br>加拿大法律体系导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/parl/) |
+| **Introduction to the Canadian Legal System**<br>加拿大法律体系入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/parl/) |
 | **Legal Research and Writing**<br>法律研究与写作 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/parl/) |
 | **Torts and Contracts**<br>侵权法与合同法 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/parl/) |
 | **Employment Law**<br>劳动法 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/parl/) |

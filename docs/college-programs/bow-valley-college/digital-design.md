@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Digital Design**<br>数字设计 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/digital-design) |
 | **Fundamental Principles of Digital Design**<br>数字设计基本原理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/digital-design) |
 | **Typography**<br>字体排印 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/digital-design) |
-| **Introduction to the Digital Design Profession**<br>数字设计职业导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/digital-design) |
+| **Introduction to the Digital Design Profession**<br>数字设计职业入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/digital-design) |
 | **User Experience Design**<br>用户体验设计 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/digital-design) |
 | **Digital Marketing Communications**<br>数字营销传播 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/digital-design) |
 | **Interaction Design for Mobile Experiences**<br>移动体验交互设计 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/digital-design) |

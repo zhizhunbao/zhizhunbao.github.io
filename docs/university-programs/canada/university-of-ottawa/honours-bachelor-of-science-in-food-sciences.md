@@ -13,17 +13,17 @@ ms.date: 2026-11-11
 | **Honours Bachelor of Science in Food Sciences**<br>食品科学荣誉理学学士 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Essentials of Human Anatomy and Physiology I**<br>人体解剖与生理学要义 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Essentials of Human Anatomy and Physiology II**<br>人体解剖与生理学要义 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
-| **Introduction to Cell and Molecular Biology**<br>细胞与分子生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
+| **Introduction to Cell and Molecular Biology**<br>细胞与分子生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Principles of Chemistry**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Food Sciences I**<br>食品科学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Food Sciences II**<br>食品科学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Food Psychology**<br>食品心理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
-| **Introduction to Nutrition**<br>营养学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
+| **Introduction to Nutrition**<br>营养学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Quantitative Methods in Health Sciences: Continuous Variables**<br>健康科学中的定量方法：连续变量 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Laboratory Techniques in Food Sciences**<br>食品科学实验技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Principles of Management in Nutrition**<br>营养管理原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
-| **Introduction to Research Methods in Food and Nutrition**<br>食品与营养研究方法导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
+| **Introduction to Research Methods in Food and Nutrition**<br>食品与营养研究方法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Food Carbohydrates**<br>食品碳水化合物 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Nutritional Biochemistry**<br>营养生物化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Food Microbiology**<br>食品微生物学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
@@ -36,13 +36,13 @@ ms.date: 2026-11-11
 | **Food Safety and Regulatory Affairs**<br>食品安全与监管事务 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Global Food Systems, Security and Sustainability**<br>全球粮食系统、安全与可持续性 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Food Toxicology**<br>食品毒理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
-| **Introduction to Business**<br>商务导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
+| **Introduction to Business**<br>商务入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Food Studies: A Humanities Perspective**<br>食物研究：人文视角 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Building an Entrepreneurial Mindset**<br>培养创业思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Aliments et expérimentations culinaires**<br>食品与烹饪实验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
-| **Introduction to Psychology: Foundations**<br>心理学导论：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
-| **Introduction to Psychology: Applications**<br>心理学导论：应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
+| **Introduction to Psychology: Foundations**<br>心理学入门：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
+| **Introduction to Psychology: Applications**<br>心理学入门：应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **The Entrepreneurial Society**<br>创业型社会 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **A Transdisciplinary Exploration of Food Studies**<br>食品研究的跨学科探索 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Quantitative Methods in Health Sciences: Categorical Variables**<br>健康科学中的定量方法：分类变量 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-11
 | **Diet and Physical Activity**<br>饮食与身体活动 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Selected Topics in Food Sciences**<br>食品科学专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Alimentation des collectivités**<br>集体供餐 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
-| **Introduction à la génomique nutritionnelle**<br>营养基因组学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
+| **Introduction à la génomique nutritionnelle**<br>营养基因组学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Functional Foods and Nutraceuticals**<br>功能性食品与营养保健品 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Nutrition, Behaviour and Mental Health**<br>营养、行为与心理健康 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |
 | **Diet, Microbiota and Intestinal Health**<br>饮食、微生物群与肠道健康 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-food-sciences/) |

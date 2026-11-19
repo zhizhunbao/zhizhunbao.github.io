@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Surveying for Construction Technology**<br>建筑技术测量 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Construction Materials and Methods 1**<br>施工材料与方法 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Print and Specifications Reading for Construction Technology 1**<br>建筑技术图纸与规范识读 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
-| **Construction Management 1 - Introduction and Overview**<br>施工管理 1 - 导论与概览 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
+| **Construction Management 1 - Introduction and Overview**<br>施工管理 1 - 入门与概览 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Mathematics for Construction Technology 1**<br>建筑技术数学 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **General Elective**<br>通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Construction Estimating 1**<br>施工估算 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Print and Specifications Reading for Construction Technology 2**<br>建筑技术图纸与规范识读 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Construction Materials and Methods 2**<br>施工材料与方法 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
-| **Introduction to Building Science**<br>建筑科学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
+| **Introduction to Building Science**<br>建筑科学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Mathematics for Construction Technology 2**<br>建筑技术数学 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Building Code 1**<br>建筑规范 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |
 | **Construction Estimating 2**<br>施工估算 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/construction-engineering-technician-program-t161) |

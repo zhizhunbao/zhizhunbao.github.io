@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Linguistics PhD**<br>语言学（PhD） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 | **Phonetic Analysis**<br>语音分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 | **Phonological Theory**<br>音系理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
-| **Introduction to Syntactic Theory**<br>句法理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
+| **Introduction to Syntactic Theory**<br>句法理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 | **Semantics**<br>语义学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 | **Field Methods**<br>田野方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |
 | **Computational Methods for Linguists**<br>语言学家计算方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Linguistics) |

@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **Practical Business Skills**<br>实用商业技能 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Strategy and Program Integration**<br>战略与项目整合 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Leadership, Teams, and Communication**<br>领导力、团队与沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Genres of Business Communication**<br>商务传播的文体 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Accounting Information for Managers**<br>管理者会计信息 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
-| **Introduction to Business in North America**<br>北美商业导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
+| **Introduction to Business in North America**<br>北美商业入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **International Business**<br>国际商务 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Professional and Business Ethics**<br>职业与商业伦理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Principles of Marketing**<br>市场营销原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Social Statistics**<br>社会统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Quantitative Analysis**<br>定量分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Basic Data Analysis**<br>基础数据分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Canadian Business History: Innovators and Entrepreneurs**<br>加拿大商业史：创新者与企业家 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 | **Government and Business**<br>政府与商业 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BylMeJR0jh) |
 

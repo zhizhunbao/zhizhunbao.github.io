@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **History of Cinema**<br>电影史 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/digital-filmmaking) |
 | **Digital Filmmaking Techniques I**<br>数字电影制作技术 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/digital-filmmaking) |
 | **Overview of the Film Industry**<br>电影产业概览 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/digital-filmmaking) |
-| **Introduction to Post Production**<br>后期制作导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/digital-filmmaking) |
+| **Introduction to Post Production**<br>后期制作入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/digital-filmmaking) |
 | **Renaissance to 20th Century**<br>文艺复兴至20世纪 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/digital-filmmaking) |
 | **Sound for Visual Media**<br>视觉媒体声音 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/digital-filmmaking) |
 | **Writing for the Screen**<br>影视写作 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/digital-filmmaking) |

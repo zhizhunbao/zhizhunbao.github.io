@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Web Development**<br>Web开发 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
-| **Introduction to Web Development**<br>Web开发导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
+| **Introduction to Web Development**<br>Web开发入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Special Topics in Web Development 1**<br>Web开发专题 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Workshops in Web Development 1**<br>Web开发工作坊 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Web Design**<br>网页设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Front-End Web Development**<br>前端Web开发 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Back-End Web Development 1**<br>后端网页开发 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Database Design and Development**<br>数据库设计与开发 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
-| **Introduction to Design for Interaction**<br>交互设计导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
+| **Introduction to Design for Interaction**<br>交互设计入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Product Management**<br>产品管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Special Topics in Web Development 2**<br>Web开发专题 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |
 | **Workshops in Web Development 2**<br>Web开发工作坊 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/web-development) |

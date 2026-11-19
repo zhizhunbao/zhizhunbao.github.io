@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Music - Music Technology & Digital Media: Classical**<br>音乐学士－音乐技术与数字媒体：古典 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
-| **Introduction to Music & Society**<br>音乐与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
+| **Introduction to Music & Society**<br>音乐与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Survey of Western Music History I**<br>西方音乐史概览 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Survey of Western Music History II**<br>西方音乐史概览 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Lives in Music**<br>音乐中的生命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
@@ -20,11 +20,11 @@ ms.date: 2026-11-11
 | **Keyboard Harmony/Skills**<br>键盘和声与技能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Musical Acoustics and Psychoacoustics**<br>音乐声学与心理声学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Technical Ear Training**<br>技术性听音训练 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
-| **Introduction to Computer Applications in Music**<br>音乐中的计算机应用导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
-| **Introduction to Music Recording**<br>音乐录音导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
+| **Introduction to Computer Applications in Music**<br>音乐中的计算机应用入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
+| **Introduction to Music Recording**<br>音乐录音入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Music Technology III & IV**<br>音乐技术 III 和 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Electronic Music Ensemble**<br>电子音乐合奏 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Video Documentation**<br>视频记录 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Concert Video Production**<br>音乐会视频制作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |
 | **Music for Live Electronics & Performers**<br>现场电子乐与演奏者的音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEMTDMC) |

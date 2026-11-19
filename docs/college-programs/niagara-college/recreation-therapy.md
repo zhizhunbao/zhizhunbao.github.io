@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Therapeutic Approaches for an Aging Population**<br>面向老龄人口的治疗方法 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/recreation-therapy/) |
 | **Applied Positive Strategies in Therapeutic Recreation**<br>治疗性休闲中的应用积极策略 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/recreation-therapy/) |
 | **Therapeutic Recreation Program Delivery**<br>治疗性休闲项目实施 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/recreation-therapy/) |
-| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/recreation-therapy/) |
+| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/recreation-therapy/) |
 | **Effective Helping Skills in Therapeutic Recreation**<br>康复治疗中的有效助人技能 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/recreation-therapy/) |
 | **Field Placement I**<br>现场实习 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/recreation-therapy/) |
 | **Technology and Therapeutic Recreation**<br>技术与治疗性休闲 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/recreation-therapy/) |

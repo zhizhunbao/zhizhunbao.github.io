@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Human Resource Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/management-and-leadership) |
 | **Leadership**<br>领导力 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/management-and-leadership) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/management-and-leadership) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/management-and-leadership) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/management-and-leadership) |
 | **Business Certificate Capstone**<br>商务证书毕业设计项目 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/management-and-leadership) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/management-and-leadership) |
 | **Accounting for Managers**<br>管理会计（面向管理者） | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/management-and-leadership) |

@@ -27,10 +27,10 @@ ms.date: 2026-11-08
 | **Internal Control & Auditing**<br>内部控制与审计 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Computer Programming I**<br>计算机编程 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Computer Programming II**<br>计算机编程 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
-| **Introduction to Database Management Systems**<br>数据库管理系统导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
+| **Introduction to Database Management Systems**<br>数据库管理系统入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Client-side Web Systems**<br>客户端Web系统 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Computer Data Structures**<br>计算机数据结构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
-| **Introduction to Operating Systems**<br>操作系统导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
+| **Introduction to Operating Systems**<br>操作系统入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Microservices and Software Architecture**<br>微服务与软件架构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **User Experience**<br>用户体验 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Server Platform as a Service**<br>服务器平台即服务 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-08
 | **New Product Development**<br>新产品开发 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Entrepreneurship Experience I**<br>创业体验 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Entrepreneurship Experience II**<br>创业体验 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Restaurant Management**<br>餐厅管理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Personal Financial Planning**<br>个人理财规划 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Social Entrepreneurship**<br>社会创业 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
@@ -96,8 +96,8 @@ ms.date: 2026-11-08
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Events Planning**<br>活动策划 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Selected Topics: Management**<br>专题：管理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
-| **Introduction to Non-Profit Management**<br>非营利组织管理导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
-| **Introduction to Marketing Research**<br>市场调研导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
+| **Introduction to Non-Profit Management**<br>非营利组织管理入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
+| **Introduction to Marketing Research**<br>市场调研入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Advertising and Marketing Communications**<br>广告与营销传播 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Marketing Management**<br>营销管理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |
 | **Retailing**<br>零售 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-business-administration) |

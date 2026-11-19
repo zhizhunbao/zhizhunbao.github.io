@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Social Service Worker**<br>社会服务工作者 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
 | **Human Growth and Behaviour**<br>人类成长与行为 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
 | **Reorientation to Human Services**<br>人类服务再定位 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
 | **Interpersonal and Group Communication Skills**<br>人际与群体沟通技能 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
 | **Counselling Skills 1**<br>咨询技能 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
-| **Sociology: Introduction**<br>社会学：导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
+| **Sociology: Introduction**<br>社会学：入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
 | **Professional Practice and Field Preparation**<br>专业实践与实地准备 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
 | **Family Dynamics**<br>家庭动力学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |
 | **Counselling Skills 2**<br>咨询技能 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/social-service-worker) |

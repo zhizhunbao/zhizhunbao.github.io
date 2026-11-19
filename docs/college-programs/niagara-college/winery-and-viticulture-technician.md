@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **General Viticulture**<br>葡萄栽培概论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
 | **Winemaking I**<br>酿酒 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
 | **Sensory Evaluation of Wines I**<br>葡萄酒感官评价 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
-| **Introduction to Vine Biology**<br>葡萄藤生物学导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
-| **Introduction to Wine Chemistry**<br>葡萄酒化学导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
+| **Introduction to Vine Biology**<br>葡萄藤生物学入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
+| **Introduction to Wine Chemistry**<br>葡萄酒化学入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
 | **Cellar Operations l**<br>酒窖运营 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
 | **Language and Communications**<br>语言与沟通 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |
 | **Vineyard Pruning and Maintenance Practices**<br>葡萄园修剪与维护实践 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/winery-viticulture-technician/) |

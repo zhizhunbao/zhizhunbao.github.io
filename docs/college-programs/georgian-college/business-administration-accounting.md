@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Introduction to Organizational Behaviour**<br>组织行为学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Financial Accounting Principles 2**<br>财务会计原理 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Business Applications for Accounting**<br>会计商业应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
@@ -37,10 +37,10 @@ ms.date: 2026-11-08
 | **Information Systems for Accounting**<br>会计信息系统 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Managerial Finance**<br>管理财务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Select 1 course from the available list during registration.**<br>注册时从可选列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Advanced Management Accounting**<br>高级管理会计 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
-| **Introduction to Auditing**<br>审计学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
+| **Introduction to Auditing**<br>审计学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Advanced Financial Accounting Topics**<br>高级财务会计专题 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Managerial Decision Making**<br>管理决策 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |
 | **Business Work Term 1 ( Fall intake - occurs after Semester 2, Winter intake - occurs after Semester 3 )**<br>商业实习学期 1（秋季入学：第 2 学期后；冬季入学：第 3 学期后） | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baac/) |

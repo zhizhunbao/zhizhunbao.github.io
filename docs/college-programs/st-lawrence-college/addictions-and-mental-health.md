@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Addictions and Mental Health**<br>成瘾与心理健康 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
-| **Introduction to Addictions, Mental Health, and Concurrent Disorders**<br>成瘾、心理健康与共病障碍导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
+| **Introduction to Addictions, Mental Health, and Concurrent Disorders**<br>成瘾、心理健康与共病障碍入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
 | **Chemical Dependency and Substance Use and Abuse**<br>化学依赖与物质使用和滥用 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
 | **Community Services and Supports in Addictions and Mental Health**<br>成瘾与心理健康的社区服务与支持 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
 | **Holistic Assessment and Interventions: Determinants of Health**<br>整体评估与干预：健康决定因素 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Group Counselling for Addictions and Mental Health Practitioners**<br>成瘾与心理健康从业者团体咨询 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
 | **Motivational Interviewing and Change Theory Practice**<br>动机访谈与改变理论实践 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
 | **Working with Youth and Families**<br>与青少年及家庭合作 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
-| **An Introduction to Trauma-Informed Practice**<br>创伤知情实践导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
+| **An Introduction to Trauma-Informed Practice**<br>创伤知情实践入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
 | **Capacity Building and Knowledge Exchange in Addictions and Mental Health**<br>成瘾与心理健康领域的能力建设与知识交流 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
 | **Addictions and Mental Health Professional Practice**<br>成瘾与心理健康专业实践 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/addictions-and-mental-health/full-time/online) |
 

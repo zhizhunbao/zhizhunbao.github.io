@@ -20,14 +20,14 @@ ms.date: 2026-11-08
 | **CRW II: Rhetoric**<br>CRW II：修辞学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **CRW II: Self and Society**<br>CRW II：自我与社会 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **CRW II: Imagined Places**<br>CRW II：想象之地 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Introductory French I**<br>法语入门 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Introductory French II**<br>法语入门 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Introductory French III**<br>法语入门 III | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Critical Indigenous Studies**<br>原住民批判研究 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
-| **Introduction to Gender Studies**<br>性别研究导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
+| **Introduction to Gender Studies**<br>性别研究入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Algebra and Trigonometry**<br>代数与三角 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Finite Mathematics I**<br>有限数学 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Finite Mathematics II**<br>有限数学 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
@@ -37,8 +37,8 @@ ms.date: 2026-11-08
 | **Introductory Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **General Physics I**<br>普通物理 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **General Physics II**<br>普通物理 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Principles of Sociology**<br>社会学原理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 | **Sociology of Families**<br>家庭社会学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/cas-transfer-college-university) |
 

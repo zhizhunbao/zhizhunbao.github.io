@@ -39,10 +39,10 @@ ms.date: 2026-11-11
 | **Qualitative Analysis**<br>定性分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
 | **Statistical Analysis in Sociology**<br>社会学统计分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
 | **Advanced Research Methods in Anthropology**<br>人类学高级研究方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
-| **Introduction to Research Methods in Anthropology**<br>人类学研究方法导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
+| **Introduction to Research Methods in Anthropology**<br>人类学研究方法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
 | **Building Sociological Reasoning**<br>建立社会学思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
 | **Practical Training in Research Methods in Anthropology**<br>人类学研究方法实践训练 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
-| **Introduction to Qualitative Methodology**<br>定性方法论导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
+| **Introduction to Qualitative Methodology**<br>定性方法论入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-anthropology-sociology/) |
 
 ## Courses
 

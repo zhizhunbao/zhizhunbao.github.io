@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **East Asian Cultural Foundations**<br>东亚文化基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 | **Economic Development in the Asia Pacific Region**<br>亚太地区经济发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 | **Asia-Pacific Security**<br>亚太安全 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
-| **Introductory Cultural Anthropology and Linguistics**<br>文化人类学与语言学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
+| **Introductory Cultural Anthropology and Linguistics**<br>文化人类学与语言学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 | **Method & Theory in Cultural Anthropology**<br>文化人类学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 | **History of Asia Since 1500HIST-2109(3)/ Mennonite Studies II**<br>1500 年以来的亚洲史 HIST-2109（3）／门诺派研究 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 | **South Asia Since 1500MENN-2102(3)**<br>1500 年以来的南亚 MENN-2102（3） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Exploring Religion**<br>探索宗教 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 | **Buddhist Traditions in India & Southeast Asia**<br>印度与东南亚的佛教传统 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 | **Art in Non-Christian Religions**<br>非基督教宗教中的艺术 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
-| **Introduction to Japanese Language**<br>日语导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
+| **Introduction to Japanese Language**<br>日语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 | **Intermediate Japanese Language**<br>中级日语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ealc.pdf#page=2) |
 
 ## Courses

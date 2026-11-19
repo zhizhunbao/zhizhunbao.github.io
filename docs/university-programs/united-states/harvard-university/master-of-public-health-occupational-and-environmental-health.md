@@ -1,10 +1,10 @@
 ---
-title: "3.1.78 Master of Public Health – Occupational and Environmental Health"
+title: "4.1.78 Master of Public Health – Occupational and Environmental Health"
 description: "University Programs > United States > Harvard University > Master of Public Health – Occupational and Environmental Health: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.78 Master of Public Health – Occupational and Environmental Health
+# 4.1.78 Master of Public Health – Occupational and Environmental Health
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **Social, Behavioral, and Structural Determinants of Health**<br>健康的社会、行为与结构性决定因素 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-occupational-environmental-health/) |
 | **Public Health Policy and Politics**<br>公共卫生政策与政治 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-occupational-environmental-health/) |
 | **Applied Practice Experience for Occupational and Environmental Health**<br>职业与环境健康应用实践经历 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-occupational-environmental-health/) |
-| **Introduction to Occupational and Environmental Medicine**<br>职业与环境医学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-occupational-environmental-health/) |
+| **Introduction to Occupational and Environmental Medicine**<br>职业与环境医学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-occupational-environmental-health/) |
 | **Occupational Safety and Injury Prevention**<br>职业安全与伤害预防 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-occupational-environmental-health/) |
 | **Principles of Toxicology**<br>毒理学原理 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-occupational-environmental-health/) |
 | **Responsible Conduct of Research**<br>负责任的研究行为 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-occupational-environmental-health/) |

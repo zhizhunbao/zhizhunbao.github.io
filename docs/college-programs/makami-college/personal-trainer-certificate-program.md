@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Personal Trainer Certificate Program**<br>私人教练证书项目 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/personal-trainer/) |
-| **Introduction to Personal Training**<br>私人教练导论 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/personal-trainer/pt-curriculum/) |
+| **Introduction to Personal Training**<br>私人教练入门 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/personal-trainer/pt-curriculum/) |
 | **Human Physiology**<br>人体生理学 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/personal-trainer/pt-curriculum/) |
 | **Functional Human Anatomy**<br>人体功能解剖学 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/personal-trainer/pt-curriculum/) |
 | **Movement Assessments**<br>运动评估 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/personal-trainer/pt-curriculum/) |

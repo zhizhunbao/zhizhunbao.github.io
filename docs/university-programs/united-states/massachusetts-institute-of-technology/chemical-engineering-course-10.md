@@ -1,10 +1,10 @@
 ---
-title: "3.2.13 Chemical Engineering (Course 10)"
+title: "4.2.13 Chemical Engineering (Course 10)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Chemical Engineering (Course 10): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.13 Chemical Engineering (Course 10)
+# 4.2.13 Chemical Engineering (Course 10)
 
 ## Glossary
 
@@ -14,15 +14,15 @@ ms.date: 2026-11-18
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Laboratory Chemistry (CI-M)**<br>实验化学 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
-| **Introduction to Chemical Engineering**<br>化学工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
+| **Introduction to Chemical Engineering**<br>化学工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Chemical and Biological Engineering Thermodynamics**<br>化学与生物工程热力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Transport Processes**<br>传递过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Principles of Inorganic Chemistry I**<br>无机化学原理 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
-| **Introduction to Biological Chemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
+| **Introduction to Biological Chemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
-| **Introduction to Spectroscopy**<br>光谱学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
+| **Introduction to Spectroscopy**<br>光谱学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Electronic Structure of Molecules**<br>分子电子结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **General Biochemistry**<br>普通生物化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |
 | **Chemical Engineering Projects Laboratory (CI-M)**<br>化学工程项目实验（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/) |

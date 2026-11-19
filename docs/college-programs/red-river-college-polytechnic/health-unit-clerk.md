@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Unit Clerk**<br>医疗单元文员 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAUF-CT) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAUF-CT/PrinterFriendly#COMP-1313) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAUF-CT/PrinterFriendly#COMP-1313) |
 | **Interpersonal Relationships**<br>人际关系 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAUF-CT/PrinterFriendly#HEAL-1001) |
 | **HUC - Diagnostic & Therapeutic Orders**<br>HUC：诊断与治疗医嘱 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAUF-CT/PrinterFriendly#HEAL-1013) |
 | **HUC - Order Transcription**<br>HUC：医嘱转录 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAUF-CT/PrinterFriendly#HEAL-1022) |

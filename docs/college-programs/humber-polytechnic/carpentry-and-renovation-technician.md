@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Environmental Remediation**<br>环境修复 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/carpentry-and-renovation-technician) |
 | **Essentials of Building Mathematics**<br>建筑数学要点 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/carpentry-and-renovation-technician) |
 | **Technical Communications 1: Skilled Trades**<br>技术沟通 1：技术工种 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/carpentry-and-renovation-technician) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/carpentry-and-renovation-technician) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/carpentry-and-renovation-technician) |
 | **Ontario Building Code Compliance**<br>安大略省建筑规范合规 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/carpentry-and-renovation-technician) |
 | **Management for Home Renovators**<br>房屋翻新者管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/carpentry-and-renovation-technician) |
 | **Wall System**<br>墙体系统 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/carpentry-and-renovation-technician) |

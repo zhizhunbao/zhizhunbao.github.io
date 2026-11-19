@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Engineering Technology**<br>计算机工程技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Digital Fundamentals**<br>数字基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
-| **Introduction to Electric Circuits**<br>电路导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
+| **Introduction to Electric Circuits**<br>电路入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Computer Hardware and Programming Fundamentals**<br>计算机硬件与编程基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Foundational Project - Electronics and Computer Technology**<br>基础项目 - 电子与计算机技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Technical Mathematics 1**<br>技术数学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
@@ -24,13 +24,13 @@ ms.date: 2026-11-08
 | **Telecommunication Networks**<br>电信网络 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Technical Mathematics 2**<br>技术数学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Technical Communications 2**<br>技术沟通 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Micro Assembly Language Programming**<br>微型汇编语言编程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Digital Systems**<br>数字系统 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Windows Scripting**<br>Windows脚本 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Object Oriented Programming I using Java**<br>面向对象编程 I（使用Java） | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **UNIX Internals**<br>UNIX内部原理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Database with Java**<br>Java数据库 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |
 | **Internet Programming**<br>互联网编程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/computer-engineering-technology) |

@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Sport Management, Diploma**<br>体育管理文凭 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/sport-management-diploma) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **Business Info Technology**<br>商务信息技术 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **Academic Writing Strategies**<br>学术写作策略 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
-| **Introduction to Sport Science**<br>运动科学导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
+| **Introduction to Sport Science**<br>运动科学入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **Leadership & Organization of Sport in Canada**<br>加拿大体育的领导与组织 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **The Business of Sport**<br>体育产业经营 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **Financial Accounting 1**<br>财务会计 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Managerial Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
-| **Introduction to Adapted Sport & Physical Activity**<br>适应性体育与身体活动导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
+| **Introduction to Adapted Sport & Physical Activity**<br>适应性体育与身体活动入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **Integrated Marketing Communications**<br>整合营销传播 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **Sport Technology**<br>体育技术 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |
 | **The Sport Coaching Process**<br>体育教练过程 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4204) |

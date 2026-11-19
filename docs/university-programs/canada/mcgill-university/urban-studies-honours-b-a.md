@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Biometry.**<br>生物统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Statistics and Spatial Analysis.**<br>统计与空间分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Principles of Statistics 1.**<br>统计学原理 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Statistics in Social Research.**<br>社会研究中的统计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Field Studies in Human Geography.**<br>人文地理学实地研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Southeast Asia Urban Field Studies.**<br>东南亚城市实地研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Political Geography.**<br>政治地理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **New Master-Planned Cities.**<br>新规划城市 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Urban Social Geography.**<br>城市社会地理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
-| **Introduction to Programming for Spatial Sciences.**<br>空间科学编程导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
+| **Introduction to Programming for Spatial Sciences.**<br>空间科学编程入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Geography of Development.**<br>发展地理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Geographies of Developing Asia.**<br>发展中亚洲地理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Advanced Geospatial Analysis.**<br>高级地理空间分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-11
 | **Memory, Place, and Power.**<br>记忆、地方与权力 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Sustainable Residential Development.**<br>可持续住宅开发 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **History of Housing.**<br>住房史 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
-| **Introduction to Medieval Art and Architecture.**<br>中世纪艺术与建筑导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
+| **Introduction to Medieval Art and Architecture.**<br>中世纪艺术与建筑入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Urban Culture and Everyday Life.**<br>城市文化与日常生活 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Urban Transportation Planning.**<br>城市交通规划 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Advanced Topics in Health Geography.**<br>健康地理学高级专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
@@ -61,7 +61,7 @@ ms.date: 2026-11-11
 | **Real Estate Finance.**<br>房地产金融 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Comparative Local Government.**<br>比较地方政府 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Issues: Canadian Public Policy.**<br>议题：加拿大公共政策 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
-| **Introduction to the Study of Quebec.**<br>魁北克研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
+| **Introduction to the Study of Quebec.**<br>魁北克研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Urban Sociology.**<br>城市社会学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Sociology of Ethnic Relations.**<br>族群关系社会学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |
 | **Social Stratification.**<br>社会分层 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/) |

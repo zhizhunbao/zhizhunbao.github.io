@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Professional Voice and Public Communication**<br>职业发声与公共沟通 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/agriculture-communications-certificate.html) |
 | **Leadership and Advocacy in Agriculture**<br>农业领导力与倡导 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/agriculture-communications-certificate.html) |
 | **Social Media Management and Marketing**<br>社交媒体管理与营销 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/agriculture-communications-certificate.html) |
-| **Introduction to Digital Video Storytelling**<br>数字视频叙事导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/agriculture-communications-certificate.html) |
+| **Introduction to Digital Video Storytelling**<br>数字视频叙事入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/agriculture-communications-certificate.html) |
 | **Public Relations, Issues Management, and Crisis Communications**<br>公共关系、议题管理与危机沟通 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/agriculture/agriculture-communications-certificate.html) |
 
 ## Courses

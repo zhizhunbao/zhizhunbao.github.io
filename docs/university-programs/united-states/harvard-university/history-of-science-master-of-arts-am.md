@@ -1,10 +1,10 @@
 ---
-title: "3.1.50 History of Science, Master of Arts (AM)"
+title: "4.1.50 History of Science, Master of Arts (AM)"
 description: "University Programs > United States > Harvard University > History of Science, Master of Arts (AM): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.50 History of Science, Master of Arts (AM)
+# 4.1.50 History of Science, Master of Arts (AM)
 
 ## Glossary
 

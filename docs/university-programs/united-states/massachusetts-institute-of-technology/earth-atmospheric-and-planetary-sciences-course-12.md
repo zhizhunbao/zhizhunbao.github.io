@@ -1,20 +1,20 @@
 ---
-title: "3.2.23 Earth, Atmospheric, and Planetary Sciences (Course 12)"
+title: "4.2.23 Earth, Atmospheric, and Planetary Sciences (Course 12)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Earth, Atmospheric, and Planetary Sciences (Course 12): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.23 Earth, Atmospheric, and Planetary Sciences (Course 12)
+# 4.2.23 Earth, Atmospheric, and Planetary Sciences (Course 12)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Earth, Atmospheric, and Planetary Sciences (Course 12)**<br>地球、大气与行星科学（Course 12） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Geophysics and Planetary Science**<br>地球物理与行星科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Atmosphere, Ocean, and Climate Dynamics**<br>大气、海洋与气候动力学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to the Global Carbon Cycle**<br>全球碳循环导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Geophysics and Planetary Science**<br>地球物理与行星科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Atmosphere, Ocean, and Climate Dynamics**<br>大气、海洋与气候动力学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to the Global Carbon Cycle**<br>全球碳循环入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Thesis Preparation**<br>论文准备 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Undergraduate Thesis (at least 6 units, CI-M)**<br>本科论文（至少6学分，CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Field Geology**<br>野外地质学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
@@ -25,9 +25,9 @@ ms.date: 2026-11-18
 | **Computational Methods of Scientific Programming**<br>科学编程计算方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **MatLab, Statistics, Regression, Signal Processing**<br>MatLab、统计、回归、信号处理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Real World Computation with Julia**<br>用Julia进行实际计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Plate Tectonics and Climate**<br>板块构造与气候 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Geochemistry of Natural Waters**<br>天然水体地球化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Geobiology: History of Life on Earth**<br>地球生物学：地球生命史 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
@@ -41,22 +41,22 @@ ms.date: 2026-11-18
 | **Essentials of Global Geophysics**<br>全球地球物理学精要 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Flow, Deformation, and Fracture in Earth and Other Terrestrial Bodies**<br>地球及其他类地天体中的流动、变形与断裂 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Mechanics of Earth**<br>地球力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Seismology**<br>地震学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Seismology**<br>地震学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Field Geophysics**<br>野外地球物理学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Essentials of Field Geophysics**<br>野外地球物理学精要 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Mechanisms of Faulting and Earthquakes**<br>断层与地震机制 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **The History of Earth's Climate**<br>地球气候史 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Remote Sensing: Physical Principles and Techniques**<br>遥感：物理原理与技术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Climate Science**<br>气候科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Atmospheric Data and Large-scale Dynamics**<br>大气数据与大尺度动力学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Atmospheric Data and Large-scale Dynamics**<br>大气数据与大尺度动力学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Nonlinear Dynamics: Chaos**<br>非线性动力学：混沌 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Modeling Environmental Complexity**<br>环境复杂性建模 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Global Change Science**<br>全球变化科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Atmospheric Chemistry Models & Climate**<br>大气化学模型与气候 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Ocean Chemistry Change Laboratory**<br>海洋化学变化实验室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Atmospheric Radiation and Convection**<br>大气辐射与对流 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Hydrology and Water Resources**<br>水文学与水资源导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Hydrology Modeling**<br>水文建模导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Hydrology and Water Resources**<br>水文学与水资源入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Hydrology Modeling**<br>水文建模入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Mechanisms and Models of the Global Carbon Cycle**<br>全球碳循环的机制与模型 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Elements of Modern Oceanography**<br>现代海洋学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Field Oceanography**<br>野外海洋学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
@@ -64,7 +64,7 @@ ms.date: 2026-11-18
 | **Planetary Atmospheres**<br>行星大气 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Essentials of Planetary Science**<br>行星科学精要 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Planetary Explorations**<br>行星探索 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Astronomy**<br>天文学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Astronomy**<br>天文学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Hands-On Astronomy: Observing Stars and Planets**<br>动手天文学：观测恒星与行星 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Astronomy Field Camp**<br>天文野外营 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Meteorites, Cosmochemistry, and Solar System Formation**<br>陨石、宇宙化学与太阳系形成 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
@@ -93,10 +93,10 @@ ms.date: 2026-11-18
 | **Fundamentals of Programming**<br>编程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Signal Processing**<br>信号处理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Inference**<br>推断导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to EECS via Robotics**<br>通过机器人学 EECS 导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Inference**<br>推断入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to EECS via Robotics**<br>通过机器人学 EECS 入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **General Biochemistry**<br>普通生物化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Physics III**<br>物理 III | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Quantum Physics I**<br>量子物理 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
@@ -106,7 +106,7 @@ ms.date: 2026-11-18
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 | **Principles of Continuum Applied Mathematics**<br>连续应用数学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/) |
 

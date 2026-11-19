@@ -1,10 +1,10 @@
 ---
-title: "3.3.143 Symbolic Systems, Master of Science"
+title: "4.3.143 Symbolic Systems, Master of Science"
 description: "University Programs > United States > Stanford University > Symbolic Systems, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.143 Symbolic Systems, Master of Science
+# 4.3.143 Symbolic Systems, Master of Science
 
 ## Glossary
 
@@ -12,11 +12,11 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Symbolic Systems, Master of Science**<br>符号系统，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Master's Program Seminar**<br>硕士项目研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Computational Logic**<br>计算逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Computational Complexity**<br>计算复杂性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
-| **Introduction to Automated Reasoning**<br>自动推理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
+| **Introduction to Automated Reasoning**<br>自动推理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Computability and Logic**<br>可计算性与逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Modal Logic**<br>模态逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-18
 | **Neural Network Models of Cognition**<br>认知的神经网络模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Experimental Methods**<br>实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Statistical Methods for Behavioral and Social Sciences**<br>行为与社会科学的统计方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Cognition in Interaction Design**<br>交互设计中的认知 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Object-Oriented Systems Design**<br>面向对象系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Principles of Computer Systems**<br>计算机系统原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
@@ -42,8 +42,8 @@ ms.date: 2026-11-18
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Web Applications**<br>网络应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Compilers**<br>编译器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **The Modern Algorithmic Toolbox**<br>现代算法工具箱 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Industry Innovation Lab**<br>产业创新实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-18
 | **Human Centered NLP**<br>以人为中心的自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Plato's Later Metaphysics and Epistemology**<br>柏拉图的后期形而上学与认识论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Hellenistic Philosophy**<br>希腊化哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
-| **Introduction to Phenomenology**<br>现象学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
+| **Introduction to Phenomenology**<br>现象学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Phenomenology: Animals**<br>现象学：动物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Wittgenstein**<br>维特根斯坦 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |
 | **Measurement Theory**<br>测量理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/symbolic-systems/master-of-science) |

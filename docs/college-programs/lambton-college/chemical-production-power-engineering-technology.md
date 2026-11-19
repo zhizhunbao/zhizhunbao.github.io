@@ -30,9 +30,9 @@ ms.date: 2026-11-08
 | **Instrumentaiton for Plant Operations I**<br>工厂运行仪表 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
 | **Operating Engineering Studies - HVAC**<br>操作工程研究 - HVAC | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
 | **General Education Elective (Select 2) \***<br>通识教育选修课 (选2门) \* | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
-| **Introduction to Industrial Chemical Processes**<br>工业化学过程导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
+| **Introduction to Industrial Chemical Processes**<br>工业化学过程入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
 | **Operating Engineering Studies - Electrical**<br>操作工程研究 - 电气 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
-| **Introduction to BIofuels & Bio-Based Chemicals**<br>生物燃料与生物基化学品导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
+| **Introduction to BIofuels & Bio-Based Chemicals**<br>生物燃料与生物基化学品入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
 | **Piping and Mechanical Systems**<br>管道与机械系统 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
 | **Advanced Process Operations I**<br>高级过程操作 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |
 | **Statistics for Technology**<br>技术统计 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpet) |

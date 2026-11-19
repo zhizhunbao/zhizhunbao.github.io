@@ -1,10 +1,10 @@
 ---
-title: "3.3.210 Theater and Performance Studies, Doctor of Philosophy"
+title: "4.3.210 Theater and Performance Studies, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Theater and Performance Studies, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.210 Theater and Performance Studies, Doctor of Philosophy
+# 4.3.210 Theater and Performance Studies, Doctor of Philosophy
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **Theater and Performance Making**<br>戏剧与表演创作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/theater-and-performance-studies/doctor-of-philosophy) |
 | **Theater Lab: Acting and Directing**<br>戏剧实验室：表演与导演 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/theater-and-performance-studies/doctor-of-philosophy) |
 | **Projects in Performance**<br>表演项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/theater-and-performance-studies/doctor-of-philosophy) |
-| **Introduction to Graduate Production**<br>研究生制作导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/theater-and-performance-studies/doctor-of-philosophy) |
+| **Introduction to Graduate Production**<br>研究生制作入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/theater-and-performance-studies/doctor-of-philosophy) |
 | **Exhibition/Performance: Identities on Display**<br>展览与表演：展示中的身份 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/theater-and-performance-studies/doctor-of-philosophy) |
 | **History of Directing**<br>导演史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/theater-and-performance-studies/doctor-of-philosophy) |
 | **Critical Practice Lab**<br>批判实践实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/theater-and-performance-studies/doctor-of-philosophy) |

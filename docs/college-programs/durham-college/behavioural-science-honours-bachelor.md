@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Behavioural Science – Honours Bachelor**<br>行为科学 - 荣誉学士 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/behavioural-science-honours-bachelor) |
 | **Communications 1: Critical Thinking and Writing**<br>沟通 1：批判性思维与写作 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/behavioural-science-honours-bachelor) |
 | **Applied Behaviour Analysis: Concepts and Principles**<br>应用行为分析：概念与原理 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/behavioural-science-honours-bachelor) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/behavioural-science-honours-bachelor) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/behavioural-science-honours-bachelor) |
 | **Therapeutic Communications Skills**<br>治疗性沟通技能 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/behavioural-science-honours-bachelor) |
 | **Basic Behaviour Analysis**<br>基础行为分析 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/behavioural-science-honours-bachelor) |
 | **Breadth Elective Credit**<br>广度选修学分 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/behavioural-science-honours-bachelor) |

@@ -16,10 +16,10 @@ ms.date: 2026-11-11
 | **Chemical Reaction Laboratory 1**<br>化学反应实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Chemical Reactions, Equilibria and Kinetics**<br>化学反应、平衡与动力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Chemical Reaction Laboratory 2**<br>化学反应实验 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
-| **Introduction to Scientific Calculations**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
-| **Introduction to Laboratory Techniques**<br>实验室技术导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
+| **Introduction to Scientific Calculations**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
+| **Introduction to Laboratory Techniques**<br>实验室技术入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Structure and Bonding**<br>结构与成键 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
-| **Intro Analytical Chemistry**<br>分析化学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
+| **Intro Analytical Chemistry**<br>分析化学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Quantitative Chemical Analysis Laboratory**<br>定量化学分析实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Multi-Component Analysis**<br>多成分分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Analytical Instrumentation Laboratory**<br>分析仪器实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-11
 | **Introductory Quantum Mechanics**<br>量子力学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Physical Biochemistry**<br>物理生物化学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Organic Process Chemistry**<br>有机工艺化学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
-| **Introduction to Polymer Science**<br>高分子科学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
+| **Introduction to Polymer Science**<br>高分子科学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Special Topics in Chemistry**<br>化学专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Physicochemical Aspects of Natural Waters**<br>天然水的物理化学方面 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |
 | **Special Topics in Biochemistry**<br>生物化学专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyCk1CAjh) |

@@ -19,14 +19,14 @@ ms.date: 2026-11-11
 | **Human Histology and Histotechnology**<br>人体组织学与组织技术 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Clinical Biochemistry**<br>临床生物化学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Transfusion Science**<br>输血科学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
-| **Introduction to Immunology**<br>免疫学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
+| **Introduction to Immunology**<br>免疫学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Foundations of Indigenous Health I**<br>原住民健康基础 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Professional Practice**<br>专业实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Analysis and Communication of Biomedical Information**<br>生物医学信息的分析与传播 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Clinical Hematology**<br>临床血液学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Histopathology**<br>组织病理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
-| **Introduction to Clinical Laboratory Management**<br>临床实验室管理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
+| **Introduction to Clinical Laboratory Management**<br>临床实验室管理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Molecular Genetic Approaches to the Study and Diagnosis of Disease**<br>疾病研究与诊断的分子遗传学方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Bench to Bedside Impact**<br>从实验室到病床的影响 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |
 | **Rural Clinical Laboratory Practicum**<br>农村临床实验室实习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110505&returnto=20850) |

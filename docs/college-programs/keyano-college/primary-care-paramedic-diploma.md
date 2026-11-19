@@ -22,10 +22,10 @@ ms.date: 2026-11-08
 | **Introductory Practicum**<br>入门实习 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
 | **Advanced Communications**<br>高级沟通 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
 | **Pharmacotherapeutics**<br>药物治疗学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
 | **Interventions & Practice III**<br>干预与实践 III | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
 | **Special Populations**<br>特殊人群 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
-| **Introduction to Abnormal Psychology**<br>变态心理学导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
+| **Introduction to Abnormal Psychology**<br>变态心理学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
 | **Interventions and Practice IV**<br>干预与实践 IV | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
 | **Intermediate Practicum**<br>中级实习 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/primary-care-paramedic-diploma/) |
 

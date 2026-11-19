@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN MEDIA, INFORMATION AND TECHNOCULTURE**<br>媒体、信息与技术文化荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MEDIA AND COMMUNICATION STUDIES**<br>媒体与传播研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MEDIA AND COMMUNICATION STUDIES I**<br>媒体与传播研究导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MEDIA AND COMMUNICATION STUDIES II**<br>媒体与传播研究导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MEDIA AND COMMUNICATION STUDIES**<br>媒体与传播研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MEDIA AND COMMUNICATION STUDIES I**<br>媒体与传播研究入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MEDIA AND COMMUNICATION STUDIES II**<br>媒体与传播研究入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
 | **FIRST YEAR FOUNDATIONS FOR MEDIA AND COMMUNICATION STUDIES**<br>媒体与传播研究一年级基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
 | **THE HISTORY OF COMMUNICATION**<br>传播史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |
 | **POLITICAL ECONOMY OF MEDIA**<br>媒体政治经济学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21153&SelectedCalendar=Live&ArchiveID=) |

@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Essential Tools for Mobile Development**<br>移动开发基本工具 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1515X01FWO.pdf) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1515X01FWO.pdf) |
 | **User Interface Design**<br>用户界面设计 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1515X01FWO.pdf) |
-| **Introduction to Object Oriented Programming**<br>面向对象编程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1515X01FWO.pdf) |
+| **Introduction to Object Oriented Programming**<br>面向对象编程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1515X01FWO.pdf) |
 | **Fullstack: Frontend Development**<br>全栈：前端开发 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1515X01FWO.pdf) |
 | **Fullstack: Api Development**<br>全栈：API 开发 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1515X01FWO.pdf) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1515X01FWO.pdf) |

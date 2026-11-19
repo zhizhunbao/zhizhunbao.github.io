@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Network Security**<br>网络安全 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mncm) |
 | **Mobile Communications**<br>移动通信 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mncm) |
 | **Unified & Cloud-Powered Communications**<br>统一与云驱动通信 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mncm) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mncm) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mncm) |
 | **Cloud Computing**<br>云计算 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mncm) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mncm) |
 | **LTE Fundamentals Voice & Data**<br>LTE基础：语音与数据 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mncm) |

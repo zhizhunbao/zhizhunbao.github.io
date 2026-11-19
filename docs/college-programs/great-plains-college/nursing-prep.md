@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Nursing Prep**<br>护理预科 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/nursing-prep) |
 | **Biology 1 - From Cells to Organisms**<br>生物学 1 - 从细胞到生物体 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/nursing-prep) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/nursing-prep) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/nursing-prep) |
 | **Introductory Psychology: Biological and Cognitive Focus**<br>心理学入门：生物与认知方向 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/nursing-prep) |
 | **Foundations in Sociology Social Construction of Everyday Life**<br>社会学基础：日常生活的社会建构 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/nursing-prep) |
 | **Critical Reading and Writing I**<br>批判性阅读与写作 I | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/nursing-prep) |

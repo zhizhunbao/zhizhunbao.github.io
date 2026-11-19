@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Ergothérapie II - pathologies diverses**<br>职业治疗 II：各类病症 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/assistant-de-lergotherapeute-et-assistant-du-physiotherapeute/) |
 | **Troubles de la communication**<br>沟通障碍 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/assistant-de-lergotherapeute-et-assistant-du-physiotherapeute/) |
 | **Ergothérapie III-psychiatrie et santé mentale**<br>职业治疗 III：精神病学与心理健康 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/assistant-de-lergotherapeute-et-assistant-du-physiotherapeute/) |
-| **Introduction à la psychologie**<br>心理学导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/assistant-de-lergotherapeute-et-assistant-du-physiotherapeute/) |
+| **Introduction à la psychologie**<br>心理学入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/assistant-de-lergotherapeute-et-assistant-du-physiotherapeute/) |
 | **Communication interpersonnelle**<br>人际沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/assistant-de-lergotherapeute-et-assistant-du-physiotherapeute/) |
 | **Réadaptation en milieu communautaire**<br>社区康复 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/assistant-de-lergotherapeute-et-assistant-du-physiotherapeute/) |
 | **Ergothérapie IV - pédiatrie**<br>职业治疗 IV：儿科 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/assistant-de-lergotherapeute-et-assistant-du-physiotherapeute/) |

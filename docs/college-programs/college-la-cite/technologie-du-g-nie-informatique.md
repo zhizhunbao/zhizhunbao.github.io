@@ -12,26 +12,26 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Technologie du génie informatique**<br>计算机工程技术师级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Algèbre et trigonométrie**<br>代数与三角学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
-| **Introduction à la gestion d'un système d'exploitation**<br>操作系统管理导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
+| **Introduction à la gestion d'un système d'exploitation**<br>操作系统管理入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Réseau pour programmeur**<br>程序员网络 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Architecture de l'ordinateur pour programmeur**<br>程序员计算机体系结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
-| **Introduction à la programmation**<br>编程导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
+| **Introduction à la programmation**<br>编程入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Stratégies de communication en milieu professionnel**<br>职场沟通策略 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Communication orale en milieu professionnel**<br>职业口头沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Communication écrite en milieu professionnel**<br>职场书面沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Foundations of English**<br>英语基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Oral Communication: Beginner Level**<br>口语交际：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Oral Communication: Intermediate Level**<br>口语交际：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
-| **Introduction aux bases de données**<br>数据库导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
+| **Introduction aux bases de données**<br>数据库入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Statistiques**<br>统计学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Développement d'applications mobiles pour Android**<br>Android移动应用开发 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Assurance de qualité logicielle**<br>软件质量保证 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Programmation Orientée Objet en C++**<br>C++面向对象编程 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
-| **Introduction à la programmation Web client**<br>Web客户端编程导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
+| **Introduction à la programmation Web client**<br>Web客户端编程入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Written Communication: Beginner Level**<br>书面沟通：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Written Communication: Intermediate Level**<br>书面沟通：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Mathématiques appliquées**<br>应用数学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
-| **Introduction aux technologies des serveurs web**<br>Web服务器技术导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
+| **Introduction aux technologies des serveurs web**<br>Web服务器技术入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Analyse et conception de systèmes**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Électronique**<br>电子学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Structures de données appliquées**<br>应用数据结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
@@ -50,16 +50,16 @@ ms.date: 2026-11-08
 | **Équité, diversité, inclusivité**<br>公平、多元与包容 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Exploration des métiers**<br>行业探索 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Développement d'applications mobiles pour iOS**<br>iOS移动应用开发 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
-| **Introduction aux systèmes embarqués**<br>嵌入式系统导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
+| **Introduction aux systèmes embarqués**<br>嵌入式系统入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Patrons de conception**<br>设计模式 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Bases de données avancées**<br>高级数据库 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Fondements de la cybersécurité**<br>网络安全基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Structures de données séquentielles**<br>顺序数据结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
-| **Introduction à la programmation distribuée**<br>分布式编程导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
+| **Introduction à la programmation distribuée**<br>分布式编程入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Protocole de communication**<br>通信协议 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Développement de jeux**<br>游戏开发 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Projets de systèmes embarqués**<br>嵌入式系统项目 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
-| **Introduction à l'intelligence artificielle**<br>人工智能导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
+| **Introduction à l'intelligence artificielle**<br>人工智能入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Sciences de données appliquées**<br>应用数据科学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Sécurité informatique appliquée**<br>应用计算机安全 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |
 | **Intelligence artificielle appliquée**<br>应用人工智能 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61001) |

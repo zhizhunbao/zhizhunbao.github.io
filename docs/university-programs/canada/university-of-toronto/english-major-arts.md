@@ -78,7 +78,7 @@ ms.date: 2026-11-11
 | **Special Topic in World Literatures**<br>世界文学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **American Literature in Global Contexts**<br>全球语境中的美国文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Seminar: Race, Ethnicity, Diaspora, Indigeneity**<br>研讨课：种族、族裔、离散群体、原住民性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
-| **Introduction to Shakespeare**<br>莎士比亚导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
+| **Introduction to Shakespeare**<br>莎士比亚入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Chaucer**<br>乔叟 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Making Love in the Sixteenth Century**<br>十六世纪的谈情说爱 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Milton**<br>弥尔顿 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
@@ -109,7 +109,7 @@ ms.date: 2026-11-11
 | **Popular Novels in the 18th Century**<br>18世纪的通俗小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Seminar: Literature 1700-1900**<br>研讨课：1700-1900年文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **The Canadian Short Story**<br>加拿大短篇小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
-| **Introduction to Canadian Literature**<br>加拿大文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
+| **Introduction to Canadian Literature**<br>加拿大文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Canadian Drama**<br>加拿大戏剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **New Writing in Canada**<br>加拿大新写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Special Topic in Canadian Literature**<br>加拿大文学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
@@ -119,7 +119,7 @@ ms.date: 2026-11-11
 | **Canadian Poetry in Context**<br>语境中的加拿大诗歌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Seminar: Canadian Literature**<br>研讨课：加拿大文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **American Literature**<br>美国文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
-| **Introduction to American Literature**<br>美国文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
+| **Introduction to American Literature**<br>美国文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **The Nineteenth-Century American Novel**<br>十九世纪美国小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Early American Literature**<br>早期美国文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |
 | **Nineteenth-Century American Literature**<br>19世纪美国文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1645) |

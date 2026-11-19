@@ -1,10 +1,10 @@
 ---
-title: "3.2.59 Computer Science, Economics, and Data Science (Course 6-14P)"
+title: "4.2.59 Computer Science, Economics, and Data Science (Course 6-14P)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science, Economics, and Data Science (Course 6-14P): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.59 Computer Science, Economics, and Data Science (Course 6-14P)
+# 4.2.59 Computer Science, Economics, and Data Science (Course 6-14P)
 
 ## Glossary
 
@@ -32,8 +32,8 @@ ms.date: 2026-11-18
 | **Labor Economics and Public Policy**<br>劳动经济学与公共政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Political Economy and Economic Development**<br>政治经济学与经济发展 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Firms, Markets, Trade and Growth**<br>企业、市场、贸易与增长 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
-| **Introduction to Statistical Data Analysis**<br>统计数据分析导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
+| **Introduction to Statistical Data Analysis**<br>统计数据分析入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Statistics, Computation and Applications**<br>统计、计算及应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Multicore Programming**<br>多核编程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Advanced Algorithms**<br>高级算法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
@@ -45,11 +45,11 @@ ms.date: 2026-11-18
 | **Theory of Computation**<br>计算理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Foundations of Cryptography**<br>密码学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Control of Manufacturing Processes**<br>制造过程控制 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
-| **Introduction to Mathematical Programming**<br>数学规划导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
+| **Introduction to Mathematical Programming**<br>数学规划入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Game Theory with Engineering Applications**<br>博弈论及其工程应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Network Science and Models**<br>网络科学与模型 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
-| **Introduction to Modeling and Simulation**<br>建模与仿真导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
-| **Introduction to Numerical Methods**<br>数值方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
+| **Introduction to Modeling and Simulation**<br>建模与仿真入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
+| **Introduction to Numerical Methods**<br>数值方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Parallel Computing and Scientific Machine Learning**<br>并行计算与科学机器学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Numerical Methods for Partial Differential Equations**<br>偏微分方程数值方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |
 | **Data-Communication Networks**<br>数据通信网络 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/) |

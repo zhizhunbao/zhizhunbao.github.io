@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GAP/courses.html) |
 | **Understanding Science and Technology**<br>理解科学与技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GAP/courses.html) |
 | **Psychology of Learning: Mindset and Resilience**<br>学习心理学：心态与韧性 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GAP/courses.html) |
-| **Introduction to Social Sciences**<br>社会科学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GAP/courses.html) |
+| **Introduction to Social Sciences**<br>社会科学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GAP/courses.html) |
 | **The Digital World - Issues and Trends**<br>数字世界 - 问题与趋势 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GAP/courses.html) |
 | **Big Ideas in Philosophy**<br>哲学的重大理念 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GAP/courses.html) |
 | **Accounting Basics I**<br>会计基础 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GAP/courses.html) |

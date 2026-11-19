@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Data Science and Analytics**<br>数据科学与分析荣誉学士 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA.html) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Discrete Mathematics**<br>离散数学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Statistical Methods for Data Science**<br>数据科学统计方法 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Security, Privacy and Ethics in Data Science**<br>数据科学中的安全、隐私与伦理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Structured Database Design**<br>结构化数据库设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
@@ -23,13 +23,13 @@ ms.date: 2026-11-08
 | **Programming for Data Science**<br>数据科学编程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Globalization in the 20th Century and Beyond**<br>20世纪及以后的全球化 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Data Preparation**<br>数据准备 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
-| **Introduction to Algorithms and Analyzing Data**<br>算法与数据分析导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
+| **Introduction to Algorithms and Analyzing Data**<br>算法与数据分析入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Advanced Database Design**<br>高级数据库设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Data Mining**<br>数据挖掘 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Simulation and Modelling**<br>仿真与建模 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Business Intelligence Case Study Analysis**<br>商业智能案例分析 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
-| **Introduction to Data Visualization**<br>数据可视化导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
-| **Introduction to AI**<br>AI导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
+| **Introduction to Data Visualization**<br>数据可视化入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
+| **Introduction to AI**<br>AI入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Strategic Analysis and Evidence Based Decision-Making**<br>战略分析与循证决策 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Predictive Analytics**<br>预测分析 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-08
 | **Human-Computer Interaction**<br>人机交互 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Digital Entrepreneurship**<br>数字创业 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Computer Vision**<br>计算机视觉 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
-| **Introduction to Microsoft Cloud Technologies**<br>Microsoft云技术导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
+| **Introduction to Microsoft Cloud Technologies**<br>Microsoft云技术入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Quantum Computing**<br>量子计算 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Natural Language Processing**<br>自然语言处理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |
 | **Agentic AI**<br>智能体AI | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DSA/courses.html) |

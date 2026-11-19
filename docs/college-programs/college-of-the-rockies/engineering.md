@@ -13,14 +13,14 @@ ms.date: 2026-11-08
 | **Engineering**<br>工程 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Engineering Design 1**<br>工程设计 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
-| **Introduction to Programming in the C and C++ Language**<br>C与C++语言编程导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
+| **Introduction to Programming in the C and C++ Language**<br>C与C++语言编程入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
-| **Introduction to Physics 1**<br>物理学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
+| **Introduction to Physics 1**<br>物理学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Chemistry for Engineering**<br>工程化学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Fundamentals of Chemistry 1**<br>化学基础 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Elementary Linear Algebra**<br>初等线性代数 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
-| **Introduction to Physics 2**<br>物理学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
+| **Introduction to Physics 2**<br>物理学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Engineering Design 2**<br>工程设计 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Fundamentals of Chemistry 2**<br>化学基础 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |
 | **Engineering Statics and Dynamics**<br>工程静力学与动力学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/engineering/) |

@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Indigenous Students in Higher Education**<br>高等教育中的原住民学生 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
 | **Student Development Theory**<br>学生发展理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
 | **Advanced Student Development Theories in Higher Education**<br>高等教育高级学生发展理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
-| **Introduction to Student Services**<br>学生服务导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
+| **Introduction to Student Services**<br>学生服务入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
 
 ## Courses
 

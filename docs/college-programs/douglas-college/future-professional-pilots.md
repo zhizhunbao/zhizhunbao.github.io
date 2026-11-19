@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Earth Sciences**<br>地球科学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aafpp) |
 | **Quantitative Methods in Geography**<br>地理学定量方法 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aafpp) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aafpp) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aafpp) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aafpp) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aafpp) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aafpp) |
 | **Quantitative Methods in Geography (meets the AA statistics elective requirement)**<br>地理学定量方法（满足 AA 统计学选修课要求） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/aafpp) |
 
 ## Courses

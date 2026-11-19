@@ -1,10 +1,10 @@
 ---
-title: "3.3.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science"
+title: "4.3.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science
+# 4.3.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science
 
 ## Glossary
 
@@ -22,7 +22,7 @@ ms.date: 2026-11-18
 | **Concepts in Environmental Communication**<br>环境传播中的概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Ethics in Bioengineering**<br>生物工程中的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Writing of Original Research for Engineers**<br>工程师原创研究写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Writing Intensive Senior Research Project**<br>写作密集型高年级研究项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Computers, Ethics, and Public Policy (WIM)**<br>计算机、伦理与公共政策（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Ethics, Public Policy, and Technological Change (WIM)**<br>伦理、公共政策与技术变革（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
@@ -33,9 +33,9 @@ ms.date: 2026-11-18
 | **Advanced Design: Partnered Build Capstone**<br>高级设计：合作构建毕业设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Digital Systems Design Lab**<br>数字系统设计实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Analog Communications Design Laboratory**<br>模拟通信设计实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
-| **Introduction to Photonics**<br>光子学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
+| **Introduction to Photonics**<br>光子学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Power Electronics**<br>电力电子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
-| **Introduction to Digital Image Processing**<br>数字图像处理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
+| **Introduction to Digital Image Processing**<br>数字图像处理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Special Studies and Reports in Electrical Engineering (WIM)**<br>电气工程专题研究与报告（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Digital Signal Processing (WIM)**<br>数字信号处理（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |
 | **Virtual Reality (WIM)**<br>虚拟现实（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/individually-designed-major-in-engineering/bachelor-of-science) |

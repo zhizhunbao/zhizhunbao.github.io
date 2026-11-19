@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **International Development Studies, 4-Year BA**<br>国际发展研究，4 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to International Development Studies**<br>国际发展研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to International Development Studies**<br>国际发展研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Participatory Local Development**<br>参与式地方发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Crisis, Humanitarian Aid**<br>危机、人道主义援助 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Development Ethics**<br>发展伦理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
@@ -20,10 +20,10 @@ ms.date: 2026-11-11
 | **Senior Seminar in International Development Studies**<br>国际发展研究高年级研讨课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Program Planning, Monitoring, and Studies**<br>项目规划、监测与研究 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Program Evaluation in Development and Conflict Resolution**<br>发展与冲突解决领域的项目评估 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Economic Theory**<br>经济理论导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Economic Development**<br>经济发展导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Economics: Micro**<br>经济学导论：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Economics: Macro**<br>经济学导论：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Economic Theory**<br>经济理论入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Economic Development**<br>经济发展入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Economics: Micro**<br>经济学入门：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Economics: Macro**<br>经济学入门：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Method and Theory in Cultural Anthropology**<br>文化人类学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Urbanization in the Developing World**<br>发展中世界的城市化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **International Organization**<br>国际组织 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
@@ -44,14 +44,14 @@ ms.date: 2026-11-11
 | **Research Methods and Design**<br>研究方法与设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Research Projects**<br>研究项目 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Environmental Impact Assessment**<br>环境影响评价 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Oral History**<br>口述史导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Oral History**<br>口述史入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Ethnoecology: A Research Approach**<br>民族生态学：一种研究途径 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Indigenous Research Methodologies and Ethics**<br>原住民研究方法论与伦理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Rhetorical Criticism**<br>修辞批评 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Quantitative Research Methods**<br>定量研究方法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Research Design and Qualitative Research**<br>研究设计与定性研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Quantitative Research Methods**<br>定量研究方法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Research Design and Qualitative Research**<br>研究设计与定性研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Seminar in Quantitative Research**<br>定量研究研讨课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Seminar in Qualitative Research**<br>定性研究研讨课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Statistical Analysis I**<br>统计分析 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
@@ -66,9 +66,9 @@ ms.date: 2026-11-11
 | **Theories and Practices of Oral Communication**<br>口头传播的理论与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Digital Storytelling and Participatory Media**<br>数字叙事与参与式媒体 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Technical and Professional Communication**<br>技术与专业传播 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Japanese Language**<br>日语导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Chinese Language**<br>汉语导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Korean Language**<br>韩语导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Japanese Language**<br>日语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Chinese Language**<br>汉语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Korean Language**<br>韩语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Elementary French 1**<br>初级法语 1 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Elementary French 2**<br>初级法语 2 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Elementary French 3**<br>初级法语 3 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
@@ -76,8 +76,8 @@ ms.date: 2026-11-11
 | **Intermediate French 2**<br>中级法语 2 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Introductory Cree**<br>克里语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Introductory Ojibwe**<br>奥吉布瓦语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Modern Standard Arabic I**<br>现代标准阿拉伯语导论 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
-| **Introduction to Modern Standard Arabic II**<br>现代标准阿拉伯语导论 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Modern Standard Arabic I**<br>现代标准阿拉伯语入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
+| **Introduction to Modern Standard Arabic II**<br>现代标准阿拉伯语入门 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Introductory Spanish**<br>西班牙语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 | **Intermediate Spanish**<br>中级西班牙语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/ids.pdf#page=3) |
 

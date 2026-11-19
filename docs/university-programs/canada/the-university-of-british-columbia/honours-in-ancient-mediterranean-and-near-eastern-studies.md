@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **Approaching the Ancient Mediterranean & Near East**<br>走近古代地中海与近东 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
 | **Uses and Abuses of Antiquity**<br>古代的利用与滥用 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
 | **Greek and Latin Roots of English**<br>英语的希腊语和拉丁语词根 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
-| **Introduction to Middle Egyptian**<br>中古埃及语导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
-| **Introduction to Akkadian**<br>阿卡德语导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
-| **Introduction to Coptic**<br>科普特语导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
-| **Introduction to Aramaic**<br>阿拉米语导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
+| **Introduction to Middle Egyptian**<br>中古埃及语入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
+| **Introduction to Akkadian**<br>阿卡德语入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
+| **Introduction to Coptic**<br>科普特语入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
+| **Introduction to Aramaic**<br>阿拉米语入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies) |
 
 ## Courses
 

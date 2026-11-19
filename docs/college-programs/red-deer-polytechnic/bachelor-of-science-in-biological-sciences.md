@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science in Biological Sciences**<br>生物科学理学学士 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/bachelor-science-biological-sciences) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/Bachelor%20of%20Science%20in%20Biological%20Sciences%202026-2027%20-%20Sept.pdf) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/Bachelor%20of%20Science%20in%20Biological%20Sciences%202026-2027%20-%20Sept.pdf) |
 | **Evolution and Biological Diversity**<br>进化与生物多样性 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/Bachelor%20of%20Science%20in%20Biological%20Sciences%202026-2027%20-%20Sept.pdf) |
 | **Molecular Cell Biology**<br>分子细胞生物学 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/Bachelor%20of%20Science%20in%20Biological%20Sciences%202026-2027%20-%20Sept.pdf) |
 | **Molecular Genetics and Heredity**<br>分子遗传学与遗传 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-09/Bachelor%20of%20Science%20in%20Biological%20Sciences%202026-2027%20-%20Sept.pdf) |

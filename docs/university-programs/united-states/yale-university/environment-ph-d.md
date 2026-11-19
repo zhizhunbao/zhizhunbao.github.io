@@ -1,10 +1,10 @@
 ---
-title: "3.4.132 Environment (Ph.D.)"
+title: "4.4.132 Environment (Ph.D.)"
 description: "University Programs > United States > Yale University > Environment (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.132 Environment (Ph.D.)
+# 4.4.132 Environment (Ph.D.)
 
 ## Glossary
 

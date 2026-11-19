@@ -15,14 +15,14 @@ ms.date: 2026-11-11
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Fundamentals of Physics I**<br>物理学基础 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Fundamentals of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Laboratory of Organic Chemistry II**<br>有机化学实验 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Chemical Thermodynamics of Gases and Solutions**<br>气体与溶液的化学热力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
-| **Physical Chemistry: Introduction to the Molecular Properties of Matter**<br>物理化学：物质分子性质导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
+| **Physical Chemistry: Introduction to the Molecular Properties of Matter**<br>物理化学：物质分子性质入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Descriptive Inorganic Chemistry**<br>描述无机化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Analytical Chemistry**<br>分析化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Intermediate Organic Chemistry**<br>中级有机化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Molecular Spectroscopy and Statistical Mechanics**<br>分子光谱学与统计力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Principles of Instrumental Analysis**<br>仪器分析原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Research Project**<br>研究项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
-| **Introduction to Circuit Theory and Electronics**<br>电路理论与电子学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
+| **Introduction to Circuit Theory and Electronics**<br>电路理论与电子学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Waves and Optics**<br>波与光学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Physics in Biology**<br>生物物理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Modern Physics**<br>近代物理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Laboratory of Organic Chemistry**<br>有机化学实验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Laboratory of Organic Chemistry – Research Option**<br>有机化学实验：研究选项 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Molecular Dynamics in Chemistry**<br>化学中的分子动力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
-| **Introduction to Molecular Simulation and Statistical Mechanics**<br>分子模拟与统计力学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
+| **Introduction to Molecular Simulation and Statistical Mechanics**<br>分子模拟与统计力学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Advanced Characterization Methods in Material Science and Catalysis**<br>材料科学与催化中的高级表征方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Photochemistry and Photobiology**<br>光化学与光生物学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |
 | **Special Topics in Physical Chemistry**<br>物理化学专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-chemistry/) |

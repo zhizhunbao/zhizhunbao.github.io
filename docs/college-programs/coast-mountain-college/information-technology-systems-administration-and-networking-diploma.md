@@ -17,8 +17,8 @@ ms.date: 2026-11-08
 | **Applied Operating Systems**<br>应用操作系统 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
 | **Network Infrastructure Fundamentals**<br>网络基础设施基础 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
 | **Linux Server Management I**<br>Linux服务器管理 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
-| **Introduction to Web Design**<br>网页设计导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
+| **Introduction to Web Design**<br>网页设计入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
 | **Work Experience**<br>工作经历 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
 | **Information Technology Cybersecurity**<br>信息技术网络安全 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |
 | **Windows Server Management II**<br>Windows 服务器管理 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/study/information-technology) |

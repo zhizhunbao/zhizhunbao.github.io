@@ -12,9 +12,9 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Pharmacy Technician**<br>药学技术员 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
 | **Communication Across Cultures**<br>跨文化沟通 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
-| **Introduction To Anatomy, Physiology And Pharmacology**<br>解剖学、生理学与药理学导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
+| **Introduction To Anatomy, Physiology And Pharmacology**<br>解剖学、生理学与药理学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
 | **Inventory Theory & Lab**<br>库存理论与实验 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
-| **Introduction To Pharmaceutical Mathematics**<br>药剂数学导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
+| **Introduction To Pharmaceutical Mathematics**<br>药剂数学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
 | **Computer Lab Retail I**<br>零售计算机实验 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
 | **Pharmacy Practice Retail**<br>零售药房实践 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |
 | **Dispensing Lab Retail I**<br>零售配药实验 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pharmacy-technician) |

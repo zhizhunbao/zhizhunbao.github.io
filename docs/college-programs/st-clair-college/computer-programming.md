@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-programming) |
 | **HTML And CSS**<br>HTML与CSS | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-programming) |
-| **Introduction To Programming - JAVA**<br>编程导论 - JAVA | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-programming) |
+| **Introduction To Programming - JAVA**<br>编程入门 - JAVA | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-programming) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-programming) |
 | **Networking I**<br>网络 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-programming) |
 | **Data Fundamentals**<br>数据基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/computer-programming) |

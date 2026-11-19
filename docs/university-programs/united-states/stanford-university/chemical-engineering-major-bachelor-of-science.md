@@ -1,10 +1,10 @@
 ---
-title: "3.3.11 Chemical Engineering, Major: Bachelor of Science"
+title: "4.3.11 Chemical Engineering, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Chemical Engineering, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.11 Chemical Engineering, Major: Bachelor of Science
+# 4.3.11 Chemical Engineering, Major: Bachelor of Science
 
 ## Glossary
 
@@ -23,16 +23,16 @@ ms.date: 2026-11-18
 | **Mechanics and Special Relativity**<br>力学与狭义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Electricity and Magnetism**<br>电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Electricity and Magnetism Using Special Relativity and Vector Calculus**<br>运用狭义相对论与矢量微积分的电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
-| **Introduction to Chemical Engineering**<br>化学工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
+| **Introduction to Chemical Engineering**<br>化学工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Foundational Biology for Engineers**<br>工程师的基础生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Applied Mathematics in Chemical Engineering A**<br>化学工程中的应用数学 A | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Applied Mathematics in Chemical Engineering B**<br>化学工程中的应用数学 B | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
-| **Introduction to Chemical Engineering Thermodynamics**<br>化工热力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
+| **Introduction to Chemical Engineering Thermodynamics**<br>化工热力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Statistical and Multi-Component Thermodynamics**<br>统计与多组分热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Energy and Mass Transport**<br>能量与质量输运 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Microkinetics - Molecular Principles of Chemical Kinetics**<br>微观动力学：化学动力学的分子原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
-| **Introduction to kinetics and reactor design**<br>动力学与反应器设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
+| **Introduction to kinetics and reactor design**<br>动力学与反应器设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Chemical Engineering Plant Design**<br>化工厂设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Chemical Engineering Laboratory A**<br>化学工程实验室 A | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |
 | **Chemical Engineering Laboratory B**<br>化学工程实验室 B | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/chemical-engineering/bachelor-of-science) |

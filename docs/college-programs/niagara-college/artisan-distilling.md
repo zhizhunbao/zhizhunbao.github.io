@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Distillery Operations**<br>酒厂运营 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/artisan-distilling/) |
 | **Distillation Science**<br>蒸馏科学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/artisan-distilling/) |
 | **Practical Distilling I**<br>蒸馏实操 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/artisan-distilling/) |
-| **Introduction to Sensory Analysis**<br>感官分析导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/artisan-distilling/) |
+| **Introduction to Sensory Analysis**<br>感官分析入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/artisan-distilling/) |
 | **The Legal and Regulatory Environment**<br>法律与监管环境 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/artisan-distilling/) |
 | **Quality Control**<br>质量控制 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/artisan-distilling/) |
 | **Practical Distilling II**<br>蒸馏实操 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/winebeerspirits/program/artisan-distilling/) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.96 East Asian Languages and Cultures, Master of Arts"
+title: "4.3.96 East Asian Languages and Cultures, Master of Arts"
 description: "University Programs > United States > Stanford University > East Asian Languages and Cultures, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.96 East Asian Languages and Cultures, Master of Arts
+# 4.3.96 East Asian Languages and Cultures, Master of Arts
 
 ## Glossary
 
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **Advanced Classical Chinese: Philosophical Texts**<br>高级文言文：哲学文本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Advanced Classical Chinese: Historical Narration**<br>高级文言文：历史叙事 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Fourth-Year Japanese, Third Quarter**<br>日语四年级，第三学季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
-| **Introduction to Premodern Japanese**<br>前现代日语导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
+| **Introduction to Premodern Japanese**<br>前现代日语入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Readings in Premodern Japanese**<br>前现代日语读本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Fourth-Year Korean,Third Quarter**<br>韩语四年级，第三学季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Fourth-Year Modern Chinese, Third Quarter**<br>现代汉语四年级，第三学季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-18
 | **Concepts of Modernity I: Queer Theory - Literature, Performance, and Art**<br>现代性概念 I：酷儿理论，文学、表演与艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Concepts of Modernity II: Aesthetics and Phenomenology**<br>现代性概念 II：美学与现象学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Senior and Master's Paper Writing Workshop**<br>本科与硕士论文写作工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
-| **Introduction to Archaeological Thought**<br>考古思想导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
+| **Introduction to Archaeological Thought**<br>考古思想入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Archaeological Methods**<br>考古方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Experimental Archaeology**<br>实验考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |
 | **Constructing National History in East Asian Archaeology**<br>东亚考古中的民族历史建构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-languages-and-cultures/master-of-arts) |

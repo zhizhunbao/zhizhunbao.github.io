@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Administration Accounting Finance - Diploma**<br>工商管理会计与金融文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Skills Orientation**<br>技能入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Financial Accounting I**<br>财务会计 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Principles Of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Financial Accounting II**<br>财务会计 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Principles Of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
-| **Introduction To Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
+| **Introduction To Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Business Communications II**<br>商务沟通 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Business Co-op Work-term I**<br>商科合作教育工作学期 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |
 | **Managerial Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business-administration-accounting-finance-diploma) |

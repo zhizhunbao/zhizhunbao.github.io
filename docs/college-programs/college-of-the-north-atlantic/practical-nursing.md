@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Practical Nursing**<br>实用护理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
-| **Introduction to Nursing**<br>护理学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
+| **Introduction to Nursing**<br>护理学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
 | **Fundamentals of Nursing Labs**<br>护理学基础实验 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
 | **Anatomy & Physiology I**<br>解剖与生理学 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
 | **Communication & Therapeutic Relationships**<br>沟通与治疗性关系 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
 | **Gerontological Nursing**<br>老年护理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
-| **Introduction to Nursing Practice**<br>护理实践导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
+| **Introduction to Nursing Practice**<br>护理实践入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
 | **Mental Health Nursing**<br>精神健康护理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
 | **Pharmacology I**<br>药理学 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |
 | **Anatomy and Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/practical-nursing) |

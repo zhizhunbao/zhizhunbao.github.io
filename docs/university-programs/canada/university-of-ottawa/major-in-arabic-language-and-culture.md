@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Pop Culture in the Arab World**<br>阿拉伯世界的流行文化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-arabic-language-culture/) |
 | **Arabic Cinema and Visual Media**<br>阿拉伯电影与视觉媒体 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-arabic-language-culture/) |
 | **Special Topics in Arab Canadian Studies**<br>阿拉伯裔加拿大研究专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-arabic-language-culture/) |
-| **Introduction to Arabic Literature**<br>阿拉伯文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-arabic-language-culture/) |
+| **Introduction to Arabic Literature**<br>阿拉伯文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-arabic-language-culture/) |
 | **Special Topics in Arabic Literature**<br>阿拉伯文学专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-arabic-language-culture/) |
 | **Directed Studies in Arabic**<br>阿拉伯语指导学习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-arabic-language-culture/) |
 | **Special Topics in Arabic Culture**<br>阿拉伯文化专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-arabic-language-culture/) |

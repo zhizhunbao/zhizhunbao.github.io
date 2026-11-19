@@ -1,10 +1,10 @@
 ---
-title: "3.4.143 Linguistics (Ph.D.)"
+title: "4.4.143 Linguistics (Ph.D.)"
 description: "University Programs > United States > Yale University > Linguistics (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.143 Linguistics (Ph.D.)
+# 4.4.143 Linguistics (Ph.D.)
 
 ## Glossary
 
@@ -20,7 +20,7 @@ ms.date: 2026-11-18
 | **Syntax II**<br>句法 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/linguistics/) |
 | **Semantics II**<br>语义学 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/linguistics/) |
 | **Morphology II**<br>形态学 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/linguistics/) |
-| **Introduction to Linguistic Phylogenetics**<br>语言系统发生学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/linguistics/) |
+| **Introduction to Linguistic Phylogenetics**<br>语言系统发生学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/linguistics/) |
 | **Mathematics of Language**<br>语言的数学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/linguistics/) |
 | **Quantitative Linguistics**<br>计量语言学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/linguistics/) |
 | **Experimental Semantics**<br>实验语义学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/linguistics/) |

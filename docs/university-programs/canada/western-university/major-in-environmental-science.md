@@ -18,16 +18,16 @@ ms.date: 2026-11-11
 | **ENVIRONMENTAL SCIENCE AND SUSTAINABILITY**<br>环境科学与可持续性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **EARTH ROCKS!**<br>地球摇滚！ | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **PLANET EARTH: SHAKEN AND STIRRED**<br>地球：摇撼与搅动 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE GEOLOGY AND RESOURCES OF EARTH**<br>地球地质与资源导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE GEOLOGY AND RESOURCES OF EARTH**<br>地球地质与资源入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **EARTH, ENVIRONMENT AND SUSTAINABILITY**<br>地球、环境与可持续性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS I**<br>物理学导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS II**<br>物理学导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS II**<br>物理学入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS I**<br>工科学生物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS II**<br>工科学生物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR ENGINEERS I**<br>工程师微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **ENVIRONMENTAL SCIENCE IN THE FIELD**<br>野外环境科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH TECHNIQUES IN ENVIRONMENTAL SCIENCE**<br>环境科学研究技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **CHEMISTRY OF THE ENVIRONMENT**<br>环境化学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GEOCHEMISTRY**<br>地球化学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GEOCHEMISTRY**<br>地球化学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR SCIENCE**<br>科学统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **DATA ANALYSIS IN EARTH SCIENCES**<br>地球科学中的数据分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |
 | **REMOTE SENSING AND IMAGE ANALYSIS FOR EARTH AND PLANETARY SCIENCE**<br>地球与行星科学的遥感与图像分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20726&SelectedCalendar=Live&ArchiveID=) |

@@ -11,26 +11,26 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Fine Arts, Dip.Art**<br>美术，Dip.Art | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Sculpture**<br>雕塑导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Sculpture**<br>雕塑入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Mould Making**<br>制模 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Painting**<br>绘画导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Ceramics**<br>陶艺导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Painting**<br>绘画入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Ceramics**<br>陶艺入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Drawing 1**<br>绘画 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Wheel - Throwing**<br>轮制陶艺导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Handbuilding**<br>手工成型导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Photography**<br>摄影导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Wheel - Throwing**<br>轮制陶艺入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Handbuilding**<br>手工成型入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Photography**<br>摄影入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Intermediate Printmaking: Intaglio**<br>中级版画：凹版 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Intermediate Printmaking: Silkscreen**<br>中级版画：丝网印刷 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Intermediate Printmaking: Lithography**<br>中级版画：石版 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Intermediate Printmaking: Relief and Monoprints**<br>中级版画：凸版与单版画 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Printmaking**<br>版画导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Printmaking**<br>版画入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Video 1**<br>视频 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Design**<br>设计导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Design**<br>设计入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Typography Studio**<br>字体排印工作室 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Special Topics**<br>专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Interdisciplinary Studio 1**<br>跨学科工作室 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Open Media**<br>开放媒体 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
-| **Introduction to Performance Art**<br>行为艺术导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
+| **Introduction to Performance Art**<br>行为艺术入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Intermediate Sculpture**<br>中级雕塑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Intermediate Painting**<br>中级绘画 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |
 | **Intermediate Wheel-Throwing**<br>中级轮制陶艺 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/fine-arts-dipart/) |

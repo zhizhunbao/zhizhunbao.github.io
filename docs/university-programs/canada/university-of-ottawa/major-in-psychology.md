@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Psychology**<br>心理学主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-psychology/) |
-| **Introduction to Psychology: Foundations**<br>心理学导论：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-psychology/) |
-| **Introduction to Psychology: Applications**<br>心理学导论：应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-psychology/) |
+| **Introduction to Psychology: Foundations**<br>心理学入门：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-psychology/) |
+| **Introduction to Psychology: Applications**<br>心理学入门：应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-psychology/) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-psychology/) |
 | **Quantitative Methods in Psychology I**<br>心理学中的定量方法 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-psychology/) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-psychology/) |

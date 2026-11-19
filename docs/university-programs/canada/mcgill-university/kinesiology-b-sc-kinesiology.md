@@ -45,7 +45,7 @@ ms.date: 2026-11-11
 | **Biometry.**<br>生物统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/) |
 | **Introductory Statistics.**<br>统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/) |
 | **Principles of Statistics 1.**<br>统计学原理 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/) |
 | **Statistics in Social Research.**<br>社会研究中的统计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/) |
 | **Historical Perspectives.**<br>历史视角 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/) |
 | **Sport in Society.**<br>社会中的体育运动 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/) |

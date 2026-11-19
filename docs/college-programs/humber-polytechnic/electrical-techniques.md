@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Electrical Techniques**<br>电气技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-techniques) |
 | **Communication and Documentation**<br>沟通与文档记录 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-techniques) |
-| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-techniques) |
+| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-techniques) |
 | **Trade Practices**<br>行业实务 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-techniques) |
 | **Installation and Maintenance Methods**<br>安装与维护方法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-techniques) |
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-techniques) |

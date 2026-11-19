@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Early Learning and Care, Diploma**<br>早期学习与保育文凭 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/early-learning-and-care-diploma) |
 | **Perspectives on Child Growth and Development 1**<br>儿童成长与发展视角 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 | **Guiding Relationships 1**<br>引导关系 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
-| **Introduction to Learning Environments**<br>学习环境导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
+| **Introduction to Learning Environments**<br>学习环境入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 | **Early Childhood Profession**<br>幼儿教育专业 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 | **Practicum 1**<br>实习 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 | **Health and Wellness for Early Learning & Care**<br>幼儿学习与照护的健康与保健 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Infant and Toddler Care**<br>婴幼儿照护 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 | **Early Childhood Profession 2**<br>幼儿教育专业 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 | **Practicum 2**<br>实习 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 | **Infant/Toddler Practice**<br>婴幼儿实践 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 | **Inclusive Practice**<br>包容性实践 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4226) |
 

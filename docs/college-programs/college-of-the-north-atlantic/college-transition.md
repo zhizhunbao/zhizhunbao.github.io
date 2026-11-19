@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Computer Applications I**<br>计算机应用 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/college-transition) |
 | **Psychology I**<br>心理学 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/college-transition) |
 | **Psychology II**<br>心理学 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/college-transition) |
-| **Intro to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/college-transition) |
+| **Intro to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/college-transition) |
 | **Family Studies**<br>家庭研究 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/college-transition) |
 | **Indigenous History of NL**<br>纽芬兰与拉布拉多原住民历史 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/college-transition) |
 | **Indigenous Arts & Culture**<br>原住民艺术与文化 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/college-transition) |

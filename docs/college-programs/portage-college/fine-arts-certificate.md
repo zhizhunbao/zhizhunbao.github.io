@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Fine Arts Certificate**<br>美术证书 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
 | **ART EXPOSE ll**<br>艺术展 II | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
 | **ELECTIVE**<br>选修课 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
-| **INTRODUCTION TO THE HISTORY OF WESTERN ART I**<br>西方艺术史导论 I | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
-| **INTRODUCTION TO THE HISTORY OF WESTERN ART II**<br>西方艺术史导论 II | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
+| **INTRODUCTION TO THE HISTORY OF WESTERN ART I**<br>西方艺术史入门 I | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
+| **INTRODUCTION TO THE HISTORY OF WESTERN ART II**<br>西方艺术史入门 II | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
 | **FINE ARTS STUDIO I**<br>美术工作室 I | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
 | **JUNIOR LEVEL ENGLISH**<br>低年级英语 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |
 | **VISUAL ARTS I - DRAWING**<br>视觉艺术 I - 绘画 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/fine-arts) |

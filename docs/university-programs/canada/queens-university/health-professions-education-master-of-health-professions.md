@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Professions Education - Master of Health Professions**<br>卫生专业教育 - 卫生专业硕士 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-professions-education/health-professions-education-mhp/) |
-| **Introduction to Health Professions Education**<br>健康职业教育导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-professions-education/health-professions-education-mhp/) |
+| **Introduction to Health Professions Education**<br>健康职业教育入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-professions-education/health-professions-education-mhp/) |
 | **Health Professions Education Curriculum and Design**<br>健康职业教育课程与设计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-professions-education/health-professions-education-mhp/) |
 | **Scholarship in Health Professions Education**<br>健康专业教育中的学术研究 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-professions-education/health-professions-education-mhp/) |
 | **Teaching & Learning in Collaborative Practice**<br>协作实践中的教与学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/health-professions-education/health-professions-education-mhp/) |

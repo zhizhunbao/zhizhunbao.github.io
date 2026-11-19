@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Diverse Communities & Public Safety**<br>多元社区与公共安全 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6472261/courses-next/) |
 | **Fitness, Health, and Wellness 2**<br>健身、健康与保健 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6472261/courses-next/) |
 | **Professional Practice-Communications**<br>专业实践 - 沟通 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6472261/courses-next/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6472261/courses-next/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6472261/courses-next/) |
 | **Police Powers 1**<br>警察权力 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6472261/courses-next/) |
 | **Criminal Investigations & Evidence**<br>刑事调查与证据 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6472261/courses-next/) |
 | **Conflict Management**<br>冲突管理 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6472261/courses-next/) |

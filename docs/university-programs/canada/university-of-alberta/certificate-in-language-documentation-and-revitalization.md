@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Practicum in Language Documentation and Revitalization**<br>语言记录与振兴实习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110885&returnto=20844) |
 | **Indigenous Languages of Canada**<br>加拿大原住民语言 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110885&returnto=20844) |
 | **Lexicography**<br>词典学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110885&returnto=20844) |
-| **Introduction to Ethnographic Methods**<br>民族志方法导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110885&returnto=20844) |
+| **Introduction to Ethnographic Methods**<br>民族志方法入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110885&returnto=20844) |
 | **Introductory Cree**<br>克里语入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110885&returnto=20844) |
 | **Indigenous Knowledge and Oral Traditions**<br>原住民知识与口述传统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110885&returnto=20844) |
 | **Research Methods in Indigenous Studies**<br>原住民研究的研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110885&returnto=20844) |

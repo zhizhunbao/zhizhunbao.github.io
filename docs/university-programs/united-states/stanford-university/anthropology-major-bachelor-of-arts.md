@@ -1,10 +1,10 @@
 ---
-title: "3.3.4 Anthropology, Major: Bachelor of Arts"
+title: "4.3.4 Anthropology, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Anthropology, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.4 Anthropology, Major: Bachelor of Arts
+# 4.3.4 Anthropology, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -13,7 +13,7 @@ ms.date: 2026-11-18
 | **Anthropology, Major: Bachelor of Arts**<br>人类学，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/anthropology/bachelor-of-arts) |
 | **Theory of Cultural and Social Anthropology**<br>文化与社会人类学理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/anthropology/bachelor-of-arts) |
 | **Method and Evidence in Anthropology**<br>人类学的方法与证据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/anthropology/bachelor-of-arts) |
-| **Introduction to Cultural and Social Anthropology**<br>文化与社会人类学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/anthropology/bachelor-of-arts) |
+| **Introduction to Cultural and Social Anthropology**<br>文化与社会人类学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/anthropology/bachelor-of-arts) |
 | **Sense of Place**<br>地方感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/anthropology/bachelor-of-arts) |
 | **The Urban Century: The City in Global Perspective**<br>城市世纪：全球视野下的城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/anthropology/bachelor-of-arts) |
 | **Anthropology of Islam**<br>伊斯兰人类学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/anthropology/bachelor-of-arts) |

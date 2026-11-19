@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Physics Fundamentals Part 1**<br>物理基础 第 1 部分 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dd4e27ce-e738-4f25-a0c8-3b1a454c6f3c) |
 | **Physics Fundamentals Part 2**<br>物理基础 第 2 部分 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dd4e27ce-e738-4f25-a0c8-3b1a454c6f3c) |
 | **Basic Computer Applications**<br>基础计算机应用 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dd4e27ce-e738-4f25-a0c8-3b1a454c6f3c) |
-| **Introduction to CAD**<br>CAD 导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dd4e27ce-e738-4f25-a0c8-3b1a454c6f3c) |
+| **Introduction to CAD**<br>CAD 入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dd4e27ce-e738-4f25-a0c8-3b1a454c6f3c) |
 | **CAD Applications**<br>CAD 应用 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dd4e27ce-e738-4f25-a0c8-3b1a454c6f3c) |
 | **CAD Detailing**<br>CAD 详图绘制 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dd4e27ce-e738-4f25-a0c8-3b1a454c6f3c) |
 | **Work Safely**<br>安全作业 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=dd4e27ce-e738-4f25-a0c8-3b1a454c6f3c) |

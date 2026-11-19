@@ -27,19 +27,19 @@ ms.date: 2026-11-11
 | **CALCULUS FOR ENGINEERS II**<br>工程师微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER GRAPHICS I**<br>计算机图形学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **GAME PROGRAMMING**<br>游戏编程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COMPUTER ORGANIZATION AND ARCHITECTURE**<br>计算机组成与体系结构导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COMPUTER ORGANIZATION AND ARCHITECTURE**<br>计算机组成与体系结构入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **APPLIED LOGIC FOR COMPUTER SCIENCE**<br>计算机科学应用逻辑 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **DATA STRUCTURES AND ALGORITHMS**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **SOFTWARE TOOLS AND SYSTEMS PROGRAMMING**<br>软件工具与系统编程 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOFTWARE ENGINEERING**<br>软件工程导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOFTWARE ENGINEERING**<br>软件工程入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **OPERATING SYSTEMS**<br>操作系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **OBJECT-ORIENTED DESIGN AND ANALYSIS**<br>面向对象设计与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **DISCRETE STRUCTURES FOR COMPUTING**<br>计算机科学离散结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICAL STRUCTURES**<br>数学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **PROJECT MANAGEMENT FOR THE SCIENCES**<br>科学项目管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICAL STRUCTURES II**<br>数学结构 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CRYPTOGRAPHY**<br>密码学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CRYPTOGRAPHY**<br>密码学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21112&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

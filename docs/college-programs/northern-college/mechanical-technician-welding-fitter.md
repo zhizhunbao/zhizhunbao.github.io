@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Welding Technical Drawings I**<br>焊接技术制图 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-technician-welding-fitter/) |
 | **Welding Theory I**<br>焊接理论 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-technician-welding-fitter/) |
 | **Welding Skills I**<br>焊接技能 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-technician-welding-fitter/) |
-| **Introduction to Welding**<br>焊接导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-technician-welding-fitter/) |
+| **Introduction to Welding**<br>焊接入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-technician-welding-fitter/) |
 | **Applied Communications I**<br>应用沟通 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-technician-welding-fitter/) |
 | **Indigenous Culture & Awareness**<br>原住民文化与意识 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-technician-welding-fitter/) |
 | **Mathematics for Welder Fitters II**<br>焊接装配工数学 II | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mechanical-technician-welding-fitter/) |

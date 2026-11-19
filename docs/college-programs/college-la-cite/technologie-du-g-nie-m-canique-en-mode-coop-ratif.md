@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Technologie du génie mécanique en mode coopératif**<br>机械工程技术师级（带薪实习模式） | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61731) |
 | **Initiation DAO**<br>CAD入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61731) |
-| **Introduction aux matériaux**<br>材料导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61731) |
+| **Introduction aux matériaux**<br>材料入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61731) |
 | **Trigonométrie et algèbre**<br>三角学与代数 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61731) |
 | **Dessin technique**<br>技术制图 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61731) |
 | **Physique mécanique statique**<br>静力学（机械物理） | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61731) |

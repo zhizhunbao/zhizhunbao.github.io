@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Medical Office Assistant and Unit Clerk**<br>医疗办公室助理与病房文员 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-office-assistant-and-unit-clerk) |
-| **Introduction to Digital Productivity Applications**<br>数字办公应用导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-office-assistant-and-unit-clerk) |
+| **Introduction to Digital Productivity Applications**<br>数字办公应用入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-office-assistant-and-unit-clerk) |
 | **Healthcare Systems Fundamentals**<br>医疗系统基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-office-assistant-and-unit-clerk) |
 | **Health Information Law 1**<br>健康信息法 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-office-assistant-and-unit-clerk) |
 | **Patient Record Fundamentals**<br>患者病历基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-office-assistant-and-unit-clerk) |

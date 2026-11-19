@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Business Administration, Post Degree Diploma - Marketing Option**<br>工商管理学位后文凭，市场营销方向 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/business-administration-post-degree-diploma-marketing-option) |
 | **Financial Management**<br>财务管理 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4252) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4252) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4252) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4252) |
 | **Marketing Research**<br>市场调研 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4252) |
 | **Integrated Marketing Communications**<br>整合营销传播 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4252) |
 | **Marketing Project Management**<br>营销项目管理 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4252) |

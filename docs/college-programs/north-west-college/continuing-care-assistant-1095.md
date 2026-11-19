@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Special Procedures**<br>特殊程序 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/students/international_students/international_programs.html?ProgramID=1095&loc=1929) |
 | **Special Needs 1**<br>特殊需求 1 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/students/international_students/international_programs.html?ProgramID=1095&loc=1929) |
 | **Special Needs 2**<br>特殊需求 2 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/students/international_students/international_programs.html?ProgramID=1095&loc=1929) |
-| **Introduction to Caregiving**<br>护理照护导论 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/students/international_students/international_programs.html?ProgramID=1095&loc=1929) |
+| **Introduction to Caregiving**<br>护理照护入门 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/students/international_students/international_programs.html?ProgramID=1095&loc=1929) |
 | **Foundations of Sociology**<br>社会学基础 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/students/international_students/international_programs.html?ProgramID=1095&loc=1929) |
 | **Community Care**<br>社区护理 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/students/international_students/international_programs.html?ProgramID=1095&loc=1929) |
 

@@ -12,15 +12,15 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Environmental Science & Technology Diploma**<br>环境科学与技术文凭 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Applied Ecology**<br>应用生态学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
-| **Introduction to GPS and Mapping**<br>GPS与测绘导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
+| **Introduction to GPS and Mapping**<br>GPS与测绘入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Plant Science Principles**<br>植物科学原理 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Fundamentals of Soil Science**<br>土壤科学基础 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
-| **Introduction to Water Resources**<br>水资源导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
+| **Introduction to Water Resources**<br>水资源入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Introductory Pest Management**<br>有害生物管理入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Land Conservation and Reclamation**<br>土地保护与复垦 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Inorganic Chemistry for Site Assessment and Remediation**<br>场地评估与修复的无机化学 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Foundations of Agriculture and Agri-Food**<br>农业与农业食品基础 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
-| **Introduction to GIS**<br>GIS导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
+| **Introduction to GIS**<br>GIS入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Industry Field Placement**<br>行业实地实习 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Native Plants of Alberta**<br>阿尔伯塔本地植物 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |
 | **Writing for Environmental and Land-use Professionals**<br>环境与土地利用专业人员写作 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/land-environment/environmental-science-technology.html) |

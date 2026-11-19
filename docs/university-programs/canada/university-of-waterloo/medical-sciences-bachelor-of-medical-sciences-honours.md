@@ -15,8 +15,8 @@ ms.date: 2026-11-11
 | **Cell Biology Laboratory**<br>细胞生物学实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **General Chemistry 1**<br>普通化学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **General Chemistry Laboratory 1**<br>普通化学实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
-| **Introduction to Health 1**<br>健康导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
-| **Introduction to Physics for Health Care Professions**<br>医疗保健专业物理学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
+| **Introduction to Health 1**<br>健康入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
+| **Introduction to Physics for Health Care Professions**<br>医疗保健专业物理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **General Chemistry Laboratory 2**<br>普通化学实验 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Sociology of Activity, Health, and Well-Being**<br>活动、健康与幸福感的社会学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Quantitative Approaches to Health Science**<br>健康科学的定量方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
-| **Introduction to Human Nutrition**<br>人类营养导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
+| **Introduction to Human Nutrition**<br>人类营养入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Fundamentals of Microbiology**<br>微生物学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Microbiology Laboratory**<br>微生物学实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Principles of Human Physiology 1**<br>人体生理学原理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Communication for Health Professions 2**<br>健康专业传播 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Human Physiology**<br>人体生理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
-| **Introduction to Psychopathology**<br>精神病理学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
+| **Introduction to Psychopathology**<br>精神病理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Molecular Biology**<br>分子生物学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Basic Principles of Medicine 1**<br>医学基本原理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |
 | **Basic Principles of Medicine 2**<br>医学基本原理 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1IJxeamkg) |

@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/event-planning) |
 | **Human Resource Management 1**<br>人力资源管理 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/event-planning) |
 | **Marketing 1**<br>市场营销 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/event-planning) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/event-planning) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/event-planning) |
 | **Career Planning**<br>职业规划 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/event-planning) |
 | **Business Computer Applications 2**<br>商务计算机应用 2 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/event-planning) |
 | **Event Program and Production Development**<br>活动方案与制作开发 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/event-planning) |

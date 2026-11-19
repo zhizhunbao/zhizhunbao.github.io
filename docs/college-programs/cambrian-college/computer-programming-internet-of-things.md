@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **One General Education course**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-programming-internet-of-things) |
 | **Programming IoT Devices**<br>物联网设备编程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-programming-internet-of-things) |
 | **Object Oriented Prog**<br>面向对象编程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-programming-internet-of-things) |
-| **Introduction to Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-programming-internet-of-things) |
+| **Introduction to Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-programming-internet-of-things) |
 | **Relational Databases**<br>关系数据库 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-programming-internet-of-things) |
 | **Applied Math**<br>应用数学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-programming-internet-of-things) |
 | **One General Education course.**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-programming-internet-of-things) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Introductory Report Writing and Speech**<br>报告写作与演讲入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/pharmacy-technician) |
 | **Introductory Communication for Helping Professionals**<br>助人专业沟通入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/pharmacy-technician) |
 | **Anatomy and Physiology for Pharmacy Technicians**<br>药学技术员解剖学与生理学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/pharmacy-technician) |
-| **Introduction to Pharmacy Practice**<br>药学实务导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/pharmacy-technician) |
+| **Introduction to Pharmacy Practice**<br>药学实务入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/pharmacy-technician) |
 | **Pharmaceutical Calculations**<br>药剂计算 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/pharmacy-technician) |
 | **Community Prescription Processing Lab**<br>社区处方处理实验 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/pharmacy-technician) |
 | **Pharmacy Law and Ethics**<br>药事法与伦理 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/pharmacy-technician) |

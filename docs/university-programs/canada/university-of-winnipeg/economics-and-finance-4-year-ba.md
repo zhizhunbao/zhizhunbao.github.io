@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Economics and Finance, 4-Year BA**<br>经济学与金融，4 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
-| **Introduction to Economics: Micro**<br>经济学导论：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
-| **Introduction to Economics: Macro**<br>经济学导论：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
+| **Introduction to Economics: Micro**<br>经济学入门：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
+| **Introduction to Economics: Macro**<br>经济学入门：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Intermediate Economics: Micro**<br>中级经济学：微观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Intermediate Economics: Macro**<br>中级经济学：宏观 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Money, Banking and Financial Systems**<br>货币、银行与金融体系 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
-| **Introduction to Business I**<br>商业导论 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
-| **Introduction to Business II**<br>商业导论 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
+| **Introduction to Business I**<br>商业入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
+| **Introduction to Business II**<br>商业入门 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Fundamentals of Financial Accounting**<br>财务会计基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Fundamentals of Marketing**<br>市场营销基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Fundamentals of Operations Management**<br>运营管理基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
@@ -28,18 +28,18 @@ ms.date: 2026-11-11
 | **Options, Futures and Derivatives**<br>期权、期货与衍生品 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Topics in Finance I**<br>金融学专题 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Topics in Finance II**<br>金融学专题 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
-| **Introduction to Calculus I**<br>微积分导论 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
+| **Introduction to Calculus I**<br>微积分入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Basic Calculus (Terminal)**<br>基础微积分（终结性） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Quantitative Methods for Economics and Business**<br>经济与商业定量方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Mathematics for Economics and Finance**<br>经济与金融数学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Applied Mathematics for Business and Administration**<br>商务与管理应用数学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Fundamentals of Organizational Behaviour**<br>组织行为学基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
-| **Introduction to Data Analysis for Economics and Finance**<br>经济与金融数据分析导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
+| **Introduction to Data Analysis for Economics and Finance**<br>经济与金融数据分析入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Econometrics for Economics and Finance**<br>经济与金融计量经济学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
-| **Introduction to Mathematical Finance**<br>数理金融导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
+| **Introduction to Mathematical Finance**<br>数理金融入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Modern Microeconomics for Economics and Business**<br>经济与商业现代微观经济学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **Behavioral Economics and Behavioral Finance**<br>行为经济学与行为金融学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |
 | **International Trade: Theory and Policy**<br>国际贸易：理论与政策 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/efin.pdf#page=1) |

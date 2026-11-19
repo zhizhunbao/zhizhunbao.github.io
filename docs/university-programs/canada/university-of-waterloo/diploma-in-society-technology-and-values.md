@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Diploma in Society, Technology and Values**<br>社会、技术与价值观文凭 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **The Computing Society**<br>计算社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
-| **Society, Technology and Values: Introduction**<br>社会、技术与价值观：导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
+| **Society, Technology and Values: Introduction**<br>社会、技术与价值观：入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Design and Society**<br>设计与社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Cybernetics and Society**<br>控制论与社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Artificial Intelligence and Society: Impact, Ethics, and Equity**<br>人工智能与社会：影响、伦理与公平 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
@@ -39,21 +39,21 @@ ms.date: 2026-11-11
 | **History of the Built Environment**<br>建成环境史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Technologies of Being Human**<br>成为人类的技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Anthropology of Digital Media**<br>数字媒体人类学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
-| **Introduction to Cultural History**<br>文化史导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
+| **Introduction to Cultural History**<br>文化史入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **The Social Implications of Computing**<br>计算的社会影响 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Computer Security**<br>计算机安全 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Digital Lives**<br>数字生活 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Science Fiction**<br>科幻小说 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
-| **Introduction to Critical Game Studies**<br>批判性游戏研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
+| **Introduction to Critical Game Studies**<br>批判性游戏研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Social Media**<br>社交媒体 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Environmental and Sustainability Assessment 1**<br>环境与可持续性评估 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
-| **Introduction to Sustainable Agroecosystems**<br>可持续农业生态系统导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
+| **Introduction to Sustainable Agroecosystems**<br>可持续农业生态系统入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Spirituality, Religion, and Ecology**<br>灵性、宗教与生态 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **First Nations and the Environment**<br>第一民族与环境 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
-| **Introduction to Digital Culture**<br>数字文化导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
+| **Introduction to Digital Culture**<br>数字文化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Data and Society**<br>数据与社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **From Gutenberg to Zuckerberg: A (Long) History of the Internet**<br>从古腾堡到扎克伯格：互联网的（长）历史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
-| **Introduction to Global Emerging Cities**<br>全球新兴城市导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
+| **Introduction to Global Emerging Cities**<br>全球新兴城市入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Collaboration, Design Thinking, and Problem Solving**<br>协作、设计思维与问题解决 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Surveillance Studies**<br>监控研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Security and Governance**<br>安全与治理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-11
 | **Engineering and Peace**<br>工程与和平 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Energy - Its Development, Use, and Issues**<br>能源：发展、利用与问题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Quantum Mechanics for Everyone**<br>人人可懂的量子力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
-| **Introduction to the Philosophy of Science**<br>科学哲学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
+| **Introduction to the Philosophy of Science**<br>科学哲学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 | **Culture of Design, Impacts**<br>设计文化与影响 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJZvulnuR) |
 
 ## Courses

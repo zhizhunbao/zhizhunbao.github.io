@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Nursing - Bachelor of**<br>护理学士 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Anatomy and Physiology I (U of L KNES-1160)**<br>解剖与生理学 I（U of L KNES-1160） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Composition (U of L WRIT-1000)**<br>作文（U of L WRIT-1000） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
-| **Introduction to Indigenous Studies (U of L INDG-1000)**<br>原住民研究导论（莱斯布里奇大学 INDG-1000） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
+| **Introduction to Indigenous Studies (U of L INDG-1000)**<br>原住民研究入门（莱斯布里奇大学 INDG-1000） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Becoming a Nurse (U of L NURS-1400)**<br>成为护士（U of L NURS-1400） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Personal Health and Wholeness (U of L NURS-1410)**<br>个人健康与整全（莱斯布里奇大学 NURS-1410） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Intersectionality and Health (U of L NURS-1420)**<br>交叉性与健康（莱斯布里奇大学 NURS-1420） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
@@ -21,8 +21,8 @@ ms.date: 2026-11-08
 | **Anatomy and Physiology II (U of L KNES-1161)**<br>解剖与生理学 II（U of L KNES-1161） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Caring Communication (U of L NURS-1500)**<br>关怀沟通（U of L NURS-1500） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Assessing Health (U of L NURS-1521)**<br>健康评估（U of L NURS-1521） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
-| **Introduction to Praxis (U of L NURS-1522)**<br>实践论导论（莱斯布里奇大学 NURS-1522） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
-| **Introduction to Psychology (U of L PSYC-1000)**<br>心理学导论（莱斯布里奇大学 PSYC-1000） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
+| **Introduction to Praxis (U of L NURS-1522)**<br>实践论入门（莱斯布里奇大学 NURS-1522） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
+| **Introduction to Psychology (U of L PSYC-1000)**<br>心理学入门（莱斯布里奇大学 PSYC-1000） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Ethics (U of L PHIL 1000)**<br>伦理学（U of L PHIL 1000） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Evidence and Praxis (U of L NURS-2300)**<br>证据与实践（U of L NURS-2300） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Health of Persons (U of L NURS-2321)**<br>个人健康（U of L NURS-2321） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Social Science Elective**<br>社会科学选修课 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Health of Families (U of L NURS-2421)**<br>家庭健康（U of L NURS-2421） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Praxis With Families (U of L NURS-2422)**<br>与家庭共同实践（莱斯布里奇大学 NURS-2422） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
-| **Introduction to Sociology (U of L SOCI-1000)**<br>社会学导论（莱斯布里奇大学 SOCI-1000） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
+| **Introduction to Sociology (U of L SOCI-1000)**<br>社会学入门（莱斯布里奇大学 SOCI-1000） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Community and Population Health**<br>社区与人群健康 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Praxis in Health Promotion**<br>健康促进实践 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |
 | **Leadership and Change**<br>领导力与变革 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing) |

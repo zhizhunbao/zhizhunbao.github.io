@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Calculus of Several Variables I**<br>多元微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Instrumental Analytical Chemistry**<br>仪器分析化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
-| **Introduction to Computational Chemistry**<br>计算化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
+| **Introduction to Computational Chemistry**<br>计算化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Inorganic Chemistry II: Advanced Inorganic Chemistry**<br>无机化学 II：高等无机化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Structural Biochemistry**<br>结构生物化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Chemical Synthesis Laboratory I**<br>化学合成实验 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
@@ -44,8 +44,8 @@ ms.date: 2026-11-11
 | **Chemical Synthesis Laboratory II**<br>化学合成实验 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Analytical and Physical Chemistry Instrumentation Laboratory II**<br>分析化学与物理化学仪器实验 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Research Opportunity Program**<br>研究机会计划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
-| **Introduction to Research in Chemistry**<br>化学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
-| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
+| **Introduction to Research in Chemistry**<br>化学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
+| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Chemical and Physical Sciences Internship**<br>化学与物理科学实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Research and Development in Science Education**<br>科学教育的研究与开发 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Advanced Interdisciplinary Research Laboratory**<br>高级跨学科研究实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-11
 | **Separations, Chromatography and Microfluidics**<br>分离、色谱与微流控 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Metal-based Chemistry for Synthesis of Small Molecules and Functional Materials**<br>用于小分子与功能材料合成的金属基化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Strategy & Control in Modern Drug Synthesis**<br>现代药物合成中的策略与控制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
-| **An Introduction to Medicinal Chemistry and Molecular Recognition**<br>药物化学与分子识别导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
+| **An Introduction to Medicinal Chemistry and Molecular Recognition**<br>药物化学与分子识别入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Revealing the Chemistry behind Biomolecules**<br>揭示生物分子背后的化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Biomolecular NMR Spectroscopy**<br>生物分子核磁共振波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |
 | **Modelling of Biochemical Systems**<br>生化系统建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1376) |

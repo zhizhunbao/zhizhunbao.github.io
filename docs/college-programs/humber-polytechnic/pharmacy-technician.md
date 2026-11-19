@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Institutional Dispensing 1**<br>机构配药 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pharmacy-technician) |
 | **Hospital Practices and Pharmaceutics**<br>医院实践与药剂学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pharmacy-technician) |
 | **Pharmacotherapeutics 2**<br>药物治疗学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pharmacy-technician) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pharmacy-technician) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pharmacy-technician) |
 | **OTC Drug Therapy and Minor Ailments**<br>非处方药治疗与小病症 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pharmacy-technician) |
 | **Community Pharmacy Dispensing 3**<br>社区药房配药 3 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pharmacy-technician) |
 | **Institutional Dispensing 2**<br>机构配药 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pharmacy-technician) |

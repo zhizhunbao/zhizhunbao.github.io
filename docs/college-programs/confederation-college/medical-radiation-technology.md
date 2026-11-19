@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Clinical Lab III**<br>临床实验 III | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/medical-radiation-technology/) |
 | **Computed Tomography (CT)**<br>计算机断层扫描（CT） | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/medical-radiation-technology/) |
 | **Interpersonal Communications Skills**<br>人际沟通技能 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/medical-radiation-technology/) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/medical-radiation-technology/) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/medical-radiation-technology/) |
 | **Research Study**<br>研究课题 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/medical-radiation-technology/) |
 | **Clinical Rotation I**<br>临床轮转 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/medical-radiation-technology/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/medical-radiation-technology/) |

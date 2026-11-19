@@ -1,10 +1,10 @@
 ---
-title: "3.3.15 Classics, Major: Bachelor of Arts"
+title: "4.3.15 Classics, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Classics, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.15 Classics, Major: Bachelor of Arts
+# 4.3.15 Classics, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -29,7 +29,7 @@ ms.date: 2026-11-18
 | **Madness in Greek and Latin Literature**<br>希腊与拉丁文学中的疯狂 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Global History: The World's Foundations**<br>全球史：世界的基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Theories of The State, Violence, Nationalism, and Social Order**<br>国家、暴力、民族主义与社会秩序理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
-| **Introduction to Greek Tragedy: Gods, Heroes, Fate, and Justice**<br>希腊悲剧导论：神、英雄、命运与正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
+| **Introduction to Greek Tragedy: Gods, Heroes, Fate, and Justice**<br>希腊悲剧入门：神、英雄、命运与正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Slavery, human trafficking, and the moral order: ancient and modern**<br>奴隶制、人口贩运与道德秩序：古代与现代 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Alexander the Great**<br>亚历山大大帝 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Ancient Medicine**<br>古代医学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
@@ -54,18 +54,18 @@ ms.date: 2026-11-18
 | **Ten Things: An Archaeology of Design**<br>十件事物：设计考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Ancient Urbanism**<br>古代城市化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Sailing the Wine-Dark Sea: Maritime Archaeology of the Ancient Mediterranean**<br>航行于酒红色的海上：古代地中海的海洋考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
-| **Introduction to Greek Art I: The Archaic Period**<br>希腊艺术导论 I：古风时期 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
-| **Introduction to Greek Art II: From the Parthenon to Scopas**<br>希腊艺术导论 II：从帕特农神庙到斯科帕斯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
+| **Introduction to Greek Art I: The Archaic Period**<br>希腊艺术入门 I：古风时期 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
+| **Introduction to Greek Art II: From the Parthenon to Scopas**<br>希腊艺术入门 II：从帕特农神庙到斯科帕斯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Artists, Athletes, Courtesans and Crooks**<br>艺术家、运动员、名妓与骗子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Engineering the Roman Empire**<br>罗马帝国的工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
-| **Introduction to Cultural and Social Anthropology**<br>文化与社会人类学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
+| **Introduction to Cultural and Social Anthropology**<br>文化与社会人类学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Theory of Cultural and Social Anthropology**<br>文化与社会人类学理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Sociology of Gender**<br>性别社会学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Classics of Modern Social Theory**<br>现代社会理论经典 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Discovering the World of Indus**<br>探索印度河世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
-| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
+| **What is Art: Introduction to Early Global Art and Architecture**<br>什么是艺术：早期全球艺术与建筑入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Heroes and Heroism**<br>英雄与英雄主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Emergence of Chinese Civilization from Caves to Palaces**<br>中华文明的诞生：从洞穴到宫殿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **African Archive Beyond Colonization**<br>超越殖民的非洲档案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
@@ -82,7 +82,7 @@ ms.date: 2026-11-18
 | **Classical Texts and Traditions II - Across Oceans of Time: Classical Roman Texts**<br>古典文本与传统 II：跨越时间之海：古罗马文本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Classical Texts and Traditions III - The Classical Age: Europe and Antiquity**<br>古典文本与传统 III：古典时代：欧洲与古代 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Pixels from the Past: Ancient Greece and Rome in Digital Media**<br>来自过去的像素：数字媒体中的古希腊与罗马 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
-| **Introduction to Roman Archaeology**<br>罗马考古学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
+| **Introduction to Roman Archaeology**<br>罗马考古学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **Pompeii**<br>庞贝 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **The Archaeological Imagination**<br>考古想象力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |
 | **What is Platonic Love?**<br>什么是柏拉图式爱情？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/classics/bachelor-of-arts) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Software Engineering, Software Engineering Co-op (B.Eng.)**<br>软件工程，软件工程合作教育（B.Eng.） | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33033) |
 | **Engineering Mathematics III**<br>工程数学 III | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33033) |
-| **Software Design I - Introduction to Software Development**<br>软件设计 I：软件开发导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33033) |
+| **Software Design I - Introduction to Software Development**<br>软件设计 I：软件开发入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33033) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33033) |
 | **Digital Systems and Interfacing**<br>数字系统与接口 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33033) |
 | **Discrete Mathematics with Applications I**<br>离散数学及其应用 I | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33033) |

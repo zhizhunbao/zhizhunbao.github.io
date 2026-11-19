@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN BIOARCHAEOLOGY**<br>生物考古学证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1030) |
-| **Introduction to Archaeology: Methods, Theories, and Practices**<br>考古学导论：方法、理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1030) |
+| **Introduction to Archaeology: Methods, Theories, and Practices**<br>考古学入门：方法、理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1030) |
 | **Human Skeletal Anatomy and Biology**<br>人体骨骼解剖与生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1030) |
 | **Advanced Topics In Human Osteology**<br>人类骨学高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1030) |
 | **Bioarchaeology**<br>生物考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/sccer1030) |

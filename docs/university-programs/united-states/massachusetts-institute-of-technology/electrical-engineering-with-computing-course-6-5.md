@@ -1,26 +1,26 @@
 ---
-title: "3.2.25 Electrical Engineering with Computing (Course 6-5)"
+title: "4.2.25 Electrical Engineering with Computing (Course 6-5)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Electrical Engineering with Computing (Course 6-5): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.25 Electrical Engineering with Computing (Course 6-5)
+# 4.2.25 Electrical Engineering with Computing (Course 6-5)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Electrical Engineering with Computing (Course 6-5)**<br>电气工程结合计算（Course 6-5） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
 | **Discrete Mathematics and Proof for Computer Science**<br>面向计算机科学的离散数学与证明 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
-| **Introduction to Low-level Programming in C and Assembly**<br>C 与汇编低级编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
+| **Introduction to Low-level Programming in C and Assembly**<br>C 与汇编低级编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
-| **Introduction to Inference**<br>推断导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
+| **Introduction to Inference**<br>推断入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
 | **Computation Structures**<br>计算结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
 | **Electrical Circuits: Modeling and Design of Physical Systems**<br>电路：物理系统的建模与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |
 | **Signal Processing**<br>信号处理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/) |

@@ -1,20 +1,20 @@
 ---
-title: "3.2.50 Planning (Course 11)"
+title: "4.2.50 Planning (Course 11)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Planning (Course 11): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.50 Planning (Course 11)
+# 4.2.50 Planning (Course 11)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Planning (Course 11)**<br>规划（Course 11） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
-| **Introduction to Urban Design and Development**<br>城市设计与开发导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
+| **Introduction to Urban Design and Development**<br>城市设计与开发入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
 | **Making Public Policy**<br>公共政策制定 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
-| **Introduction to Spatial Analysis and GIS Laboratory (CI-M)**<br>空间分析与 GIS 实验室导论 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
+| **Introduction to Spatial Analysis and GIS Laboratory (CI-M)**<br>空间分析与 GIS 实验室入门 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
 | **City to City: Comparing, Researching, and Reflecting on Practice (CI-M)**<br>城市之间：实践的比较、研究与反思（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
 | **Thesis Research Design Seminar (CI-M)**<br>论文研究设计研讨课（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |
 | **Undergraduate Thesis**<br>本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/planning-course-11/) |

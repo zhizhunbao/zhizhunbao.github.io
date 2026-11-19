@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Engineering Management (Online)**<br>工程管理硕士（网络授课） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management-online/) |
-| **Introduction to Engineering Management**<br>工程管理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management-online/) |
+| **Introduction to Engineering Management**<br>工程管理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management-online/) |
 | **Principles of Accounting and Finance for Engineers**<br>工程师会计与金融原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management-online/) |
 | **Principles of Management and Leadership for Engineers**<br>工程师管理与领导力原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management-online/) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management-online/) |

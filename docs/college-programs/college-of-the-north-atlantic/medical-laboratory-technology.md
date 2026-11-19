@@ -18,14 +18,14 @@ ms.date: 2026-11-08
 | **Human Biology**<br>人体生物学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Medical Lab Fundamentals**<br>医学实验室基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Professional Practice & Ethics**<br>职业实践与伦理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
-| **Intro to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
+| **Intro to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Histology**<br>组织学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Health Care Organization and Structure**<br>医疗保健组织与结构 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Specimen Collection**<br>标本采集 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
-| **Intro to Quality Management**<br>质量管理导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
+| **Intro to Quality Management**<br>质量管理入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Instrumentation & Techniques**<br>仪器与技术 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Applied Science for Allied Health**<br>联合健康应用科学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
-| **Intro to Clinical Chemistry**<br>临床化学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
+| **Intro to Clinical Chemistry**<br>临床化学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Hematology 1**<br>血液学 1 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Clinical Microbiology 1**<br>临床微生物学 1 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Histotechnology 1**<br>组织技术 1 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
@@ -34,12 +34,12 @@ ms.date: 2026-11-08
 | **Clinical Chemistry 1**<br>临床化学 1 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Clinical Microbiology 2**<br>临床微生物学 2 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Histotechnology 2**<br>组织技术 2 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
-| **Intro to Blood Banking**<br>血库学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
+| **Intro to Blood Banking**<br>血库学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Clinical Chemistry 2**<br>临床化学 2 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Hematology 3**<br>血液学 3 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Clinical Microbiology 3**<br>临床微生物学 3 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
-| **Intro to Transfusion Medicine**<br>输血医学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
+| **Intro to Transfusion Medicine**<br>输血医学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Histotechnology 3**<br>组织技术 3 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Research Methods and Stats**<br>研究方法与统计 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |
 | **Clinical Microbiology Sim 1**<br>临床微生物学模拟 1 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-laboratory-technology) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Matchmoving for VFX**<br>视觉特效的镜头匹配 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VFT/courses.html) |
 | **Look Development for VFX**<br>视觉特效外观开发 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VFT/courses.html) |
 | **Asset Development for VFX**<br>视觉特效资产开发 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VFT/courses.html) |
-| **Introduction to Python Programming**<br>Python编程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VFT/courses.html) |
+| **Introduction to Python Programming**<br>Python编程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VFT/courses.html) |
 | **Surfacing I for Visual Effects**<br>视觉特效表面处理 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VFT/courses.html) |
 | **2D and 3D Compositing II**<br>2D与3D合成 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VFT/courses.html) |
 | **Maya Dynamics II**<br>Maya动力学 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VFT/courses.html) |

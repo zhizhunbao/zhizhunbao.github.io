@@ -1,10 +1,10 @@
 ---
-title: "3.1.2 Anthropology (B.A.)"
+title: "4.1.2 Anthropology (B.A.)"
 description: "University Programs > United States > Harvard University > Anthropology (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.2 Anthropology (B.A.)
+# 4.1.2 Anthropology (B.A.)
 
 ## Glossary
 
@@ -23,12 +23,12 @@ ms.date: 2026-11-18
 | **Who Lives, Who Dies, Who Cares? Reimagining Global Health**<br>谁生，谁死，谁在乎？重新构想全球健康 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Race and Caste**<br>种族与种姓 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Language in Culture and Society**<br>文化与社会中的语言 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Sociocultural Anthropology (new!)**<br>社会文化人类学导论（新课！） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Sociocultural Anthropology (new!)**<br>社会文化人类学入门（新课！） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **The Law and its Limits**<br>法律及其局限 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Ethnographic Research Methods**<br>民族志研究方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Activist, Collaborative, and Engaged Interventions in Anthropology**<br>人类学中的行动主义、协作式与参与式介入 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Race and Genetics: American Biopolitics**<br>种族与遗传学：美国生命政治 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Where Science Meets Society: Introduction to STS**<br>科学与社会的交汇：STS导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Where Science Meets Society: Introduction to STS**<br>科学与社会的交汇：STS入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 
 ## Courses
 

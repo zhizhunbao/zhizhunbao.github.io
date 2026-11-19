@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Child and Youth Care**<br>儿童与青少年关怀 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
-| **Introduction to Professional Skills**<br>专业技能导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
+| **Introduction to Professional Skills**<br>专业技能入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Community Resources and Legislation**<br>社区资源与立法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Relational Child and Youth Care Practice 1**<br>儿童与青少年关爱关系实践 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Group Dynamics**<br>团体动力学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Human Sexuality**<br>人类性学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Philosophies of Care**<br>护理理念 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Psychology of Mental Health and Illness 2**<br>心理健康与疾病心理学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Field Experience & Integrative Seminar 2**<br>实地体验与综合研讨 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Issues in Child and Youth Care Practice**<br>儿童与青少年关爱实践议题 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |
 | **Field Experience & Integrative Seminar 3**<br>实地体验与综合研讨 3 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care) |

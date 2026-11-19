@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Master of Engineering Chemical Engineering**<br>工程硕士，化学工程 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/) |
 | **Professional Skills and Responsibility**<br>专业技能与责任 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/) |
-| **Introduction to Engineering Management**<br>工程管理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/) |
+| **Introduction to Engineering Management**<br>工程管理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/) |
 | **Technology entrepreneurship for Engineers and Computer Scientists**<br>工程师与计算机科学家的技术创业 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/) |
 | **Communication and Influence for Engineers**<br>工程师的沟通与影响力 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/) |
 | **Engineering Design**<br>工程设计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-chemical-engineering/) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Paralegal (Accelerated)**<br>律师助理（加速） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PLEA.html) |
-| **Introduction to the Legal System for Paralegals**<br>面向律师助理的法律体系导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PLEA/courses.html) |
+| **Introduction to the Legal System for Paralegals**<br>面向律师助理的法律体系入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PLEA/courses.html) |
 | **Contracts and Torts for Paralegals**<br>律师助理合同法与侵权法 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PLEA/courses.html) |
 | **Legal Entities and Relationships**<br>法律实体与关系 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PLEA/courses.html) |
 | **Computer Applications for Paralegals I**<br>律师助理计算机应用 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PLEA/courses.html) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Equine Care and Management Certificate**<br>马匹护理与管理证书 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Equine Terminology**<br>马术语 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Equine Husbandry, Behaviour and Handling**<br>马饲养、行为与保定 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
-| **Introduction to Careers in the Equine Industry**<br>马产业职业导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
+| **Introduction to Careers in the Equine Industry**<br>马产业职业入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Workplace Communication**<br>职场沟通 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Horsemanship Under Saddle I**<br>鞍上骑术 I | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Social Media Management and Marketing**<br>社交媒体管理与营销 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Fundamentals of Equine Health**<br>马健康基础 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Life Stages of the Horse**<br>马的生命阶段 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Maximizing Equine Performance**<br>最大化马的表现 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
-| **Introduction to the Veterinary Profession**<br>兽医职业导论 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
+| **Introduction to the Veterinary Profession**<br>兽医职业入门 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Horsemanship Under Saddle II**<br>鞍上骑术 II | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Financial Literacy for Non-Financial Managers**<br>非财务经理财务素养 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |
 | **Industry Field Placement**<br>行业实地实习 | (Definition pending) | （定义待补） | [Olds College, n.d.](https://www.oldscollege.ca/programs/areas-of-interest/equine/equine-care-and-management-certificate.html) |

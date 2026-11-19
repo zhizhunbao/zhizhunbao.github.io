@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Nonprofit Leadership**<br>非营利组织领导力 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
-| **Introduction to Nonprofit Organizations**<br>非营利组织导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
+| **Introduction to Nonprofit Organizations**<br>非营利组织入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
 | **Governance of Nonprofit Organizations**<br>非营利组织治理 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
 | **Strategic Management for Nonprofit Organizations**<br>非营利组织战略管理 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
 | **Nonprofit Communications**<br>非营利组织传播 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Financial Management of Nonprofit Organizations**<br>非营利组织财务管理 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
 | **Marketing Nonprofit Organizations**<br>非营利组织营销 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
 | **Capstone Project for Nonprofit Leadership**<br>非营利组织领导力毕业设计项目 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/nonprofit-leadership) |
 
 ## Courses

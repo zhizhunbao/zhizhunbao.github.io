@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Human Biology**<br>人体生物学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours/courses?id=36346) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours/courses?id=36346) |
 | **Academic Communications**<br>学术交流 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours/courses?id=36346) |
-| **Introduction to Environmental Health**<br>环境卫生导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours/courses?id=36346) |
+| **Introduction to Environmental Health**<br>环境卫生入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours/courses?id=36346) |
 | **Environmental Science I**<br>环境科学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours/courses?id=36346) |
 | **Health Information Science**<br>健康信息科学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours/courses?id=36346) |
 | **Applied Microbiology**<br>应用微生物学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-environmental-public-health-honours/courses?id=36346) |

@@ -21,13 +21,13 @@ ms.date: 2026-11-11
 | **General Chemistry 2**<br>普通化学 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **General Chemistry Laboratory 2**<br>普通化学实验 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Sociology of Activity, Health, and Well-Being**<br>活动、健康与幸福感的社会学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Health 1**<br>健康导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Health 2**<br>健康导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Health Data Science**<br>健康数据科学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Health 1**<br>健康入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Health 2**<br>健康入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Health Data Science**<br>健康数据科学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Quantitative Approaches to Health Science**<br>健康科学的定量方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Health Research**<br>健康研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Health Research**<br>健康研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Biochemistry for Health Sciences**<br>健康科学生物化学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Health Informatics**<br>健康信息学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Health Informatics**<br>健康信息学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Principles of Epidemiology**<br>流行病学原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Environmental Toxicology and Public Health**<br>环境毒理学与公共卫生 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Principles of Pathobiology**<br>病理生物学原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-11
 | **Cellular Neurophysiology**<br>细胞神经生理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Developmental Biology and Embryology**<br>发育生物学与胚胎学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Mammalian Reproduction**<br>哺乳动物生殖 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **An Introduction to Health Neuroscience**<br>健康神经科学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **An Introduction to Health Neuroscience**<br>健康神经科学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Social Neuroscience 1: Mental Health and Addiction**<br>社会神经科学 1：心理健康与成瘾 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Nutritional Aspects of Chronic Disease**<br>慢性病的营养方面 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Geriatric Medicine and Health Care**<br>老年医学与医疗保健 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
@@ -56,9 +56,9 @@ ms.date: 2026-11-11
 | **Epigenetics and Health**<br>表观遗传学与健康 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Neuropharmacology**<br>神经药理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Regional Human Anatomy**<br>局部人体解剖学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Human Nutrition**<br>人类营养导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Human Nutrition**<br>人类营养入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Cardiovascular and Pulmonary Physiology**<br>心血管与肺生理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Neurological Disorders**<br>神经系统疾病导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Neurological Disorders**<br>神经系统疾病入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Micronutrient Metabolism**<br>微量营养素代谢 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Physiology of Obesity and Type 2 Diabetes**<br>肥胖与 2 型糖尿病的生理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Physiology of Muscle Aging and Disease**<br>肌肉衰老与疾病的生理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
@@ -73,8 +73,8 @@ ms.date: 2026-11-11
 | **Computing in Health Informatics**<br>健康信息学中的计算 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Disease Mapping and Geographic Information Systems**<br>疾病制图与地理信息系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Food and Nutrition Security**<br>粮食与营养安全 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Statistical Analytics in Health**<br>健康统计分析导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
-| **Introduction to Statistical Problem Solving**<br>统计问题求解导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Statistical Analytics in Health**<br>健康统计分析入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
+| **Introduction to Statistical Problem Solving**<br>统计问题求解入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkEjyyCCsh) |
 
 ## Courses

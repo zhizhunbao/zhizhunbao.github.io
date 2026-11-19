@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in German Language (Category 2)**<br>德语证书（类别 2） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1402) |
-| **Introduction to German Culture (E)**<br>德国文化导论 (E) | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1402) |
+| **Introduction to German Culture (E)**<br>德国文化入门 (E) | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1402) |
 | **Marx, Nietzsche, Freud (E)**<br>马克思、尼采、弗洛伊德 (E) | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1402) |
 
 ## Courses

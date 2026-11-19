@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration: Marketing**<br>工商管理：市场营销 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=40cca5f4-d50b-4142-8902-0b9a06464ad8) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=40cca5f4-d50b-4142-8902-0b9a06464ad8) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=40cca5f4-d50b-4142-8902-0b9a06464ad8) |
 | **Practicum: BA - Business Administration**<br>实习：BA - 工商管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=40cca5f4-d50b-4142-8902-0b9a06464ad8) |
 | **Professional Business Writing**<br>职业商务写作 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=40cca5f4-d50b-4142-8902-0b9a06464ad8) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=40cca5f4-d50b-4142-8902-0b9a06464ad8) |

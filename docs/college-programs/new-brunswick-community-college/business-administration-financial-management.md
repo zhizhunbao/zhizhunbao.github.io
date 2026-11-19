@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration: Financial Management**<br>工商管理：财务管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Practicum: BA - Business Administration**<br>实习：BA - 工商管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Professional Business Writing**<br>职业商务写作 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
@@ -21,9 +21,9 @@ ms.date: 2026-11-08
 | **Financial Accounting I**<br>财务会计 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Financial Accounting II**<br>财务会计 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Insurance for Financial Planning**<br>理财规划保险 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
-| **Introduction to Investment Management**<br>投资管理导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
+| **Introduction to Investment Management**<br>投资管理入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Behavioural Finance**<br>行为金融学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
-| **Introduction to Financial Markets**<br>金融市场导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
+| **Introduction to Financial Markets**<br>金融市场入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Stock and Bond Portfolio Management**<br>股票与债券投资组合管理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Canadian Securities I**<br>加拿大证券 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |
 | **Canadian Securities II**<br>加拿大证券 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f007c4ed-ab22-4f97-badc-83fbfbf10dcb) |

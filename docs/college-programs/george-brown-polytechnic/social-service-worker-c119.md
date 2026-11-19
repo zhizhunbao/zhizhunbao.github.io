@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Understanding and Working with Groups**<br>理解并开展团体工作 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-c119) |
 | **The Social Power, Privilege and Identity**<br>社会权力、特权与身份 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-c119) |
 | **General Elective**<br>通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-c119) |
-| **Introduction to Counselling Skills in Social Service Work**<br>社会服务工作咨询技能导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-c119) |
+| **Introduction to Counselling Skills in Social Service Work**<br>社会服务工作咨询技能入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-c119) |
 | **Indigenous Studies**<br>原住民研究 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-c119) |
 | **Preparation for Field and Professional Practice**<br>实地与专业实践准备 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-c119) |
 | **Lifespan Development**<br>毕生发展 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/social-service-worker-program-c119) |

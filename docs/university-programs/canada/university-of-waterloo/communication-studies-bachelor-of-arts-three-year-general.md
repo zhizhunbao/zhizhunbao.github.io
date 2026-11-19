@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkGgy0Rj2) |
 | **Theories of Communication**<br>传播理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkGgy0Rj2) |
 | **Public Speaking**<br>公共演讲 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkGgy0Rj2) |
-| **Introduction to Race, Culture, and Communication**<br>种族、文化与传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkGgy0Rj2) |
+| **Introduction to Race, Culture, and Communication**<br>种族、文化与传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkGgy0Rj2) |
 | **Public Communication**<br>公共传播 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkGgy0Rj2) |
 | **Performance Studies**<br>表演研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkGgy0Rj2) |
 | **Black Performance Studies**<br>黑人表演研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkGgy0Rj2) |

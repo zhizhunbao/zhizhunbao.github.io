@@ -1,23 +1,23 @@
 ---
-title: "3.2.11 Brain and Cognitive Sciences (Course 9)"
+title: "4.2.11 Brain and Cognitive Sciences (Course 9)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Brain and Cognitive Sciences (Course 9): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.11 Brain and Cognitive Sciences (Course 9)
+# 4.2.11 Brain and Cognitive Sciences (Course 9)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Brain and Cognitive Sciences (Course 9)**<br>脑与认知科学（Course 9） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Psychological Science**<br>心理科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Neural Computation**<br>神经计算导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Psychological Science**<br>心理科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Neural Computation**<br>神经计算入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Statistics for Brain and Cognitive Science**<br>脑与认知科学统计学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Probability and Random Variables**<br>概率与随机变量 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Experimental Molecular Neurobiology (CI-M)**<br>实验分子神经生物学 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Systems Neuroscience Laboratory (CI-M)**<br>系统神经科学实验（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
@@ -45,14 +45,14 @@ ms.date: 2026-11-18
 | **Dynamics and Control I**<br>动力学与控制 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Biomolecular Feedback Systems**<br>生物分子反馈系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Biomechanics and Neural Control of Movement**<br>生物力学与运动的神经控制 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Biological Chemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Biological Chemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Computability and Complexity Theory**<br>可计算性与复杂性理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Signal Processing**<br>信号处理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Advances in Computer Vision**<br>计算机视觉进展 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Quantitative Methods for Natural Language Processing**<br>自然语言处理定量方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
@@ -61,7 +61,7 @@ ms.date: 2026-11-18
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Theory of Computation**<br>计算理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Theory of Knowledge**<br>知识论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Language and Its Structure I: Phonology**<br>语言及其结构 I：音系学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Language and Its Structure II: Syntax**<br>语言及其结构 II：句法学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |
 | **Language and Its Structure III: Semantics and Pragmatics**<br>语言及其结构 III：语义学与语用学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/) |

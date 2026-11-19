@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/fitness-and-wellness-management) |
 | **Applied Digital Technologies**<br>应用数字技术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/fitness-and-wellness-management) |
 | **Foundations in Strength and Conditioning**<br>力量与体能训练基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/fitness-and-wellness-management) |
-| **Introduction to Wellness**<br>健康养生导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/fitness-and-wellness-management) |
+| **Introduction to Wellness**<br>健康养生入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/fitness-and-wellness-management) |
 | **Human Nutrition Fundamentals**<br>人类营养基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/fitness-and-wellness-management) |
 | **Healthcare Professionalism**<br>医疗职业素养 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/fitness-and-wellness-management) |
 | **Biomechanics and Exercise Physiology**<br>生物力学与运动生理学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/fitness-and-wellness-management) |

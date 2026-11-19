@@ -22,11 +22,11 @@ ms.date: 2026-11-11
 | **Analysis 1A**<br>分析 1A | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
 | **Analysis 1B**<br>分析 1B | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
 | **Chemistry of Environmental Change**<br>环境变化化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
-| **Introduction to Analytical Chemistry**<br>分析化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
+| **Introduction to Analytical Chemistry**<br>分析化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
 | **Physical Chemistry for Life Sciences**<br>生命科学物理化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
-| **Introduction to Physical Chemistry**<br>物理化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
+| **Introduction to Physical Chemistry**<br>物理化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
 | **Environmental Fate and Toxicity of Organic Contaminants**<br>有机污染物的环境归趋与毒性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
-| **Introduction to Instrumental Methods of Analysis**<br>仪器分析方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
+| **Introduction to Instrumental Methods of Analysis**<br>仪器分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
 | **Experimental Physical Chemistry**<br>实验物理化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
 | **Intermediate Inorganic Chemistry**<br>中级无机化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |
 | **Organic Synthesis Techniques**<br>有机合成技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2543) |

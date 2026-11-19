@@ -1,10 +1,10 @@
 ---
-title: "3.3.124 Medicine, Master of Science"
+title: "4.3.124 Medicine, Master of Science"
 description: "University Programs > United States > Stanford University > Medicine, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.124 Medicine, Master of Science
+# 4.3.124 Medicine, Master of Science
 
 ## Glossary
 
@@ -14,8 +14,8 @@ ms.date: 2026-11-18
 | **Physician Scientist Career Development Symposium**<br>医师科学家职业发展研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Planning and Writing a Research Proposal**<br>研究计划书的规划与写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **The Responsible Conduct of Research**<br>负责任的科研行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
-| **Introduction to Bioengineering Research**<br>生物工程研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
+| **Introduction to Bioengineering Research**<br>生物工程研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Artificial Intelligence in Healthcare**<br>医疗中的人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Data Science for Medicine**<br>医学数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
@@ -34,17 +34,17 @@ ms.date: 2026-11-18
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Elements of Grant Writing**<br>基金申请写作要素 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Evaluating Technologies for Diagnosis, Prediction and Screening**<br>诊断、预测与筛查技术的评估 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
-| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
-| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
+| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
+| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Intermediate Epidemiologic and Clinical Research Methods**<br>中级流行病学与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
-| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
+| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Foundations of Statistical and Scientific Inference**<br>统计与科学推断基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Genomics**<br>基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Models for Understanding and Controlling Global Infectious Diseases**<br>理解与控制全球传染病的模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
-| **Introduction to Concepts and Methods in Health Services and Policy Research I**<br>卫生服务与政策研究概念与方法导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
-| **Introduction to Concepts and Methods in Health Services and Policy Research II**<br>卫生服务与政策研究概念与方法导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
+| **Introduction to Concepts and Methods in Health Services and Policy Research I**<br>卫生服务与政策研究概念与方法入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
+| **Introduction to Concepts and Methods in Health Services and Policy Research II**<br>卫生服务与政策研究概念与方法入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Methods for Health Care Delivery Innovation, Implementation and Evaluation**<br>医疗服务提供的创新、实施与评估方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Immunology Research Seminars for Medical Students**<br>面向医学生的免疫学研究研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |
 | **Physician Scientist Hour**<br>医师科学家时间 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/medicine/master-of-science) |

@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Probability and Statistics I**<br>概率与统计 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0110) |
 | **Statistics and Scientific Inquiry in the Life Sciences**<br>生命科学中的统计学与科学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0110) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0110) |
-| **An Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0110) |
+| **An Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0110) |
 | **Essentials of Biodiversity Science and Conservation Biology**<br>生物多样性科学与保护生物学要义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0110) |
 | **Environmental Biology: From Organisms to Ecosystems**<br>环境生物学：从生物体到生态系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0110) |
 | **Form, Function and Development in Plants**<br>植物的形态、功能与发育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0110) |

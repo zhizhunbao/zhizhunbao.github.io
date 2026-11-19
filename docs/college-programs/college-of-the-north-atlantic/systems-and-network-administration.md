@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Network Fundamentals**<br>网络基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Desktop Application Support**<br>桌面应用支持 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **PowerShell & CLI Basics**<br>PowerShell与命令行基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
-| **Introduction to the Field of IT and Ethics**<br>IT领域与伦理导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
+| **Introduction to the Field of IT and Ethics**<br>IT领域与伦理入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Technical Report Writing II**<br>技术报告写作 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Introduction to Linux**<br>Linux入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Desktop OS Troubleshooting**<br>桌面操作系统故障排除 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Client Service for the IT Industry**<br>IT 行业客户服务 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Scripting with Bash**<br>Bash脚本编程 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Oral Communications**<br>口头沟通 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Linux Server Administration**<br>Linux服务器管理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Advanced Windows Enterprise Server**<br>高级 Windows 企业服务器 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |
 | **Virtualization & Cloud I**<br>虚拟化与云 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/systems-and-network-administration) |

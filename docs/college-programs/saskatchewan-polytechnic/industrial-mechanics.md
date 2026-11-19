@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Fundamental Communication Skills**<br>基础沟通技能 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics.aspx) |
 | **Drafting and Blueprint Reading**<br>制图与图纸识读 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics.aspx) |
 | **Hydraulics**<br>液压学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics.aspx) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics.aspx) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics.aspx) |
 | **Belts, Chains, Shafts and Gears**<br>皮带、链条、轴与齿轮 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics.aspx) |
 | **Couplings, Clutches and Brakes**<br>联轴器、离合器与制动器 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics.aspx) |
 | **Pneumatics and Compressors**<br>气动与压缩机 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Industrial-Mechanics.aspx) |

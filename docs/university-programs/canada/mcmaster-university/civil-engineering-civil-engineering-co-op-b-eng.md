@@ -18,7 +18,7 @@ ms.date: 2026-11-11
 | **Engineering Geology**<br>工程地质学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Statics and Mechanics of Materials**<br>静力学与材料力学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
-| **Introduction to Civil Engineering**<br>土木工程导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
+| **Introduction to Civil Engineering**<br>土木工程入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Engineering: Communications and Social Impact**<br>工程：沟通与社会影响 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Engineering Mathematics III**<br>工程数学 III | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Engineering Mathematics IV**<br>工程数学 IV | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Engineering Systems**<br>工程系统 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Structural Analysis**<br>结构分析 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Reinforced Concrete Design**<br>钢筋混凝土设计 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
-| **Introduction to Transportation Engineering**<br>交通工程导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
+| **Introduction to Transportation Engineering**<br>交通工程入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Water Quality**<br>水质 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Municipal Hydraulics**<br>市政水力学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |
 | **Civil Engineering Materials and Design**<br>土木工程材料与设计 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33013) |

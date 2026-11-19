@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN COMMUNITY DEVELOPMENT IN A GLOBAL CONTEXT (Brescia)**<br>全球视野下的社区发展荣誉专业方向（Brescia） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20827&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIOCULTURAL AND LINGUISTIC ANTHROPOLOGY**<br>社会文化与语言人类学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20827&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20827&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIOCULTURAL AND LINGUISTIC ANTHROPOLOGY**<br>社会文化与语言人类学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20827&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20827&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR SOCIOLOGY**<br>社会学统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20827&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN SOCIOLOGY**<br>社会学研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20827&SelectedCalendar=Live&ArchiveID=) |
 | **COMMUNITY ANALYSIS: RESEARCH AND EVALUATION**<br>社区分析：研究与评估 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20827&SelectedCalendar=Live&ArchiveID=) |

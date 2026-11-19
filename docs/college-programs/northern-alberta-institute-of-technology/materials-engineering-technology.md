@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Materials Engineering Technology**<br>材料工程技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/materials-engineering-technology) |
 | **Effective Communications I**<br>有效沟通 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/materials-engineering-technology) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/materials-engineering-technology) |
-| **Introduction to Physical Metallurgy**<br>物理冶金学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/materials-engineering-technology) |
+| **Introduction to Physical Metallurgy**<br>物理冶金学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/materials-engineering-technology) |
 | **Technical Mathematics and Calculus I**<br>技术数学与微积分 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/materials-engineering-technology) |
 | **Materials and Processes**<br>材料与工艺 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/materials-engineering-technology) |
 | **Fundamentals of Technical Drawings**<br>技术制图基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/materials-engineering-technology) |

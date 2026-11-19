@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **DISCOVERING CHEMICAL ENERGETICS**<br>探索化学能量学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS I**<br>工科学生物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS II**<br>微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **LINEAR ALGEBRA WITH NUMERICAL ANALYSIS FOR ENGINEERING**<br>工程数值分析线性代数 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR ENGINEERS I**<br>工程师微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR ENGINEERS II**<br>工程师微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS I**<br>物理学导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **SCIENTIFIC METHOD IN BIOLOGY**<br>生物学中的科学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **ECOLOGY**<br>生态学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENTAL BIOLOGY**<br>环境生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
@@ -50,7 +50,7 @@ ms.date: 2026-11-11
 | **FOUNDATIONS IN ONE HEALTH**<br>同一健康基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **PUBLIC HEALTH AND ENVIRONMENT**<br>公共卫生与环境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **GEOGRAPHY OF HEALTH AND HEALTH CARE**<br>健康与医疗保健地理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN PATHOLOGY**<br>人体病理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN PATHOLOGY**<br>人体病理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENTAL PATHOLOGY**<br>环境病理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIOLOGY OF HEALTH AND ILLNESS**<br>健康与疾病社会学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |
 | **ECOSYSTEM HEALTH**<br>生态系统健康 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21129&SelectedCalendar=Live&ArchiveID=) |

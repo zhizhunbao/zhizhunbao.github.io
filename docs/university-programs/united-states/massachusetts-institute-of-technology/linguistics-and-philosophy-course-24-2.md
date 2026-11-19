@@ -1,17 +1,17 @@
 ---
-title: "3.2.37 Linguistics and Philosophy (Course 24-2)"
+title: "4.2.37 Linguistics and Philosophy (Course 24-2)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Linguistics and Philosophy (Course 24-2): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.37 Linguistics and Philosophy (Course 24-2)
+# 4.2.37 Linguistics and Philosophy (Course 24-2)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Linguistics and Philosophy (Course 24-2)**<br>语言学与哲学（Course 24-2） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **How Language Works**<br>语言如何运作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Language and Its Structure I: Phonology**<br>语言及其结构 I：音系学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Language and Its Structure II: Syntax**<br>语言及其结构 II：句法学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
@@ -20,18 +20,18 @@ ms.date: 2026-11-18
 | **Field Methods in Linguistics (CI-M)**<br>语言学田野方法 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Advanced Topics in Linguistic Analysis (CI-M)**<br>语言学分析高级专题（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Language Variation and Change (CI-M)**<br>语言变异与变化 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Quantitative Methods for Natural Language Processing**<br>自然语言处理定量方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Computational Psycholinguistics**<br>计算心理语言学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Philosophical Issues in Brain Science**<br>脑科学中的哲学问题 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Minds and Machines**<br>心智与机器 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Logic I**<br>逻辑 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
-| **Introduction to Philosophy of Language**<br>语言哲学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
+| **Introduction to Philosophy of Language**<br>语言哲学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Language Acquisition**<br>语言习得 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Laboratory in Psycholinguistics**<br>心理语言学实验室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **The Linguistic Study of Bilingualism**<br>双语现象的语言学研究 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Linguistic Phonetics**<br>语言语音学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
-| **Introduction to Philosophy of Language (CI-M)**<br>语言哲学导论 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
+| **Introduction to Philosophy of Language (CI-M)**<br>语言哲学入门 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Topics in Philosophy (CI-M)**<br>哲学专题（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Paradox and Infinity**<br>悖论与无穷 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |
 | **Logic II**<br>逻辑 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/) |

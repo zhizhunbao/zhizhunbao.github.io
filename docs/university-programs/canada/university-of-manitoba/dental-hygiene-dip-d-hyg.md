@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Dental Hygiene, Dip.D.Hyg.**<br>口腔卫生，Dip.D.Hyg. | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
 | **Anatomy of the Human Body**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
 | **Physiology of the Human Body**<br>人体生理学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
 | **Basic Statistical Analysis 1**<br>基础统计分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
 | **Introductory Chemistry 1: Atomic and Molecular Structure and Energetics**<br>化学入门 1：原子与分子结构及能量学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
 | **Introductory Chemistry 2: Interaction, Reactivity, and Chemical Properties**<br>化学入门 2：相互作用、反应性与化学性质 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
-| **Introduction to Chemistry Techniques**<br>化学技术导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
+| **Introduction to Chemistry Techniques**<br>化学技术入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
 | **Oral and Dental Anatomy**<br>口腔与牙齿解剖学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
 | **Preclinical Dental Hygiene**<br>临床前口腔卫生 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |
 | **Dental Hygiene Theory and Practice 1**<br>口腔卫生理论与实践 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/dental-hygiene/dental-hygiene-dipdhyg/) |

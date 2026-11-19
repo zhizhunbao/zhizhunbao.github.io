@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/elementary-education-associate-arts-degree) |
 | **Canada Before Confederation**<br>联邦成立前的加拿大 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/elementary-education-associate-arts-degree) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/elementary-education-associate-arts-degree) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/elementary-education-associate-arts-degree) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/elementary-education-associate-arts-degree) |
 | **Problem Solving**<br>问题解决 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/elementary-education-associate-arts-degree) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/elementary-education-associate-arts-degree) |
 | **Calculus I for Social Sciences**<br>社会科学微积分 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/elementary-education-associate-arts-degree) |

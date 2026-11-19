@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/LOGSF-DP/PrinterFriendly#MATH-1078) |
 | **Marketing Foundations**<br>营销基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/LOGSF-DP/PrinterFriendly#MRKT-1017) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/LOGSF-DP/PrinterFriendly#ADMN-1012) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/LOGSF-DP/PrinterFriendly#ADMN-1015) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/LOGSF-DP/PrinterFriendly#ADMN-1015) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/LOGSF-DP/PrinterFriendly#ADMN-2058) |
 | **Communication for Business**<br>商务沟通 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/LOGSF-DP/PrinterFriendly#COMM-2174) |
 | **Economics**<br>经济学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/LOGSF-DP/PrinterFriendly#ECON-1011) |

@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Health & Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6425951/courses-next/) |
 | **Civil Engineering Statics 1**<br>土木工程静力学 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6425951/courses-next/) |
 | **Sustainability in the Built Environment**<br>建筑环境中的可持续性 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6425951/courses-next/) |
-| **Plane Surveying-Intro**<br>平面测量 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6425951/courses-next/) |
+| **Plane Surveying-Intro**<br>平面测量 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6425951/courses-next/) |
 | **AutoCAD-Inter**<br>AutoCAD-中级 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6425951/courses-next/) |
 | **Highway Design Fundamentals**<br>公路设计基础 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6425951/courses-next/) |
 | **Civil Engineering Drawings**<br>土木工程制图 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6425951/courses-next/) |

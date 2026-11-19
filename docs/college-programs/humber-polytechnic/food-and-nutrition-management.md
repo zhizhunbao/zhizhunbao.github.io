@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Food and Nutrition Management**<br>食品与营养管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/food-and-nutrition-management) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/food-and-nutrition-management) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/food-and-nutrition-management) |
 | **Interprofessional Education: Exploring Professional Roles and Responsibilities**<br>跨专业教育：探索专业角色与职责 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/food-and-nutrition-management) |
 | **Math in Food and Nutrition**<br>食品与营养中的数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/food-and-nutrition-management) |
 | **Fundamentals of Nutrition**<br>营养学基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/food-and-nutrition-management) |

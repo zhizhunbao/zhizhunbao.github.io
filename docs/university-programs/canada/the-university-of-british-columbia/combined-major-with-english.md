@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Combined Major with English**<br>与英语联合主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-arts-programs/english) |
-| **Introduction to Literary Genre**<br>文学体裁导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-arts-programs/english) |
+| **Introduction to Literary Genre**<br>文学体裁入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-arts-programs/english) |
 | **Critical Studies in Literature**<br>文学批判研究 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-arts-programs/english) |
 | **Readings in Narrative**<br>叙事阅读 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-arts-programs/english) |
 | **Indigenous Narrative**<br>原住民叙事 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-arts-programs/english) |

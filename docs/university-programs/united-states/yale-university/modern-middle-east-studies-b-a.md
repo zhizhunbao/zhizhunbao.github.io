@@ -1,10 +1,10 @@
 ---
-title: "3.4.59 Modern Middle East Studies (B.A.)"
+title: "4.4.59 Modern Middle East Studies (B.A.)"
 description: "University Programs > United States > Yale University > Modern Middle East Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.59 Modern Middle East Studies (B.A.)
+# 4.4.59 Modern Middle East Studies (B.A.)
 
 ## Glossary
 

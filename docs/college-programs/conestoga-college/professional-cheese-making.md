@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Professional Cheese Making**<br>专业奶酪制作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |
-| **Introduction to Cheese and History**<br>奶酪与历史导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |
-| **Introduction to Cheese Making and Process**<br>奶酪制作与工艺导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |
+| **Introduction to Cheese and History**<br>奶酪与历史入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |
+| **Introduction to Cheese Making and Process**<br>奶酪制作与工艺入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |
 | **Applied Dairy Chemistry**<br>应用乳品化学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |
 | **Starter Cultures, Coagulants and Other Ingredients**<br>发酵剂、凝乳剂及其他配料 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |
 | **Cheese Technology**<br>奶酪技术 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/professional-cheese-making/courses-no-intake?id=15341) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Women's and Gender Studies, Honours BA**<br>妇女与性别研究，荣誉 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/wgs.pdf#page=3) |
-| **Introduction to Women’s and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/wgs.pdf#page=3) |
+| **Introduction to Women’s and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/wgs.pdf#page=3) |
 | **Early Feminist Thought, Movement, and Activism**<br>早期女性主义思想、运动与行动主义 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/wgs.pdf#page=3) |
 | **Contemporary Feminist Theories**<br>当代女性主义理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/wgs.pdf#page=3) |
 | **Feminist Research Methodologies Seminar**<br>女性主义研究方法论研讨课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/wgs.pdf#page=3) |

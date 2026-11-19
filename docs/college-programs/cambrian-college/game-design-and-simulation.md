@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Game - Design and Simulation**<br>游戏 - 设计与模拟 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **Game Psychology**<br>游戏心理学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **Game Level Design**<br>游戏关卡设计 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **Game Design Theory I**<br>游戏设计理论 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **Game Engine Development**<br>游戏引擎开发 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **AI for Games**<br>游戏AI | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **Workshop II**<br>工作坊 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **Decolonizing the Creative Arts**<br>创意艺术去殖民化 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **Game Sound and Music**<br>游戏音效与音乐 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **Game Development Capstone Project**<br>游戏开发毕业设计项目 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |
 | **VR and Simulation in Gaming**<br>游戏中的VR与模拟 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/game-design-and-simulation) |

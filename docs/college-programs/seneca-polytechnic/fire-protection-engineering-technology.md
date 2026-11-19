@@ -50,7 +50,7 @@ ms.date: 2026-11-08
 | **Ontario Fire Code - Part IV Flammable and Combustible Liquids**<br>安大略省消防规范 - 第IV部分 易燃与可燃液体 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPT/courses.html) |
 | **NFPA 1031 Level II - Fire Inspector**<br>NFPA 1031 II级 - 消防检查员 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPT/courses.html) |
 | **Ontario Fire Code - Parts III and V Industrial and Hazardous Applications**<br>安大略省消防规范 - 第III与V部分 工业与危险应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPT/courses.html) |
-| **Insurance - Intro to Insurance Industry**<br>保险 - 保险业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPT/courses.html) |
+| **Insurance - Intro to Insurance Industry**<br>保险 - 保险业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPT/courses.html) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPT/courses.html) |
 | **Insurance - Risk Management**<br>保险 - 风险管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPT/courses.html) |
 | **Ontario Building Code - Fire Protection II**<br>安大略省建筑规范 - 防火 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPT/courses.html) |

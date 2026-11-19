@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Fixed Prosthetics 3**<br>固定修复 3 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/health-sciences/dental-technology-sciences/) |
 | **Orthodontics 3**<br>口腔正畸学 3 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/health-sciences/dental-technology-sciences/) |
 | **Professional Practice 3**<br>职业实践 3 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/health-sciences/dental-technology-sciences/) |
-| **Introduction to Cultural Safety and Indigenous Holistic Health Equity**<br>文化安全与原住民整体健康公平导论 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/health-sciences/dental-technology-sciences/) |
+| **Introduction to Cultural Safety and Indigenous Holistic Health Equity**<br>文化安全与原住民整体健康公平入门 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/health-sciences/dental-technology-sciences/) |
 | **Dental Technology Practicum**<br>牙科技术实习 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/health-sciences/dental-technology-sciences/) |
 
 ## Courses

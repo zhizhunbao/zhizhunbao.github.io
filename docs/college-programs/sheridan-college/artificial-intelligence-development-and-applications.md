@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Artificial Intelligence Development and Applications**<br>人工智能开发与应用 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications) |
-| **Introduction to AI**<br>AI导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications) |
+| **Introduction to AI**<br>AI入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications) |
 | **Big Data Storage and Analysis**<br>大数据存储与分析 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications) |
 | **Data Visualization**<br>数据可视化 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications) |
 | **Advanced Python for AI and ML**<br>面向AI与ML的高级Python | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications) |

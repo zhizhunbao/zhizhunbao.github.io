@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Digital Arts - Diploma**<br>数字艺术文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
 | **Foundations of Digital Art**<br>数字艺术基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
 | **History of Art, Design and Film**<br>艺术、设计与电影史 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
-| **Introduction to Digital Photography**<br>数码摄影导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
+| **Introduction to Digital Photography**<br>数码摄影入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
 | **Art Fundamentals**<br>艺术基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
-| **Introduction To Photoshop**<br>Photoshop导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
+| **Introduction To Photoshop**<br>Photoshop入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
 | **Digital Image Making**<br>数字图像制作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
 | **Design Narrative**<br>设计叙事 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
-| **Introduction to Animation**<br>动画导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
-| **Introduction to Video and Audio**<br>视频与音频导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
+| **Introduction to Animation**<br>动画入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
+| **Introduction to Video and Audio**<br>视频与音频入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
 | **Fundamentals of Web**<br>Web基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
 | **Motion Graphics and Compositing**<br>动态图形与合成 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |
 | **Illustration and Typography**<br>插画与字体设计 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/arts-technology/digital-arts-diploma) |

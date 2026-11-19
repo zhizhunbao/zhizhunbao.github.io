@@ -13,11 +13,11 @@ ms.date: 2026-11-11
 | **Medieval Studies (Bachelor of Arts - Four-Year General)**<br>中世纪研究（文学学士 - 4 年制普通） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Medieval Monsters**<br>中世纪怪物 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Special Topics in Medieval Studies**<br>中世纪研究专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
-| **Introduction to Medieval Studies**<br>中世纪研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
+| **Introduction to Medieval Studies**<br>中世纪研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Medieval Europe c.300-c.1500**<br>中世纪欧洲，约300年至约1500年 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Special Topics in History**<br>历史专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Making History**<br>创造历史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
-| **Introduction to Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
+| **Introduction to Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Classical Mythology**<br>古典神话 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Love, Life, and Death in Rome**<br>罗马的爱、生命与死亡 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Medieval Society**<br>中世纪社会 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
@@ -74,8 +74,8 @@ ms.date: 2026-11-11
 | **Reformation History**<br>宗教改革史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **The History of Islamic Civilization from Late Antiquity to 1300**<br>伊斯兰文明史：从古代晚期至1300年 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **The History of Islamic Civilization from 1300-1800: The Islamic Gunpowder Empires**<br>伊斯兰文明史，1300-1800年：伊斯兰火药帝国 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
-| **Introduction to Arabic 1**<br>阿拉伯语导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
-| **Introduction to Arabic 2**<br>阿拉伯语导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
+| **Introduction to Arabic 1**<br>阿拉伯语入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
+| **Introduction to Arabic 2**<br>阿拉伯语入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Literary Arabic for Heritage Speakers**<br>传承语使用者的文学阿拉伯语 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Old English Language and Literature**<br>古英语语言与文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **The Age of Beowulf**<br>贝奥武甫的时代 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
@@ -90,8 +90,8 @@ ms.date: 2026-11-11
 | **Introductory Ancient Greek 2**<br>古希腊语入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Intermediate Greek**<br>中级希腊语 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Selections from Greek Authors**<br>希腊作家选读 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
-| **Introduction to Italian Language 1**<br>意大利语导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
-| **Introduction to Italian Language 2**<br>意大利语导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
+| **Introduction to Italian Language 1**<br>意大利语入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
+| **Introduction to Italian Language 2**<br>意大利语入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Intensive Introductory Italian Language**<br>意大利语强化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Intermediate Italian 1**<br>中级意大利语 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Intermediate Italian 2**<br>中级意大利语 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
@@ -108,8 +108,8 @@ ms.date: 2026-11-11
 | **Senior Latin Composition, Grammar, and Reading**<br>高级拉丁语写作、语法与阅读 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Elementary Russian 1**<br>初级俄语 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Elementary Russian 2**<br>初级俄语 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
-| **Introduction to Spanish 1**<br>西班牙语导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
-| **Introduction to Spanish 2**<br>西班牙语导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
+| **Introduction to Spanish 1**<br>西班牙语入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
+| **Introduction to Spanish 2**<br>西班牙语入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 | **Love in Medieval Spanish Literature (WLU)**<br>中世纪西班牙文学中的爱情（WLU） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rkAJCvHMp) |
 
 ## Courses

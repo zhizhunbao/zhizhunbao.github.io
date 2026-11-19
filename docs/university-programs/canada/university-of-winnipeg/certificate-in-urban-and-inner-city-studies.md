@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Urban and Inner-City Studies**<br>城市与内城研究证书 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
-| **Introduction to Urban and Inner-City Studies**<br>城市与内城研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
+| **Introduction to Urban and Inner-City Studies**<br>城市与内城研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
 | **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
 | **Colonization and Indigenous Peoples**<br>殖民化与原住民 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
 | **Community Development and Advocacy Practicum**<br>社区发展与倡导实习 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Metis Identity, Culture and Rights**<br>梅蒂人的身份、文化与权利 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
 | **Management and Financial Administration for**<br>管理与财务行政，面向 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
 | **History of Indigenous Institutional Development in Winnipeg**<br>温尼伯原住民机构发展史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
-| **Introduction to Community Advocacy**<br>社区倡导导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
+| **Introduction to Community Advocacy**<br>社区倡导入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
 | **Urban Poverty and Policy**<br>城市贫困与政策 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
 | **History of Education in Winnipeg’s Inner City**<br>温尼伯内城教育史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |
 | **Two-Spirit, Indigiqueer & Indigenous LGBTQ Encounter: Selected Topics Realities Business and Administration Multi-Disciplinary**<br>双灵、原住民酷儿与原住民 LGBTQ 的相遇：选题 现实 商务与管理 多学科 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/uic.pdf#page=3) |

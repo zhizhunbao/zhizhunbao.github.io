@@ -18,8 +18,8 @@ ms.date: 2026-11-08
 | **Computer Science Fundamentals**<br>计算机科学基础 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Networks and Telecommunications I**<br>网络与电信 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Mathematics for Information Technology**<br>信息技术数学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
-| **Introduction to Discrete Structures**<br>离散结构导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
+| **Introduction to Discrete Structures**<br>离散结构入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Linear Algebra I**<br>线性代数 1 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
@@ -32,8 +32,8 @@ ms.date: 2026-11-08
 | **Computer Data Structures**<br>计算机数据结构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Projects in Computer Science**<br>计算机科学项目 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Object-Oriented Systems Analysis and Design**<br>面向对象系统分析与设计 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
-| **Introduction to Database Management Systems**<br>数据库管理系统导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
-| **Introduction to Operating Systems**<br>操作系统导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
+| **Introduction to Database Management Systems**<br>数据库管理系统入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
+| **Introduction to Operating Systems**<br>操作系统入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Graphical User Interface Programming**<br>图形用户界面编程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |
 | **Software Engineering Project**<br>软件工程项目 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/bachelor-of-computer-information-systems-degree) |

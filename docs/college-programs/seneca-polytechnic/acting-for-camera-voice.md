@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Extending the Actor's Voice**<br>拓展演员嗓音 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ACV/courses.html) |
 | **Dance Basics**<br>舞蹈基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ACV/courses.html) |
 | **Deepening Your On-Camera Work**<br>深化镜头前表演 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ACV/courses.html) |
-| **Introduction to Script Writing**<br>剧本写作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ACV/courses.html) |
+| **Introduction to Script Writing**<br>剧本写作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ACV/courses.html) |
 | **Acting on Impulses**<br>冲动表演 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ACV/courses.html) |
 | **Periods and Styles**<br>时期与风格 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ACV/courses.html) |
 | **Physical Acting / Fighting**<br>肢体表演/打斗 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ACV/courses.html) |

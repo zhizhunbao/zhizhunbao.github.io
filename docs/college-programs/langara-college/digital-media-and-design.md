@@ -28,14 +28,14 @@ ms.date: 2026-11-08
 | **Professional Communications in a Canadian Context**<br>加拿大语境下的职业沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Reading and Writing about Literature**<br>文学阅读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Business Presentation Skills**<br>商务演示技能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Visual Culture I**<br>视觉文化 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Visual Culture II**<br>视觉文化 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
-| **Introduction to Film Production**<br>电影制作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
+| **Introduction to Film Production**<br>电影制作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Photographic Explorations**<br>摄影探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Publishing Explorations**<br>出版探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Financial Accounting I**<br>财务会计 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
@@ -43,10 +43,10 @@ ms.date: 2026-11-08
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Mathematics of Business Affairs**<br>商务事务数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Global Indigenous Perspectives**<br>全球原住民视角 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Social Problems**<br>社会问题 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
-| **Investigating Women's Realities: An Introduction**<br>探究女性的现实处境：导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
-| **Exploring Women's Lives: An Introduction**<br>探索女性生活：导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
+| **Investigating Women's Realities: An Introduction**<br>探究女性的现实处境：入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
+| **Exploring Women's Lives: An Introduction**<br>探索女性生活：入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Design Elements and Principles**<br>设计要素与原则 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Creative Process**<br>创意过程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |
 | **Storytelling & Visual Literacy**<br>叙事与视觉素养 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/digital-media-and-design-diploma/courses) |

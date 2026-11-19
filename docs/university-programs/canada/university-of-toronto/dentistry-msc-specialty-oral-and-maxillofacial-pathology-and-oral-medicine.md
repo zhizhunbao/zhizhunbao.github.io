@@ -12,8 +12,8 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Dentistry MSc; Specialty: Oral and Maxillofacial Pathology and Oral Medicine**<br>牙医学（MSc）；专科：口腔与颌面病理学与口腔医学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Research Ethics**<br>研究伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Biostatistics**<br>生物统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Research Methods & Dissemination**<br>研究方法与成果传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Biostatistics**<br>生物统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Research Methods & Dissemination**<br>研究方法与成果传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Graduate Research Dissemination Seminars**<br>研究生研究成果传播研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Cone Beam CT Imaging**<br>锥形束CT成像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Artificial Intelligence in Dentistry**<br>牙科中的人工智能 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |

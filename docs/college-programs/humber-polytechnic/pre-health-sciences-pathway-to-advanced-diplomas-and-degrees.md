@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Literature: Identity, Diversity and Difference**<br>文学：身份、多样性与差异 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **Physics**<br>物理学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **Media, Information, and Critical Reading**<br>媒体、信息与批判性阅读 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
-| **Psychology: Introduction**<br>心理学：导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
+| **Psychology: Introduction**<br>心理学：入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 
 ## Courses
 

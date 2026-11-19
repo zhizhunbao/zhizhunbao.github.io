@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Pre-Service Firefighter Education and Training**<br>消防员职前教育与培训 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Professional Communication For Firefighters**<br>消防员职业沟通 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pre-service-firefighter-education-and-training) |
-| **Introduction To Fire & Fire Service**<br>消防与消防服务导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pre-service-firefighter-education-and-training) |
+| **Introduction To Fire & Fire Service**<br>消防与消防服务入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Fire Service Operations**<br>消防服务行动 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Truck Company Operations**<br>消防车队行动 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pre-service-firefighter-education-and-training) |
 | **Rescue Company Operations**<br>救援队作业 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/pre-service-firefighter-education-and-training) |

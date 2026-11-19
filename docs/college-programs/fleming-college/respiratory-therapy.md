@@ -22,17 +22,17 @@ ms.date: 2026-11-08
 | **Mechanical Ventilation I**<br>机械通风 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Patient Assessment and Evaluation**<br>患者评估与评价 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **RT General Therapeutics II**<br>RT综合治疗学 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Blood Gas Analysis**<br>血气分析 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Cardiopulmonary Diagnostics**<br>心肺诊断 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Cardiorespiratory Pathophysiology II**<br>心肺病理生理学 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Concepts of Airway Management**<br>气道管理概念 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Mechanical Ventilation II**<br>机械通风 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Anesthesia**<br>麻醉学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Health Psychosociology**<br>健康心理社会学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
-| **Introduction to Clinical Practice**<br>临床实践导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
+| **Introduction to Clinical Practice**<br>临床实践入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **RT Professional Practice and Ethics**<br>RT专业实践与伦理 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Respiratory Care for Neonates and Pediatrics**<br>新生儿与儿科呼吸护理 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |
 | **Respiratory Pharmacology**<br>呼吸药理学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/respiratory-therapy) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **AEROSPACE ENGINEERING**<br>航空航天工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Aerospace Laboratory I**<br>航空航天实验 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
-| **Introduction to Space Flight**<br>太空飞行导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
+| **Introduction to Space Flight**<br>太空飞行入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Aerodynamics**<br>空气动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Economic Analysis and Decision Making**<br>经济分析与决策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Engineering Science Option Seminar**<br>工程科学方向研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Computational Structural Mechanics and Design Optimization**<br>计算结构力学与设计优化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Space Systems Design**<br>空间系统设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Spacecraft Dynamics and Control**<br>航天器动力学与控制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
-| **Introduction to Fusion Energy**<br>聚变能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
+| **Introduction to Fusion Energy**<br>聚变能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Combustion Processes**<br>燃烧过程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Robotics**<br>机器人学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |
 | **Linear Control Theory**<br>线性控制理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasea) |

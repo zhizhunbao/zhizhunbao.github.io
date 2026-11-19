@@ -1,17 +1,17 @@
 ---
-title: "3.3.45 Jewish Studies, Major: Bachelor of Arts"
+title: "4.3.45 Jewish Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Jewish Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.45 Jewish Studies, Major: Bachelor of Arts
+# 4.3.45 Jewish Studies, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Jewish Studies, Major: Bachelor of Arts**<br>犹太研究，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
-| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
+| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
 | **Indigeneity and Colonialism**<br>原住民性与殖民主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
 | **Institutions and Inequities**<br>制度与不平等 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
 | **Resistance and Liberation**<br>抵抗与解放 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-18
 | **Data Science for Politics**<br>政治学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
 | **Empirical Methods in Public Policy**<br>公共政策中的实证方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
 | **Foundations of Social Research**<br>社会研究基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
 | **Community Engaged Research - Principles, Ethics, and Design**<br>社区参与研究：原则、伦理与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
 | **How We Free Us: Activism and Community**<br>我们如何解放自己：行动主义与社区 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |
 | **Sharing Conversations Across Generations: The Magic of Haiku**<br>跨代对话：俳句的魔力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/jewish-studies/bachelor-of-arts) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Pharmacy MScPhm**<br>药学（MScPhm） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences) |
-| **Introduction to Education Theory, Practice, and Scholarship**<br>教育理论、实践与学术导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences) |
+| **Introduction to Education Theory, Practice, and Scholarship**<br>教育理论、实践与学术入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences) |
 | **Methods for Patient-Focused and Pharmacy Practice Research**<br>以患者为中心与药学实践研究的方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences) |
 | **Advanced Pharmacy Practice Leadership**<br>高级药学实践领导力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences) |
 | **MScPhm Clinical Practicum I**<br>药学理学硕士临床实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences) |

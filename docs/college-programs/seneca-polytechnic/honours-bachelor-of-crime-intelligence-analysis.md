@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Crime & Intelligence Analysis**<br>犯罪与情报分析荣誉学士 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA.html) |
-| **Introduction to Public Safety in Canada**<br>加拿大公共安全导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
-| **Introduction to Law**<br>法学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
+| **Introduction to Public Safety in Canada**<br>加拿大公共安全入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
+| **Introduction to Law**<br>法学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Social Problems in a Diverse Society**<br>多元社会中的社会问题 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Ethics and the Justice System**<br>伦理与司法系统 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
@@ -26,13 +26,13 @@ ms.date: 2026-11-08
 | **Contemporary Policing**<br>当代警务 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Youth and Crime**<br>青少年与犯罪 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
-| **Introduction to Crime and Intelligence Analysis**<br>犯罪与情报分析导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
+| **Introduction to Crime and Intelligence Analysis**<br>犯罪与情报分析入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Restorative Justice**<br>恢复性司法 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Criminology: Theories and Typologies**<br>犯罪学：理论与类型 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Organized Crime in Canada**<br>加拿大有组织犯罪 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Tactical Crime Analysis Techniques**<br>战术犯罪分析技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Research Methods: Crime and Intelligence Analysis**<br>研究方法：犯罪与情报分析 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
-| **Introduction to Crime Mapping**<br>犯罪地图绘制导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
+| **Introduction to Crime Mapping**<br>犯罪地图绘制入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Statistics for Public Safety**<br>公共安全统计学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Professional Pathways**<br>职业发展路径 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CIA/courses.html) |

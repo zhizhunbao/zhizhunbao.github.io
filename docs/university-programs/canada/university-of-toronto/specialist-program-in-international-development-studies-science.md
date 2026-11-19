@@ -11,20 +11,20 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIST PROGRAM IN INTERNATIONAL DEVELOPMENT STUDIES (SCIENCE)**<br>国际发展研究专精项目（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-| **Introduction to International Development Studies**<br>国际发展研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+| **Introduction to International Development Studies**<br>国际发展研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Life on Earth: Unifying Principles**<br>地球上的生命：统一原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Life on Earth: Form, Function and Interactions**<br>地球上的生命：形态、功能与相互作用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Introductory Chemistry I: Structure and Bonding**<br>化学入门 I：结构与成键 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Introductory Chemistry II: Reactions and Mechanisms**<br>化学入门 II：反应与机理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-| **Introduction to Planet Earth**<br>地球导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Political Economy of International Development**<br>国际发展政治经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Development and Environment**<br>发展与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-| **Introduction to International/Global Health**<br>国际/全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+| **Introduction to International/Global Health**<br>国际/全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Equity, Ethics and Justice in International Development**<br>国际发展中的公平、伦理与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Confronting Development’s Racist Past and Present**<br>直面发展的种族主义过去与现在 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 | **Research Design for Development Fieldwork**<br>发展实地考察的研究设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
@@ -56,56 +56,49 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | This program requires 13.5 credits of which at least 4.0 credits must be at the C-or D- level including at least 1.0 credit at the D-level. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  |  | 1. Introduction to Sciences and International Development Studies (4.5 credits): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | IDSA01H3 | Introduction to International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | BIOA01H3 | Life on Earth: Unifying Principles | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | BIOA02H3 | Life on Earth: Form, Function and Interactions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | EESA01H3 | Introduction to Environmental Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | EESA06H3 | Introduction to Planet Earth | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | MGEA01H3 | Introduction to Microeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | (or) | MGEA02H3 | Introduction to Microeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | MGEA05H3 | Introduction to Macroeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | (or) | MGEA06H3 | Introduction to Macroeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  |  | 2. Core courses in International Development (at least 2.0 credits from among the following): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | IDSB01H3 | Political Economy of International Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | IDSB02H3 | Development and Environment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | IDSB04H3 | Introduction to International/Global Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | IDSB06H3 | Equity, Ethics and Justice in International Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Note: We highly recommend students enroll in | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Note: We highly recommend students enroll in | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Note: We highly recommend students enroll in | IDSC01H3 | Research Design for Development Fieldwork | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  |  | 3. Core Courses in Environmental Biology (2.5 credits): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | BIOB50H3 | Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | BIOB51H3 | Evolutionary Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | EESB03H3 | Principles of Climatology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | EESB05H3 | Principles of Soil Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | EESB16H3 | Feeding Humans - The Cost to the Planet | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  |  | 4. Methods for International Development Studies (1.5 credits): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | IDSC04H3 | Project Management I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  |  | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | IDSA01H3 | Introduction to International Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | BIOA01H3 | Life on Earth: Unifying Principles | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | BIOA02H3 | Life on Earth: Form, Function and Interactions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | EESA01H3 | Introduction to Environmental Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | EESA06H3 | Introduction to Planet Earth | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | MGEA01H3 | Introduction to Microeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) (or) | MGEA02H3 | Introduction to Microeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) | MGEA05H3 | Introduction to Macroeconomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 1. Introduction to Sciences and International Development Studies (4.5 credits) (or) | MGEA06H3 | Introduction to Macroeconomics: A Mathematical Approach | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 2. Core courses in International Development (at least 2.0 credits from among the following) | IDSB01H3 | Political Economy of International Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 2. Core courses in International Development (at least 2.0 credits from among the following) | IDSB02H3 | Development and Environment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 2. Core courses in International Development (at least 2.0 credits from among the following) | IDSB04H3 | Introduction to International/Global Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 2. Core courses in International Development (at least 2.0 credits from among the following) | IDSB06H3 | Equity, Ethics and Justice in International Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 2. Core courses in International Development (at least 2.0 credits from among the following) | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 2. Core courses in International Development (at least 2.0 credits from among the following); Note: We highly recommend students enroll in | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 2. Core courses in International Development (at least 2.0 credits from among the following); Note: We highly recommend students enroll in | IDSB07H3 | Confronting Development’s Racist Past and Present | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 2. Core courses in International Development (at least 2.0 credits from among the following); Note: We highly recommend students enroll in | IDSC01H3 | Research Design for Development Fieldwork | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 3. Core Courses in Environmental Biology (2.5 credits) | BIOB50H3 | Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 3. Core Courses in Environmental Biology (2.5 credits) | BIOB51H3 | Evolutionary Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 3. Core Courses in Environmental Biology (2.5 credits) | EESB03H3 | Principles of Climatology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 3. Core Courses in Environmental Biology (2.5 credits) | EESB05H3 | Principles of Soil Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 3. Core Courses in Environmental Biology (2.5 credits) | EESB16H3 | Feeding Humans - The Cost to the Planet | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 4. Methods for International Development Studies (1.5 credits) | IDSC04H3 | Project Management I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 4. Methods for International Development Studies (1.5 credits) | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 |  | and |  | 0.5 credit from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 |  | and | GGRA30H3 | Geographic Information Systems (GIS) and Empirical Reasoning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 |  | and | EESC03H3 | Geographic Information Systems and Remote Sensing | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | and |  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | BIOC37H3 | Plants: Life on the Edge | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | BIOC58H3 | Biological Consequences of Global Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | BIOC61H3 | Community Ecology and Environmental Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | BIOC62H3 | Role of Zoos and Aquariums in Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | BIOC63H3 | Conservation Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | EESC04H3 | Biodiversity and Biogeography | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | BIOD54H3 | Applied Conservation Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | EESD06H3 | Climate Change Impact Assessment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from |  | 6. Environmental Science in Practice (0.5 credit): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | EESC13H3 | Environmental Impact Assessment and Auditing | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from |  | (GGRC22H3) Political Ecology Theory and Applications |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | GGRC26H3 | Geographies of Environmental Governance | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | GGRC44H3 | Environmental Conservation and Sustainable Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | IDSC02H3 | Environmental Science and Evidence-Based Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from |  | 7. Research in International Development Requirement (0.5 credit): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
-|  | Choose from | IDSD02H3 | Advanced Research Seminar in Critical Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level); Choose from | BIOC37H3 | Plants: Life on the Edge | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level); Choose from | BIOC58H3 | Biological Consequences of Global Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level); Choose from | BIOC61H3 | Community Ecology and Environmental Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level); Choose from | BIOC62H3 | Role of Zoos and Aquariums in Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level); Choose from | BIOC63H3 | Conservation Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level); Choose from | EESC04H3 | Biodiversity and Biogeography | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level); Choose from | BIOD54H3 | Applied Conservation Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 5. Advanced courses in Environmental Biology (2.0 credits, of which 0.5 credit must be at the D-level); Choose from | EESD06H3 | Climate Change Impact Assessment | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 6. Environmental Science in Practice (0.5 credit); Choose from | EESC13H3 | Environmental Impact Assessment and Auditing | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 6. Environmental Science in Practice (0.5 credit); Choose from |  | (GGRC22H3) Political Ecology Theory and Applications |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 6. Environmental Science in Practice (0.5 credit); Choose from | GGRC26H3 | Geographies of Environmental Governance | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 6. Environmental Science in Practice (0.5 credit); Choose from | GGRC44H3 | Environmental Conservation and Sustainable Development | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 6. Environmental Science in Practice (0.5 credit); Choose from | IDSC02H3 | Environmental Science and Evidence-Based Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
+|  | 7. Research in International Development Requirement (0.5 credit) | IDSD02H3 | Advanced Research Seminar in Critical Development Studies | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe2540b) |
 
 ## References
 

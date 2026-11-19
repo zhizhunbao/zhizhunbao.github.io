@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Security and Crime Prevention**<br>安防与犯罪预防 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAW/courses.html) |
 | **Crisis Intervention and Defensive Tactics**<br>危机干预与防御战术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAW/courses.html) |
 | **Criminology and Criminal Behaviour**<br>犯罪学与犯罪行为 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAW/courses.html) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAW/courses.html) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAW/courses.html) |
 | **Forensic Crime Scene Investigation**<br>法医犯罪现场调查 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAW/courses.html) |
 | **Youth in Conflict With the Law**<br>与法律冲突的青少年 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAW/courses.html) |
 | **Ethical Reasoning in Public Safety**<br>公共安全中的伦理推理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/LAW/courses.html) |

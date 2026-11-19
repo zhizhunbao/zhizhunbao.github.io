@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Computer Systems Technician – Cyber Security**<br>计算机系统技术员 – 网络安全 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security) |
 | **Programming Foundations – Python**<br>编程基础 – Python | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security) |
 | **Operating Systems Technologies**<br>操作系统技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security) |
-| **Introduction to Data Communications and Networking**<br>数据通信与网络导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security) |
+| **Introduction to Data Communications and Networking**<br>数据通信与网络入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security) |
 | **Ethical Issues in Cybersecurity**<br>网络安全伦理问题 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security) |
 | **The Art of Technical Communication**<br>技术传播艺术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security) |

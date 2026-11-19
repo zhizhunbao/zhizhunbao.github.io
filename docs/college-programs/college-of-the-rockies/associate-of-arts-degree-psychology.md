@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Associate of Arts Degree – Psychology**<br>文科副学士学位，心理学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
-| **Intro to Literature: Poetry and Drama**<br>文学导论：诗歌与戏剧 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
-| **Introduction to Prose Fiction**<br>散文小说导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
-| **Introduction to Psychology 2**<br>心理学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
+| **Intro to Literature: Poetry and Drama**<br>文学入门：诗歌与戏剧 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
+| **Introduction to Prose Fiction**<br>散文小说入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
+| **Introduction to Psychology 2**<br>心理学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
-| **Introduction to Psychopathology and Mental Health**<br>精神病理学与心理健康导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
+| **Introduction to Psychopathology and Mental Health**<br>精神病理学与心理健康入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
 | **Environmental Psychology**<br>环境心理学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
 | **Research Methods in Psychology**<br>心理学研究方法 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |
 | **Psychology of Sport and Exercise**<br>运动与锻炼心理学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-arts-psychology/) |

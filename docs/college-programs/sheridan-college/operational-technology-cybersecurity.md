@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Operational Technology Cybersecurity**<br>表演艺术行业技术制作 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/operational-technology-cybersecurity) |
 | **Security Fundamentals**<br>安全基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/operational-technology-cybersecurity) |
 | **Programming Foundations – Python**<br>编程基础 – Python | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/operational-technology-cybersecurity) |
-| **Introduction to OT and ICS – OT Networking and Protocols**<br>OT与ICS导论 – OT网络与协议 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/operational-technology-cybersecurity) |
+| **Introduction to OT and ICS – OT Networking and Protocols**<br>OT与ICS入门 – OT网络与协议 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/operational-technology-cybersecurity) |
 | **Threats and Vulnerabilities in OT Systems**<br>OT系统中的威胁与漏洞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/operational-technology-cybersecurity) |
 | **OT Systems and Simulations**<br>OT系统与仿真 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/operational-technology-cybersecurity) |
 | **OT/ICS Security Standards and Compliance**<br>OT/ICS安全标准与合规 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/operational-technology-cybersecurity) |

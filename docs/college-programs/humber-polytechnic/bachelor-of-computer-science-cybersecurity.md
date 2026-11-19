@@ -13,15 +13,15 @@ ms.date: 2026-11-08
 | **Bachelor of Computer Science - Cybersecurity**<br>计算机科学学士 - 网络安全 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Calculus for Computer Science**<br>计算机科学微积分 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
-| **Introduction to Cybersecurity**<br>网络安全导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
+| **Introduction to Cybersecurity**<br>网络安全入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Academic Writing and Critical Reasoning**<br>学术写作与批判性推理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Data Networks**<br>数据网络 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Object Oriented Programming**<br>面向对象程序设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Statistics & Probability**<br>统计与概率 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Network Programming**<br>网络编程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Discrete Mathematics**<br>离散数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |
 | **Network Security**<br>网络安全 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-computer-science-cybersecurity) |

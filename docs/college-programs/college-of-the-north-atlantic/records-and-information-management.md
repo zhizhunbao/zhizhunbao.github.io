@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Personal and Career Growth**<br>个人与职业成长 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Bookkeeping II**<br>簿记 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Business Writing Fundamentals**<br>商务写作基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Document Production II**<br>文档制作 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Operational Management**<br>运营管理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Transcription**<br>转录 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Oral Communications**<br>口头沟通 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Document Production III**<br>文档制作 III | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Career Planning Strategies**<br>职业规划策略 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
-| **Introduction to Records Management**<br>档案管理导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
+| **Introduction to Records Management**<br>档案管理入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Archives Principles**<br>档案学原理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **Document Control Processes**<br>文件控制流程 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |
 | **File Management & Security**<br>文件管理与安全 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/records-and-information-management) |

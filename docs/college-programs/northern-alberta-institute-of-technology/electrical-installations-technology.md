@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Electrical Installations Technology**<br>电气安装技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-installations-technology) |
 | **Effective Communications I**<br>有效沟通 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-installations-technology) |
-| **Introduction to the Canadian Electrical Code Part I**<br>加拿大电气规范导论 第 I 部分 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-installations-technology) |
+| **Introduction to the Canadian Electrical Code Part I**<br>加拿大电气规范入门 第 I 部分 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-installations-technology) |
 | **Electrical Applications and Safety**<br>电气应用与安全 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-installations-technology) |
 | **Residential Electrical Drawings**<br>住宅电气图 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-installations-technology) |
 | **Fundamental Electrical Theory**<br>电学理论基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/electrical-installations-technology) |

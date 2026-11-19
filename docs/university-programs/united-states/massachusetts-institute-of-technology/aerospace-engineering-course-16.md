@@ -1,19 +1,19 @@
 ---
-title: "3.2.1 Aerospace Engineering (Course 16)"
+title: "4.2.1 Aerospace Engineering (Course 16)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Aerospace Engineering (Course 16): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.1 Aerospace Engineering (Course 16)
+# 4.2.1 Aerospace Engineering (Course 16)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Aerospace Engineering (Course 16)**<br>航空航天工程（Course 16） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
 | **Unified Engineering: Materials and Structures**<br>统一工程：材料与结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
 | **Unified Engineering: Signals and Systems**<br>统一工程：信号与系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
 | **Unified Engineering: Fluid Dynamics**<br>统一工程：流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **Principles of Automatic Control**<br>自动控制原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
 | **Statistics and Probability**<br>统计与概率 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
 | **Aerodynamics**<br>空气动力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |
 | **Structural Mechanics**<br>结构力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/) |

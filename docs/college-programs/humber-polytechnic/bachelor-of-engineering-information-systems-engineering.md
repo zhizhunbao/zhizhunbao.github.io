@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Calculus 1**<br>微积分 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Physics 1**<br>物理 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
-| **Introduction to Engineering**<br>工程导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
+| **Introduction to Engineering**<br>工程入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Engineering in Society**<br>社会中的工程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Technical Communication and Critical Thinking for Engineers**<br>工程师技术沟通与批判性思维 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Calculus 2**<br>微积分 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Engineering Design**<br>工程设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Engineering Materials and Chemistry**<br>工程材料与化学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Teamwork and Leadership for Engineers**<br>工程师团队合作与领导力 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Discrete Mathematics**<br>离散数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Engineering Project Management**<br>工程项目管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Communication Engineering**<br>通信工程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Statistics & Probability**<br>统计与概率 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Engineering Economics and Entrepreneurship**<br>工程经济学与创业 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Computer Architecture**<br>计算机体系结构 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Virtual Platform Technologies**<br>虚拟平台技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |
 | **Work Preparation**<br>工作准备 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-information-systems-engineering) |

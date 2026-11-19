@@ -1,19 +1,19 @@
 ---
-title: "3.3.67 Urban Studies, Major: Bachelor of Arts"
+title: "4.3.67 Urban Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Urban Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.67 Urban Studies, Major: Bachelor of Arts
+# 4.3.67 Urban Studies, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Urban Studies, Major: Bachelor of Arts**<br>城市研究，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Urban Studies**<br>城市研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Urban Studies**<br>城市研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The Urban Underclass**<br>城市底层阶级 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计导论：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计入门：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The Urban Century: The City in Global Perspective**<br>城市世纪：全球视野下的城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Fundamentals of Geographic Information Science (GIS)**<br>地理信息科学（GIS）基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Foundations of Social Research**<br>社会研究基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
@@ -26,17 +26,17 @@ ms.date: 2026-11-18
 | **Principles of Data Science**<br>数据科学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Data Science for Social Impact**<br>社会影响的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Remote Sensing of Land**<br>陆地遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Qualitative Research Methodology**<br>定性研究方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Advanced Data Analysis in Qualitative Research**<br>定性研究中的高级数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Methods in Community Assessment, Evaluation, and Research**<br>社区评估、评价与研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Qualitative Research Methods and Study Design**<br>定性研究方法与研究设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Data Science for Politics**<br>政治学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Machine Learning for Social Scientists**<br>社会科学家的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Causal Inference for Social Science**<br>社会科学因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Designing Research for Social Justice: Creating a Community Engaged Research Project**<br>为社会正义设计研究：创建社区参与研究项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Community Engaged Research - Principles, Ethics, and Design**<br>社区参与研究：原则、伦理与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Advanced Concepts in Geographic Information Science**<br>地理信息科学高级概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
@@ -64,7 +64,7 @@ ms.date: 2026-11-18
 | **The Greeks**<br>希腊人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The Romans**<br>罗马人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Design of Cities**<br>城市设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Arab Studies: Memory, Heritage, and Cultural Production**<br>阿拉伯研究导论：记忆、遗产与文化生产 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Arab Studies: Memory, Heritage, and Cultural Production**<br>阿拉伯研究入门：记忆、遗产与文化生产 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Human Society and Environmental Change**<br>人类社会与环境变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **City, Space, Literature**<br>城市、空间、文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The City in Imperial China**<br>帝制中国的城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
@@ -101,19 +101,19 @@ ms.date: 2026-11-18
 | **From Gold Rush to Google Bus: History of San Francisco**<br>从淘金热到谷歌巴士：旧金山的历史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Race, Ethnicity, and Water in Urban California**<br>加利福尼亚城市的种族、族裔与水 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Race and Ethnicity in Urban California: Research Seminar**<br>加利福尼亚城市的种族与族裔：研究研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Race and Gender in Silicon Valley**<br>硅谷的种族与性别 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Foundations of African American Studies II**<br>非裔美国人研究基础 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The Big Shift**<br>大转变 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Muwekma: Landscape Archaeology and the Narratives of California Natives**<br>穆韦克马：景观考古与加利福尼亚原住民的叙事 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Riot: Visualizing Civil Unrest in the 20th and 21st Centuries**<br>骚乱：20世纪与21世纪民众动乱的可视化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Asian American Studies**<br>亚裔美国人研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Asian American Studies**<br>亚裔美国人研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The Development of the Southeast Asian American Communities: A comparative analysis**<br>东南亚裔美国人社区的发展：比较分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Asian American History**<br>亚裔美国人历史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Latinx Studies**<br>拉丁裔研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Asian American History**<br>亚裔美国人历史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Latinx Studies**<br>拉丁裔研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Mexican Migration to the United States**<br>墨西哥对美国的移民 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Well-Being in Immigrant Children & Youth: A Service Learning Course**<br>移民儿童与青少年的福祉：服务学习课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Chicanx/Latinx Studies**<br>奇卡诺/拉丁裔研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Chicanx/Latinx Studies**<br>奇卡诺/拉丁裔研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Race and Ethnicity Around the World**<br>世界各地的种族与族裔 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Race, Ethnicity, and Linguistic Diversity in Classrooms: Sociocultural Theory and Practices**<br>课堂中的种族、族裔与语言多样性：社会文化理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Education for Liberation: A History of African American Education, 1800 to the Present**<br>解放教育：1800年至今的非裔美国人教育史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
@@ -133,19 +133,19 @@ ms.date: 2026-11-18
 | **Black Geographies**<br>黑人地理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The Changing American City**<br>变迁中的美国城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Urban Education**<br>城市教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Teaching and Learning**<br>教与学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Teaching and Learning**<br>教与学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Tutoring: Seeing a Child through Literacy**<br>辅导：陪伴儿童读写 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Education and Inequality: Big Data for Large-Scale Problems**<br>教育与不平等：面向大规模问题的大数据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Education Policy in the United States**<br>美国教育政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Raza Youth in Urban Schools: Mis-educating Chicana/o/x and Latina/o/x Communities**<br>城市学校中的拉萨青年：对奇卡诺与拉丁裔社区的错误教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **History of Education in the United States**<br>美国教育史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Global and Comparative Education**<br>全球与比较教育导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Philosophy of Education**<br>教育哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Global and Comparative Education**<br>全球与比较教育入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Philosophy of Education**<br>教育哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Education and Society**<br>教育与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Education of Immigrant Students: Psychological Perspectives**<br>移民学生的教育：心理学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Child Development in and Beyond Schools**<br>校内外的儿童发展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Adolescent Health and Development**<br>青少年健康与发展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Developmental Psychology**<br>发展心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Developmental Psychology**<br>发展心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Psychology of Architecture**<br>建筑心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Design Theory**<br>设计理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Infrastructure Project Development**<br>基础设施项目开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
@@ -157,7 +157,7 @@ ms.date: 2026-11-18
 | **Urban Agroecology**<br>城市农业生态学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Economic Policy Analysis**<br>经济政策分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Climate change and global inequality**<br>气候变化与全球不平等 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Challenging the Status Quo: Innovation in the Public Sector**<br>挑战现状：公共部门创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Land Use Law**<br>土地使用法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Organizations: Theory and Management**<br>组织：理论与管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
@@ -178,25 +178,25 @@ ms.date: 2026-11-18
 | **Concepts and Analytic Skills for the Social Sector**<br>社会部门的概念与分析技能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Social Enterprise Workshop**<br>社会企业工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Who Owns Your City?: Institutional Real Estate Seminar**<br>谁拥有你的城市？机构房地产研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Race, Nature, and the City**<br>种族、自然与城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Urban Design Studio**<br>城市设计工作室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Urban, Rural, and Regional Planning**<br>城市、乡村与区域规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Urban, Rural, and Regional Planning**<br>城市、乡村与区域规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The Urban Economy**<br>城市经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Team Urban Design Studio**<br>团队城市设计工作室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Public Service for Social Impact: Pathways to Purposeful Careers**<br>为社会影响服务公共事业：通往有意义职业的路径 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Air Pollution and Global Warming: History, Science, and Solutions**<br>空气污染与全球变暖：历史、科学与解决方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Managing Sustainable Building Projects**<br>可持续建筑项目管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Understand Energy**<br>理解能源 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Air Quality Management**<br>空气质量管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Urban Water**<br>城市水系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Energy Efficient Buildings**<br>节能建筑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Human Exposure Analysis**<br>人体暴露分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Intro to Urban Sys Engrg**<br>城市系统工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Human Exposure Analysis**<br>人体暴露分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Intro to Urban Sys Engrg**<br>城市系统工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Environmental Governance and Climate Resilience**<br>环境治理与气候韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Topics in Disaster and Climate Risk and Resilience Research**<br>灾害与气候风险及韧性研究专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Energy and the Environment**<br>能源与环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **The Water Course**<br>水之课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |
 | **Energy, the Environment, and the Economy**<br>能源、环境与经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/urban-studies/bachelor-of-arts) |

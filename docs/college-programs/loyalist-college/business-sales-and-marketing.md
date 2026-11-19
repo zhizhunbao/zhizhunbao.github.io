@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
 | **Computer Applications for Business**<br>商业计算机应用 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
-| **Introduction to Business Sales and Marketing**<br>商业销售与营销导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
+| **Introduction to Business Sales and Marketing**<br>商业销售与营销入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
 | **Presentations for Sales and Marketing 1**<br>销售与营销演示 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
 | **Becoming a Global Changemaker**<br>成为全球变革者 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |
 | **Business Computer Applications - Excel**<br>商务计算机应用 - Excel | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/business-sales-and-marketing/) |

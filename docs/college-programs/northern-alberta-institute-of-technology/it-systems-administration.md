@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **IT Systems Administration**<br>IT系统管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
 | **IT Project Essentials**<br>IT 项目要点 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
-| **Introduction to Networking Protocols**<br>网络协议导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
-| **Introduction to Server Operating Systems**<br>服务器操作系统导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
+| **Introduction to Networking Protocols**<br>网络协议入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
+| **Introduction to Server Operating Systems**<br>服务器操作系统入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
 | **Computer Fundamentals**<br>计算机基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
 | **Professionalism in the IT Workplace**<br>IT 职场职业素养 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
 | **Network Security Architecture**<br>网络安全架构 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
-| **Introduction to Systems Administration**<br>系统管理导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
+| **Introduction to Systems Administration**<br>系统管理入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
 | **Web Server Administration**<br>Web 服务器管理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
 | **IT Service Delivery**<br>IT 服务交付 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |
 | **System Automation and AI**<br>系统自动化与人工智能 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-systems-administration) |

@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Youth Crime and Justice**<br>青少年犯罪与司法 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baps/) |
 | **Select 1 of the following courses: HUMA 1012 , PSYC 1000 , SCEN 1000 or SOCI 1000 .**<br>从下列课程中选修1门：HUMA 1012、PSYC 1000、SCEN 1000或SOCI 1000。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baps/) |
 | **Mental Health Issues**<br>心理健康问题 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baps/) |
-| **Introduction to Forensic Science**<br>法庭科学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baps/) |
+| **Introduction to Forensic Science**<br>法庭科学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baps/) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baps/) |
 | **Public Safety and Emergency Management**<br>公共安全与应急管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baps/) |
 | **Select 1 of the following courses (not previously taken): HUMA 1012 , PSYC 1000 , SCEN 1000 or SOCI 1000 .**<br>从下列课程中选修1门（此前未修过）：HUMA 1012、PSYC 1000、SCEN 1000或SOCI 1000。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/baps/) |

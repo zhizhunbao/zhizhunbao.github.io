@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Marketing Management**<br>市场营销管理 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
 | **Business Information Systems**<br>商业信息系统 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
-| **Introduction to Organizational Development**<br>组织发展导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
+| **Introduction to Organizational Development**<br>组织发展入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
 | **Business Communication 1**<br>商务沟通 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
 | **Essentials of Marketing**<br>营销学基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Business Communication 2**<br>商务沟通 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
 | **Accounting for Management**<br>管理会计 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
-| **Introduction to Marketing Communications**<br>营销传播导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
+| **Introduction to Marketing Communications**<br>营销传播入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/) |
 
 ## Courses

@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Computer Programming and Analysis (Co-op option available)**<br>计算机编程与分析（提供可选带薪实习） | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
 | **Computer Systems - Hardware**<br>计算机系统：硬件 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
 | **Data Communications and Networking 1**<br>数据通信与网络 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
 | **Mathematics for IT**<br>IT数学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
 | **Object-Oriented Programming 1**<br>面向对象编程 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |
 | **General Elective - Course Placeholder**<br>通识选修课 - 课程占位 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/computer-programming-analyst-three-year) |

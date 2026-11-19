@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Music MA; Field: Ethnomusicology**<br>音乐（MA）；领域：民族音乐学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Music Research I**<br>音乐研究导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Music Research I**<br>音乐研究入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Fieldwork Methods and Practicum**<br>田野工作方法与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **MA Major Paper or Project**<br>文学硕士主修论文或项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 

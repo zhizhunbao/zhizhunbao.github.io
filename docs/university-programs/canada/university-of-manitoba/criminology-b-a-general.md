@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminology, B.A. General**<br>犯罪学，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/criminology-ba-general/) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/criminology-ba-general/) |
-| **Introduction à la microsociologie and Introduction à la macrosociologie**<br>微观社会学导论 与 宏观社会学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/criminology-ba-general/) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/criminology-ba-general/) |
+| **Introduction à la microsociologie and Introduction à la macrosociologie**<br>微观社会学入门 与 宏观社会学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/criminology-ba-general/) |
 | **Understanding Social Research**<br>理解社会研究 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/criminology-ba-general/) |
 | **Understanding Social Statistics**<br>理解社会统计 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/criminology-ba-general/) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/criminology-ba-general/) |

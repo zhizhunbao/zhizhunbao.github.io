@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Therapeutic Recreation**<br>治疗性休闲 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
-| **Introduction to Anatomy and Physiology**<br>解剖与生理学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
+| **Introduction to Anatomy and Physiology**<br>解剖与生理学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
 | **Understanding Aboriginal Perspective and Experiences**<br>理解原住民视角与经历 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
 | **Lifespan Human Development**<br>人类毕生发展 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Recreation Leadership I**<br>康乐领导力 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
 | **Principles and Practices of Health**<br>健康原理与实践 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
 | **Communication Skills for Recreation and Health Professionals**<br>康乐与健康专业人员沟通技能 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
-| **TR Process I Introduction to the TR Process**<br>治疗性康乐过程 1：治疗性康乐过程导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
+| **TR Process I Introduction to the TR Process**<br>治疗性康乐过程 1：治疗性康乐过程入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
 | **Inclusive Leisure Practice**<br>包容性休闲实践 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
 | **Valuing Diversity: Therapeutic Recreation and Mental Health**<br>重视多元：治疗性康乐与精神健康 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |
 | **Older Adulthood: Psychosocial Issues and Therapeutic Recreation**<br>老年期：心理社会问题与治疗性康乐 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dptrt) |

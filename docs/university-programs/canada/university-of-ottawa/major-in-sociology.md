@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Sociological Theory: Mid-20th Century**<br>社会学理论：20 世纪中叶 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-sociology/) |
 | **Theorizing in Sociology**<br>社会学中的理论建构 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-sociology/) |
 | **Building Sociological Reasoning**<br>建立社会学思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-sociology/) |
-| **Introduction to Qualitative Methodology**<br>定性方法论导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-sociology/) |
+| **Introduction to Qualitative Methodology**<br>定性方法论入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-sociology/) |
 | **Survey Design and Quantitative Data Acquisition**<br>调查设计与定量数据采集 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-sociology/) |
 | **Qualitative Analysis**<br>定性分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-sociology/) |
 | **Statistical Analysis in Sociology**<br>社会学统计分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-sociology/) |

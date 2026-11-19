@@ -12,18 +12,18 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **MAJOR IN MIDDLE EAST STUDIES**<br>中东研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **THE MAKING OF THE MODERN MIDDLE EAST**<br>现代中东的形成 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ISLAM**<br>伊斯兰教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO JUDAISM**<br>犹太教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ISLAM**<br>伊斯兰教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO JUDAISM**<br>犹太教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **BIBLICAL STORYTELLING AND ADAPTATION**<br>圣经叙事与改编 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **ANCIENT WISDOM**<br>古代智慧 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE QUR'AN**<br>《古兰经》导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE QUR'AN**<br>《古兰经》入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **ARABIC FOR BEGINNERS**<br>阿拉伯语入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE ARABIC**<br>中级阿拉伯语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED QURANIC ARABIC**<br>高级古兰经阿拉伯语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED ARABIC**<br>高级阿拉伯语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **HEBREW 1**<br>希伯来语 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIBLICAL HEBREW**<br>圣经希伯来语导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIBLICAL HEBREW II**<br>圣经希伯来语导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIBLICAL HEBREW**<br>圣经希伯来语入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIBLICAL HEBREW II**<br>圣经希伯来语入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **HEBREW 2**<br>希伯来语 2 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE BIBLICAL HEBREW: PROSE**<br>中级圣经希伯来语：散文 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE BIBLICAL HEBREW: POETRY**<br>中级圣经希伯来语：诗歌 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
@@ -31,16 +31,16 @@ ms.date: 2026-11-11
 | **BEGINNER PERSIAN FOR HERITAGE SPEAKERS**<br>传承语使用者波斯语入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE PERSIAN**<br>中级波斯语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **ANCIENT AND MEDIEVAL PHILOSOPHY**<br>古代与中世纪哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO JEWISH PHILOSOPHY I: FROM THE BEGINNINGS TO THE ITALIAN RENAISSANCE**<br>犹太哲学导论 I：从起源到意大利文艺复兴 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO JEWISH PHILOSOPHY 2: EARLY MODERN TO CONTEMPORARY**<br>犹太哲学导论 2：近代早期至当代 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ISLAMIC THOUGHT**<br>伊斯兰思想导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE DEAD SEA SCROLLS**<br>死海古卷导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO JEWISH PHILOSOPHY I: FROM THE BEGINNINGS TO THE ITALIAN RENAISSANCE**<br>犹太哲学入门 I：从起源到意大利文艺复兴 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO JEWISH PHILOSOPHY 2: EARLY MODERN TO CONTEMPORARY**<br>犹太哲学入门 2：近代早期至当代 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ISLAMIC THOUGHT**<br>伊斯兰思想入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE DEAD SEA SCROLLS**<br>死海古卷入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **WORLD RELIGIONS: JUDAISM AND ISLAM**<br>世界宗教：犹太教与伊斯兰教 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **PROPHECY**<br>预言 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **TOPICS IN ISLAM**<br>伊斯兰教专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **LIVING THE BIBLE: LAW AND ETHICS**<br>活出《圣经》：法律与伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **ISLAM TODAY**<br>当今伊斯兰教 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ISLAMIC MYSTICISM**<br>伊斯兰神秘主义导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ISLAMIC MYSTICISM**<br>伊斯兰神秘主义入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **HISTORY & CIVILIZATION OF MEDIEVAL ISLAM**<br>中世纪伊斯兰的历史与文明 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **CRUSADERS AND MUSLIMS IN THE TWELFTH CENTURY**<br>12 世纪的十字军与穆斯林 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **SELECTED TOPICS IN ASIAN, AFRICAN OR MIDDLE EASTERN HISTORY**<br>亚洲、非洲或中东史精选专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
@@ -50,7 +50,7 @@ ms.date: 2026-11-11
 | **ISLAM AT THE CINEMA**<br>银幕上的伊斯兰教 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **CULTURES OF THE MIDDLE EAST**<br>中东文化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **THE HISTORY OF THE MODERN MIDDLE EAST**<br>现代中东史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE HEBREW BIBLE**<br>希伯来圣经导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE HEBREW BIBLE**<br>希伯来圣经入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **UNDERSTANDING ISLAMIC FUNDAMENTALISM**<br>理解伊斯兰原教旨主义 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **ISLAMIC THOUGHT, CULTURE AND PRACTICES**<br>伊斯兰思想、文化与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |
 | **ISLAM AND POLITICS**<br>伊斯兰教与政治 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21222&SelectedCalendar=Live&ArchiveID=) |

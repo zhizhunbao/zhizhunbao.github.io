@@ -27,17 +27,17 @@ ms.date: 2026-11-08
 | **Low Pressure Steam**<br>低压蒸汽 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Pipe Template Development**<br>管道样板展开 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Pipe Layout and Fitting Fabrication**<br>管道放样与管件制作 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
-| **Introduction to Electric Welding and Cutting**<br>电焊与切割导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
+| **Introduction to Electric Welding and Cutting**<br>电焊与切割入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Pipe and Tube Bending**<br>管材弯曲 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Safety**<br>安全 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Bracket, Support, Hanger, Guides and Anchor Fabrication**<br>支架、支撑、吊架、导向件与锚固件制作 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Steamfitter Pipefitter Math Fundamentals**<br>蒸汽管道工数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/steamfitter-pipefitter) |
 
 ## Courses
 

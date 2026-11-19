@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Administration - Human Resources**<br>工商管理 - 人力资源 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Accounting Concepts I**<br>会计概念 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
-| **Introduction To Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
+| **Introduction To Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Mathematics Of Personal Finance**<br>个人理财数学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
-| **Introduction To Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
+| **Introduction To Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Accounting Concepts II**<br>会计概念 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Macro Economics**<br>宏观经济学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
-| **Introduction To Canadian Marketing**<br>加拿大市场营销导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
+| **Introduction To Canadian Marketing**<br>加拿大市场营销入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Statistical Concepts**<br>统计学概念 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |
 | **Business Communications II**<br>商务沟通 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/business-administration-human-resources) |

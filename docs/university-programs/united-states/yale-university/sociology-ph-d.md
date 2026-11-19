@@ -1,10 +1,10 @@
 ---
-title: "3.4.159 Sociology (Ph.D.)"
+title: "4.4.159 Sociology (Ph.D.)"
 description: "University Programs > United States > Yale University > Sociology (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.159 Sociology (Ph.D.)
+# 4.4.159 Sociology (Ph.D.)
 
 ## Glossary
 
@@ -12,7 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Sociology (Ph.D.)**<br>社会学（哲学博士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/sociology/) |
 | **Sociological Theory**<br>社会学理论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/sociology/) |
-| **Introduction to Methods in Quantitative Sociology**<br>定量社会学方法导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/sociology/) |
+| **Introduction to Methods in Quantitative Sociology**<br>定量社会学方法入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/sociology/) |
 
 ## Courses
 

@@ -18,16 +18,16 @@ ms.date: 2026-11-11
 | **Fundamentals of Engineering Computation**<br>工程计算基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Mechanical Drafting**<br>机械制图 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Fundamentals of Biomedical Mechanical Engineering**<br>生物医学机械工程基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Fundamentals of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Mechanics of Materials I**<br>材料力学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Electric Circuits and Machines for Mechanical Engineering**<br>机械工程电路与电机 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
-| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
+| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Calculus III for Engineers**<br>工程师微积分 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Ordinary Differential Equations and Numerical Methods**<br>常微分方程与数值方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
-| **Introduction to Design of Mechanical Systems**<br>机械系统设计导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
+| **Introduction to Design of Mechanical Systems**<br>机械系统设计入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Thermodynamics II**<br>热力学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-11
 | **Biofluid Mechanics I**<br>生物流体力学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Advanced Strength of Materials and Applications to Biomechanical Systems**<br>高级材料力学及其在生物力学系统中的应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Biofluid Mechanics**<br>生物流体力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
-| **Introduction to Biomechanics of Human Movement**<br>人体运动生物力学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
+| **Introduction to Biomechanics of Human Movement**<br>人体运动生物力学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Biomedical System Dynamics**<br>生物医学系统动力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Control Systems**<br>控制系统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Technology Entrepreneurship for Engineers and Computer Scientists**<br>工程师与计算机科学家的技术创业 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
@@ -54,11 +54,11 @@ ms.date: 2026-11-11
 | **Manufacturing**<br>制造 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Mechanical Engineering Laboratory**<br>机械工程实验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Biomedical Mechanical Engineering Capstone Project**<br>生物医学机械工程毕业设计项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
-| **Introduction to Microfluidics**<br>微流控导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
+| **Introduction to Microfluidics**<br>微流控入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Design of Artificial Joint Prostheses and Implants**<br>人工关节假体与植入物设计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Design of Artificial Organs**<br>人工器官设计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Biomechanics of Movement**<br>运动生物力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
-| **Introduction to Biomaterials and Tissue Engineering**<br>生物材料与组织工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
+| **Introduction to Biomaterials and Tissue Engineering**<br>生物材料与组织工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Building Energy Systems**<br>建筑能源系统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Fluid Machinery**<br>流体机械 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Internal Combustion Engines**<br>内燃机 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
@@ -81,7 +81,7 @@ ms.date: 2026-11-11
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Corrosion: Principles, Prevention and Control**<br>腐蚀：原理、预防与控制 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Product Design and Development**<br>产品设计与开发 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
-| **Introduction to Composite Materials**<br>复合材料导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
+| **Introduction to Composite Materials**<br>复合材料入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Selected Topics I**<br>专题选讲 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Selected Topics II**<br>专题选讲 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |
 | **Selected Topics III**<br>专题选讲 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-biomedical-mechanical-engineering/) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business – Accounting**<br>商科 – 会计 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **Accounting Fundamentals I**<br>会计基础 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
-| **Introduction to Business Management**<br>企业管理导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
+| **Introduction to Business Management**<br>企业管理入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **Spreadsheets for Business**<br>商务电子表格 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **Organizational Behavior**<br>组织行为学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
-| **Introduction to Finance**<br>金融导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
+| **Introduction to Finance**<br>金融入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **Indigenous Business and Economics**<br>原住民商业与经济 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **Cost Accounting II**<br>成本会计 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |
 | **Financial Reporting II**<br>财务报告 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-accounting) |

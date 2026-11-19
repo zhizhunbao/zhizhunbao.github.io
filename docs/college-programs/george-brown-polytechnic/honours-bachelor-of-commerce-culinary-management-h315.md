@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Honours Bachelor of Commerce (Culinary Management) (H315)**<br>商学荣誉学士（烹饪管理） | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-program-culinary-management-h315) |
 | **Emergency First Aid and Heartsaver CPR**<br>急救与Heartsaver心肺复苏 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-program-culinary-management-h315) |
-| **Introduction to Restaurant Management**<br>餐厅管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-program-culinary-management-h315) |
+| **Introduction to Restaurant Management**<br>餐厅管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-program-culinary-management-h315) |
 | **Culinary Skills I**<br>烹饪技能 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-program-culinary-management-h315) |
 | **Gastronomic Theory I**<br>美食理论 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-program-culinary-management-h315) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-program-culinary-management-h315) |

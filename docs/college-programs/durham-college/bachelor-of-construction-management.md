@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Bachelor of Construction Management**<br>施工管理学士 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-construction-management) |
 | **Algebraic and Geometric Mathematics**<br>代数与几何数学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-construction-management) |
 | **Construction Methods, Materials and Equipment**<br>施工方法、材料与设备 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-construction-management) |
-| **Introduction to Construction Management**<br>建筑管理导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-construction-management) |
+| **Introduction to Construction Management**<br>建筑管理入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-construction-management) |
 | **Construction Estimating I**<br>施工估价 I | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-construction-management) |
 | **Communications 1: Critical Thinking and Writing**<br>沟通 1：批判性思维与写作 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-construction-management) |
 | **Introduction to Calculus for Construction**<br>建筑微积分入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/bachelor-of-construction-management) |

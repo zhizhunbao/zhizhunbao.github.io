@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Digital Design**<br>数字设计 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/digital-design/) |
 | **Fundamental Principles of Design**<br>设计基本原理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/digital-design/costs-and-courses/) |
 | **Typography**<br>字体排印 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/digital-design/costs-and-courses/) |
-| **Introduction to the Digital Design Profession**<br>数字设计职业导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/digital-design/costs-and-courses/) |
+| **Introduction to the Digital Design Profession**<br>数字设计职业入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/digital-design/costs-and-courses/) |
 | **User Experience Design**<br>用户体验设计 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/digital-design/costs-and-courses/) |
 | **Digital Marketing Communications**<br>数字营销传播 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/digital-design/costs-and-courses/) |
 | **Interaction Design for Mobile Experiences**<br>移动体验交互设计 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/digital-design/costs-and-courses/) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.71 Applied Physics, Master of Science"
+title: "4.3.71 Applied Physics, Master of Science"
 description: "University Programs > United States > Stanford University > Applied Physics, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.71 Applied Physics, Master of Science
+# 4.3.71 Applied Physics, Master of Science
 
 ## Glossary
 
@@ -43,7 +43,7 @@ ms.date: 2026-11-18
 | **Lasers**<br>激光 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Electromagnetic Waves**<br>电磁波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Nanophotonics**<br>纳米光子学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
-| **Introduction to Nonlinear Optics**<br>非线性光学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
+| **Introduction to Nonlinear Optics**<br>非线性光学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Quantum Theory of Electronic and Optical Excitations in Materials**<br>材料中电子与光学激发的量子理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Light and Plasma**<br>光与等离子体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Classical Electrodynamics**<br>经典电动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
@@ -70,8 +70,8 @@ ms.date: 2026-11-18
 | **X-Ray Science and Techniques**<br>X 射线科学与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Transmission Electron Microscopy Analysis and Simulation**<br>透射电子显微镜分析与模拟 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Graduate Observational Astrophysics**<br>研究生观测天体物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Deep Reinforcement Learning**<br>深度强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
@@ -87,8 +87,8 @@ ms.date: 2026-11-18
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Probability and Statistical Inference**<br>概率与统计推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Partial Differential Equations of Applied Mathematics**<br>应用数学中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Biotransport Phenomena**<br>生物传输现象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Quantitative Evolutionary Dynamics and Genomics**<br>定量进化动力学与基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |
 | **Cellular Biophysics**<br>细胞生物物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/master-of-science) |

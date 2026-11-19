@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Financial Accounting I**<br>财务会计 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/human-resources) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/human-resources) |
 | **Human Resource Management I**<br>人力资源管理 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/human-resources) |
-| **Introduction to Finance**<br>金融导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/human-resources) |
+| **Introduction to Finance**<br>金融入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/human-resources) |
 | **Integrated Software Applications**<br>集成软件应用 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/human-resources) |
 | **Marketing I**<br>市场营销 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/human-resources) |
 | **Financial Accounting II**<br>财务会计 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/human-resources) |

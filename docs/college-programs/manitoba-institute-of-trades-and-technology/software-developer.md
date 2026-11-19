@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Software Developer**<br>软件开发人员 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-software-developer-2025-2026-1.pdf) |
-| **Introduction to Web Development**<br>Web开发导论 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-software-developer-2025-2026-1.pdf) |
+| **Introduction to Web Development**<br>Web开发入门 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-software-developer-2025-2026-1.pdf) |
 | **JavaScript Basics**<br>JavaScript基础 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-software-developer-2025-2026-1.pdf) |
 | **Object-Oriented JavaScript**<br>面向对象JavaScript | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-software-developer-2025-2026-1.pdf) |
 | **Tools and Automation**<br>工具与自动化 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-software-developer-2025-2026-1.pdf) |

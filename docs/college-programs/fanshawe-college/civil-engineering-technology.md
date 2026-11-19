@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Mathematics in Technology 2**<br>技术中的数学 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3701/courses-next/) |
 | **Reason & Writing 1-Technology**<br>推理与写作 1 - 技术 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3701/courses-next/) |
 | **Civil Engineering Drawings**<br>土木工程制图 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3701/courses-next/) |
-| **Plane Surveying-Intro**<br>平面测量 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3701/courses-next/) |
+| **Plane Surveying-Intro**<br>平面测量 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3701/courses-next/) |
 | **Water & Civilization**<br>水与文明 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3701/courses-next/) |
 | **Civil Engineering AutoCAD Drawing**<br>土木工程 AutoCAD 制图 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3701/courses-next/) |
 | **Construction Materials**<br>建筑材料 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3701/courses-next/) |

@@ -18,10 +18,10 @@ ms.date: 2026-11-11
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
 | **Determinants of Health**<br>健康决定因素 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
 | **Philosophical Issues in Health Care**<br>医疗保健中的哲学问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
-| **Introduction to Psychology: Foundations**<br>心理学导论：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
+| **Introduction to Psychology: Foundations**<br>心理学入门：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
 | **Quantitative Methods in Health Sciences: Continuous Variables**<br>健康科学中的定量方法：连续变量 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
-| **Introduction to Nursing Science**<br>护理科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
-| **Introduction to Nursing Practice**<br>护理实践导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
+| **Introduction to Nursing Science**<br>护理科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
+| **Introduction to Nursing Practice**<br>护理实践入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
 | **Theory in Nursing**<br>护理理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |
 | **Care of Adults Experiencing Illness**<br>成人疾病护理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-science-nursing/) |

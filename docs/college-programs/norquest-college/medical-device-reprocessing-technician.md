@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Medical Device Reprocessing Technician**<br>医疗器械再处理技术员 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/medical-device-reprocessing-technician/) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/medical-device-reprocessing-technician/costs-and-courses/) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/medical-device-reprocessing-technician/costs-and-courses/) |
 | **Surgical Instrument Processing I**<br>手术器械处理 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/medical-device-reprocessing-technician/costs-and-courses/) |
 | **Surgical Instrument Processing II**<br>手术器械处理 2 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/medical-device-reprocessing-technician/costs-and-courses/) |
-| **Introduction to Reprocessing**<br>再处理导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/medical-device-reprocessing-technician/costs-and-courses/) |
+| **Introduction to Reprocessing**<br>再处理入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/medical-device-reprocessing-technician/costs-and-courses/) |
 | **Practicum for MDRT**<br>医疗器械再处理技术员实习 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/medical-device-reprocessing-technician/costs-and-courses/) |
 
 ## Courses

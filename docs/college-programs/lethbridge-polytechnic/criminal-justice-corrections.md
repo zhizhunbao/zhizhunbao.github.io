@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminal Justice - Corrections**<br>刑事司法：惩教 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Public Safety Communications/Interpersonal Relations**<br>公共安全沟通/人际关系 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Composition**<br>作文 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Procedural Law in Canada**<br>加拿大程序法 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Preliminary Response and Investigation**<br>初步响应与调查 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Diverse Populations in Public Safety**<br>公共安全中的多元人群 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Applied English and Investigative Writing**<br>应用英语与调查写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Youth in the Justice System**<br>司法系统中的青少年 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Criminal and Correctional Offences**<br>刑事与矫正犯罪 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Ethics and Critical Thought**<br>伦理与批判性思维 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Conflict Management**<br>冲突管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Career Preparation for Public Safety**<br>公共安全职业准备 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Corrections Administration**<br>矫正管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Correctional Case Work and Practices**<br>矫正个案工作与实务 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Approved Elective**<br>认可选修课 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Commercial Vehicle Enforcement**<br>商用车辆执法导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Commercial Vehicle Enforcement**<br>商用车辆执法入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Specialized Policing**<br>专门警务 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Traffic**<br>交通 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Drugs in Corrections**<br>矫正中的毒品 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
@@ -41,38 +41,38 @@ ms.date: 2026-11-08
 | **Fitness & Lifestyles in Public Safety I**<br>公共安全中的健身与生活方式 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Cultural Anthropology**<br>文化人类学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Anthropology of Gender**<br>性别人类学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction Into Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction Into Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Anatomy and Physiology I**<br>解剖学与生理学 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Microbiology**<br>微生物学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Structural Human Anatomy**<br>人体结构解剖学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Blackfoot Language I**<br>黑脚语 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Blackfoot Language II**<br>黑脚语 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Industrial and Labour Relations**<br>产业与劳动关系 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Language and Literature**<br>语言与文学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Language and Literature**<br>语言与文学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Logic**<br>逻辑学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to World Religions**<br>世界宗教导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to World Religions**<br>世界宗教入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Popular Culture**<br>流行文化 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Niitsitapiiysini**<br>Niitsitapiiysini | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Local Government**<br>地方政府 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Politics**<br>政治学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Politics**<br>政治学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Canadian Government**<br>加拿大政府 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Human Development Across the Lifespan**<br>人生全程人类发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Psychology of Aging**<br>老年心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Adolescent Development**<br>青少年发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Child Psychopathology**<br>儿童精神病理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Psychopathology**<br>精神病理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Personality Theory**<br>人格理论导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Forensic Psychology**<br>法医心理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Personality Theory**<br>人格理论入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Forensic Psychology**<br>法医心理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Brain and Behaviour**<br>脑与行为 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Social Problems**<br>社会问题 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Introductory Spanish**<br>西班牙语入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 | **Introductory Spanish II**<br>西班牙语入门 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
-| **Introduction to Immersive Technology**<br>沉浸式技术导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
+| **Introduction to Immersive Technology**<br>沉浸式技术入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-corrections) |
 
 ## Courses
 

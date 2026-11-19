@@ -17,12 +17,12 @@ ms.date: 2026-11-08
 | **Mental Health & Recovery**<br>心理健康与康复 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Power, Privilege and Oppression**<br>权力、特权与压迫 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Across the Lifespan**<br>贯穿生命全程 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Case Management and Service Coordination**<br>案例管理与服务协调 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Counselling Interventions II**<br>咨询干预 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Documentation and Record Keeping in Human Services**<br>人类服务中的文档与记录保存 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Ethics and Professional Practice**<br>伦理与职业实践 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
-| **Introduction to Social Welfare**<br>社会福利导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
+| **Introduction to Social Welfare**<br>社会福利入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Professional Practice I**<br>专业实践 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Self-Care and Resiliency for Helping Professionals**<br>助人专业人员的自我关怀与心理韧性 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |
 | **Building Capacity in Communities**<br>社区能力建设 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/social-service-worker) |

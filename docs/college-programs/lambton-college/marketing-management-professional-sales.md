@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mmpt) |
 | **Business Analytics**<br>商业分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mmpt) |
 | **Fundamentals of Entrepreneurship**<br>创业基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mmpt) |
-| **Introduction to Digital Marketing**<br>数字营销导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mmpt) |
+| **Introduction to Digital Marketing**<br>数字营销入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mmpt) |
 | **Selling**<br>销售 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mmpt) |
 | **Consumer Behaviour & Trends**<br>消费者行为与趋势 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mmpt) |
 | **Integrated Marketing Communications**<br>整合营销传播 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/mmpt) |

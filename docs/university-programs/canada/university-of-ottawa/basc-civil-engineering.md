@@ -14,17 +14,17 @@ ms.date: 2026-11-11
 | **Principles of Chemistry**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Civil Engineering Graphics and Seminars**<br>土木工程制图与研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Technical Report Writing**<br>技术报告写作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
-| **Introduction to Engineering Design**<br>工程设计导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
+| **Introduction to Engineering Design**<br>工程设计入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Engineering Mechanics**<br>工程力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Fundamentals of Engineering Computation**<br>工程计算基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Fundamentals of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Engineering Economics**<br>工程经济学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
-| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
+| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Geotechnical Materials and Processes**<br>岩土材料与工艺 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
-| **Introduction to Fluid Mechanics**<br>流体力学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
+| **Introduction to Fluid Mechanics**<br>流体力学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Fundamentals of Environmental Engineering**<br>环境工程基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Mechanics of Materials I**<br>材料力学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Civil Engineering Materials**<br>土木工程材料 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Theory of Structures I**<br>结构理论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Structural Steel Design I**<br>钢结构设计 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Reinforced Concrete Design I**<br>钢筋混凝土设计 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
-| **Introduction to Civil Engineering Project**<br>土木工程项目导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
+| **Introduction to Civil Engineering Project**<br>土木工程项目入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Highway and Transportation Engineering**<br>公路与交通工程 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Field Investigations and Environmental Impact Assessment of Civil Engineering Projects**<br>土木工程项目的现场调查与环境影响评价 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Civil Engineering Design Project**<br>土木工程设计项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
@@ -68,7 +68,7 @@ ms.date: 2026-11-11
 | **Hydraulics of Water Supply and Sewer Systems**<br>供水与排水系统水力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Groundwater and Seepage**<br>地下水与渗流 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Special Topics in Water Resources Engineering**<br>水资源工程专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
-| **Introduction to Hydrogeology**<br>水文地质学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
+| **Introduction to Hydrogeology**<br>水文地质学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Air Pollution Control Processes**<br>空气污染控制过程 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Environmental Biotechnology**<br>环境生物技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |
 | **Adsorption Separations for Environmental Applications**<br>环境应用中的吸附分离 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/) |

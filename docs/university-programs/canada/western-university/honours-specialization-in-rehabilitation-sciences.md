@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **BIOLOGY FOR SCIENCE II**<br>理科生物学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH PROMOTION**<br>健康促进 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH POLICY**<br>卫生政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND HEALTH**<br>伦理与健康导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND HEALTH**<br>伦理与健康入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH ISSUES IN CHILDHOOD AND ADOLESCENCE**<br>童年与青春期的健康问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH ISSUES IN AGING**<br>老龄化中的健康问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
 | **HEALTH SCIENCES RESEARCH**<br>健康科学研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-11
 | **ANATOMY OF THE HUMAN BODY: A DESCRIPTION OF SYSTEMIC STRUCTURE & FUNCTION**<br>人体解剖学：系统结构与功能描述 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICAL ACTIVITY AND EXERCISE IN OLDER ADULTS**<br>老年人的体力活动与锻炼 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN PHYSIOLOGY**<br>人体生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE INTEGRATION OF HUMAN PHYSIOLOGY AND PHARMACOLOGY**<br>人体生理学与药理学整合导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE INTEGRATION OF HUMAN PHYSIOLOGY AND PHARMACOLOGY**<br>人体生理学与药理学整合入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21165&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Marketing Management - Post-Degree Diploma**<br>市场营销管理－学位后文凭 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/marketing-management-post-degree-diploma-post-degree-diploma-we) |
 | **Professional Business Practice**<br>职业商务实务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/marketing-management-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Accounting for Managers**<br>管理会计（面向管理者） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/marketing-management-post-degree-diploma-post-degree-diploma-we/courses) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/marketing-management-post-degree-diploma-post-degree-diploma-we/courses) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/marketing-management-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/marketing-management-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/marketing-management-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Integrated Marketing Communication**<br>整合营销传播 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/marketing-management-post-degree-diploma-post-degree-diploma-we/courses) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Electrical Engineering, Electrical Engineering Co-op (B.Eng.)**<br>电气工程，电气工程合作教育（B.Eng.） | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
-| **Introduction to Circuit Analysis**<br>电路分析导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
+| **Introduction to Circuit Analysis**<br>电路分析入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Circuits and Systems**<br>电路与系统 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Electronic Devices and Circuits I**<br>电子器件与电路 I | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Electromagnetics I**<br>电磁场 I | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Engineering: Communications and Social Impact**<br>工程：沟通与社会影响 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Electrical Systems Integration Project**<br>电气系统集成项目 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Engineering Economics**<br>工程经济学 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
-| **Introduction to Control Systems**<br>控制系统导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
+| **Introduction to Control Systems**<br>控制系统入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Electronic Devices and Circuits II**<br>电子器件与电路 II | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Electromagnetics II**<br>电磁场 II | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Energy Conversion**<br>能量转换 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Embedded Systems**<br>嵌入式系统 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Fundamentals of Machine Learning**<br>机器学习基础 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Digital Signal Processing**<br>数字信号处理 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
-| **Introduction to Digital Sequences**<br>数字序列导论 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
+| **Introduction to Digital Sequences**<br>数字序列入门 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **High-Performance Programming**<br>高性能编程 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Very Large Scale Integration System Design**<br>超大规模集成电路系统设计 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |
 | **Control System Design**<br>控制系统设计 | (Definition pending) | （定义待补） | [McMaster University, n.d.](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=65&poid=33019) |

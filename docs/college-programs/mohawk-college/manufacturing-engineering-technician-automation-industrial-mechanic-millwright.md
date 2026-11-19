@@ -17,8 +17,8 @@ ms.date: 2026-11-08
 | **Mechanical Maintenance**<br>机械维护 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **Workshop Technology**<br>车间技术 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **Trade Calculations 1 Manufacturing Technician**<br>行业计算 1 制造技术员 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
-| **Introduction Manufacturing Processes**<br>制造工艺导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
-| **Introduction to Pneumatics**<br>气动导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
+| **Introduction Manufacturing Processes**<br>制造工艺入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
+| **Introduction to Pneumatics**<br>气动入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **CAD Concepts 2**<br>CAD概念 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **Applied Calculations 2 Manufacturing Technician**<br>制造技术员应用计算 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **Industrial Maintenance 1**<br>工业维护 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Machine Technology**<br>机械技术 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **System Studies**<br>系统研究 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **Hydraulics Lvl 2**<br>液压 2级 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
-| **Introduction to Welding**<br>焊接导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
+| **Introduction to Welding**<br>焊接入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **Maintenance Technology 2**<br>维修技术 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **Workshop Practice 2**<br>车间实践 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |
 | **General Education Elective 2**<br>通识教育选修课 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=473&prg_ver=26-A) |

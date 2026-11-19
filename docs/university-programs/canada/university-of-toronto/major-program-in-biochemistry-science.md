@@ -31,8 +31,8 @@ ms.date: 2026-11-11
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
 | **Bio-Organic Chemistry**<br>生物有机化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
 | **Chemical Thermodynamics and Elementary Kinetics**<br>化学热力学与基础动力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
-| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学导论：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
-| **Introduction to Inorganic Chemistry**<br>无机化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
+| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学入门：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
 | **Principles of Analytical Instrumentation**<br>分析仪器原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
 | **Organic Synthesis**<br>有机合成 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |
 | **Medicinal Chemistry**<br>药物化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1762) |

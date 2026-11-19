@@ -17,12 +17,12 @@ ms.date: 2026-11-08
 | **Python Programming in Canada**<br>加拿大Python编程 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
 | **Cloud Storage Fundamentals for Canadian Enterprises**<br>加拿大企业云存储基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
 | **Virtualization**<br>虚拟化 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
-| **Introduction to DevOps Careers for Canadian Business**<br>加拿大企业DevOps职业导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
-| **Introduction to Cloud Computing**<br>云计算导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
+| **Introduction to DevOps Careers for Canadian Business**<br>加拿大企业DevOps职业入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
+| **Introduction to Cloud Computing**<br>云计算入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
 | **DevOps Fundamentals for Canadian Enterprise**<br>加拿大企业DevOps基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
 | **Linux Server Admin**<br>Linux服务器管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
 | **Windows Server Admin**<br>Windows 服务器管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
 | **Distributed Systems & Cloud Computing**<br>分布式系统与云计算 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |
 | **Containerization & Container Delivery**<br>容器化与容器交付 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/doct) |

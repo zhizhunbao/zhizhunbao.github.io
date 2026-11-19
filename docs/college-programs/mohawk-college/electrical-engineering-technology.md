@@ -28,13 +28,13 @@ ms.date: 2026-11-08
 | **Electronic Devices and Circuits**<br>电子器件与电路 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Power Systems Lecture**<br>电力系统讲授 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Power Systems Lab**<br>电力系统实验 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
-| **Introduction to AI**<br>AI导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
+| **Introduction to AI**<br>AI入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Engineering Mathematics 3**<br>工程数学 3 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Linear Systems**<br>线性系统 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Electrical Rotating Machines Lecture**<br>旋转电机讲授 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Electrical Rotating Machines Lab**<br>旋转电机实验 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Engineering Drafting and Design 2**<br>工程制图与设计 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
-| **Introduction to Instrumentation and Process Control**<br>仪表与过程控制导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
+| **Introduction to Instrumentation and Process Control**<br>仪表与过程控制入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Automation and Industrial Networks**<br>自动化与工业网络 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **Engineering Project Management**<br>工程项目管理 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=582&prg_ver=26-A) |

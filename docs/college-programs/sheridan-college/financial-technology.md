@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Financial Technology**<br>金融科技 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/financial-technology) |
 | **Financial Technology in Canada**<br>加拿大金融科技 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/financial-technology) |
-| **Introduction to FinTech Platforms**<br>金融科技平台导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/financial-technology) |
+| **Introduction to FinTech Platforms**<br>金融科技平台入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/financial-technology) |
 | **AI and Data Analytics in FinTech**<br>金融科技中的AI与数据分析 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/financial-technology) |
 | **Risk, Regulation and Cybersecurity**<br>风险、监管与网络安全 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/financial-technology) |
 | **Finance Fundamentals**<br>金融基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/financial-technology) |

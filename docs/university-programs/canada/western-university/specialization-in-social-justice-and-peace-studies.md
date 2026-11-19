@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIZATION IN SOCIAL JUSTICE AND PEACE STUDIES**<br>社会正义与和平研究专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIAL JUSTICE AND PEACE STUDIES**<br>社会正义与和平研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIAL JUSTICE AND PEACE STUDIES**<br>社会正义与和平研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |
 | **APPROACHES TO SOCIAL JUSTICE AND PEACE STUDIES**<br>社会正义与和平研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GENDER AND WOMEN'S STUDIES**<br>性别与女性研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GENDER AND WOMEN'S STUDIES**<br>性别与女性研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |
 | **BUILDING PEACE IN A WORLD OF CONFLICT**<br>在冲突世界中建设和平 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |
 | **HUMANITARIANISM AND GLOBAL JUSTICE**<br>人道主义与全球正义 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIAL NETWORK OF POWER AND PRIVILEGE**<br>权力与特权的社会网络 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20880&SelectedCalendar=Live&ArchiveID=) |

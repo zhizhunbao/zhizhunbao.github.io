@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Creative Thinking**<br>创造性思维 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/multimedia-design-and-development) |
 | **Web Technology 1**<br>Web技术 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/multimedia-design-and-development) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/multimedia-design-and-development) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/multimedia-design-and-development) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/multimedia-design-and-development) |
 | **Video Production**<br>视频制作 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/multimedia-design-and-development) |
 | **Digital Audio Design**<br>数字音频设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/multimedia-design-and-development) |
 | **Contemporary Web Design 1**<br>当代网页设计 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/multimedia-design-and-development) |

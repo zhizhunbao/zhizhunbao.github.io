@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **PN Clinical II**<br>PN 临床 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing-psw-pn-bridge) |
 | **Pharmacology Applications A**<br>药理学应用 A | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing-psw-pn-bridge) |
 | **Practical Nursing Theory II**<br>实用护理理论 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing-psw-pn-bridge) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing-psw-pn-bridge) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing-psw-pn-bridge) |
 | **Nursing Care of Families**<br>家庭护理 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing-psw-pn-bridge) |
 | **Nursing Skill Labs III**<br>护理技能实验课 III | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing-psw-pn-bridge) |
 | **PN Clinical III**<br>PN 临床 III | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing-psw-pn-bridge) |

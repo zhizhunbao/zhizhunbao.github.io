@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Security Systems Technician**<br>安防系统技术员 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/) |
-| **Introduction to Security Installations**<br>安防安装导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/) |
+| **Introduction to Security Installations**<br>安防安装入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/) |
 | **Fundamentals of Electricity and Electronics**<br>电学与电子学基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/) |
 | **Wiring Methods**<br>布线方法 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/) |
 | **Intrusion Alarm Systems**<br>入侵报警系统 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/) |

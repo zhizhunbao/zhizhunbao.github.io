@@ -15,14 +15,14 @@ ms.date: 2026-11-08
 | **Art Theory**<br>艺术理论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **Game Design I**<br>游戏设计 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **Computer Mathematics I**<br>计算机数学 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **Project Structure**<br>项目结构 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **General Education Elective - Online (GDD Sem 1)**<br>通识教育选修课 - 在线（GDD 第1学期） | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **Game Sprites**<br>游戏精灵图 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **3D Modeling I**<br>3D建模 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **World Building**<br>世界构建 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **Computer Mathematics II**<br>计算机数学 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
-| **Introduction to Object Oriented Programming**<br>面向对象编程导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
+| **Introduction to Object Oriented Programming**<br>面向对象编程入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **Game Prototype l**<br>游戏原型 l | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **General Education Elective - Online (GDD Sem 2)**<br>通识教育选修课 - 在线（GDD 第2学期） | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |
 | **Game Design II**<br>游戏设计 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/game-design-and-development) |

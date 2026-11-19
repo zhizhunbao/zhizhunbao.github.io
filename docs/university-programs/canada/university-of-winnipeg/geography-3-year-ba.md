@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geography, 3-Year BA**<br>地理学，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
-| **Challenges of a Changing World: An Introduction to Human Geography**<br>变化世界的挑战：人文地理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
-| **Science in a Dynamic World: An Introduction to Physical Geography**<br>动态世界中的科学：自然地理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
-| **Mapping in a Global World: An Introduction to Geomatics**<br>全球化世界中的制图：地理信息技术导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
+| **Challenges of a Changing World: An Introduction to Human Geography**<br>变化世界的挑战：人文地理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
+| **Science in a Dynamic World: An Introduction to Physical Geography**<br>动态世界中的科学：自然地理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
+| **Mapping in a Global World: An Introduction to Geomatics**<br>全球化世界中的制图：地理信息技术入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
 | **Regional Geography of Canada**<br>加拿大区域地理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
 | **Manitoba’s Physical and Human Environments**<br>马尼托巴的自然与人文环境 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |
 | **Geographical Issues in the Developing World**<br>发展中世界的地理问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=1) |

@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Reporting - Journalism Principles**<br>报道 - 新闻原则 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Media Storytelling**<br>媒体叙事 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Editing Audio and Video**<br>音频与视频编辑 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
-| **Introduction to Camera, Lighting, and Field Audio**<br>摄影、灯光与现场音频导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
-| **Introduction to Studio Production**<br>演播室制作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
+| **Introduction to Camera, Lighting, and Field Audio**<br>摄影、灯光与现场音频入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
+| **Introduction to Studio Production**<br>演播室制作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Media Graphics**<br>媒体图形 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Indigenous Awareness: Towards Truth and Reconciliation**<br>原住民意识：走向真相与和解 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Editing and Online Visual Skills**<br>编辑与在线视觉技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Reporting Ethics and Legal**<br>报道伦理与法律 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Advanced Storytelling for Audio Platforms**<br>音频平台高级叙事 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **The Writing Workshop - Specialized Formats**<br>写作工坊 - 专门格式 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
-| **Introduction to Integrated Newsroom**<br>综合新闻编辑室导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
+| **Introduction to Integrated Newsroom**<br>综合新闻编辑室入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Cross Platform Reporting**<br>跨平台报表 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Live Remote Reporting**<br>现场远程报道 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |
 | **Longform and Feature Content**<br>长篇与专题内容 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/JRN/courses.html) |

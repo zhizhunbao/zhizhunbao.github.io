@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **CERTIFICATE IN COMMUNICATION**<br>传播证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecercom) |
 | **Representing Science on Stage**<br>舞台上的科学呈现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecercom) |
-| **Introduction to Science Communication**<br>科学传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecercom) |
+| **Introduction to Science Communication**<br>科学传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecercom) |
 | **Language and Power**<br>语言与权力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecercom) |
 | **Engineering and Social Justice**<br>工程与社会正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecercom) |
 | **Special Topics in Creative Writing**<br>创意写作专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecercom) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Chemistry for Engineering**<br>工程化学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctegfnd) |
 | **Computer Programming I**<br>计算机编程 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctegfnd) |
 | **Engineering Graphics and Design**<br>工程制图与设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctegfnd) |
-| **Introduction to Engineering Design**<br>工程设计导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctegfnd) |
+| **Introduction to Engineering Design**<br>工程设计入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctegfnd) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctegfnd) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctegfnd) |
 | **Applied Linear Algebra**<br>应用线性代数 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctegfnd) |

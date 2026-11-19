@@ -14,9 +14,9 @@ ms.date: 2026-11-08
 | **Written Communication**<br>书面沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Human Development**<br>人类发展 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Utilizing Technology**<br>技术运用 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
-| **Introduction to Disability Studies**<br>残障研究导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
+| **Introduction to Disability Studies**<br>残障研究入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Understanding Community I**<br>理解社区 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Positive Behaviour**<br>积极行为 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Disability 1**<br>残障 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Person-Centred Planning**<br>以人为本的规划 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
@@ -33,10 +33,10 @@ ms.date: 2026-11-08
 | **Women's and Gender Studies**<br>妇女与性别研究 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Dementia Studies**<br>失智症研究 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Indigenous Studies I**<br>原住民研究 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
-| **Introduction to Rehabilitation**<br>康复导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
-| **Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
-| **Introduction to Indigenous World Views**<br>原住民世界观导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
+| **Introduction to Rehabilitation**<br>康复入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
+| **Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
+| **Introduction to Indigenous World Views**<br>原住民世界观入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Health Education: Individual Health and Wellness**<br>健康教育：个人健康与福祉 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 | **Indigenous Health and Wellness**<br>原住民健康与福祉 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/disability-studies/costs-and-courses/) |
 

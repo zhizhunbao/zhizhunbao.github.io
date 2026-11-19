@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **Musicianship for Strings.**<br>弦乐音乐素养 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Post-Tonal Musicianship.**<br>后调性音乐素养 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Musicianship for Voice.**<br>声乐音乐素养 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
-| **Introduction to Improvisation and Ornamentation.**<br>即兴演奏与装饰音导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
+| **Introduction to Improvisation and Ornamentation.**<br>即兴演奏与装饰音入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Advanced Rhythm in Musicianship.**<br>高级音乐素养节奏 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Topics in Musicianship.**<br>音乐素养专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Topics in Global Musicianship.**<br>全球音乐素养专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-11
 | **McGill Symphony Orchestra.**<br>麦吉尔交响乐团 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **The Art of Composition.**<br>作曲艺术 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Instruments of the Orchestra.**<br>管弦乐队乐器 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
-| **Introduction to Ethnomusicology.**<br>民族音乐学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
+| **Introduction to Ethnomusicology.**<br>民族音乐学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Early Twentieth-Century Music.**<br>20 世纪早期音乐 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Opera After 1900.**<br>1900 年以后的歌剧 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Canadian Music.**<br>加拿大音乐 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
@@ -64,7 +64,7 @@ ms.date: 2026-11-11
 | **Mathematical Models for Musical Analysis.**<br>音乐分析的数学模型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Advanced Writing Techniques.**<br>高级写作技巧 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Psychology of Music.**<br>音乐心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
-| **Introduction to Applied Research in Music.**<br>音乐应用研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
+| **Introduction to Applied Research in Music.**<br>音乐应用研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **The Musician's Performing Body.**<br>音乐家的表演身体 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 | **Music Performance Strategies.**<br>音乐表演策略 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus-test-acc/) |
 

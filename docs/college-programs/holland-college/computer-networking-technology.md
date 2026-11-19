@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Computer Networking Technology**<br>计算机网络技术 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
 | **PEI Occupational Health and Safety**<br>PEI职业健康与安全 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
-| **Introduction to Business and ICT**<br>商务与ICT导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
+| **Introduction to Business and ICT**<br>商务与ICT入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
 | **A+ Hardware**<br>A+ 硬件 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
 | **A+ Software**<br>A+ 软件 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
-| **Introduction to Networks**<br>网络导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
+| **Introduction to Networks**<br>网络入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
 | **Routing and Switching Essentials**<br>路由与交换要点 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
 | **Network and Information Security**<br>网络与信息安全 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |
 | **Linux Administration**<br>Linux管理 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-networking-technology/index.php) |

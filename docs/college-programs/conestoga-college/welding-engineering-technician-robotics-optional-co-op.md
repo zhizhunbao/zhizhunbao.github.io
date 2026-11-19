@@ -27,8 +27,8 @@ ms.date: 2026-11-08
 | **Semi-Automatic Welding II**<br>半自动焊接 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
 | **Welding Quality and Inspection**<br>焊接质量与检验 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
 | **Gas Tungsten Arc Welding**<br>钨极气体保护焊 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
-| **Introduction to Metal Fabrication**<br>金属加工导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
-| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
+| **Introduction to Metal Fabrication**<br>金属加工入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
+| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
 | **CAD/CAM for Fabrication Technology I**<br>制造技术CAD/CAM I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
 | **Trade Calculations III**<br>行业计算 III | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |
 | **Robotic Programming**<br>机器人编程 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/welding-engineering-technician-robotics/courses?id=36427) |

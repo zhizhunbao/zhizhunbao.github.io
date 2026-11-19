@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Honours Bachelor of 3D Animation and Emerging Technologies**<br>荣誉学士 3D动画与新兴技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-3d-animation-emerging-technologies) |
 | **Design Thinking for Creative Industries**<br>创意产业设计思维 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-3d-animation-emerging-technologies) |
 | **Foundations of Computer Graphics**<br>计算机图形学基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-3d-animation-emerging-technologies) |
-| **Introduction to Asset Creation**<br>资产创建导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-3d-animation-emerging-technologies) |
+| **Introduction to Asset Creation**<br>资产创建入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-3d-animation-emerging-technologies) |
 | **Principles of Motion and Movement**<br>运动与动作原理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-3d-animation-emerging-technologies) |
 | **Fundamentals of Visual Systems**<br>视觉系统基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-3d-animation-emerging-technologies) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-3d-animation-emerging-technologies) |

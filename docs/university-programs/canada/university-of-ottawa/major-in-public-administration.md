@@ -11,23 +11,23 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Public Administration**<br>公共管理主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Public Administration**<br>公共行政导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Public Policy Analysis**<br>公共政策分析导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Public Management**<br>公共管理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Canadian Politics**<br>加拿大政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Public Administration**<br>公共行政入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Public Policy Analysis**<br>公共政策分析入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Public Management**<br>公共管理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Canadian Politics**<br>加拿大政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Social Sciences and Research**<br>社会科学与研究 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Research Methods in Public Administration**<br>公共行政研究方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Sectoral Issues in Public Policy**<br>公共政策中的部门议题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Budgetary Policy and Public Finance**<br>预算政策与公共财政 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Theory of Public Organisations**<br>公共组织理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Microeconomic Analysis of the Public Sector**<br>公共部门的微观经济分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Economics of Women's Issues**<br>女性议题经济学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Labour and Population Economics**<br>劳动与人口经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Money and Banking**<br>货币与银行导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Environmental and Natural Resources Economics**<br>环境与自然资源经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to International Economics**<br>国际经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Labour and Population Economics**<br>劳动与人口经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Money and Banking**<br>货币与银行入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Environmental and Natural Resources Economics**<br>环境与自然资源经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to International Economics**<br>国际经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Analysis of Economic and Social Data**<br>经济与社会数据分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Diversities of Women: Gender, Race, Class and (Dis)ability**<br>女性的多样性：性别、种族、阶级与（残障）能力 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Gender and Public Policy**<br>性别与公共政策 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Ethics and Public Affairs**<br>伦理与公共事务 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Seminar in Strategic Public Management**<br>战略公共管理研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Integration Seminar in Public Administration**<br>公共管理整合研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
-| **Introduction to Political Science**<br>政治学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
+| **Introduction to Political Science**<br>政治学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Urban Politics in Canada**<br>加拿大的城市政治 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Indigenous Politics in Canada**<br>加拿大的原住民政治 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |
 | **Law, Politics, and the Constitution in Canada**<br>加拿大的法律、政治与宪法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-public-administration/) |

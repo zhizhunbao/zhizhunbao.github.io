@@ -1,10 +1,10 @@
 ---
-title: "3.4.149 Molecular, Cellular, and Developmental Biology (Ph.D.)"
+title: "4.4.149 Molecular, Cellular, and Developmental Biology (Ph.D.)"
 description: "University Programs > United States > Yale University > Molecular, Cellular, and Developmental Biology (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.149 Molecular, Cellular, and Developmental Biology (Ph.D.)
+# 4.4.149 Molecular, Cellular, and Developmental Biology (Ph.D.)
 
 ## Glossary
 

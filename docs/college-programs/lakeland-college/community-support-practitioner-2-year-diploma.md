@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Assessment and Intervention**<br>评估与干预 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/human-services/community-support-practitioner/index.html) |
 | **American Sign Language Level I Part A**<br>美国手语 一级 A部分 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/human-services/community-support-practitioner/index.html) |
 | **Observation and Play**<br>观察与游戏 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/human-services/community-support-practitioner/index.html) |
-| **Introduction to Mental Health**<br>心理健康导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/human-services/community-support-practitioner/index.html) |
+| **Introduction to Mental Health**<br>心理健康入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/human-services/community-support-practitioner/index.html) |
 | **Animal Assisted Interventions**<br>动物辅助干预 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/human-services/community-support-practitioner/index.html) |
 
 ## Courses

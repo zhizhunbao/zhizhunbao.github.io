@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Kinesiology and Applied Health, 3-Year BPHE**<br>运动机能学与应用健康，3 年制 BPHE | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=1) |
-| **Introduction to Kinesiology**<br>运动机能学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=1) |
-| **Introduction to Health**<br>健康导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=1) |
+| **Introduction to Kinesiology**<br>运动机能学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=1) |
+| **Introduction to Health**<br>健康入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=1) |
 | **Human Anatomy and Physiology**<br>人体解剖学与生理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=1) |
 | **Nutrition for Health and Wellness**<br>健康与保健营养学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=1) |
 | **Pedagogical Theories and Models for Physical Activity and Sport**<br>体育活动与运动的教学理论与模式 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=1) |

@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN GOVERNANCE, LEADERSHIP AND ETHICS**<br>治理、领导力与伦理主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GOVERNANCE**<br>治理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GOVERNANCE**<br>治理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **ETHICS AND VALUE THEORY**<br>伦理学与价值理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LEADERSHIP**<br>领导力导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LEADERSHIP**<br>领导力入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS OF GOVERNANCE, LEADERSHIP AND ETHICS**<br>治理、领导力与伦理基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **THE MYTH OF THE STRONGMAN: GOVERNANCE AND LEADERSHIP IN AUTHORITARIAN STATES**<br>强人神话：威权国家的治理与领导 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **SPECIAL TOPICS IN GOVERNANCE**<br>治理专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **COLLABORATIVE GOVERNANCE**<br>协作治理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL RELATIONS**<br>国际关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **PUBLIC ADMINISTRATION AND POLICY**<br>公共行政与政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PUBLIC POLICY AND GOVERNANCE**<br>公共政策与治理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PUBLIC POLICY AND GOVERNANCE**<br>公共政策与治理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL POLITICAL ECONOMY**<br>全球政治经济学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **INSIDE GOVERNMENTS: POLICY MAKING IN CANADA AND THE UNITED STATES**<br>政府内部：加拿大与美国的政策制定 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL LAW & ORGANIZATION**<br>国际法与国际组织 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **GLOBAL ENVIRONMENTAL POLITICS**<br>全球环境政治 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS-GOVERNMENT RELATIONS: A CONTEMPORARY POLICY PERSPECTIVE**<br>商业与政府关系：当代政策视角 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **STRATEGIC MANAGEMENT**<br>战略管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF RISK**<br>风险哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIAL CONSTRUCTION OF INSTITUTIONS**<br>制度的社会建构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **CRISES AND CONFEDERATION: THE MAKING OF MODERN CANADA**<br>危机与联邦：现代加拿大的形成 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
@@ -65,7 +65,7 @@ ms.date: 2026-11-11
 | **POLITICAL SCANDALS IN HISTORY**<br>历史中的政治丑闻 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **GOVERNANCE THEORIES AND THINKERS**<br>治理理论与思想家 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **THE POLITICS OF HUMAN RIGHTS**<br>人权政治 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICAL THEORY**<br>政治理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICAL THEORY**<br>政治理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **COSH BOYS & KLEPTOS: CRIME AND GENDER IN MODERN BRITAIN**<br>短棍少年与偷盗狂：现代英国的犯罪与性别 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **CRIME ANDPUNISHMENT IN IMPERIAL CHINA**<br>中华帝国的犯罪与惩罚 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |
 | **SECRETS, SPIES AND SURVEILLANCE IN MODERN BRITISH HISTORY**<br>现代英国史中的秘密、间谍与监控 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20742&SelectedCalendar=Live&ArchiveID=) |

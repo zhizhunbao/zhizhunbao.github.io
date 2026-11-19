@@ -22,8 +22,8 @@ ms.date: 2026-11-11
 | **The Making of the Atlantic World (1000-1800)**<br>大西洋世界的形成（1000-1800） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **The History of Capitalism**<br>资本主义史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Comparative Genocide**<br>比较种族灭绝 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to Latin American History**<br>拉丁美洲史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to African History**<br>非洲史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to Latin American History**<br>拉丁美洲史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to African History**<br>非洲史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **North Africa and Western Asia Before World War I**<br>第一次世界大战（WWI）前的北非与西亚 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **1898: Empires and Conflict in Global History**<br>1898年：全球史中的帝国与冲突 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **The Rwandan Genocide: History, Violence, and Identity**<br>卢旺达种族灭绝：历史、暴力与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
@@ -38,10 +38,10 @@ ms.date: 2026-11-11
 | **Religion and Society in Latin America**<br>拉丁美洲的宗教与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Advanced Topics in the History of the Americas**<br>美洲史高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Worlds Colliding: The History and Ecology of Exploration, Contact, and Exchange**<br>世界碰撞：探索、接触与交流的历史与生态 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to Middle Eastern History**<br>中东史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to Middle Eastern History**<br>中东史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **History of the Ottoman Empire, 1299-1923**<br>奥斯曼帝国史，1299-1923 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to South Asian History**<br>南亚史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to East Asian History**<br>东亚史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to South Asian History**<br>南亚史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to East Asian History**<br>东亚史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **War and Memory in Modern East Asia**<br>现代东亚的战争与记忆 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **East Asian Cities**<br>东亚城市 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Nations, Borders and Citizenship in South Asia**<br>南亚的民族、边界与公民身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
@@ -58,8 +58,8 @@ ms.date: 2026-11-11
 | **Partition and its Aftermath in South Asia**<br>南亚的分治及其后果 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Colonialism in East Asia**<br>东亚的殖民主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Religion and Public Culture in South Asian History**<br>南亚历史中的宗教与公共文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to Histories of Extraction and the Environment**<br>采掘与环境的历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to Canadian History**<br>加拿大史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to Histories of Extraction and the Environment**<br>采掘与环境的历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to Canadian History**<br>加拿大史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **What is Canada?**<br>什么是加拿大？ | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **US History, Colonial Era to 1877**<br>美国史，殖民时代至1877年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **US History, 1877-present**<br>美国史，1877年至今 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
@@ -83,8 +83,8 @@ ms.date: 2026-11-11
 | **Indigenous North America**<br>原住民的北美 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Cold War America**<br>冷战时期的美国 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Themes in Medieval History**<br>中世纪史主题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to European History 1300-1815**<br>1300-1815年欧洲史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to British History**<br>英国史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to European History 1300-1815**<br>1300-1815年欧洲史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to British History**<br>英国史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **The Transformation of Europe and the World, 1789–1890**<br>欧洲与世界的转型，1789-1890年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Making the Modern World: Nations, Empires, and Ideologies in Conflict**<br>塑造现代世界：冲突中的民族、帝国与意识形态 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **The Cold War**<br>冷战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
@@ -104,7 +104,7 @@ ms.date: 2026-11-11
 | **Topics in Medieval History**<br>中世纪史专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Themes in the History of Women Before 1800**<br>1800年以前妇女史主题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **The History of Women Since 1800**<br>1800年以来的妇女史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
-| **Introduction to Digital Humanities**<br>数字人文导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
+| **Introduction to Digital Humanities**<br>数字人文入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **History of Information and Media**<br>信息与媒体史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Histories of Extraction and the Future of the Environment**<br>采掘的历史与环境的未来 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |
 | **Diasporic Histories & Cultures**<br>离散的历史与文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0652) |

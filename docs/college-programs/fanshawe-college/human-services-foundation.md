@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Human Services Foundation**<br>人类服务基础 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/programs/hsf1-human-services-foundation) |
 | **Leadership in Community Studies**<br>社区研究中的领导力 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **College Orientation Skills**<br>大学入学技能 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
-| **Psychology-Intro**<br>心理学 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
+| **Psychology-Intro**<br>心理学 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **Digital Literacy-Intro**<br>数字素养-入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **Discovery of Community Studies Careers**<br>探索社区研究职业 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **Developing the Professional Persona**<br>塑造职业形象 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Human Growth & Development**<br>人类成长与发展 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **Components of Identity**<br>身份的构成 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
-| **Sociology-Intro**<br>社会学导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
+| **Sociology-Intro**<br>社会学入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **Ethics & Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **Family Trends in Canada**<br>加拿大的家庭趋势 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |
 | **Reason & Writing 1 for Community Studies**<br>社区研究推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3930/courses-next/) |

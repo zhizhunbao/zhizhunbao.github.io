@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Civil Engineering**<br>土木工程 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/civil-engineering-bachelor-of-engineering-full-time-8660beng/) |
-| **Introduction to Civil Engineering**<br>土木工程导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/civil-engineering-bachelor-of-engineering-full-time-8660beng/) |
+| **Introduction to Civil Engineering**<br>土木工程入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/civil-engineering-bachelor-of-engineering-full-time-8660beng/) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/civil-engineering-bachelor-of-engineering-full-time-8660beng/) |
 | **Graphical Communication 1**<br>图形传达 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/civil-engineering-bachelor-of-engineering-full-time-8660beng/) |
 | **Applied Hydrology**<br>应用水文学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/civil-engineering-bachelor-of-engineering-full-time-8660beng/) |

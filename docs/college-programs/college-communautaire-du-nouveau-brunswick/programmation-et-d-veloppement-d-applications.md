@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Introduction au Web**<br>网络入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/programmation-et-developpement-dapplications/) |
 | **Concepts de réseautique**<br>网络概念 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/programmation-et-developpement-dapplications/) |
 | **Programmation SQL**<br>SQL编程 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/programmation-et-developpement-dapplications/) |
-| **Introduction à l'intelligence artificielle**<br>人工智能导论 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/programmation-et-developpement-dapplications/) |
+| **Introduction à l'intelligence artificielle**<br>人工智能入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/programmation-et-developpement-dapplications/) |
 | **Travail sécuritaire**<br>安全作业 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/programmation-et-developpement-dapplications/) |
 | **Développement Web côté client**<br>客户端网页开发 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/programmation-et-developpement-dapplications/) |
 

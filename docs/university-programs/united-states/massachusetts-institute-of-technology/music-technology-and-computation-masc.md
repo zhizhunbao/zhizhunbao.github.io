@@ -1,10 +1,10 @@
 ---
-title: "3.2.77 Music Technology and Computation (MASc)"
+title: "4.2.77 Music Technology and Computation (MASc)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Music Technology and Computation (MASc): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.77 Music Technology and Computation (MASc)
+# 4.2.77 Music Technology and Computation (MASc)
 
 ## Glossary
 
@@ -22,7 +22,7 @@ ms.date: 2026-11-18
 | **Advanced Seminar in Ethnomusicology**<br>民族音乐学高级研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-music-technology-computation/) |
 | **Advanced Seminar in Music Theory/Analysis**<br>音乐理论/分析高级研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-music-technology-computation/) |
 | **Critically Thinking in Music**<br>音乐中的批判性思维 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-music-technology-computation/) |
-| **Introduction to Music Technology**<br>音乐技术导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-music-technology-computation/) |
+| **Introduction to Music Technology**<br>音乐技术入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-music-technology-computation/) |
 | **Electronic Music Composition I**<br>电子音乐作曲 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-music-technology-computation/) |
 | **Studies in Music Technology**<br>音乐技术研究 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-music-technology-computation/) |
 | **Digital Instrument Design**<br>数字乐器设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-music-technology-computation/) |

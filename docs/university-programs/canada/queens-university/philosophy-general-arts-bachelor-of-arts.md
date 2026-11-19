@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Philosophy – General (Arts) – Bachelor of Arts**<br>哲学 - 普通（文科） - 文学学士 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-general-ba/) |
 | **Ancient Science**<br>古代科学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-general-ba/) |
 | **Culture, Identity, and Self**<br>文化、身份与自我 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-general-ba/) |
-| **Introduction to the Study of Politics, Philosophy, and Economics**<br>政治学、哲学与经济学研究导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-general-ba/) |
+| **Introduction to the Study of Politics, Philosophy, and Economics**<br>政治学、哲学与经济学研究入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-general-ba/) |
 | **Science, Knowledge, and Power**<br>科学、知识与权力 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/philosophy/philosophy-general-ba/) |
 
 ## Courses

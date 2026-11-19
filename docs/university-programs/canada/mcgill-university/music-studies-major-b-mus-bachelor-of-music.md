@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **BMus Concentration Final Examination.**<br>音乐学士专业方向期末考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **The Art of Composition.**<br>作曲艺术 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **Instruments of the Orchestra.**<br>管弦乐队乐器 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
-| **Introduction to Ethnomusicology.**<br>民族音乐学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
+| **Introduction to Ethnomusicology.**<br>民族音乐学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **Early Twentieth-Century Music.**<br>20 世纪早期音乐 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **Opera After 1900.**<br>1900 年以后的歌剧 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **Canadian Music.**<br>加拿大音乐 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-11
 | **Mathematical Models for Musical Analysis.**<br>音乐分析的数学模型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **Advanced Writing Techniques.**<br>高级写作技巧 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **Psychology of Music.**<br>音乐心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
-| **Introduction to Applied Research in Music.**<br>音乐应用研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
+| **Introduction to Applied Research in Music.**<br>音乐应用研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **The Musician's Performing Body.**<br>音乐家的表演身体 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 | **Music Performance Strategies.**<br>音乐表演策略 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/) |
 

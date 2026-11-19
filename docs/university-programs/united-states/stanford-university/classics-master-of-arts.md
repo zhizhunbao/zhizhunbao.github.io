@@ -1,10 +1,10 @@
 ---
-title: "3.3.84 Classics, Master of Arts"
+title: "4.3.84 Classics, Master of Arts"
 description: "University Programs > United States > Stanford University > Classics, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.84 Classics, Master of Arts
+# 4.3.84 Classics, Master of Arts
 
 ## Glossary
 

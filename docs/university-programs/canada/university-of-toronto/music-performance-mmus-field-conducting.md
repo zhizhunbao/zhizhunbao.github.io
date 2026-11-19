@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Special Topics in Performance Practice**<br>表演实践专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Analysis and Performance: Music of the 18th and 19th Centuries**<br>分析与演奏：18世纪与19世纪音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Analysis and Performance: Music of the 20th and 21st Centuries**<br>分析与演奏：20世纪与21世纪音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Music Analysis**<br>音乐分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Music Analysis**<br>音乐分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Applied Music I**<br>应用音乐 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Applied Music II**<br>应用音乐 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Orchestral Conducting I**<br>管弦乐指挥 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Choral Conducting II**<br>合唱指挥 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Advanced Choral Conducting**<br>高级合唱指挥 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Vocal-Choral Pedagogy for Conductors**<br>指挥的声乐合唱教学法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Voice Pedagogy and Vocology**<br>嗓音教学法与嗓音学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Voice Pedagogy and Vocology**<br>嗓音教学法与嗓音学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Major Ensemble I**<br>主要合奏 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Orchestral Conducting II**<br>管弦乐指挥 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Advanced Instrumental Conducting**<br>高级器乐指挥 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |

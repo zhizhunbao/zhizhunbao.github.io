@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Dental Hygiene**<br>口腔卫生 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/dental-hygiene/) |
 | **General and Oral Microbiology**<br>综合与口腔微生物学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/dnth/) |
 | **Dental and Orofacial Anatomy**<br>牙科与口面部解剖 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/dnth/) |
-| **Introduction to the Dental Hygiene Profession**<br>牙科保健专业导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/dnth/) |
+| **Introduction to the Dental Hygiene Profession**<br>牙科保健专业入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/dnth/) |
 | **Oral Histology and Embryology**<br>口腔组织学与胚胎学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/dnth/) |
 | **Pre-Clinical Dental Hygiene 1**<br>临床前牙科保健 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/dnth/) |
 | **Anatomy and Physiology: Introductory Concepts for the Dental Hygienist**<br>解剖学与生理学：口腔卫生士入门概念 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/dnth/) |

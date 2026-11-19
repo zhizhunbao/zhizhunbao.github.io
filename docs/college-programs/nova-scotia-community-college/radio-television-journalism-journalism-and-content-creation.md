@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Radio Television Journalism - Journalism and Content Creation**<br>广播电视新闻：新闻与内容创作 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-journalism-and-content-creation) |
-| **Introduction to Podcasting**<br>播客导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-journalism-and-content-creation) |
+| **Introduction to Podcasting**<br>播客入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-journalism-and-content-creation) |
 | **Diversity and the Media**<br>多元化与媒体 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-journalism-and-content-creation) |
 | **Live Studio Production for TV and Journalism I**<br>电视与新闻现场演播室制作 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-journalism-and-content-creation) |
 | **Live Studio Production for TV and Journalism II**<br>电视与新闻现场演播室制作 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-journalism-and-content-creation) |

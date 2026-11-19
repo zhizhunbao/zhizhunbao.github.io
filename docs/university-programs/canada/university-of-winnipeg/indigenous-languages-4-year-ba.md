@@ -12,10 +12,10 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Indigenous Languages, 4-Year BA**<br>原住民语言，4 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
 | **Indigenous Ways of Knowing**<br>原住民认知方式 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
-| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究导论：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
+| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究入门：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
 | **Indigenous Languages: Resilience and Identity**<br>原住民语言：韧性与身份认同 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
 | **Introductory Ojibwe**<br>奥吉布瓦语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
 | **Intermediate Ojibwe**<br>中级奥吉布瓦语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |
 | **Language Revitalization**<br>语言复兴 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=3) |

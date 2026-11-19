@@ -1,10 +1,10 @@
 ---
-title: "3.2.32 Global Studies and Languages (Course 21G)"
+title: "4.2.32 Global Studies and Languages (Course 21G)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Global Studies and Languages (Course 21G): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.32 Global Studies and Languages (Course 21G)
+# 4.2.32 Global Studies and Languages (Course 21G)
 
 ## Glossary
 
@@ -19,12 +19,12 @@ ms.date: 2026-11-18
 | **French III**<br>法语 III | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Writing (Like the) French**<br>（像）法国人那样写作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **French Conversation: Intensive Practice**<br>法语会话：强化练习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
-| **Introduction to French Culture**<br>法国文化导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
+| **Introduction to French Culture**<br>法国文化入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Basic Themes in French Literature and Culture**<br>法国文学与文化基本主题 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Francophone Cultures Through the Arts**<br>通过艺术看法语文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **A Window onto Contemporary French Society**<br>当代法国社会之窗 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Marseille Unveiled: Digital Stories and Intercultural Encounters**<br>揭秘马赛：数字故事与跨文化相遇 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
-| **Introduction to French Literature**<br>法国文学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
+| **Introduction to French Literature**<br>法国文学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Childhood and Youth in French and Francophone Cultures**<br>法语及法语地区文化中的童年与青年 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Frenchness in an Era of Globalization**<br>全球化时代的法国性 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **French Literature and the Goncourt Prize**<br>法国文学与龚古尔奖 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
@@ -85,7 +85,7 @@ ms.date: 2026-11-18
 | **Spanish for Heritage Learners**<br>传承语学习者西班牙语 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Topics in Medicine and Public Health in the Hispanic World**<br>西语世界的医学与公共卫生专题 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Spanish in Context: Social Movements and Cultural Change**<br>语境中的西班牙语：社会运动与文化变迁 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
-| **Introduction to Contemporary Hispanic Literature and Film**<br>当代西班牙语文学与电影导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
+| **Introduction to Contemporary Hispanic Literature and Film**<br>当代西班牙语文学与电影入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Power and Culture: Utopias and Dystopias in Spain and Latin America**<br>权力与文化：西班牙与拉丁美洲的乌托邦与反乌托邦 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Creation of a Continent: Media Representations of Hispanic America, 1492 to present**<br>一个大陆的创造：西班牙语美洲的媒体再现，1492年至今 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Advanced Topics in Hispanic Literature and Film**<br>西班牙语文学与电影高级专题 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
@@ -96,7 +96,7 @@ ms.date: 2026-11-18
 | **Latin America and the Global Sixties: Counterculture and Revolution**<br>拉丁美洲与全球六十年代：反文化与革命 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **The Spanish Incubator**<br>西班牙孵化器 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 | **Latin America Through Film**<br>透过电影看拉丁美洲 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
-| **Introduction to Latin American Studies**<br>拉丁美洲研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
+| **Introduction to Latin American Studies**<br>拉丁美洲研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/) |
 
 ## Courses
 

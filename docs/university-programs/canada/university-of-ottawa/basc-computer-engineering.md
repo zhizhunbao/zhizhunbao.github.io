@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **Engineering Mechanics**<br>工程力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Fundamentals of Engineering Computation**<br>工程计算基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Digital Systems I**<br>数字系统 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
-| **Introduction to Computing II**<br>计算导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
+| **Introduction to Computing II**<br>计算入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Discrete Mathematics for Computing**<br>计算机离散数学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Fundamentals of Physics for Engineers**<br>工程物理学基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Computer Architecture I**<br>计算机体系结构 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
@@ -27,19 +27,19 @@ ms.date: 2026-11-11
 | **Circuit Theory I**<br>电路理论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Professional Practice in Information Technology and Engineering**<br>信息技术与工程专业实践 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Technical Report Writing**<br>技术报告写作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
-| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
+| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Calculus III for Engineers**<br>工程师微积分 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Ordinary Differential Equations and Numerical Methods**<br>常微分方程与数值方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Probability and Statistics for Engineers**<br>工程师的概率与统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Computer Architecture II**<br>计算机体系结构 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Digital Systems II**<br>数字系统 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Computer Systems Design**<br>计算机系统设计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
-| **Introduction to Data Communications and Networking**<br>数据通信与网络导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
+| **Introduction to Data Communications and Networking**<br>数据通信与网络入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Signal and System Analysis**<br>信号与系统分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
-| **Introduction to Control Systems**<br>控制系统导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
+| **Introduction to Control Systems**<br>控制系统入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Technology, Society and Environment Since 1850**<br>1850 年以来的技术、社会与环境 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Scientific Thought and Social Values**<br>科学思想与社会价值观 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Software Construction**<br>软件构造 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
@@ -64,7 +64,7 @@ ms.date: 2026-11-11
 | **Advanced Programming Concepts With C++**<br>C++ 高级编程概念 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Programming Language Concepts**<br>编程语言概念 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **WWW Structures, Techniques and Standards**<br>WWW 结构、技术与标准 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Circuit Theory II**<br>电路理论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Electronics II**<br>电子学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |
 | **Principles and Applications of VLSI Design**<br>VLSI 设计原理与应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-computer-engineering/) |

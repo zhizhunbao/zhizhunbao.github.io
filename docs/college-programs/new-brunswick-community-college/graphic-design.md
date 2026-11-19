@@ -35,11 +35,11 @@ ms.date: 2026-11-08
 | **Professional Practice: Arts and Media**<br>专业实践：艺术与媒体 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
 | **Portfolio Development**<br>作品集制作 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
 | **Career and Freelance Planning**<br>职业与自由职业规划 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
-| **Introduction to Photography for Designers**<br>设计师摄影导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
+| **Introduction to Photography for Designers**<br>设计师摄影入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
 | **Office Fundamentals: Arts and Media**<br>办公基础：艺术与媒体 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
 | **Work Safely**<br>安全作业 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
 | **Art and Culture**<br>艺术与文化 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
-| **Introduction to User Interface and Experience**<br>用户界面与用户体验导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
+| **Introduction to User Interface and Experience**<br>用户界面与用户体验入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
 | **Advanced User Interface and Experience**<br>高级用户界面与体验 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7c0d718-f880-4c39-b61c-5a9ccdc17f05) |
 
 ## Courses

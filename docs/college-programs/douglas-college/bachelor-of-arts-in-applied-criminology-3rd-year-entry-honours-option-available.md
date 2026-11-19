@@ -51,7 +51,7 @@ ms.date: 2026-11-08
 | **Human Death Investigations**<br>人类死亡调查 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baacrim) |
 | **Special Topics in Crime Analysis and Prevention**<br>犯罪分析与预防专题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baacrim) |
 | **Digital Forensics**<br>数字取证 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baacrim) |
-| **Introduction to Urban Geography**<br>城市地理学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baacrim) |
+| **Introduction to Urban Geography**<br>城市地理学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baacrim) |
 | **Environmental Criminology and Law**<br>环境犯罪学与法律 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baacrim) |
 | **Mental Disorder and Law**<br>精神障碍与法律 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baacrim) |
 | **Gambling in Canada**<br>加拿大的赌博 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/baacrim) |

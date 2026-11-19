@@ -17,11 +17,11 @@ ms.date: 2026-11-08
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
 | **Intermediate Accounting I**<br>中级会计 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
 | **Accounting Information Systems**<br>会计信息系统 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
 | **Commercial Law**<br>商法 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
 | **Principles Of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
 | **Principles Of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
-| **Introduction To Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
+| **Introduction To Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
 | **Financial Management**<br>财务管理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
 | **Principles of Income Tax I**<br>所得税原理 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |
 | **Intermediate Accounting II**<br>中级会计 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/accounting-postgraduate-diploma) |

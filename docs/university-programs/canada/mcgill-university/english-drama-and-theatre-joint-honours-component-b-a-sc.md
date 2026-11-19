@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **English - Drama and Theatre Joint Honours Component (B.A. & Sc.)**<br>英语－戏剧与剧场联合荣誉组成部分（B.A. & Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
-| **Introduction to Theatre Studies.**<br>戏剧研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
+| **Introduction to Theatre Studies.**<br>戏剧研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
 | **The Poetics of Performance.**<br>表演诗学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
 | **Honours Essay.**<br>荣誉论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
-| **Introduction to Performance.**<br>表演导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
+| **Introduction to Performance.**<br>表演入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
 | **Costuming for the Theatre 1.**<br>戏剧服装设计 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
 | **Stage Scenery and Lighting 1.**<br>舞台布景与灯光 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |
 | **Stage Scenery and Lighting 2.**<br>舞台布景与灯光 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/) |

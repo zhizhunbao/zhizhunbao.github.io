@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Game - Programming**<br>游戏 - 编程 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
 | **IT Essentials: Computer Hardware Fundamentals**<br>IT基础：计算机硬件基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
-| **Introduction to Web Development**<br>Web开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
+| **Introduction to Web Development**<br>Web开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
 | **Fundamentals of Computing Logic**<br>计算逻辑基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
-| **Introduction to Data Management**<br>数据管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
+| **Introduction to Data Management**<br>数据管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
 | **Math for Game Development**<br>游戏开发数学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
 | **Game Programming C#**<br>游戏编程 C# | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |
 | **Game Project Web**<br>游戏项目 Web | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/game-programming-program-t194) |

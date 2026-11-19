@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Bookkeeping II**<br>簿记 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1315X01FWO.pdf) |
 | **Accounting**<br>会计学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1315X01FWO.pdf) |
 | **Spreadsheet Applications**<br>电子表格应用 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1315X01FWO.pdf) |
-| **Introduction to Business Processes**<br>业务流程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1315X01FWO.pdf) |
+| **Introduction to Business Processes**<br>业务流程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1315X01FWO.pdf) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1315X01FWO.pdf) |
 
 ## Courses

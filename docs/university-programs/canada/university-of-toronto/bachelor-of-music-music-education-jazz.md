@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Music - Music Education: Jazz**<br>音乐学士－音乐教育：爵士 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
-| **Introduction to Music & Society**<br>音乐与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
+| **Introduction to Music & Society**<br>音乐与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Historical Survey II**<br>历史概览 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Lives in Music**<br>音乐中的生命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Jazz History I & II**<br>爵士史 I 与 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
@@ -21,8 +21,8 @@ ms.date: 2026-11-11
 | **Applied Music**<br>应用音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Jazz Orchestra**<br>爵士管弦乐团 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Vocal Jazz Ensemble**<br>爵士声乐合奏 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
-| **Introduction to Music Education**<br>音乐教育导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
-| **Introduction to Community Engagement**<br>社区参与导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
+| **Introduction to Music Education**<br>音乐教育入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
+| **Introduction to Community Engagement**<br>社区参与入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Instr.: Clarinet, Trumpet, Double Bass**<br>器乐：单簧管、小号、低音提琴 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Theoretical Inquiry in Music Education**<br>音乐教育中的理论探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Psychological Foundations of Music Education**<br>音乐教育的心理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
@@ -59,7 +59,7 @@ ms.date: 2026-11-11
 | **Choral Music Education**<br>合唱音乐教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Choral Literature & Conducting I**<br>合唱文献与指挥 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Choral Literature & Conducting II**<br>合唱文献与指挥 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
-| **Introduction to Piano Teaching Methods**<br>钢琴教学法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
+| **Introduction to Piano Teaching Methods**<br>钢琴教学法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Accompanying**<br>伴奏 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Song Interpretation**<br>歌曲诠释 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |
 | **Instrumental Music I: Curriculum, Conducting, Rehearsal and Repertoire**<br>器乐 I：课程、指挥、排练与曲目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Bachelor-of-Music#MSSPEEDUJ) |

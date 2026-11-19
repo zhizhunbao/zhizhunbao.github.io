@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Strategies for Success**<br>成功策略 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3632/courses-next/) |
 | **Principles of Marketing 1**<br>营销原理 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3632/courses-next/) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3632/courses-next/) |
-| **Introduction to Business Processes**<br>业务流程导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3632/courses-next/) |
+| **Introduction to Business Processes**<br>业务流程入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3632/courses-next/) |
 | **Reason & Writing Business 1**<br>商务推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3632/courses-next/) |
 | **Finance 1**<br>金融 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3632/courses-next/) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3632/courses-next/) |

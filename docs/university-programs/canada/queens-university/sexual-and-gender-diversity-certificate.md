@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sexual and Gender Diversity Certificate**<br>性与性别多样性证书 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/sexual-gender-diversity-certificate/) |
-| **Introduction to Sexual and Gender Diversity**<br>性与性别多样性导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/sexual-gender-diversity-certificate/) |
+| **Introduction to Sexual and Gender Diversity**<br>性与性别多样性入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/sexual-gender-diversity-certificate/) |
 
 ## Courses
 

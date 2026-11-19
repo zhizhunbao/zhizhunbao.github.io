@@ -12,8 +12,8 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Physics (Ph.D.)**<br>物理学（Ph.D.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-phd/) |
 | **Preliminary Ph.D. Examination.**<br>博士初步考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-phd/) |
-| **Introduction to Graduate Studies in Physics 1.**<br>物理学研究生学习导论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-phd/) |
-| **Introduction to Graduate Studies in Physics 2.**<br>物理学研究生学习导论 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-phd/) |
+| **Introduction to Graduate Studies in Physics 1.**<br>物理学研究生学习入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-phd/) |
+| **Introduction to Graduate Studies in Physics 2.**<br>物理学研究生学习入门 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/physics/physics-phd/) |
 
 ## Courses
 

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Risk Management in Adventure Tourism**<br>探险旅游风险管理 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **Natural History**<br>自然史 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **Guiding and Leadership**<br>引导与领导力 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
-| **Introduction to Adventure Tourism Industry**<br>探险旅游业导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
+| **Introduction to Adventure Tourism Industry**<br>探险旅游业入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **Wilderness Travel Theory**<br>荒野旅行理论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **Rock Climbing**<br>攀岩 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **Hiking 1**<br>徒步 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Swiftwater Rescue Technician 3**<br>急流救援技术员 3 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **River Expedition Skills**<br>河流探险技能 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **Whitewater Raft Guide Training 2**<br>激流漂流向导培训 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
-| **Introduction to Whitewater Kayaking**<br>激流皮划艇导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
+| **Introduction to Whitewater Kayaking**<br>激流皮划艇入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **Canoe Guide**<br>独木舟向导 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 | **Mountain Bike Skills Development**<br>山地自行车技能培养 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/mountain-adventure-skills-training/) |
 

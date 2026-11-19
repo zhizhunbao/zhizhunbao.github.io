@@ -17,9 +17,9 @@ ms.date: 2026-11-08
 | **Vegetables and Legumes**<br>蔬菜与豆类 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
 | **Basic Cooking Principles**<br>基础烹饪原理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
 | **Food Presentation**<br>菜品呈现 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
-| **Introduction to the Food Service Industry**<br>餐饮服务业导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
+| **Introduction to the Food Service Industry**<br>餐饮服务业入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
 | **Dairy and Beverages**<br>乳制品与饮品 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
 | **Indigenous Cultural Practices and Foodways**<br>原住民文化实践与饮食传统 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
 | **Applied Math**<br>应用数学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |
 | **Safety and Sanitation**<br>安全与卫生 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Culinary-Arts.aspx) |

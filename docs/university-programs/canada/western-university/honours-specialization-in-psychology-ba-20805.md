@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **METHODS OF CALCULUS**<br>微积分方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20805&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF FINITE MATHEMATICS**<br>有限数学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20805&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20805&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS**<br>统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20805&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS**<br>统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20805&SelectedCalendar=Live&ArchiveID=) |
 | **METHOD AND RESEARCH IN SENSATION AND PERCEPTION**<br>感觉与知觉的方法与研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20805&SelectedCalendar=Live&ArchiveID=) |
 | **METHOD AND THEORY IN COGNITION**<br>认知的方法与理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20805&SelectedCalendar=Live&ArchiveID=) |
 | **THEORIES AND RESEARCH IN EMOTION AND MOTIVATION**<br>情绪与动机的理论与研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20805&SelectedCalendar=Live&ArchiveID=) |

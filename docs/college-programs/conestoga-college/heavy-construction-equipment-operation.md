@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Applied Mathematics**<br>应用数学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 | **Construction Materials and Environmental Practices**<br>建筑材料与环境实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 | **Construction Equipment Techniques I**<br>施工设备技术 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
-| **Introduction & Safety**<br>导论与安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
+| **Introduction & Safety**<br>入门与安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 | **Basics of Heavy Equipment and Field Repair**<br>重型设备与现场维修基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 | **Operate Tractor Loader Backhoe and Equipment Maintenance**<br>操作拖拉机装载挖掘机及设备维护 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 | **Safety in the Workplace**<br>工作场所安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Surveying and Site Plans**<br>测量与场地平面图 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 | **Operate and Maintain Excavator**<br>挖掘机操作与维护 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 | **Operate and Maintain Dozer**<br>推土机操作与维护 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
-| **Introduction to Paving**<br>铺装导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
+| **Introduction to Paving**<br>铺装入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 | **Construction Equipment Techniques II**<br>施工设备技术 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/heavy-construction-equipment-operation/courses?id=36799) |
 
 ## Courses

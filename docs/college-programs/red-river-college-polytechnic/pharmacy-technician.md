@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Computer Usage**<br>计算机使用 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1016) |
 | **Student Success Strategies**<br>学生成功策略 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1017) |
 | **Intra- and Interprofessional Learning Experiences I**<br>专业内与跨专业学习体验 I | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1020) |
-| **Introduction to Pharmacy Practice**<br>药学实务导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1021) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1022) |
+| **Introduction to Pharmacy Practice**<br>药学实务入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1021) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1022) |
 | **Communication Skills for Pharmacy Technicians**<br>药学技术员沟通技能 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1023) |
 | **Pharmaceutical Calculations I**<br>药剂计算 I | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1024) |
 | **Human Body Systems and Disease States I**<br>人体系统与疾病状态 I | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/PTECF-DP/PrinterFriendly#RRCM-1025) |

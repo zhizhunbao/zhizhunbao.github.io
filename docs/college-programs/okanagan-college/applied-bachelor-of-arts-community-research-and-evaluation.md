@@ -11,15 +11,15 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Applied Bachelor of Arts: Community Research and Evaluation**<br>应用文学士：社区研究与评估 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **University Writing**<br>大学写作 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **University Writing--Indigenous Focus**<br>大学写作：原住民专题 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Gender, Sexuality, and Women's Studies**<br>性别、性与女性研究导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Logic and Critical Thinking I**<br>逻辑与批判性思维导论 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Psychology: Basic Processes**<br>心理学导论：基本过程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Psychology: Personal Functioning**<br>心理学导论：个人功能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Gender, Sexuality, and Women's Studies**<br>性别、性与女性研究入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Logic and Critical Thinking I**<br>逻辑与批判性思维入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Psychology: Basic Processes**<br>心理学入门：基本过程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Psychology: Personal Functioning**<br>心理学入门：个人功能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Women and the Economy**<br>女性与经济 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Human Geography: Space, Place and Community**<br>人文地理学：空间、场所与社区 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **The Government of Canada**<br>加拿大政府 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
@@ -32,10 +32,10 @@ ms.date: 2026-11-08
 | **Indigenous Historical Perspectives**<br>原住民历史视角 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Okanagan Concepts and Frameworks**<br>Okanagan 概念与框架 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Indigenous Concepts and Frameworks**<br>原住民概念与框架 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Research Methods and Design**<br>研究方法与设计导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Research Methods and Design**<br>研究方法与设计入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Statistics and Data Analysis**<br>统计学与数据分析 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **An Introduction to Social Work Practice**<br>社会工作实务导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **An Introduction to Social Welfare in Canada**<br>加拿大社会福利导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **An Introduction to Social Work Practice**<br>社会工作实务入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **An Introduction to Social Welfare in Canada**<br>加拿大社会福利入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Indigenous Peoples of BC Coast**<br>BC海岸原住民 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Social and Political Philosophy**<br>社会与政治哲学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
@@ -49,9 +49,9 @@ ms.date: 2026-11-08
 | **Qualitative Methods & Analysis**<br>定性方法与分析 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Professional Ethics**<br>职业伦理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Professional Codes of Ethics**<br>职业道德规范 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Social Problems**<br>社会问题导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Social Problems**<br>社会问题入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Psychosocial Cultural Challenges Across the Lifespan**<br>生命周期中的心理社会文化挑战 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
-| **Introduction to Psychopathology**<br>精神病理学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
+| **Introduction to Psychopathology**<br>精神病理学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Theory of Personality**<br>人格理论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Field Placement**<br>实地实习 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |
 | **Capstone Project**<br>毕业设计项目 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/applied-bachelor-of-arts-community-research-and-evaluation) |

@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Work Environment Communication**<br>工作环境沟通 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/icsd/) |
 | **Ojibwe Language and Culture 3**<br>Ojibwe 语言与文化 3 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/icsd/) |
 | **Indigenous People and Health Care**<br>原住民与医疗保健 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/icsd/) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/icsd/) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/icsd/) |
 | **Indigenous Treaties, Rights and Laws**<br>原住民条约、权利与法律 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/icsd/) |
 | **Community Growth and Program Development**<br>社区成长与项目开发 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/icsd/) |
 | **Ojibwe Language and Culture 4**<br>Ojibwe 语言与文化 4 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/icsd/) |

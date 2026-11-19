@@ -21,8 +21,8 @@ ms.date: 2026-11-08
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#MATH-2166) |
 | **Health Information Management 2**<br>健康信息管理 2 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#SCIE-2025) |
 | **System Analysis & Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#COMP-2015) |
-| **Introduction to Health Care Delivery**<br>医疗服务提供导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#HLTH-1004) |
-| **Intro to Healthcare Research Methods & Epidemiology**<br>医疗保健研究方法与流行病学导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#HLTH-3001) |
+| **Introduction to Health Care Delivery**<br>医疗服务提供入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#HLTH-1004) |
+| **Intro to Healthcare Research Methods & Epidemiology**<br>医疗保健研究方法与流行病学入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#HLTH-3001) |
 | **Coding 2**<br>编程 2 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#HLTH-3006) |
 | **Pathophysiology**<br>病理生理学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#HLTH-3007) |
 | **Healthcare Information Analytics**<br>医疗保健信息分析 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/HEAIF-DP/PrinterFriendly#COMP-3007) |

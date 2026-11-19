@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Intermediate Epidemiology.**<br>中级流行病学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-thesis-msc/) |
 | **Critical Appraisal in Epidemiology.**<br>流行病学批判性评价 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-thesis-msc/) |
 | **Inferential Statistics.**<br>推断统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-thesis-msc/) |
-| **Introduction to Statistical Software.**<br>统计软件导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-thesis-msc/) |
+| **Introduction to Statistical Software.**<br>统计软件入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-thesis-msc/) |
 | **Data Analysis in Health Sciences.**<br>健康科学数据分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-thesis-msc/) |
 | **Foundations of Population Health.**<br>人群健康基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-thesis-msc/) |
 

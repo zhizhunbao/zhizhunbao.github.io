@@ -1,10 +1,10 @@
 ---
-title: "3.2.71 Master of Science in Engineering and Management"
+title: "4.2.71 Master of Science in Engineering and Management"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Engineering and Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.71 Master of Science in Engineering and Management
+# 4.2.71 Master of Science in Engineering and Management
 
 ## Glossary
 
@@ -32,14 +32,14 @@ ms.date: 2026-11-18
 | **Accounting Information for Decision Makers**<br>面向决策者的会计信息 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Business Analysis Using Financial Statements**<br>基于财务报表的商业分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Power and Negotiation**<br>权力与谈判 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Operations Management**<br>运营管理导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Operations Management**<br>运营管理入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Management of Services: Creating Value for Customers, Employees, and Investors**<br>服务管理：为客户、员工和投资者创造价值 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Supply Chain Analytics**<br>供应链分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **AI for Operations**<br>面向运营的AI | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Marketing Innovation**<br>营销创新 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Pricing**<br>定价 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Business-to-Business Marketing**<br>企业对企业营销 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to System Dynamics**<br>系统动力学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to System Dynamics**<br>系统动力学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **System Dynamics for Business and Policy**<br>商业与政策中的系统动力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Competitive Strategy**<br>竞争战略 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Innovation Strategy**<br>创新战略 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-18
 | **Transportation: Foundations and Methods**<br>交通：基础与方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Systems Engineering and Naval Ship Design**<br>系统工程与海军舰船设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Energy, Materials and Manufacturing**<br>能源、材料与制造 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Manufacturing Systems**<br>制造系统导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Manufacturing Systems**<br>制造系统入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Distributed Computer Systems Engineering**<br>分布式计算机系统工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Computer System Architecture**<br>计算机系统体系结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Statistics for Engineers and Scientists**<br>工程师与科学家统计学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
@@ -116,9 +116,9 @@ ms.date: 2026-11-18
 | **Labor Markets and Employment Policy**<br>劳动力市场与就业政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **The Theory of Operations Management**<br>运营管理理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Operations Strategy**<br>运营战略 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Healthcare Lab: Introduction to Healthcare Delivery in the United States**<br>医疗实验室：美国医疗服务导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Healthcare Lab: Introduction to Healthcare Delivery in the United States**<br>医疗实验室：美国医疗服务入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Operations Laboratory**<br>运营实验室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Product Management**<br>产品管理导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Product Management**<br>产品管理入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Applied Behavioral Economics**<br>应用行为经济学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Marketing and Product Analytics**<br>营销与产品分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Branding**<br>品牌管理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
@@ -135,9 +135,9 @@ ms.date: 2026-11-18
 | **Mechanics and Design of Concrete Structures**<br>混凝土结构力学与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Structural Mechanics**<br>结构力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Sustainable Energy**<br>可持续能源 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Modeling and Simulation**<br>建模与仿真导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Modeling and Simulation**<br>建模与仿真入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Quantum Computation**<br>量子计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Advanced Instrumentation and Measurement**<br>高级仪器与测量 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Analysis and Design of Feedback Control Systems**<br>反馈控制系统分析与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Advanced System Dynamics and Control**<br>高级系统动力学与控制 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
@@ -169,7 +169,7 @@ ms.date: 2026-11-18
 | **Materials Science and Engineering of Clean Energy**<br>清洁能源的材料科学与工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Biomaterials Science and Engineering**<br>生物材料科学与工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Dynamical System Modeling and Control Design**<br>动力系统建模与控制设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **AI, Decision Making, and Society**<br>AI、决策与社会 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Quantitative and Clinical Physiology**<br>定量与临床生理学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Fields, Forces, and Flows in Biological Systems**<br>生物系统中的场、力与流 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
@@ -216,7 +216,7 @@ ms.date: 2026-11-18
 | **Aircraft Engines and Gas Turbines**<br>飞机发动机与燃气轮机 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Rocket Propulsion**<br>火箭推进 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Space Propulsion**<br>空间推进 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Satellite Engineering**<br>卫星工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Satellite Engineering**<br>卫星工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Aircraft Systems Engineering**<br>飞机系统工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Space Systems Engineering**<br>空间系统工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Engineering Apollo: The Moon Project as a Complex System**<br>工程化阿波罗：作为复杂系统的登月工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
@@ -228,7 +228,7 @@ ms.date: 2026-11-18
 | **Advances in Chemical Biology**<br>化学生物学进展 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Nuclear Energy Systems**<br>核能系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Radiation Biophysics**<br>辐射生物物理学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Plasma Physics I**<br>等离子体物理导论 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Plasma Physics I**<br>等离子体物理入门 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Statistics, Computation and Applications**<br>统计、计算及应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Energy Systems for Climate Change Mitigation**<br>减缓气候变化的能源系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Mapping and Evaluating New Energy Technologies**<br>新能源技术的梳理与评估 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
@@ -238,7 +238,7 @@ ms.date: 2026-11-18
 | **United States Energy Policy: Lessons Learned for the Future**<br>美国能源政策：面向未来的经验教训 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **The Airline Industry**<br>航空业 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Discrete Probability and Stochastic Processes**<br>离散概率与随机过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
-| **Introduction to Mathematical Programming**<br>数学规划导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
+| **Introduction to Mathematical Programming**<br>数学规划入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Nonlinear Optimization**<br>非线性优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Robust Modeling, Optimization, and Computation**<br>稳健建模、优化与计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |
 | **Principles and Practice of Drug Development**<br>药物开发原理与实践 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-system-design-management/) |

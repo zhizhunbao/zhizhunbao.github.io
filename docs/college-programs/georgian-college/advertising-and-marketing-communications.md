@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Advertising and Marketing Communications**<br>广告与营销传播 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/advertising-marketing-communications/) |
-| **Introduction to Advertising**<br>广告学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
+| **Introduction to Advertising**<br>广告学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Graphic Design Fundamentals**<br>平面设计基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Professional Presentation Skills**<br>专业演讲技能 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Select 1 course from the general education list during registration.**<br>注册时从通识教育列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Copywriting and Content Strategy**<br>文案写作与内容策略 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Media Planning**<br>媒体策划 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Integrated Marketing Communications**<br>整合营销传播 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Digital Marketing and Analytics**<br>数字营销与分析 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
-| **Introduction to Marketing Research**<br>市场调研导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
+| **Introduction to Marketing Research**<br>市场调研入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Account and Project Management**<br>客户与项目管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Social Media Strategy**<br>社交媒体策略 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Media Buying**<br>媒体购买 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Career Analysis**<br>职业分析 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Public Relations**<br>公共关系 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Ontario Colleges' Marketing Competition Preparation**<br>安大略省学院营销竞赛准备 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 | **Sport Marketing and Sponsorship**<br>体育营销与赞助 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/admc/) |
 
 ## Courses

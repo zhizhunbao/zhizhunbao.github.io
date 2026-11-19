@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Strategies for Success**<br>成功策略 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3690/courses-next/) |
 | **Reason & Writing Business 1**<br>商务推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3690/courses-next/) |
 | **Principles of Marketing 1**<br>营销原理 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3690/courses-next/) |
-| **Introduction to Business Processes**<br>业务流程导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3690/courses-next/) |
+| **Introduction to Business Processes**<br>业务流程入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3690/courses-next/) |
 | **Excel for Business Adv**<br>商务Excel高级 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3690/courses-next/) |
 | **Financial Math**<br>金融数学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3690/courses-next/) |
 | **Customer Relations**<br>客户关系 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3690/courses-next/) |

@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Network Services Administration**<br>网络服务管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1560X03FWO.pdf) |
 | **IT Troubleshooting**<br>IT 故障排除 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1560X03FWO.pdf) |
 | **Windows Enterprise Administration**<br>Windows 企业管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1560X03FWO.pdf) |
-| **Introduction to Enterprise Networking**<br>企业网络导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1560X03FWO.pdf) |
+| **Introduction to Enterprise Networking**<br>企业网络入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1560X03FWO.pdf) |
 | **Database Management and Interfacing**<br>数据库管理与接口 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1560X03FWO.pdf) |
 | **Co-Op Job Search 1**<br>带薪实习求职 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1560X03FWO.pdf) |
 | **Work Term I**<br>带薪实习学期 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1560X03FWO.pdf) |

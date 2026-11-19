@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Field Placement Preparation**<br>现场实习准备 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/building-construction-technician) |
 | **Field Placement**<br>实地实习 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/building-construction-technician) |
 | **Basic Casework**<br>基础橱柜制作 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/building-construction-technician) |
-| **Introduction to Common Stairs**<br>普通楼梯导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/building-construction-technician) |
+| **Introduction to Common Stairs**<br>普通楼梯入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/building-construction-technician) |
 | **Interior Trim**<br>内部装修 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/building-construction-technician) |
 | **Roof Framing (Intersecting Roofs and Engineered Systems)**<br>屋顶框架（相交屋顶与工程系统） | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/building-construction-technician) |
 | **Sustainable Building Practices**<br>可持续建筑实践 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/building-construction-technician) |

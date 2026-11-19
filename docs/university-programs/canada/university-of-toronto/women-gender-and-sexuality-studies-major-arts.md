@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Women, Gender and Sexuality Studies - Major (Arts)**<br>女性、性别与性征研究－主修（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1443) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1443) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1443) |
 | **Sex, Evolution and Behaviour**<br>性、进化与行为 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1443) |
 | **The Biology of Human Sexuality**<br>人类性行为生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1443) |
 | **Anthropology of Gender**<br>性别人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1443) |

@@ -51,7 +51,7 @@ ms.date: 2026-11-11
 | **Eighteenth-Century Women Writers**<br>十八世纪女性作家 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJGVekRAi2) |
 | **Eighteenth-Century Literature and Media**<br>十八世纪文学与媒介 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJGVekRAi2) |
 | **Topics in Literatures Medieval to Romantic**<br>从中世纪到浪漫主义的文学专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJGVekRAi2) |
-| **Introduction to Black Canadian Writing**<br>加拿大黑人写作导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJGVekRAi2) |
+| **Introduction to Black Canadian Writing**<br>加拿大黑人写作入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJGVekRAi2) |
 | **Early Canadian Literatures**<br>早期加拿大文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJGVekRAi2) |
 | **Austen**<br>奥斯汀 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJGVekRAi2) |
 | **American Literature to 1860**<br>1860年以前的美国文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJGVekRAi2) |

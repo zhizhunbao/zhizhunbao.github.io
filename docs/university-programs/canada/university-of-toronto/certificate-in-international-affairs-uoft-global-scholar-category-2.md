@@ -22,13 +22,13 @@ ms.date: 2026-11-11
 | **Elementary French II**<br>初级法语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Elementary French III**<br>初级法语 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Elementary French IV**<br>初级法语 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to German**<br>德语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to German**<br>德语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Introductory Ancient Greek I**<br>古希腊语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Introductory Ancient Greek II**<br>古希腊语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Elementary Hungarian**<br>初级匈牙利语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to Anishinaabemowin**<br>阿尼什纳比语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to Kanien’kéha (Mohawk Language)**<br>Kanien’kéha（莫霍克语）导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to Inuktitut**<br>因纽特语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to Anishinaabemowin**<br>阿尼什纳比语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to Kanien’kéha (Mohawk Language)**<br>Kanien’kéha（莫霍克语）入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to Inuktitut**<br>因纽特语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Italian Language for Beginners**<br>初学者意大利语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Introductory Latin I**<br>拉丁语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Introductory Latin II**<br>拉丁语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
@@ -43,10 +43,10 @@ ms.date: 2026-11-11
 | **Portuguese for Beginners I**<br>葡萄牙语初级 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Portuguese for Beginners II**<br>葡萄牙语初级 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Portuguese for Spanish Speakers**<br>西班牙语使用者葡萄牙语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to Sanskrit I**<br>梵语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to Tibetan I**<br>藏语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to Tibetan II**<br>藏语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to Sanskrit II**<br>梵语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to Sanskrit I**<br>梵语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to Tibetan I**<br>藏语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to Tibetan II**<br>藏语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to Sanskrit II**<br>梵语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Introductory Pali I**<br>巴利语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Elementary Russian I**<br>初级俄语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Elementary Russian II**<br>初级俄语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
@@ -60,7 +60,7 @@ ms.date: 2026-11-11
 | **Elementary Swedish I**<br>初级瑞典语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Elementary Swedish II**<br>初级瑞典语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Empire, Nationalism, and the History of International Relations**<br>帝国、民族主义与国际关系史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **Politics of Development**<br>发展政治学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **International Relations in the Anthropocene**<br>人类世的国际关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |
 | **State, Society and Power in Comparative Perspective**<br>比较视角下的国家、社会与权力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1469) |

@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours BSc Environmental Science**<br>环境科学荣誉（BSc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Organismal Biology**<br>生物体生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Organismal Biology**<br>生物体生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **BioZoo: An Introduction Laboratory in Biology**<br>BioZoo：生物学入门实验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Principles of Chemistry**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Places and Spaces of Human Activity**<br>人类活动的场所与空间 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Earth Materials**<br>地球物质导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Earth Materials**<br>地球物质入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Calculus for the Life Sciences I**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Calculus for the Life Sciences II**<br>生命科学微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Principles of Physics I**<br>物理学原理 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
@@ -29,20 +29,20 @@ ms.date: 2026-11-11
 | **Environmental Issues**<br>环境问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **The Practice of Environmental Science**<br>环境科学实践 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Environmental Microbiology**<br>环境微生物学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Hydrogeology**<br>水文地质学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Hydrogeology**<br>水文地质学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Field Course in Environmental Science**<br>环境科学野外课程 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Seminar**<br>研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Geoscience Data Analysis**<br>地球科学数据分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Biostatistics**<br>生物统计学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Biostatistics**<br>生物统计学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Applied Biostatistics in R**<br>R 语言应用生物统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Applied GIS for Science and Engineering**<br>科学与工程应用 GIS | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Research Project**<br>研究项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Animal Form and Function**<br>动物形态与功能 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Plant Science**<br>植物科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Plant Science**<br>植物科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Conservation Biology**<br>保护生物学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Human and Policy Dimensions of Environmental Change**<br>环境变化的人文与政策维度 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Paleontology**<br>古生物学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Climate Science**<br>气候科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Climate Science**<br>气候科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Quaternary Geology and Climate Change**<br>第四纪地质与气候变化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Climatology**<br>气候学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Spatial Ecology**<br>空间生态学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
@@ -60,8 +60,8 @@ ms.date: 2026-11-11
 | **Freshwater Ecology**<br>淡水生态学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Analytical Chemistry**<br>分析化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Mineralogy**<br>矿物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Mineralogy**<br>矿物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Field Biology**<br>野外生物学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **General Microbiology**<br>普通微生物学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **General Microbiology Laboratory**<br>普通微生物学实验 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
@@ -78,7 +78,7 @@ ms.date: 2026-11-11
 | **Polymer and Applied Chemistry**<br>聚合物与应用化学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Principles of Instrumental Analysis**<br>仪器分析原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Fundamentals of Environmental Engineering**<br>环境工程基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
-| **Introduction to International Development: Historical Perspectives**<br>国际发展导论：历史视角 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
+| **Introduction to International Development: Historical Perspectives**<br>国际发展入门：历史视角 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Environmental Policies, Natural Resources Management and Sustainable Development**<br>环境政策、自然资源管理与可持续发展 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Food Security and International Development**<br>粮食安全与国际发展 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |
 | **Cities and Social Change**<br>城市与社会变迁 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-environmental-science/) |

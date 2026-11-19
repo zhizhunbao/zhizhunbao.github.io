@@ -1,10 +1,10 @@
 ---
-title: "3.4.51 Italian Studies (B.A.)"
+title: "4.4.51 Italian Studies (B.A.)"
 description: "University Programs > United States > Yale University > Italian Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.51 Italian Studies (B.A.)
+# 4.4.51 Italian Studies (B.A.)
 
 ## Glossary
 
@@ -13,7 +13,7 @@ ms.date: 2026-11-18
 | **Italian Studies (B.A.)**<br>意大利研究（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/italian/) |
 | **Intermediate Italian I**<br>中级意大利语 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/italian/) |
 | **Advanced Composition and Conversation:**<br>高级写作与会话： | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/italian/) |
-| **Introduction to Italian Literature: From the Duecento to the Renaissance**<br>意大利文学导论：从十三世纪到文艺复兴 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/italian/) |
+| **Introduction to Italian Literature: From the Duecento to the Renaissance**<br>意大利文学入门：从十三世纪到文艺复兴 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/italian/) |
 | **Dante in Translation**<br>但丁译本研读 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/italian/) |
 | **The Senior Essay**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/italian/) |
 

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Introduction to Organizational Behaviour**<br>组织行为学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Financial Accounting Principles 1**<br>财务会计原理 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Graphic Design Fundamentals**<br>平面设计基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Select 1 course from the General Education list during registration.**<br>注册时从通识教育列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Integrated Marketing Communications**<br>整合营销传播 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Account and Project Management**<br>客户与项目管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
-| **Introduction to Marketing Research**<br>市场调研导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
+| **Introduction to Marketing Research**<br>市场调研入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Applied Digital Marketing and Analytics**<br>应用数字营销与分析 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Select 1 course from the available list during registration. Contact the program coordinator for further details.**<br>注册时从可选列表中选修1门课程。详情请联系专业协调员。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |
 | **Principles of Sales**<br>销售原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bmkt/) |

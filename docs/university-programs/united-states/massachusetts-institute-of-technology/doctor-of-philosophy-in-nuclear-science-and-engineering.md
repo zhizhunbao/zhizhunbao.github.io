@@ -1,10 +1,10 @@
 ---
-title: "3.2.111 Doctor of Philosophy in Nuclear Science and Engineering"
+title: "4.2.111 Doctor of Philosophy in Nuclear Science and Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Nuclear Science and Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.111 Doctor of Philosophy in Nuclear Science and Engineering
+# 4.2.111 Doctor of Philosophy in Nuclear Science and Engineering
 
 ## Glossary
 
@@ -30,7 +30,7 @@ ms.date: 2026-11-18
 | **Properties of Solid Surfaces**<br>固体表面性质 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Ionics and Its Applications**<br>离子学及其应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Kinetic Processes in Materials**<br>材料中的动力学过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
-| **Introduction to Plasma Physics I**<br>等离子体物理导论 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
+| **Introduction to Plasma Physics I**<br>等离子体物理入门 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Fusion Energy**<br>聚变能源 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Engineering Principles for Fusion Reactors**<br>聚变堆工程原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Marine Power and Propulsion**<br>船舶动力与推进 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-18
 | **Quantum Theory of Materials Characterization**<br>材料表征的量子理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Statistical Mechanics I**<br>统计力学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Atomic and Optical Physics I**<br>原子与光学物理 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Nuclear Science and Engineering Laboratory**<br>核科学与工程实验室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Seminar in Nuclear Science and Engineering I**<br>核科学与工程研讨课 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |
 | **Seminar in Nuclear Science and Engineering II**<br>核科学与工程研讨课 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/) |

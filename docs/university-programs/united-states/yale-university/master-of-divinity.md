@@ -1,10 +1,10 @@
 ---
-title: "3.4.102 Master of Divinity"
+title: "4.4.102 Master of Divinity"
 description: "University Programs > United States > Yale University > Master of Divinity: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.102 Master of Divinity
+# 4.4.102 Master of Divinity
 
 ## Glossary
 
@@ -12,8 +12,8 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Master of Divinity**<br>神学硕士 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
 | **Hebrew Bible Interpretation I**<br>希伯来圣经诠释 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
-| **Introduction to Systematic Theology**<br>系统神学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
-| **Introduction to Christian Ethics**<br>基督教伦理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
+| **Introduction to Systematic Theology**<br>系统神学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
+| **Introduction to Christian Ethics**<br>基督教伦理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
 | **Christian Ethics Seminar**<br>基督教伦理学研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
 | **History of Early Modern Christianity: Reformation to Enlightenment**<br>近代早期基督教史：从宗教改革到启蒙运动 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
 | **Earth-Honoring Witness as Public Theology**<br>尊重地球的见证作为公共神学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
@@ -21,10 +21,10 @@ ms.date: 2026-11-18
 | **Foundations of Christian Worship**<br>基督教崇拜基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
 | **M.Div. Integrative Seminar II**<br>M.Div.综合研讨课 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
 | **New Testament Interpretation**<br>新约诠释 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
-| **History of Christianity: An Introduction**<br>基督教史导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
+| **History of Christianity: An Introduction**<br>基督教史入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
 | **Integrative Seminar**<br>综合研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
-| **Practicing Care: Intro to Pastoral Theology for a Complex World**<br>践行关怀：面向复杂世界的教牧神学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
-| **Introduction to Public Theology, Public Policy, and Moral Fusion Movements in America**<br>美国公共神学、公共政策与道德融合运动导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
+| **Practicing Care: Intro to Pastoral Theology for a Complex World**<br>践行关怀：面向复杂世界的教牧神学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
+| **Introduction to Public Theology, Public Policy, and Moral Fusion Movements in America**<br>美国公共神学、公共政策与道德融合运动入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/div/programs-study/master-divinity-degree-requirements/) |
 
 ## Courses
 

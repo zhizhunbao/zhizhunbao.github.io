@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Engineering (MEng) in Electrical and Computer Engineering**<br>工程硕士（MEng），电气与计算机工程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
-| **Introduction to Optimization**<br>最优化导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
+| **Introduction to Optimization**<br>最优化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Statistical Signal Processing**<br>统计信号处理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Algorithm Design and Analysis**<br>算法设计与分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Image Processing and Visual Communication**<br>图像处理与视觉传达 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **Radiation and Propagation of Electromagnetic Fields**<br>电磁场的辐射与传播 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Topic-11 Principles of Biomedical Imaging**<br>专题 11：生物医学成像原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Management and Leadership**<br>管理与领导力 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
-| **Introduction to Financial and Managerial Accounting**<br>财务与管理会计导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
+| **Introduction to Financial and Managerial Accounting**<br>财务与管理会计入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Data Analysis and Management**<br>数据分析与管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Operations and Supply Chain Management**<br>运营与供应链管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Marketing Management**<br>营销管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
@@ -53,7 +53,7 @@ ms.date: 2026-11-11
 | **Multivariable Control Systems**<br>多变量控制系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Stochastic Control of Linear Systems**<br>线性系统的随机控制 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Nonlinear Systems**<br>非线性系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
-| **Introduction of Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
+| **Introduction of Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Robot Dynamics and Control**<br>机器人动力学与控制 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Topic-10 Distributed Optimization**<br>专题 10：分布式优化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
@@ -79,7 +79,7 @@ ms.date: 2026-11-11
 | **Organic Electronics**<br>有机电子学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Fabrication in the Nanoscale: Technology and Applications**<br>纳米尺度制造：技术与应用 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Optoelectronic Devices**<br>光电器件 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
-| **Introduction to Nanotechnology**<br>纳米技术导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
+| **Introduction to Nanotechnology**<br>纳米技术入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Characterization of Nanomaterials**<br>纳米材料表征 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Quantum Information Processing Devices**<br>量子信息处理器件 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |
 | **Applied Quantum Mechanics**<br>应用量子力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/B17slJCRs3) |

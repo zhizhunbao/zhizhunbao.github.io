@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Power Tools and Equipment**<br>电动工具与设备 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Estimating, Calculation and Layout**<br>估算、计算与放样 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Carpentry Practice 2**<br>木工实践 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Essentials of Building Mathematics**<br>建筑数学要点 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Equal and Unequal Sloped Roofs**<br>等坡与不等坡屋顶 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Interior Finishes**<br>室内装修 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Exterior Finishes**<br>外饰面 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Carpentry Practice 4**<br>木工实践 4 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Technical Communications 2: Skilled Trades**<br>技术沟通 2：技术工种 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
-| **Introduction to Building Science**<br>建筑科学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
+| **Introduction to Building Science**<br>建筑科学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Construction Planning and Scheduling/Revit**<br>施工计划与进度/Revit | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Principles of Construction Law**<br>施工法原理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |
 | **Steel Construction Technology**<br>钢结构施工技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/construction-engineering-technology) |

@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Education - Secondary**<br>教育：中学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Indigenous Studies for Classroom Teachers**<br>课堂教师原住民研究 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Learning with Technology**<br>技术辅助学习 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Diversity and Inclusive Education**<br>多元与融合教育导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to the Profession of Teaching**<br>教师职业导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Instructional Processes**<br>教学过程导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Diversity and Inclusive Education**<br>多元与融合教育入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to the Profession of Teaching**<br>教师职业入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Instructional Processes**<br>教学过程入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Evaluation of Student Learning**<br>学生学习评价 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Secondary School Curriculum and Instruction**<br>中学课程与教学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Secondary School Curriculum and Instruction**<br>中学课程与教学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Professional Field Experience I**<br>专业实地经历 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Law and Ethics in Education**<br>教育法律与伦理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Advanced Topics in Teaching to Diversity and Belonging**<br>多元与归属感教学高级专题 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
@@ -28,27 +28,27 @@ ms.date: 2026-11-08
 | **Elementary Calculus I**<br>初等微积分 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Elementary Calculus II**<br>初等微积分 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Linear Algebra I**<br>线性代数 1 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Introductory Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Biological Diversity**<br>生物多样性导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Biological Diversity**<br>生物多样性入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Introductory University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Introductory University Chemistry II**<br>大学化学入门 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Particles and Waves**<br>粒子与波 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Fluids, Fields and Radiation**<br>流体、场与辐射 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Principles of Business**<br>商业原理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Introductory Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Canadian History 1500 to 1867**<br>加拿大历史 1500年至1867年 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Canadian History 1867 to The Present**<br>加拿大历史 1867年至今 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **The Spectrum of Dance in Society**<br>舞蹈在社会中的多样形态 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **A Conceptual Approach to Physical Activity**<br>体育活动的概念性方法 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 | **Personal Health and Wellness**<br>个人健康与保健 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
-| **Introduction to Personal Physical Fitness**<br>个人体能导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
+| **Introduction to Personal Physical Fitness**<br>个人体能入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-education-secondary) |
 
 ## Courses
 

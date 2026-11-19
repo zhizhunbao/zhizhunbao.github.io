@@ -1,17 +1,17 @@
 ---
-title: "3.3.117 Law, Master of Laws"
+title: "4.3.117 Law, Master of Laws"
 description: "University Programs > United States > Stanford University > Law, Master of Laws: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.117 Law, Master of Laws
+# 4.3.117 Law, Master of Laws
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Law, Master of Laws**<br>法学，法学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
-| **Introduction to American Law**<br>美国法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
+| **Introduction to American Law**<br>美国法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Professional Responsibility**<br>职业责任 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **American Politics and Policy: In Defense of Democracy**<br>美国政治与政策：捍卫民主 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Asia-Pacific Transformation**<br>亚太转型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
@@ -33,12 +33,12 @@ ms.date: 2026-11-18
 | **Entrepreneurship and Venture Capital**<br>创业与风险投资 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Family Business and The Enduring Enterprise**<br>家族企业与长青企业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Fundamentals of Renewable Energy Processes**<br>可再生能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
-| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
+| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Impact: Strategic Leadership of Social Ventures and Nonprofit Organizations**<br>影响力：社会企业与非营利组织的战略领导 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Implementing & Financing a Decarbonized Economy**<br>实施与资助脱碳经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **International Trade**<br>国际贸易 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Interpersonal Dynamics**<br>人际动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
-| **Introduction to Decision Analysis**<br>决策分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
+| **Introduction to Decision Analysis**<br>决策分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Investment Management and Entrepreneurial Finance**<br>投资管理与创业金融 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Journalism Law**<br>新闻法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Leadership Perspectives**<br>领导力视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
@@ -98,8 +98,8 @@ ms.date: 2026-11-18
 | **International Commercial Arbitration**<br>国际商事仲裁 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **International Investment Law**<br>国际投资法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **International Tax**<br>国际税收 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
-| **Introduction to Law and Economics**<br>法律经济学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
-| **Introduction to Finance**<br>金融学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
+| **Introduction to Law and Economics**<br>法律经济学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
+| **Introduction to Finance**<br>金融学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Law and Economics Seminar (A)**<br>法律与经济学研讨课（A） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Law and Economics Seminar (W)**<br>法律与经济学研讨课（W） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |
 | **Leadership Vacuums in Government and Business: Law and Strategy of Temporary Leaders**<br>政府与企业中的领导真空：临时领导者的法律与策略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/master-of-laws) |

@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Business Administration (BBA)**<br>工商管理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Principles of Accounting**<br>会计原理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Computers in Business**<br>商务计算机 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Organizational Behavior**<br>组织行为学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Rural, Northern, and Indigenous Business Analysis**<br>乡村、北部与原住民商业分析 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Corporate Finance**<br>公司财务 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
-| **Introduction to Indigenous Governance**<br>原住民治理导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
+| **Introduction to Indigenous Governance**<br>原住民治理入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Professional Ethics**<br>职业伦理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Taxation I**<br>税务 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Taxation II**<br>税务 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-08
 | **Recruitment in Organizations**<br>组织中的招聘 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Strategic Management**<br>战略管理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Advanced Research Methodologies**<br>高级研究方法 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
-| **Co-op I - Introduction to Cooperative Work Experience**<br>合作教育 I - 合作工作经验导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
+| **Co-op I - Introduction to Cooperative Work Experience**<br>合作教育 I - 合作工作经验入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Co-op II - Intermediate Cooperative Work Experience**<br>合作教育 II - 中级合作工作经验 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Co-op III - Advanced Cooperative Work Experience**<br>合作教育 III - 高级合作工作经验 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |
 | **Management Capstone Course**<br>管理毕业设计课程 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/bachelor-business-administration) |

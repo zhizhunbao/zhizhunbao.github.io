@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Honours BSc Ophthalmic Medical Technology**<br>眼科医学技术荣誉（BSc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-ophthalmic-medical-technology/) |
 | **Ocular Anatomy and Physiology**<br>眼部解剖与生理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-ophthalmic-medical-technology/) |
 | **Optics and Refraction**<br>光学与屈光 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-ophthalmic-medical-technology/) |
-| **Introduction of Ophthalmic Diagnostic Techniques**<br>眼科诊断技术导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-ophthalmic-medical-technology/) |
+| **Introduction of Ophthalmic Diagnostic Techniques**<br>眼科诊断技术入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-ophthalmic-medical-technology/) |
 | **Clinical Application I**<br>临床应用 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-ophthalmic-medical-technology/) |
 | **Ophthalmic Medical Subspecialties**<br>眼科内科亚专科 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-ophthalmic-medical-technology/) |
 | **Advanced Ophthalmic Diagnostic Techniques**<br>高级眼科诊断技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-ophthalmic-medical-technology/) |

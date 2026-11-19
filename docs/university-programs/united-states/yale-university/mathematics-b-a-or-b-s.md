@@ -1,10 +1,10 @@
 ---
-title: "3.4.55 Mathematics (B.A. or B.S.)"
+title: "4.4.55 Mathematics (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Mathematics (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.55 Mathematics (B.A. or B.S.)
+# 4.4.55 Mathematics (B.A. or B.S.)
 
 ## Glossary
 
@@ -20,8 +20,8 @@ ms.date: 2026-11-18
 | **Vector Analysis and Integration on Manifolds**<br>向量分析与流形上的积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
 | **Analysis 2: Lebesgue Integration and Fourier Series**<br>分析 2：勒贝格积分与傅里叶级数 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
-| **Introduction to Complex Analysis**<br>复分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
-| **Introduction to Abstract Algebra**<br>抽象代数导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
+| **Introduction to Complex Analysis**<br>复分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
+| **Introduction to Abstract Algebra**<br>抽象代数入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
 | **Senior Seminar: Mathematical Topics**<br>毕业研讨课：数学专题 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
 | **Senior Essay**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics/) |
 

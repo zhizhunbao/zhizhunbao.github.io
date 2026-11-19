@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Garde Manger**<br>冷菜制作 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CULAF-DP/PrinterFriendly#CULI-1003) |
 | **Patisserie 1**<br>法式糕点 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CULAF-DP/PrinterFriendly#CULI-1005) |
 | **Culinary Computer Applications**<br>烹饪计算机应用 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CULAF-DP/PrinterFriendly#CULI-1011) |
-| **Introduction to Culinary Arts**<br>烹饪艺术导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CULAF-DP/PrinterFriendly#CULI-1014) |
+| **Introduction to Culinary Arts**<br>烹饪艺术入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CULAF-DP/PrinterFriendly#CULI-1014) |
 | **WHMIS**<br>WHMIS | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CULAF-DP/PrinterFriendly#SAFE-1028) |
 | **Certified Food Handler Training Program Level 1**<br>认证食品处理员培训项目一级 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CULAF-DP/PrinterFriendly#SEMR-9067) |
 | **Emergency First Aid**<br>紧急急救 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/CULAF-DP/PrinterFriendly#SEMR-9080) |

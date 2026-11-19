@@ -14,10 +14,10 @@ ms.date: 2026-11-11
 | **Italian Language for Beginners**<br>初学者意大利语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **Intermediate Italian**<br>中级意大利语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **Language Practice**<br>语言实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
-| **Introduction to Italian Studies**<br>意大利研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
-| **Introduction to Italian Literature**<br>意大利文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
-| **Introduction to Italian Cinema**<br>意大利电影导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
-| **Introduction to Italian Cultural Studies**<br>意大利文化研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
+| **Introduction to Italian Studies**<br>意大利研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
+| **Introduction to Italian Literature**<br>意大利文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
+| **Introduction to Italian Cinema**<br>意大利电影入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
+| **Introduction to Italian Cultural Studies**<br>意大利文化研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **Major Italian Authors in Translation: from Dante to Tasso**<br>意大利主要作家译读：从但丁到塔索 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **Major Italian Authors in Translation: from Marino to Calvino**<br>意大利主要作家译读：从马里诺到卡尔维诺 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **Italian-Canadian Literature**<br>意大利裔加拿大文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Cinema of the Italian Diasporas**<br>意大利离散社群电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **Italian Cinematic Adaptation**<br>意大利电影改编 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **At the Movies: History and Practice of Italian Film Criticism**<br>走进电影院：意大利电影批评的历史与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
-| **Introduction to Italian Linguistics**<br>意大利语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
+| **Introduction to Italian Linguistics**<br>意大利语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **“The Most Beautiful Language”: Italian between Past, Present and Future Challenges**<br>“最美的语言”：意大利语在过去、现在与未来挑战之间 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **Italian Linguistics**<br>意大利语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |
 | **Italian Sociolinguistics**<br>意大利社会语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2525) |

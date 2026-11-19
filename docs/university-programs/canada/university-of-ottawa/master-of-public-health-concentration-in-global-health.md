@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Climate Change and Health**<br>气候变化与健康 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Professional Skills in Public Health and Policy**<br>公共卫生与政策专业技能 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Democratic Government and Public Policy**<br>民主政府与公共政策 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
-| **Introduction to Healthcare Epidemiology**<br>医疗保健流行病学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
+| **Introduction to Healthcare Epidemiology**<br>医疗保健流行病学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Ethics and Moral Reasoning for Public and International Affairs**<br>公共与国际事务的伦理与道德推理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Health Services Evaluation**<br>卫生服务评价 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Epidemiological Research Using Large Databases**<br>利用大型数据库的流行病学研究 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Health Intervention Designs I**<br>健康干预设计 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Social Aspects of Epidemiology**<br>流行病学的社会层面 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Systematic Review and Meta- Analysis**<br>系统综述与元分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
-| **Introduction to Implementation Science in Health Research**<br>健康研究中的实施科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
+| **Introduction to Implementation Science in Health Research**<br>健康研究中的实施科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Mixed Research Methods**<br>混合研究方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 | **Applied Research Methods in Public Health**<br>公共卫生应用研究方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-public-health-concentration-global-health/) |
 

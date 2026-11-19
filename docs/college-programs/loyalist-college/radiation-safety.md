@@ -15,12 +15,12 @@ ms.date: 2026-11-08
 | **Applied Chemistry**<br>应用化学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Industrial Safety Culture and Human Performance**<br>工业安全文化与人员绩效 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
-| **Introduction to Radiation and Nuclear Fundamentals**<br>辐射与核基础导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
+| **Introduction to Radiation and Nuclear Fundamentals**<br>辐射与核基础入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Mathematics 1**<br>数学 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Radiation Detection Instruments 1**<br>辐射探测仪器 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Contamination Control**<br>污染控制 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Intro to Mechanics & Electricity**<br>力学与电学入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
-| **Introduction to Health Physics**<br>保健物理学导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
+| **Introduction to Health Physics**<br>保健物理学入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Mathematics 2**<br>数学 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Radiation Detection Instruments 2**<br>辐射探测仪器 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |
 | **Radiation Protection Work Practices and Planning**<br>辐射防护工作实践与规划 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/radiation-safety/) |

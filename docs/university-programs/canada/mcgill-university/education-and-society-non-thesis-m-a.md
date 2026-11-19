@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Educational Implications of Social Theory.**<br>社会理论的教育意涵 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/education-society-non-thesis-ma/) |
 | **Education and Philosophical Thought.**<br>教育与哲学思想 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/education-society-non-thesis-ma/) |
 | **Sociology of Education.**<br>教育社会学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/education-society-non-thesis-ma/) |
-| **Introduction to Philosophy of Education.**<br>教育哲学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/education-society-non-thesis-ma/) |
+| **Introduction to Philosophy of Education.**<br>教育哲学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/education-society-non-thesis-ma/) |
 | **Aesthetics and Education.**<br>美学与教育 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/education-society-non-thesis-ma/) |
 | **Studies in Comparative Education.**<br>比较教育研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/education-society-non-thesis-ma/) |
 | **Theory and Praxis of Culture and Citizenship.**<br>文化与公民身份的理论与实践 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/education-society-non-thesis-ma/) |

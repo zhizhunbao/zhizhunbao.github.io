@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Geology I**<br>地质学 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mining-engineering-technology) |
 | **Spreadsheets for Business**<br>商务电子表格 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mining-engineering-technology) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mining-engineering-technology) |
-| **Introduction to Mining**<br>采矿导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mining-engineering-technology) |
+| **Introduction to Mining**<br>采矿入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mining-engineering-technology) |
 | **Surveying I – Mining**<br>测量 I-采矿 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mining-engineering-technology) |
 | **Technical Communication**<br>技术沟通 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mining-engineering-technology) |
 | **Geology II**<br>地质学 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mining-engineering-technology) |

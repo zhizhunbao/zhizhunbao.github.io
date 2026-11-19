@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Basic Ecology**<br>基础生态学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Organizational Communications**<br>组织沟通 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
-| **Introduction to Workplace Communications**<br>职场沟通导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
+| **Introduction to Workplace Communications**<br>职场沟通入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Indigenous Peoples of Canada**<br>加拿大原住民 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Physical Geography: Surface of the Earth**<br>自然地理学：地球表面 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Cartography: Map and Airphoto Interpretation**<br>制图学：地图与航空照片判读 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Principles of Project Management**<br>项目管理原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Project Management Seminar in Environmental Sciences**<br>环境科学项目管理研讨 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
@@ -28,8 +28,8 @@ ms.date: 2026-11-08
 | **Inventory and Assessment Techniques**<br>清查与评估技术 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Petroleum Fundamentals**<br>石油基础 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Land Reclamation**<br>土地复垦 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
-| **Introduction to Contaminated Sites**<br>污染场地导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
-| **Introduction to Freshwater Resources**<br>淡水资源导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
+| **Introduction to Contaminated Sites**<br>污染场地入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
+| **Introduction to Freshwater Resources**<br>淡水资源入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Water Mensuration**<br>水文测量 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Data Analytics**<br>数据分析 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
@@ -42,15 +42,15 @@ ms.date: 2026-11-08
 | **Business Sustainability and The Environment**<br>企业可持续发展与环境 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Non-Profit Management**<br>非营利组织管理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Business Ethics and Social Responsibility**<br>商业伦理与社会责任 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
-| **Introduction to Archaeological Heritage Management**<br>考古遗产管理导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
+| **Introduction to Archaeological Heritage Management**<br>考古遗产管理入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Botany Basics**<br>植物学基础 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Technical Writing**<br>技术写作 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Physical Geography: Weather and Climate**<br>自然地理学：天气与气候 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
-| **Introduction to Palaeontology in British Columbia**<br>不列颠哥伦比亚省古生物学导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
+| **Introduction to Palaeontology in British Columbia**<br>不列颠哥伦比亚省古生物学入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Organizational Behavior**<br>组织行为学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 | **Soil Classification**<br>土壤分类 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/post-degree-diploma-in-environmental-management/) |
 
 ## Courses

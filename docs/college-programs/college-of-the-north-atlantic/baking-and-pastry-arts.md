@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Occupational Health & Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
 | **WHMIS**<br>WHMIS | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
 | **Standard First Aid**<br>标准急救 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
-| **Introduction to Mass Production**<br>大规模生产导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
+| **Introduction to Mass Production**<br>大规模生产入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
 | **Baking & Pastry Arts Math**<br>烘焙与糕点艺术数学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
 | **Food Safety and Sanitation**<br>食品安全与卫生 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
 | **The Professional Baker**<br>专业烘焙师 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-08
 | **Dietary Baking**<br>膳食烘焙 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
 | **On the Job Training - Baking & Pastry Arts**<br>在岗培训：烘焙与糕点艺术 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
 | **Frozen Desserts**<br>冷冻甜点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/baking-and-pastry-arts) |
 
 ## Courses
 

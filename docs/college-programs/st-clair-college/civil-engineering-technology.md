@@ -35,12 +35,12 @@ ms.date: 2026-11-08
 | **Reinforced Concrete & Masonry Design**<br>钢筋混凝土与砌体设计 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Material Testing**<br>材料试验 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
-| **Soil Mechanics Introduction**<br>土力学导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
+| **Soil Mechanics Introduction**<br>土力学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Construction Management**<br>施工管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Applied Hydraulics**<br>应用水力学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
-| **Introduction To Gis**<br>GIS导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
+| **Introduction To Gis**<br>GIS入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Structural Wood Design**<br>木结构设计 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Transportation Engineering Technology**<br>交通工程技术 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |
 | **Soil Mechanics & Foundations**<br>土力学与基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/civil-engineering-technology) |

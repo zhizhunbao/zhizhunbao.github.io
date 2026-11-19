@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Education – Elementary Teacher Education (Pre-K to 8)**<br>教育学学士 - 小学教师教育（学前至8年级） | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/university/bachelor_of_education_.html) |
 | **Education for Justice: Self and Other**<br>正义教育：自我与他者 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/university/bachelor_of_education_.html) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/university/bachelor_of_education_.html) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/university/bachelor_of_education_.html) |
 | **Critical Reading and Writing I**<br>批判性阅读与写作 I | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/university/bachelor_of_education_.html) |
 | **Introductory Finite Mathematics I**<br>有限数学入门 I | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/university/bachelor_of_education_.html) |
 

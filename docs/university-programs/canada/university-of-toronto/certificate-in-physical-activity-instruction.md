@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Certificate in Physical Activity Instruction**<br>身体活动教学证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/Physical-Activity-Instruction) |
 | **The Pedagogy of Playing Games**<br>游戏教学法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/Physical-Activity-Instruction) |
-| **Introduction to Physical Activity Pedagogy**<br>体育活动教学法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/Physical-Activity-Instruction) |
+| **Introduction to Physical Activity Pedagogy**<br>体育活动教学法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/Physical-Activity-Instruction) |
 | **Theory of Coaching part I**<br>教练理论 第 I 部分 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/Physical-Activity-Instruction) |
 | **Topics in Coaching**<br>教练专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/Physical-Activity-Instruction) |
 | **Health and Physical Education in the Elementary Years**<br>小学阶段的健康与体育教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://kpe.calendar.utoronto.ca/section/Physical-Activity-Instruction) |

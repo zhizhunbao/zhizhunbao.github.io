@@ -11,29 +11,29 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education, SPECIALIZATION IN EDUCATIONAL ADMINISTRATION**<br>教育学硕士，教育管理专业方向 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
-| **Introduction to Educational Research Methodologies**<br>教育研究方法论导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
+| **Introduction to Educational Research Methodologies**<br>教育研究方法论入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Overview of Educational Issues**<br>教育问题概述 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
-| **Introduction to Educational Administration**<br>教育管理导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
+| **Introduction to Educational Administration**<br>教育管理入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Educational Leadership**<br>教育领导力 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Supervisory Policy and Practice**<br>监督政策与实践 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **School Administration and the Law**<br>学校管理与法律 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Curriculum Foundations**<br>课程基础 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Graduate Summative Seminar**<br>研究生总结研讨课 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
-| **Introduction to Educational Planning**<br>教育规划导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
+| **Introduction to Educational Planning**<br>教育规划入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Change Leadership in Education**<br>教育中的变革领导力 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **The Economic Context of Educational Administration**<br>教育管理的经济背景 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
-| **Introduction to the Politics of Education**<br>教育政治导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
+| **Introduction to the Politics of Education**<br>教育政治入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Current Issues in Indigenous Education**<br>原住民教育热点问题 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Practicum in Educational Administration**<br>教育管理实习 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Issues and Trends in Leadership and Educational Administration**<br>领导力与教育管理的问题与趋势 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
-| **Introduction to Adult Education**<br>成人教育导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
+| **Introduction to Adult Education**<br>成人教育入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Graduate Research Seminar in Educational Administration**<br>教育管理研究生研究研讨课 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Curriculum Development in Rural, Indigenous, and Northern Schools**<br>乡村、原住民与北部学校的课程开发 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Practicum in Curriculum & Pedagogy**<br>课程与教学法实习 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Graduate Research Seminar in Education**<br>教育研究生研究研讨课 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Wild Pedagogies**<br>野性教学法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
-| **Introduction to Educational Technology: Theory & Practice**<br>教育技术导论：理论与实践 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
+| **Introduction to Educational Technology: Theory & Practice**<br>教育技术入门：理论与实践 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Educational Process: Developmental Stages**<br>教育过程：发展阶段 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Counselling Interventions**<br>咨询干预 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |
 | **Student Services Leadership**<br>学生服务领导力 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=26) |

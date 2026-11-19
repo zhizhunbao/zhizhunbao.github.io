@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN FRENCH LANGUAGE AND LITERATURE**<br>法语语言文学荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
-| **FRENCH STUDIES: AN INTRODUCTION**<br>法语研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
+| **FRENCH STUDIES: AN INTRODUCTION**<br>法语研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
 | **UNIVERSITY FRENCH (LEVEL 1)**<br>大学法语（1 级） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FRENCH STUDIES**<br>法国研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FRENCH STUDIES**<br>法国研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
 | **READING LITERATURE IN FRENCH: MIDDLE AGES TO ROMANTIICISM**<br>法语文学阅读：中世纪至浪漫主义 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
 | **READING LITERATURE IN FRENCH: MODERNITY TO POSTMODERNITY**<br>法语文学阅读：现代性至后现代性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FRENCH LITERATURE**<br>法国文学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FRENCH LITERATURE**<br>法国文学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
 | **LANGUAGE AND READING**<br>语言与阅读 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
 | **LANGUAGE AND EXPRESSION**<br>语言与表达 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |
 | **LANGUAGE (ADVANCED LEVEL II)**<br>语言（高级 II 级） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20730&SelectedCalendar=Live&ArchiveID=) |

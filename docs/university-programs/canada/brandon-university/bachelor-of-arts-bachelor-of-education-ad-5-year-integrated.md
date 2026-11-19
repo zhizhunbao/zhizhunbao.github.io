@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Evaluation & Assessment (EY-MY)**<br>评价与评估（EY-MY） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=292) |
 | **Field Experience I**<br>实地经验 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=292) |
 | **Classroom Management**<br>课堂管理 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=292) |
-| **Intro to ELA Methods Early Years**<br>低年级英语语言艺术方法导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=292) |
+| **Intro to ELA Methods Early Years**<br>低年级英语语言艺术方法入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=292) |
 | **Field Experience II**<br>实地经验 II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=292) |
 | **Reflective Practice for Emerging Educators: The Integrated Program Capstone Course**<br>新晋教育工作者的反思实践：综合课程顶点课程 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=292) |
 | **Foundations of Literacy Learning and Teaching**<br>读写学习与教学基础 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=292) |

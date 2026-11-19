@@ -17,12 +17,12 @@ ms.date: 2026-11-08
 | **Wellness and Health Issues**<br>健康与保健问题 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Microbiology**<br>微生物学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Composition**<br>作文 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Human Development Across the Lifespan**<br>人生全程人类发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Approved Elective**<br>认可选修课 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Anatomy and Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Interpersonal Relationships and Communications**<br>人际关系与沟通 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Academic Success**<br>学业成功 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Foundations of Human Biology**<br>人体生物学基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Medical Terminology/Anatomy and Physiology**<br>医学术语/解剖学与生理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Writing for the Workplace**<br>职场写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Sport and Exercise Psychology**<br>运动与锻炼心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Psychology of Aging**<br>老年心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |
 | **Psychopathology**<br>精神病理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-health-sciences-certificate) |

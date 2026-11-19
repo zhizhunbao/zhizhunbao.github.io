@@ -14,9 +14,9 @@ ms.date: 2026-11-08
 | **Research and Writing for Digital Media**<br>数字媒体研究与写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
 | **Media History and Regulations**<br>媒体历史与法规 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
 | **Communication in Media**<br>媒体传播 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
-| **Introduction to Video Production**<br>视频制作导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
-| **Introduction to Design Software and Photography**<br>设计软件与摄影导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
-| **Introduction to Audio Production**<br>音频制作导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
+| **Introduction to Video Production**<br>视频制作入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
+| **Introduction to Design Software and Photography**<br>设计软件与摄影入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
+| **Introduction to Audio Production**<br>音频制作入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
 | **Media Law and Ethics**<br>媒体法与伦理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
 | **Marketing Fundamentals for Media**<br>媒体营销基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |
 | **Audio Writing and Production I**<br>音频写作与制作 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/digital-communications-and-media) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Aircraft Structures Technician Certificate**<br>飞机结构技术员证书 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/programs-and-training/trades-and-technology/aircraft-structures-technician/) |
-| **INTRODUCTION TO AVIATION STRUCTURES**<br>航空结构导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/programs-and-training/trades-and-technology/aircraft-structures-technician/) |
+| **INTRODUCTION TO AVIATION STRUCTURES**<br>航空结构入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/programs-and-training/trades-and-technology/aircraft-structures-technician/) |
 | **METAL AIRCRAFT CONSTRUCTION 1**<br>金属飞机结构 1 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/programs-and-training/trades-and-technology/aircraft-structures-technician/) |
 | **METAL AIRCRAFT CONSTRUCTION 2**<br>金属飞机结构 2 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/programs-and-training/trades-and-technology/aircraft-structures-technician/) |
 | **SPECIAL PROCESSES/PRACTICES**<br>特殊流程/实务 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/programs-and-training/trades-and-technology/aircraft-structures-technician/) |

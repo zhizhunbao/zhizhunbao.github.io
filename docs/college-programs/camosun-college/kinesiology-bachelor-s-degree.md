@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Academic Writing Strategies**<br>学术写作策略 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Leadership & Communication in Kinesiology**<br>运动机能学中的领导力与沟通 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Foundations of Fitness & Wellness**<br>健身与健康基础 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
-| **Introduction to Outdoor Sports**<br>户外运动导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
+| **Introduction to Outdoor Sports**<br>户外运动入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Sport Biomechanics**<br>运动生物力学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Sport & Exercise Psychology 1**<br>运动与锻炼心理学 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Computer Applications in Sport**<br>计算机在体育中的应用 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Behavioural Fitness**<br>行为健身 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Fitness & Health Assessment**<br>健身与健康评估 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Exercise Prescription & Design**<br>运动处方与设计 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
-| **Introduction to Adapted Sport & Physical Activity**<br>适应性体育与身体活动导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
+| **Introduction to Adapted Sport & Physical Activity**<br>适应性体育与身体活动入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Growth & Development**<br>成长与发展 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Sport and Fitness Facility Operations**<br>体育与健身设施运营 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |
 | **Pathophysiology**<br>病理生理学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4212) |

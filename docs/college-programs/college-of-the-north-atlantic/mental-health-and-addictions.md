@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Report Writing**<br>报告写作 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Psychology I**<br>心理学 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Interviewing & Helping Skills I**<br>访谈与助人技能 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
-| **Introduction to Addictions**<br>成瘾导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
+| **Introduction to Addictions**<br>成瘾入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Pharmacology & Dependency**<br>药理学与药物依赖 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Psychology II**<br>心理学 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Self-Care & Wellness**<br>自我照顾与健康 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Interviewing & Helping Skills II**<br>访谈与助人技能 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Oral Communications**<br>口头沟通 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Working with Families**<br>家庭服务工作 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
-| **Intro to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
+| **Intro to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Treatment & Recovery**<br>治疗与康复 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Health Promotion**<br>健康促进 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |
 | **Indigenous History & Culture**<br>原住民历史与文化 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/mental-health-and-addictions) |

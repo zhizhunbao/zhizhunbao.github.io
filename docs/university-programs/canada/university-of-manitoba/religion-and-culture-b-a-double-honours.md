@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Religion and Culture, B.A. Double Honours**<br>宗教与文化，B.A. 双荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
-| **Introduction to Buddhism**<br>佛教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
+| **Introduction to Buddhism**<br>佛教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Buddhism in East Asia**<br>东亚佛教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Buddhism in the West**<br>西方佛教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Buddhist Philosophy**<br>佛教哲学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
@@ -19,11 +19,11 @@ ms.date: 2026-11-11
 | **Readings in Buddhist Texts**<br>佛教文本阅读 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Advanced Topics in Buddhism**<br>佛教高级专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **The History of Eastern Christianity**<br>东方基督教史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
-| **Introduction to Christianity**<br>基督教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
+| **Introduction to Christianity**<br>基督教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Early Modern Christianity in a Global Context**<br>全球背景下的早期近代基督教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Conservative Christianity in the United States**<br>美国的保守派基督教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Monks, Mystics and Manuscripts in Medieval Christianity**<br>中世纪基督教中的修士、神秘主义者与手稿 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
-| **Introduction to the New Testament**<br>新约导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
+| **Introduction to the New Testament**<br>新约入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Eastern Christianity in North America**<br>北美东方基督教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Eastern Christianity in the Contemporary World**<br>当代世界的东方基督教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **The Second Vatican Council**<br>第二次梵蒂冈大公会议 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
@@ -32,12 +32,12 @@ ms.date: 2026-11-11
 | **The Thought of Bernard Lonergan**<br>Bernard Lonergan 的思想 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Advanced Topics in Early Christianity**<br>早期基督教高级专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Advanced Studies in Medieval Christianity**<br>中世纪基督教高级研究 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
-| **Introduction to Hinduism**<br>印度教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
+| **Introduction to Hinduism**<br>印度教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Indian Philosophy**<br>印度哲学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Advanced Topics in Hinduism**<br>印度教高级专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **The Yoga Tradition**<br>瑜伽传统 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Approaches to the Qur'an**<br>《古兰经》研究方法 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
-| **Introduction to Islam**<br>伊斯兰教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
+| **Introduction to Islam**<br>伊斯兰教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Contemporary Islam**<br>当代伊斯兰教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Images of the Prophet Muhammad: Classical and Contemporary Perspectives**<br>先知穆罕默德的形象：古典与当代视角 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Islamic Philosophy**<br>伊斯兰哲学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-11
 | **Biblical Hebrew**<br>圣经希伯来语 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Readings in Biblical Hebrew 1**<br>圣经希伯来语阅读 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Readings in Biblical Hebrew 2**<br>圣经希伯来语阅读 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
-| **Introduction to Judaism**<br>犹太教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
+| **Introduction to Judaism**<br>犹太教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Hebrew Bible (Tanakh/"Old Testament")**<br>希伯来圣经（《塔纳赫》/“旧约”） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Great Jewish Books**<br>犹太经典名著 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |
 | **Contemporary Judaism**<br>当代犹太教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/religion/religion-ba-double-honours/) |

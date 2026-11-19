@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Social Service Worker - Gerontology**<br>社会服务工作者：老年学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |
-| **Introduction To Aging**<br>老龄化导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |
-| **Introduction To Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |
+| **Introduction To Aging**<br>老龄化入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |
+| **Introduction To Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |
 | **Basic Psychology**<br>基础心理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |
 | **Issues In Diversity**<br>多元化议题 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/social-service-worker-gerontology) |

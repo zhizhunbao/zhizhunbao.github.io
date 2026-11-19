@@ -1,10 +1,10 @@
 ---
-title: "3.3.101 Electrical Engineering, Master of Science"
+title: "4.3.101 Electrical Engineering, Master of Science"
 description: "University Programs > United States > Stanford University > Electrical Engineering, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.101 Electrical Engineering, Master of Science
+# 4.3.101 Electrical Engineering, Master of Science
 
 ## Glossary
 
@@ -20,7 +20,7 @@ ms.date: 2026-11-18
 | **Power Electronics**<br>电力电子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Advanced Topics in Power Electronics**<br>电力电子高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Board Level Design**<br>电路板级设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to VLSI Systems**<br>VLSI 系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to VLSI Systems**<br>VLSI 系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Design Projects in VLSI Systems I**<br>VLSI系统设计项目 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Digital Systems Engineering**<br>数字系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Autonomous Implantable Systems**<br>自主植入式系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-18
 | **Mining Massive Data Sets**<br>海量数据集挖掘 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Computer Graphics: Rendering, Geometry, and Image Manipulation**<br>计算机图形学：渲染、几何与图像处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Fundamentals of Computer Graphics: Animation and Simulation**<br>计算机图形学基础：动画与仿真 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Human-Computer Interaction: Foundations and Frontiers**<br>人机交互：基础与前沿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Computer Graphics: Image Synthesis Techniques**<br>计算机图形学：图像合成技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Visual Computing Systems**<br>视觉计算系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
@@ -54,8 +54,8 @@ ms.date: 2026-11-18
 | **Formal Methods for Computer Systems**<br>计算机系统的形式化方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Understanding the Sensors in your Smartphone**<br>理解智能手机中的传感器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Computer Systems Architecture**<br>计算机系统结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Computer Networks**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Internet of Things**<br>物联网导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Computer Networks**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Internet of Things**<br>物联网入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Embedded Systems Workshop**<br>嵌入式系统工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Machine Learning on Embedded Systems**<br>嵌入式系统上的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Software Techniques for Emerging Hardware Platforms**<br>面向新兴硬件平台的软件技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
@@ -64,10 +64,10 @@ ms.date: 2026-11-18
 | **Smart Product Design Fundamentals**<br>智能产品设计基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Smart Product Design Applications**<br>智能产品设计应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Smart Product Design Practice**<br>智能产品设计实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Optical Fiber Communications**<br>光纤通信导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Optical Fiber Communications**<br>光纤通信入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Data Compression: Theory and Applications**<br>数据压缩：理论与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Digital Communication**<br>数字通信导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Digital Communication**<br>数字通信入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Advanced Optical Fiber Communications**<br>高级光纤通信 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Wireless System Design**<br>无线系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Wireless Communications**<br>无线通信 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
@@ -95,9 +95,9 @@ ms.date: 2026-11-18
 | **Guided Waves**<br>导波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Lasers**<br>激光 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Solar Energy Conversion**<br>太阳能转换 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Fourier Optics**<br>傅里叶光学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Fourier Optics**<br>傅里叶光学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Electromagnetic Waves**<br>电磁波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Radar Remote Sensing**<br>雷达遥感导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Radar Remote Sensing**<br>雷达遥感入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Principles of Sensing for Autonomy**<br>自主性感知原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Computational Electromagnetics**<br>计算电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Fundamentals of Energy Processes**<br>能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
@@ -111,14 +111,14 @@ ms.date: 2026-11-18
 | **Laser Dynamics**<br>激光动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Nanophotonics**<br>纳米光子学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Quantum Photonics**<br>量子光子学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Nonlinear Optics**<br>非线性光学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Nonlinear Optics**<br>非线性光学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Optical Methods in Engineering Science**<br>工程科学中的光学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Energy storage and conversion systems: Solar Cells, Fuel Cells, Batteries**<br>储能与转换系统：太阳能电池、燃料电池、电池 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Micro and Nano Electromechanical Systems**<br>微纳机电系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Advanced Micro and Nano Fabrication Laboratory**<br>高级微纳加工实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Electronic and Optical Properties of Solids**<br>固体的电子与光学性质 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Electro-neural Interfaces**<br>电神经接口导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Electro-neural Interfaces**<br>电神经接口入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Advanced Ultrasound Imaging**<br>高级超声成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Optimal and Learning-based Control**<br>最优与基于学习的控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Advanced Feedback Control Design**<br>高级反馈控制设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
@@ -151,7 +151,7 @@ ms.date: 2026-11-18
 | **Statistical Signal Processing**<br>统计信号处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Sensorimotor Learning for Embodied Agents**<br>具身智能体的感觉运动学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **RF Pulse Design for Magnetic Resonance Imaging**<br>磁共振成像的射频脉冲设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
-| **Introduction to Control Design Techniques**<br>控制设计技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
+| **Introduction to Control Design Techniques**<br>控制设计技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Analysis and Control of Nonlinear Systems**<br>非线性系统的分析与控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Linear Programming**<br>线性规划 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |
 | **Optimization**<br>优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/electrical-engineering/master-of-science) |

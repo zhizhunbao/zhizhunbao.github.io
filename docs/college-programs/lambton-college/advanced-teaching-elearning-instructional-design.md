@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Multimedia for Elearning Developers**<br>电子学习开发者多媒体 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/atds) |
 | **Instructional Design Methods for Delivery**<br>教学交付的教学设计方法 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/atds) |
 | **Employee Training & Development**<br>员工培训与发展 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/atds) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/atds) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/atds) |
 | **Capstone Project**<br>毕业设计项目 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/atds) |
 
 ## Courses

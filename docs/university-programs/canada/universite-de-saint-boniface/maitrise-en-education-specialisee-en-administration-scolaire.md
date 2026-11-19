@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Maitrise en éducation spécialisée en administration scolaire**<br>教育学硕士，学校管理专业方向 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---matrise-en-education-specialise-en-administration-scolaire/index.html) |
-| **Introduction à la démarche de recherche en éducation**<br>教育研究方法导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---matrise-en-education-specialise-en-administration-scolaire/index.html) |
-| **Introduction aux méthodes de recherche en éducation [pour la voie avec mémoire seulement]**<br>教育研究方法导论［仅限论文路径］ | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---matrise-en-education-specialise-en-administration-scolaire/index.html) |
+| **Introduction à la démarche de recherche en éducation**<br>教育研究方法入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---matrise-en-education-specialise-en-administration-scolaire/index.html) |
+| **Introduction aux méthodes de recherche en éducation [pour la voie avec mémoire seulement]**<br>教育研究方法入门［仅限论文路径］ | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---matrise-en-education-specialise-en-administration-scolaire/index.html) |
 | **Perspectives théoriques de l’administration scolaire**<br>学校管理的理论视角 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-deducation---matrise-en-education-specialise-en-administration-scolaire/index.html) |
 
 ## Courses

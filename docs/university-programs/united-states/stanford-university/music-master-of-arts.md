@@ -1,10 +1,10 @@
 ---
-title: "3.3.127 Music, Master of Arts"
+title: "4.3.127 Music, Master of Arts"
 description: "University Programs > United States > Stanford University > Music, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.127 Music, Master of Arts
+# 4.3.127 Music, Master of Arts
 
 ## Glossary
 
@@ -15,7 +15,7 @@ ms.date: 2026-11-18
 | **Fundamentals of Computer-Generated Sound**<br>计算机生成声音基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/master-of-arts) |
 | **Psychophysics and Music Cognition**<br>心理物理学与音乐认知 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/master-of-arts) |
 | **Music, Computing, Design: The Art of Design**<br>音乐、计算、设计：设计的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/master-of-arts) |
-| **Introduction to Audio Signal Processing**<br>音频信号处理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/master-of-arts) |
+| **Introduction to Audio Signal Processing**<br>音频信号处理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/master-of-arts) |
 | **Research Seminar in Computer-Generated Music**<br>计算机生成音乐研究研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/master-of-arts) |
 | **Research in Computer-Generated Music**<br>计算机生成音乐研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/master-of-arts) |
 | **MA/MST Capstone Project**<br>MA/MST（文学硕士/理学硕士）毕业项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/master-of-arts) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Food Service Worker**<br>餐饮服务工作者 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/fswk) |
 | **Role of the Food Service Worker**<br>餐饮服务员的角色 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/fswk) |
 | **Communication & Customer Service**<br>沟通与客户服务 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/fswk) |
-| **Introduction to Nutrition**<br>营养学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/fswk) |
+| **Introduction to Nutrition**<br>营养学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/fswk) |
 | **Placement Preparation**<br>实习准备 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/fswk) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/fswk) |
 | **Sanitation & Safety**<br>卫生与安全 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/fswk) |

@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Office Administration - General**<br>办公室管理—通用 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
 | **Language Fundamentals**<br>语言基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
 | **Business For The Office Assistant**<br>办公助理商务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
-| **Introduction to Keyboarding**<br>键盘输入导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
+| **Introduction to Keyboarding**<br>键盘输入入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
 | **Essential Business Calculations**<br>基本商业计算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
-| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
+| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
-| **Introduction To Computer Technology**<br>计算机技术导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
+| **Introduction To Computer Technology**<br>计算机技术入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
 | **Accounting For The Office Assistant**<br>办公助理会计 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
 | **Administrative Procedures**<br>行政程序 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-general) |

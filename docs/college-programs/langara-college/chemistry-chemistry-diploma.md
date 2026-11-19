@@ -22,15 +22,15 @@ ms.date: 2026-11-08
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Intensive Science Literacy**<br>科学素养强化 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Science Literacy**<br>科学素养 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
-| **Introduction to Calculus I (Part I)**<br>微积分导论 I（第一部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
-| **Introduction to Calculus I (Part II)**<br>微积分导论 I（第二部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
+| **Introduction to Calculus I (Part I)**<br>微积分入门 I（第一部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
+| **Introduction to Calculus I (Part II)**<br>微积分入门 I（第二部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Calculus I with Computer Explorations**<br>微积分 I：计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |
 | **Computer Explorations for Calculus I**<br>微积分 I 计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-diploma/courses) |

@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Commerce**<br>商学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science) |
 | **Calculus I - Economic and Business Applications**<br>微积分 I：经济与商业应用 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Financial Accounting Overview**<br>财务会计概述 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
 | **Descriptive and Elementary Inferential Statistics**<br>描述统计与初等推断统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
 | **Managerial Economics**<br>管理经济学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
 | **Quantitative Methods in Business**<br>商业中的定量方法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |
 | **Intermediate Statistical Inference**<br>中级统计推断 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/commerce-diploma-arts-and-science/courses) |

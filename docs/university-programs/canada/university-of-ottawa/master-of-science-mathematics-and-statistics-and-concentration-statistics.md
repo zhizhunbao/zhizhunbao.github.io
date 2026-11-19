@@ -70,7 +70,7 @@ ms.date: 2026-11-11
 | **Advanced Design of Surveys**<br>高级调查设计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/) |
 | **Analysis of Categorical Data**<br>分类数据分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/) |
 | **Reliability and Survival Analysis**<br>可靠性与生存分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/) |
-| **Introduction to Mathematical Statistics**<br>数理统计导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/) |
+| **Introduction to Mathematical Statistics**<br>数理统计入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/) |
 | **Seminar in Biostatistics**<br>生物统计学研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/) |
 | **Probability Theory I**<br>概率论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/) |
 | **Probability Theory II**<br>概率论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/) |

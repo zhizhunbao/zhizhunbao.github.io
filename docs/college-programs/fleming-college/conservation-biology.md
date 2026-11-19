@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Field Skills**<br>现场技能 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/conservation-biology) |
 | **Fundamentals of Geomatics**<br>地理信息学基础 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/conservation-biology) |
 | **Introduction to Conservation Biology**<br>保护生物学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/conservation-biology) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/conservation-biology) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/conservation-biology) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/conservation-biology) |
 | **Introduction to Aquatic Biodiversity Conservation**<br>水生生物多样性保护入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/conservation-biology) |
 | **Introduction to Environmental Chemical Science**<br>环境化学科学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/conservation-biology) |

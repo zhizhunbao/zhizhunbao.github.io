@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Patient Care Theory 1**<br>患者护理理论 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/para/) |
 | **Medico Legal Aspects**<br>医疗法律方面 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/para/) |
 | **Communication for Paramedic**<br>急救医护人员沟通 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/para/) |
-| **Patient Care Procedures - Introduction**<br>患者护理程序 - 导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/para/) |
+| **Patient Care Procedures - Introduction**<br>患者护理程序 - 入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/para/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/para/) |
 | **Select 1 course from the General Education list during registration.**<br>注册时从通识教育列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/para/) |
 | **Anatomy and Physiology - Advanced**<br>解剖学与生理学 - 高级 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/para/) |

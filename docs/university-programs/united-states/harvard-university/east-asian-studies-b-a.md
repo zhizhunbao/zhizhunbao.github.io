@@ -1,17 +1,17 @@
 ---
-title: "3.1.14 East Asian Studies (B.A.)"
+title: "4.1.14 East Asian Studies (B.A.)"
 description: "University Programs > United States > Harvard University > East Asian Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.14 East Asian Studies (B.A.)
+# 4.1.14 East Asian Studies (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **East Asian Studies (B.A.)**<br>东亚研究（文学学士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to the Study of East Asia: Issues and Methods. Normally taken in the sophomore year, but open to all. (not offered 2024-2025)**<br>东亚研究导论：议题与方法。通常在二年级修读，但面向所有学生（2024-2025学年不开设） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to the Study of East Asia: Issues and Methods. Normally taken in the sophomore year, but open to all. (not offered 2024-2025)**<br>东亚研究入门：议题与方法。通常在二年级修读，但面向所有学生（2024-2025学年不开设） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Major Religious Texts of East Asia**<br>东亚主要宗教文本 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **East Asian Religions; Traditions and Transformation**<br>东亚宗教；传统与转变 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Medicine and the Self in China and the West**<br>中国与西方的医学与自我 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-18
 | **The Two Koreas in the Modern World**<br>现代世界中的两个朝鲜半岛国家 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Japan in Asia and the World**<br>亚洲与世界中的日本 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **East Asian Environments**<br>东亚环境 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-| **Introduction to Premodern Chinese Literature**<br>中国前现代文学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| **Introduction to Premodern Chinese Literature**<br>中国前现代文学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Traditional Japanese Literature**<br>日本古典文学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 | **Korean Literature in Translation**<br>韩国文学译读 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 

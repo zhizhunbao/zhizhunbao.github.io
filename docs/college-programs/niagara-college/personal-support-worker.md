@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Personal Support Worker**<br>个人护理员 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/psw-personal-support-worker/) |
 | **Supportive Care**<br>支持性护理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/psw-personal-support-worker/) |
 | **Communication in Healthcare I**<br>医疗保健沟通 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/psw-personal-support-worker/) |
-| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/psw-personal-support-worker/) |
+| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/psw-personal-support-worker/) |
 | **Community Support and Home Management**<br>社区支持与家庭管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/psw-personal-support-worker/) |
 | **Development and Health Promotion Across the Life Span**<br>全生命周期的发展与健康促进 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/psw-personal-support-worker/) |
 | **Human Body Structure and Function**<br>人体结构与功能 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/nursing/programs/psw-personal-support-worker/) |

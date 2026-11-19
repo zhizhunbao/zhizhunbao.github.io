@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **History and Philosophy of Science and Technology MA**<br>科学与技术的历史与哲学（MA） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology) |
-| **Introduction to History and Philosophy of Science**<br>科学史与科学哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology) |
+| **Introduction to History and Philosophy of Science**<br>科学史与科学哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology) |
 | **History of Mathematics**<br>数学史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology) |
 | **History of Physics**<br>物理学史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology) |
 | **History of Biology**<br>生物学史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology) |

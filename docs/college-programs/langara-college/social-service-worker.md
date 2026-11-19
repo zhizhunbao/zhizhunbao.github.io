@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Social Service Worker**<br>社会服务工作者 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we) |
-| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
+| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **History and Philosophy of Social Work**<br>社会工作历史与哲学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Social Service Methods I**<br>社会服务方法 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Social Problems**<br>社会问题 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Community Practice Skills**<br>社区实践技能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Social Service Field Work I**<br>社会服务现场实习 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Integrated Experiential Learning I**<br>综合体验式学习 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
-| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
+| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Social Service Methods II**<br>社会服务方法 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Social Policy**<br>社会政策 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |
 | **Family in Society**<br>社会中的家庭 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/social-service-worker-certificate-we/courses) |

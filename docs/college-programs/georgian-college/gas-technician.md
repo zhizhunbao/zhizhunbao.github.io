@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Gas Technician**<br>燃气技术员 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/gas-technician/) |
-| **Introduction to Electricity**<br>电学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gast/) |
+| **Introduction to Electricity**<br>电学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gast/) |
 | **Introduction to Gas Appliances**<br>燃气设备入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gast/) |
 | **Professional Practices**<br>职业实践 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gast/) |
 | **Piping and Tubing Systems**<br>管道与管材系统 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/gast/) |

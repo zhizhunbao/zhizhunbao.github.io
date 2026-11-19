@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Intercultural and International Studies**<br>跨文化与国际研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Foundations of Intercultural Communication**<br>跨文化传播基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
-| **Introduction to International Studies**<br>国际研究导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
+| **Introduction to International Studies**<br>国际研究入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Intercultural Communication in the Workplace**<br>职场跨文化沟通 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Intercultural Conflict in Interpersonal Relationships**<br>人际关系中的跨文化冲突 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
-| **Introduction to Social and Cultural Anthropology**<br>社会与文化人类学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
-| **Introduction to Human Geography**<br>人文地理学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
+| **Introduction to Social and Cultural Anthropology**<br>社会与文化人类学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
+| **Introduction to Human Geography**<br>人文地理学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **World History Since 1945**<br>1945 年以来的世界史 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Global Issues in Historical perspective**<br>历史视角下的全球问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Indigenous Cultures of British Columbia**<br>不列颠哥伦比亚省原住民文化 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
@@ -31,12 +31,12 @@ ms.date: 2026-11-08
 | **War and Society**<br>战争与社会 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **World Religions: Oriental**<br>世界宗教：东方 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **World Religions: Occidental**<br>世界宗教：西方 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
-| **Introduction to the Language and Cultures of the Spanish-Speaking World**<br>西班牙语世界的语言与文化导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
-| **Introduction to the French-Speaking world: Language(s), regions and cultures**<br>法语世界导论：语言、地区与文化 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
+| **Introduction to the Language and Cultures of the Spanish-Speaking World**<br>西班牙语世界的语言与文化入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
+| **Introduction to the French-Speaking world: Language(s), regions and cultures**<br>法语世界入门：语言、地区与文化 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Philosophy and Religion**<br>哲学与宗教 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
-| **Introduction to World Politics**<br>世界政治导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
+| **Introduction to World Politics**<br>世界政治入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Current International Issues**<br>当前国际问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
-| **Introduction to Comparative Politics**<br>比较政治学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
+| **Introduction to Comparative Politics**<br>比较政治学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Cultural Psychology**<br>文化心理学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Canadian Society**<br>加拿大社会 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |
 | **Race and Ethnicity**<br>种族与民族 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/asarti) |

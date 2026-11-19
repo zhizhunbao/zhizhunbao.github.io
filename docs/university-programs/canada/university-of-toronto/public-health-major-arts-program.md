@@ -11,34 +11,34 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Public Health Major (Arts Program)**<br>公共卫生主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Public Health**<br>公共卫生导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Public Health**<br>公共卫生入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Molecular and Cell Biology**<br>分子与细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Molecular Biology, Biotechnology and You**<br>分子生物学、生物技术与你 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Principles of Economics for Non-Specialists**<br>非专业人士经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Environment, Food and People**<br>环境、食物与人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to History and Philosophy of Science and Technology**<br>科学技术史与科学技术哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to History and Philosophy of Science and Technology**<br>科学技术史与科学技术哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **The Science of Human Nature**<br>人性科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **How to Think about Science**<br>如何思考科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Ancient Wisdom, Modern Insights: A Historical Introduction to Philosophy**<br>古代智慧，现代洞见：哲学史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **What Should I Believe? An Introduction to Philosophical Issues**<br>我应该相信什么？哲学议题导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **The Real World of Politics: An Introduction**<br>政治的真实世界：导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Ancient Wisdom, Modern Insights: A Historical Introduction to Philosophy**<br>古代智慧，现代洞见：哲学史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **What Should I Believe? An Introduction to Philosophical Issues**<br>我应该相信什么？哲学议题入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **The Real World of Politics: An Introduction**<br>政治的真实世界：入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Sociology I: Sociological Perspectives**<br>社会学导论 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Sociology I: Sociological Perspectives**<br>社会学入门 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Science and Social Choice**<br>科学与社会选择 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Gradients of Health in an Urban Mosaic**<br>城市马赛克中的健康梯度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Social Determinants of Health**<br>健康的社会决定因素导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Social Determinants of Health**<br>健康的社会决定因素入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Health Policy in Canada**<br>加拿大卫生政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Qualitative Methods in Public Health**<br>公共卫生质性方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Qualitative Methods in Public Health**<br>公共卫生质性方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Foundations of Econometrics**<br>计量经济学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Biostatistics for Biological Sciences**<br>生物科学生物统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Introductory Analytical Methods**<br>分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Quantitative Methods in Public Health**<br>公共卫生定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Quantitative Methods in Public Health**<br>公共卫生定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **An Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **An Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Probability, Statistics and Data Analysis II**<br>概率、统计与数据分析 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Statistics for Computer Scientists**<br>计算机科学家统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
@@ -50,7 +50,7 @@ ms.date: 2026-11-11
 | **Health Care Ethics**<br>医疗保健伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **History of Medicine I**<br>医学史 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Modifying and Optimizing Life: on the Peculiar Alliance between AI, Biology, and Engineering**<br>改造与优化生命：论人工智能、生物学与工程之间的奇特联盟 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Bioethics**<br>生物伦理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Ethics: Death and Dying**<br>伦理学：死亡与临终 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Ethics, Genetics and Reproduction**<br>伦理、遗传学与生殖 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
@@ -61,7 +61,7 @@ ms.date: 2026-11-11
 | **Perspectives in Health, Gender, Ethnicity and Race**<br>健康、性别、族裔与种族的视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Global Migration and Health**<br>全球移民与健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Political Economy of Health**<br>健康政治经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to HIV/AIDS: Health, Sexuality and Gender**<br>HIV/AIDS导论：健康、性与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to HIV/AIDS: Health, Sexuality and Gender**<br>HIV/AIDS入门：健康、性与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Indigenous Health Systems**<br>原住民卫生系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Sex and the Epidemic: Social Work, HIV, and Human Sexuality**<br>性与流行病：社会工作、HIV与人类性行为 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Sexuality & Health**<br>性与健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
@@ -73,7 +73,7 @@ ms.date: 2026-11-11
 | **Medical Anthropology: Sociocultural Perspectives on Illness, Medicine and Care**<br>医学人类学：疾病、医学与照护的社会文化视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Social Worlds of Medicine and Care**<br>医学与护理的社会世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Anthropology of Childhood and Childcare**<br>童年与儿童照护人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Global Health**<br>全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Global Health**<br>全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Epidemiology of Health & Disease**<br>健康与疾病流行病学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Employment Health**<br>就业健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Health, Nutrition and Food Security**<br>健康、营养与粮食安全 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
@@ -105,7 +105,7 @@ ms.date: 2026-11-11
 | **Built Environment and Health**<br>建成环境与健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Social History of Medicine in the 19th & 20th Centuries**<br>19与20世纪医学社会史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Independent Studies**<br>独立研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Health and Disease**<br>健康与疾病导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Health and Disease**<br>健康与疾病入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Topics in Health & Disease**<br>健康与疾病专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Global Health Research**<br>全球卫生研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Topics in Global Health**<br>全球健康专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
@@ -121,7 +121,7 @@ ms.date: 2026-11-11
 | **Ethics and Medical Research**<br>伦理与医学研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **HIV Prevention Research**<br>HIV预防研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Health Psychology**<br>健康心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
-| **Introduction to Qualitative Methods in Sociology**<br>社会学质性方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
+| **Introduction to Qualitative Methods in Sociology**<br>社会学质性方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Sociology of Health and Illness**<br>健康与疾病社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Sociology of Health Care**<br>医疗保健社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |
 | **Medicalization of Deviance**<br>越轨行为的医学化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2086) |

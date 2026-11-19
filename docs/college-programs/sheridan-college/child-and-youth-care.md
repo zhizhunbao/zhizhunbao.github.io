@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Relational Practice in the Life Space**<br>生活空间中的关系实践 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/child-and-youth-care) |
 | **Child and Youth Care Foundations**<br>儿童与青少年关怀基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/child-and-youth-care) |
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/child-and-youth-care) |
-| **Introduction to Trauma-informed Practice**<br>创伤知情实践导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/child-and-youth-care) |
+| **Introduction to Trauma-informed Practice**<br>创伤知情实践入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/child-and-youth-care) |
 | **Restorative Practices in Child and Youth Care**<br>儿童与青少年照护中的修复性实践 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/child-and-youth-care) |
 | **Applied Relational Practice in the Life Space**<br>生活空间中的应用关系实践 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/child-and-youth-care) |
 | **CYC Practicum Preparation Lab and Seminar**<br>CYC实习准备实验课与研讨课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/child-and-youth-care) |

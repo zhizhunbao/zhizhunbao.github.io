@@ -14,14 +14,14 @@ ms.date: 2026-11-11
 | **The Environment**<br>环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
-| **Introduction to Sociocultural and Linguistic Anthropology**<br>社会文化与语言人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
+| **Introduction to Sociocultural and Linguistic Anthropology**<br>社会文化与语言人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Human Geography**<br>人文地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Canada in Comparative Perspective**<br>比较视野下的加拿大 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Politics in a Global World**<br>全球化世界中的政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Environmental Management**<br>环境管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
-| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
-| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
+| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
+| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Anthropology and the Indigenous Peoples of Turtle Island (in Canada)**<br>人类学与龟岛（加拿大）原住民 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Imagining Nature: Literature and the Environment**<br>想象自然：文学与环境 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Sustainability**<br>可持续性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
@@ -40,13 +40,13 @@ ms.date: 2026-11-11
 | **Earth Materials**<br>地球物质 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Dynamic Earth**<br>动态地球 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Magmatic Systems and Igneous Petrology**<br>岩浆系统与火成岩岩石学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
-| **Introduction to Geomorphology**<br>地貌学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
+| **Introduction to Geomorphology**<br>地貌学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Global Weather and Climate**<br>全球天气与气候 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Fundamentals of Hydrology**<br>水文学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Ecosystems and Environmental Change**<br>生态系统与环境变化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Spatial Data Science I**<br>空间数据科学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Social Research Methods in Geography**<br>地理学中的社会研究方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
-| **Introduction to GIScience**<br>GIScience导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
+| **Introduction to GIScience**<br>GIScience入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **The Practice of Statistics II**<br>统计实践 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |
 | **Environmental Issues in the Developing World**<br>发展中世界的环境问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1425) |

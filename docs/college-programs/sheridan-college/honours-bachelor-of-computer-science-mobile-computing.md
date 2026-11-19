@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Mobile Web Application Development**<br>移动Web应用开发 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing) |
 | **Data Structures and Algorithms**<br>数据结构与算法 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing) |
 | **Web Application Design and Implementation**<br>Web应用设计与实现 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing) |
-| **Introduction to Information Systems Security**<br>信息系统安全导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing) |
+| **Introduction to Information Systems Security**<br>信息系统安全入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing) |
 | **Professional Elective 2 (Level I)**<br>专业选修课 2（I级） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing) |
 | **Advanced Mobile Application Development**<br>高级移动应用开发 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing) |
 | **Operating Systems Analysis & Design**<br>操作系统分析与设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing) |

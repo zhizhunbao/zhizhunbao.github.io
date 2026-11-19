@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Office Administration - Executive**<br>办公室管理 - 行政 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Computer Keyboarding Skills I**<br>计算机键盘输入技能 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
-| **Introduction to Computers 1**<br>计算机导论 1 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
+| **Introduction to Computers 1**<br>计算机入门 1 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Word Core**<br>Word核心技能 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Excel - Core**<br>Excel - 核心 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Outlook**<br>Outlook | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
@@ -31,13 +31,13 @@ ms.date: 2026-11-08
 | **Word Expert**<br>Word高级技能 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Human Resource Management Principles**<br>人力资源管理原则 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
-| **Introduction to InterCultural Communication**<br>跨文化传播导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
+| **Introduction to InterCultural Communication**<br>跨文化传播入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
-| **Introduction to Business Management and Organizational Behaviour**<br>企业管理与组织行为导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
+| **Introduction to Business Management and Organizational Behaviour**<br>企业管理与组织行为入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Volunteer Management Foundations**<br>志愿者管理基础 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 | **Software Application Integration**<br>软件应用集成 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
-| **Introduction to Computers 2**<br>计算机导论 2 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
+| **Introduction to Computers 2**<br>计算机入门 2 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-executive/) |
 
 ## Courses
 

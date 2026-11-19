@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Entrepreneurship and Small Business – Business**<br>创业与小企业 - 商务 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-entrepreneurship-and-small-business) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-entrepreneurship-and-small-business) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-entrepreneurship-and-small-business) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-entrepreneurship-and-small-business) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-entrepreneurship-and-small-business) |
 | **Financial Planning**<br>财务规划 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-entrepreneurship-and-small-business) |
 | **Human Resource Management 1**<br>人力资源管理 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-entrepreneurship-and-small-business) |
 | **Marketing 1**<br>市场营销 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/business-entrepreneurship-and-small-business) |

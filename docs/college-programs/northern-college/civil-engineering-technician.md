@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/civil-engineering-technician/) |
 | **Health and Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/civil-engineering-technician/) |
 | **Computer Aided Drafting (CAD) I**<br>计算机辅助制图（CAD）I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/civil-engineering-technician/) |
-| **Introduction to Physics**<br>物理学导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/civil-engineering-technician/) |
+| **Introduction to Physics**<br>物理学入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/civil-engineering-technician/) |
 | **Mathematics I**<br>数学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/civil-engineering-technician/) |
 | **Surveying Principles I**<br>测量原理 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/civil-engineering-technician/) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/civil-engineering-technician/) |

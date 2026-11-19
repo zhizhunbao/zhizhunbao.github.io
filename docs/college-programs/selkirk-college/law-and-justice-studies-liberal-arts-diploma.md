@@ -12,21 +12,21 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Law and Justice Studies - Liberal Arts Diploma**<br>法律与司法研究人文学科文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **College Composition**<br>大学写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
-| **Introduction to Peace Studies I**<br>和平研究导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
-| **Introduction to Sociology l**<br>社会学导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
+| **Introduction to Peace Studies I**<br>和平研究入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
+| **Introduction to Sociology l**<br>社会学入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **Rural Legal Issues I**<br>乡村法律问题 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **Rural Legal Issues II**<br>乡村法律问题 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **Peace Studies II**<br>和平研究 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
-| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
-| **Introduction to Sociology ll**<br>社会学导论 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
+| **Introduction to Logic and Critical Thinking**<br>逻辑与批判性思维入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
+| **Introduction to Sociology ll**<br>社会学入门 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **Commercial Law**<br>商法 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **From Water to Chocolate: Environment, Conflict and Justice**<br>从水到巧克力：环境、冲突与正义 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **Deviance and Social Control**<br>越轨与社会控制 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **Ethnic Relations**<br>族群关系 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
-| **Introduction to Restorative Justice: Theory and Practice**<br>恢复性司法导论：理论与实践 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
-| **Introduction to Social Research**<br>社会研究导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
+| **Introduction to Restorative Justice: Theory and Practice**<br>恢复性司法入门：理论与实践 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
+| **Introduction to Social Research**<br>社会研究入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 | **Rural Legal Issues III**<br>乡村法律问题 III | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/law-and-justice-studies-liberal-arts-diploma) |
 
 ## Courses

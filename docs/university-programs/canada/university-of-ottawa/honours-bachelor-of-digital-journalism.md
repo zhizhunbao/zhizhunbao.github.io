@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Digital Journalism**<br>数字新闻荣誉学士 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
-| **Introduction to Media Studies**<br>媒体研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
+| **Introduction to Media Studies**<br>媒体研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **History of Journalism**<br>新闻史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Research Methods in Communication**<br>传播学研究方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **New Media**<br>新媒体 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
@@ -27,8 +27,8 @@ ms.date: 2026-11-11
 | **Sociology of Journalism : From Production to Reception**<br>新闻社会学：从生产到接受 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Media Ethics**<br>媒体伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Journalism Ethics**<br>新闻伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **The Politics of Literature**<br>文学政治 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Literature and the Sciences**<br>文学与科学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Narrative Genres: Theories and Approaches**<br>叙事体裁：理论与方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
@@ -41,15 +41,15 @@ ms.date: 2026-11-11
 | **The Twentieth-Century World from 1945**<br>1945 年以来的二十世纪世界 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **What Is Europe? (16th-21th Century)**<br>什么是欧洲？（16-21 世纪） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **The United States from 1945 to the Present**<br>1945 年至今的美国 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
-| **Introduction to Political Science**<br>政治学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
-| **Introduction to Canadian Politics**<br>加拿大政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
-| **Introduction to International Relations and Global Politics**<br>国际关系与全球政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
-| **Introduction to Political Thought**<br>政治思想导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
+| **Introduction to Political Science**<br>政治学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
+| **Introduction to Canadian Politics**<br>加拿大政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
+| **Introduction to International Relations and Global Politics**<br>国际关系与全球政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
+| **Introduction to Political Thought**<br>政治思想入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Gender and Politics**<br>性别与政治 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Principles of Sociology**<br>社会学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Socio-anthropology of the Family**<br>家庭社会人类学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Gender and Society**<br>性别与社会 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
-| **Introduction to Deviance and Social Problems**<br>越轨与社会问题导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
+| **Introduction to Deviance and Social Problems**<br>越轨与社会问题入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Canadian Society**<br>加拿大社会 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 | **Political Sociology**<br>政治社会学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-digital-journalism/) |
 

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Food Science (Certificate)**<br>食品科学（证书） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-certificate/) |
-| **Introduction to Food Science.**<br>食品科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-certificate/) |
+| **Introduction to Food Science.**<br>食品科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-certificate/) |
 | **Professional Practice.**<br>专业实践 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-certificate/) |
 | **Elements of Food Engineering.**<br>食品工程要素 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-certificate/) |
 | **Food Safety Engineering.**<br>食品安全工程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-certificate/) |

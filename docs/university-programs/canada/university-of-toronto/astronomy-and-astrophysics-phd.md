@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Astronomy and Astrophysics PhD**<br>天文学与天体物理学（PhD） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
 | **Research**<br>研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
 | **Directed Research**<br>指导研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics) |
 
 ## Courses
 

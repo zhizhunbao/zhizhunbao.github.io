@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Data Literacy Workshop**<br>数据素养工作坊 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/bachelor-of-business-administration) |
 | **CSR and Ethics**<br>CSR与伦理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/bachelor-of-business-administration) |
 | **Intro to Business Analytics**<br>商业分析入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/bachelor-of-business-administration) |
-| **Introduction to Finance**<br>金融导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/bachelor-of-business-administration) |
+| **Introduction to Finance**<br>金融入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/bachelor-of-business-administration) |
 | **Managing Human Resources**<br>人力资源管理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/bachelor-of-business-administration) |
 | **Logistics and Operations**<br>物流与运营 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/bachelor-of-business-administration) |
 | **One Degree Breadth Elective Course.**<br>一门学位广度选修课 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/bachelor-of-business-administration) |

@@ -24,8 +24,8 @@ ms.date: 2026-11-08
 | **Paramedic Practicum (Hospital)**<br>急救医护实习（医院） | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Advanced Practice (Ambulance)**<br>高级实践（救护车） | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Psychology for the Health Care Professional**<br>医疗专业人员心理学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
-| **An Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
+| **An Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 
 ## Courses
 

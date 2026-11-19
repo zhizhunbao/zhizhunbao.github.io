@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Spanish American Culture**<br>西属美洲文化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-spanish/) |
 | **Spain in its literature, (20th-21st centuries)**<br>西班牙文学中的西班牙（20-21 世纪） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-spanish/) |
 | **Latin America in its literature, 20th-21st centuries**<br>20 至 21 世纪文学中的拉丁美洲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-spanish/) |
-| **Introduction to Hispanic Linguistics**<br>西语语言学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-spanish/) |
+| **Introduction to Hispanic Linguistics**<br>西语语言学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-spanish/) |
 | **Contrastive Grammar: Spanish and English**<br>对比语法：西班牙语与英语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-spanish/) |
 | **The Acquisition of Spanish**<br>西班牙语习得 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-spanish/) |
 | **Spanish discourse and pragmatics**<br>西班牙语话语与语用学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-spanish/) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Specimen Collection and Handling**<br>标本采集与处理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-technology) |
 | **Laboratory Tools, Equipment, Safety and Management**<br>实验室工具、设备、安全与管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-technology) |
 | **Clinical Chemistry**<br>临床化学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-technology) |
-| **Introduction to Medical Laboratory Sciences**<br>医学检验科学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-technology) |
+| **Introduction to Medical Laboratory Sciences**<br>医学检验科学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-technology) |
 | **Anatomy and Physiology 2**<br>解剖与生理学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-technology) |
 | **Clinical Microbiology**<br>临床微生物学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-technology) |
 | **Histotechnology**<br>组织技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/medical-laboratory-technology) |

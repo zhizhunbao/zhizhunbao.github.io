@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Operations & Supply Chain Management**<br>运营与供应链管理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/global-online-mba/) |
 | **Individual Project**<br>个人项目 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/global-online-mba/) |
 | **Negotiations & Conflict Mgmt**<br>谈判与冲突管理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/global-online-mba/) |
-| **Introduction to Digital Business**<br>数字商业导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/global-online-mba/) |
+| **Introduction to Digital Business**<br>数字商业入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/global-online-mba/) |
 | **Business, Government & the Global Economy**<br>商业、政府与全球经济 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/global-online-mba/) |
 
 ## Courses

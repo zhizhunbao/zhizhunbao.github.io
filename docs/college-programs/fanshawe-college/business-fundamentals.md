@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Mathematics Fundamentals**<br>数学基础 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3627/courses-next/) |
 | **Reason & Writing Business 1**<br>商务推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3627/courses-next/) |
 | **Principles of Accounting 1**<br>会计原理 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3627/courses-next/) |
-| **Introduction to Business Processes**<br>业务流程导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3627/courses-next/) |
+| **Introduction to Business Processes**<br>业务流程入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3627/courses-next/) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3627/courses-next/) |
 | **Principles of Marketing 1**<br>营销原理 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3627/courses-next/) |
 | **Written Communication for Business**<br>商务书面沟通 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3627/courses-next/) |

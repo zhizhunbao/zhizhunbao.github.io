@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **ENERGY SYSTEMS ENGINEERING**<br>能源系统工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Economic Analysis and Decision Making**<br>经济分析与决策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
-| **Introduction to Energy Systems**<br>能源系统导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
+| **Introduction to Energy Systems**<br>能源系统入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Matrix Algebra and Optimization**<br>矩阵代数与优化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Engineering Science Option Seminar**<br>工程科学方向研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Mechanical and Thermal Energy Conversion Processes**<br>机械与热能转换过程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
@@ -22,14 +22,14 @@ ms.date: 2026-11-11
 | **Energy Policy**<br>能源政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Fuel Cells and Electrochemical Conversion Devices**<br>燃料电池与电化学转换装置 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Energy Systems and Distributed Generation**<br>能源系统与分布式发电 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
-| **Introduction to Control Theory**<br>控制理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
+| **Introduction to Control Theory**<br>控制理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Electric Drives**<br>电力传动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Design and Optimization of Hydro and Wind Electric Plants**<br>水电与风电厂的设计与优化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Energy Systems Capstone Design**<br>能源系统毕业设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Sustainable Energy Systems**<br>可持续能源系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
-| **Introduction to Fusion Energy**<br>聚变能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
-| **\*Introduction to Electric Vehicle Design**<br>电动汽车设计导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
+| **Introduction to Fusion Energy**<br>聚变能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
+| **\*Introduction to Electric Vehicle Design**<br>电动汽车设计入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Petroleum Processing**<br>石油加工 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Aqueous Process Engineering**<br>水相过程工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |
 | **Studies in Building Science**<br>建筑科学研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasej) |

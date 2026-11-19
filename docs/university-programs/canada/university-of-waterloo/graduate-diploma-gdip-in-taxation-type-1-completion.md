@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Graduate Diploma (GDip) in Taxation (Type 1/Completion)**<br>税务研究生文凭（GDip）（类型 1/完成） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/S17Yg1ACi3) |
 | **Tax Research and Statutory Interpretation**<br>税务研究与成文法解释 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/S17Yg1ACi3) |
 | **Taxation of Corporations**<br>公司税 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/S17Yg1ACi3) |
-| **Introduction to Business Structuring**<br>企业结构设计导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/S17Yg1ACi3) |
+| **Introduction to Business Structuring**<br>企业结构设计入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/S17Yg1ACi3) |
 | **Tax Policy**<br>税收政策 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/S17Yg1ACi3) |
 
 ## Courses

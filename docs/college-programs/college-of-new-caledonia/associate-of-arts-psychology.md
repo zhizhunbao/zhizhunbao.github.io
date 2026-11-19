@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Associate of Arts Psychology**<br>文科副学士，心理学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
 | **Statistics for Social Sciences**<br>社会科学统计学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
 | **Research Methods in Psychology**<br>心理学研究方法 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
-| **Intro Psychological Disorders**<br>心理障碍导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
+| **Intro Psychological Disorders**<br>心理障碍入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
 | **Biological Psychology**<br>生物心理学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
-| **Intro to Cognitive Psychology**<br>认知心理学导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
+| **Intro to Cognitive Psychology**<br>认知心理学入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-arts-psychology) |
 
 ## Courses
 

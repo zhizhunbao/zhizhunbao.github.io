@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **GAS Fundamentals**<br>气体基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **First Nations, Metis, and Inuit Perspectives**<br>原住民、梅蒂人和因纽特人视角 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
-| **Introduction to Critical Thinking**<br>批判性思维导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
+| **Introduction to Critical Thinking**<br>批判性思维入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Belonging: Equity and Inclusion in a Diverse World**<br>归属感：多元世界中的公平与包容 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Inquiry**<br>探究 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Environmental Sustainability**<br>环境可持续性 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Indigenous Wholistic Practices**<br>原住民整体实践 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **G.A.S. Option 1 (for exemption only)**<br>G.A.S. 选项 1 (仅用于豁免) | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **G.A.S. Option 2 (for exemption only)**<br>G.A.S. 选项 2 (仅用于豁免) | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Impacts of the Truth and Reconciliation Commission**<br>真相与和解委员会的影响 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Your Voice Matters: Power & Influence in Canadian Democracy**<br>你的声音很重要：加拿大民主中的权力与影响力 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Society, Technology And Social Issues**<br>社会、技术与社会问题 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
@@ -35,8 +35,8 @@ ms.date: 2026-11-08
 | **G.A.S. Option 3 (for exemption only)**<br>G.A.S. 选项 3 (仅用于豁免) | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **G.A.S. Option 4 (for exemption only)**<br>G.A.S. 选项 4 (仅用于豁免) | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Positive Psychology**<br>积极心理学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
-| **Introduction To Applied Research**<br>应用研究导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
-| **Introduction to Philosophy**<br>哲学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
+| **Introduction To Applied Research**<br>应用研究入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
+| **Introduction to Philosophy**<br>哲学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Contemporary Ethical Issues**<br>当代伦理议题 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Art and Activism: Community and Civic Engaged Arts**<br>艺术与行动主义：社区与公民参与艺术 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |
 | **Indigenous Family Structures and Child Welfare**<br>原住民家庭结构与儿童福利 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=208&prg_ver=26-A) |

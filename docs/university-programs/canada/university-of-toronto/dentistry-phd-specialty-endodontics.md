@@ -12,8 +12,8 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Dentistry PhD; Specialty: Endodontics**<br>牙医学（PhD）；专科：牙髓病学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Research Ethics**<br>研究伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Biostatistics**<br>生物统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Research Methods & Dissemination**<br>研究方法与成果传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Biostatistics**<br>生物统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Research Methods & Dissemination**<br>研究方法与成果传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Graduate Research Dissemination Seminars**<br>研究生研究成果传播研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Cone Beam CT Imaging**<br>锥形束CT成像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Oral Pathology**<br>口腔病理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Advances in Dental Materials Science**<br>牙科材料科学进展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Inhalation and Oral Minimal and Moderate Sedation for Dental Procedures**<br>牙科操作的吸入与口服轻中度镇静 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Head and Neck Anatomy**<br>头颈部解剖学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Graduate Endodontics**<br>研究生牙髓病学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Graduate Endodontics**<br>研究生牙髓病学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Graduate Endodontics Case Presentation I**<br>研究生牙髓病学病例报告 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Graduate Endodontics Topical Literature 1**<br>研究生牙髓病学专题文献 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Endodontics Current Literature Seminar 1**<br>牙髓病学最新文献研讨课 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |

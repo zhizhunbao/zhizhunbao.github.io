@@ -1,10 +1,10 @@
 ---
-title: "3.1.79 Master of Public Health – Quantitative Methods"
+title: "4.1.79 Master of Public Health – Quantitative Methods"
 description: "University Programs > United States > Harvard University > Master of Public Health – Quantitative Methods: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.79 Master of Public Health – Quantitative Methods
+# 4.1.79 Master of Public Health – Quantitative Methods
 
 ## Glossary
 
@@ -12,8 +12,8 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Master of Public Health – Quantitative Methods**<br>定量方法（公共卫生硕士） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |
 | **Foundations for Public Health**<br>公共卫生基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |
-| **Introduction to Statistical Methods**<br>统计方法导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |
-| **Introduction to Epidemiology: Methods I**<br>流行病学导论：方法 I | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |
+| **Introduction to Statistical Methods**<br>统计方法入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |
+| **Introduction to Epidemiology: Methods I**<br>流行病学入门：方法 I | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |
 | **Epidemiologic Methods II: Elements of Epidemiologic Research**<br>流行病学方法 II：流行病学研究要素 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |
 | **Qualitative Methods for Public Health**<br>公共卫生定性方法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |
 | **Leadership and Communication**<br>领导力与沟通 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-quantitative-methods/) |

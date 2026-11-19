@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Aviation Math and Physics**<br>航空数学与物理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/AIRMF-DP/PrinterFriendly#AMEG-1024) |
 | **Tools & Equipment**<br>工具与设备 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/AIRMF-DP/PrinterFriendly#AMEG-1030) |
 | **Hydraulic & Pneumatic Systems**<br>液压与气动系统 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/AIRMF-DP/PrinterFriendly#AMEG-1277) |
-| **Intro to CARs**<br>计算机辅助检测导论（CARs） | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/AIRMF-DP/PrinterFriendly#AVIA-1009) |
+| **Intro to CARs**<br>计算机辅助检测入门（CARs） | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/AIRMF-DP/PrinterFriendly#AVIA-1009) |
 | **Human Factors**<br>人为因素 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/AIRMF-DP/PrinterFriendly#AVIA-1058) |
 | **Drawing**<br>绘画 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/AIRMF-DP/PrinterFriendly#AVIA-1060) |
 | **Structures, Assembly and Rigging 1**<br>结构、装配与索具 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/AIRMF-DP/PrinterFriendly#AVIA-1082) |

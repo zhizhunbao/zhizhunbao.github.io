@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Techniques de travail social**<br>社会工作技术员 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
 | **Communication française professionnelle et scolaire**<br>法语专业与学术沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
 | **Stratégies pour réussir à son plein potentiel**<br>充分发挥潜能的策略 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
-| **Introduction au travail social**<br>社会工作导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
+| **Introduction au travail social**<br>社会工作入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
 | **Éthique**<br>伦理学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
-| **Introduction à la relation d'aide**<br>助人关系导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
+| **Introduction à la relation d'aide**<br>助人关系入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
 | **Ressources communautaires**<br>社区资源 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
 | **Politiques sociales**<br>社会政策 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |
 | **Oral Communication for Professional Environments**<br>职业环境口语沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-travail-social/) |

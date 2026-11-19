@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Advertising and Marketing Communications**<br>广告与营销传播 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/advertising-and-promotion) |
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/advertising-and-promotion) |
-| **Introduction to Advertising and Integrated Marketing Communications**<br>广告与整合营销传播导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/advertising-and-promotion) |
+| **Introduction to Advertising and Integrated Marketing Communications**<br>广告与整合营销传播入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/advertising-and-promotion) |
 | **Copywriting for Advertising**<br>广告文案写作 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/advertising-and-promotion) |
 | **Administrative Applications for Advertising**<br>广告行政应用 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/advertising-and-promotion) |
 | **Advertising Design Theory**<br>广告设计理论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/advertising-and-promotion) |

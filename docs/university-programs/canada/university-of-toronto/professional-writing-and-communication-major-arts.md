@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Creative Non-Fiction**<br>创意非虚构写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1302) |
 | **Specialized Prose**<br>专门散文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1302) |
 | **Research and Storytelling**<br>研究与讲故事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1302) |
-| **Introduction to Technical Communication**<br>技术传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1302) |
+| **Introduction to Technical Communication**<br>技术传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1302) |
 | **Alternative Media**<br>另类媒体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1302) |
 | **Documentary Practices**<br>纪录片实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1302) |
 

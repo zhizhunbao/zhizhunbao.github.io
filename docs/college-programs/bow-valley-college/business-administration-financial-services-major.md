@@ -11,21 +11,21 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Administration - Financial Services Major**<br>工商管理，金融服务专业方向 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
-| **Introduction to Organizations and Sustainability**<br>组织与可持续性导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
+| **Introduction to Organizations and Sustainability**<br>组织与可持续性入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Business Finance**<br>企业财务 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Financial Markets & Products**<br>金融市场与产品 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Personal Financial Planning I**<br>个人财务规划 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Selling and the Customer Experience**<br>销售与客户体验 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
-| **Introduction to Insurance and Risk Management**<br>保险与风险管理导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
+| **Introduction to Insurance and Risk Management**<br>保险与风险管理入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Personal and Corporate Taxation**<br>个人与企业税务 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Introductory Statistics for Business Disciplines**<br>商科统计学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |
 | **Investment Funds in Canada**<br>加拿大投资基金 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/business-administration-financial-services) |

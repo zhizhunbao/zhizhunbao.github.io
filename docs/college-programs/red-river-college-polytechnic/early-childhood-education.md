@@ -14,10 +14,10 @@ ms.date: 2026-11-08
 | **Communication Strategies**<br>沟通策略 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#COMM-1173) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#COMM-1174) |
 | **Guiding 1**<br>向导 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-1085) |
-| **Introduction to Play, Environments and Curriculum**<br>游戏、环境与课程导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-1086) |
+| **Introduction to Play, Environments and Curriculum**<br>游戏、环境与课程入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-1086) |
 | **Child Development 1**<br>儿童发展 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-1087) |
 | **Explore the Early Childhood Education Profession**<br>探索幼儿教育职业 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-1088) |
-| **Introduction to Science of Early Child Development**<br>儿童早期发展科学导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-1089) |
+| **Introduction to Science of Early Child Development**<br>儿童早期发展科学入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-1089) |
 | **Health and Well Being**<br>健康与福祉 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-1090) |
 | **Curriculum Planning 1**<br>课程规划 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-2012) |
 | **Guiding 2**<br>向导 2 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/EARLF-DP/PrinterFriendly#ECED-2085) |

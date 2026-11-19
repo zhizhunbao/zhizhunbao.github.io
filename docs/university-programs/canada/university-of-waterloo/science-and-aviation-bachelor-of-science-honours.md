@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Science and Aviation (Bachelor of Science - Honours)**<br>理学与航空（理学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
-| **Introduction to Aviation**<br>航空导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
+| **Introduction to Aviation**<br>航空入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Professional Pilot Program Course 1**<br>职业飞行员课程 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Preparatory Ground Instruction 1**<br>飞行地面预备教学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Preparatory Ground Instruction 2**<br>飞行地面预备教学 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
@@ -34,12 +34,12 @@ ms.date: 2026-11-11
 | **Introductory Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Introductory Vertebrate Zoology**<br>脊椎动物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
-| **Introduction to Plant Structure and Function**<br>植物结构与功能导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
+| **Introduction to Plant Structure and Function**<br>植物结构与功能入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Fundamentals of Microbiology**<br>微生物学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
-| **Introduction to Applied Microbiology**<br>应用微生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
+| **Introduction to Applied Microbiology**<br>应用微生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Fundamentals of Ecology**<br>生态学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
-| **Introduction to Computational Biology**<br>计算生物学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
+| **Introduction to Computational Biology**<br>计算生物学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Principles of Human Physiology 1**<br>人体生理学原理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **General Chemistry 1**<br>普通化学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **General Chemistry Laboratory 1**<br>普通化学实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
@@ -59,7 +59,7 @@ ms.date: 2026-11-11
 | **Waves, Electricity and Magnetism Laboratory**<br>波、电与磁实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Communication in the Sciences**<br>科学中的沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Earth from Space Using Remote Sensing**<br>利用遥感从太空观察地球 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
-| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
+| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 | **Introductory Algebra for Arts and Social Science**<br>文科与社会科学入门代数 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJflxJ00s3) |
 
 ## Courses

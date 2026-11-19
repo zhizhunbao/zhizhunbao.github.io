@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science - Nursing (Honours) - BScN**<br>理学学士：护理（荣誉）：BScN | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
-| **Introduction to Nursing**<br>护理学导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
+| **Introduction to Nursing**<br>护理学入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
 | **Fundamentals of Psychology**<br>心理学基础 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
 | **Fundamentals of Writing and Evidence**<br>写作与论据基础 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
 | **Human Anatomy And Physiology A**<br>人体解剖与生理学 A | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
 | **Nursing Fundamentals And Clinical Practice**<br>护理基础与临床实践 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
 | **Primary Healthcare Across the Lifespan**<br>全生命周期基层医疗 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
 | **Professional Communication and Self-Awareness**<br>职业沟通与自我认知 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
 | **Health Assessment and Clinical Practice**<br>健康评估与临床实践 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |
 | **Human Anatomy and Physiology B**<br>人体解剖与生理学 B | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/bachelor-of-science-in-nursing/full-time/brockville) |

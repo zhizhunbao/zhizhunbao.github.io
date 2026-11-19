@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Artist Diploma - Piano**<br>艺术家文凭－钢琴 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
-| **Introduction to Music & Society**<br>音乐与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
+| **Introduction to Music & Society**<br>音乐与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
 | **Historical Survey I**<br>历史概览 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
 | **Historical Survey II**<br>历史概览 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
 | **Lives in Music**<br>音乐中的生命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Keyboard Harmony**<br>键盘和声 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
 | **PMU305Y1 – Instrumental Performance Class**<br>PMU305Y1：器乐表演课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
 | **Sight Reading**<br>视唱 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
-| **Introduction to Piano Teaching Methods**<br>钢琴教学法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
+| **Introduction to Piano Teaching Methods**<br>钢琴教学法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
 | **Piano-Instrumental Master Class**<br>钢琴与乐器大师班 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
 | **Piano-Vocal Master Class**<br>钢琴与声乐大师班 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |
 | **Piano Literature I & II**<br>钢琴文献 I 和 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Artist-Diploma#Artist-Diploma-Piano) |

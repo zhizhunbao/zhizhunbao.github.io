@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN DEVELOPMENTAL COGNITIVE NEUROSCIENCE - BSc**<br>发展认知神经科学荣誉专业方向－BSc | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PSYCHOLOGY**<br>心理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PSYCHOLOGY**<br>心理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY AS A NATURAL SCIENCE**<br>作为自然科学的心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY AS A SOCIAL SCIENCE**<br>作为社会科学的心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **DATA SCIENCE CONCEPTS**<br>数据科学概念 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **METHODS OF FINITE MATHEMATICS**<br>有限数学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS**<br>统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS**<br>统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE I**<br>理科生物学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE II**<br>理科生物学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL STRUCTURE**<br>探索化学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
@@ -32,12 +32,12 @@ ms.date: 2026-11-11
 | **COMPUTER SCIENCE FUNDAMENTALS I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SCIENCE FUNDAMENTALS II**<br>计算机科学基础 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BEHAVIOURAL AND COGNITIVE NEUROSCIENCE**<br>行为与认知神经科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIOLOGICAL BASIS OF BEHAVIOUR**<br>行为的生物学基础导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BEHAVIOURAL AND COGNITIVE NEUROSCIENCE**<br>行为与认知神经科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIOLOGICAL BASIS OF BEHAVIOUR**<br>行为的生物学基础入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **CHILD DEVELOPMENT**<br>儿童发展 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DEVELOPMENTAL PSYCHOLOGY**<br>发展心理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DEVELOPMENTAL PSYCHOLOGY**<br>发展心理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN PSYCHOLOGY I**<br>心理学研究方法 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN PSYCHOLOGY II**<br>心理学研究方法 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR PSYCHOLOGY I**<br>心理学统计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
@@ -55,10 +55,10 @@ ms.date: 2026-11-11
 | **PSYCHOLOGICAL STATISTICS USING COMPUTERS**<br>计算机心理统计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **HONOURS THESIS**<br>荣誉论文 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **HONOURS THESIS (DEVELOPMENTAL COGNITIVE NEUROSCIENCE): META-ANALYSIS**<br>荣誉论文（发展认知神经科学）：元分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SENSATION AND PERCEPTION**<br>感觉与知觉导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SENSATION AND PERCEPTION**<br>感觉与知觉入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY OF LANGUAGE**<br>语言心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **COGNITIVE PSYCHOLOGY**<br>认知心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ANIMAL COGNITION**<br>动物认知导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ANIMAL COGNITION**<br>动物认知入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY OF THINKING**<br>思维心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN MEMORY**<br>人类记忆 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |
 | **COGNITIVE SCIENCE**<br>认知科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21598&SelectedCalendar=Live&ArchiveID=) |

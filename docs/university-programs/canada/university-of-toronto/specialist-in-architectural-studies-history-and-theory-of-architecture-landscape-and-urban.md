@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Close Readings in Urban Design**<br>城市设计精读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1002) |
 | **Modeling and Fabrication in Design**<br>设计中的建模与制造 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1002) |
 | **Structures, Building Systems, and Environments I**<br>结构、建筑系统与环境 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1002) |
-| **Introduction to Critical Theory**<br>批判理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1002) |
+| **Introduction to Critical Theory**<br>批判理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1002) |
 | **Global Modernisms**<br>全球现代主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1002) |
 | **History of Architectural Knowledge**<br>建筑知识史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1002) |
 | **Architecture and Media**<br>建筑与媒体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1002) |

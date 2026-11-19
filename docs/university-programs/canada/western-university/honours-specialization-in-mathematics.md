@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **COMPLEX VARIABLES WITH APPLICATIONS**<br>复变函数及应用 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 | **PARTIAL DIFFERENTIAL EQUATIONS I**<br>偏微分方程 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICAL STRUCTURES II**<br>数学结构 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ABSTRACT ALGEBRA**<br>抽象代数导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ABSTRACT ALGEBRA**<br>抽象代数入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 | **REAL ANALYSIS II**<br>实分析 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 | **TOPOLOGY**<br>拓扑学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 | **PROBABILITY AND STATISTICS I**<br>概率与统计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **LINEAR ALGEBRA II**<br>线性代数 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 | **REAL ANALYSIS I**<br>实分析 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 | **COMPLEX ANALYSIS I**<br>复分析 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MATHEMATICAL PROBLEMS**<br>数学问题导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MATHEMATICAL PROBLEMS**<br>数学问题入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 | **PROBABILITY AND STATISTICS II**<br>概率与统计 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21060&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses

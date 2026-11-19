@@ -13,15 +13,15 @@ ms.date: 2026-11-11
 | **HONOURS SPECIALIZATION IN MUSIC**<br>音乐荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **STUDIES IN THEORY I**<br>理论研究 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **STUDIES IN THEORY II**<br>理论研究 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
-| **MUSIC HISTORY: INTRODUCTION**<br>音乐史：导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
+| **MUSIC HISTORY: INTRODUCTION**<br>音乐史：入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **MUSIC HISTORY: C.900 TO C.1750**<br>音乐史：约 900 年至约 1750 年 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **STUDIES IN THEORY III**<br>理论研究 III | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **MUSIC ACROSS CULTURES**<br>跨文化音乐 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **MUSIC HISTORY: C. 1750 TO PRESENT**<br>音乐史：约 1750 年至今 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **POST WORLD WAR II POPULAR MUSIC**<br>第二次世界大战（WWII）后的流行音乐 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **MUSICAL THEATRE**<br>音乐剧 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO JAZZ**<br>爵士乐导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HIP HOP**<br>嘻哈导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO JAZZ**<br>爵士乐入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HIP HOP**<br>嘻哈入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **MUSIC AND GAMING**<br>音乐与游戏 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **SPECIAL TOPICS IN MUSIC HISTORY**<br>音乐史专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |
 | **DRUMMING ACROSS CULTURES**<br>跨文化击鼓 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20772&SelectedCalendar=Live&ArchiveID=) |

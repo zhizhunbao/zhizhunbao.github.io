@@ -14,10 +14,10 @@ ms.date: 2026-11-08
 | **Laboratory Procedures I**<br>实验室操作 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
 | **Veterinary Practice Management**<br>兽医诊所管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
 | **Animal Anatomy And Physiology I**<br>动物解剖学与生理学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
-| **Introduction To Veterinary Technology**<br>兽医技术导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
+| **Introduction To Veterinary Technology**<br>兽医技术入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
 | **Veterinary Clinical Calculations**<br>兽医临床计算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
-| **Introduction To Veterinary Radiography**<br>兽医放射学导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
+| **Introduction To Veterinary Radiography**<br>兽医放射学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
 | **Clinical Principles I**<br>临床原理 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
 | **Animal Anatomy & Physiology II**<br>动物解剖学与生理学 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |
 | **Laboratory Procedures II**<br>实验室操作 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/veterinary-technician) |

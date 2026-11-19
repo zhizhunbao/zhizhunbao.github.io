@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Industrial Mechanics Applied Certificate - Nipawin**<br>工业机械应用证书 - Nipawin | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/industrial-mechanics) |
 | **Drafting and Blueprint Reading**<br>制图与图纸识读 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/industrial-mechanics) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/industrial-mechanics) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/industrial-mechanics) |
 | **Trade Math**<br>行业数学 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/industrial-mechanics) |
 | **Metallurgy**<br>冶金学 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/industrial-mechanics) |
 | **Rigging**<br>索具 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/industrial-mechanics) |

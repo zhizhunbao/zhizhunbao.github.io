@@ -1,10 +1,10 @@
 ---
-title: "3.3.106 Environmental Social Sciences, Master of Arts"
+title: "4.3.106 Environmental Social Sciences, Master of Arts"
 description: "University Programs > United States > Stanford University > Environmental Social Sciences, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.106 Environmental Social Sciences, Master of Arts
+# 4.3.106 Environmental Social Sciences, Master of Arts
 
 ## Glossary
 
@@ -28,7 +28,7 @@ ms.date: 2026-11-18
 | **Agent-based modeling**<br>基于智能体的建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Intermediate Econometrics I**<br>中级计量经济学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Intermediate Econometrics II**<br>中级计量经济学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
-| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
+| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Outcomes Analysis**<br>结果分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Political Methodology I: Regression**<br>政治方法论 I：回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Political Methodology II: Causal Inference**<br>政治方法论 II：因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
@@ -60,7 +60,7 @@ ms.date: 2026-11-18
 | **Intermediate Biostatistics: Analysis of Discrete Data**<br>中级生物统计学：离散数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Big Data Methods for Behavioral, Social, and Population Health Research**<br>行为、社会与人群健康研究的大数据方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Efficient Generative Models**<br>高效生成模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Practical Applications for Qualitative Data Analysis**<br>质性数据分析的实际应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |
 | **Experimental Methods**<br>实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/environmental-social-sciences/master-of-arts) |

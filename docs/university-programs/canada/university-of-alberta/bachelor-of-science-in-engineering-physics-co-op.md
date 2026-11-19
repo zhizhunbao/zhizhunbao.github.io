@@ -21,10 +21,10 @@ ms.date: 2026-11-11
 | **Electrical Circuits II**<br>电路 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Programming and Numerical Analysis for Electrical Engineering**<br>电气工程的编程与数值分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Continuous Time Signals and Systems**<br>连续时间信号与系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Modern Physics**<br>近代物理学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Modern Physics**<br>近代物理学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Engineering Work Experience I**<br>工程工作经历 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Digital Logic Design**<br>数字逻辑设计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Digital Logic Design**<br>数字逻辑设计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Electronic Devices**<br>电子器件 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Microfabrication and Devices**<br>微加工与器件 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Photonics I**<br>光子学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **Engineering Work Experience IV**<br>工程工作经历 IV | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Analog Electronics**<br>模拟电子学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Analytical Methods in Electrical Engineering**<br>电气工程分析方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Nanoelectronics and Quantum Mechanics for Electrical Engineers**<br>电气工程师的纳米电子学与量子力学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Nanoelectronics and Quantum Mechanics for Electrical Engineers**<br>电气工程师的纳米电子学与量子力学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Engineering Safety and Risk Management-Leadership in Risk Management**<br>工程安全与风险管理：风险管理领导力 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Statistical Physics**<br>统计物理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Quantum Mechanics A**<br>量子力学 A | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
@@ -43,18 +43,18 @@ ms.date: 2026-11-11
 | **Computation Methods for Modelling and Simulation in Electrical Engineering**<br>电气工程建模与仿真的计算方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Microwave and Millimetre-Wave Circuits**<br>微波与毫米波电路 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Engineering Physics Design Project I**<br>工程物理设计项目 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Condensed Matter Physics**<br>凝聚态物理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Condensed Matter Physics**<br>凝聚态物理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Control Systems I**<br>控制系统 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Engineering Physics Design Project II**<br>工程物理设计项目 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **The Practice of the Engineering Profession**<br>工程职业实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Engineering Economy**<br>工程经济 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Financial Management for Engineers**<br>工程师的财务管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Microprocessors**<br>微处理器导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Communication Systems**<br>通信系统导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Microprocessors**<br>微处理器入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Communication Systems**<br>通信系统入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Data Analysis and Machine Learning for Engineers**<br>工程师的数据分析与机器学习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Nanoscale Phenomena in Electronic Devices**<br>电子器件中的纳米尺度现象 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Engineering of Nanobiotechnological Systems**<br>纳米生物技术系统工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Microelectromechanical Systems**<br>微机电系统导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Microelectromechanical Systems**<br>微机电系统入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Photonics II**<br>光子学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Optoelectronic and Photovoltaic Devices**<br>光电与光伏器件 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Waveguides and Antennas**<br>波导与天线 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-11
 | **Fundamentals of Magnetic Resonance Imaging, MRI**<br>磁共振成像（MRI）基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Digital Electronics**<br>数字电子学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Power Engineering**<br>电力工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Power Engineering**<br>电力工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Electric Machines**<br>电机 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Discrete Time Signals and Systems**<br>离散时间信号与系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Power Electronics**<br>电力电子 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
@@ -76,7 +76,7 @@ ms.date: 2026-11-11
 | **Intelligent Systems Engineering**<br>智能系统工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Control Systems II**<br>控制系统 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Medical Robotics and Computer-Integrated Intervention**<br>医疗机器人与计算机集成介入 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
-| **Introduction to Plasma Engineering**<br>等离子体工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
+| **Introduction to Plasma Engineering**<br>等离子体工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Digital Communications**<br>数字通信 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Wireless Communications**<br>无线通信 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |
 | **Nanostructured Materials**<br>纳米结构材料 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110575&returnto=20848) |

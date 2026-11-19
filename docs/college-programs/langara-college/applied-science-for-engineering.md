@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Applied Science for Engineering**<br>工程应用科学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |
 | **Engineering Design and Drafting**<br>工程设计与制图 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |
 | **Control Systems and Sustainable Engineering Design**<br>控制系统与可持续工程设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |
 | **Precalculus Mathematics**<br>预备微积分数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |
 | **Introductory Physics**<br>物理入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |
 | **Physics I with Calculus**<br>微积分物理 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-science-engineering-diploma/courses) |

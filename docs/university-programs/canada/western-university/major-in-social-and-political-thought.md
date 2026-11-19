@@ -13,14 +13,14 @@ ms.date: 2026-11-11
 | **MAJOR IN SOCIAL AND POLITICAL THOUGHT**<br>社会与政治思想主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **POWER, SOCIAL POLITICS, AND CULTURE**<br>权力、社会政治与文化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **MODERN AND CONTEMPORARY PHILOSOPHY**<br>现代与当代哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIAL AND POLITICAL THOUGHT**<br>社会与政治思想导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICAL THEORY**<br>政治理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIAL AND POLITICAL THOUGHT**<br>社会与政治思想入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICAL THEORY**<br>政治理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **SURVEY OF SOCIOLOGICAL THEORY**<br>社会学理论概览 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS OF SOCIAL THEORY**<br>社会理论基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **SURVEY OF CONTEMPORARY THEORY**<br>当代理论概览 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIAL NETWORK OF POWER AND PRIVILEGE**<br>权力与特权的社会网络 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF LAW**<br>法哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO INDIGENOUS PHILOSOPHY AND RELIGION**<br>原住民哲学与宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO INDIGENOUS PHILOSOPHY AND RELIGION**<br>原住民哲学与宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF THE EARTH**<br>地球哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **CYBERETHICS IN CYBERSPACE**<br>网络空间中的网络伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **CANADIAN JUDICIAL THINKING**<br>加拿大司法思想 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-11
 | **RELIGION AND CONFLICT RESOLUTION**<br>宗教与冲突解决 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **AUGUSTINE**<br>奥古斯丁 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED SEMINAR ON PLATO**<br>柏拉图高级研讨课 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LOGIC**<br>逻辑学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LOGIC**<br>逻辑学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21228&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

@@ -23,8 +23,8 @@ ms.date: 2026-11-11
 | **The Making of the Atlantic World (1000-1800)**<br>大西洋世界的形成（1000-1800） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **The History of Capitalism**<br>资本主义史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Comparative Genocide**<br>比较种族灭绝 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to Latin American History**<br>拉丁美洲史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to African History**<br>非洲史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to Latin American History**<br>拉丁美洲史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to African History**<br>非洲史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **North Africa and Western Asia Before World War I**<br>第一次世界大战（WWI）前的北非与西亚 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **1898: Empires and Conflict in Global History**<br>1898年：全球史中的帝国与冲突 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **The Rwandan Genocide: History, Violence, and Identity**<br>卢旺达种族灭绝：历史、暴力与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
@@ -39,10 +39,10 @@ ms.date: 2026-11-11
 | **Religion and Society in Latin America**<br>拉丁美洲的宗教与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Advanced Topics in the History of the Americas**<br>美洲史高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Worlds Colliding: The History and Ecology of Exploration, Contact, and Exchange**<br>世界碰撞：探索、接触与交流的历史与生态 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to Middle Eastern History**<br>中东史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to Middle Eastern History**<br>中东史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **History of the Ottoman Empire, 1299-1923**<br>奥斯曼帝国史，1299-1923 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to South Asian History**<br>南亚史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to East Asian History**<br>东亚史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to South Asian History**<br>南亚史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to East Asian History**<br>东亚史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **War and Memory in Modern East Asia**<br>现代东亚的战争与记忆 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **East Asian Cities**<br>东亚城市 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Nations, Borders and Citizenship in South Asia**<br>南亚的民族、边界与公民身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
@@ -59,8 +59,8 @@ ms.date: 2026-11-11
 | **Partition and its Aftermath in South Asia**<br>南亚的分治及其后果 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Colonialism in East Asia**<br>东亚的殖民主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Religion and Public Culture in South Asian History**<br>南亚历史中的宗教与公共文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to Histories of Extraction and the Environment**<br>采掘与环境的历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to Canadian History**<br>加拿大史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to Histories of Extraction and the Environment**<br>采掘与环境的历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to Canadian History**<br>加拿大史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **What is Canada?**<br>什么是加拿大？ | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **US History, Colonial Era to 1877**<br>美国史，殖民时代至1877年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **US History, 1877-present**<br>美国史，1877年至今 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
@@ -84,8 +84,8 @@ ms.date: 2026-11-11
 | **Indigenous North America**<br>原住民的北美 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Cold War America**<br>冷战时期的美国 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Themes in Medieval History**<br>中世纪史主题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to European History 1300-1815**<br>1300-1815年欧洲史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to British History**<br>英国史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to European History 1300-1815**<br>1300-1815年欧洲史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to British History**<br>英国史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **The Transformation of Europe and the World, 1789–1890**<br>欧洲与世界的转型，1789-1890年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Making the Modern World: Nations, Empires, and Ideologies in Conflict**<br>塑造现代世界：冲突中的民族、帝国与意识形态 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **The Cold War**<br>冷战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
@@ -108,8 +108,8 @@ ms.date: 2026-11-11
 | **Research Methods for Political Science I**<br>政治学研究方法 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Research Methods for Political Science II**<br>政治学研究方法 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Politics and Government of the United States**<br>美国的政治与政府 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to Comparative Politics: Institutions**<br>比较政治导论：制度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to Comparative Politics: Processes and Identities**<br>比较政治导论：过程与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to Comparative Politics: Institutions**<br>比较政治入门：制度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to Comparative Politics: Processes and Identities**<br>比较政治入门：过程与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Topics in Comparative Politics**<br>比较政治专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **European Politics I**<br>欧洲政治 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **European Politics II**<br>欧洲政治 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
@@ -127,7 +127,7 @@ ms.date: 2026-11-11
 | **Politics of the South Asian Diaspora in Comparative Perspective**<br>比较视角下的南亚侨民政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Collective Action and Political Change**<br>集体行动与政治变革 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Protest and Social Movements in Comparative and Transnational Perspective**<br>比较与跨国视角下的抗议与社会运动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Contemporary Challenges in International Relations**<br>国际关系的当代挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Topics in International Relations**<br>国际关系专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Military Power**<br>军事力量 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
@@ -151,8 +151,8 @@ ms.date: 2026-11-11
 | **Comparative Environmental Policy**<br>比较环境政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 | **Politics and Policy of Wildlife Conservation**<br>野生动物保护的政治与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
-| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
+| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1045) |
 
 ## Courses
 

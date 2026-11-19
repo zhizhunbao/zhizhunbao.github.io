@@ -11,20 +11,20 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Global Business and Digital Arts (Bachelor of Global Business and Digital Arts - Honours)**<br>全球商务与数字艺术（全球商务与数字艺术学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
-| **Introduction to Computer Programming 1**<br>计算机编程导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
-| **Introduction to Computer Programming 2**<br>计算机编程导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
+| **Introduction to Computer Programming 1**<br>计算机编程入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
+| **Introduction to Computer Programming 2**<br>计算机编程入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
-| **Introduction to Digital Media Design**<br>数字媒体设计导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
-| **Introduction to Global Business**<br>全球商务导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
+| **Introduction to Digital Media Design**<br>数字媒体设计入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
+| **Introduction to Global Business**<br>全球商务入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Digital Media Project 1**<br>数字媒体项目 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Digital Media Project 2**<br>数字媒体项目 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
-| **Introduction to Digital Culture**<br>数字文化导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
+| **Introduction to Digital Culture**<br>数字文化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Working in Teams and Project Management**<br>团队合作与项目管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Quantitative Methods**<br>定量方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
-| **Introduction to Business Financials**<br>商业财务导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
+| **Introduction to Business Financials**<br>商业财务入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Global Development and Business**<br>全球发展与商业 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
-| **Introduction to User Experience Design**<br>用户体验设计导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
+| **Introduction to User Experience Design**<br>用户体验设计入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Digital Imaging for Online Applications**<br>在线应用数字成像 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Global Digital Project 1**<br>全球数字项目 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |
 | **Global Digital Project 2**<br>全球数字项目 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/HyEeyRAs3) |

@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Fundamentals of Blasting II: Blast Design and Layout**<br>爆破基础 II：爆破设计与布置 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/blasting-techniques) |
 | **Mathematics and Trade Calculations for Blasting II**<br>爆破数学与行业计算 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/blasting-techniques) |
 | **Rock Studies**<br>岩石研究 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/blasting-techniques) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/blasting-techniques) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/blasting-techniques) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/blasting-techniques) |
 
 ## Courses

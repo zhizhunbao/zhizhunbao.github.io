@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Foundations of English**<br>英语基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61737) |
 | **Oral Communication: Beginner Level**<br>口语交际：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61737) |
 | **Oral Communication: Intermediate Level**<br>口语交际：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61737) |
-| **Introduction à la topométrie**<br>地形测量导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61737) |
+| **Introduction à la topométrie**<br>地形测量入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61737) |
 | **Intervention dans le milieu bâti**<br>建成环境干预 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61737) |
 | **Dessin d'exécution commercial, institutionnel ou industriel en béton**<br>混凝土商业、机构或工业施工图 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61737) |
 | **Cahier des charges**<br>技术规格书 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61737) |

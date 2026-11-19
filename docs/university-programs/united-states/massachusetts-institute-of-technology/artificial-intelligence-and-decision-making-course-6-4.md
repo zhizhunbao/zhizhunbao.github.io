@@ -1,30 +1,30 @@
 ---
-title: "3.2.6 Artificial Intelligence and Decision Making (Course 6-4)"
+title: "4.2.6 Artificial Intelligence and Decision Making (Course 6-4)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Artificial Intelligence and Decision Making (Course 6-4): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.6 Artificial Intelligence and Decision Making (Course 6-4)
+# 4.2.6 Artificial Intelligence and Decision Making (Course 6-4)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Artificial Intelligence and Decision Making (Course 6-4)**<br>人工智能与决策（Course 6-4） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Programming and Computer Science**<br>编程与计算机科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Programming and Computer Science**<br>编程与计算机科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Fundamentals of Programming**<br>编程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Inference**<br>推断导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Statistical Data Analysis**<br>统计数据分析导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Inference**<br>推断入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Statistical Data Analysis**<br>统计数据分析入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Signal Processing**<br>信号处理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Dynamical System Modeling and Control Design**<br>动力系统建模与控制设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Representation, Inference, and Reasoning in AI**<br>AI中的表示、推断与推理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-18
 | **Interactive Data Visualization and Society**<br>交互式数据可视化与社会 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Robotics: Science and Systems (CI-M)**<br>机器人学：科学与系统（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Robotic Manipulation (CI-M)**<br>机器人操作（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
-| **Introduction to Computer Vision (CI-M)**<br>计算机视觉导论 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
+| **Introduction to Computer Vision (CI-M)**<br>计算机视觉入门 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Natural Language Processing (CI-M)**<br>自然语言处理（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Fundamentals of Music Processing**<br>音乐处理基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |
 | **Statistics, Computation and Applications**<br>统计、计算及应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/) |

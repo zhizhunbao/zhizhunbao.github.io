@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN CHILDHOOD AND THE LEGAL SYSTEM**<br>儿童与法律体系证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHILDHOOD AND YOUTH STUDIES**<br>童年与青少年研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHILDHOOD AND YOUTH STUDIES**<br>童年与青少年研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDHOOD, YOUTH, AND THE LAW**<br>童年、青少年与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDHOOD, YOUTH, AND PUBLIC POLICY**<br>童年、青少年与公共政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDHOOD, YOUTH, INDIGENEITY, AND RACE**<br>童年、青少年、原住民身份与种族 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **CHILDHOOD, POVERTY POLICY, AND LAW**<br>童年、贫困政策与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **STUDENT RIGHTS IN SCHOOLS**<br>学校中的学生权利 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **WAR ZONE CHILDHOODS**<br>战区童年 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LAW AND PUBLIC POLICY**<br>法律与公共政策导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LAW AND PUBLIC POLICY**<br>法律与公共政策入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY AND LAW**<br>心理学与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF LAW**<br>法哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIOLOGY OF LAW**<br>法律社会学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **CHILDHOOD AND WORK**<br>童年与劳动 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **LAW AND BIOETHICS**<br>法律与生命伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **CAPITALISM AND THE LAW**<br>资本主义与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CANADIAN LAW**<br>加拿大法律导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CANADIAN LAW**<br>加拿大法律入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL LAW & ORGANIZATION**<br>国际法与国际组织 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **FUNDAMENTALS OF FORENSIC PSYCHOLOGY**<br>法医心理学基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |
 | **CHALLENGING THE LAW**<br>挑战法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20694&SelectedCalendar=Live&ArchiveID=) |

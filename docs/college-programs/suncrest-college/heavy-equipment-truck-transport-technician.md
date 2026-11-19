@@ -49,7 +49,7 @@ ms.date: 2026-11-08
 | **Oxy Fuel Cutting (OFC) and Plasma Arc Cutting (PAC)**<br>氧燃料切割（OFC）与等离子弧切割（PAC） | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/heavy-equipment-truck-transport-technician) |
 | **ARC Welding (Shielded Metal Arc Welding)**<br>电弧焊（焊条电弧焊） | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/heavy-equipment-truck-transport-technician) |
 | **Work Experience**<br>工作经历 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/heavy-equipment-truck-transport-technician) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/heavy-equipment-truck-transport-technician) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/heavy-equipment-truck-transport-technician) |
 
 ## Courses
 

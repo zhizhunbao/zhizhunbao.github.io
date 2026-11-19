@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Applied Data Science and Artificial Intelligence**<br>应用数据科学与人工智能 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP) |
 | **Communication Strategies**<br>沟通策略 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP/PrinterFriendly#COMM-1173) |
-| **Introduction to Programming Logic**<br>编程逻辑导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP/PrinterFriendly#COMP-1296) |
-| **Introduction to Data Science and Machine Learning**<br>数据科学与机器学习导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP/PrinterFriendly#COMP-1702) |
+| **Introduction to Programming Logic**<br>编程逻辑入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP/PrinterFriendly#COMP-1296) |
+| **Introduction to Data Science and Machine Learning**<br>数据科学与机器学习入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP/PrinterFriendly#COMP-1702) |
 | **Statistics for Data Science and Machine Learning**<br>数据科学与机器学习的统计学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP/PrinterFriendly#MATH-1202) |
 | **Linear Algebra for Data Science and Machine Learning**<br>数据科学与机器学习的线性代数 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP/PrinterFriendly#MATH-1204) |
 | **Communication for the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADSAF-DP/PrinterFriendly#COMM-2172) |

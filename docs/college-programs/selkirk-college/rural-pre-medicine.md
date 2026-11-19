@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Rural Health Issues I**<br>乡村健康问题 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Biology II**<br>生物学 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Foundations Of Chemistry II**<br>化学基础 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Introductory Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Rural Health Issues II**<br>乡村健康问题 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **General Biochemistry**<br>普通生物化学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Biomedical Ethics**<br>生物医学伦理学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
-| **Introduction to Social Research**<br>社会研究导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
+| **Introduction to Social Research**<br>社会研究入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Rural Health Issues V**<br>乡村健康问题 V | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Human Anatomy and Physiology II**<br>人体解剖学与生理学 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |
 | **Principles of Genetics**<br>遗传学原理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/university-arts-sciences/rural-pre-medicine) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.59 Religious Studies, Major: Bachelor of Arts"
+title: "4.3.59 Religious Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Religious Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.59 Religious Studies, Major: Bachelor of Arts
+# 4.3.59 Religious Studies, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -32,7 +32,7 @@ ms.date: 2026-11-18
 | **Witches, Witchcraft, and Witch-Hunting in Early America**<br>早期美国的女巫、巫术与猎巫 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Religion and Climate Change**<br>宗教与气候变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Crisis and Community in the Jewish Tradition**<br>犹太传统中的危机与社群 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
-| **Introduction to African American Studies: Black Religion, Culture, and Experience to the Civil War**<br>非裔美国人研究导论：内战前的黑人宗教、文化与经历 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
+| **Introduction to African American Studies: Black Religion, Culture, and Experience to the Civil War**<br>非裔美国人研究入门：内战前的黑人宗教、文化与经历 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Just Religion: Spirituality, Social Action, and the Climate Crisis**<br>公正的宗教：灵性、社会行动与气候危机 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Exploring Buddhism: Ancient Wisdom for Modern Challenges?**<br>探索佛教：应对现代挑战的古老智慧？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Exploring Jewish Spirituality**<br>探索犹太灵性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
@@ -83,7 +83,7 @@ ms.date: 2026-11-18
 | **Spiritualism and the Occult**<br>招魂术与神秘学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Ghosts, Ghouls, and Demons: Religion and the Supernatural**<br>鬼魂、食尸鬼与恶魔：宗教与超自然 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Reading the Quran**<br>阅读古兰经 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
-| **Philosophy of Religion: An Historical Introduction**<br>宗教哲学：历史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
+| **Philosophy of Religion: An Historical Introduction**<br>宗教哲学：历史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Readings in Talmudic Literature**<br>塔木德文献读本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Gender(s) and Sexuality in Jewish Culture**<br>犹太文化中的性别与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Biblical Greek**<br>圣经希腊语 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
@@ -145,7 +145,7 @@ ms.date: 2026-11-18
 | **Hindu-Muslim Encounters in South Asia**<br>南亚的印度教与穆斯林相遇 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Reconstructing Religion: Friedrich Schleiermacher and the Beginnings of Modern Christian Theology**<br>重构宗教：施莱尔马赫与现代基督教神学的开端 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Asian Religions in America; Asian American Religions**<br>美国的亚洲宗教；亚裔美国人宗教 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
-| **Desire, Violence, and the Sacred: Introduction to Rene Girard's Theory**<br>欲望、暴力与神圣：勒内吉拉尔理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
+| **Desire, Violence, and the Sacred: Introduction to Rene Girard's Theory**<br>欲望、暴力与神圣：勒内吉拉尔理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Majors' Seminar: Theories of Religion**<br>专业学生研讨课：宗教理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Senior Essay/Honors Thesis Research**<br>高年级论文/荣誉论文研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |
 | **Senior Colloquium**<br>高年级研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/religious-studies/bachelor-of-arts) |

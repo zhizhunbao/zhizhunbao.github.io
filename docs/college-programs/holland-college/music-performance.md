@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Music Performance**<br>音乐表演 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **PEI Occupational Health and Safety**<br>PEI职业健康与安全 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
-| **Music Theory: Introduction**<br>乐理导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
+| **Music Theory: Introduction**<br>乐理入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **Ear Training I**<br>视唱练耳 I | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **Music Styles: Rock and Country**<br>音乐风格：摇滚与乡村 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **Ensemble: Rock and Country**<br>合奏：摇滚与乡村音乐 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-08
 | **The Physiology of Human Movement**<br>人体运动生理学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **Marketing and Promotion**<br>营销与推广 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
-| **Music Technology: Introduction**<br>音乐技术导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
+| **Music Technology: Introduction**<br>音乐技术入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **The Business of Music**<br>音乐商务 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **Psychology I: Core Concepts**<br>心理学 I：核心概念 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |
 | **Psychology II: Core Concepts**<br>心理学 II：核心概念 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/music-performance/index.php) |

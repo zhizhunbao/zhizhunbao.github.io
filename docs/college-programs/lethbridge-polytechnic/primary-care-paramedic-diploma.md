@@ -15,14 +15,14 @@ ms.date: 2026-11-08
 | **Anatomy and Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Interpersonal Relationships and Communications**<br>人际关系与沟通 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Foundations of Paramedicine**<br>急救医疗基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
-| **Introduction to Paramedic Practice**<br>急救医疗实践导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
-| **Intro to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
+| **Introduction to Paramedic Practice**<br>急救医疗实践入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
+| **Intro to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Patient History and Assessment**<br>患者病史与评估 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Pharmacotherapeutics**<br>药物治疗学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Pathophysiology**<br>病理生理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Practice and Clinical Reasoning**<br>实践与临床推理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Introductory Practicum**<br>入门实习 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
-| **Intro to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
+| **Intro to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **OB/Reproductive Care and Child health**<br>产科/生殖护理与儿童健康 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Special Populations for PCP**<br>PCP 特殊人群 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |
 | **Trauma Management**<br>创伤管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/primary-care-paramedic-diploma) |

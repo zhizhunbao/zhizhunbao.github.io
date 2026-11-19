@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminal Justice**<br>刑事司法 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
-| **Introduction to Criminal Behaviour**<br>犯罪行为导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
+| **Introduction to Criminal Behaviour**<br>犯罪行为入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Interpersonal Communications for Justice Workers**<br>司法工作者人际沟通 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Tactics for Justice Workers I**<br>司法工作者战术 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Canadian Criminal Justice**<br>加拿大刑事司法 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Respecting Diverse Needs in the Criminal Justice System**<br>刑事司法系统中对多元需求的尊重 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
-| **Introduction to Forensic Mental Health Issues**<br>法医精神健康问题导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
+| **Introduction to Forensic Mental Health Issues**<br>法医精神健康问题入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Information Seeking Interviews for Criminal Justice**<br>刑事司法信息获取访谈 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Healthy Lifestyles for Practice**<br>实践健康生活方式 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Tactics for Justice Workers II**<br>司法工作者战术 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
@@ -39,10 +39,10 @@ ms.date: 2026-11-08
 | **Investigation Techniques**<br>调查技术 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Canadian Policing and Charter of Rights and Freedoms**<br>加拿大警务与《权利与自由宪章》 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Block Field Practicum**<br>集中现场实习 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 | **Writing Skills for Social Service Practice I**<br>社会服务实践写作技能 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/criminal-justice) |
 
 ## Courses

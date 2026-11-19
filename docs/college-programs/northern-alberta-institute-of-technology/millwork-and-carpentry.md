@@ -11,16 +11,16 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Millwork and Carpentry**<br>细木工与木工 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
-| **Introduction to Trade Math, Blueprint Reading, and Drafting**<br>行业数学、识图与制图导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
-| **Introduction to Hand Tools, Portable and Stationary Machines, Trade Safety and Professionalism**<br>手工具、便携与固定机械、行业安全与职业素养导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
-| **Introduction to Woodworking – Fundamentals of Carpentry and Cabinetmaking**<br>木工导论：木工与橱柜制作基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
+| **Introduction to Trade Math, Blueprint Reading, and Drafting**<br>行业数学、识图与制图入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
+| **Introduction to Hand Tools, Portable and Stationary Machines, Trade Safety and Professionalism**<br>手工具、便携与固定机械、行业安全与职业素养入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
+| **Introduction to Woodworking – Fundamentals of Carpentry and Cabinetmaking**<br>木工入门：木工与橱柜制作基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
 | **Shop Drawings, Applied Mathematics, and an Introduction to Current Technology for Cabinetmakers.**<br>施工图、应用数学与橱柜制作现代技术入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
 | **Elements and Construction of Casework 1**<br>柜体制作要素与构造 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
 | **Elements and Construction of Casework 2**<br>柜体制作要素与构造 2 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
 | **Field Placement for Cabinetmaker Students**<br>橱柜制作学员现场实习 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
 | **Plans and Estimating for Carpenters**<br>木工图纸与估算 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
-| **Introduction to Residential Building Components 1**<br>住宅建筑构件导论 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
-| **Introduction to Residential Building Components 2**<br>住宅建筑构件导论 2 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
+| **Introduction to Residential Building Components 1**<br>住宅建筑构件入门 1 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
+| **Introduction to Residential Building Components 2**<br>住宅建筑构件入门 2 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
 | **Field Placement for Carpenter Students**<br>木工学员现场实习 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/millwork-and-carpentry) |
 
 ## Courses

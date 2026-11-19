@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Digital Principles**<br>数字原理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-engineering-technician-artificial-intelligence) |
 | **Electronic Devices/Circuits**<br>电子器件/电路 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-engineering-technician-artificial-intelligence) |
 | **Operating Systems – Linux**<br>操作系统 – Linux | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-engineering-technician-artificial-intelligence) |
-| **Introduction to Data Communications and Networking**<br>数据通信与网络导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-engineering-technician-artificial-intelligence) |
+| **Introduction to Data Communications and Networking**<br>数据通信与网络入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-engineering-technician-artificial-intelligence) |
 | **Programming with Generative AI**<br>生成式AI编程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-engineering-technician-artificial-intelligence) |
 | **System Integration Project**<br>系统集成项目 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-engineering-technician-artificial-intelligence) |
 | **General Education Elective (Open)**<br>通识教育选修课（开放） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-engineering-technician-artificial-intelligence) |

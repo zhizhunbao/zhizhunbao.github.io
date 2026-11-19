@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Mechanical Engineering Technology (Co-op)**<br>机械工程技术（带薪实习） | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/mechanical-engineering-technology/) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/mechanical-engineering-technology/) |
 | **Computer Aided Drafting**<br>计算机辅助制图 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/mechanical-engineering-technology/) |
-| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/mechanical-engineering-technology/) |
+| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/mechanical-engineering-technology/) |
 | **Engineering Drawings**<br>工程制图 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/mechanical-engineering-technology/) |
 | **Mathematics I for the School of Technology Studies**<br>技术研究学院数学 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/mechanical-engineering-technology/) |
 | **Dimensional Metrology**<br>尺寸计量学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/mechanical-engineering-technology/) |

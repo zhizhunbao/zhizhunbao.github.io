@@ -1,10 +1,10 @@
 ---
-title: "3.4.67 Physics and Geosciences (B.S.)"
+title: "4.4.67 Physics and Geosciences (B.S.)"
 description: "University Programs > United States > Yale University > Physics and Geosciences (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.67 Physics and Geosciences (B.S.)
+# 4.4.67 Physics and Geosciences (B.S.)
 
 ## Glossary
 
@@ -16,7 +16,7 @@ ms.date: 2026-11-18
 | **Modern Physical Measurement**<br>现代物理测量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/) |
 | **Ordinary and Partial Differential Equations with Applications**<br>常微分与偏微分方程及其应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/) |
 | **Ordinary Differential Equations**<br>常微分方程 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/) |
-| **Introduction to Mathematical Methods of Physics**<br>物理学数学方法导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/) |
+| **Introduction to Mathematical Methods of Physics**<br>物理学数学方法入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/) |
 | **Advanced Classical Physics from Newton to Einstein**<br>高级经典物理：从牛顿到爱因斯坦 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/) |
 | **Classical Mechanics**<br>经典力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/) |
 | **Electromagnetic Fields and Optics**<br>电磁场与光学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/) |

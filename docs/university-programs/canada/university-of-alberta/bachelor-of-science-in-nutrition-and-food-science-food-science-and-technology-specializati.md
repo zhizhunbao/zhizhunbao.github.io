@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science in Nutrition and Food Science - Food Science and Technology Specialization**<br>理学学士（营养与食品科学，食品科学与技术专业方向） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Introductory University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Introductory University Chemistry II**<br>大学化学入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
-| **Introduction to Food Science and Technology**<br>食品科学与技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
+| **Introduction to Food Science and Technology**<br>食品科学与技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Calculus for the Life Sciences I**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Calculus for the Mathematical and Physical Sciences I**<br>数学与物理科学微积分 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Calculus for Business and Economics I**<br>商业与经济学微积分 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
@@ -24,13 +24,13 @@ ms.date: 2026-11-11
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Quantitative Analysis I**<br>定量分析 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **General Microbiology**<br>普通微生物学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
-| **Introduction to Food Engineering**<br>食品工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
+| **Introduction to Food Engineering**<br>食品工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Food Chemistry**<br>食品化学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Physical Principles of Food Structure and Functionality**<br>食品结构与功能的物理原理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
-| **Introduction to the Principles of Nutrition**<br>营养原理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
+| **Introduction to the Principles of Nutrition**<br>营养原理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Food Quality Assurance**<br>食品质量保证 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Unit Operations in Food Processing**<br>食品加工单元操作 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Food Microbiology**<br>食品微生物学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Food Product Development (Capstone)**<br>食品产品开发（毕业项目） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Innovations in Food Science**<br>食品科学创新 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Advanced Food Analysis**<br>高级食品分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
-| **Introduction to Management for Agri-Food, Environmental, and Forestry Businesses**<br>农业食品、环境与林业企业管理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
+| **Introduction to Management for Agri-Food, Environmental, and Forestry Businesses**<br>农业食品、环境与林业企业管理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Behavior in Organizations**<br>组织中的行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Undergraduate Research Project**<br>本科生研究项目 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |
 | **Food Science and Technology Work Experience**<br>食品科学与技术工作经历 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110001&returnto=20843) |

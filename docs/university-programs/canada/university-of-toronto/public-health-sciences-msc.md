@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Public Health Sciences MSc**<br>公共卫生科学（MSc） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
-| **Introduction to Public Health Sciences**<br>公共卫生科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
+| **Introduction to Public Health Sciences**<br>公共卫生科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **Laboratory in Statistical Design and Analysis**<br>统计设计与分析实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **Survival Analysis I**<br>生存分析 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **Categorical Data Analysis**<br>分类数据分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |

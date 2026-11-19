@@ -12,22 +12,22 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Library and Information Technology**<br>图书馆与信息技术 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
-| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 导论 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
+| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 入门 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Critical Reading and Writing**<br>批判性阅读与写作 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Library Site Visits**<br>图书馆实地参观 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Borrower Services**<br>借阅者服务 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Readers' Services**<br>读者服务 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Searching Resources 1**<br>资源检索 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Acquisitions and Collections Development**<br>采访与馆藏建设 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
-| **Introduction to Libraries**<br>图书馆导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
+| **Introduction to Libraries**<br>图书馆入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Culture and Diversity in Canadian Society**<br>加拿大社会的文化与多元性 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Applied Communications**<br>应用沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
-| **Introduction to Microsoft Word**<br>Microsoft Word 导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
-| **Introduction to Microsoft Excel 2**<br>Microsoft Excel 导论 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
+| **Introduction to Microsoft Word**<br>Microsoft Word 入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
+| **Introduction to Microsoft Excel 2**<br>Microsoft Excel 入门 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Literature Survey**<br>文献综述 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
-| **Introduction to Reference Services and Resources**<br>参考咨询服务与资源导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
-| **Introduction to Archives**<br>档案学导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
-| **Introduction to Cataloguing**<br>编目导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
+| **Introduction to Reference Services and Resources**<br>参考咨询服务与资源入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
+| **Introduction to Archives**<br>档案学入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
+| **Introduction to Cataloguing**<br>编目入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Young Adult Literature**<br>青少年文学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Library Programming**<br>图书馆活动策划 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Work Experience 1**<br>工作经历 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-08
 | **Library Leadership**<br>图书馆领导力 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **World History**<br>世界历史 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Indigenous Studies 2**<br>原住民研究 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
-| **Introduction to Records Management**<br>档案管理导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
+| **Introduction to Records Management**<br>档案管理入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Storytelling**<br>讲故事 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Library Trends and Technology**<br>图书馆趋势与技术 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |
 | **Serials and Multimedia Cataloguing**<br>连续出版物与多媒体编目 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Library-and-Information-Technology.aspx) |

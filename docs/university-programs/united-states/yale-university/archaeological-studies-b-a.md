@@ -1,17 +1,17 @@
 ---
-title: "3.4.6 Archaeological Studies (B.A.)"
+title: "4.4.6 Archaeological Studies (B.A.)"
 description: "University Programs > United States > Yale University > Archaeological Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.6 Archaeological Studies (B.A.)
+# 4.4.6 Archaeological Studies (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Archaeological Studies (B.A.)**<br>考古学研究（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/archaeological-studies/) |
-| **Introduction to Archaeological Laboratory Sciences**<br>考古实验室科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/archaeological-studies/) |
+| **Introduction to Archaeological Laboratory Sciences**<br>考古实验室科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/archaeological-studies/) |
 | **Senior Research Project in Archaeology**<br>考古学毕业研究项目 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/archaeological-studies/) |
 
 ## Courses

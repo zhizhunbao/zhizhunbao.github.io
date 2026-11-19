@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Master's Thesis Research 1.**<br>硕士论文研究 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-thesis-msc/) |
 | **Master's Thesis Research 2.**<br>硕士论文研究 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-thesis-msc/) |
 | **Master's Thesis Research 3.**<br>硕士论文研究 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-thesis-msc/) |
-| **Introduction to Graduate Studies in Biology.**<br>生物学研究生学习导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-thesis-msc/) |
+| **Introduction to Graduate Studies in Biology.**<br>生物学研究生学习入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-thesis-msc/) |
 | **Molecular Biology Research and Professional Skills.**<br>分子生物学研究与专业技能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-thesis-msc/) |
 | **Organismal Biology Research and Professional Skills.**<br>生物体生物学研究与专业技能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-thesis-msc/) |
 

@@ -37,8 +37,8 @@ ms.date: 2026-11-11
 | **DATA ENGINEERING AND MACHINE LEARNING**<br>数据工程与机器学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **DATABASE MANAGEMENT SYSTEMS**<br>数据库管理系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **CYBER-PHYSICAL SYSTEMS THEORY**<br>信息物理系统理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ELECTRONICS**<br>电子学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ELECTRONICS**<br>电子学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF DESIGN IN ELECTRICAL ENGINEERING**<br>电气工程设计原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **CONTROL SYSTEMS**<br>控制系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **SIGNALS AND SYSTEMS**<br>信号与系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
@@ -48,7 +48,7 @@ ms.date: 2026-11-11
 | **ADVANCED APPLIED MATHEMATICS FOR ELECTRICAL ENGINEERING**<br>电气工程高级应用数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **DEEP LEARNING FOR TIME SERIES DATA**<br>时间序列数据的深度学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING DESIGN I**<br>人工智能系统工程设计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COMPUTER NETWORKING, SECURITY & IOT SYSTEMS**<br>计算机网络、安全与 IOT 系统导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COMPUTER NETWORKING, SECURITY & IOT SYSTEMS**<br>计算机网络、安全与 IOT 系统入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **ELECTROMAGNETIC THEORY**<br>电磁理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **ELECTRONIC CIRCUITS**<br>电子电路 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES AND PRACTICES OF DESIGN OF ELECTRONIC SYSTEMS**<br>电子系统设计的原理与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
@@ -57,9 +57,9 @@ ms.date: 2026-11-11
 | **ELECTRICAL/COMPUTER DESIGN PROJECT**<br>电气/计算机设计项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **COMMUNICATIONS THEORY**<br>通信理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **THE ETHICAL ENGINEER**<br>有道德的工程师 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COMPUTER ASSISTED SURGERY: THEORY AND PRACTICE**<br>计算机辅助手术导论：理论与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COMPUTER ASSISTED SURGERY: THEORY AND PRACTICE**<br>计算机辅助手术入门：理论与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **REINFORCEMENT LEARNING**<br>强化学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION OF VLSI**<br>VLSI 导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION OF VLSI**<br>VLSI 入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **ANALOG COMMUNICATIONS THEORY**<br>模拟通信理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED DIGITAL SYSTEMS**<br>高级数字系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **SELECTED TOPICS IN ELECTRICAL ENGINEERING I**<br>电气工程精选专题 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
@@ -69,7 +69,7 @@ ms.date: 2026-11-11
 | **NETWORKING: PRINCIPLES, PROTOCOLS AND ARCHITECTURE**<br>网络：原理、协议与架构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED IMAGE PROCESSING AND ANALYSIS**<br>高级图像处理与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **CONVENTIONAL, RENEWABLE AND NUCLEAR ENERGY**<br>常规能源、可再生能源与核能 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DIGITAL IMAGE PROCESSING**<br>数字图像处理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DIGITAL IMAGE PROCESSING**<br>数字图像处理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED TOPICS IN WIRELESS COMMUNICATIONS**<br>无线通信高级专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **BIOMEDICAL SYSTEMS ANALYSIS**<br>生物医学系统分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |
 | **POWER SYSTEM PROTECTION**<br>电力系统保护 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21688&SelectedCalendar=Live&ArchiveID=) |

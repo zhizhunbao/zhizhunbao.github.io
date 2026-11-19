@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN GLOBAL JUSTICE**<br>全球正义主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21595&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICAL SCIENCE**<br>政治学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21595&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICAL SCIENCE**<br>政治学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21595&SelectedCalendar=Live&ArchiveID=) |
 | **PEOPLE, POWER AND THE STATE**<br>人民、权力与国家 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21595&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL POLITICS AND CONTEMPORARY (DIS)ORDER**<br>全球政治与当代（失）序 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21595&SelectedCalendar=Live&ArchiveID=) |
 | **POLITICAL IDEAS AND INSTITUTIONS**<br>政治思想与制度 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21595&SelectedCalendar=Live&ArchiveID=) |

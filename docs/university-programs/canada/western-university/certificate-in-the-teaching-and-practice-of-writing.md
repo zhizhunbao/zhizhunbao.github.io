@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN THE TEACHING AND PRACTICE OF WRITING**<br>写作教学与实践证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
-| **WRITING: INTRODUCTION TO UNIVERSITY ESSAY WRITING**<br>写作：大学论文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
+| **WRITING: INTRODUCTION TO UNIVERSITY ESSAY WRITING**<br>写作：大学论文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
 | **UNIVERSITY WRITING IN ENGLISH**<br>大学英语写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WRITING FOR CHILDHOOD AND YOUTH STUDIES**<br>儿童与青少年研究写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WRITING FOR CHILDHOOD AND YOUTH STUDIES**<br>儿童与青少年研究写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
 | **WORKPLACE WRITING: EXPLORING THE CULTURES OF WORK**<br>职场写作：探索工作文化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
 | **WRITING INSTRUCTION AND DISABILITY STUDIES FRAMEWORKS**<br>写作教学与残障研究框架 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |
 | **TUTORING WRITERS**<br>写作者辅导 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21649&SelectedCalendar=Live&ArchiveID=) |

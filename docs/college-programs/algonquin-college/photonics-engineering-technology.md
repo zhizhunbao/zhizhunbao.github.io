@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Photonics Engineering Technology**<br>光子工程技术 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/sat/program/photonics-engineering-technology/) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
 | **Essential Mathematics**<br>基础数学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
 | **Applied Physics**<br>应用物理学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
 | **Trends in Photonics Technology**<br>光子技术趋势 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
-| **Introduction to Optics**<br>光学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
+| **Introduction to Optics**<br>光学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
 | **Circuits and Signals**<br>电路与信号 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
 | **Systems Modeling and Simulation**<br>系统建模与仿真 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6422X01FWO.pdf) |

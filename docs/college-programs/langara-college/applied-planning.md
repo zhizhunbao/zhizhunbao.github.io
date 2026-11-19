@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Applied Planning**<br>应用规划 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we) |
-| **Introduction to Planning**<br>规划导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |
+| **Introduction to Planning**<br>规划入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |
 | **Planning Applications in GIS**<br>GIS 规划应用 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |
 | **Planning Theory, Practice, and Ethics**<br>规划理论、实践与伦理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |
-| **Introduction to Planning Methods**<br>规划方法导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |
+| **Introduction to Planning Methods**<br>规划方法入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |
 | **Planning Process & Law**<br>规划程序与法律 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |
 | **Special Topics I**<br>专题 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |
 | **Land Development**<br>土地开发 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/applied-planning-post-degree-diploma-we/courses) |

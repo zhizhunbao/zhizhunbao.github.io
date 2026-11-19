@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Lab Mathematics**<br>实验室数学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/medical-laboratory-assistant) |
 | **One General Education Course.**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/medical-laboratory-assistant) |
 | **Lab Techniques – Microbiology**<br>实验技术 - 微生物学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/medical-laboratory-assistant) |
-| **Introduction to Transfusion**<br>输血导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/medical-laboratory-assistant) |
+| **Introduction to Transfusion**<br>输血入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/medical-laboratory-assistant) |
 | **Molecular Techniques**<br>分子技术 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/medical-laboratory-assistant) |
 | **Lab Techniques – Hematology**<br>实验技术 - 血液学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/medical-laboratory-assistant) |
 | **Lab Techniques – Chemistry**<br>实验技术 - 化学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/medical-laboratory-assistant) |

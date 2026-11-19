@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baccalauréat ès arts spécialisé en psychologie**<br>文学学士，心理学专业方向 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
-| **Introduction à la psychologie I**<br>心理学导论 I | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
+| **Introduction à la psychologie I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
 | **]**<br>（无效条目） | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
-| **Introduction à la recherche en psychologie**<br>心理学研究导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
-| **Introduction aux méthodes de recherche en psychologie**<br>心理学研究方法导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
+| **Introduction à la recherche en psychologie**<br>心理学研究入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
+| **Introduction aux méthodes de recherche en psychologie**<br>心理学研究方法入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
 | **Penser de manière critique la recherche en psychologie**<br>批判性地思考心理学研究 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
 | **Design et analyse de données en recherche en psychologie**<br>心理学研究的设计与数据分析 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |
 | **Mesures et évaluations en psychologie : tests psychologiques**<br>心理测量与评估：心理测验 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/faculte-des-arts---bacc-es-arts-specialise-en-psychologie/index.html) |

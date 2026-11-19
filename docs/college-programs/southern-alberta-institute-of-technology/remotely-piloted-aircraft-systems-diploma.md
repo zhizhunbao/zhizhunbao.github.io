@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Remotely Piloted Aircraft Systems Diploma**<br>遥控飞行器系统文凭 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
-| **Introduction to Drone Use Cases**<br>无人机应用场景导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
+| **Introduction to Drone Use Cases**<br>无人机应用场景入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Remotely Piloted Aircraft Systems Flight School**<br>遥控驾驶航空器系统飞行学校 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Remotely Piloted Aircraft Systems Professional Operations and Planning**<br>遥控驾驶航空器系统专业操作与规划 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Beyond Visual Line of Sight (BVLOS)**<br>超视距（BVLOS） | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Remotely Piloted Aircraft System Build**<br>遥控驾驶航空器系统组装 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Remotely Piloted Aircraft Systems - Maintenance I**<br>遥控驾驶航空器系统维护 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Geographic Information Systems / Geomatics I**<br>地理信息系统/地理信息学 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Operational Risk Management**<br>运营风险管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |
 | **Flight Operations II**<br>飞行运行 II | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/remotely-piloted-aircraft-systems) |

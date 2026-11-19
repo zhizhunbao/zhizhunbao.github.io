@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Airport Management**<br>机场管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Airline Management**<br>航空公司管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Technical Communication**<br>技术沟通 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Select 1 course from the General Education list during registration.**<br>注册时从通识教育列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Financial Accounting Principles 1**<br>财务会计原理 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Dynamic Presentations**<br>动态演示 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Advanced Flight Lab**<br>高级飞行实验 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Navigation and Navigation Aids**<br>导航与助航设备 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
-| **Introduction to Aerodynamics**<br>空气动力学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
+| **Introduction to Aerodynamics**<br>空气动力学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Human Factors in Aviation Safety**<br>航空安全中的人因 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Database and Office Management**<br>数据库与办公室管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Human Resources Management Foundations**<br>人力资源管理基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-08
 | **Intrapreneurship**<br>内部创业 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **International Aviation and Management**<br>国际航空与管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Security Management Systems for Aviation (SeMS)**<br>航空安全管理体系（SeMS） | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/avia/) |

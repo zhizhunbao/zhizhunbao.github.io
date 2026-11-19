@@ -1,10 +1,10 @@
 ---
-title: "3.3.27 Economics, Major: Bachelor of Science"
+title: "4.3.27 Economics, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Economics, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.27 Economics, Major: Bachelor of Science
+# 4.3.27 Economics, Major: Bachelor of Science
 
 ## Glossary
 
@@ -17,7 +17,7 @@ ms.date: 2026-11-18
 | **Economic Analysis II**<br>经济分析 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Economic Analysis III**<br>经济分析 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Advanced Macroeconomics**<br>高级宏观经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Applied Econometrics**<br>应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Advanced Topics in Econometrics**<br>计量经济学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Game Theory and Economic Applications**<br>博弈论及其经济应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-18
 | **Economics of Health Equity**<br>健康公平经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Economic Development, Microfinance, and Social Networks**<br>经济发展、小额信贷与社会网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Market Design**<br>市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
-| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
+| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Investments in Financial Markets**<br>金融市场投资学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Family and Society**<br>家庭与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Economics of Education**<br>教育经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
@@ -60,23 +60,23 @@ ms.date: 2026-11-18
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Fundamental Concepts of Analysis**<br>分析学基本概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Fourier Analysis**<br>傅里叶分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Graph and Combinatorial Optimization**<br>图与组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
-| **Introduction to Stochastic Modeling**<br>随机建模导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
+| **Introduction to Stochastic Modeling**<br>随机建模入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Networks**<br>网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Statistical Arbitrage**<br>统计套利 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Investment Science**<br>投资科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Advanced Investment Science**<br>高级投资科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Resampling Methods: Bootstrap, Cross Validation and Beyond**<br>重抽样方法：自助法、交叉验证及其他 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Machine Learning Theory**<br>机器学习理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Mathematical Finance**<br>数理金融 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Bayesian Statistics**<br>贝叶斯统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |
 | **Economic Policy Seminar**<br>经济政策研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/economics/bachelor-of-science) |

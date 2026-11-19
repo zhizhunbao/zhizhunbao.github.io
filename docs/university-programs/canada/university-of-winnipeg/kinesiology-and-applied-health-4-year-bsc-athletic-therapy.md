@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Kinesiology and Applied Health, 4-Year BSc (Athletic Therapy)**<br>运动机能学与应用健康，4 年制 BSc（运动治疗） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Human Anatomy & Physiology**<br>人体解剖学与生理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
-| **Introduction to Kinesiology**<br>运动机能学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
+| **Introduction to Kinesiology**<br>运动机能学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Nutrition for Health and Wellness**<br>健康与保健营养学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Sport and Exercise Psychology**<br>运动与锻炼心理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Prevention and Care of Sport Injuries**<br>运动损伤的预防与护理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
@@ -23,14 +23,14 @@ ms.date: 2026-11-11
 | **Pathology in Sport Medicine**<br>运动医学病理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Intro to Data Analysis (prereq**<br>数据分析入门（先修课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
-| **Introduction to Quantitative Research Methods (pre req**<br>定量研究方法导论（先修课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
+| **Introduction to Quantitative Research Methods (pre req**<br>定量研究方法入门（先修课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Introductory Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
-| **Introduction to Criminal Justice**<br>刑事司法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
+| **Introduction to Criminal Justice**<br>刑事司法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Statistical Analysis I (prereq Pre-calculus Math 40S or Applied Math 40S)**<br>统计分析 I（先修课：预微积分数学 40S 或应用数学 40S） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Elementary Biological Statistics I**<br>初级生物统计学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **and one of the**<br>以及其中之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Statistical Analysis I**<br>统计分析 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
-| **Introduction to Quantitative Research Methods**<br>定量研究方法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
+| **Introduction to Quantitative Research Methods**<br>定量研究方法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Business Planning Basics**<br>商业计划基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Professionalism in Applied Health**<br>应用健康领域的职业素养 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |
 | **Exercise Physiology**<br>运动生理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=3) |

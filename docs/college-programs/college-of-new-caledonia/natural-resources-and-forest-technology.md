@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Natural Resources and Forest Technology**<br>自然资源与森林技术 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Indigenous Plants**<br>原住民植物 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
-| **Introduction to Forest Soils**<br>森林土壤导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
+| **Introduction to Forest Soils**<br>森林土壤入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Ornithology and Mammology**<br>鸟类与哺乳动物学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Map and Spatial Data**<br>地图与空间数据 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Forest Measurements I**<br>森林测量 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Silvics and Dendrology**<br>森林生态学与树木学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Fire Management**<br>消防管理 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
-| **Introduction to Earth Science**<br>地球科学导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
+| **Introduction to Earth Science**<br>地球科学入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Geomatics and Cartography**<br>地理信息学与制图学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Forest Measurements II**<br>森林测量 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Mathematics for Technologies**<br>技术数学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-08
 | **Applied Research Project**<br>应用研究项目 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Tech Writing & Communications**<br>技术写作与沟通 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 | **Extended Nat Res Field Studies**<br>自然资源实地研究拓展 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/natural-resources-and-forest-technology) |
 
 ## Courses
 

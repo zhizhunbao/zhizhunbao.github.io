@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **General Biology I**<br>普通生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-science-degree/courses) |
 | **General Biology II**<br>普通生物学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-science-degree/courses) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-science-degree/courses) |
-| **Introduction to Genetics**<br>遗传学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-science-degree/courses) |
+| **Introduction to Genetics**<br>遗传学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-science-degree/courses) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-science-degree/courses) |
 | **General Chemistry I**<br>普通化学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-science-degree/courses) |
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/health-sciences-associate-science-degree/courses) |

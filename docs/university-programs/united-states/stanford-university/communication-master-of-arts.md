@@ -1,17 +1,17 @@
 ---
-title: "3.3.86 Communication, Master of Arts"
+title: "4.3.86 Communication, Master of Arts"
 description: "University Programs > United States > Stanford University > Communication, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.86 Communication, Master of Arts
+# 4.3.86 Communication, Master of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Communication, Master of Arts**<br>传播学，文学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/master-of-arts) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/master-of-arts) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/master-of-arts) |
 | **Communication Research Methods**<br>传播研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/master-of-arts) |
 | **Foundations of Social Research**<br>社会研究基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/master-of-arts) |
 | **Media Processes and Effects**<br>媒体过程与效应 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/communication/master-of-arts) |

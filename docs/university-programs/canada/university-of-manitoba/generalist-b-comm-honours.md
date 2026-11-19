@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **Labour and Employment Relations**<br>劳动与雇佣关系 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/generalist-bcomm-honours/) |
 | **Exploring Indigenous Economic Perspectives**<br>探索原住民经济视角 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/generalist-bcomm-honours/) |
 | **Indigenous Economic Leadership**<br>原住民经济领导力 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/generalist-bcomm-honours/) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/generalist-bcomm-honours/) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/generalist-bcomm-honours/) |
 | **Marketing Research**<br>市场调研 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/generalist-bcomm-honours/) |
 | **Consumer Behaviour**<br>消费者行为 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/generalist-bcomm-honours/) |
 | **Digital Marketing**<br>数字营销 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/generalist-bcomm-honours/) |

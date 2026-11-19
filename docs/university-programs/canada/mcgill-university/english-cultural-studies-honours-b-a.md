@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **English - Cultural Studies Honours (B.A.)**<br>英语－文化研究荣誉（B.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
-| **Introduction to Cultural Studies.**<br>文化研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
-| **Introduction to Film Studies.**<br>电影研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
+| **Introduction to Cultural Studies.**<br>文化研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
+| **Introduction to Film Studies.**<br>电影研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
 | **The Poetics of the Image.**<br>图像诗学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
 | **Honours Essay.**<br>荣誉论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
 | **Shakespeare.**<br>莎士比亚 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-11
 | **Culture and Critical Theory 1.**<br>文化与批判理论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
 | **Culture and Critical Theory 2.**<br>文化与批判理论 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
 | **Image and Text.**<br>图像与文本 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
-| **Introduction to Film as Mass Medium.**<br>电影作为大众媒介导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
+| **Introduction to Film as Mass Medium.**<br>电影作为大众媒介入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
 | **Sexuality and Representation.**<br>性与表征 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
 | **Film Genre.**<br>电影类型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |
 | **Media and Culture.**<br>媒体与文化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/) |

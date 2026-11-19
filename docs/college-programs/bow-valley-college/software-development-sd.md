@@ -15,10 +15,10 @@ ms.date: 2026-11-08
 | **Essential Skills for Teams Collaboration**<br>团队协作基本技能 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
 | **Web and Internet Fundamentals**<br>Web 与互联网基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
-| **Introduction to Relational Databases**<br>关系数据库导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
+| **Introduction to Relational Databases**<br>关系数据库入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
 | **User Experience Design**<br>用户体验设计 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
-| **Introduction to Web Programming**<br>网络编程导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
-| **Introduction to Object Oriented Programming**<br>面向对象编程导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
+| **Introduction to Web Programming**<br>网络编程入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
+| **Introduction to Object Oriented Programming**<br>面向对象编程入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
 | **Networking Essentials**<br>网络基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
 | **Internet of Things**<br>物联网 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |
 | **Project Management in Software Development**<br>软件开发中的项目管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/software-development) |

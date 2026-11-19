@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Mathematics for Civil Engineering I**<br>土木工程数学 I | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/civil-engineering-technician) |
 | **Computer Aided Drafting for Civil**<br>土木计算机辅助绘图 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/civil-engineering-technician) |
 | **Construction Materials and Testing**<br>施工材料与检测 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/civil-engineering-technician) |
-| **Introduction to Civil Engineering**<br>土木工程导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/civil-engineering-technician) |
+| **Introduction to Civil Engineering**<br>土木工程入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/civil-engineering-technician) |
 | **Surveying Principles**<br>测量原理 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/civil-engineering-technician) |
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/civil-engineering-technician) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/civil-engineering-technician) |

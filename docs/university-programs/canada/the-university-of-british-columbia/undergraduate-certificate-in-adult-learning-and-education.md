@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **The Community Practice of Adult Education**<br>成人教育的社区实践 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-education/certificate-programs/undergraduate-certificate-adult-learning-and-education) |
 | **An Overview of Adult Education**<br>成人教育概览 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-education/certificate-programs/undergraduate-certificate-adult-learning-and-education) |
 | **Institutions of Adult Education**<br>成人教育机构 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-education/certificate-programs/undergraduate-certificate-adult-learning-and-education) |
-| **Introduction to the Study of Higher Education**<br>高等教育研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-education/certificate-programs/undergraduate-certificate-adult-learning-and-education) |
+| **Introduction to the Study of Higher Education**<br>高等教育研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-education/certificate-programs/undergraduate-certificate-adult-learning-and-education) |
 
 ## Courses
 

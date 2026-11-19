@@ -24,11 +24,11 @@ ms.date: 2026-11-11
 | **Physics I for the Life Sciences**<br>生命科学物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Physics II for the Physical Sciences**<br>物理科学物理 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Physics II for the Life Sciences**<br>生命科学物理 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| **Introduction to Data Analysis for Scientific Literacy**<br>科学素养的数据分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| **Introduction to Data Analysis for Scientific Literacy**<br>科学素养的数据分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Molecular Aspects of Cellular and Genetic Processes**<br>细胞与遗传过程的分子层面 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Animal Physiology**<br>动物生理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
@@ -62,7 +62,7 @@ ms.date: 2026-11-11
 | **Plant Physiology**<br>植物生理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Biological Consequences of Global Change**<br>全球变化的生物学后果 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Environmental Toxicology**<br>环境毒理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| **An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine)**<br>STEMM（科学、技术、工程、数学与医学）中的偏见导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| **An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine)**<br>STEMM（科学、技术、工程、数学与医学）中的偏见入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Integrative Multimedia Documentary Project**<br>综合多媒体纪录片项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Advanced Topics in Neural Basis of Motor Control**<br>运动控制神经基础高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 | **Advanced Topics and Methods in Neural Circuit Analysis**<br>神经回路分析高级专题与方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
@@ -101,114 +101,102 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | This Program consists of 15.0 credits. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  |  | 1. 1.0 credit in Introductory Biology Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  | BIOA01H3 | Life on Earth: Unifying Principles | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  | BIOA02H3 | Life on Earth: Form, Function and Interactions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  |  | 2. 1.0 credit in Introductory Chemistry Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  |  | 3. 1.0 credit in Mathematics |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  | MATA29H3 | Calculus I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | (or) | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  | MATA35H3 | Calculus II for Biological Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | (or) | MATA36H3 | Calculus II for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  |  | 4. 1.0 credit in Introductory Physics Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  | PHYA10H3 | Physics I for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | (or) | PHYA11H3 | Physics I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  | PHYA21H3 | Physics II for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | (or) | PHYA22H3 | Physics II for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year |  |  | 5. 0.5 credit in Statistics |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From |  | (PSYB07H3) Data Analysis in Psychology |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From; Note: We recommend students take | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From; Note: We recommend students take | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From; Note: We recommend students take | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From; Note: We recommend students take (or) | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From; Note: We recommend students take (or) | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| First Year | Choose From; Note: We recommend students take | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  |  | 6. 3.0 credits in Biology Core Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB10H3 | Cell Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB11H3 | Molecular Aspects of Cellular and Genetic Processes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB34H3 | Animal Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB38H3 | Plants and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB50H3 | Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB51H3 | Evolutionary Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year | Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year | Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  |  | 7. 1.0 credit in Biology Core Labs |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB32H3 | Animal Physiology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | BIOB33H3 | Human Development and Anatomy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  |  | 8. 1.0 credit in Organic Chemistry Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | CHMB41H3 | Organic Chemistry I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Second Year |  | CHMB42H3 | Organic Chemistry II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years |  |  | 9. 2.5 credits in C-level Biology Core Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC15H3 | Genetics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC17H3 | Microbiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC20H3 | Principles of Virology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC32H3 | Human Physiology I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC34H3 | Human Physiology II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC39H3 | Immunology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From |  | 10. 1.5 credits in Additional C-level Biology Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | ANTC47H3 | Human Skeletal Anatomy and Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | ANTC48H3 | Advanced Topics In Human Osteology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC10H3 | Cell Biology: Proteins from Life to Death | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC11H3 | Microbial Communities in Nature, Health and Industry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC12H3 | Biochemistry I: Proteins and Enzymes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC13H3 | Biochemistry II: Bioenergetics and Metabolism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC14H3 | Genes, Environment and Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC16H3 | Evolutionary Genetics and Genomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC18H3 | Looking Inside Cells: Current Methods in Cell Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC19H3 | Animal Developmental Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC21H3 | Vertebrate Histology: Cells, Tissues and Techniques | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC30H3 | From Genetic Codes to Fantastic Creatures | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC35H3 | Principles in Parasitology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC40H3 | Plant Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC58H3 | Biological Consequences of Global Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC65H3 | Environmental Toxicology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC70H3 | An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine) | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From |  | 11. 1.0 credit in D-level Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD06H3 | Advanced Topics in Neural Basis of Motor Control | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD07H3 | Advanced Topics and Methods in Neural Circuit Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD12H3 | Protein Homeostasis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD13H3 | Herbology: The Science Behind Medicinal Plants | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD15H3 | Mechanism of Gene Regulation in Health and Disease | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD17H3 | Seminars in Cellular Microbiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD18H3 | Practical Approaches in Infection and Immunity | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD19H3 | Epigenetics in Health and Disease | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD20H3 | Special Topics in Virology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD24H3 | Human Stem Cell Biology and Regenerative Medicine | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD25H3 | Genomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD26H3 | Fungal Biology and Pathogenesis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD27H3 | Vertebrate Endocrinology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD29H3 | Pathobiology of Human Disease | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD32H3 | Human Respiratory Pathophysiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD33H3 | Comparative Animal Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD34H3 | Conservation Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD36H3 | Advanced Topics in Molecular Parasitology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD37H3 | Biology of Plant Stress | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD43H3 | Animal Movement and Exercise | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD59H3 | Models in Ecology, Epidemiology and Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | BIOD65H3 | Pathologies of the Nervous System | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HTLD18H3 |  | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTD44H3 | Environmental Contaminants, Vulnerability, and Toxicity | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From |  | 12. 0.5 credit in Courses Related to Human Health |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTA02H3 | Exploring Health and Society: Theories, Perspectives, and Patterns | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTA03H3 | Navigating Health and Society: Research, Practice, and Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTB15H3 | Health Research Methodology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTB16H3 | Public Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTB20H3 | Human Biological Variation and Evolution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTB22H3 | Biological Determinants of Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTB40H3 | Health Policy and Health Systems | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | HLTB44H3 | Pathophysiology and Etiology of Disease | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
-| Third/Fourth Years | Choose From | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 1. 1.0 credit in Introductory Biology Courses | BIOA01H3 | Life on Earth: Unifying Principles | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 1. 1.0 credit in Introductory Biology Courses | BIOA02H3 | Life on Earth: Form, Function and Interactions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 2. 1.0 credit in Introductory Chemistry Courses | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 2. 1.0 credit in Introductory Chemistry Courses | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 2. 1.0 credit in Introductory Chemistry Courses (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 3. 1.0 credit in Mathematics | MATA29H3 | Calculus I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 3. 1.0 credit in Mathematics (or) | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 3. 1.0 credit in Mathematics | MATA35H3 | Calculus II for Biological Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 3. 1.0 credit in Mathematics (or) | MATA36H3 | Calculus II for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 4. 1.0 credit in Introductory Physics Courses | PHYA10H3 | Physics I for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 4. 1.0 credit in Introductory Physics Courses (or) | PHYA11H3 | Physics I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 4. 1.0 credit in Introductory Physics Courses | PHYA21H3 | Physics II for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 4. 1.0 credit in Introductory Physics Courses (or) | PHYA22H3 | Physics II for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From |  | (PSYB07H3) Data Analysis in Psychology |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From; Note: We recommend students take | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From; Note: We recommend students take | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From; Note: We recommend students take | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From; Note: We recommend students take (or) | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From; Note: We recommend students take (or) | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| First Year | 5. 0.5 credit in Statistics; Choose From; Note: We recommend students take | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses | BIOB10H3 | Cell Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses | BIOB11H3 | Molecular Aspects of Cellular and Genetic Processes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses | BIOB34H3 | Animal Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses | BIOB38H3 | Plants and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses | BIOB50H3 | Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses | BIOB51H3 | Evolutionary Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses; Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 6. 3.0 credits in Biology Core Courses; Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 7. 1.0 credit in Biology Core Labs | BIOB32H3 | Animal Physiology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 7. 1.0 credit in Biology Core Labs | BIOB33H3 | Human Development and Anatomy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 8. 1.0 credit in Organic Chemistry Courses | CHMB41H3 | Organic Chemistry I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Second Year | 8. 1.0 credit in Organic Chemistry Courses | CHMB42H3 | Organic Chemistry II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 9. 2.5 credits in C-level Biology Core Courses; Choose From | BIOC15H3 | Genetics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 9. 2.5 credits in C-level Biology Core Courses; Choose From | BIOC17H3 | Microbiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 9. 2.5 credits in C-level Biology Core Courses; Choose From | BIOC20H3 | Principles of Virology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 9. 2.5 credits in C-level Biology Core Courses; Choose From | BIOC32H3 | Human Physiology I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 9. 2.5 credits in C-level Biology Core Courses; Choose From | BIOC34H3 | Human Physiology II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 9. 2.5 credits in C-level Biology Core Courses; Choose From | BIOC39H3 | Immunology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | ANTC47H3 | Human Skeletal Anatomy and Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | ANTC48H3 | Advanced Topics In Human Osteology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC10H3 | Cell Biology: Proteins from Life to Death | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC11H3 | Microbial Communities in Nature, Health and Industry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC12H3 | Biochemistry I: Proteins and Enzymes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC13H3 | Biochemistry II: Bioenergetics and Metabolism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC14H3 | Genes, Environment and Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC16H3 | Evolutionary Genetics and Genomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC18H3 | Looking Inside Cells: Current Methods in Cell Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC19H3 | Animal Developmental Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC21H3 | Vertebrate Histology: Cells, Tissues and Techniques | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC30H3 | From Genetic Codes to Fantastic Creatures | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC35H3 | Principles in Parasitology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC40H3 | Plant Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC58H3 | Biological Consequences of Global Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC65H3 | Environmental Toxicology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC70H3 | An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine) | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 10. 1.5 credits in Additional C-level Biology Courses; Choose From; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD06H3 | Advanced Topics in Neural Basis of Motor Control | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD07H3 | Advanced Topics and Methods in Neural Circuit Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD12H3 | Protein Homeostasis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD13H3 | Herbology: The Science Behind Medicinal Plants | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD15H3 | Mechanism of Gene Regulation in Health and Disease | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD17H3 | Seminars in Cellular Microbiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD18H3 | Practical Approaches in Infection and Immunity | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD19H3 | Epigenetics in Health and Disease | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD20H3 | Special Topics in Virology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD24H3 | Human Stem Cell Biology and Regenerative Medicine | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD25H3 | Genomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD26H3 | Fungal Biology and Pathogenesis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD27H3 | Vertebrate Endocrinology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD29H3 | Pathobiology of Human Disease | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD32H3 | Human Respiratory Pathophysiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD33H3 | Comparative Animal Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD34H3 | Conservation Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD36H3 | Advanced Topics in Molecular Parasitology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD37H3 | Biology of Plant Stress | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD43H3 | Animal Movement and Exercise | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD59H3 | Models in Ecology, Epidemiology and Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | BIOD65H3 | Pathologies of the Nervous System | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | HTLD18H3 |  | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 11. 1.0 credit in D-level Courses; Choose From | HLTD44H3 | Environmental Contaminants, Vulnerability, and Toxicity | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | HLTA02H3 | Exploring Health and Society: Theories, Perspectives, and Patterns | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | HLTA03H3 | Navigating Health and Society: Research, Practice, and Policy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | HLTB15H3 | Health Research Methodology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | HLTB16H3 | Public Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | HLTB20H3 | Human Biological Variation and Evolution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | HLTB22H3 | Biological Determinants of Health | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | HLTB40H3 | Health Policy and Health Systems | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | HLTB44H3 | Pathophysiology and Etiology of Disease | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
+| Third/Fourth Years | 12. 0.5 credit in Courses Related to Human Health; Choose From | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0215) |
 
 ## References
 

@@ -48,7 +48,7 @@ ms.date: 2026-11-08
 | **Texture stylisée de personnages pour le film d'animation**<br>动画电影的角色风格化纹理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51517) |
 | **Sculpture de personnages pour le film d'animation**<br>动画电影角色雕刻 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51517) |
 | **Analyse de styles de personnages et de layouts**<br>角色风格与布局分析 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51517) |
-| **Introduction à la sculpture et texturation 3D**<br>3D雕刻与纹理导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51517) |
+| **Introduction à la sculpture et texturation 3D**<br>3D雕刻与纹理入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51517) |
 | **Projet 4 - Animation 3D**<br>项目 4 - 3D动画 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51517) |
 | **Projet 5 - Animation 3D**<br>项目 5 - 3D动画 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51517) |
 | **Autonomisation lors d'un projet d'équipe - Préproduction 3D**<br>团队项目赋能 - 3D前期制作 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51517) |

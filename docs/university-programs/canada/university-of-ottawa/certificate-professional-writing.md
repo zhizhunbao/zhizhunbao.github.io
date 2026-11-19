@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/) |
 | **Organizational Communication**<br>组织传播 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/) |
 | **Writing for Digital Media I: Fundamentals of Digital Literacy**<br>数字媒体写作 I：数字素养基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/) |
-| **Introduction to Technical Writing**<br>技术写作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/) |
+| **Introduction to Technical Writing**<br>技术写作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/) |
 | **Writing about the Arts**<br>艺术写作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/) |
 | **Techniques of Composition**<br>作曲技法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/) |
 | **Digital Journalism I**<br>数字新闻 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-professional-writing/) |

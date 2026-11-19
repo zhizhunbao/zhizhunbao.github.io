@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Foundations of ECE II**<br>幼儿教育基础 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-c100) |
 | **Integrated Seminar II**<br>综合研讨 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-c100) |
 | **Applied Curriculum II**<br>应用课程 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-c100) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-c100) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-c100) |
 | **Infant & Child Development II**<br>婴幼儿发展 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-c100) |
 | **Professional Development Workshop I**<br>专业发展工作坊 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-c100) |
 | **Integrated Seminar III**<br>综合研讨 III | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/early-childhood-education-program-c100) |

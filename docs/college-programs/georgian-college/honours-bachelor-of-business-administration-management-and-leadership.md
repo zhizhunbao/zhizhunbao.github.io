@@ -11,19 +11,19 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Business Administration (Management and Leadership)**<br>工商管理荣誉学士（管理与领导力） | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Management Principles**<br>管理学原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Leadership Models and Theories**<br>领导力模型与理论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Introduction to Multidisciplinary Research**<br>多学科研究入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Digital Marketing and Social Media**<br>数字营销与社交媒体 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **The Holistic Leadership of Indigenous People (Miziweshinoowin-Niigaanziwin)**<br>原住民整体领导力（Miziweshinoowin-Niigaanziwin） | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
-| **Introduction to Human Resource Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
+| **Introduction to Human Resource Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Introduction to Workplace Training and Development**<br>职场培训与发展入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Select 1 of the following courses: SOCI 1000 , HUMA 1012 or SCEN 1000 .**<br>从下列课程中选修1门：SOCI 1000、HUMA 1012或SCEN 1000。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bbml/) |

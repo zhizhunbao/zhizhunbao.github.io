@@ -1,26 +1,26 @@
 ---
-title: "3.3.16 Communication, Major: Bachelor of Arts"
+title: "4.3.16 Communication, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Communication, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.16 Communication, Major: Bachelor of Arts
+# 4.3.16 Communication, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Communication, Major: Bachelor of Arts**<br>传播学，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Statistics for the Health Sciences**<br>健康科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Health Sciences Statistics**<br>健康科学统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Communication**<br>传播学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Statistics for the Health Sciences**<br>健康科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Health Sciences Statistics**<br>健康科学统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Communication**<br>传播学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Media, Culture, and Society**<br>媒体、文化与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Communication Research Methods**<br>传播研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Media Processes and Effects**<br>媒体过程与效应 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
@@ -74,10 +74,10 @@ ms.date: 2026-11-18
 | **Advanced Video**<br>高级视频 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Games, Decisions and Negotiations**<br>博弈、决策与谈判 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Minds and Machines**<br>心智与机器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Computers, Ethics, and Public Policy**<br>计算机、伦理与公共政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Social Computing**<br>社会计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Human-Computer Interaction: Foundations and Frontiers**<br>人机交互：基础与前沿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
@@ -91,7 +91,7 @@ ms.date: 2026-11-18
 | **Creative Nonfiction**<br>创意非虚构写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Feminism and Technology**<br>女性主义与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Gender, Work, and the Global Digital Economy**<br>性别、工作与全球数字经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Film Study**<br>电影研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Film Study**<br>电影研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Language of Film**<br>电影语言 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Media and Mediums**<br>媒体与媒介 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Immersive Cinema**<br>沉浸式电影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
@@ -101,7 +101,7 @@ ms.date: 2026-11-18
 | **Image and Sound: Filmmaking for the Digital Age**<br>图像与声音：数字时代的电影制作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Industry Immersion: Film and Media**<br>行业沉浸：电影与媒体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Screen Writing III: Advanced Screenwriting**<br>编剧 III：高级编剧 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Film and Video Production**<br>电影与视频制作导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Film and Video Production**<br>电影与视频制作入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Capstone: Crafting Digital Stories**<br>毕业课程：打造数字故事 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **The News Media and American Democracy**<br>新闻媒体与美国民主 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Taylor Swift and Millennial America**<br>泰勒斯威夫特与千禧一代美国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
@@ -114,7 +114,7 @@ ms.date: 2026-11-18
 | **Film, Food and the Italian Identity**<br>电影、食物与意大利身份认同 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **The Body of Love: Romance, Love and Sex in Italian Cinema**<br>爱的身体：意大利电影中的浪漫、爱情与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Women in Film**<br>电影中的女性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
-| **Introduction to Creative and New Media**<br>创意与新媒体导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
+| **Introduction to Creative and New Media**<br>创意与新媒体入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Exploring Japan's Media Landscape**<br>探索日本的媒体格局 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **Alternatives to Traditional Democracy**<br>传统民主的替代方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |
 | **France in Crisis & Revolution: Historical Political Economics through a French Lens**<br>危机与革命中的法国：透过法国视角看历史政治经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/communication/bachelor-of-arts) |

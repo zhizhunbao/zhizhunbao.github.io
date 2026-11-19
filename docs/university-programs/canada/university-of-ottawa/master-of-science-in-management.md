@@ -38,9 +38,9 @@ ms.date: 2026-11-11
 | **Application of Empirical Methods in Finance**<br>金融实证方法应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
 | **Advanced Corporate Finance and Empirical Methods**<br>高级公司金融与实证方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
 | **Financial Accounting and Reporting**<br>财务会计与报告 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
-| **Introduction to Qualitative and Experimental Research in Accounting**<br>会计学定性与实验研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
+| **Introduction to Qualitative and Experimental Research in Accounting**<br>会计学定性与实验研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
 | **Sustainability Accounting and Control**<br>可持续性会计与控制 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
-| **Introduction to Accounting Research: Special Topics and New Developments**<br>会计研究导论：专题与新进展 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
+| **Introduction to Accounting Research: Special Topics and New Developments**<br>会计研究入门：专题与新进展 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
 | **Evidence-Based HROB Interventions**<br>循证 HROB 干预 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
 | **Current Trends in HROB**<br>HROB 当前趋势 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |
 | **Fundamentals of Human Resources Management**<br>人力资源管理基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-science-management/) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Physics**<br>物理学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/geomatics-surveying-engineering-technology-co-op) |
 | **Mathematics\***<br>数学\* | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/geomatics-surveying-engineering-technology-co-op) |
 | **Technical Report Writing I**<br>技术报告写作 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/geomatics-surveying-engineering-technology-co-op) |
-| **Intro to Geodesy & Geomatics**<br>大地测量与测绘地理信息导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/geomatics-surveying-engineering-technology-co-op) |
+| **Intro to Geodesy & Geomatics**<br>大地测量与测绘地理信息入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/geomatics-surveying-engineering-technology-co-op) |
 | **Cartography**<br>制图学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/geomatics-surveying-engineering-technology-co-op) |
 | **AutoCAD Essentials for GSET**<br>GSET 的 AutoCAD 基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/geomatics-surveying-engineering-technology-co-op) |
 | **Intro to Programming for GSET**<br>GSET编程入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/geomatics-surveying-engineering-technology-co-op) |

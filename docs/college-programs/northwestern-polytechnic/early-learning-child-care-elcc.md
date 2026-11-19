@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Early Learning & Child Care (ELCC)**<br>早期学习与儿童保育 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/elcc-certificate) |
 | **Child Development I**<br>儿童发展 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/elcc-certificate) |
-| **Introduction to Early Learning and Child Care**<br>早期学习与儿童照护导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/elcc-certificate) |
+| **Introduction to Early Learning and Child Care**<br>早期学习与儿童照护入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/elcc-certificate) |
 | **Health, Nutrition and Safety**<br>健康、营养与安全 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/elcc-certificate) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/elcc-certificate) |
 | **Art, Music and Story**<br>艺术、音乐与故事 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/elcc-certificate) |

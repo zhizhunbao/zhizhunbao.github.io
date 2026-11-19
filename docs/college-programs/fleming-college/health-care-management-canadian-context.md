@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Communication Skills in Healthcare Leadership**<br>医疗领导力沟通技能 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/health-care-management-canadian-context) |
 | **Concepts in Health Care**<br>医疗保健概念 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/health-care-management-canadian-context) |
 | **Introduction to Canadian Health Care Operations**<br>加拿大医疗运营入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/health-care-management-canadian-context) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/health-care-management-canadian-context) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/health-care-management-canadian-context) |
 | **Introduction to Law & Ethics for Canadian Health Care Leaders**<br>加拿大医疗领导者的法律与伦理入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/health-care-management-canadian-context) |
 | **Introduction to Leadership & Communication in Canadian Health Care Administration**<br>加拿大医疗行政中的领导力与沟通入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/health-care-management-canadian-context) |
 | **Introduction to the Canadian Health Care System**<br>加拿大医疗体系入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/health-care-management-canadian-context) |

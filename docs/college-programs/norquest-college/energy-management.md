@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Energy Fundamentals**<br>能源基础 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/energy-management/costs-and-courses/) |
 | **Building Science Foundations**<br>建筑科学基础 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/energy-management/costs-and-courses/) |
 | **Environmental Issues**<br>环境问题 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/energy-management/costs-and-courses/) |
-| **Introduction to Energy Management**<br>能源管理导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/energy-management/costs-and-courses/) |
+| **Introduction to Energy Management**<br>能源管理入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/energy-management/costs-and-courses/) |
 | **Data Analysis for Energy**<br>能源数据分析 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/energy-management/costs-and-courses/) |
 | **Effective Communication in Energy**<br>能源领域有效沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/energy-management/costs-and-courses/) |
 | **Utility Systems and Billing**<br>公用事业系统与计费 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/energy-management/costs-and-courses/) |

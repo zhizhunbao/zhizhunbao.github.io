@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Public Safety (Honours)(Co-op)**<br>公共安全学士（荣誉）（带薪实习） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/ppsi/program/bachelor-public-safety-honours/) |
 | **Communications and Academic Writing**<br>沟通与学术写作 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
-| **Introduction to Public Safety Protection**<br>公共安全保护导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
+| **Introduction to Public Safety Protection**<br>公共安全保护入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Principles and Practice of Emergency Management**<br>应急管理原理与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Public Safety Policy**<br>公共安全政策 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Information Technology Systems**<br>信息技术系统 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Cooperative Education and Job Readiness**<br>合作教育与就业准备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Information Technology Security Concepts**<br>信息技术安全概念 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Ethical Decision Making**<br>伦理决策 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
-| **Introduction to Organized Crime**<br>有组织犯罪导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
+| **Introduction to Organized Crime**<br>有组织犯罪入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Principles and Practice of Natural Hazard Mitigation**<br>自然灾害减灾原理与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **French as a Second Language-Beginner 1**<br>第二语言法语：初级 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
@@ -43,8 +43,8 @@ ms.date: 2026-11-08
 | **Business Crisis and Continuity Management**<br>企业危机与连续性管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Co-Op Work Term I**<br>带薪实习学期 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Facility Management**<br>设施管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
-| **Introduction to Spatial Analysis for Public Safety**<br>公共安全空间分析导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
-| **Introduction to Public Safety Intelligence and Investigation**<br>公共安全情报与调查导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
+| **Introduction to Spatial Analysis for Public Safety**<br>公共安全空间分析入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
+| **Introduction to Public Safety Intelligence and Investigation**<br>公共安全情报与调查入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Awareness and Training**<br>意识与培训 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Applied Spatial Analysis for Public Safety**<br>公共安全应用空间分析 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |
 | **Terrorism and Weapons of Mass Destruction**<br>恐怖主义与大规模杀伤性武器 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1600B03FWO.pdf) |

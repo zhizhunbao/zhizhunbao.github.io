@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Sociology (Okanagan)**<br>社会学主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/sociology) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/sociology) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/sociology) |
 | **Foundations of Sociological Thought**<br>社会学思想基础 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/sociology) |
 | **Fundamentals of Sociological Research**<br>社会学研究基础 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/sociology) |
 | **Classical Sociological Theory**<br>古典社会学理论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/sociology) |

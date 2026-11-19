@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **The Physical Environment**<br>自然环境 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/aviation) |
 | **Technical Math**<br>技术数学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/aviation) |
 | **Intro to Wellness, Fitness and Nutrition**<br>健康、健身与营养入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/aviation) |
-| **Introduction to Microcomputers**<br>微型计算机导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/aviation) |
+| **Introduction to Microcomputers**<br>微型计算机入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/aviation) |
 | **Advanced Meteorology**<br>高级气象学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/aviation) |
 | **Management Theory**<br>管理理论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/aviation) |
 | **Advanced Aeronautics**<br>高级航空学 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/aviation) |

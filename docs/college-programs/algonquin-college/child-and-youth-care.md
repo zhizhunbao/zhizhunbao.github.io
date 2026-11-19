@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Child and Youth Care**<br>儿童与青少年关怀 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/wellness-safety-community/program/child-and-youth-care/) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0476X01FWO.pdf) |
 | **Anti-Oppressive Practice in Child and Youth Care**<br>儿童与青少年关怀中的反压迫实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0476X01FWO.pdf) |
-| **Introduction to Child and Youth Care**<br>儿童与青少年关怀导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0476X01FWO.pdf) |
+| **Introduction to Child and Youth Care**<br>儿童与青少年关怀入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0476X01FWO.pdf) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0476X01FWO.pdf) |
 | **Mental Health**<br>心理健康 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0476X01FWO.pdf) |
 | **Adolescent Development**<br>青少年发展 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0476X01FWO.pdf) |

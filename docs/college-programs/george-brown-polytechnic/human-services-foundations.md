@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Group Process I a**<br>团体过程 I a | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/human-services-foundations-program-a113) |
 | **Personal and Career Development**<br>个人与职业发展 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/human-services-foundations-program-a113) |
 | **Foundations of Psychology 1**<br>心理学基础 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/human-services-foundations-program-a113) |
-| **Introduction to Community Research**<br>社区研究导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/human-services-foundations-program-a113) |
+| **Introduction to Community Research**<br>社区研究入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/human-services-foundations-program-a113) |
 | **Speaking with Confidence**<br>自信表达 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/human-services-foundations-program-a113) |
 | **Foundations of Psychology 2**<br>心理学基础 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/human-services-foundations-program-a113) |
 | **Ableism, Mental Health and Oppression: Sociological Perspectives**<br>残障歧视、心理健康与压迫：社会学视角 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/human-services-foundations-program-a113) |

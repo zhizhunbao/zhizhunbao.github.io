@@ -27,8 +27,8 @@ ms.date: 2026-11-08
 | **Aural Skills 2**<br>视唱练耳 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
 | **Tonal Harmony and Voice Leading 2**<br>调性和声与声部进行 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
 | **Principal Instrument 2**<br>主修乐器 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
-| **Introduction to Music Technologies**<br>音乐技术导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
-| **Intro to Folk and World Music**<br>民间与世界音乐导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
+| **Introduction to Music Technologies**<br>音乐技术入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
+| **Intro to Folk and World Music**<br>民间与世界音乐入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
 | **Music, 1600-1780**<br>音乐（1600 至 1780 年） | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
 | **The Music Profession**<br>音乐职业 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |
 | **Collaborative Ensemble 3**<br>协作合奏 3 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/music-performance-diploma) |

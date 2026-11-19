@@ -20,9 +20,9 @@ ms.date: 2026-11-11
 | **Quantitative Methods**<br>定量方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
 | **Survey Design and Quantitative Data Acquisition**<br>调查设计与定量数据采集 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
 | **Qualitative Methods**<br>定性方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
-| **Introduction to Qualitative Methodology**<br>定性方法论导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
-| **Introduction to Organizational Communication**<br>组织传播导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
-| **Introduction to Media Studies**<br>媒体研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
+| **Introduction to Qualitative Methodology**<br>定性方法论入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
+| **Introduction to Organizational Communication**<br>组织传播入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
+| **Introduction to Media Studies**<br>媒体研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
 | **Organizational Communication**<br>组织传播 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
 | **Theories of the Media**<br>媒体理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |
 | **Media Ethics**<br>媒体伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/joint-honours-bsocsc-communication-sociology/) |

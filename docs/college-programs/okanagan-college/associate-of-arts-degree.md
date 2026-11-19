@@ -11,17 +11,17 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Associate of Arts Degree**<br>文科副学士学位 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Mass Communication**<br>大众传播导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Creative Writing I**<br>创意写作导论 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Creative Writing II**<br>创意写作导论 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Mass Communication**<br>大众传播入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Creative Writing I**<br>创意写作入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Creative Writing II**<br>创意写作入门 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Applied Publishing Skills**<br>应用出版技能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Critical Writing and Reading: Poetry and Drama**<br>批判性写作与阅读：诗歌与戏剧 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Critical Writing and Reading: Short Fiction and the Novel**<br>批判性写作与阅读：短篇小说与长篇小说 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Critical Writing and Reading: Narrative**<br>批判性写作与阅读：叙事 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Acting**<br>表演导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to the Creative Process**<br>创作过程导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Film Studies**<br>电影研究导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Acting**<br>表演入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to the Creative Process**<br>创作过程入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Film Studies**<br>电影研究入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Studies in the Theory and Practice of Creative Writing**<br>创意写作理论与实践研究 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Survey of English Literature I**<br>英国文学概论 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Survey of English Literature II**<br>英国文学概论 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
@@ -53,15 +53,15 @@ ms.date: 2026-11-08
 | **Studies in Nature Writing**<br>自然写作研究 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Okanagan Concepts and Frameworks**<br>Okanagan 概念与框架 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Geographical Hydrology**<br>地理水文学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Environmental Issues**<br>环境问题导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Environmental Issues**<br>环境问题入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **The Canadian Landscape**<br>加拿大景观 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Urban Geography**<br>城市地理学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Cartography, GIS and Remote Sensing**<br>制图学、GIS 与遥感导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Urban Geography**<br>城市地理学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Cartography, GIS and Remote Sensing**<br>制图学、GIS 与遥感入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Eco-Feminism**<br>生态女性主义 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Psychology: Basic Processes**<br>心理学导论：基本过程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Psychology: Personal Functioning**<br>心理学导论：个人功能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Sociology II**<br>社会学导论 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Psychology: Basic Processes**<br>心理学入门：基本过程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Psychology: Personal Functioning**<br>心理学入门：个人功能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Sociology II**<br>社会学入门 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Astronomy for the Physical Sciences I**<br>物理科学天文学 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Astronomy I**<br>天文学 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Astronomy for the Physical Sciences II**<br>物理科学天文学 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
@@ -75,13 +75,13 @@ ms.date: 2026-11-08
 | **Human Anatomy and Physiology II**<br>人体解剖学与生理学 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Principles of Chemistry I**<br>化学原理 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Introductory Chemistry I**<br>化学入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Forensic Science**<br>法庭科学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Forensic Science**<br>法庭科学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Principles of Chemistry II**<br>化学原理 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Chemistry of Brewing**<br>酿造化学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Weather and Climate**<br>天气与气候 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Geomorphology**<br>地貌学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
-| **Introduction to Physical Geography: Water & Landscapes**<br>自然地理学导论：水与地貌 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
+| **Introduction to Physical Geography: Water & Landscapes**<br>自然地理学入门：水与地貌 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Calculus-Based Physics I**<br>基于微积分的物理 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Introductory Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |
 | **Calculus-Based Physics II**<br>基于微积分的物理 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-arts-degree) |

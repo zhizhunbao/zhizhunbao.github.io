@@ -16,12 +16,12 @@ ms.date: 2026-11-08
 | **Nursing Theoretical Foundations 1**<br>护理理论基础 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Nursing as a Profession**<br>护理作为一门职业 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Health Assessment 1**<br>健康评估 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
-| **Introduction to Composition and Rhetoric**<br>写作与修辞导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
+| **Introduction to Composition and Rhetoric**<br>写作与修辞入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Nursing Science – Anatomy and Physiology 2**<br>护理科学 – 解剖与生理学 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Patient-Centred Care: The Older Adult**<br>以患者为中心的护理：老年人 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Nursing Theoretical Foundations 2**<br>护理理论基础 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Nursing Science – Patho and Pharmacology 1**<br>护理科学 – 病理与药理学 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
-| **Clinical Practice and Application: Introduction to Nursing**<br>临床实践与应用：护理导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
+| **Clinical Practice and Application: Introduction to Nursing**<br>临床实践与应用：护理入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Degree Breadth Elective**<br>学位广度选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Nursing Science – Patho and Pharmacology 2**<br>护理科学 – 病理与药理学 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |
 | **Patient-Centred Care: Acute Care / Mental Health**<br>以患者为中心的护理：急症护理/心理健康 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-science-nursing) |

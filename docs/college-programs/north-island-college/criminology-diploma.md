@@ -11,16 +11,16 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminology Diploma**<br>犯罪学文凭 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Introduction to Canadian Law & Legal Institutions**<br>加拿大法律与法律制度导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Introduction to Canadian Law & Legal Institutions**<br>加拿大法律与法律制度入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Law and Politics**<br>法律与政治 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Introductory Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Introductory Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Psychological Explanations of Criminal and Deviant Behaviour**<br>犯罪与越轨行为的心理学解释 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Introduction to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Introduction to Sociological Research Methods**<br>社会学研究方法导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Introduction to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Introduction to Sociological Research Methods**<br>社会学研究方法入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Sociological Explanations of Crime & Deviance**<br>犯罪与越轨行为的社会学解释 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Essay Writing and Critical Analysis**<br>论文写作与批判分析 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Essay Writing & Indigenous Perspectives**<br>论文写作与原住民视角 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
@@ -28,10 +28,10 @@ ms.date: 2026-11-08
 | **Indigenous Literatures in Canada**<br>加拿大原住民文学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Introductory Philosophy: Knowledge & Reality**<br>哲学入门：知识与实在 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Intro to Data Analysis in Psychology**<br>心理学数据分析导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Introduction to Corrections**<br>矫正学导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
-| **Introduction to Policing**<br>警务导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Intro to Data Analysis in Psychology**<br>心理学数据分析入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Introduction to Corrections**<br>矫正学入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
+| **Introduction to Policing**<br>警务入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 | **Historical Reactions to Criminal and Deviant Behaviour**<br>对犯罪与越轨行为的历史反应 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/criminology-diploma.html) |
 
 ## Courses

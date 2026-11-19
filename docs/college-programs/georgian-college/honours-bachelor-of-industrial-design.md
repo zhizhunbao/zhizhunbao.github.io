@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Drawing for Design**<br>设计绘画 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbid/) |
 | **Design, Art, and Technology**<br>设计、艺术与技术 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbid/) |
 | **Perception and Emotion**<br>感知与情绪 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbid/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbid/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbid/) |
 | **Form and Function Studio**<br>形态与功能工作室 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbid/) |
 | **Design Technologies**<br>设计技术 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbid/) |
 | **Human Factors and Ergonomics**<br>人因与人体工程学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbid/) |

@@ -12,16 +12,16 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Modern Languages and Literatures, 4-Year BA**<br>现代语言与文学，4 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **may not be counted as a main language credit**<br>不得计为主要语言学分 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
-| **Introduction to Japanese Language**<br>日语导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
+| **Introduction to Japanese Language**<br>日语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **Intermediate Japanese Language**<br>中级日语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
-| **Introduction to Chinese Language**<br>汉语导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
+| **Introduction to Chinese Language**<br>汉语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **Intermediate Chinese Language**<br>中级汉语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
-| **Introduction to Korean Language**<br>韩语导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
+| **Introduction to Korean Language**<br>韩语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **Introductory Cree**<br>克里语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **Intermediate Cree**<br>中级克里语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **Introductory Ojibwe**<br>奥吉布瓦语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **Intermediate Ojibwe**<br>中级奥吉布瓦语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **Literature in Translation**<br>翻译文学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 | **Introductory Portuguese**<br>葡萄牙语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/mod.pdf#page=1) |
 

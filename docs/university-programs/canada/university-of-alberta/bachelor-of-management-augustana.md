@@ -15,13 +15,13 @@ ms.date: 2026-11-11
 | **Community Partnership Project and Professionalization**<br>社区伙伴项目与专业化 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Introductory Accounting**<br>会计学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Managerial Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Ethics in Economics and Business**<br>经济与商业中的伦理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Corporate Finance**<br>公司金融 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Organizational Research Methods**<br>组织研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Business Policy and Strategy**<br>商业政策与战略 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Intermediate Microeconomic Analysis I**<br>中级微观经济分析 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **Organizational Theory**<br>组织理论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Selected Topics in Management**<br>管理学专题选读 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
-| **An Introduction to Community Engagement**<br>社区参与导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
+| **An Introduction to Community Engagement**<br>社区参与入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Selected Topics in Community Service-Learning**<br>社区服务学习专题选读 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Community Service-Learning Practicum**<br>社区服务学习实习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |
 | **Directed Study in Community Service-Learning**<br>社区服务学习指导研究 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110444&returnto=20846) |

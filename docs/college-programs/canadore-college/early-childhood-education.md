@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Early Childhood Education**<br>幼儿教育 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education) |
 | **College Communication**<br>学院交流 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education) |
-| **Introduction to Practice**<br>实践导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education) |
+| **Introduction to Practice**<br>实践入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education) |
 | **Observation & Documentation**<br>观察与记录 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education) |
 | **Health, Safety & Well-Being**<br>健康、安全与福祉 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education) |
 | **Emotional Intelligence & Guidance**<br>情商与指导 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education) |

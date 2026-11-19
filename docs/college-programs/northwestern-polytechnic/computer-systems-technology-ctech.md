@@ -11,24 +11,24 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Systems Technology (CTECH)**<br>计算机系统技术 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
-| **Introduction to Computing Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
+| **Introduction to Computing Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Elementary Data Structures**<br>初等数据结构 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Data Communications and Networking**<br>数据通信与网络 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
-| **Introduction to PC Hardware and Systems Configuration**<br>PC硬件与系统配置导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
+| **Introduction to PC Hardware and Systems Configuration**<br>PC硬件与系统配置入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Formal Systems and Logic in Computing Science**<br>计算机科学中的形式系统与逻辑 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Linear Algebra I**<br>线性代数 1 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Practical Programming Methodology**<br>实用编程方法 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Computer Organization and Architecture I**<br>计算机组成与体系结构 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
-| **Introduction to File and Database Management**<br>文件与数据库管理导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
+| **Introduction to File and Database Management**<br>文件与数据库管理入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Computer Organization and Architecture II**<br>计算机组成与体系结构 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Image Processing and Computer Vision**<br>图像处理与计算机视觉 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Algorithms I**<br>算法 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **User Interfaces**<br>用户界面 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Computer Game Studies**<br>电脑游戏研究 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
-| **Introduction to Computer Graphics**<br>计算机图形学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
+| **Introduction to Computer Graphics**<br>计算机图形学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Telecommunications and Computers**<br>电信与计算机 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |
 | **Programming Paradigms**<br>编程范式 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/computer-systems-diploma) |

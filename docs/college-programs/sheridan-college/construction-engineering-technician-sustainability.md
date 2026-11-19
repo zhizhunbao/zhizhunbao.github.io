@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Essential Mathematics**<br>基础数学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Smart Construction Management: Reading and Coordinating Digital Plans**<br>智能建造管理：数字图纸的识读与协调 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Inside the Build: Exploring Construction Sites and Practices, Careers**<br>建造内幕：探索建筑工地、实践与职业 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
-| **Introduction to Building Materials and Systems**<br>建筑材料与系统导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
+| **Introduction to Building Materials and Systems**<br>建筑材料与系统入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Communication in the Skilled Trade**<br>技工行业沟通 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Architectural Drafting 2 CAD**<br>建筑制图2 CAD | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Estimating and Cost Modelling for Sustainable Construction**<br>可持续建筑的估算与成本建模 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Building Information Modelling**<br>建筑信息模型 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Project Management and Leadership in Sustainable Construction**<br>可持续建筑的项目管理与领导力 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Specifications**<br>规格说明 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
-| **Precision Surveying and Introduction to Geomatics**<br>精密测量与地理信息学导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
+| **Precision Surveying and Introduction to Geomatics**<br>精密测量与地理信息学入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Human Relations: The Interpersonal Experience**<br>人际关系：人际交往体验 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Co-op Work-Term 1 Preparation**<br>合作教育工作学期1预备 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |
 | **Modular and Prefabrication Methods for Sustainable Construction**<br>可持续建筑的模块化与预制方法 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/construction-engineering-technician-sustainability) |

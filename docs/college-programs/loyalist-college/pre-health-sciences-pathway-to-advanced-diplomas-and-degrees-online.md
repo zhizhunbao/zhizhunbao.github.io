@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees-online/) |
 | **Mathematics**<br>数学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees-online/) |
 | **PreHealth Science Seminar**<br>健康预科科学研讨 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees-online/) |
-| **Introduction to Physics**<br>物理学导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees-online/) |
+| **Introduction to Physics**<br>物理学入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees-online/) |
 | **Psychology 1**<br>心理学 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees-online/) |
 | **Sociology 1**<br>社会学 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees-online/) |
 | **Adv. Lang. Theory&Composition**<br>高级语言理论与写作 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees-online/) |

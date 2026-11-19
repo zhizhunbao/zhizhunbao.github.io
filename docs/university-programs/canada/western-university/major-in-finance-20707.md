@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN FINANCE (20707)**<br>金融主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUSINESS**<br>商业导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUSINESS**<br>商业入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MICROECONOMICS**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
 | **PRINCIPLES OF MACROECONOMICS**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF CALCULUS**<br>微积分方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **ADVANCED INTERNATIONAL FINANCE**<br>高级国际金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE ACCOUNTING I**<br>中级会计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE ACCOUNTING II**<br>中级会计 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO TAXATION IN CANADA**<br>加拿大税务导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO TAXATION IN CANADA**<br>加拿大税务入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
 | **INDUSTRIAL ECONOMICS**<br>产业经济学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20707&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses

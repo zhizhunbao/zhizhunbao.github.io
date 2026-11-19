@@ -15,24 +15,24 @@ ms.date: 2026-11-08
 | **Anatomy & Physiology**<br>解剖与生理学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **English**<br>英语 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
-| **Introduction to Kinesiology**<br>运动机能学导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
-| **Introduction to Sport and Exercise Psychology**<br>运动与锻炼心理学导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
+| **Introduction to Kinesiology**<br>运动机能学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
+| **Introduction to Sport and Exercise Psychology**<br>运动与锻炼心理学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **The Physiology of Human Movement**<br>人体运动生理学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Strength Training and Conditioning**<br>力量训练与体能调节 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
-| **Introduction to Management in Kinesiology**<br>运动机能学管理导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
+| **Introduction to Management in Kinesiology**<br>运动机能学管理入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Athletic Therapy**<br>运动治疗 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Exercise Programming for Special Populations**<br>特殊人群运动方案设计 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Modes and Methods of Physical Conditioning I**<br>体能训练模式与方法 I | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Modes and Methods of Physical Conditioning Ii**<br>体能训练模式与方法 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Exercise Programming I**<br>运动方案设计 I | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Exercise Programming II**<br>运动方案设计 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Standard First Aid and CPR/AED Level C**<br>标准急救与CPR/AED C级 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Professional Internship Preparation**<br>专业实习准备 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Professional Internship**<br>专业实习 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Nutrition**<br>营养学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
-| **Introduction to Sport and Recreation Programming**<br>体育与休闲活动策划导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
+| **Introduction to Sport and Recreation Programming**<br>体育与休闲活动策划入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Leadership**<br>领导力 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 | **Sociology of Sport**<br>体育社会学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/kinesiology/index.php) |
 

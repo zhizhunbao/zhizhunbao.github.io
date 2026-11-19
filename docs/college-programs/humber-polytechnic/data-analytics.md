@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Data Analytics**<br>数据分析 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/data-analytics) |
-| **Introduction to Database and SQL**<br>数据库与SQL导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/data-analytics) |
+| **Introduction to Database and SQL**<br>数据库与SQL入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/data-analytics) |
 | **Business Concepts**<br>商业概念 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/data-analytics) |
 | **Emerging Trends**<br>新兴趋势 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/data-analytics) |
 | **Machine Learning and Programming 1**<br>机器学习与编程 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/data-analytics) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Portuguese Specialist (Arts Program)**<br>葡萄牙语专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0338) |
-| **Introduction to the Literatures of the Portuguese-Speaking World**<br>葡语世界文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0338) |
+| **Introduction to the Literatures of the Portuguese-Speaking World**<br>葡语世界文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0338) |
 | **Advanced Academic Portuguese**<br>高级学术葡萄牙语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0338) |
 | **Community Engaged Learning of Portuguese in Toronto and the GTA**<br>多伦多及大多伦多地区的社区参与式葡萄牙语学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0338) |
 | **Portuguese for Beginners I**<br>葡萄牙语初级 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0338) |

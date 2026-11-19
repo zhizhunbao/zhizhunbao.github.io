@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Problem-Based Quantitative Analysis for Kinesiology**<br>运动机能学的基于问题的定量分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1EsJyRCj3) |
 | **Biomechanics of Human Movement**<br>人体运动生物力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1EsJyRCj3) |
 | **Biomechanics of Human Movement Laboratory**<br>人体运动生物力学实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1EsJyRCj3) |
-| **Introduction to Human Nutrition**<br>人类营养导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1EsJyRCj3) |
+| **Introduction to Human Nutrition**<br>人类营养入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1EsJyRCj3) |
 | **Exercise Physiology and Metabolism**<br>运动生理学与代谢 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1EsJyRCj3) |
 | **Exercise Physiology and Metabolism Laboratory**<br>运动生理学与代谢实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1EsJyRCj3) |
 | **Movement Assessment and Exercise Prescription**<br>运动评估与运动处方 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/r1EsJyRCj3) |

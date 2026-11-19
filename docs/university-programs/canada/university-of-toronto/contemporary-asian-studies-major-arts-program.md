@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Contemporary Asian Studies Major (Arts Program)**<br>当代亚洲研究主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Locating Asia: An Introduction to Contemporary Asian Studies**<br>定位亚洲：当代亚洲研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Locating Asia: An Introduction to Contemporary Asian Studies**<br>定位亚洲：当代亚洲研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **The Rise of Global China: Aspirations and Challenges to Existing World Order**<br>全球中国的崛起：对现有世界秩序的期望与挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **State Power and Social Diversity in Asia**<br>亚洲的国家权力与社会多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Global Asian Studies: Insights and Concepts**<br>全球亚洲研究：洞见与概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
@@ -85,7 +85,7 @@ ms.date: 2026-11-11
 | **Topics in Asian Politics**<br>亚洲政治专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **The Ramayana - from Literature to Politics**<br>罗摩衍那：从文学到政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Caste and its "Other"**<br>种姓及其“他者” | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to South Asian Studies**<br>南亚研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to South Asian Studies**<br>南亚研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Colonialism and Tradition**<br>殖民主义与传统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Transnational Asia**<br>跨国亚洲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Asian/North American Feminist Issues**<br>亚洲/北美女性主义议题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
@@ -121,14 +121,14 @@ ms.date: 2026-11-11
 | **Materiality, Objecthood, Connoisseurship and Collecting in the Arts of East Asia**<br>东亚艺术中的物质性、物性、鉴赏与收藏 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Transregional East Asian Art**<br>跨区域东亚艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Exhibiting China**<br>展示中国 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Asian Textiles**<br>亚洲纺织品导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to the Textile Arts of the Indian Ocean World**<br>印度洋世界纺织艺术导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Asian Textiles**<br>亚洲纺织品入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to the Textile Arts of the Indian Ocean World**<br>印度洋世界纺织艺术入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Asian Canadian History**<br>亚裔加拿大史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **French Colonial Indochina: History, Cultures, Texts, Film**<br>法属印度支那：历史、文化、文本、电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Performing Arts of South Asia**<br>南亚表演艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Performing Arts of East Asia**<br>东亚表演艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Chinese Philosophy**<br>中国哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to South Asian Philosophy**<br>南亚哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Chinese Philosophy**<br>中国哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to South Asian Philosophy**<br>南亚哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Hinduism**<br>印度教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Buddhism**<br>佛教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Sikhism**<br>锡克教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
@@ -146,7 +146,7 @@ ms.date: 2026-11-11
 | **Craft of Social/Cultural Anthropology**<br>社会/文化人类学技艺 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Understanding Criminological Research**<br>理解犯罪学研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Qualitative and Quantitative Reasoning**<br>定性与定量推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Foundations of Econometrics**<br>计量经济学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Environmental Research Data and Decision-making**<br>环境研究数据与决策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Introductory Analytical Methods**<br>分析方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
@@ -155,12 +155,12 @@ ms.date: 2026-11-11
 | **Research and Ethics in Indigenous Studies**<br>原住民研究中的研究与伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Indigenous Theory, Research and Methods**<br>原住民理论、研究与方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Advanced Quantitative Methods in Linguistics**<br>语言学高级定量方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Quantitative Reasoning I**<br>定量推理导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Quantitative Reasoning I**<br>定量推理入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Why Numbers Matter**<br>为什么数字重要 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Qualitative Methods in Sociology**<br>社会学质性方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Qualitative Methods in Sociology**<br>社会学质性方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Sexuality and Research Design**<br>性与研究设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Making Knowledge in a World that Matters**<br>在重要的世界中创造知识 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Modern Standard Chinese I**<br>现代标准汉语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
@@ -195,14 +195,14 @@ ms.date: 2026-11-11
 | **Intensive Introductory Bengali**<br>孟加拉语强化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Advanced Hindi: From Hindustan to Modern India**<br>高级印地语：从印度斯坦到现代印度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Introductory Punjabi**<br>旁遮普语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Sanskrit I**<br>梵语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Sanskrit II**<br>梵语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Sanskrit I**<br>梵语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Sanskrit II**<br>梵语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Intermediate Sanskrit I**<br>中级梵语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Intermediate Sanskrit II**<br>中级梵语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Sanskrit Readings I**<br>梵语选读 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Introductory Sanskrit**<br>梵语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Intermediate Sanskrit**<br>中级梵语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
-| **Introduction to Urdu**<br>乌尔都语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
+| **Introduction to Urdu**<br>乌尔都语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 | **Intermediate Urdu**<br>中级乌尔都语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0235) |
 
 ## Courses

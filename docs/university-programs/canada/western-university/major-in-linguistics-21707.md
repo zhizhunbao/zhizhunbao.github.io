@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN LINGUISTICS (21707)**<br>语言学主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LINGUISTICS**<br>语言学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LINGUISTICS**<br>语言学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **LANGUAGE VARIATION AND CHANGE**<br>语言变异与演变 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **PHONETICS**<br>语音学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **PHONOLOGICAL ANALYSIS**<br>音系分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **SYNTACTIC ANALYSIS**<br>句法分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **LANGUAGE REVITALIZATION IN PRACTICE**<br>语言复兴实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **FIELD TECHNIQUES IN LINGUISTICS**<br>语言学野外技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SPEECH AND LANGUAGE DISORDERS**<br>言语与语言障碍导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SPEECH AND LANGUAGE DISORDERS**<br>言语与语言障碍入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **GENERAL LINGUISTICS IN FRENCH: SOUND PATTERNS**<br>法语普通语言学：语音模式 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **GENERAL LINGUISTICS IN FRENCH: FROM SOUND TO MEANING**<br>法语普通语言学：从声音到意义 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **SYNTAX IN FRENCH**<br>法语句法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
@@ -56,8 +56,8 @@ ms.date: 2026-11-11
 | **SUPERVISED READING/RESEARCH IN LINGUISITICS**<br>语言学指导阅读/研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED SUPERVISED READING/RESEARCH IN LINGUISTICS**<br>语言学高级指导阅读/研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **BASIC LOGIC**<br>基础逻辑 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LOGIC**<br>逻辑学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE PHILOSOPHY OF LANGUAGE**<br>语言哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LOGIC**<br>逻辑学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE PHILOSOPHY OF LANGUAGE**<br>语言哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **BILINGUALISM**<br>双语现象 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **LANGUAGE DEVELOPMENT**<br>语言发展 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH IN THE PSYCHOLOGY OF LANGUAGE**<br>语言心理学研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21707&SelectedCalendar=Live&ArchiveID=) |

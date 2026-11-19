@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Introduction to Health Promotion**<br>健康促进入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/fitness-and-health-promotion) |
 | **Introduction to Human Biology for the Health and Wellness Professional**<br>健康与保健专业人员人体生物学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/fitness-and-health-promotion) |
 | **Recreation and Leisure Computer Applications**<br>康乐与休闲计算机应用 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/fitness-and-health-promotion) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/fitness-and-health-promotion) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/fitness-and-health-promotion) |
 | **Coaching and Leadership Development**<br>教练与领导力发展 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/fitness-and-health-promotion) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/fitness-and-health-promotion) |
 | **Group Fitness Instructing**<br>团体健身指导 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/fitness-and-health-promotion) |

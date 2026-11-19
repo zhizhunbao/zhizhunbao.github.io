@@ -1,10 +1,10 @@
 ---
-title: "3.4.104 Master of Environmental Management"
+title: "4.4.104 Master of Environmental Management"
 description: "University Programs > United States > Yale University > Master of Environmental Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.104 Master of Environmental Management
+# 4.4.104 Master of Environmental Management
 
 ## Glossary
 
@@ -17,8 +17,8 @@ ms.date: 2026-11-18
 | **Microeconomic Foundations for Environmental Managers**<br>面向环境管理者的微观经济学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **Physical Science Foundations for Environmental Managers**<br>面向环境管理者的物理科学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **Social Science Foundations for Environmental Managers**<br>面向环境管理者的社会科学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
-| **Introduction to Statistics and Data Analysis in the Environmental Sciences**<br>环境科学中的统计与数据分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
-| **Introductory Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
+| **Introduction to Statistics and Data Analysis in the Environmental Sciences**<br>环境科学中的统计与数据分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
+| **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **YSE Internship/Research**<br>YSE实习与研究 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **Corporate Sustainability: Strategy and Management**<br>企业可持续发展：战略与管理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |
 | **Foundations of Accounting and Valuation**<br>会计与估值基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/environment/masters-degree-programs/two-year/) |

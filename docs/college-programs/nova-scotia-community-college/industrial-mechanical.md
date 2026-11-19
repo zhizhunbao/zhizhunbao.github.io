@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Working Effectively in the Trades**<br>行业中的高效工作 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Metallurgy**<br>冶金学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Engineering Drawings**<br>工程制图 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
-| **Introduction to Fluid Power**<br>流体动力导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
+| **Introduction to Fluid Power**<br>流体动力入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Welding I**<br>焊接 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Welding II**<br>焊接 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Shop Tools**<br>车间工具 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
@@ -25,10 +25,10 @@ ms.date: 2026-11-08
 | **Applied Math**<br>应用数学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Precision Machining II**<br>精密加工 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Rigging**<br>索具 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
-| **Introduction to Direct Drive Systems**<br>直接驱动系统导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
-| **Introduction to Indirect Drive Systems**<br>间接驱动系统导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
+| **Introduction to Direct Drive Systems**<br>直接驱动系统入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
+| **Introduction to Indirect Drive Systems**<br>间接驱动系统入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Work Experience**<br>工作经历 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Safety Basics – Restricted Spaces**<br>安全基础：受限空间 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |
 | **Safety Basics – Hazard Identification**<br>安全基础：危险识别 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/industrial-mechanical) |

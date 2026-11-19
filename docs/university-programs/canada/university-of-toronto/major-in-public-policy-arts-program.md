@@ -15,12 +15,12 @@ ms.date: 2026-11-11
 | **Digital and Algorithmic Disruptions**<br>数字与算法的颠覆 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Transitions in Democracy and Autocracy**<br>民主与独裁的转型 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Hitler and Stalin Today**<br>今日的希特勒与斯大林 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **The Real World of Politics: An Introduction**<br>政治的真实世界：导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **The Real World of Politics: An Introduction**<br>政治的真实世界：入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Contemporary Challenges to Democracy: Democracy in the Social Media Age**<br>民主面临的当代挑战：社交媒体时代的民主 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly**<br>哪里出了错？政治灾难、灾难性政策失败与史诗般的愚行事后检讨 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Might and Right: Power and Justice in International Relations**<br>强权与公理：国际关系中的权力与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **First-Year Foundation Seminar: Political Homes**<br>一年级基础研讨课：政治家园 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **First-Year Foundation Seminar: Beyond Voting: Introduction to Citizen Political Participation**<br>一年级基础研讨课：超越投票：公民政治参与导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **First-Year Foundation Seminar: Beyond Voting: Introduction to Citizen Political Participation**<br>一年级基础研讨课：超越投票：公民政治参与入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Public Policy and the Public Good**<br>公共政策与公共利益 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Making Public Policy Work**<br>让公共政策奏效 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Global Governance**<br>全球治理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **Issues in the Public Sphere: Understanding Public Policy**<br>公共领域问题：理解公共政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Individuals and the Public Sphere: History, Historiography and Making Cultural Memory**<br>个体与公共领域：历史、史学与文化记忆的构建 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Democracy and Dictatorship**<br>民主与独裁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **Prosperity, Justice, and Sustainability: Introduction to Public Policy**<br>繁荣、正义与可持续性：公共政策导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **Prosperity, Justice, and Sustainability: Introduction to Public Policy**<br>繁荣、正义与可持续性：公共政策入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Corporate Citizenship, Sustainability, and Ethics**<br>企业公民、可持续性与伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Science, Health and Social Justice**<br>科学、健康与社会正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Food, Ethics and Sustainability**<br>食物、伦理与可持续性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
@@ -43,17 +43,17 @@ ms.date: 2026-11-11
 | **Microeconomic Theory**<br>微观经济理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Microeconomic Theory and Applications (for Commerce)**<br>微观经济理论与应用（商学） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Microeconomics for Policy Analysis**<br>政策分析微观经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **Introduction to Quantitative Reasoning I**<br>定量推理导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **Introduction to Quantitative Reasoning II**<br>定量推理导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **Introduction to Quantitative Reasoning I**<br>定量推理入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **Introduction to Quantitative Reasoning II**<br>定量推理入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **The Practice of Statistics II**<br>统计实践 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Statistical Theory**<br>统计理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Probability and Statistics II**<br>概率与统计 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Canadian Government**<br>加拿大政府 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Canada in Comparative Perspective**<br>比较视野下的加拿大 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **Introduction to Public Policy**<br>公共政策导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **Introduction to Public Policy**<br>公共政策入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Myths and Realities of US Governance**<br>美国治理的迷思与现实 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Conflict & Cooperation in Asia**<br>亚洲的冲突与合作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Global China and Its Growing Footprints in Asia and Around the World**<br>全球中国及其在亚洲与世界各地日益扩大的足迹 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
@@ -131,7 +131,7 @@ ms.date: 2026-11-11
 | **Special Topics in Public Health I**<br>公共卫生专题 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Critical Health Policy**<br>批判健康政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Political Economy of Health**<br>健康政治经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
-| **Introduction to Social Policy**<br>社会政策导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
+| **Introduction to Social Policy**<br>社会政策入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Sociology of Organizations**<br>组织社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 | **Sociology of Scandals**<br>丑闻社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj2660) |
 

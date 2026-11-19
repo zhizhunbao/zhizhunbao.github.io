@@ -1,10 +1,10 @@
 ---
-title: "3.2.51 Political Science (Course 17)"
+title: "4.2.51 Political Science (Course 17)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Political Science (Course 17): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.51 Political Science (Course 17)
+# 4.2.51 Political Science (Course 17)
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **Feminist Thought**<br>女性主义思想 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Justice**<br>正义 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Philosophy of Law**<br>法哲学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
-| **Introduction to Political Thought**<br>政治思想导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
+| **Introduction to Political Thought**<br>政治思想入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **American Political Thought**<br>美国政治思想 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Libertarianism**<br>自由意志主义 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Modern Conceptions of Freedom**<br>现代自由观 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-18
 | **Power: Interpersonal, Organizational, and Global Dimensions**<br>权力：人际、组织与全球维度 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Humane Warfare: Ancient and Medieval Perspectives on Ethics in War**<br>人道的战争：古代与中世纪的战争伦理观 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Just Code: The Ethical Lifecycle of Machine Learning**<br>公正的代码：机器学习的伦理生命周期 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
-| **Introduction to the American Political Process**<br>美国政治过程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
+| **Introduction to the American Political Process**<br>美国政治过程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Congress and the American Political System I**<br>美国国会与政治制度 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Electoral Politics, Public Opinion, and Democracy**<br>选举政治、公共舆论与民主 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Public Opinion and American Democracy**<br>民意与美国民主 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-18
 | **Global Energy: Politics, Markets, and Policy**<br>全球能源：政治、市场与政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **American Foreign Policy: Past, Present, and Future**<br>美国外交政策：过去、现在与未来 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Chinese Foreign Policy**<br>中国外交政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Causes and Prevention of War**<br>战争的起因与预防 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **International Relations of East Asia**<br>东亚国际关系 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Cybersecurity**<br>网络安全 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
@@ -57,12 +57,12 @@ ms.date: 2026-11-18
 | **US National Security Policy**<br>美国国家安全政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Nuclear Strategy and Proliferation**<br>核战略与核扩散 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **US Military Power**<br>美国军事力量 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
-| **Introduction to Comparative Politics**<br>比较政治学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
+| **Introduction to Comparative Politics**<br>比较政治学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **How Dictatorship Works**<br>独裁如何运作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Critical Perspectives on Data and Identity**<br>数据与身份的批判视角 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Political Utopias and Dystopias**<br>政治乌托邦与反乌托邦 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Politics and Policy in Contemporary Japan**<br>当代日本的政治与政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
-| **Introduction to Latin American Studies**<br>拉丁美洲研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
+| **Introduction to Latin American Studies**<br>拉丁美洲研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **European Politics**<br>欧洲政治 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Israel: History, Politics, Culture, and Identity**<br>以色列：历史、政治、文化与身份 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |
 | **Russia's Foreign Policy: Toward the Post-Soviet States and Beyond**<br>俄罗斯外交政策：面向后苏联国家及其他 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/political-science-course-17/) |

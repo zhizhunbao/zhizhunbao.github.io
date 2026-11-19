@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Fish and Wildlife Conservation Technician**<br>鱼类与野生动物保护技术员 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
-| **Introduction to Green Careers**<br>绿色职业导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
+| **Introduction to Green Careers**<br>绿色职业入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
 | **Numeracy and Quantitative Reasoning**<br>计算能力与定量推理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
 | **Trees and Shrubs I**<br>乔木与灌木 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
-| **Introduction to Fish and Wildlife**<br>鱼类与野生动物导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
+| **Introduction to Fish and Wildlife**<br>鱼类与野生动物入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
 | **Outdoor Navigation**<br>户外导航 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
 | **Fall Field Camp - First Year**<br>秋季野外营 - 一年级 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |
 | **Science and Nature**<br>科学与自然 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/fish-and-wildlife-conservation-technician) |

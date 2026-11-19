@@ -1,10 +1,10 @@
 ---
-title: "3.4.81 Advanced Professional M.P.H. Program"
+title: "4.4.81 Advanced Professional M.P.H. Program"
 description: "University Programs > United States > Yale University > Advanced Professional M.P.H. Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.81 Advanced Professional M.P.H. Program
+# 4.4.81 Advanced Professional M.P.H. Program
 
 ## Glossary
 
@@ -28,20 +28,20 @@ ms.date: 2026-11-18
 | **Data Analysis**<br>数据分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Data and Clinical Decision-Making**<br>数据与临床决策 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Fundamentals of Clinical Trials**<br>临床试验基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
-| **Introduction to Clinical and Translational Informatics**<br>临床与转化信息学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
+| **Introduction to Clinical and Translational Informatics**<br>临床与转化信息学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Regression Models for Public Health**<br>公共卫生回归模型 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Advanced Regression Models**<br>高级回归模型 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Longitudinal and Multilevel Data Analysis**<br>纵向与多层数据分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Applied Survival Analysis**<br>应用生存分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Population and Public Health Informatics**<br>人群与公共卫生信息学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
-| **Introduction to GIS for Public Health**<br>公共卫生GIS导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
+| **Introduction to GIS for Public Health**<br>公共卫生GIS入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Advanced GIS Workshop**<br>高级GIS工作坊 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Transmission Dynamic Models for Understanding Infectious Diseases**<br>理解传染病的传播动力学模型 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Visualization of Political and Social Data**<br>政治与社会数据可视化 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Multivariate Statistical Methods for the Social Sciences**<br>社会科学多元统计方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Epidemiology of Heart Disease and Stroke**<br>心脏病与中风流行病学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Obesity Prevention and Lifestyle Interventions**<br>肥胖预防与生活方式干预 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
-| **Introduction to Evidence-Based Medicine and Health Care**<br>循证医学与医疗卫生导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
+| **Introduction to Evidence-Based Medicine and Health Care**<br>循证医学与医疗卫生入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Foundations of Behavior Change**<br>行为改变基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Community Health Program Evaluation**<br>社区卫生项目评估 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Qualitative Research Methods in Public Health**<br>公共卫生定性研究方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
@@ -60,7 +60,7 @@ ms.date: 2026-11-18
 | **Microeconomics for Health Policy and Health Management**<br>面向卫生政策与卫生管理的微观经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Global Health Seminar**<br>全球健康研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Global Health Foundations: Principles and Applications**<br>全球健康基础：原理与应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
-| **Introduction to Occupational and Environmental Medicine**<br>职业与环境医学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
+| **Introduction to Occupational and Environmental Medicine**<br>职业与环境医学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Global Noncommunicable Disease**<br>全球非传染性疾病 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Nutrition and Chronic Disease**<br>营养与慢性病 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |
 | **Implementation Science**<br>实施科学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/advanced-professional-mph-program/) |

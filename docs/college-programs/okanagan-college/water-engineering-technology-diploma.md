@@ -33,8 +33,8 @@ ms.date: 2026-11-08
 | **Operations, Planning and Maintenance for WET II**<br>水环境技术的运营、规划与维护 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
 | **Wastewater Treatment**<br>污水处理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
 | **Applied Water Law**<br>应用水法 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
-| **Introduction to Analytical Chemistry for WET**<br>水环境技术分析化学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
-| **Introduction to Applied Data Analytics**<br>应用数据分析导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
+| **Introduction to Analytical Chemistry for WET**<br>水环境技术分析化学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
+| **Introduction to Applied Data Analytics**<br>应用数据分析入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
 | **Co-op Work Term III (May-August) 4 months**<br>带薪实习学期 III（5月至8月）4个月 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |
 | **Wet Capstone Project**<br>水环境技术毕业设计项目 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/water-engineering-technology-diploma) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **College Communications - Unraveled**<br>大学沟通 - 解析 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/liberal/program/pre-community-services/) |
 | **Academic and Career Preparation**<br>学术与职业准备 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/liberal/program/pre-community-services/) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/liberal/program/pre-community-services/) |
-| **Introduction to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/liberal/program/pre-community-services/) |
+| **Introduction to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/liberal/program/pre-community-services/) |
 | **Psychology**<br>心理学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/liberal/program/pre-community-services/) |
 | **Foundational Math Skills for College**<br>大学基础数学技能 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/liberal/program/pre-community-services/) |
 | **Essential Communication Skills for Community Services**<br>社区服务基本沟通技能 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/liberal/program/pre-community-services/) |

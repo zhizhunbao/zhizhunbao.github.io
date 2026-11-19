@@ -22,11 +22,11 @@ ms.date: 2026-11-11
 | **Formal Functions in Tonal Music**<br>调性音乐中的曲式功能 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
 | **Post-Tonal Theory and Analysis**<br>后调性理论与分析 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
 | **History of Music Since 1900**<br>1900 年以来的音乐史 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
-| **Introduction to Electro-Acoustic Music**<br>电子声学音乐导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
+| **Introduction to Electro-Acoustic Music**<br>电子声学音乐入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
 | **Perspectives on Contemporary Performance**<br>当代表演视角 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
 | **Keyboard Accompaniment I/II**<br>键盘伴奏 I/II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
 | **Elementary Conducting and Score Study I**<br>初级指挥与总谱研究 I | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
-| **Intro Vocal Choral Methods**<br>声乐合唱方法导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
+| **Intro Vocal Choral Methods**<br>声乐合唱方法入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=321) |
 
 ## Courses
 

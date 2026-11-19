@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Développement de l'enfant I**<br>儿童发展 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/education-en-services-a-lenfance/) |
 | **Pédagogie axée sur le jeu**<br>游戏导向教学法 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/education-en-services-a-lenfance/) |
 | **Milieux d'apprentissage en Ontario**<br>安大略省的学习环境 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/education-en-services-a-lenfance/) |
-| **Introduction à la psychologie**<br>心理学导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/education-en-services-a-lenfance/) |
+| **Introduction à la psychologie**<br>心理学入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/education-en-services-a-lenfance/) |
 | **Oral Communication for Professional Environments**<br>职业环境口语沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/education-en-services-a-lenfance/) |
 | **Curriculum éducatif**<br>教育课程 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/education-en-services-a-lenfance/) |
 | **Développement de l'enfant II**<br>儿童发展 II | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/education-en-services-a-lenfance/) |

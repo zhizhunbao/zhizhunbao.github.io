@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Observing, Reporting, and Recording**<br>观察、报告与记录 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/continuing-care-assistant-ft) |
 | **Personal Care 1**<br>个人护理 1 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/continuing-care-assistant-ft) |
 | **Personal Care 2**<br>个人护理 2 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/continuing-care-assistant-ft) |
-| **Introduction to Caregiving**<br>护理照护导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/continuing-care-assistant-ft) |
+| **Introduction to Caregiving**<br>护理照护入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/continuing-care-assistant-ft) |
 | **Personal Competence**<br>个人能力 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/continuing-care-assistant-ft) |
 | **Clinical 2 - Special Care**<br>临床 2：特殊护理 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/continuing-care-assistant-ft) |
 | **Human Growth and Development**<br>人类成长与发展 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/continuing-care-assistant-ft) |

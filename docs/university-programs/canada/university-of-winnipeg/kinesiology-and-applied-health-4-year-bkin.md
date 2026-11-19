@@ -12,12 +12,12 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Kinesiology and Applied Health, 4-Year BKin**<br>运动机能学与应用健康，4 年制 BKin | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Human Anatomy and Physiology**<br>人体解剖学与生理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
-| **Introduction to Kinesiology**<br>运动机能学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
+| **Introduction to Kinesiology**<br>运动机能学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Nutrition for Health and Wellness**<br>健康与保健营养学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Sport and Exercise Psychology**<br>运动与锻炼心理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Issues in Sport**<br>体育问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Issues in Health**<br>健康问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
-| **Biomechanics 1: Introduction to Movement Injuries**<br>生物力学 1：运动损伤导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
+| **Biomechanics 1: Introduction to Movement Injuries**<br>生物力学 1：运动损伤入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Human Physiology**<br>人体生理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Human Musculoskeletal Anatomy**<br>人体肌肉骨骼解剖学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Scientific Principles of Fitness and Conditioning**<br>健身与体能训练的科学原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
@@ -33,15 +33,15 @@ ms.date: 2026-11-11
 | **Health in Antiquity**<br>古代的健康 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **The History of Disease**<br>疾病史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Sport Ethics**<br>体育伦理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
-| **Introduction to Data Analysis (prereq**<br>数据分析导论（先修课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
+| **Introduction to Data Analysis (prereq**<br>数据分析入门（先修课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
-| **Introduction to Quantitative Research Methods (prereq**<br>定量研究方法导论（先修课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
+| **Introduction to Quantitative Research Methods (prereq**<br>定量研究方法入门（先修课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Introductory Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
-| **Introduction to Criminal Justice**<br>刑事司法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
+| **Introduction to Criminal Justice**<br>刑事司法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Statistical Analysis I**<br>统计分析 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **Elementary Biological Statistics I**<br>初级生物统计学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 | **and one of**<br>以及其中之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
-| **Introduction to Quantitative Research Methods**<br>定量研究方法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
+| **Introduction to Quantitative Research Methods**<br>定量研究方法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/kin.pdf#page=2) |
 
 ## Courses
 

@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Anthropology Specialist (Society, Culture, and Language) (Arts Program)**<br>人类学专精（社会、文化与语言）（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2112) |
 | **Social Cultural Anthropology and Global Issues**<br>社会文化人类学与全球议题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2112) |
 | **Core Concepts in Social and Cultural Anthropology**<br>社会与文化人类学核心概念 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2112) |
-| **Introduction to Social Anthropological Theory**<br>社会人类学理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2112) |
+| **Introduction to Social Anthropological Theory**<br>社会人类学理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2112) |
 | **Craft of Social/Cultural Anthropology**<br>社会/文化人类学技艺 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2112) |
 | **Reading Ethnography**<br>民族志阅读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2112) |
 | **Medical Anthropology: Sociocultural Perspectives on Illness, Medicine and Care**<br>医学人类学：疾病、医学与照护的社会文化视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe2112) |

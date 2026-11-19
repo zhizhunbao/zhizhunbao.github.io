@@ -11,16 +11,16 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Journalism**<br>新闻学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
-| **Introduction to the News Media**<br>新闻媒体导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
-| **Introduction to Media Research Techniques**<br>媒体研究方法导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
+| **Introduction to the News Media**<br>新闻媒体入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
+| **Introduction to Media Research Techniques**<br>媒体研究方法入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Fundamentals of Reporting**<br>报道基础 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Basics of Copy Editing**<br>文字编辑基础 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Radio Storytelling and Podcasting**<br>广播叙事与播客 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Photojournalism**<br>新闻摄影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Multimedia News Reporting**<br>多媒体新闻报道 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Media Law and Ethics**<br>媒体法与伦理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
-| **Introduction to Digital Media Storytelling**<br>数字媒体叙事导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
+| **Introduction to Digital Media Storytelling**<br>数字媒体叙事入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Design for Print and Online Journalism**<br>印刷与网络新闻设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Advanced Copy Editing**<br>高级文字编辑 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |
 | **Multimedia News Production**<br>多媒体新闻制作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/journalism-diploma-we/courses) |

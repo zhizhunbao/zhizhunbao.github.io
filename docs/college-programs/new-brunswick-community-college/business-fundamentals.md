@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Fundamentals**<br>商业基础 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=af058100-33af-402c-99b8-2f4eca510579) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=af058100-33af-402c-99b8-2f4eca510579) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=af058100-33af-402c-99b8-2f4eca510579) |
 | **Professional Business Writing**<br>职业商务写作 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=af058100-33af-402c-99b8-2f4eca510579) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=af058100-33af-402c-99b8-2f4eca510579) |
 | **Financial Accounting I**<br>财务会计 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=af058100-33af-402c-99b8-2f4eca510579) |

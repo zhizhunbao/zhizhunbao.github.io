@@ -12,8 +12,8 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Dentistry PhD; Field: Dental Biomedical Sciences**<br>牙医学（PhD）；领域：牙科生物医学科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Research Ethics**<br>研究伦理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Biostatistics**<br>生物统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
-| **Introduction to Research Methods & Dissemination**<br>研究方法与成果传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Biostatistics**<br>生物统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
+| **Introduction to Research Methods & Dissemination**<br>研究方法与成果传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 | **Graduate Research Dissemination Seminars**<br>研究生研究成果传播研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Dentistry) |
 
 ## Courses

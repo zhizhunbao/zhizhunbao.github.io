@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Initiation aux technologies**<br>技术入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41668) |
 | **Français oral et compréhension**<br>法语口语与理解 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41668) |
 | **Relations interpersonnelles et collaboration**<br>人际关系与协作 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41668) |
-| **Introduction à la vie communautaire**<br>社区生活导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41668) |
+| **Introduction à la vie communautaire**<br>社区生活入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41668) |
 | **Mathématiques au quotidien**<br>日常生活数学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41668) |
 | **Français écriture et lecture**<br>法语写作与阅读 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41668) |
 | **Cours exploratoire I**<br>探索课程 I | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/41668) |

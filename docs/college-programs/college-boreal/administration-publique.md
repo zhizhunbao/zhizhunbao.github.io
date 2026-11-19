@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Société canadienne: lois, règlements et politiques**<br>加拿大社会：法律、法规与政策 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/administration-publique/) |
 | **Tenue de livres**<br>簿记 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/administration-publique/) |
 | **Communication française professionnelle et scolaire**<br>法语专业与学术沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/administration-publique/) |
-| **Introduction aux ressources humaines**<br>人力资源导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/administration-publique/) |
+| **Introduction aux ressources humaines**<br>人力资源入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/administration-publique/) |
 | **Principes de gestion**<br>管理原理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/administration-publique/) |
 | **Logiciels Microsoft**<br>Microsoft软件 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/administration-publique/) |
 | **Initiation à la recherche**<br>研究入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/administration-publique/) |

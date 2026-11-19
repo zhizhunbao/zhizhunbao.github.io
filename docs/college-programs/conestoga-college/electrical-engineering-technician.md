@@ -17,13 +17,13 @@ ms.date: 2026-11-08
 | **Drawing I**<br>绘画 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Electrical Principles**<br>电气原理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Electrical Skills I**<br>电气技能 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
-| **Introduction to Digital Electronics**<br>数字电子学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
+| **Introduction to Digital Electronics**<br>数字电子学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Mathematics I (Electrical)**<br>数学 I（电气） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Programmable Logic Controllers I**<br>可编程逻辑控制器 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Drawing II**<br>绘画 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Electrical Fundamentals (Power)**<br>电气基础（电力） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Electrical Skills II**<br>电气技能 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
-| **Introduction To Instrumentation**<br>仪表导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
+| **Introduction To Instrumentation**<br>仪表入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Mathematics II (Electrical)**<br>数学 II（电气） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Magnetic Circuits**<br>磁路 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Electives: General Education**<br>选修课：通识教育 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Electrical Projects**<br>电气项目 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **DC Motor/Generator and Control**<br>直流电动机/发电机与控制 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Industrial Power Electronics**<br>工业电力电子 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
-| **Introduction to Photovoltaic Systems**<br>光伏系统导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
+| **Introduction to Photovoltaic Systems**<br>光伏系统入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Safety Standards for Electrical Systems**<br>电气系统安全标准 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Electrical Code**<br>电气规范 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |
 | **Power Transformers**<br>电力变压器 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/electrical-engineering-technician/courses?id=36230) |

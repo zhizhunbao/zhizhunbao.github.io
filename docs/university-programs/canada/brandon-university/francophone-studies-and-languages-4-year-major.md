@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **French and Francophone Poetry**<br>法语与法语区诗歌 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=131) |
 | **French and Francophone Theatre**<br>法语与法语区戏剧 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=131) |
 | **Exploring Francophone Worlds (in English translation)**<br>探索法语区世界（英译） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=131) |
-| **Introduction to Literature, Culture, Society**<br>文学、文化、社会导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=131) |
+| **Introduction to Literature, Culture, Society**<br>文学、文化、社会入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=131) |
 | **French Literary Theory: History, Concepts and Methods**<br>法国文学理论：历史、概念与方法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=131) |
 | **Emerging Lines of Thought in the Francophone World**<br>法语世界的新兴思潮 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=131) |
 

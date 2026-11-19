@@ -11,7 +11,23 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR (CO-OPERATIVE) PROGRAM IN CHEMISTRY (SCIENCE)**<br>化学主修项目（合作教育）（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Introductory Chemistry I: Structure and Bonding**<br>化学入门 I：结构与成键 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Introductory Chemistry II: Reactions and Mechanisms**<br>化学入门 II：反应与机理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Advanced General Chemistry**<br>高级普通化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Physics I for the Physical Sciences**<br>物理科学物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Physics II for the Physical Sciences**<br>物理科学物理 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
 | **Techniques in Analytical Chemistry**<br>分析化学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学入门：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Intermediate Physical Chemistry**<br>中级物理化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Topics in Biophysical Chemistry**<br>生物物理化学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| **Techniques of the Calculus of Several Variables I**<br>多变量微积分技巧 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
 | **Becoming Job Search Ready: Science Co-op**<br>为求职做好准备：理科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
 | **Finding Your First Work Term and Getting Workplace Ready: Science Co-op**<br>寻找首个工作学期并做好职场准备：理科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
@@ -27,6 +43,25 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+| First Year | Program requirements (same as SCMAJ1376): | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| First Year | Program requirements (same as SCMAJ1376): | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| First Year | Program requirements (same as SCMAJ1376): (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| First Year | Program requirements (same as SCMAJ1376): | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| First Year | Program requirements (same as SCMAJ1376): | MATA36H3 | Calculus II for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| First Year | Program requirements (same as SCMAJ1376): | PHYA10H3 | Physics I for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| First Year | Program requirements (same as SCMAJ1376): | PHYA21H3 | Physics II for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): | CHMB16H3 | Techniques in Analytical Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): | CHMB23H3 | Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): | CHMB31H3 | Introduction to Inorganic Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): | CHMB41H3 | Organic Chemistry I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): | CHMB42H3 | Organic Chemistry II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): | CHMB62H3 | Introduction to Biochemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): and |  | 2.5 credits in CHM, of which at least 2.0 credits must be at the C- or D-level and 0.5 credit at the D-level. 0.5 of these C- or D-level credits must include a laboratory component.\*\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): and; Students should note that if they are going to select | CHMC20H3 | Intermediate Physical Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): and; Students should note that if they are going to select | CHMC21H3 | Topics in Biophysical Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): and; Students should note that if they are going to select | MATA23H3 | Linear Algebra I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): and; Students should note that if they are going to select | MATB41H3 | Techniques of the Calculus of Several Variables I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
+| Second and Later Years | Program requirements (same as SCMAJ1376): and |  | Note: This program cannot be combined with the Major Program in Biochemistry. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
 |  | Academic Program Requirements |  | Students must complete the program requirements as described in the Major Program in Chemistry. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1376c) |

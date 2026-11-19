@@ -21,8 +21,8 @@ ms.date: 2026-11-08
 | **Mathematics**<br>数学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
 | **Adv. Language & Communications**<br>高级语言与沟通 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
 | **Intro to Portfolio Development**<br>作品集开发入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
 | **Oral Communications & Media Analysis**<br>口语交际与媒体分析 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
 | **Technology and Humanity**<br>技术与人性 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |
 | **Becoming a Global Changemaker**<br>成为全球变革者 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/general-arts-and-science-one-year/) |

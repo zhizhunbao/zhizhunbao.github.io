@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1456X01FWO.pdf) |
 | **Advertising Design 2**<br>广告设计 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1456X01FWO.pdf) |
 | **Copywriting 101**<br>文案写作 101 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1456X01FWO.pdf) |
-| **Advertising 2: Introduction to Marketing Communications**<br>广告 2：市场营销传播导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1456X01FWO.pdf) |
+| **Advertising 2: Introduction to Marketing Communications**<br>广告 2：市场营销传播入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1456X01FWO.pdf) |
 | **Marketing Research Fundamentals**<br>市场调研基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1456X01FWO.pdf) |
 | **Media Buying and Selling**<br>媒体购买与销售 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1456X01FWO.pdf) |
 | **Persuasive Presentation Skills**<br>说服性演讲技能 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1456X01FWO.pdf) |

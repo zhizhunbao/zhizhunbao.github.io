@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Fall Field School**<br>秋季野外学校 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/environmental-technician-water-resource-management/) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/environmental-technician-water-resource-management/) |
 | **Microsoft Office**<br>Microsoft Office | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/environmental-technician-water-resource-management/) |
-| **Introduction to Environmental Chemistry**<br>环境化学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/environmental-technician-water-resource-management/) |
+| **Introduction to Environmental Chemistry**<br>环境化学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/environmental-technician-water-resource-management/) |
 | **Applied Math for Technology 1**<br>技术应用数学 1 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/environmental-technician-water-resource-management/) |
 | **Geographical Information Systems I**<br>地理信息系统 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/environmental-technician-water-resource-management/) |
 | **Plant Biology**<br>植物生物学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/environmental-technician-water-resource-management/) |

@@ -11,19 +11,19 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Music [Augustana]**<br>音乐学士（奥古斯塔纳校区） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
-| **Tuning In: An Introduction to Music**<br>调频入门：音乐导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
+| **Tuning In: An Introduction to Music**<br>调频入门：音乐入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Music from the Ancient to Baroque Eras**<br>从古代到巴洛克时期的音乐 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Music from the Classical Era to the Present Day**<br>从古典时期至今的音乐 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Popular Music: Analysis, Interpretation, Meaning**<br>流行音乐：分析、诠释与意义 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Theoretical and Analytical Studies I**<br>理论与分析研究 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Aural, Sight Singing, and Keyboard Skills I**<br>听觉、视唱与键盘技能 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
-| **Introduction to Conducting**<br>指挥导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
+| **Introduction to Conducting**<br>指挥入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Theoretical and Analytical Studies II**<br>理论与分析研究 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Aural, Sight Singing and Keyboard Skills II**<br>听觉、视唱与键盘技能 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Theoretical and Analytical Studies III**<br>理论与分析研究 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Aural, Sight Singing, and Keyboard Skills III**<br>听觉、视唱与键盘技能 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
-| **Introduction to Music Education**<br>音乐教育导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
-| **Introduction to Choral Techniques, Literature, and Interpretation**<br>合唱技术、文献与诠释导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
+| **Introduction to Music Education**<br>音乐教育入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
+| **Introduction to Choral Techniques, Literature, and Interpretation**<br>合唱技术、文献与诠释入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **The Child Voice**<br>儿童之声 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Music Education II**<br>音乐教育 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |
 | **Music and Wellness**<br>音乐与保健 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110563&returnto=20846) |

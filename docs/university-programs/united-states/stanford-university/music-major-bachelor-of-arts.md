@@ -1,17 +1,17 @@
 ---
-title: "3.3.51 Music, Major: Bachelor of Arts"
+title: "4.3.51 Music, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Music, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.51 Music, Major: Bachelor of Arts
+# 4.3.51 Music, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Music, Major: Bachelor of Arts**<br>音乐，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
-| **Introduction to Tonal Theory**<br>调性理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
+| **Introduction to Tonal Theory**<br>调性理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Intermediate Tonal Theory**<br>中级调性理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Advanced Tonal Theory**<br>高级调性理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Ear Training I**<br>视唱练耳 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-18
 | **Music History Since 1830**<br>1830 年以来的音乐史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Counterpoint**<br>对位法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Analysis of Tonal Music**<br>调性音乐分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
-| **Introduction to Post-Tonal Analysis**<br>后调性分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
+| **Introduction to Post-Tonal Analysis**<br>后调性分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Nineteenth-Century Pianism: History, Works, & Performance Practices**<br>十九世纪钢琴艺术：历史、作品与演奏实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Studies in Music of the Classical Period: Haydn and Mozart: Music in the Age of Enlightenment**<br>古典时期音乐研究：海顿与莫扎特：启蒙时代的音乐 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Studies in Music of the Romantic Period: The Faust Legend in Romantic Music**<br>浪漫时期音乐研究：浪漫主义音乐中的浮士德传说 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
@@ -114,9 +114,9 @@ ms.date: 2026-11-18
 | **Percussion for Music Majors/Minors**<br>音乐专业与辅修生的打击乐 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Drum Set for Music Majors/Minors**<br>音乐专业与辅修生架子鼓 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Jazz Arranging and Composition**<br>爵士编曲与作曲 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
-| **Introduction to Creating Electronic Sounds**<br>电子声音创作导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
+| **Introduction to Creating Electronic Sounds**<br>电子声音创作入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Film Scoring**<br>电影配乐 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
-| **Introduction to Instrumental Composition**<br>器乐作曲导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
+| **Introduction to Instrumental Composition**<br>器乐作曲入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Advanced Jazz Improvisation**<br>高级爵士即兴 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Undergraduate Seminar in Composition: Rhythmic Design**<br>作曲本科生研讨课：节奏设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Undergraduate Seminar in Composition: Pitch Design**<br>作曲本科生研讨课：音高设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
@@ -146,7 +146,7 @@ ms.date: 2026-11-18
 | **Advanced Choral Conducting**<br>高级合唱指挥 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Advanced Ear-Training/Musicianship**<br>高级视唱练耳与音乐素养 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Musical Engagement**<br>音乐参与 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
-| **Introduction to Audio Signal Processing**<br>音频信号处理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
+| **Introduction to Audio Signal Processing**<br>音频信号处理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Stanford Summer Symphony**<br>斯坦福夏季交响乐团 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Stanford Brass Ensemble**<br>斯坦福铜管乐团 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Stanford Taiko**<br>斯坦福太鼓 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
@@ -160,7 +160,7 @@ ms.date: 2026-11-18
 | **Professional Development in Music**<br>音乐职业发展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Entrepreneurial Development for Classical Musicians**<br>古典音乐家的创业发展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Research in Performance Practices**<br>表演实践研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
-| **Introduction to Jazz History and Appreciation**<br>爵士乐历史与欣赏导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
+| **Introduction to Jazz History and Appreciation**<br>爵士乐历史与欣赏入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 | **Jazz History and Appreciation: Advanced Level**<br>爵士乐历史与鉴赏：高级 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/music/bachelor-of-arts) |
 
 ## Courses

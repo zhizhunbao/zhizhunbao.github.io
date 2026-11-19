@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Orientation to Massage Therapy Program**<br>按摩治疗项目导入 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/massage-therapy/full-time/brockville) |
 | **Palpation I**<br>触诊 I | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/massage-therapy/full-time/brockville) |
 | **Regional Anatomy I**<br>区域解剖学 I | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/massage-therapy/full-time/brockville) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/massage-therapy/full-time/brockville) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/massage-therapy/full-time/brockville) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/massage-therapy/full-time/brockville) |
 | **Anatomy & Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/massage-therapy/full-time/brockville) |
 | **Clinic II**<br>诊所 II | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/massage-therapy/full-time/brockville) |

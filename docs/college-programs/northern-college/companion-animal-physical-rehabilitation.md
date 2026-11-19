@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Companion Animal Physical Rehabilitation**<br>伴侣动物物理康复 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
-| **Introduction to Animal Physical Rehabilitation**<br>动物物理康复导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
+| **Introduction to Animal Physical Rehabilitation**<br>动物物理康复入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
 | **Companion Animal Rehab Practical I**<br>伴侣动物康复实操 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
 | **Companion Animal Rehabilitation Seminar I**<br>伴侣动物康复研讨 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
 | **Companion Animal Assessment**<br>伴侣动物评估 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
 | **Advanced Animal Anatomy and Physiology**<br>高级动物解剖学与生理学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
-| **Introduction to Modalities**<br>治疗方式导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
+| **Introduction to Modalities**<br>治疗方式入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
 | **Applied Therapeutic Techniques**<br>应用治疗技术 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
 | **Pathophysiology of Pain and Analgesics**<br>疼痛与镇痛药病理生理学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |
 | **Placement for Case Studies**<br>案例研究实习 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/companion-animal-physical-rehabilitation/) |

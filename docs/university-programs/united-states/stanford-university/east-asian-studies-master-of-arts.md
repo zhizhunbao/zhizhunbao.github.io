@@ -1,10 +1,10 @@
 ---
-title: "3.3.97 East Asian Studies, Master of Arts"
+title: "4.3.97 East Asian Studies, Master of Arts"
 description: "University Programs > United States > Stanford University > East Asian Studies, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.97 East Asian Studies, Master of Arts
+# 4.3.97 East Asian Studies, Master of Arts
 
 ## Glossary
 
@@ -51,7 +51,7 @@ ms.date: 2026-11-18
 | **American and Chinese Approaches to Managing Global Challenges**<br>美中应对全球挑战的方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **The Asian Triangle: Japan, Korea and China**<br>亚洲三角：日本、韩国与中国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **The Chinese Economy**<br>中国经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
-| **Introduction to Global and Comparative Education**<br>全球与比较教育导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
+| **Introduction to Global and Comparative Education**<br>全球与比较教育入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **Global Social Change, Sustainable Development, and Education**<br>全球社会变迁、可持续发展与教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **Contemporary Asian Filmmakers**<br>当代亚洲电影人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **The Chinese Economy and Financial Markets**<br>中国经济与金融市场 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
@@ -82,7 +82,7 @@ ms.date: 2026-11-18
 | **Tokyo, Kyoto, Osaka and Beyond: Place in Modern Japan**<br>东京、京都、大阪及其他：现代日本的地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **Japanese Functional Objects**<br>日本功能性物品 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **Academic Readings in Japanese I**<br>日语学术阅读 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
-| **Introduction to Modern Japanese Literature and Culture**<br>现代日本文学与文化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
+| **Introduction to Modern Japanese Literature and Culture**<br>现代日本文学与文化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **Modern Japanese Short Stories**<br>现代日本短篇小说 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **Japanese Business Culture and Systems**<br>日本商业文化与制度 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |
 | **Readings in Premodern Japanese**<br>前现代日语读本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/east-asian-studies/master-of-arts) |

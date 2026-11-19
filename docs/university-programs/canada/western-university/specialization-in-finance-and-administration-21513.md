@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIZATION IN FINANCE AND ADMINISTRATION (21513)**<br>金融与管理专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUSINESS**<br>商业导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUSINESS**<br>商业入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS FOR SOCIAL SCIENCES**<br>社会科学微积分 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
@@ -25,13 +25,13 @@ ms.date: 2026-11-11
 | **INFORMATION TECHNOLOGY IN THE COMMERCIAL ENVIRONMENT**<br>商业环境中的信息技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY CALCULUS**<br>微积分入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **ECONOMETRICS I**<br>计量经济学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **ECONOMETRICS II**<br>计量经济学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **ORGANIZATIONAL BEHAVIOR**<br>组织行为学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **APPLIED FINANCIAL MATHEMATICS**<br>应用金融数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PROGRAMMING AND BASIC DATA ANALYSIS**<br>编程与基础数据分析导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PROGRAMMING AND BASIC DATA ANALYSIS**<br>编程与基础数据分析入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **PERSONAL FINANCIAL PLANNING**<br>个人理财规划 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **INVESTMENT AND FINANCIAL MARKETS**<br>投资与金融市场 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **MONEY**<br>货币 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
@@ -45,12 +45,12 @@ ms.date: 2026-11-11
 | **INTERNATIONAL FINANCE**<br>国际金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED INTERNATIONAL FINANCE**<br>高级国际金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **DERIVATIVE SECURITIES MARKETS**<br>衍生证券市场 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FRAUD EXAMINATION**<br>舞弊检查导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FRAUD EXAMINATION**<br>舞弊检查入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **PROFESSIONALISM AND ETHICS**<br>专业素养与伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED CORPORATE FINANCE**<br>高级公司财务 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **STRATEGIC MANAGEMENT**<br>战略管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS LAW**<br>商法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PRIVATE EQUITY**<br>私募股权导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PRIVATE EQUITY**<br>私募股权入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **MANAGEMENT ACCOUNTING**<br>管理会计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **CORPORATE VALUATION**<br>公司估值 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |
 | **FINANCIAL RISK MANAGEMENT**<br>金融风险管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21513&SelectedCalendar=Live&ArchiveID=) |

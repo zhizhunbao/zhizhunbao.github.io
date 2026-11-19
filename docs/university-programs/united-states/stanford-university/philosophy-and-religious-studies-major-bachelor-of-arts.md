@@ -1,18 +1,18 @@
 ---
-title: "3.3.53 Philosophy and Religious Studies, Major: Bachelor of Arts"
+title: "4.3.53 Philosophy and Religious Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Philosophy and Religious Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.53 Philosophy and Religious Studies, Major: Bachelor of Arts
+# 4.3.53 Philosophy and Religious Studies, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Philosophy and Religious Studies, Major: Bachelor of Arts**<br>哲学与宗教研究，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Introduction to Philosophy**<br>哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Introduction to Moral Philosophy**<br>道德哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Introduction to Philosophy**<br>哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Introduction to Moral Philosophy**<br>道德哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Randomness: Computational and Philosophical Approaches**<br>随机性：计算与哲学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Philosophy and Science Fiction**<br>哲学与科幻 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Free Will and Responsibility**<br>自由意志与责任 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
@@ -39,10 +39,10 @@ ms.date: 2026-11-18
 | **Grad Tutorial**<br>研究生辅导课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Other People's Minds**<br>他人的心智 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **How to Make a Decision: Ancient Greek Philosophers on Practical Rationality**<br>如何做决定：古希腊哲学家论实践理性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Introduction to the Philosophy of Artificial Intelligence**<br>人工智能哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Introduction to the Philosophy of Artificial Intelligence**<br>人工智能哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Feminist Philosophy**<br>女性主义哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Democracy and Disagreement**<br>民主与分歧 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Introduction to Political Philosophy**<br>政治哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Introduction to Political Philosophy**<br>政治哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Concept of the Person**<br>人的概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **What makes us Human**<br>是什么让我们成为人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Plato and Punishment**<br>柏拉图与惩罚 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
@@ -51,8 +51,8 @@ ms.date: 2026-11-18
 | **What Would Change Your Mind? Evidence and Disagreement in Everyday Life**<br>什么会改变你的想法？日常生活中的证据与分歧 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Death and the Good Life**<br>死亡与美好生活 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Survey of Formal Methods**<br>形式化方法概览 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Introduction to Formal Methods in Contemporary Philosophy**<br>当代哲学中形式方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Introduction to Philosophy of Science**<br>科学哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Introduction to Formal Methods in Contemporary Philosophy**<br>当代哲学中形式方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Introduction to Philosophy of Science**<br>科学哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Contemporary Moral Problems**<br>当代道德问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Is Morality a Sham?**<br>道德是骗局吗？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Ethics in a Human Life**<br>人生中的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
@@ -82,7 +82,7 @@ ms.date: 2026-11-18
 | **Witches, Witchcraft, and Witch-Hunting in Early America**<br>早期美国的女巫、巫术与猎巫 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Religion and Climate Change**<br>宗教与气候变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Crisis and Community in the Jewish Tradition**<br>犹太传统中的危机与社群 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Introduction to African American Studies: Black Religion, Culture, and Experience to the Civil War**<br>非裔美国人研究导论：内战前的黑人宗教、文化与经历 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Introduction to African American Studies: Black Religion, Culture, and Experience to the Civil War**<br>非裔美国人研究入门：内战前的黑人宗教、文化与经历 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Just Religion: Spirituality, Social Action, and the Climate Crisis**<br>公正的宗教：灵性、社会行动与气候危机 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Exploring Buddhism: Ancient Wisdom for Modern Challenges?**<br>探索佛教：应对现代挑战的古老智慧？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Exploring Jewish Spirituality**<br>探索犹太灵性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
@@ -131,7 +131,7 @@ ms.date: 2026-11-18
 | **The History of Early Modern Political Philosophy: Machiavelli, Hobbes, and Locke**<br>早期现代政治哲学史：马基雅维利、霍布斯与洛克 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **The Birth of Modern Moral Philosophy**<br>现代道德哲学的诞生 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Moral Psychology**<br>道德心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Topics in Metaethics: Moral Error Theory**<br>元伦理学专题：道德错误论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Ethics Beyond Consequences**<br>超越后果的伦理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Justice Across Borders**<br>跨越国界的正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
@@ -178,7 +178,7 @@ ms.date: 2026-11-18
 | **Spiritualism and the Occult**<br>招魂术与神秘学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Ghosts, Ghouls, and Demons: Religion and the Supernatural**<br>鬼魂、食尸鬼与恶魔：宗教与超自然 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Reading the Quran**<br>阅读古兰经 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Philosophy of Religion: An Historical Introduction**<br>宗教哲学：历史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Philosophy of Religion: An Historical Introduction**<br>宗教哲学：历史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Readings in Talmudic Literature**<br>塔木德文献读本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Gender(s) and Sexuality in Jewish Culture**<br>犹太文化中的性别与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Biblical Greek**<br>圣经希腊语 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
@@ -240,7 +240,7 @@ ms.date: 2026-11-18
 | **Hindu-Muslim Encounters in South Asia**<br>南亚的印度教与穆斯林相遇 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Reconstructing Religion: Friedrich Schleiermacher and the Beginnings of Modern Christian Theology**<br>重构宗教：施莱尔马赫与现代基督教神学的开端 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Asian Religions in America; Asian American Religions**<br>美国的亚洲宗教；亚裔美国人宗教 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
-| **Desire, Violence, and the Sacred: Introduction to Rene Girard's Theory**<br>欲望、暴力与神圣：勒内吉拉尔理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
+| **Desire, Violence, and the Sacred: Introduction to Rene Girard's Theory**<br>欲望、暴力与神圣：勒内吉拉尔理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Majors' Seminar: Theories of Religion**<br>专业学生研讨课：宗教理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Capstone seminar: Imagination in Fiction and Philosophy**<br>毕业研讨课：小说与哲学中的想象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |
 | **Capstone Seminar: Montaigne**<br>毕业研讨课：蒙田 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/philosophy-and-religious-studies/bachelor-of-arts) |

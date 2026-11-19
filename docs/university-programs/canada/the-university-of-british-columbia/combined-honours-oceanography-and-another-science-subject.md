@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Waves, Currents and Ocean Mixing**<br>波浪、洋流与海洋混合 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/oceanography) |
 | **Chemical Oceanography and Marine Geochemistry**<br>化学海洋学与海洋地球化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/oceanography) |
 | **Marine Microbiology**<br>海洋微生物学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/oceanography) |
-| **Introduction to Fisheries Science**<br>渔业科学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/oceanography) |
+| **Introduction to Fisheries Science**<br>渔业科学入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/oceanography) |
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/oceanography) |
 
 ## Courses

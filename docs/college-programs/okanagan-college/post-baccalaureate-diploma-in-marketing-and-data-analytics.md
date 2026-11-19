@@ -18,10 +18,10 @@ ms.date: 2026-11-08
 | **Calculus and Linear Algebra with Business Applications**<br>商业应用微积分与线性代数 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
 | **Machine Learning I**<br>机器学习 1 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
 | **Management Principles**<br>管理学原理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
-| **Introduction to Marketing Research**<br>市场调研导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
+| **Introduction to Marketing Research**<br>市场调研入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
 | **Mathematics for Machine Learning**<br>机器学习数学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
 | **Discrete Structures for Data Science**<br>数据科学离散结构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
-| **Introduction to Discrete Structures**<br>离散结构导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
+| **Introduction to Discrete Structures**<br>离散结构入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
 | **Machine Learning II**<br>机器学习 2 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
 | **Regression Analysis**<br>回归分析 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |
 | **Digital Marketing**<br>数字营销 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/post-baccalaureate-diploma-in-marketing-and-data-analytics) |

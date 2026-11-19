@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM.html) |
-| **Introduction to Human Resources Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
+| **Introduction to Human Resources Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
 | **Data Analytics for Human Resources**<br>人力资源数据分析 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
 | **Personnel Research Techniques and H.R.I.S.**<br>人事研究技术与人力资源信息系统 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
 | **Design and Administration of Compensation Plans**<br>薪酬计划设计与管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
 | **The Legal Environment**<br>法律环境 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
-| **Introduction to Financial and Management Accounting**<br>财务与管理会计导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
+| **Introduction to Financial and Management Accounting**<br>财务与管理会计入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
 | **Business Management and Organizational Behaviour**<br>商务管理与组织行为 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
 | **Recruitment and Selection Techniques**<br>招聘与甄选技巧 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |
 | **Human Resource Integrated Project**<br>人力资源综合项目 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/HRM/courses.html) |

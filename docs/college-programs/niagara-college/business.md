@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **New Venture Development**<br>新企业开发 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business/) |
 | **AND Completion of additional elective 1 course required**<br>并且 须完成另外1门选修课 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business/) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business/) |
-| **Introduction to E-Business**<br>电子商务导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business/) |
+| **Introduction to E-Business**<br>电子商务入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business/) |
 
 ## Courses
 

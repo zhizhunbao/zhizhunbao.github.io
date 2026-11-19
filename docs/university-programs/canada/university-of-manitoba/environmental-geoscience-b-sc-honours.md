@@ -22,9 +22,9 @@ ms.date: 2026-11-11
 | **Environmental Assessment**<br>环境评估 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
 | **Ecotoxicological Risk Characterization**<br>生态毒理学风险表征 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
 | **Aquatic Chemistry**<br>水化学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
-| **Introduction to Process Hydrology (PS)**<br>过程水文学导论（PS） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
-| **Introduction to Oceanography**<br>海洋学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
-| **Introduction to Remote Sensing (TS)**<br>遥感导论（TS） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
+| **Introduction to Process Hydrology (PS)**<br>过程水文学入门（PS） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
+| **Introduction to Oceanography**<br>海洋学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
+| **Introduction to Remote Sensing (TS)**<br>遥感入门（TS） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/environmental-geoscience-bsc-honours/) |
 
 ## Courses
 

@@ -17,10 +17,10 @@ ms.date: 2026-11-11
 | **Advanced Chinese 2**<br>高级汉语 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
 | **Chinese for Business Settings**<br>商务场景汉语 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
 | **Chinese in Mass Media**<br>大众媒体中的汉语 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
-| **Introduction to Professional Translation (Chinese to English)**<br>专业翻译导论（汉译英） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
+| **Introduction to Professional Translation (Chinese to English)**<br>专业翻译入门（汉译英） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
 | **Special Topics**<br>专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
-| **Introduction to Classical Chinese 1**<br>古代汉语导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
-| **Introduction to Classical Chinese 2**<br>古代汉语导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
+| **Introduction to Classical Chinese 1**<br>古代汉语入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
+| **Introduction to Classical Chinese 2**<br>古代汉语入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkEzxk00jn) |
 
 ## Courses
 

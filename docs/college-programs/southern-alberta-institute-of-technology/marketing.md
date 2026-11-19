@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Building and Managing Brands**<br>品牌建设与管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/marketing) |
 | **Professional Selling, Ethics and Customer Relationship Management**<br>专业销售、伦理与客户关系管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/marketing) |
 | **Integrated Marketing Communications**<br>整合营销传播 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/marketing) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/marketing) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/marketing) |
 | **Business Certificate Capstone**<br>商务证书毕业设计项目 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/marketing) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/marketing) |
 | **Business Productivity Tools and Technology**<br>商务生产力工具与技术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/marketing) |

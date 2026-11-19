@@ -18,7 +18,7 @@ ms.date: 2026-11-11
 | **Game Design Principles and Practice**<br>游戏设计原理与实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110040&returnto=20844) |
 | **Understanding Video Games (see Note 1)**<br>理解电子游戏（见注 1） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110040&returnto=20844) |
 | **Trans & Queer Game Design (See Note 3)**<br>跨性别与酷儿游戏设计（见注 3） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110040&returnto=20844) |
-| **Introduction to Music Technologies**<br>音乐技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110040&returnto=20844) |
+| **Introduction to Music Technologies**<br>音乐技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110040&returnto=20844) |
 | **Electroacoustic Music (see Note 2)**<br>电声音乐（见注 2） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110040&returnto=20844) |
 | **Writing for Video Games**<br>电子游戏写作 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110040&returnto=20844) |
 

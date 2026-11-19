@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Instrumentation Systems**<br>仪表系统 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/power-engineering-technology) |
 | **Safety and Workplace Communication**<br>安全与职场沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/power-engineering-technology) |
 | **4A Power Lab**<br>4A 动力实验 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/power-engineering-technology) |
-| **Introduction to Boiler Systems and Administration**<br>锅炉系统与管理导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/power-engineering-technology) |
+| **Introduction to Boiler Systems and Administration**<br>锅炉系统与管理入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/power-engineering-technology) |
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/power-engineering-technology) |
 | **Industrial Plant Operations**<br>工厂运行 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/power-engineering-technology) |
 | **Refrigeration and Power Lab Maintenance**<br>制冷与动力实验室维护 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/power-engineering-technology) |

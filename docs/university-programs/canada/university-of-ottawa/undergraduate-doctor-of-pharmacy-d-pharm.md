@@ -14,12 +14,12 @@ ms.date: 2026-11-11
 | **Professionnalisme et déontologie en pharmacie**<br>药学的职业素养与职业道德 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Communication en pharmacie I**<br>药学沟通 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Le pharmacien et le réseau de santé**<br>药剂师与卫生网络 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
-| **Introduction et dispensation communautaire**<br>社区药房导论与配药 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
+| **Introduction et dispensation communautaire**<br>社区药房入门与配药 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Magistrales non-stériles et calculs pharmaceutiques**<br>非无菌制剂与药学计算 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Le pharmacien expert du médicament I**<br>药剂师作为药物专家 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Le pharmacien expert du médicament II**<br>药剂师作为药物专家 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Le pharmacien expert du médicament III**<br>药剂师作为药物专家 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
-| **Introduction aux soins pharmaceutiques**<br>药学服务导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
+| **Introduction aux soins pharmaceutiques**<br>药学服务入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Un corps en santé I**<br>健康的身体 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Un corps en santé II**<br>健康的身体 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Un corps en santé III**<br>健康的身体 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Gestion thérapeutique VII**<br>治疗管理 VII | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Gestion thérapeutique VIII**<br>治疗管理 VIII | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Évaluation critique de la littérature**<br>文献批判性评价 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
-| **Introduction à l'éducation et à la promotion de la santé**<br>健康教育与健康促进导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
+| **Introduction à l'éducation et à la promotion de la santé**<br>健康教育与健康促进入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Éducation des patients**<br>患者教育 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Hosptial Rotation I**<br>医院轮转 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |
 | **Communication en pharmacie III**<br>药学沟通 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/undergraduate-doctor-pharmacy/) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **ART, SCIENCE AND TECHNOLOGY**<br>艺术、科学与技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21737&SelectedCalendar=Live&ArchiveID=) |
 | **ART, MEDIA AND POPULAR CULTURE**<br>艺术、媒体与流行文化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21737&SelectedCalendar=Live&ArchiveID=) |
 | **COLLECTING ART AND CULTURE**<br>艺术与文化收藏 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21737&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MUSEUM AND CURATORIAL STUDIES**<br>博物馆与策展研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21737&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MUSEUM AND CURATORIAL STUDIES**<br>博物馆与策展研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21737&SelectedCalendar=Live&ArchiveID=) |
 | **ART NOW! I**<br>当代艺术！ I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21737&SelectedCalendar=Live&ArchiveID=) |
 | **ART NOW! II**<br>当代艺术！ II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21737&SelectedCalendar=Live&ArchiveID=) |
 | **ART NOW!**<br>当代艺术！ | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21737&SelectedCalendar=Live&ArchiveID=) |

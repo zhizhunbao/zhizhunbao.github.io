@@ -21,25 +21,25 @@ ms.date: 2026-11-08
 | **Foundations of Human Biology**<br>人体生物学基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Blackfoot Language I**<br>黑脚语 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Blackfoot Language II**<br>黑脚语 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Foundations of Chemistry**<br>化学基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Interpersonal Relationships and Communications**<br>人际关系与沟通 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Helping Relationships**<br>帮助关系 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Community Service Learning**<br>社区服务学习 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Community Service Learning II**<br>社区服务学习 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Literary Magazine**<br>文学杂志 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Exercise and Healthful Living**<br>运动与健康生活 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Resistance Training**<br>抗阻训练 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Game Development**<br>游戏开发导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Game Development**<br>游戏开发入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Academic Reading and Writing**<br>学术阅读与写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Coaching**<br>教练学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Coaching**<br>教练学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Advanced Coaching**<br>高级教练学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Foundations of Physics**<br>物理学基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Speech**<br>演讲 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Introductory Spanish**<br>西班牙语入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Introductory Spanish II**<br>西班牙语入门 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to the Trades**<br>技工行业导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to the Trades**<br>技工行业入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Cultural Anthropology**<br>文化人类学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Anthropology of Gender**<br>性别人类学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Archaeology of Prehistoric Europe**<br>史前欧洲考古学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
@@ -48,13 +48,13 @@ ms.date: 2026-11-08
 | **Canadian History**<br>加拿大历史 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **American History**<br>美国历史 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Local Government**<br>地方政府 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Politics**<br>政治学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Politics**<br>政治学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Canadian Government**<br>加拿大政府 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **International Relations**<br>国际关系 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Political Philosophy**<br>政治哲学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Psychology as a Biological Science**<br>作为生物科学的心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Psychology as a Social Science**<br>作为社会科学的心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Sport and Exercise Psychology**<br>运动与锻炼心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Human Development Across the Lifespan**<br>人生全程人类发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Child Growth and Development**<br>儿童成长与发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
@@ -64,19 +64,19 @@ ms.date: 2026-11-08
 | **Child Psychopathology**<br>儿童精神病理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Psychology of Sports**<br>运动心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Psychopathology**<br>精神病理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Personality Theory**<br>人格理论导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Forensic Psychology**<br>法医心理学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Personality Theory**<br>人格理论入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Forensic Psychology**<br>法医心理学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Psychology of Addictions**<br>成瘾心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Brain and Behaviour**<br>脑与行为 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Sociology of Sports**<br>体育社会学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Social Problems**<br>社会问题 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Sociology of the Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Sexuality**<br>性与性别 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction Into Archaeology**<br>考古学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction Into Archaeology**<br>考古学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Cellular Basis of Life**<br>生命的细胞基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Environmental Issues**<br>环境问题 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Physiology of Aging**<br>衰老生理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
@@ -95,7 +95,7 @@ ms.date: 2026-11-08
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Physical Geology**<br>普通地质学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Environmental Psychology**<br>环境心理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Social Science Research Methods**<br>社会科学研究方法 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Art Explorations**<br>艺术探索 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
@@ -103,20 +103,20 @@ ms.date: 2026-11-08
 | **Sculpture I**<br>雕塑 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Logic**<br>逻辑学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to World Religions**<br>世界宗教导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to World Religions**<br>世界宗教入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Popular Culture**<br>流行文化 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Christianity**<br>基督教 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Buddhism**<br>佛教 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Film Studies**<br>电影研究 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Kakyosin**<br>Kakyosin | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Music Appreciation**<br>音乐欣赏 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Writing for the Workplace**<br>职场写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Creative Writing**<br>创意写作导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Creative Writing**<br>创意写作入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Survey of Canadian Literature**<br>加拿大文学概论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Writing for Children and Young Adults**<br>儿童与青少年写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Language and Literature**<br>语言与文学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
-| **Introduction to Dramatic Literature**<br>戏剧文学导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Language and Literature**<br>语言与文学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
+| **Introduction to Dramatic Literature**<br>戏剧文学入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Indigenous Literature**<br>原住民文学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Children's Literature**<br>儿童文学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |
 | **Writing for the Screen**<br>影视写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/general-arts-and-science-certificate) |

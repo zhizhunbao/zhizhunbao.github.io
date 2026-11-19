@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Content Strategy**<br>内容策略 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |
-| **Introduction to Design for Interaction**<br>交互设计导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |
+| **Introduction to Design for Interaction**<br>交互设计入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |
 | **Product Management**<br>产品管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |
-| **Introduction to Content Strategy**<br>内容策略导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |
+| **Introduction to Content Strategy**<br>内容策略入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |
 | **Content Strategy Planning**<br>内容策略规划 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |
 | **Content Strategy Analytics 1**<br>内容策略分析 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |
 | **Special Topics in Content Strategy 1**<br>内容策略专题 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/content-strategy) |

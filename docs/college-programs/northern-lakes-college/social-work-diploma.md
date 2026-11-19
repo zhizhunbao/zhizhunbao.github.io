@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Social Work Diploma**<br>社会工作文凭 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas/program/1989) |
-| **Introduction to English Language and Literature**<br>英语语言与文学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Introduction to English Language and Literature**<br>英语语言与文学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Critical Reading and Writing: Prose Forms**<br>批判性阅读与写作：散文体裁 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Health Education: Personal Health and Wellness**<br>健康教育：个人健康与福祉 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Psychology for the Health Care Professional**<br>医疗专业人员心理学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Developmental Psychology: Life Span**<br>发展心理学：毕生发展 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **An Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **An Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Aging in Society**<br>社会中的老龄化 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
-| **Social Work Foundations - An Introduction to Social Work**<br>社会工作基础 - 社会工作导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
+| **Social Work Foundations - An Introduction to Social Work**<br>社会工作基础 - 社会工作入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **The Helping Process**<br>助人过程 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Social Work Assessment**<br>社会工作评估 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |
 | **Social Work Practicum Prep I**<br>社会工作实习准备 1 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/human-service-careers/human-service-career-diplomas) |

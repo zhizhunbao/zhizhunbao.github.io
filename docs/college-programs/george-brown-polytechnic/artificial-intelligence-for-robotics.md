@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Artificial Intelligence for Robotics**<br>机器人人工智能 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/artificial-intelligence-for-robotics-t426) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/artificial-intelligence-for-robotics-t426) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/artificial-intelligence-for-robotics-t426) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/artificial-intelligence-for-robotics-t426) |
 | **Deep Learning**<br>深度学习 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/artificial-intelligence-for-robotics-t426) |
 | **Mechatronics**<br>机电一体化 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/artificial-intelligence-for-robotics-t426) |

@@ -86,7 +86,7 @@ ms.date: 2026-11-11
 | **Medieval Latin Prose**<br>中世纪拉丁散文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1231) |
 | **Medieval Latin Poetry**<br>中世纪拉丁诗歌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1231) |
 | **Middle Welsh**<br>中古威尔士语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1231) |
-| **Introduction to Old Irish**<br>古爱尔兰语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1231) |
+| **Introduction to Old Irish**<br>古爱尔兰语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1231) |
 | **Old English Language and Literature**<br>古英语语言与文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1231) |
 | **Chaucer**<br>乔叟 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1231) |
 | **Medieval Literature**<br>中世纪文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1231) |

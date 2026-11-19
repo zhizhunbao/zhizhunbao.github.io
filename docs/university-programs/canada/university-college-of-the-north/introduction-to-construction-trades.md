@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Safety Practice**<br>安全实践 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 | **Core Occupational Health and Safety**<br>核心职业健康与安全 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 | **Standard First Aid with CPR (St. John Ambulance)**<br>标准急救（含心肺复苏）（圣约翰救护队） | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
-| **Introduction to Computer Applications**<br>计算机应用导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
+| **Introduction to Computer Applications**<br>计算机应用入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 | **Trade Mathematics 1**<br>技工数学 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 | **Blueprint Reading and Drafting 1**<br>蓝图识读与制图 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=61) |
 

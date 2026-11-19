@@ -57,7 +57,7 @@ ms.date: 2026-11-11
 | **Multimedia Communications**<br>多媒体通信 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/) |
 | **Ubiquitous Sensing for Smart Cities**<br>智慧城市的泛在感知 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/) |
 | **Data Encryption**<br>数据加密 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/) |
-| **Introduction to Engineering Management**<br>工程管理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/) |
+| **Introduction to Engineering Management**<br>工程管理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/) |
 | **Technology entrepreneurship for Engineers and Computer Scientists**<br>工程师与计算机科学家的技术创业 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/) |
 | **Operational Excellence and Lean Six Sigma**<br>卓越运营与精益六西格玛 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/) |
 | **Communication and Influence for Engineers**<br>工程师的沟通与影响力 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-digital-transformation-innovation/) |

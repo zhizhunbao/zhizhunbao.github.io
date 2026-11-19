@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Legal Computer Applications**<br>法律计算机应用 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4115/courses-next/) |
 | **Legal Research & Writing**<br>法律研究与写作 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4115/courses-next/) |
 | **Administrative Law**<br>行政法 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4115/courses-next/) |
-| **Paralegal Field Placement-Intro**<br>律师助理实地实习 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4115/courses-next/) |
+| **Paralegal Field Placement-Intro**<br>律师助理实地实习 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4115/courses-next/) |
 | **Small Claims Court**<br>小额索赔法庭 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4115/courses-next/) |
 | **Criminal & Summary Conviction Procedure**<br>刑事与简易程序定罪 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4115/courses-next/) |
 | **Provincial & Motor Vehicle Offences**<br>省级与机动车违法行为 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4115/courses-next/) |

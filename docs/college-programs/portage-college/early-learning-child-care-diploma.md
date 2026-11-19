@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **PRACTICUM I/INTEGRATION SEMINAR**<br>实习 I/综合研讨 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/elcc-diploma/) |
 | **CHILD HEALTH**<br>儿童健康 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/elcc-diploma/) |
 | **DEVELOPMENTALLY APPROPRIATE GUIDANCE**<br>适龄发展的引导 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/elcc-diploma/) |
-| **INTRODUCTION TO DAYCARE ADMINISTRATION**<br>日托管理导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/elcc-diploma/) |
+| **INTRODUCTION TO DAYCARE ADMINISTRATION**<br>日托管理入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/elcc-diploma/) |
 | **LANGUAGE GROWTH & DEVELOPMENT**<br>语言成长与发展 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/elcc-diploma/) |
 | **PRACTICUM II/INTEGRATION SEMINAR**<br>实习 II/综合研讨 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/elcc-diploma/) |
 

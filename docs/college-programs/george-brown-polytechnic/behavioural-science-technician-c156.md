@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Behavioural Theory**<br>行为理论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-accelerated-c156) |
 | **Behaviour Theory and Practice: Behavioural Assessment**<br>行为理论与实践：行为评估 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-accelerated-c156) |
 | **Ethics and Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-accelerated-c156) |
-| **Behaviour Theory and Practice: Introduction to ABA**<br>行为理论与实践：ABA导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-accelerated-c156) |
+| **Behaviour Theory and Practice: Introduction to ABA**<br>行为理论与实践：ABA入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-accelerated-c156) |
 | **Research Design**<br>研究设计 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-accelerated-c156) |
 | **Field Seminar II**<br>实地研讨会 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-accelerated-c156) |
 | **Behaviour Theory and Practice: Acquisition Strategies**<br>行为理论与实践：习得策略 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/behavioural-science-technician-program-accelerated-c156) |

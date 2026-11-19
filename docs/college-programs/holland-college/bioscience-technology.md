@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Research Preparation:Bioscience Technology**<br>研究准备：生物科学技术 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/bioscience-technology/index.php) |
 | **Research Project Bioscience Technology**<br>研究项目：生物科学技术 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/bioscience-technology/index.php) |
 | **General Chemistry**<br>普通化学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/bioscience-technology/index.php) |
-| **Introduction to Chromatography**<br>色谱法导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/bioscience-technology/index.php) |
+| **Introduction to Chromatography**<br>色谱法入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/bioscience-technology/index.php) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/bioscience-technology/index.php) |
 | **Advanced Biochemistry**<br>高级生物化学 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/bioscience-technology/index.php) |
 | **Communications in the Applied Sciences**<br>应用科学沟通 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/bioscience-technology/index.php) |

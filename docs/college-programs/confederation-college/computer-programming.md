@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/computer-programming/) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/computer-programming/) |
 | **Web Programming & Design**<br>网页编程与设计 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/computer-programming/) |
-| **Introduction to Databases**<br>数据库导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/computer-programming/) |
+| **Introduction to Databases**<br>数据库入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/computer-programming/) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/computer-programming/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/computer-programming/) |
 | **OOP with Net**<br>.NET面向对象编程 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/computer-programming/) |

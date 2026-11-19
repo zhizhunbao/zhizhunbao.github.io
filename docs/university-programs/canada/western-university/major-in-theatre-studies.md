@@ -43,7 +43,7 @@ ms.date: 2026-11-11
 | **SOUND ON: AUDIO STORYTELLING AND PODCASTING**<br>声音开启：音频叙事与播客 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20900&SelectedCalendar=Live&ArchiveID=) |
 | **POST WORLD WAR II POPULAR MUSIC**<br>第二次世界大战（WWII）后的流行音乐 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20900&SelectedCalendar=Live&ArchiveID=) |
 | **MUSICAL THEATRE**<br>音乐剧 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20900&SelectedCalendar=Live&ArchiveID=) |
-| **SHORT FLICKS: AN INTRODUCTION TO SCREENWRITING**<br>短片：编剧导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20900&SelectedCalendar=Live&ArchiveID=) |
+| **SHORT FLICKS: AN INTRODUCTION TO SCREENWRITING**<br>短片：编剧入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20900&SelectedCalendar=Live&ArchiveID=) |
 | **TV OR NOT TV: WRITING FOR THE TELEVISION INDUSTRY**<br>电视，还是不电视（TV OR NOT TV）：电视行业写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20900&SelectedCalendar=Live&ArchiveID=) |
 | **FEATURE FILM WRITING**<br>剧情长片写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20900&SelectedCalendar=Live&ArchiveID=) |
 | **SHAKESPEARE IN PERFORMANCE**<br>莎士比亚表演 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20900&SelectedCalendar=Live&ArchiveID=) |

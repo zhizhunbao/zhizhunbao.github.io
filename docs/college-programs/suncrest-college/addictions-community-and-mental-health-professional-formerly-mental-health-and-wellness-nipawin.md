@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Nipawin**<br>成瘾、社区与心理健康专业人员（原心理健康与福祉）- Nipawin | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Writing for Academic Success**<br>学业成功写作 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Mental Health and Wellness Proffessional Practice**<br>心理健康与福祉专业实践 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Interpersonal Communication & Facilitation**<br>人际沟通与引导 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Dynamics of Addiction & Recovery**<br>成瘾与康复动力学 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **First Aid**<br>急救 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Therapeutic Interventions for Families**<br>家庭治疗干预 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Pharmacology**<br>药理学 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Case Management & Assessment**<br>个案管理与评估 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Indigenous Models of Healing & Practice**<br>原住民疗愈与实践模式 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |
 | **Complexity of Youth Addiction**<br>青少年成瘾的复杂性 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/programs/mental-health-wellness-ni) |

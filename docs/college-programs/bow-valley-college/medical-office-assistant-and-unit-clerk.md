@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Medical Office Assistant and Unit Clerk**<br>医疗办公室助理与病房文员 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/medical-office-assistant-and-unit-clerk) |
 | **Professional Practice and Communication in Health Care**<br>医疗保健中的专业实践与沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/medical-office-assistant-and-unit-clerk) |
-| **Introduction to Health Care Fundamentals**<br>医疗保健基础导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/medical-office-assistant-and-unit-clerk) |
+| **Introduction to Health Care Fundamentals**<br>医疗保健基础入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/medical-office-assistant-and-unit-clerk) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/medical-office-assistant-and-unit-clerk) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/medical-office-assistant-and-unit-clerk) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/medical-office-assistant-and-unit-clerk) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in African Studies**<br>非洲研究主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
-| **Introduction to African Studies**<br>非洲研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
+| **Introduction to African Studies**<br>非洲研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **The African Past**<br>非洲往昔 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Social Sciences and Research**<br>社会科学与研究 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Social Reconfigurations in Africa**<br>非洲的社会重构 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
@@ -23,18 +23,18 @@ ms.date: 2026-11-11
 | **Global Experiential Learning**<br>全球体验式学习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Social Innovation and Community Engagement**<br>社会创新与社区参与 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Social Innovation and Social Justice - Practicum**<br>社会创新与社会正义：实习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
-| **Introduction to Business**<br>商务导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
+| **Introduction to Business**<br>商务入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Anthropology of Africa**<br>非洲人类学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **African Cinema**<br>非洲电影 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Human Rights and Justice in Africa: Theory and Practice**<br>非洲的人权与司法：理论与实践 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
-| **Introduction to International Development: Historical Perspectives**<br>国际发展导论：历史视角 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
-| **Introduction to International Development Practices: Challenges and Innovations**<br>国际发展实践导论：挑战与创新 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
+| **Introduction to International Development: Historical Perspectives**<br>国际发展入门：历史视角 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
+| **Introduction to International Development Practices: Challenges and Innovations**<br>国际发展实践入门：挑战与创新 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **International Development Issues in Africa**<br>非洲的国际发展问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **African Great Lakes**<br>非洲大湖地区 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Selected Topics in African History South of the Sahara**<br>撒哈拉以南非洲历史专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Seminar in African History**<br>非洲历史研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
-| **Introduction to International Relations and Global Politics**<br>国际关系与全球政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
-| **Introduction to Comparative Politics**<br>比较政治导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
+| **Introduction to International Relations and Global Politics**<br>国际关系与全球政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
+| **Introduction to Comparative Politics**<br>比较政治入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Comparative Politics: Africa**<br>比较政治：非洲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Comparative Politics: Middle East and Arab World**<br>比较政治：中东与阿拉伯世界 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |
 | **Sociology of Racism and Anti-racism**<br>种族主义与反种族主义社会学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-african-studies/) |

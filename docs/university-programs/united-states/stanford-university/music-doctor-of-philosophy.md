@@ -1,10 +1,10 @@
 ---
-title: "3.3.196 Music, Doctor of Philosophy"
+title: "4.3.196 Music, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Music, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.196 Music, Doctor of Philosophy
+# 4.3.196 Music, Doctor of Philosophy
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **Psychophysics and Music Cognition**<br>心理物理学与音乐认知 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/doctor-of-philosophy) |
 | **Analysis and Repertoire: Late-Romantic to Contemporary**<br>分析与曲目：晚期浪漫主义至当代 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/doctor-of-philosophy) |
 | **Analysis from a Compositional Perspective**<br>作曲视角下的分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/doctor-of-philosophy) |
-| **Introduction to Audio Signal Processing**<br>音频信号处理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/doctor-of-philosophy) |
+| **Introduction to Audio Signal Processing**<br>音频信号处理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/doctor-of-philosophy) |
 | **Ph.D Dissertation**<br>博士学位论文 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/doctor-of-philosophy) |
 | **PhD Dissertation Proposal**<br>博士学位论文开题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/doctor-of-philosophy) |
 | **Proseminar in Musicology and Music Bibliography**<br>音乐学与音乐文献学专题研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/music/doctor-of-philosophy) |

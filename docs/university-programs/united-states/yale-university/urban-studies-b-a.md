@@ -1,10 +1,10 @@
 ---
-title: "3.4.79 Urban Studies (B.A.)"
+title: "4.4.79 Urban Studies (B.A.)"
 description: "University Programs > United States > Yale University > Urban Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.79 Urban Studies (B.A.)
+# 4.4.79 Urban Studies (B.A.)
 
 ## Glossary
 

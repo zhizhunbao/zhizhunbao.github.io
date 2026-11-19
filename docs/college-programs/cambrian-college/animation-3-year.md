@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Art and Design Communication**<br>艺术与设计传达 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/animation) |
 | **Decolonizing the Creative Arts**<br>创意艺术去殖民化 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/animation) |
 | **Life Drawing II**<br>人体写生 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/animation) |
-| **Introduction to Design**<br>设计导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/animation) |
+| **Introduction to Design**<br>设计入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/animation) |
 | **Body Mechanics**<br>身体力学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/animation) |
 | **Drawing and Painting**<br>绘画与油画 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/animation) |
 | **Intro to 3D**<br>3D入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/animation) |

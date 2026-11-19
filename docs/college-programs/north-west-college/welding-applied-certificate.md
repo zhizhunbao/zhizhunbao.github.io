@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Welding - Applied Certificate**<br>焊接 - 应用证书 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1077&loc=1911) |
 | **Fundamental Communication Skills**<br>基础沟通技能 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1077&loc=1911) |
-| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 导论 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1077&loc=1911) |
+| **Introduction to Microsoft Word and Excel**<br>Microsoft Word 与 Excel 入门 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1077&loc=1911) |
 | **Trade Mathematics**<br>行业数学 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1077&loc=1911) |
 | **Metallurgy and Heat Treatment of Metals**<br>金属冶金与热处理 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1077&loc=1911) |
 | **Drawing Interpretation**<br>图纸识读 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1077&loc=1911) |

@@ -11,18 +11,18 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Architectural Technology**<br>建筑技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
-| **Introduction to Construction Documents**<br>施工文件导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
+| **Introduction to Construction Documents**<br>施工文件入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Technical Mathematics**<br>技术数学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Technical Communications I**<br>技术沟通 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Revit I**<br>Revit I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
-| **Introduction to Building Science I**<br>建筑科学导论 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
-| **Introduction to AutoCAD**<br>AutoCAD 导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
+| **Introduction to Building Science I**<br>建筑科学入门 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
+| **Introduction to AutoCAD**<br>AutoCAD 入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **3D Design and Presentation Modelling**<br>3D 设计与展示建模 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Building Systems**<br>建筑系统 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Architectural Construction Documents I**<br>建筑施工图 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Revit II**<br>Revit II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
-| **Introduction to Professional Practice: Architectural Technologist**<br>职业实践导论：建筑技术员 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
-| **Introduction to Design Fundamentals**<br>设计基础导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
+| **Introduction to Professional Practice: Architectural Technologist**<br>职业实践入门：建筑技术员 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
+| **Introduction to Design Fundamentals**<br>设计基础入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Technical Communications II**<br>技术沟通 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Revit III**<br>Revit III | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |
 | **Building Design I**<br>建筑设计 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/architectural-technology) |

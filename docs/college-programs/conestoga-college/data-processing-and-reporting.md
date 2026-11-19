@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Data Processing and Reporting**<br>数据处理与报告 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/data-processing-and-reporting) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/data-processing-and-reporting/courses?id=35021) |
 | **Team Dynamics and Interpersonal Skills**<br>团队动力与人际交往技能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/data-processing-and-reporting/courses?id=35021) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/data-processing-and-reporting/courses?id=35021) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/data-processing-and-reporting/courses?id=35021) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/data-processing-and-reporting/courses?id=35021) |
 | **Student Success Strategies**<br>学生成功策略 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/data-processing-and-reporting/courses?id=35021) |
 | **Human Resources in the Workplace**<br>职场人力资源 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/data-processing-and-reporting/courses?id=35021) |

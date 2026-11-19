@@ -225,14 +225,14 @@ ms.date: 2026-11-11
 | **Rethinking the Cold War in East Asia**<br>重新思考东亚冷战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Modern Korean Historiography**<br>近代朝鲜史学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Europe: Nation-State to Supranational Union**<br>欧洲：从民族国家到超国家联盟 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-| **Introduction to Indigenous Studies: Foundations**<br>原住民研究导论：基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-| **Introduction to Indigenous Studies: History & Politics**<br>原住民研究导论：历史与政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+| **Introduction to Indigenous Studies: Foundations**<br>原住民研究入门：基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+| **Introduction to Indigenous Studies: History & Politics**<br>原住民研究入门：历史与政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Worldviews, Oral Traditions, and Relationality**<br>世界观、口述传统与关系性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Indigenous Narrative Practices in Print and Media**<br>印刷与媒体中的原住民叙事实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Indigenous Leadership, Policy and Practices in Canada**<br>加拿大的原住民领导力、政策与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Indigenous Politics in Canada**<br>加拿大的原住民政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-| **Modern Middle East: A Historical Introduction**<br>近代中东：历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+| **Modern Middle East: A Historical Introduction**<br>近代中东：历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Modern Iran**<br>近代伊朗 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Modern Arab History**<br>近代阿拉伯史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 | **Modern Turkey**<br>近代土耳其 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
@@ -252,13 +252,12 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | A total of 7.0 credits of which no more than 1.0 credit can be at the 100-level and of which at least 2.0 credits must be at the 300+ level, including 0.5 credit at the 400-level. Some courses may contribute to both the Geographic Distribution and Temporal requirements (requirements 1 and 2). |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-|  |  |  | 1. Geographic Distribution (200+ level): |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-|  |  |  | a) 2.0 credits Africa/Asia/Middle East with at least one 0.5 credit in 2 of the 3 areas. This requirement cannot be met by more than 1.0 credit from any area. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-|  |  |  | b) 1.0 credit Canada/US/Latin America/The Caribbean |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-|  |  |  | c) 1.0 credit Europe |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-|  |  |  | 2. Temporal Requirement: 1.0 credit in pre-1800 history course(s) listed below. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-|  |  |  | Note 1: The HIS courses listed with (.50) indicate that they fulfill half of the Temporal Requirement. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
-|  |  |  | 3. Additional HIS, JIH, JHA, JHM, JHN, JMH, JSH or Equivalent courses (listed below) to a total of 7.0 credits. No more than 1.0 credit from the Equivalent courses can contribute to program completion. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+|  | 1. Geographic Distribution (200+ level) |  | a) 2.0 credits Africa/Asia/Middle East with at least one 0.5 credit in 2 of the 3 areas. This requirement cannot be met by more than 1.0 credit from any area. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+|  | 1. Geographic Distribution (200+ level) |  | b) 1.0 credit Canada/US/Latin America/The Caribbean |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+|  | 1. Geographic Distribution (200+ level) |  | c) 1.0 credit Europe |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+|  | 1. Geographic Distribution (200+ level) |  | 2. Temporal Requirement: 1.0 credit in pre-1800 history course(s) listed below. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+|  | 1. Geographic Distribution (200+ level) |  | Note 1: The HIS courses listed with (.50) indicate that they fulfill half of the Temporal Requirement. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
+|  | 1. Geographic Distribution (200+ level) |  | 3. Additional HIS, JIH, JHA, JHM, JHN, JMH, JSH or Equivalent courses (listed below) to a total of 7.0 credits. No more than 1.0 credit from the Equivalent courses can contribute to program completion. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 |  | (Sub-group: Africa) | AFR290H1 | The Idea of Africa | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 |  | (Sub-group: Africa) | AFR370H1 | Anticolonialism, Radicalism and Revolutions in Africa | 0.5 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |
 |  | (Sub-group: Africa) | HIS295Y1 | History of Africa | 1.0 | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0652) |

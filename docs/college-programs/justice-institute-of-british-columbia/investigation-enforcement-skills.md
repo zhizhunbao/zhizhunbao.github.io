@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Investigation & Enforcement Skills**<br>调查与执法技能 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
 | **Regulatory Enforcement Officers & the**<br>监管执法人员与 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
-| **Introduction to Criminal Law**<br>刑法导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
-| **Introduction to Administrative Law**<br>行政法导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
-| **Introduction to Investigative Skills and Processes**<br>调查技能与流程导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
+| **Introduction to Criminal Law**<br>刑法入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
+| **Introduction to Administrative Law**<br>行政法入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
+| **Introduction to Investigative Skills and Processes**<br>调查技能与流程入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
 | **Enhanced Investigative Interviewing**<br>强化调查询问 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
 | **Report Writing for Professional Investigators**<br>专业调查员报告写作 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
 | **Application for and Execution of Search Warrants**<br>搜查令的申请与执行 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
 | **Testifying in Legal Proceedings/Hearings**<br>法律程序/听证中的作证 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
-| **Introduction to Investigative File Management**<br>调查档案管理导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
+| **Introduction to Investigative File Management**<br>调查档案管理入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
 | **De-escalating Hostility**<br>化解敌意 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/areas-of-study/law-enforcement-investigation/investigation-enforcement-skills) |
 
 ## Courses

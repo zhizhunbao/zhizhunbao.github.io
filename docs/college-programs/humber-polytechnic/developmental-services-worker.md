@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Preparing for Work in Developmental Services**<br>发展服务工作准备 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/developmental-services-worker) |
 | **Professionalism**<br>职业素养 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/developmental-services-worker) |
 | **Supporting Healthy Relationships**<br>支持健康关系 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/developmental-services-worker) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/developmental-services-worker) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/developmental-services-worker) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/developmental-services-worker) |
 | **Field Experience and Seminar 1**<br>实地体验与研讨 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/developmental-services-worker) |
 | **Person-Centred Planning**<br>以人为本的规划 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/developmental-services-worker) |

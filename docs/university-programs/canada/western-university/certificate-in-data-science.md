@@ -12,10 +12,10 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **CERTIFICATE IN DATA SCIENCE**<br>数据科学证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
 | **DATA SCIENCE CONCEPTS**<br>数据科学概念 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS**<br>统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DATA SCIENCE**<br>数据科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS**<br>统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DATA SCIENCE**<br>数据科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICS FOR DATA SCIENCE**<br>数据科学数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
 | **DATABASES FOR INFORMATICS AND ANALYTICS**<br>信息学与分析的数据库 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
 | **ARTIFICIAL INTELLIGENCE FOR INFORMATICS AND ANALYTICS**<br>信息学与分析的人工智能 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |
 | **UNSTRUCTURED DATA**<br>非结构化数据 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21658&SelectedCalendar=Live&ArchiveID=) |

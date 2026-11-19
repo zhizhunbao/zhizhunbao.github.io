@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Arts**<br>文学学士 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-arts) |
-| **Introduction to the Theory of Music**<br>音乐理论导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-arts) |
-| **Introduction to Diatonic Harmony**<br>自然音阶和声导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-arts) |
+| **Introduction to the Theory of Music**<br>音乐理论入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-arts) |
+| **Introduction to Diatonic Harmony**<br>自然音阶和声入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-arts) |
 | **Music Appreciation, Twentieth-Century**<br>二十世纪音乐欣赏 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-arts) |
 | **Topics in Western Music**<br>西方音乐专题 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-arts) |
 | **The Guitar in History and Practice**<br>吉他的历史与实践 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-arts) |

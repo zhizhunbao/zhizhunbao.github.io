@@ -14,10 +14,10 @@ ms.date: 2026-11-08
 | **Introductory Financial Accounting I**<br>财务会计入门 I | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
 | **Business Solution Software**<br>商务解决方案软件 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
-| **Introduction to Human Resource Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
+| **Introduction to Human Resource Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
 | **Commercial Law**<br>商法 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-digital-marketing-diploma/) |

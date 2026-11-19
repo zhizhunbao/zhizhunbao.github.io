@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Canadian Criminal Justice System**<br>加拿大刑事司法系统 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/community-and-justice-services) |
 | **Youth Culture and the Law**<br>青年文化与法律 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/community-and-justice-services) |
 | **Principles of Ethical and Moral Reasoning**<br>伦理与道德推理原理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/community-and-justice-services) |
-| **Mental Health and Addictions 1: Introduction**<br>心理健康与成瘾 1：导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/community-and-justice-services) |
+| **Mental Health and Addictions 1: Introduction**<br>心理健康与成瘾 1：入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/community-and-justice-services) |
 | **College Communications 1**<br>学院交流 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/community-and-justice-services) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/community-and-justice-services) |
 | **Security Skills**<br>安保技能 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/community-and-justice-services) |

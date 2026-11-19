@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Film and Media – General (Arts) – Bachelor of Arts**<br>电影与媒体 - 普通（文科） - 文学学士 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
-| **Introduction to Film Studies: Approaches to Film Form**<br>电影研究导论：电影形式的方法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
-| **Introduction to Film History: Genres and Movements**<br>电影史导论：类型与运动 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
-| **Introduction to Media Studies: Cultures and Technologies**<br>媒体研究导论：文化与技术 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
-| **Introduction to Media Studies: Arts and Practices**<br>媒体研究导论：艺术与实践 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
+| **Introduction to Film Studies: Approaches to Film Form**<br>电影研究入门：电影形式的方法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
+| **Introduction to Film History: Genres and Movements**<br>电影史入门：类型与运动 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
+| **Introduction to Media Studies: Cultures and Technologies**<br>媒体研究入门：文化与技术 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
+| **Introduction to Media Studies: Arts and Practices**<br>媒体研究入门：艺术与实践 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
 | **Film Theory and History**<br>电影理论与历史 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
 | **Media Theory and History**<br>媒体理论与历史 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/film-media/film-media-general-arts-ba/) |
 

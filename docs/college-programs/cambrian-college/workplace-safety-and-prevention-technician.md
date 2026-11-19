@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Workplace Safety and Prevention Technician**<br>职场安全与预防技术员 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
-| **Introduction to Biology**<br>生物学导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
+| **Introduction to Biology**<br>生物学入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Environmental Management**<br>环境管理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
 | **Ind. Hygiene and Toxicology**<br>工业卫生与毒理学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
 | **Ind. Hygiene and Toxico. Lab**<br>工业卫生与毒理学实验 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
-| **Introduction to Process Safety**<br>过程安全导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
+| **Introduction to Process Safety**<br>过程安全入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
 | **Emergency Planning and Mgmt**<br>应急规划与管理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
 | **Operational Safety**<br>运营安全 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |
 | **Technical Reporting**<br>技术报告 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/workplace-safety-and-prevention-technician) |

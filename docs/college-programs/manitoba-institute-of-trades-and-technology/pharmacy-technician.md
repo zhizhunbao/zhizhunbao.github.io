@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Pharmacy Technician**<br>药学技术员 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |
 | **Intra- and Interprofessional Learning Experiences I**<br>专业内与跨专业学习体验 I | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |
-| **Introduction to Pharmacy Practice**<br>药学实务导论 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |
+| **Introduction to Pharmacy Practice**<br>药学实务入门 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |
 | **Communication Skills for Pharmacy Technicians**<br>药学技术员沟通技能 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |
 | **Pharmaceutical Calculations I**<br>药剂计算 I | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |
 | **Pharmaceutical Calculations II**<br>药剂计算 II | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-pharmacy-technician-2025-2026-1.pdf) |

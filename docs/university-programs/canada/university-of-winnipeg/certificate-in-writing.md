@@ -27,14 +27,14 @@ ms.date: 2026-11-11
 | **Technical and Professional Communication**<br>技术与专业传播 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Writing Internship**<br>写作实习 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Professional Style and Editing**<br>专业文体与编辑 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
-| **Introduction to Creative Writing: Developing a Portfolio**<br>创意写作导论：作品集的发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Introduction to Creative Writing: Developing a Portfolio**<br>创意写作入门：作品集的发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Creative Writing Comprehensive**<br>创意写作综合课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Advanced Creative Writing**<br>高级创意写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Writing Short Fiction**<br>短篇小说写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Writing Poems**<br>诗歌写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Writing for Children**<br>儿童写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Script and Screen**<br>剧本与银幕 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
-| **Introduction to Screenwriting**<br>编剧导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Introduction to Screenwriting**<br>编剧入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Playwriting I**<br>剧本创作 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Advanced Screenwriting**<br>高级编剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
 | **Playwriting II: General**<br>剧本创作 II：通用 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |

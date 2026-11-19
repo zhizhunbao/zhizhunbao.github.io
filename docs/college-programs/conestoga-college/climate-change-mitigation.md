@@ -15,8 +15,8 @@ ms.date: 2026-11-08
 | **Climate Issues and Policies**<br>气候问题与政策 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
 | **Infrastructure and Transportation**<br>基础设施与交通 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
 | **Greenhouse Gas Accounting**<br>温室气体核算 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
-| **Introduction to Risk Management**<br>风险管理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
-| **Introduction to GIS**<br>GIS导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
+| **Introduction to Risk Management**<br>风险管理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
+| **Introduction to GIS**<br>GIS入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
 | **Energy, Sustainability and Equity**<br>能源、可持续性与公平 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
 | **Foundations of Climate Science**<br>气候科学基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |
 | **Presentations and Graphic Communication**<br>演示与图形传达 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/climate-change-mitigation/courses-no-intake?id=15465) |

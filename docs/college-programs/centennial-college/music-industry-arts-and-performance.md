@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Musicianship 1**<br>音乐素养 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Music Theory 1**<br>音乐理论 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Musical Creativity 1**<br>音乐创造力 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
-| **Introduction to Music Technology**<br>音乐技术导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
+| **Introduction to Music Technology**<br>音乐技术入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Private Lessons 1**<br>私人课程 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Ensemble 1**<br>合奏 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Creativity in Context**<br>情境中的创造力 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Musical Creativity 2**<br>音乐创造力 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Private Lessons 2**<br>私人课程 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Ensemble 2**<br>合奏 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
-| **Introduction to Audio Engineering**<br>音频工程导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
+| **Introduction to Audio Engineering**<br>音频工程入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Music Business Fundamentals**<br>音乐商业基础 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Global Citizenship: From Social Analysis to Social Action**<br>全球公民：从社会分析到社会行动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |
 | **Songwriting 1**<br>歌曲创作 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/music-industry-arts-performance) |

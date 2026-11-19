@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Psychology Honours (B.A.)**<br>心理学荣誉（B.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
-| **Introduction to Psychology.**<br>心理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
+| **Introduction to Psychology.**<br>心理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Principles: Organismal Biology.**<br>原理：生物体生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Cell and Molecular Biology.**<br>细胞与分子生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Essential Biology.**<br>基础生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Introductory Behavioural Neuroscience.**<br>行为神经科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Perception.**<br>知觉 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Cognition.**<br>认知 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
@@ -28,17 +28,17 @@ ms.date: 2026-11-11
 | **Independent Honours Research 2.**<br>独立荣誉研究 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Independent Honours Research 3.**<br>独立荣誉研究 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Special Topics Seminar 1.**<br>专题研讨课 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
-| **Introduction to Neuroscience 2.**<br>神经科学导论 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
+| **Introduction to Neuroscience 2.**<br>神经科学入门 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Animal Learning and Theory.**<br>动物学习与理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Pain.**<br>疼痛 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Intelligence.**<br>智能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Human Cognition and the Brain.**<br>人类认知与大脑 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
-| **Introduction to Perception.**<br>知觉导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
+| **Introduction to Perception.**<br>知觉入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Computational Psychology.**<br>计算心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Genes and Behaviour.**<br>基因与行为 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Behavioural Neuroscience 2.**<br>行为神经科学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Computational Models - Cognition.**<br>计算模型：认知 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
-| **Introduction to Auditory Cognition.**<br>听觉认知导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
+| **Introduction to Auditory Cognition.**<br>听觉认知入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Psychology of Language.**<br>语言心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **The Psychology of Bilingualism.**<br>双语心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Hormones and Behaviour.**<br>激素与行为 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
@@ -72,10 +72,10 @@ ms.date: 2026-11-11
 | **Positive Psychology: Science of Well-Being.**<br>积极心理学：幸福的科学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Health Psychology.**<br>健康心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Inter-Group Relations.**<br>群体间关系 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
-| **Introduction to Personality.**<br>人格导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
+| **Introduction to Personality.**<br>人格入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Personality and Social Psychology.**<br>人格与社会心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
-| **Introduction to Psychopathology.**<br>精神病理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
-| **Introduction to Applied Psychology.**<br>应用心理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
+| **Introduction to Psychopathology.**<br>精神病理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
+| **Introduction to Applied Psychology.**<br>应用心理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Research Methods and Laboratory in Social Psychology.**<br>社会心理学研究方法与实验室 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Principles and Applications of Psychotherapy.**<br>心理治疗的原理与应用 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |
 | **Positive Psychology.**<br>积极心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/) |

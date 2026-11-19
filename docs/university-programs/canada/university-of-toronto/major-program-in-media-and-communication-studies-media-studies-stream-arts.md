@@ -22,17 +22,12 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
-|  | Core (3.0 credits) |  | 1. Introductory Courses (1.0 credit): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Core (3.0 credits) | MDSA10H3 | Media Foundations | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Core (3.0 credits) | MDSA11H3 | Media Ethics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Core (3.0 credits) |  | 2. 2.0 additional credits at MDSB-level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
+|  | 1. Introductory Courses (1.0 credit) | MDSA10H3 | Media Foundations | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
+|  | 1. Introductory Courses (1.0 credit) | MDSA11H3 | Media Ethics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
 |  | Media Studies Stream (5.0 credits) | MDSA13H3 | Media History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Media Studies Stream (5.0 credits) |  | 4. 1.5 additional credits at MDSB-level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Media Studies Stream (5.0 credits) |  | 5. 2.5 additional credits at MDSC-level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Media Studies Stream (5.0 credits) |  | 6. 0.5 credit from the following (please note that you can enroll in a maximum of 0.5 credit from the following list): |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Media Studies Stream (5.0 credits) | MDSD10H3 | Senior Seminar: Topics in Media and Arts | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Media Studies Stream (5.0 credits) | MDSD20H3 | Senior Seminar: Topics in Media and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
-|  | Media Studies Stream (5.0 credits) | MDSD30H3 | Senior Seminar: Topics in Media and Institutions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
+|  | 6. 0.5 credit from the following (please note that you can enroll in a maximum of 0.5 credit from the following list) | MDSD10H3 | Senior Seminar: Topics in Media and Arts | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
+|  | 6. 0.5 credit from the following (please note that you can enroll in a maximum of 0.5 credit from the following list) | MDSD20H3 | Senior Seminar: Topics in Media and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
+|  | 6. 0.5 credit from the following (please note that you can enroll in a maximum of 0.5 credit from the following list) | MDSD30H3 | Senior Seminar: Topics in Media and Institutions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmajmss2) |
 
 ## References
 

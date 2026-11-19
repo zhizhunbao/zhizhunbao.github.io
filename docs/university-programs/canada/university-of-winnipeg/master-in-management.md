@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Leadership and Innovation**<br>领导力与创新 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mim.pdf#page=1) |
 | **Business Strategy**<br>商业战略 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mim.pdf#page=1) |
 | **Descriptive Analytics**<br>描述性分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mim.pdf#page=1) |
-| **Introduction to Technology, Innovation, and Operations Management**<br>技术、创新与运营管理导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mim.pdf#page=1) |
+| **Introduction to Technology, Innovation, and Operations Management**<br>技术、创新与运营管理入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mim.pdf#page=1) |
 | **Advanced Prescriptive**<br>高级规范分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mim.pdf#page=1) |
 | **Multivariate Data Analysis**<br>多元数据分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mim.pdf#page=1) |
 | **Advanced Predictive**<br>高级预测分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-mim.pdf#page=1) |

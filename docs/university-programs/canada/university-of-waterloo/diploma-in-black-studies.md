@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Diploma in Black Studies**<br>黑人研究文凭 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJMgyCAsn) |
 | **Foundations of Black Studies**<br>黑人研究基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJMgyCAsn) |
-| **Introduction to Black Arts, Culture, and Literature**<br>黑人艺术、文化与文学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJMgyCAsn) |
+| **Introduction to Black Arts, Culture, and Literature**<br>黑人艺术、文化与文学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJMgyCAsn) |
 
 ## Courses
 

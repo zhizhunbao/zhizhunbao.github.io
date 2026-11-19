@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Materials and Methods 3: Mass Timber**<br>材料与方法 3：重型木结构 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/architectural-technology-sustainable-design) |
 | **Building Information Modeling 2 (BIM)**<br>建筑信息模型 2 (BIM) | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/architectural-technology-sustainable-design) |
 | **Building Science**<br>建筑科学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/architectural-technology-sustainable-design) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/architectural-technology-sustainable-design) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/architectural-technology-sustainable-design) |
 | **Sustainable Design**<br>可持续设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/architectural-technology-sustainable-design) |
 | **Materials and Methods 4: Concrete**<br>材料与方法 4：混凝土 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/architectural-technology-sustainable-design) |
 | **Drafting and Detailing: Concrete**<br>制图与详图：混凝土 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/architectural-technology-sustainable-design) |

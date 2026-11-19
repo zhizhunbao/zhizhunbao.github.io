@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Physics, Honours BSc (Mathematical Physics Stream)**<br>物理学，荣誉 BSc（数学物理方向） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
-| **Introduction to Calculus I**<br>微积分导论 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
-| **Introduction to Calculus II**<br>微积分导论 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
+| **Introduction to Calculus I**<br>微积分入门 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
+| **Introduction to Calculus II**<br>微积分入门 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Differential Equations I**<br>微分方程 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Differential Equations II**<br>微分方程 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **Honours Thesis**<br>荣誉论文 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Electrodynamics**<br>电动力学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Advanced Quantum Mechanics**<br>高级量子力学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
-| **Introduction to Mathematical Analysis**<br>数学分析导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
+| **Introduction to Mathematical Analysis**<br>数学分析入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Methods in Advanced Calculus**<br>高等微积分方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Methods in Partial Differential Equations**<br>偏微分方程方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Group Theory**<br>群论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-11
 | **Numerical Methods**<br>数值方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Complex Analysis**<br>复分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 | **Set Theory**<br>集合论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
-| **Introduction to Topology and Analysis**<br>拓扑与分析导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
+| **Introduction to Topology and Analysis**<br>拓扑与分析入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/phys.pdf#page=6) |
 
 ## Courses
 

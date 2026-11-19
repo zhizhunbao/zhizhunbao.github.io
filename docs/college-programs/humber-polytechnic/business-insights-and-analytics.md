@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Insights and Analytics**<br>商业洞察与分析 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
-| **Introduction to Business Insights and Analytics**<br>商业洞察与分析导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
-| **Introduction to Statistical Software Languages for Business Insights and Analytics**<br>商业洞察与分析的统计软件语言导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
-| **Introduction to Database and SQL**<br>数据库与SQL导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
+| **Introduction to Business Insights and Analytics**<br>商业洞察与分析入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
+| **Introduction to Statistical Software Languages for Business Insights and Analytics**<br>商业洞察与分析的统计软件语言入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
+| **Introduction to Database and SQL**<br>数据库与SQL入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
 | **Canadian Business and Industry**<br>加拿大商业与产业 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
 | **Quantitative Research Methods and Analysis**<br>定量研究方法与分析 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |
 | **Managerial Accounting and Finance**<br>管理会计与财务 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/business-insights-and-analytics) |

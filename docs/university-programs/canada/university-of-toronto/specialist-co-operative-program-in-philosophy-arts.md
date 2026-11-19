@@ -13,7 +13,8 @@ ms.date: 2026-11-11
 | **SPECIALIST (CO-OPERATIVE) PROGRAM IN PHILOSOPHY (ARTS)**<br>哲学专精项目（合作教育）（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
 | **Symbolic Logic I**<br>符号逻辑 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
 | **Puzzles and Paradoxes**<br>谜题与悖论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
-| **Introduction to Mathematical Logic**<br>数理逻辑导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
+| **Introduction to Mathematical Logic**<br>数理逻辑入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
+| **Philosophical Writing and Methodology**<br>哲学写作与方法论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
 | **Becoming Job Search Ready: Arts Co-op**<br>为求职做好准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
 | **Finding Your First Work Term and Getting Workplace Ready: Arts Co-op**<br>寻找首个工作学期并做好职场准备：文科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
@@ -29,6 +30,10 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+|  | Program requirements (same as SCSPE0231): Students must complete at least 12.0 credits in Philosophy including | PHLB50H3 | Symbolic Logic I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
+|  | Program requirements (same as SCSPE0231): Students must complete at least 12.0 credits in Philosophy including (or) | PHLB55H3 | Puzzles and Paradoxes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
+|  | Program requirements (same as SCSPE0231): Students must complete at least 12.0 credits in Philosophy including | MATC09H3 | Introduction to Mathematical Logic | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
+|  | Program requirements (same as SCSPE0231): Note | PHLB99H3 | Philosophical Writing and Methodology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
 |  | Academic Program Requirements |  | Students must complete the program requirements as described in the Specialist Program in Philosophy. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0231c) |

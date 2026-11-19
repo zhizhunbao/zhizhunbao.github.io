@@ -1,10 +1,10 @@
 ---
-title: "3.4.156 Public Health (Ph.D.)"
+title: "4.4.156 Public Health (Ph.D.)"
 description: "University Programs > United States > Yale University > Public Health (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.156 Public Health (Ph.D.)
+# 4.4.156 Public Health (Ph.D.)
 
 ## Glossary
 
@@ -27,7 +27,7 @@ ms.date: 2026-11-18
 | **Applied Analytic Methods in Epidemiology**<br>流行病学应用分析方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Causal Inference Methods in Public Health Research**<br>公共卫生研究中的因果推断方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Developing a Research Proposal**<br>撰写研究计划 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to Evidence-Based Medicine and Health Care**<br>循证医学与医疗卫生导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to Evidence-Based Medicine and Health Care**<br>循证医学与医疗卫生入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Seminar and Journal Club in Environmental Health**<br>环境健康研讨课与期刊俱乐部 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Public Health Toxicology**<br>公共卫生毒理学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Principles of Environmental Health and Exposure Assessment**<br>环境健康与暴露评估原理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-18
 | **Our Air, Our Health**<br>我们的空气，我们的健康 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Climate Change and Public Health**<br>气候变化与公共卫生 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Fundamentals of Green Chemistry and Green Engineering**<br>绿色化学与绿色工程基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to GIS for Public Health**<br>公共卫生GIS导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to GIS for Public Health**<br>公共卫生GIS入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Public Health Emergencies: Disaster Planning and Response**<br>公共卫生突发事件：灾害规划与应对 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Modeling Geographic Space**<br>地理空间建模 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Modeling Geographic Objects**<br>地理对象建模 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-18
 | **Genomic Epidemiology of Infectious Diseases**<br>传染病基因组流行病学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Implementation Science**<br>实施科学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Quantitative Methods for Infectious Disease Epidemiology**<br>传染病流行病学定量方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to the Analysis and Interpretation of Public Health Surveillance Data**<br>公共卫生监测数据分析与解读导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to the Analysis and Interpretation of Public Health Surveillance Data**<br>公共卫生监测数据分析与解读入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Vaccines and Vaccine-Preventable Diseases**<br>疫苗与疫苗可预防疾病 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Epidemiology and Control of Vector Borne Diseases**<br>媒介传播疾病的流行病学与控制 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Transmission Dynamic Models for Understanding Infectious Diseases**<br>理解传染病的传播动力学模型 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -66,8 +66,8 @@ ms.date: 2026-11-18
 | **Causal Inference**<br>因果推断 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **The Design and Analysis of Randomized Field Experiments in Political Science**<br>政治学中随机实地实验的设计与分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **From Concept to Measure: Empirical Inquiry in Social Science**<br>从概念到测量：社会科学中的实证探究 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introductory Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to Methods in Quantitative Sociology**<br>定量社会学方法导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introductory Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to Methods in Quantitative Sociology**<br>定量社会学方法入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Intermediate Methods in Quantitative Sociology**<br>定量社会学中级方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **AI in Social Science Methods**<br>社会科学方法中的AI | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Mixed Methods Research**<br>混合方法研究 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
@@ -80,9 +80,9 @@ ms.date: 2026-11-18
 | **Labor Economics**<br>劳动经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Public Finance I**<br>公共财政 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Public Finance II**<br>公共财政 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to American Politics**<br>美国政治导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to American Politics**<br>美国政治入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Political Preferences and American Political Behavior**<br>政治偏好与美国政治行为 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
-| **Introduction to American Institutions**<br>美国制度导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
+| **Introduction to American Institutions**<br>美国制度入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **American Political Thought**<br>美国政治思想 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Democracy and Bureaucracy**<br>民主与官僚制 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |
 | **Policy Making under Separation of Powers**<br>权力分立下的政策制定 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/public-health/) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Anatomy & Physiology 1**<br>解剖学与生理学 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/592661/courses-next/) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/592661/courses-next/) |
 | **Reason & Writing 1 for Health Sciences**<br>健康科学推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/592661/courses-next/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/592661/courses-next/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/592661/courses-next/) |
 | **Therapeutic Skills-OTA**<br>治疗技能 - OTA | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/592661/courses-next/) |
 | **Anatomy & Physiology 2**<br>解剖学与生理学 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/592661/courses-next/) |
 | **Musculoskeletal Conditions**<br>肌肉骨骼疾病 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/592661/courses-next/) |

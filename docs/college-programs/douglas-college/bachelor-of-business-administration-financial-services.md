@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Principles of Accounting II (see note (1) below)**<br>会计原理 2（见下方注释 1） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Business Mathematics (see note (2) below)**<br>商业数学（见下方注释（2）） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Management Essentials**<br>管理基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Excel for Business**<br>商务 EXCEL | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Introductory Business law**<br>商业法入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Business Statistics I (see note (4) below)**<br>商业统计 I（见下方注释（4）） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Personal Selling**<br>人员推销 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Corporate Finance**<br>公司财务 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
-| **Introduction to Corporate Finance**<br>公司理财导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
+| **Introduction to Corporate Finance**<br>公司理财入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Introductory Management Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Organizational Management Skills (see note (6) below)**<br>组织管理技能（见下方注释 6） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |
 | **Security Analysis (CFP) (see note (7) below)**<br>证券分析（CFP）（见下方注释 7） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbafa) |

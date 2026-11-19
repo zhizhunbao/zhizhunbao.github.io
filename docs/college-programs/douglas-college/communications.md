@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Foundations of Intercultural Communication**<br>跨文化传播基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Public Speaking**<br>公共演讲 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Interpersonal Skills for the Workplace**<br>职场人际技能 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
-| **Introduction to Media and Communication Studies**<br>媒体与传播研究导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
+| **Introduction to Media and Communication Studies**<br>媒体与传播研究入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Workplace Writing for Applied Community Studies**<br>应用社区研究职场写作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Workplace Communications for Selected Programs**<br>特定专业的职场沟通 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
@@ -32,10 +32,10 @@ ms.date: 2026-11-08
 | **Values and Contemporary Issues**<br>价值观与当代问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Logical Reasoning**<br>逻辑推理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
-| **Introduction to Political Science**<br>政治学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
-| **An Introduction to Psychology (I)**<br>心理学导论（I） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
-| **An Introduction to Psychology (II)**<br>心理学导论（II） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
+| **Introduction to Political Science**<br>政治学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
+| **An Introduction to Psychology (I)**<br>心理学入门（I） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
+| **An Introduction to Psychology (II)**<br>心理学入门（II） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Social Issues**<br>社会问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 | **Behaviour in Organizations**<br>组织行为学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctcomm) |
 

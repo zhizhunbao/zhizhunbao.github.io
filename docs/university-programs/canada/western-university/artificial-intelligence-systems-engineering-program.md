@@ -20,21 +20,21 @@ ms.date: 2026-11-11
 | **APPLIED PROBABILITY AND STATISTICS FOR ENGINEERS**<br>工程师应用概率与统计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **APPLIED STATISTICS AND DATA ANALYSIS FOR ENGINEERS**<br>工程师应用统计与数据分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **BUILDING BETTER (COMMUNICATION) BRIDGES: RHETORIC & PROFESSIONAL COMMUNICATION FOR ENGINEERS**<br>搭建更好的（沟通）桥梁：工程师的修辞与专业沟通 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **DATA ENGINEERING AND MACHINE LEARNING**<br>数据工程与机器学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **DATABASE MANAGEMENT SYSTEMS**<br>数据库管理系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **CYBER-PHYSICAL SYSTEMS THEORY**<br>信息物理系统理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **DIGITAL SYSTEMS AND SIGNAL PROCESSING**<br>数字系统与信号处理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **DEEP LEARNING FOR TIME SERIES DATA**<br>时间序列数据的深度学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING DESIGN I**<br>人工智能系统工程设计 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COMPUTER NETWORKING, SECURITY & IOT SYSTEMS**<br>计算机网络、安全与 IOT 系统导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COMPUTER NETWORKING, SECURITY & IOT SYSTEMS**<br>计算机网络、安全与 IOT 系统入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **AI: ETHICS, BIAS AND PRIVACY**<br>AI：伦理、偏见与隐私 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **CIVIL ENGINEERING DESIGN PROJECT**<br>土木工程设计项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **ELECTRICAL/COMPUTER DESIGN PROJECT**<br>电气/计算机设计项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **MECHATRONIC DESIGN PROJECT**<br>机电一体化设计项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **DATA DRIVEN CONTROL OF CYBER-PHYSICAL SYSTEMS**<br>信息物理系统的数据驱动控制 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **THE ETHICAL ENGINEER**<br>有道德的工程师 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COMPUTER ASSISTED SURGERY: THEORY AND PRACTICE**<br>计算机辅助手术导论：理论与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COMPUTER ASSISTED SURGERY: THEORY AND PRACTICE**<br>计算机辅助手术入门：理论与实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **REINFORCEMENT LEARNING**<br>强化学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **SELECTED TOPICS IN AI SYSTEMS ENGINEERING I**<br>人工智能系统工程精选专题 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **SELECTED TOPICS IN AI SYSTEMS ENGINEERING II**<br>人工智能系统工程精选专题 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **DEEP LEARNING IN COMPUTER VISION**<br>计算机视觉中的深度学习 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **HARDWARE/SOFTWARE CO-DESIGN**<br>硬件/软件协同设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED IMAGE PROCESSING AND ANALYSIS**<br>高级图像处理与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DIGITAL IMAGE PROCESSING**<br>数字图像处理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DIGITAL IMAGE PROCESSING**<br>数字图像处理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 | **CLOUD COMPUTING: CONCEPTS, TECHNOLOGIES AND APPLICATIONS**<br>云计算：概念、技术与应用 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21678&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses

@@ -21,8 +21,8 @@ ms.date: 2026-11-08
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
 | **Essentials of Workplace Communication**<br>职场沟通基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
 | **Electrical Prints - Commercial and Industrial**<br>电气图纸 - 商业与工业 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
-| **Introduction to Electrical Instrumentation**<br>电气仪表导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
-| **Introduction to Network Cabling**<br>网络布线导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
+| **Introduction to Electrical Instrumentation**<br>电气仪表入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
+| **Introduction to Network Cabling**<br>网络布线入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
 | **Electrical Concepts II**<br>电气概念 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
 | **Electrical Installations II**<br>电气安装 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |
 | **Electronic Concepts II**<br>电子概念 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/electrical-techniques/) |

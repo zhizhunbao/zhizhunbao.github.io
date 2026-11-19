@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Law Clerk (B258)**<br>法律文员 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Law Office Management & Client Relations**<br>律所管理与客户关系 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Legal Computing**<br>法律计算机应用 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
-| **Introduction to Real Estate Law**<br>房地产法导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
+| **Introduction to Real Estate Law**<br>房地产法入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Estate Law**<br>遗产法 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Legal Communications**<br>法律沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |

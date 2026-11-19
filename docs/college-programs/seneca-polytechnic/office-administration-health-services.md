@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MES/courses.html) |
 | **Business Math Applications**<br>商业数学应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MES/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MES/courses.html) |
-| **Introduction to Document Production**<br>文档制作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MES/courses.html) |
+| **Introduction to Document Production**<br>文档制作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MES/courses.html) |
 | **Email and Calendaring Software**<br>电子邮件与日历软件 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MES/courses.html) |
 | **Keyboarding Skills - Level 1**<br>键盘输入技能 - 1级 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MES/courses.html) |
 | **Medical Terminology I**<br>医学术语 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MES/courses.html) |

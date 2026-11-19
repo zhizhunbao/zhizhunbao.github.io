@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Sales Training**<br>销售培训 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-sales-and-event-coordinator-2024-2025.pdf) |
 | **Budgeting**<br>预算编制 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-sales-and-event-coordinator-2024-2025.pdf) |
 | **Career Development**<br>职业发展 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-sales-and-event-coordinator-2024-2025.pdf) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-sales-and-event-coordinator-2024-2025.pdf) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-sales-and-event-coordinator-2024-2025.pdf) |
 | **Event Coordinator**<br>活动协调员 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-sales-and-event-coordinator-2024-2025.pdf) |
 | **Bridge to Employment Work Practicum**<br>就业衔接工作实习 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-sales-and-event-coordinator-2024-2025.pdf) |
 

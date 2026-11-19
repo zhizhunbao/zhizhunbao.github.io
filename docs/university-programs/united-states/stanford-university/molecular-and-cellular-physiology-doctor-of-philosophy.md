@@ -1,10 +1,10 @@
 ---
-title: "3.3.195 Molecular and Cellular Physiology, Doctor of Philosophy"
+title: "4.3.195 Molecular and Cellular Physiology, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Molecular and Cellular Physiology, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.195 Molecular and Cellular Physiology, Doctor of Philosophy
+# 4.3.195 Molecular and Cellular Physiology, Doctor of Philosophy
 
 ## Glossary
 

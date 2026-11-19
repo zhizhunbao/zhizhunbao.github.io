@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diaspora & Transnational Studies Major (Arts Program)**<br>散居与跨国研究主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Introduction to Diaspora and Transnational Studies**<br>离散与跨国研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Introduction to Diaspora and Transnational Studies**<br>离散与跨国研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Qualitative and Quantitative Reasoning**<br>定性与定量推理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Africa in the 21st Century: Challenges and Opportunities**<br>21世纪的非洲：挑战与机遇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **African Systems of Thought**<br>非洲思想体系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
@@ -20,8 +20,8 @@ ms.date: 2026-11-11
 | **Caribbean Indentureship and its Legacies**<br>加勒比契约劳工制及其遗产 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Caribbean Diaspora in Canada**<br>加拿大的加勒比离散社群 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Caribbean Migrations and Diasporas**<br>加勒比移民与离散社群 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Introduction to Jewish Thought**<br>犹太思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Introduction to Jewish Cultures**<br>犹太文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Introduction to Jewish Thought**<br>犹太思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Introduction to Jewish Cultures**<br>犹太文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **The Holocaust in Fiction**<br>小说中的大屠杀 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **God, Nation, and Self Transformed: The Secularization of the Jewish Experience**<br>上帝、民族与自我的转变：犹太经验的世俗化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Jewish Secularism and Messianic Thought: From Spinoza to Derrida**<br>犹太世俗主义与弥赛亚思想：从斯宾诺莎到德里达 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
@@ -59,7 +59,7 @@ ms.date: 2026-11-11
 | **Travels, Travelers, and Travel Accounts in Asia**<br>亚洲的旅行、旅行者与游记 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **The Global Bildungsroman: Narratives of Development, Time, and Colonialism**<br>全球成长小说：发展、时间与殖民主义的叙事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **U.S. and Canada's Wars in Asia**<br>美国与加拿大在亚洲的战争 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **The English Language in the World**<br>世界中的英语 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **African Literatures in English**<br>英语非洲文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Asian North American Literature**<br>亚裔北美文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
@@ -114,7 +114,7 @@ ms.date: 2026-11-11
 | **Devotional Literature of Early Modern India**<br>近代早期印度的虔信文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Modern Jewish Thought**<br>近代犹太思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Christianity and Judaism in Colonial Context**<br>殖民语境下的基督教与犹太教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Introduction to South Asian Studies**<br>南亚研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Introduction to South Asian Studies**<br>南亚研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Colonialism and Tradition**<br>殖民主义与传统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Jewish Communities in Slavic and East European Countries**<br>斯拉夫与东欧国家的犹太社区 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Literature of the Ukrainian-Canadian Experience**<br>乌克兰裔加拿大人经历的文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
@@ -124,8 +124,8 @@ ms.date: 2026-11-11
 | **City of Saints and Sinners: Kyiv through the Centuries**<br>圣徒与罪人之城：历代基辅 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Magic Prague**<br>魔幻布拉格 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Literature of Exile and Immigration**<br>流亡与移民文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Introduction to Hispanic Literary Studies**<br>西语文学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Introduction to Hispanic Cultural Studies**<br>西语文化研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Introduction to Hispanic Literary Studies**<br>西语文学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Introduction to Hispanic Cultural Studies**<br>西语文化研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Literature and Social Change in Spanish America**<br>西属美洲的文学与社会变革 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Topics in Spanish-American Literature and Culture**<br>西班牙语美洲文学与文化专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Icons and Iconography in Latin American Culture**<br>拉丁美洲文化中的圣像与圣像学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
@@ -146,7 +146,7 @@ ms.date: 2026-11-11
 | **Medical Anthropology and Social Justice**<br>医学人类学与社会正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Advocating Environmental and Climate Justice**<br>倡导环境与气候正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Anthropology of Activism and Social Justice**<br>行动主义与社会正义人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Introduction to Social Anthropological Theory**<br>社会人类学理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Introduction to Social Anthropological Theory**<br>社会人类学理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **‘The West’ and Its Others**<br>“西方”及其他者 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Queer Ethnography**<br>酷儿民族志 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Indigenous Health Histories and Canadian Settler Colonialism**<br>原住民健康史与加拿大定居者殖民主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
@@ -167,7 +167,7 @@ ms.date: 2026-11-11
 | **The Changing Geography of China**<br>中国变迁中的地理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **The Urban Planning Process**<br>城市规划过程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Culture, History, and Landscape**<br>文化、历史与景观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
-| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
+| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Geographies of Markets**<br>市场地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **Praxis and Performance**<br>实践与表演 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |
 | **European Union: Politics, Institutions and Society**<br>欧盟：政治、制度与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1407) |

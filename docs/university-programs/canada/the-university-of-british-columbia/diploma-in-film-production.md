@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diploma in Film Production**<br>电影制作文凭 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
-| **Introduction to Cinema Studies**<br>电影研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
-| **Introduction to Motion Picture Directing**<br>电影导演导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
+| **Introduction to Cinema Studies**<br>电影研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
+| **Introduction to Motion Picture Directing**<br>电影导演入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Film and Media Production I**<br>电影与媒体制作 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Production Planning and Professional Practices**<br>制作规划与职业实践 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
-| **Introduction to Writing for the Screen**<br>影视写作导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
+| **Introduction to Writing for the Screen**<br>影视写作入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Short Screenplay Workshop**<br>短片剧本工作坊 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Film and Media Production II**<br>电影与媒体制作 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Cinematography and Lighting I**<br>电影摄影与灯光 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **Studies in Film**<br>电影研究 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Seminar in American Cinema Since 1960**<br>1960 年以来的美国电影研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Seminar in Canadian Cinema**<br>加拿大电影研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
-| **Introduction to Japanese Cinema**<br>日本电影导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
+| **Introduction to Japanese Cinema**<br>日本电影入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **History of Chinese Cinema**<br>中国电影史 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Korean Cinema**<br>韩国电影 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |
 | **Aesthetics and Practice of Film Music**<br>电影音乐的美学与实践 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/diploma-film-production) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Mechanical Engineering - Technician**<br>机械工程 - 技术员 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Computer Aided Design I**<br>计算机辅助设计 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Technical Writing I**<br>技术写作 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
-| **Introduction to Engineering Principles**<br>工程原理导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
+| **Introduction to Engineering Principles**<br>工程原理入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Group Dynamics**<br>团体动力学 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Methods and Materials**<br>方法与材料 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Technical Math I**<br>技术数学 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Applied Strength of Materials**<br>应用材料强度 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Mechanics and Dynamics of Machines**<br>机械与机器动力学 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Manufacturing Processes**<br>制造工艺 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
-| **Introduction to Thermodynamics**<br>热力学导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
+| **Introduction to Thermodynamics**<br>热力学入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Fundamentals of Calculus**<br>微积分基础 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Applied Psychology**<br>应用心理学 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |
 | **Research and Reporting**<br>研究与报告 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mechanical-engineering-technician) |

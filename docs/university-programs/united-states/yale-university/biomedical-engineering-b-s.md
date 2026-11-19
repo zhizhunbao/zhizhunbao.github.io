@@ -1,10 +1,10 @@
 ---
-title: "3.4.11 Biomedical Engineering (B.S.)"
+title: "4.4.11 Biomedical Engineering (B.S.)"
 description: "University Programs > United States > Yale University > Biomedical Engineering (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.11 Biomedical Engineering (B.S.)
+# 4.4.11 Biomedical Engineering (B.S.)
 
 ## Glossary
 
@@ -22,12 +22,12 @@ ms.date: 2026-11-18
 | **University Physics**<br>大学物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **Modern Physical Measurement**<br>现代物理测量 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **General Physics Laboratory**<br>普通物理实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
-| **Introduction to Biomedical Computation**<br>生物医学计算导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
+| **Introduction to Biomedical Computation**<br>生物医学计算入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **Sophomore Seminar in Biomedical Engineering**<br>生物医学工程二年级研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **Physiological Systems**<br>生理系统 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **Biotransport and Kinetics**<br>生物传输与动力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **Biomedical Signals and Images**<br>生物医学信号与图像 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
-| **Introduction to Biomechanics**<br>生物力学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
+| **Introduction to Biomechanics**<br>生物力学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **Physiological Systems Laboratory**<br>生理系统实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **Biomedical Engineering Laboratory**<br>生物医学工程实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |
 | **Seminar in Biomedical Engineering**<br>生物医学工程研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering/) |

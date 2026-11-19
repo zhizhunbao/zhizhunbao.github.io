@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Bachelor of Science in Chemical Engineering Co-op - Plan I**<br>理学学士（化学工程，合作教育，方案 I） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110514&returnto=20848) |
 | **Engineering Thermodynamics**<br>工程热力学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110514&returnto=20848) |
-| **Introduction to Chemical and Materials Engineering**<br>化学与材料工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110514&returnto=20848) |
+| **Introduction to Chemical and Materials Engineering**<br>化学与材料工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110514&returnto=20848) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110514&returnto=20848) |
 | **Orientation to Cooperative Education**<br>合作教育说明 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110514&returnto=20848) |
 | **Materials Science II**<br>材料科学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110514&returnto=20848) |

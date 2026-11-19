@@ -12,32 +12,32 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Associate of Science - Environmental Science**<br>理科副学士，环境科学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Poetry and Drama**<br>诗歌与戏剧导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Prose Fiction**<br>散文小说导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Poetry and Drama**<br>诗歌与戏剧入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Prose Fiction**<br>散文小说入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Finite Mathematics 1**<br>有限数学 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Environmental Science**<br>环境科学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Biology 1**<br>生物学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Biology 2**<br>生物学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Biology 1**<br>生物学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Biology 2**<br>生物学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Fundamentals of Chemistry 1**<br>化学基础 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Fundamentals of Chemistry 2**<br>化学基础 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Physical Geography**<br>自然地理学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Physical Geography**<br>自然地理学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Chemical Analysis**<br>化学分析导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Geographic Information Systems Science**<br>地理信息系统科学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Chemical Analysis**<br>化学分析入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Geographic Information Systems Science**<br>地理信息系统科学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Meteorology, Climatology and Hydrology**<br>气象学、气候学与水文学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Quantitative Geography**<br>计量地理学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Cultural Anthropology**<br>文化人类学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 | **Vertebrate Evolution and Comparative Anatomy**<br>脊椎动物进化与比较解剖学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **An Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Physics 1**<br>物理学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Physics 2**<br>物理学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
-| **Introduction to Environmental Sustainability**<br>环境可持续性导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **An Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Physics 1**<br>物理学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Physics 2**<br>物理学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
+| **Introduction to Environmental Sustainability**<br>环境可持续性入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/associate-of-science-environmental-science/) |
 
 ## Courses
 

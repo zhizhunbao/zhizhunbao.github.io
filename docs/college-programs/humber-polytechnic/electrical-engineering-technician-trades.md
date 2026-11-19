@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Electrical Engineering Technician – Trades**<br>电气工程技术员 – 行业 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Communication and Documentation**<br>沟通与文档记录 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
-| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
+| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Trade Practices**<br>行业实务 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Installation and Maintenance Methods**<br>安装与维护方法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Power Electronics**<br>电力电子学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Electrical Theory and Application**<br>电气理论与应用 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Drawings, Specifications and Standards Advanced**<br>高级图纸、规范与标准 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
-| **Introduction to Instrumentation**<br>仪器仪表导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
+| **Introduction to Instrumentation**<br>仪器仪表入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Technical Mathematics for Electrical Engineering Technicians**<br>电气工程技术员技术数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Building Automation Systems**<br>楼宇自动化系统 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |
 | **Canadian Electrical Code IV**<br>加拿大电气规范 IV | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technician-trades) |

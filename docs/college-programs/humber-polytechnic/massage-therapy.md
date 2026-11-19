@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Physiology 1**<br>生理学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/massage-therapy) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/massage-therapy) |
 | **Anatomy 2**<br>解剖学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/massage-therapy) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/massage-therapy) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/massage-therapy) |
 | **Interprofessional Education: Exploring Team Functioning**<br>跨专业教育：探索团队运作 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/massage-therapy) |
 | **Experiential Learning: Clinical Skills & Techniques 2**<br>体验式学习：临床技能与技术 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/massage-therapy) |
 | **Relationships and Interpersonal Skills**<br>人际关系与人际交往技能 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/massage-therapy) |

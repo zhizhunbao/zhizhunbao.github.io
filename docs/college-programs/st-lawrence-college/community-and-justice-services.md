@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Community and Justice Services**<br>社区与司法服务 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
-| **Introduction to the Canadian Criminal Justice System**<br>加拿大刑事司法系统导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
+| **Introduction to the Canadian Criminal Justice System**<br>加拿大刑事司法系统入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
 | **Principles of Ethical Reasoning**<br>伦理推理原则 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
 | **Health and Wellness 1**<br>健康与保健 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
 | **Communications for College**<br>大学沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
 | **Interpersonal and Group Dynamics**<br>人际与团体动力学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
-| **Introduction to Community Advocacy**<br>社区倡导导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
+| **Introduction to Community Advocacy**<br>社区倡导入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
 | **Health and Wellness 2**<br>健康与保健 2 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
 | **Documentation and Report Writing**<br>文档与报告写作 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/community-and-justice-services/full-time/kingston) |

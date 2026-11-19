@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **College Communications 2**<br>学院交流 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) |
 | **Java Programming**<br>Java 编程 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) |
 | **Web Application Development**<br>Web应用开发 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) |
 | **Artificial Intelligence Systems Design**<br>人工智能系统设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) |
 | **Linear Algebra and Statistics**<br>线性代数与统计学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) |
 | **Advanced Database Concepts**<br>高级数据库概念 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) |

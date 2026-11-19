@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Computer Information Systems**<br>计算机信息系统 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **PEI Occupational Health and Safety**<br>PEI职业健康与安全 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
-| **Introduction to Object Oriented Programming**<br>面向对象编程导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
+| **Introduction to Object Oriented Programming**<br>面向对象编程入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **Intermediate Object Oriented Programming**<br>中级面向对象程序设计 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **Database Management**<br>数据库管理 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **Web Application Development**<br>Web应用开发 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
@@ -29,10 +29,10 @@ ms.date: 2026-11-08
 | **Technical AI Solutions**<br>技术型AI解决方案 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **Intermediate Cybersecurity**<br>中级网络安全 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **Capstone Project**<br>毕业设计项目 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **e-Health Business Fundamentals and Messaging Infrastructure**<br>电子健康业务基础与消息传递基础设施 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 | **Business Fundamentals**<br>商业基础 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
-| **Introduction to Healthcare Informatics**<br>医疗信息学导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
+| **Introduction to Healthcare Informatics**<br>医疗信息学入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/computer-information-systems/index.php) |
 
 ## Courses
 

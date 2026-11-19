@@ -11,17 +11,17 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN PSYCHOLOGY**<br>心理学荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PSYCHOLOGY**<br>心理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PSYCHOLOGY**<br>心理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY AS A NATURAL SCIENCE**<br>作为自然科学的心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY AS A SOCIAL SCIENCE**<br>作为社会科学的心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PSYCHOLOGY AS A NATURAL SCIENCE**<br>作为自然科学的心理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PSYCHOLOGY AS A SOCIAL SCIENCE**<br>作为社会科学的心理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PSYCHOLOGY AS A NATURAL SCIENCE**<br>作为自然科学的心理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PSYCHOLOGY AS A SOCIAL SCIENCE**<br>作为社会科学的心理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF FINITE MATHEMATICS**<br>有限数学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS**<br>统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS**<br>统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS IN PSYCHOLOGY**<br>心理学研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
-| **WRITING: INTRODUCTION TO UNIVERSITY ESSAY WRITING**<br>写作：大学论文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
+| **WRITING: INTRODUCTION TO UNIVERSITY ESSAY WRITING**<br>写作：大学论文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
 | **UNIVERSITY WRITING IN ENGLISH**<br>大学英语写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
 | **EXPERIMENTAL RESEARCH METHODS AND ANALYSIS**<br>实验研究方法与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
 | **CORRELATIONAL AND MULTIVARIATE RESEARCH METHODS AND ANALYSIS**<br>相关与多变量研究方法与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |
 | **THEORY IN PSYCHOLOGY**<br>心理学理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21237&SelectedCalendar=Live&ArchiveID=) |

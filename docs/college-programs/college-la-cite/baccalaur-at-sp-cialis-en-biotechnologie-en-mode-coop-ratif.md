@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Histoire des savoirs en criminologie**<br>犯罪学知识史 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81733) |
 | **Langue et culture hispaniques**<br>西班牙语语言与文化 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81733) |
 | **Gestion des finances personnelles**<br>个人理财管理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81733) |
-| **Introduction à la psychologie expérimentale**<br>实验心理学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81733) |
+| **Introduction à la psychologie expérimentale**<br>实验心理学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81733) |
 | **Concepts judiciaires**<br>司法概念 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81733) |
 | **Santé et bien-être**<br>健康与福祉 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81733) |
 | **Réalités autochtones, colonialisme et réconciliation**<br>原住民现实、殖民主义与和解 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81733) |

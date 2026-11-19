@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Close Readings in Urban Design**<br>城市设计精读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1001) |
 | **Modeling and Fabrication in Design**<br>设计中的建模与制造 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1001) |
 | **Structures, Building Systems, and Environments I**<br>结构、建筑系统与环境 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1001) |
-| **Introduction to Critical Theory**<br>批判理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1001) |
+| **Introduction to Critical Theory**<br>批判理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1001) |
 | **Architecture Studio III**<br>建筑工作室 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1001) |
 | **Landscape Architecture Studio III**<br>景观建筑工作室 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1001) |
 | **Architecture Studio IV**<br>建筑工作室 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://daniels.calendar.utoronto.ca/program/ahspe1001) |

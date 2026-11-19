@@ -1,10 +1,10 @@
 ---
-title: "3.3.76 Biophysics, Master of Science"
+title: "4.3.76 Biophysics, Master of Science"
 description: "University Programs > United States > Stanford University > Biophysics, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.76 Biophysics, Master of Science
+# 4.3.76 Biophysics, Master of Science
 
 ## Glossary
 

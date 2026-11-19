@@ -14,21 +14,21 @@ ms.date: 2026-11-08
 | **Accounting Basics I**<br>会计基础 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Business Report Writing**<br>商务报告写作 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Excel**<br>Excel | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Global Citizenship**<br>全球公民意识 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Ethical Issues in Business**<br>商业伦理问题 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Quickbooks Online**<br>QuickBooks Online | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
-| **Microeconomics - Introduction**<br>微观经济学 - 导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
+| **Microeconomics - Introduction**<br>微观经济学 - 入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Finance and Accounting Math**<br>金融与会计数学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Marketing 1**<br>市场营销 1 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Personal Selling**<br>人员推销 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Cost & Managerial Accounting 1**<br>成本与管理会计 1 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Human Resource Management Principles**<br>人力资源管理原则 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Supply Chain Administration**<br>供应链管理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
-| **Macroeconomics - Introduction**<br>宏观经济学 - 导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
+| **Macroeconomics - Introduction**<br>宏观经济学 - 入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Marketing 2**<br>市场营销 2 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Intro to Business Management and Organizational Behaviour**<br>商业管理与组织行为入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-online-program-delivery) |

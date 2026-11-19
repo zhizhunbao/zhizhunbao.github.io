@@ -1,25 +1,25 @@
 ---
-title: "3.3.10 Biology, Major: Bachelor of Science"
+title: "4.3.10 Biology, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Biology, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.10 Biology, Major: Bachelor of Science
+# 4.3.10 Biology, Major: Bachelor of Science
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Biology, Major: Bachelor of Science**<br>生物学，主修：理学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Biochemistry & Molecular Biology**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Evolution**<br>进化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Laboratory Research in Neuronal Cell Biology**<br>神经元细胞生物学实验室研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Laboratory Research in Cell and Molecular Biology**<br>细胞与分子生物学实验室研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Research in Ecology and Evolutionary Biology**<br>生态学与进化生物学研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Laboratory Research in Neuronal Cell Biology**<br>神经元细胞生物学实验室研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Laboratory Research in Cell and Molecular Biology**<br>细胞与分子生物学实验室研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Research in Ecology and Evolutionary Biology**<br>生态学与进化生物学研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Plant Molecular Biology Lab**<br>植物分子生物学实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Calculus**<br>微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
@@ -40,13 +40,13 @@ ms.date: 2026-11-18
 | **Structure and Reactivity of Carbon-Based Molecules**<br>碳基分子的结构与反应性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Understanding the Natural and Unnatural World through Chemistry**<br>通过化学理解自然与非自然世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Environmental Data Analysis**<br>环境数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Marine Data Science in Practice**<br>海洋数据科学实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Methods in Agroecology**<br>农业生态学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Ecology and Natural History of Jasper Ridge Biological Preserve**<br>贾斯珀岭生物保护区的生态与自然史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **The Chromatin-Regulated Genome**<br>染色质调控的基因组 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
@@ -62,11 +62,11 @@ ms.date: 2026-11-18
 | **Behavioral Endocrinology**<br>行为内分泌学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Ocean Solutions: Science, Policy, and Community-Engaged Learning**<br>海洋解决方案：科学、政策与社区参与式学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Topics in Cancer Biology**<br>癌症生物学专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Genomic approaches to the study of human disease**<br>人类疾病研究的基因组学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Bioethics: Frameworks and Applications**<br>生物伦理学：框架与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Advanced Imaging Lab in Biophysics**<br>生物物理高级成像实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Biotechnology: Detecting and Treating Disease**<br>生物技术导论：疾病的检测与治疗 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Biotechnology: Detecting and Treating Disease**<br>生物技术入门：疾病的检测与治疗 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Scientific Writing and Communication in Cell and Molecular Biology**<br>细胞与分子生物学中的科学写作与交流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Macroevolution**<br>宏观进化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Plant EcoEvo in the Field**<br>田野中的植物生态进化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
@@ -116,7 +116,7 @@ ms.date: 2026-11-18
 | **Systems Physiology and Design**<br>系统生理学与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Translational Bioinformatics**<br>转化生物信息学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Protein Engineering**<br>蛋白质工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Computational Biology: Structure and Organization of Biomolecules and Cells**<br>计算生物学：生物分子与细胞的结构与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Advances in Biotechnology**<br>生物技术进展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
@@ -134,7 +134,7 @@ ms.date: 2026-11-18
 | **Biological Chemistry Laboratory**<br>生物化学实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Biophysical Chemistry**<br>生物物理化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Therapeutic Science at the Chemistry - Biology Interface**<br>化学与生物界面的治疗科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Chemical Engineering Thermodynamics**<br>化工热力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Chemical Engineering Thermodynamics**<br>化工热力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Computer Organization and Systems**<br>计算机组成与系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
@@ -161,7 +161,7 @@ ms.date: 2026-11-18
 | **Advanced Immunology I**<br>高级免疫学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Advanced Immunology II**<br>高级免疫学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Immunology in Health and Disease**<br>健康与疾病中的免疫学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Translational Immunology**<br>转化免疫学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **How Cells Work: Energetics, Compartments, and Coupling in Cell Biology**<br>细胞如何运作：细胞生物学中的能量学、区室与耦合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Coral Reef Ecosystems**<br>珊瑚礁生态系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
@@ -171,8 +171,8 @@ ms.date: 2026-11-18
 | **Brain Plasticity**<br>大脑可塑性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Cognitive Neuroscience**<br>认知神经科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Image Systems Engineering**<br>图像系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Regional Study of Human Structure**<br>人体结构区域研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Human and Planetary Health**<br>人类与行星健康 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
@@ -186,7 +186,7 @@ ms.date: 2026-11-18
 | **The Independent Capstone in Biology I**<br>生物学独立毕业项目 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Senior Honors Thesis: How to Effectively Write About Scientific Research**<br>高年级荣誉论文：如何有效撰写科研论文 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **The Independent Capstone in Biology II**<br>生物学独立毕业项目 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Intermediate Writing: Introduction to Science Communication**<br>中级写作：科学传播导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Intermediate Writing: Introduction to Science Communication**<br>中级写作：科学传播入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Sexual Health Communication: Strategies to Save Lives**<br>性健康沟通：拯救生命的策略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Intermediate Writing: Storytelling and Science**<br>中级写作：讲故事与科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Intermediate Writing: Art in/and Science Communication**<br>中级写作：科学传播中的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
@@ -202,7 +202,7 @@ ms.date: 2026-11-18
 | **Imaging: Biological Light Microscopy**<br>成像：生物光学显微术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Probability Theory for Statistical Inference**<br>统计推断的概率论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Advanced Topics in Mathematical Evolutionary Biology**<br>数学进化生物学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |
 | **Data Science for Medicine**<br>医学数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/biology/bachelor-of-science) |

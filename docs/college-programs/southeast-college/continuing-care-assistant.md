@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Special Needs 1**<br>特殊需求 1 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-continuing-care-assistant-program/) |
 | **Personal Care 2**<br>个人护理 2 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-continuing-care-assistant-program/) |
 | **Special Needs 2**<br>特殊需求 2 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-continuing-care-assistant-program/) |
-| **Introduction to Caregiving**<br>护理照护导论 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-continuing-care-assistant-program/) |
+| **Introduction to Caregiving**<br>护理照护入门 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-continuing-care-assistant-program/) |
 | **Personal Competence**<br>个人能力 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/international-students-continuing-care-assistant-program/) |
 
 ## Courses

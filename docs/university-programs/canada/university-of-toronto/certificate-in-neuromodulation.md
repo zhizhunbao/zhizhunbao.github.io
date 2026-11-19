@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Interfacing & Modulating the Nervous System**<br>神经系统的接口与调控 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernmn) |
 | **Physiological Control Systems**<br>生理控制系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernmn) |
 | **Biomedical Systems Engineering I: Organ Systems**<br>生物医学系统工程 I：器官系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernmn) |
-| **Introduction to Biomolecular Engineering**<br>生物分子工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernmn) |
+| **Introduction to Biomolecular Engineering**<br>生物分子工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernmn) |
 | **Biomedical Engineering Technology and Investigation**<br>生物医学工程技术与研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernmn) |
 | **Cellular and Molecular Bioengineering II**<br>细胞与分子生物工程 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernmn) |
 | **Patents in Biology and Medical Devices**<br>生物学与医疗器械专利 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernmn) |

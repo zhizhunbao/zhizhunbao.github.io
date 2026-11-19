@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geography and Aviation (Bachelor of Environmental Studies - Honours)**<br>地理与航空（环境研究学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
-| **Introduction to Aviation**<br>航空导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
+| **Introduction to Aviation**<br>航空入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Professional Pilot Program Course 1**<br>职业飞行员课程 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Preparatory Ground Instruction 1**<br>飞行地面预备教学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Preparatory Ground Instruction 2**<br>飞行地面预备教学 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
@@ -28,10 +28,10 @@ ms.date: 2026-11-11
 | **Preparatory Ground Instruction 7**<br>飞行地面预备教学 7 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Aviation Meteorology**<br>航空气象学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Professional Pilot Program Course 6**<br>职业飞行员课程 6 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
-| **Introduction to Computing Through Applications**<br>通过应用学习计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
+| **Introduction to Computing Through Applications**<br>通过应用学习计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Communications for Environmental Professions**<br>环境专业沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Environmental Applications of Data Management and Statistics**<br>数据管理与统计的环境应用 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
-| **Introduction to Environmental Studies**<br>环境研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
+| **Introduction to Environmental Studies**<br>环境研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Field Ecology**<br>野外生态学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Applied Statistics for Environmental Research**<br>环境研究应用统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Designing Effective Maps**<br>有效地图设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-11
 | **Hydroclimatology**<br>水文气候学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Climate Change Fundamentals**<br>气候变化基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 | **Earth from Space Using Remote Sensing**<br>利用遥感从太空观察地球 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
-| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
+| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/Bys11CRih) |
 
 ## Courses
 

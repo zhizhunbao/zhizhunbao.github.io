@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Greek, B.A. Single Advanced Major**<br>希腊语，B.A. 单一高级主修 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/greek-ba-single-advanced/) |
-| **Introduction to the Reading of Ancient Greek 1**<br>古希腊语阅读导论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/greek-ba-single-advanced/) |
-| **Introduction to the Reading of Ancient Greek 2**<br>古希腊语阅读导论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/greek-ba-single-advanced/) |
+| **Introduction to the Reading of Ancient Greek 1**<br>古希腊语阅读入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/greek-ba-single-advanced/) |
+| **Introduction to the Reading of Ancient Greek 2**<br>古希腊语阅读入门 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/greek-ba-single-advanced/) |
 | **Intermediate Readings in Ancient Greek**<br>古希腊语中级阅读 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/greek-ba-single-advanced/) |
 | **Greek Prose Composition and Sight Translation**<br>希腊语散文写作与视译 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/classics/greek-ba-single-advanced/) |
 

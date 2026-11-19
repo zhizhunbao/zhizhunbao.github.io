@@ -14,9 +14,9 @@ ms.date: 2026-11-08
 | **Communication française professionnelle et scolaire**<br>法语专业与学术沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
 | **Gestion du mode de vie et conditionnement physique I**<br>生活方式管理与体能训练 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
 | **Logiciels Microsoft**<br>Microsoft软件 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
-| **Introduction aux professions en correction, sécurité et police**<br>惩教、安保与警务职业导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
+| **Introduction aux professions en correction, sécurité et police**<br>惩教、安保与警务职业入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
 | **Justice criminelle canadienne**<br>加拿大刑事司法 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
-| **Introduction à la sociologie**<br>社会学导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
+| **Introduction à la sociologie**<br>社会学入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
 | **Police communautaire**<br>社区警务 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
 | **Communication and Critical Thinking**<br>沟通与批判性思维 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |
 | **Techniques de défense**<br>防卫技术 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-des-services-policiers/) |

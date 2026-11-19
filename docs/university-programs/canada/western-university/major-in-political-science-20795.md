@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN POLITICAL SCIENCE (20795)**<br>政治学主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICAL SCIENCE**<br>政治学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICAL SCIENCE**<br>政治学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
 | **CANADIAN GOVERNMENT AND POLITICS**<br>加拿大政府与政治 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL RELATIONS**<br>国际关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICAL THEORY**<br>政治理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COMPARATIVE POLITICS**<br>比较政治学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICAL THEORY**<br>政治理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COMPARATIVE POLITICS**<br>比较政治学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH DESIGN IN POLITICAL SCIENCE**<br>政治学研究设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO RESEARCH METHODS IN POLITICAL SCIENCE**<br>政治学研究方法导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO RESEARCH METHODS IN POLITICAL SCIENCE**<br>政治学研究方法入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20795&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Nursing After Degree - Bachelor of**<br>护理学士（学位后） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing-after-degree) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing-after-degree) |
-| **Introduction to Praxis**<br>实践论导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing-after-degree) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing-after-degree) |
+| **Introduction to Praxis**<br>实践论入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing-after-degree) |
 | **Nursing and Intersectionality**<br>护理与交叉性 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing-after-degree) |
 | **Assessing Health and Wholeness**<br>健康与整体性评估 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing-after-degree) |
 | **Health of Persons**<br>个人健康 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-nursing-after-degree) |

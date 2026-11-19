@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Entrepreneuriat social**<br>社会创业 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Communication française professionnelle et scolaire**<br>法语专业与学术沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Comptabilité I - cycle comptable**<br>会计 I：会计循环 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
-| **Introduction à l’économie plurielle**<br>多元经济导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
+| **Introduction à l’économie plurielle**<br>多元经济入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Pratiques entrepreneuriales sociales**<br>社会创业实践 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Développement communautaire et social**<br>社区与社会发展 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Lois, règlements et politiques**<br>法律、法规与政策 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Diversification financière**<br>金融多元化 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Planification stratégique d'affaires**<br>商业战略规划 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Formation générale au choix**<br>选修通识教育 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
-| **Introduction aux ressources humaines**<br>人力资源导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
+| **Introduction aux ressources humaines**<br>人力资源入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Ventes et service à la clientèle**<br>销售与客户服务 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Principes du marketing**<br>营销原理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |
 | **Leadership et gouvernance en entreprise sociale**<br>社会企业领导力与治理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/entrepreneuriat-social/) |

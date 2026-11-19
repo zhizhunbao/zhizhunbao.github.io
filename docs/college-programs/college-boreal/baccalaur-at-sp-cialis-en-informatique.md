@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Conception et mise en oeuvre d'application Web**<br>Web 应用设计与实现 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Interface humain-machine**<br>人机界面 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Cours d'approfondissement au choix BINF série 2000**<br>BINF 2000 系列深化选修课 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
-| **Introduction à la sécurité des systèmes d'information**<br>信息系统安全导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
+| **Introduction à la sécurité des systèmes d'information**<br>信息系统安全入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Systèmes de logiciels d'entreprise**<br>企业软件系统 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Gestion des services TI**<br>IT服务管理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Conception de logiciels**<br>软件设计 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-08
 | **Proposition de recherche appliquée (Capstone)**<br>应用研究提案（毕业设计） | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Cours d'approfondissement au choix BINF série 4000**<br>BINF 4000 系列深化选修课 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Apprentissage automatique (Machine Learning)**<br>机器学习 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
-| **Introduction aux mégadonnées**<br>大数据导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
+| **Introduction aux mégadonnées**<br>大数据入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Informatique décisionnelle**<br>商业智能 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 | **Projet de recherche appliquée**<br>应用研究项目 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-specialise-en-informatique/) |
 

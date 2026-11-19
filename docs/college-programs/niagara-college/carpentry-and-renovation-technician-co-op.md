@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Construction Renovation Project (Management)**<br>建设翻新项目（管理） | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/carpentry-renovation-technician/) |
 | **Building Codes II**<br>建筑规范 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/carpentry-renovation-technician/) |
 | **Building Construction V: Structural Modifications**<br>建筑施工 V：结构改造 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/carpentry-renovation-technician/) |
-| **Introduction to Interior Design**<br>室内设计导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/carpentry-renovation-technician/) |
+| **Introduction to Interior Design**<br>室内设计入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/carpentry-renovation-technician/) |
 | **Architectural Millwork**<br>建筑木工 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/carpentry-renovation-technician/) |
 | **Commercial Construction Methods**<br>商业建设方法 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/carpentry-renovation-technician/) |
 | **Construction Materials II**<br>建筑材料 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/carpentry-renovation-technician/) |

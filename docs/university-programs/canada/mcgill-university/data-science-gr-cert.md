@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Data Mining.**<br>数据挖掘 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/mathematics-statistics/data-science-gr-cert/) |
 | **Artificial Intelligence for Cybersecurity**<br>网络安全人工智能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/mathematics-statistics/data-science-gr-cert/) |
 | **Regression and Analysis of Variance.**<br>回归与方差分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/mathematics-statistics/data-science-gr-cert/) |
-| **Introduction to Time Series Analysis.**<br>时间序列分析导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/mathematics-statistics/data-science-gr-cert/) |
+| **Introduction to Time Series Analysis.**<br>时间序列分析入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/mathematics-statistics/data-science-gr-cert/) |
 | **Bayesian Theory and Methods.**<br>贝叶斯理论与方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/mathematics-statistics/data-science-gr-cert/) |
 | **Computation Intensive Statistics.**<br>计算密集型统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/mathematics-statistics/data-science-gr-cert/) |
 

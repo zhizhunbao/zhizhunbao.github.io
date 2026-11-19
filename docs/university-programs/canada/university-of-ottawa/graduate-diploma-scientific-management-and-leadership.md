@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Project Management I**<br>项目管理 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/) |
 | **Project Management II**<br>项目管理 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/) |
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/) |
-| **Introduction to Corporate Finance**<br>公司金融导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/) |
+| **Introduction to Corporate Finance**<br>公司金融入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/) |
 | **Change Management**<br>变革管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/) |
 | **Entrepreneurial Thinking in Practice**<br>创业思维实践 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/) |
 | **Program Evaluation**<br>项目评估 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-scientific-management-leadership/) |

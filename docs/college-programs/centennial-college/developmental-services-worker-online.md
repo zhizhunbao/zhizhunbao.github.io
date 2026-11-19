@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Pharmacology**<br>药理学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/developmental-services-worker-online) |
 | **Valued Social Roles**<br>有价值的社会角色 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/developmental-services-worker-online) |
 | **Supports for Personal Health Care**<br>个人医疗保健支持 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/developmental-services-worker-online) |
-| **Introduction to Teaching**<br>教学导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/developmental-services-worker-online) |
+| **Introduction to Teaching**<br>教学入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/developmental-services-worker-online) |
 | **Augmentative Communication and ASL**<br>辅助沟通与美国手语 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/developmental-services-worker-online) |
 | **Global Citizenship: From Social Analysis to Social Action**<br>全球公民：从社会分析到社会行动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/developmental-services-worker-online) |
 | **Universal Design for Learning and Educational Supports**<br>学习通用设计与教育支持 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/developmental-services-worker-online) |

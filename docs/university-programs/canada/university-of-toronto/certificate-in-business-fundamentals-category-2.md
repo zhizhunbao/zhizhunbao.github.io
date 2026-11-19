@@ -13,10 +13,10 @@ ms.date: 2026-11-11
 | **Certificate in Business Fundamentals (Category 2)**<br>商业基础证书（类别 2） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
 | **Fundamentals of Management**<br>管理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
 | **Fundamentals of Financial Accounting**<br>财务会计基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
-| **Introduction to Financial Markets**<br>金融市场导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
+| **Introduction to Financial Markets**<br>金融市场入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
 | **Fundamentals of Marketing**<br>市场营销基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
 | **Financial Markets**<br>金融市场 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
 | **Principles of Marketing**<br>市场营销原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer2400) |
 

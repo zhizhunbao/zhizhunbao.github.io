@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **NON-WESTERN "PHILOSOPHIES"**<br>非西方“哲学” | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY FROM ANTIQUITY TO THE 20TH CENTURY**<br>从古代到 20 世纪的哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **POWER, SOCIAL POLITICS, AND CULTURE**<br>权力、社会政治与文化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE WESTERN INTELLECTUAL TRADITION**<br>西方思想传统导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE WESTERN INTELLECTUAL TRADITION**<br>西方思想传统入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY PHILOSOPHY**<br>哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **QUESTIONS OF THE DAY**<br>时下问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **THE GREAT HUMAN QUESTIONS WE ALL ASK**<br>我们都会问的人类大问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
@@ -24,17 +24,17 @@ ms.date: 2026-11-11
 | **THE ART OF THINKING WELL**<br>善于思考的艺术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **ANCIENT AND MEDIEVAL PHILOSOPHY**<br>古代与中世纪哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **MODERN AND CONTEMPORARY PHILOSOPHY**<br>现代与当代哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE THEORY OF KNOWLEDGE**<br>知识论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LOGIC**<br>逻辑学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHINESE PHILOSOPHY**<br>中国哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO JAPANESE PHILOSOPHY**<br>日本哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO INDIGENOUS PHILOSOPHY AND RELIGION**<br>原住民哲学与宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE THEORY OF KNOWLEDGE**<br>知识论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LOGIC**<br>逻辑学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHINESE PHILOSOPHY**<br>中国哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO JAPANESE PHILOSOPHY**<br>日本哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO INDIGENOUS PHILOSOPHY AND RELIGION**<br>原住民哲学与宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **COMPARATIVE PHILOSOPHY I**<br>比较哲学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **COMPARATIVE PHILOSOPHY II**<br>比较哲学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF THE EARTH**<br>地球哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF ENCOUNTER**<br>相遇哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ISLAMIC THOUGHT**<br>伊斯兰思想导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ISLAMIC THOUGHT**<br>伊斯兰思想入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21231&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

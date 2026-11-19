@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Political Science (Bachelor of Arts - Three-Year General)**<br>政治学（文学学士 - 3 年制普通） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJUxyCRi3) |
 | **Classics in Political Thought**<br>政治思想经典 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJUxyCRi3) |
-| **Introduction to Indigenous Political Thought**<br>原住民政治思想导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJUxyCRi3) |
+| **Introduction to Indigenous Political Thought**<br>原住民政治思想入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJUxyCRi3) |
 | **Indigenous Political Theory**<br>原住民政治理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJUxyCRi3) |
 | **Justice and Gender**<br>正义与性别 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJUxyCRi3) |
 | **Research and Methods in Political Science**<br>政治学研究与方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJUxyCRi3) |

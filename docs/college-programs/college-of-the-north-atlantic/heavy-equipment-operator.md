@@ -30,17 +30,17 @@ ms.date: 2026-11-08
 | **Troubleshooting and Basic Repairs**<br>故障排查与基本维修 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Transportation of Equipment**<br>设备运输 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Environmental Protection**<br>环境保护 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
-| **Introduction to Professional Driver Improvement (PDIC)**<br>职业司机提升课程（PDIC）导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
+| **Introduction to Professional Driver Improvement (PDIC)**<br>职业司机提升课程（PDIC）入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Powerline Hazards**<br>电力线路危险源 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Transportation of Dangerous Goods**<br>危险货物运输 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Traffic Control Person**<br>交通管制员 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Heavy Equipment Operator Math Fundamentals**<br>重型设备操作员数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Dozer**<br>推土机 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Grader**<br>平地机 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |
 | **Tractor Loader Backhoe (TLB)**<br>挖掘装载机（TLB） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-equipment-operator) |

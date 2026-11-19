@@ -18,7 +18,7 @@ ms.date: 2026-11-11
 | **Introductory Environmental Sciences**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **Science Fiction**<br>科幻小说 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **Literature for an Ailing Planet**<br>病痛星球的文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
-| **Introduction to Environmental Studies**<br>环境研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
+| **Introduction to Environmental Studies**<br>环境研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **Spirituality, Religion, and Ecology**<br>灵性、宗教与生态 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **Climate Change Fundamentals**<br>气候变化基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **How Pandemics Change the World**<br>大流行如何改变世界 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
@@ -26,10 +26,10 @@ ms.date: 2026-11-11
 | **Ecological Determinants of Health**<br>健康的生态决定因素 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **Ethics and Artificial Intelligence**<br>伦理与人工智能 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **Philosophy of Technology**<br>技术哲学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
-| **Urbanization Today: Introduction to Cities and Regions**<br>当今的城市化：城市与区域导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
+| **Urbanization Today: Introduction to Cities and Regions**<br>当今的城市化：城市与区域入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **Environmental Psychology**<br>环境心理学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 | **The Sociology of Community**<br>社区社会学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
-| **Society, Technology and Values: Introduction**<br>社会、技术与价值观：导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
+| **Society, Technology and Values: Introduction**<br>社会、技术与价值观：入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BJokJCAih) |
 
 ## Courses
 

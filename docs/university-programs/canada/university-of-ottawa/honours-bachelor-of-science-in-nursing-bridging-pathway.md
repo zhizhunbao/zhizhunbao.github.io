@@ -16,9 +16,9 @@ ms.date: 2026-11-11
 | **Human Anatomy and Physiology III**<br>人体解剖与生理学 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
 | **Determinants of Health**<br>健康决定因素 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
-| **Introduction to Psychology: Foundations**<br>心理学导论：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
-| **Introduction to Nursing Science**<br>护理科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
-| **Introduction to Nursing Practice**<br>护理实践导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
+| **Introduction to Psychology: Foundations**<br>心理学入门：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
+| **Introduction to Nursing Science**<br>护理科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
+| **Introduction to Nursing Practice**<br>护理实践入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
 | **Lifespan Psychology**<br>毕生发展心理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |
 | **Pathophysiology**<br>病理生理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing-bridging-pathway/) |

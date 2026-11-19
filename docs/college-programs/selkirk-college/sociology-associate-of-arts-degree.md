@@ -12,15 +12,15 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Sociology - Associate of Arts Degree**<br>社会学文科副学士学位 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
 | **College Composition**<br>大学写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
-| **Introduction to Sociology l**<br>社会学导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
-| **Introduction To Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
+| **Introduction to Sociology l**<br>社会学入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
+| **Introduction To Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
-| **Introduction to Sociology ll**<br>社会学导论 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
+| **Introduction to Sociology ll**<br>社会学入门 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
 | **Deviance and Social Control**<br>越轨与社会控制 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
-| **Introduction to Social Research**<br>社会研究导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
+| **Introduction to Social Research**<br>社会研究入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
 | **Canadian Social Structure**<br>加拿大社会结构 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
-| **Introduction to Sociological Theory**<br>社会学理论导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
+| **Introduction to Sociological Theory**<br>社会学理论入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/sociology-associate-arts-degree) |
 
 ## Courses
 

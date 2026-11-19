@@ -15,14 +15,14 @@ ms.date: 2026-11-11
 | **Major Research Project**<br>重大研究项目 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Accounting I – Financial Accounting Research**<br>会计 I：财务会计研究 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Accounting II – Auditing Research**<br>会计 II：审计研究 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
-| **Introduction to Accounting Research – Markets (or other elective)**<br>会计研究导论：市场（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
+| **Introduction to Accounting Research – Markets (or other elective)**<br>会计研究入门：市场（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Capital Markets, Theory and Empirics (or other elective)**<br>资本市场：理论与实证（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Corporate Finance, Theory and Empirics (or other elective)**<br>公司金融：理论与实证（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Applied Statistics and Econometrics**<br>应用统计与计量经济学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Econometrics Methods**<br>计量经济学方法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Advanced Microeconomic Theory I**<br>高级微观经济理论 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Quantitative Methods**<br>定量方法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
-| **Introduction to Accounting Research – Experimental (or other elective)**<br>会计研究导论：实验（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
+| **Introduction to Accounting Research – Experimental (or other elective)**<br>会计研究入门：实验（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Qualitative Research Method Design**<br>定性研究方法设计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
 | **Experimental Research Method Design**<br>实验研究方法设计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php) |
@@ -71,7 +71,7 @@ ms.date: 2026-11-11
 | **Econometrics I (or other elective)**<br>计量经济学 I（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/marketing.php) |
 | **Statistical Learning I (or other elective)**<br>统计学习 I（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/marketing.php) |
 | **Deep Learning**<br>深度学习 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/marketing.php) |
-| **Introduction to Multivariate Analysis (or other elective)**<br>多元分析导论（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/marketing.php) |
+| **Introduction to Multivariate Analysis (or other elective)**<br>多元分析入门（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/marketing.php) |
 | **Attitudes and Attitude Change (or other elective)**<br>态度与态度改变（或其他选修课） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/marketing.php) |
 | **Design of Experiments**<br>实验设计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/marketing.php) |
 | **Foundations of Research in Organizational Behaviour**<br>组织行为研究基础 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/organizational-behaviour.php) |
@@ -232,3 +232,21 @@ ms.date: 2026-11-11
 ## References
 
 Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://www.queensu.ca/academic-calendar/graduate-studies/programs-study/management-business/management-ms/>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/accounting.php>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/analytics.php>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/business-economics.php>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/finance.php>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/international-business.php>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/management-information-systems.php>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/marketing.php>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/organizational-behaviour.php>
+
+Queen’s University. (n.d.). *Management - Master of Science*. Retrieved November 11, 2026, from <https://smith.queensu.ca/grad_studies/MSC/program-details/areas-of-specialization/strategy.php>

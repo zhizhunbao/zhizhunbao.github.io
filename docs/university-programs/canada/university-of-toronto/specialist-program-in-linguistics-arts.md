@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIST PROGRAM IN LINGUISTICS (ARTS)**<br>语言学专精项目（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 | **Applications of Linguistics**<br>语言学的应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 | **Phonology I**<br>音系学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 | **Syntax I**<br>句法学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **Computers in Linguistics**<br>语言学中的计算机 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 | **Quantitative Methods in Linguistics**<br>语言学定量方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 | **Programming for Linguists**<br>语言学家编程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-| **Introduction to Computational Linguistics**<br>计算语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+| **Introduction to Computational Linguistics**<br>计算语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 | **First Language Acquisition**<br>第一语言习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 | **Second Language Acquisition**<br>第二语言习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 | **Psycholinguistics**<br>心理语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
@@ -49,17 +49,15 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | Students must complete 12.0 credits, including 4.0 credits at the C- and D-level of which 1.0 credit must be at the D-level as follows: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  |  | 1. 4.5 Credits in Foundations of Linguistics: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINA01H3 | Introduction to Linguistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINA02H3 | Applications of Linguistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINB04H3 | Phonology I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINB06H3 | Syntax I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINB09H3 | Phonetics: The Study of Speech Sounds | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINB10H3 | Morphology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINC02H3 | Phonology II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINC11H3 | Syntax II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  | LINC12H3 | Semantics: The Study of Meaning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  |  |  | 2. 4.5 credits from the following, including at least 1.5 credits from Group A and at least 1.5 credits from Group B: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINA01H3 | Introduction to Linguistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINA02H3 | Applications of Linguistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINB04H3 | Phonology I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINB06H3 | Syntax I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINB09H3 | Phonetics: The Study of Speech Sounds | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINB10H3 | Morphology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINC02H3 | Phonology II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINC11H3 | Syntax II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
+|  | 1. 4.5 Credits in Foundations of Linguistics | LINC12H3 | Semantics: The Study of Meaning | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 |  | Group A – Applied Linguistics | LINB18H3 | English Grammar | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 |  | Group A – Applied Linguistics | LINB20H3 | Sociolinguistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 |  | Group A – Applied Linguistics | LINB60H3 | Comparative Study of English and Chinese | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
@@ -86,7 +84,6 @@ ms.date: 2026-11-11
 |  | Group B - Psycholinguistics and Computational Linguistics; credit of language study in one or more languages, which may include | LINB60H3 | Comparative Study of English and Chinese | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 |  | Group B - Psycholinguistics and Computational Linguistics; credit of language study in one or more languages, which may include (or) | LINB62H3 | Structure of American Sign Language | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 |  | Group B - Psycholinguistics and Computational Linguistics; credit of language study in one or more languages, which may include (or) | LINC61H3 | Structure of a Language | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
-|  | Group B - Psycholinguistics and Computational Linguistics |  | 4. 2.0 credits in any LIN, PLI, JAL or JLP courses. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe0506) |
 
 ## References
 

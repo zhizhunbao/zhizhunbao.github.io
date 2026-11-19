@@ -39,10 +39,10 @@ ms.date: 2026-11-11
 | **Black Diasporic Lives: 1740-1900**<br>黑人离散生活：1740-1900 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **Old English Language and Literature**<br>古英语语言与文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **The Age of Beowulf**<br>贝奥武甫的时代 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **How English Grammar Works**<br>英语语法如何运作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **The History of the English Language**<br>英语语言史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
-| **Introduction to Semiotics**<br>符号学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
+| **Introduction to Semiotics**<br>符号学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **Critical Discourse Analysis**<br>批判性话语分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **Middle English Literature**<br>中古英语文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **Chaucer**<br>乔叟 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-11
 | **Eighteenth-Century Women Writers**<br>十八世纪女性作家 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **Eighteenth-Century Literature and Media**<br>十八世纪文学与媒介 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **Topics in Literatures Medieval to Romantic**<br>从中世纪到浪漫主义的文学专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
-| **Introduction to Black Canadian Writing**<br>加拿大黑人写作导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
+| **Introduction to Black Canadian Writing**<br>加拿大黑人写作入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **Early Canadian Literatures**<br>早期加拿大文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **Austen**<br>奥斯汀 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |
 | **American Literature to 1860**<br>1860年以前的美国文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SkXEly0Rin) |

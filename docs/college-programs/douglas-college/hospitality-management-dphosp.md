@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphosp) |
 | **Studies in Canadian Literature**<br>加拿大文学研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphosp) |
 | **Commercial & Financial Mathematics**<br>商业与金融数学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphosp) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphosp) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphosp) |
 | **Front Desk Operations**<br>前台运营 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphosp) |
 | **Beverage Management**<br>饮品管理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphosp) |
 | **Hospitality Management Accounting**<br>酒店管理会计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dphosp) |

@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Diagnostic Medical Sonography**<br>医学超声诊断 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |
-| **Introduction to General Sonography**<br>普通超声导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |
-| **Introduction to Cardiac Sonography**<br>心脏超声导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |
+| **Introduction to General Sonography**<br>普通超声入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |
+| **Introduction to Cardiac Sonography**<br>心脏超声入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |
 | **Infection Prevention and Control**<br>感染预防与控制 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |
 | **Physics 1**<br>物理 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |
 | **Professional Practice 1**<br>职业实践 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/diagnostic-medical-sonography) |

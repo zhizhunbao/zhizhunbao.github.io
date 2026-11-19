@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technician) |
 | **Quality Assurance and Quality Control**<br>质量保证与质量控制 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technician) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technician) |
-| **Introduction to Sampling Techniques**<br>抽样技术导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technician) |
+| **Introduction to Sampling Techniques**<br>抽样技术入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technician) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technician) |
 | **Physical Chemistry**<br>物理化学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technician) |
 | **Physical Chemistry Lab**<br>物理化学实验室 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/chemical-engineering-technician) |

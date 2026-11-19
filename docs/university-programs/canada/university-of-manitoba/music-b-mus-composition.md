@@ -12,8 +12,8 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Music, B.Mus. Composition**<br>音乐，B.Mus. 作曲 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Music, Culture, Society, and People**<br>音乐、文化、社会与人民 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
-| **Introduction to Music in History**<br>音乐史导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
-| **Introduction to Popular Music**<br>流行音乐导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
+| **Introduction to Music in History**<br>音乐史入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
+| **Introduction to Popular Music**<br>流行音乐入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **History of Musical Theatre**<br>音乐剧史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Discovering Jazz**<br>探索爵士乐 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Jazz Theory 1**<br>爵士乐理论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
@@ -22,8 +22,8 @@ ms.date: 2026-11-11
 | **Rudiments of Music**<br>音乐基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Jazz History 1**<br>爵士乐史 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Jazz History 2**<br>爵士乐史 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
-| **Introduction to Music Teaching and Learning**<br>音乐教学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
-| **Introduction to Vocal Techniques**<br>声乐技巧导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
+| **Introduction to Music Teaching and Learning**<br>音乐教学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
+| **Introduction to Vocal Techniques**<br>声乐技巧入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Music Theory 3**<br>乐理 3 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Music Theory 4**<br>乐理 4 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Jazz Theory 2**<br>爵士乐理论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Baroque Music History**<br>巴洛克音乐史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Classical Music History**<br>古典主义音乐史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Romantic Music History**<br>浪漫主义音乐史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
-| **Introduction to Ethnomusicology**<br>民族音乐学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
+| **Introduction to Ethnomusicology**<br>民族音乐学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Opera Repertoire**<br>歌剧曲目 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Composition, Technology and Improvisation for Music Educators**<br>音乐教育者的作曲、技术与即兴演奏 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **History of Opera 1: from Monteverdi to Mozart**<br>歌剧史 1：从蒙特威尔第到莫扎特 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
@@ -77,7 +77,7 @@ ms.date: 2026-11-11
 | **Brass Techniques**<br>铜管乐器技巧 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **String Techniques**<br>弦乐技巧 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Topics in Music**<br>音乐专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
-| **Introduction to Jazz for Music Educators**<br>音乐教育者爵士乐导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
+| **Introduction to Jazz for Music Educators**<br>音乐教育者爵士乐入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Guitar Techniques**<br>吉他技巧 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **History of Western Art Music After 1900**<br>1900 年以后的西方艺术音乐史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |
 | **Music Theory After 1900**<br>1900 年后的乐理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/music/music-bmus-composition/) |

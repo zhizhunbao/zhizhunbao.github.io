@@ -16,9 +16,9 @@ ms.date: 2026-11-08
 | **Introduction to The Communicative Disorders Assistant Profession**<br>沟通障碍助理职业入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
 | **Introduction to Augmentative and Alternative Communication**<br>辅助与替代沟通入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
 | **Introduction to Communication Disorders in Adults**<br>成人沟通障碍入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
-| **Introduction to Audiology**<br>听力学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
+| **Introduction to Audiology**<br>听力学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
 | **Introduction to Clinical Theory**<br>临床理论入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
-| **Introduction to Clinical Practice**<br>临床实践导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
+| **Introduction to Clinical Practice**<br>临床实践入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
 | **Field Practicum 1**<br>实地实习 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
 | **Field Practicum 2**<br>实地实习 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |
 | **Voice and Fluency**<br>嗓音与流畅度 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/coda/) |

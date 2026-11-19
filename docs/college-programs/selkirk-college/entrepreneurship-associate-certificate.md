@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Entrepreneurship - Associate Certificate**<br>创业副证书 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/entrepreneurship-associate-certificate) |
 | **Skills Orientation**<br>技能入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/entrepreneurship-associate-certificate) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/entrepreneurship-associate-certificate) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/entrepreneurship-associate-certificate) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/entrepreneurship-associate-certificate) |
 | **Accounting for Managers**<br>管理会计（面向管理者） | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/entrepreneurship-associate-certificate) |
 | **Managerial Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/entrepreneurship-associate-certificate) |

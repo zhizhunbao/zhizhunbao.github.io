@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **General Arts & Science (G261)**<br>通识文理科 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/general-arts-and-science/) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/general-arts-and-science/) |
 | **Communications in the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/general-arts-and-science/) |
-| **Introduction to Canada**<br>加拿大导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/general-arts-and-science/) |
+| **Introduction to Canada**<br>加拿大入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/general-arts-and-science/) |
 | **Musculoskeletal Fundamentals**<br>肌肉骨骼基础 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/general-arts-and-science/) |
 | **Investing in Your Future**<br>投资你的未来 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/general-arts-and-science/) |
 | **Indigenous Culture & Awareness**<br>原住民文化与意识 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/general-arts-and-science/) |

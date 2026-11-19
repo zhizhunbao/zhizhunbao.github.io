@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Biomechanics I**<br>生物力学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/kinesiology-diploma/courses) |
 | **Exercise Physiology**<br>运动生理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/kinesiology-diploma/courses) |
 | **Health Policy and Society**<br>健康政策与社会 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/kinesiology-diploma/courses) |
-| **Introduction to Statistics in Kinesiology**<br>运动机能学统计学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/kinesiology-diploma/courses) |
+| **Introduction to Statistics in Kinesiology**<br>运动机能学统计学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/kinesiology-diploma/courses) |
 | **Human Growth and Motor Development**<br>人体生长与运动发育 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/kinesiology-diploma/courses) |
 
 ## Courses

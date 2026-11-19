@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **Local Public Administration**<br>地方公共行政 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/pol.pdf#page=3) |
 | **Special Topics Seminar in Public**<br>公共管理专题研讨课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/pol.pdf#page=3) |
 | **Special Topics in Public Administration**<br>公共管理专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/pol.pdf#page=3) |
-| **Introduction to Economic Theory Canadian Politics**<br>经济理论导论 加拿大政治 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/pol.pdf#page=3) |
+| **Introduction to Economic Theory Canadian Politics**<br>经济理论入门 加拿大政治 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/pol.pdf#page=3) |
 | **Participatory Local Development**<br>参与式地方发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/pol.pdf#page=3) |
 | **Indigenous People in Canada & the Law**<br>加拿大原住民与法律 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/pol.pdf#page=3) |
 | **Politics in Manitoba**<br>马尼托巴政治 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/pol.pdf#page=3) |

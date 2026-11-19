@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
 | **Mechanical Drawings I**<br>机械制图 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
-| **Introduction to Installation**<br>安装导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
-| **Introduction to Gas**<br>燃气导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
+| **Introduction to Installation**<br>安装入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
+| **Introduction to Gas**<br>燃气入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
 | **Mechanical Drawings II**<br>机械制图 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
 | **HVAC Systems**<br>HVAC 系统 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |
 | **Mechanical Trade Practices**<br>机械行业实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/mechanical-techniques-gas-and-sheet-metal/courses?id=36511) |

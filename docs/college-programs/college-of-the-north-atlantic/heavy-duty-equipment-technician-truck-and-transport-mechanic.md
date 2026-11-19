@@ -49,19 +49,19 @@ ms.date: 2026-11-08
 | **Reservoirs, Coolers and Filters**<br>油箱、冷却器与过滤器 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Pneumatic Systems**<br>气动系统 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Electronic Ignition Systems**<br>电子点火系统 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
-| **Introduction to Heating, Ventilation and Air Conditioning HVAC**<br>供暖、通风与空调（HVAC）导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
+| **Introduction to Heating, Ventilation and Air Conditioning HVAC**<br>供暖、通风与空调（HVAC）入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Introduction to Frames and Chassis**<br>车架与底盘入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Cab Components**<br>驾驶室部件 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Introduction to Hitches and Couplers**<br>挂钩与联结器入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Shielded Metal Arc Welding**<br>手工电弧焊 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **MIG Welding**<br>MIG焊接 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Heavy Duty and Truck Transport Math Fundamentals**<br>重型车辆与卡车运输数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Communications Essentials**<br>沟通基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/heavy-duty-equipment-truck-transport-mechanic) |
 
 ## Courses
 

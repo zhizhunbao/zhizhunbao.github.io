@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Pratiques exemplaires en milieu de travail**<br>职场最佳实践 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51606) |
 | **Pratiques collaboratives**<br>协作实践 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51606) |
 | **Préparation de l'enregistrement électroencéphalographique**<br>脑电图记录准备 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51606) |
-| **Introduction à l'électroneurodiagnostic**<br>神经电诊断导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51606) |
+| **Introduction à l'électroneurodiagnostic**<br>神经电诊断入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51606) |
 | **Instrumentation en électroneurodiagnostic**<br>神经电诊断仪器 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51606) |
 | **Stratégies de communication en milieu professionnel**<br>职场沟通策略 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51606) |
 | **Communication orale en milieu professionnel**<br>职业口头沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51606) |

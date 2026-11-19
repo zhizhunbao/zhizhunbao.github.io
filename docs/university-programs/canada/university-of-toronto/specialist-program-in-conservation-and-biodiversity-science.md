@@ -22,8 +22,8 @@ ms.date: 2026-11-11
 | **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Physics I for the Physical Sciences**<br>物理科学物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Physics I for the Life Sciences**<br>生命科学物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| **Introduction to Computer Science I**<br>计算机科学导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| **Introduction to Computer Science I**<br>计算机科学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Molecular Aspects of Cellular and Genetic Processes**<br>细胞与遗传过程的分子层面 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Animal Physiology**<br>动物生理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
@@ -32,11 +32,11 @@ ms.date: 2026-11-11
 | **Evolutionary Biology**<br>进化生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Integrative Research Poster Project**<br>综合研究海报项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Ecology and Evolutionary Biology Laboratory**<br>生态学与进化生物学实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| **Introduction to Data Analysis for Scientific Literacy**<br>科学素养的数据分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| **Introduction to Data Analysis for Scientific Literacy**<br>科学素养的数据分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Evolutionary Genetics and Genomics**<br>进化遗传学与基因组学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Macroevolution**<br>宏观进化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Ecology Field Course**<br>生态学野外课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
@@ -65,7 +65,7 @@ ms.date: 2026-11-11
 | **Animal Behaviour**<br>动物行为学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Advanced Population Ecology**<br>高级种群生态学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Role of Zoos and Aquariums in Conservation**<br>动物园与水族馆在保护中的作用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| **An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine)**<br>STEMM（科学、技术、工程、数学与医学）中的偏见导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| **An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine)**<br>STEMM（科学、技术、工程、数学与医学）中的偏见入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Fungal Biology and Pathogenesis**<br>真菌生物学与致病机制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Conservation Physiology**<br>保护生理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | **Biology of Plant Stress**<br>植物胁迫生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
@@ -83,90 +83,81 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | This program consists of 14.5 required credits. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year |  |  | 1. 1.0 Credit of Introductory Biology Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year |  | BIOA01H3 | Life on Earth: Unifying Principles | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year |  | BIOA02H3 | Life on Earth: Form, Function and Interactions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year |  |  | 2. 1.0 Credit of Introductory Chemistry Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year |  | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year |  | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year |  |  | 3. 1.0 Credit in Mathematics |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from | MATA29H3 | Calculus I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from (or) | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from | MATA35H3 | Calculus II for Biological Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from (or) | MATA36H3 | Calculus II for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from |  | 4. 0.5 Credit in Physics |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from | PHYA10H3 | Physics I for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from | PHYA11H3 | Physics I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from |  | 5. 0.5 Credit in Computer Science |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from | CSCA08H3 | Introduction to Computer Science I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| First Year | Choose from | CSCA20H3 | Introduction to Programming | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  |  | 6. 3.0 Credits of Biology Core Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  | BIOB10H3 | Cell Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  | BIOB11H3 | Molecular Aspects of Cellular and Genetic Processes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  | BIOB34H3 | Animal Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  | BIOB38H3 | Plants and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  | BIOB50H3 | Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  | BIOB51H3 | Evolutionary Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  |  | 7. 0.5 Credit of Biology Core Labs |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  | BIOB52H3 | Ecology and Evolutionary Biology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year |  |  | 8. 0.5 Credit in Statistics |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from |  | (PSYB07H3) Data Analysis in Psychology |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from; Note: We recommend students take | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from; Note: We recommend students take | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from; Note: We recommend students take | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from; Note: We recommend students take (or) | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from; Note: We recommend students take (or) | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Second Year | Choose from; Note: We recommend students take | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third Year |  |  | 9. 2.5 Credits of C-level Ecology and Evolution Foundation Courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third Year |  | BIOC16H3 | Evolutionary Genetics and Genomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third Year |  | BIOC50H3 | Macroevolution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third Year |  | BIOC52H3 | Ecology Field Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third Year |  | BIOC61H3 | Community Ecology and Environmental Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third Year |  | BIOC63H3 | Conservation Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 1. 1.0 Credit of Introductory Biology Courses | BIOA01H3 | Life on Earth: Unifying Principles | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 1. 1.0 Credit of Introductory Biology Courses | BIOA02H3 | Life on Earth: Form, Function and Interactions | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 2. 1.0 Credit of Introductory Chemistry Courses | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 2. 1.0 Credit of Introductory Chemistry Courses | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 2. 1.0 Credit of Introductory Chemistry Courses (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 3. 1.0 Credit in Mathematics; Choose from | MATA29H3 | Calculus I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 3. 1.0 Credit in Mathematics; Choose from (or) | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 3. 1.0 Credit in Mathematics; Choose from | MATA35H3 | Calculus II for Biological Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 3. 1.0 Credit in Mathematics; Choose from (or) | MATA36H3 | Calculus II for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 4. 0.5 Credit in Physics; Choose from | PHYA10H3 | Physics I for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 4. 0.5 Credit in Physics; Choose from | PHYA11H3 | Physics I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 5. 0.5 Credit in Computer Science; Choose from | CSCA08H3 | Introduction to Computer Science I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| First Year | 5. 0.5 Credit in Computer Science; Choose from | CSCA20H3 | Introduction to Programming | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses | BIOB10H3 | Cell Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses | BIOB11H3 | Molecular Aspects of Cellular and Genetic Processes | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses | BIOB34H3 | Animal Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses | BIOB38H3 | Plants and Society | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses | BIOB50H3 | Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses | BIOB51H3 | Evolutionary Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses; Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 6. 3.0 Credits of Biology Core Courses; Note: Completion of | BIOB90H3 | Integrative Research Poster Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 7. 0.5 Credit of Biology Core Labs | BIOB52H3 | Ecology and Evolutionary Biology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from |  | (PSYB07H3) Data Analysis in Psychology |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from; Note: We recommend students take | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from; Note: We recommend students take | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from; Note: We recommend students take | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from; Note: We recommend students take (or) | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from; Note: We recommend students take (or) | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Second Year | 8. 0.5 Credit in Statistics; Choose from; Note: We recommend students take | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third Year | 9. 2.5 Credits of C-level Ecology and Evolution Foundation Courses | BIOC16H3 | Evolutionary Genetics and Genomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third Year | 9. 2.5 Credits of C-level Ecology and Evolution Foundation Courses | BIOC50H3 | Macroevolution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third Year | 9. 2.5 Credits of C-level Ecology and Evolution Foundation Courses | BIOC52H3 | Ecology Field Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third Year | 9. 2.5 Credits of C-level Ecology and Evolution Foundation Courses | BIOC61H3 | Community Ecology and Environmental Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third Year | 9. 2.5 Credits of C-level Ecology and Evolution Foundation Courses | BIOC63H3 | Conservation Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | Third/Fourth Year |  |  | 10. 4.0 credits of C- & D-level courses from Bins 1 and 2 below. This must include at least 1.0 credit from each bin and at least 1.0 credit total at the D-level. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC51H3 | Biodiversity and Conservation Field Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC58H3 | Biological Consequences of Global Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC60H3 | Winter Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC65H3 | Environmental Toxicology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from |  | (BIOC67H3) Inter-University Biology Field Course |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD25H3 | Genomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD52H3 | Biodiversity and Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD54H3 | Applied Conservation Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD55H3 | Experimental Animal Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD59H3 | Models in Ecology, Epidemiology and Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD60H3 | Spatial Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD62H3 | Symbiosis: Interactions Between Species | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD63H3 | From Individuals to Ecosystems: Advanced Topics in Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD66H3 | Quantitative Ecological and Biodiversity Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD67H3 | Inter-University Biology Field Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | EESC04H3 | Biodiversity and Biogeography | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC11H3 | Microbial Communities in Nature, Health and Industry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC29H3 | Introductory Mycology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC30H3 | From Genetic Codes to Fantastic Creatures | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC37H3 | Plants: Life on the Edge | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC40H3 | Plant Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC54H3 | Animal Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC59H3 | Advanced Population Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC62H3 | Role of Zoos and Aquariums in Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC70H3 | An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine) | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD26H3 | Fungal Biology and Pathogenesis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD34H3 | Conservation Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD37H3 | Biology of Plant Stress | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD43H3 | Animal Movement and Exercise | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD45H3 | Animal Communication | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD48H3 | Ornithology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOD53H3 | Special Topics in Animal Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from | EESC30H3 | Environmental Microbiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
-| Third/Fourth Year | Choose from; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOC51H3 | Biodiversity and Conservation Field Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOC58H3 | Biological Consequences of Global Change | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOC60H3 | Winter Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOC65H3 | Environmental Toxicology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from |  | (BIOC67H3) Inter-University Biology Field Course |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD25H3 | Genomics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD52H3 | Biodiversity and Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD54H3 | Applied Conservation Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD55H3 | Experimental Animal Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD59H3 | Models in Ecology, Epidemiology and Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD60H3 | Spatial Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD62H3 | Symbiosis: Interactions Between Species | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD63H3 | From Individuals to Ecosystems: Advanced Topics in Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD66H3 | Quantitative Ecological and Biodiversity Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | BIOD67H3 | Inter-University Biology Field Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 1: C- & D-level Ecology and Evolution Courses; Choose from | EESC04H3 | Biodiversity and Biogeography | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC11H3 | Microbial Communities in Nature, Health and Industry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC29H3 | Introductory Mycology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC30H3 | From Genetic Codes to Fantastic Creatures | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC37H3 | Plants: Life on the Edge | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC40H3 | Plant Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC54H3 | Animal Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC59H3 | Advanced Population Ecology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC62H3 | Role of Zoos and Aquariums in Conservation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC70H3 | An Introduction to Bias in STEMM (Science, Technology, Engineering, Mathematics and Medicine) | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOD26H3 | Fungal Biology and Pathogenesis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOD34H3 | Conservation Physiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOD37H3 | Biology of Plant Stress | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOD43H3 | Animal Movement and Exercise | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOD45H3 | Animal Communication | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOD48H3 | Ornithology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOD53H3 | Special Topics in Animal Behaviour | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from | EESC30H3 | Environmental Microbiology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
+| Third/Fourth Year | Bin 2: C- & D-level Organismal Biology Courses; Choose from; Note: Completion of | BIOC90H3 | Integrative Multimedia Documentary Project | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | Third/Fourth Year | B. Senior Research Courses (optional) |  | Students interested in graduate research are encouraged to take one or more of the independent research courses offered in Biological Sciences as part of their degree. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | Third/Fourth Year | B. Senior Research Courses (optional) | BIOD95H3 | Supervised Study in Biology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |
 | Third/Fourth Year | B. Senior Research Courses (optional) | BIOD98Y3 | Directed Research in Biology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1150) |

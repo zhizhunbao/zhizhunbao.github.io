@@ -11,16 +11,16 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Commerce After Degree**<br>商学学士（学位后） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
-| **Introduction to Accounting for Financial Performance**<br>财务绩效会计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
+| **Introduction to Accounting for Financial Performance**<br>财务绩效会计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
 | **Legal Foundations of the Canadian Economy**<br>加拿大经济的法律基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
 | **Probability and Statistics for Business**<br>商业概率与统计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
 | **Professionalism and Responsible Impact**<br>职业素养与负责任的影响 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
-| **Introduction to Accounting for Management Decision Making**<br>管理决策会计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
+| **Introduction to Accounting for Management Decision Making**<br>管理决策会计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
 | **Business and Society**<br>商业与社会 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
-| **Introduction to Finance**<br>金融学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
-| **Introduction to Management, Organization and Entrepreneurship**<br>管理、组织与创业导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
+| **Introduction to Finance**<br>金融学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
+| **Introduction to Management, Organization and Entrepreneurship**<br>管理、组织与创业入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
 | **Capstone Project**<br>毕业设计项目 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |
 | **Business Economics, Organizations and Management**<br>商业经济学、组织与管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110583&returnto=20845) |

@@ -23,16 +23,16 @@ ms.date: 2026-11-08
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Spreadsheet Applications**<br>电子表格应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Professional Selling I**<br>专业销售 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
-| **Introduction to Business Analytics**<br>商业分析导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
+| **Introduction to Business Analytics**<br>商业分析入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Statistical Concepts**<br>统计学概念 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Operations Planning and Control I**<br>运营规划与控制 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Supply Management**<br>供应管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Managerial Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Completion of additional General Education elective 1 course required**<br>须再完成1门额外通识教育选修课 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
-| **Introduction to Lean Six Sigma**<br>精益六西格玛导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
+| **Introduction to Lean Six Sigma**<br>精益六西格玛入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Transportation and Logistics Management**<br>运输与物流管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Enterprise Resource Planning**<br>企业资源计划 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
-| **Introduction to Industrial Engineering**<br>工业工程导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
+| **Introduction to Industrial Engineering**<br>工业工程入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Operations Planning and Control II**<br>运营规划与控制 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Equity, Diversity and Inclusion in Canada**<br>加拿大的公平、多元与包容 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |
 | **Co-op Work Term I**<br>合作教育工作学期 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-supply-chain-operations/) |

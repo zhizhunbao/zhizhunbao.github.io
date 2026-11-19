@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Places and Spaces of Human Activity**<br>人类活动的场所与空间 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-geography/) |
 | **Descriptive Statistics**<br>描述统计学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-geography/) |
 | **GIS and the Digital Earth**<br>地理信息系统与数字地球 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-geography/) |
-| **Introduction to Field Research**<br>田野研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-geography/) |
+| **Introduction to Field Research**<br>田野研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-geography/) |
 | **Methodological and Theoretical Approaches in Geography and Environmental Studies**<br>地理学与环境研究的方法与理论路径 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-geography/) |
 | **Contested Places**<br>有争议的地方 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-geography/) |
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-geography/) |

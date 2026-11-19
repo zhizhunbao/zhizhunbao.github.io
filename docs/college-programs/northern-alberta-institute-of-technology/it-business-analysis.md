@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **IT Business Analysis**<br>IT业务分析 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |
-| **Introduction to Web Design**<br>网页设计导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |
+| **Introduction to Web Design**<br>网页设计入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |
 | **Professionalism for IT Business Analysis I**<br>IT 业务分析职业素养 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |
-| **Introduction to Business Analysis**<br>商业分析导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |
+| **Introduction to Business Analysis**<br>商业分析入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |
 | **Strategy Analysis**<br>战略分析 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |
 | **Database Fundamentals**<br>数据库基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |
 | **Programming Fundamentals**<br>编程基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/it-business-analysis) |

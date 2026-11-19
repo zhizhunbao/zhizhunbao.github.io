@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/recreation-therapy/) |
 | **Foundations of Therapeutic Recreation**<br>治疗性康复基础 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/recreation-therapy/) |
 | **Interpersonal & Group Effectiveness**<br>人际与团体效能 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/recreation-therapy/) |
-| **Introduction to Therapeutic Recreation Processes**<br>治疗性娱乐过程导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/recreation-therapy/) |
+| **Introduction to Therapeutic Recreation Processes**<br>治疗性娱乐过程入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/recreation-therapy/) |
 | **Therapeutic Recreation & the Life Cycle**<br>治疗性休闲与生命周期 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/recreation-therapy/) |
 | **Recreation & Leisure Options**<br>休闲与娱乐选项 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/recreation-therapy/) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/recreation-therapy/) |

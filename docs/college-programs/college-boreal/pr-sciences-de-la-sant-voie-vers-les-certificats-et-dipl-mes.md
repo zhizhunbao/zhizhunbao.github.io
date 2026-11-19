@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Chimie II - pré-collégial**<br>化学 II - 大学预科前 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/presciences-de-la-sante-voie-vers-les-certificats-et-diplomes/) |
 | **Initiation à la recherche scientifique**<br>科学研究入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/presciences-de-la-sante-voie-vers-les-certificats-et-diplomes/) |
 | **Mathématiques II**<br>数学 II | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/presciences-de-la-sante-voie-vers-les-certificats-et-diplomes/) |
-| **Introduction à la psychologie**<br>心理学导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/presciences-de-la-sante-voie-vers-les-certificats-et-diplomes/) |
+| **Introduction à la psychologie**<br>心理学入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/presciences-de-la-sante-voie-vers-les-certificats-et-diplomes/) |
 | **Diversité humaine**<br>人类多样性 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/presciences-de-la-sante-voie-vers-les-certificats-et-diplomes/) |
 
 ## Courses

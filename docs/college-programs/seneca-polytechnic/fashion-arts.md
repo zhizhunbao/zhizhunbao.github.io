@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Fashion Design I**<br>时装设计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FAA/courses.html) |
 | **Sustainable Fashion Insight**<br>可持续时尚洞察 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FAA/courses.html) |
 | **Evolution of Fashion**<br>时尚的演变 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FAA/courses.html) |
-| **Introduction to Pattern Making**<br>服装打版导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FAA/courses.html) |
+| **Introduction to Pattern Making**<br>服装打版入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FAA/courses.html) |
 | **Fashion Computer Aided Design**<br>时装计算机辅助设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FAA/courses.html) |
 | **Clothing Construction II**<br>服装制作 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FAA/courses.html) |
 | **Fashion Design II**<br>时装设计 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FAA/courses.html) |

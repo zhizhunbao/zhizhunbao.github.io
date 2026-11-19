@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Applied Anatomy I**<br>应用解剖学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/) |
 | **Applied Anatomy II**<br>应用解剖学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/) |
 | **Histology and Embryology**<br>组织学与胚胎学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/) |
-| **Introduction to Applied Research in Medical Education**<br>医学教育应用研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/) |
+| **Introduction to Applied Research in Medical Education**<br>医学教育应用研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/) |
 | **Applied Point-of-Care US and Anatomy Bootcamp**<br>应用即时检验超声与解剖训练营 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/) |
 | **Professionalism and Professional Skills**<br>职业素养与专业技能 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/) |
 | **Scholarly Communication**<br>学术交流 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-applied-science-anatomical-sciences-education/) |

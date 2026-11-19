@@ -80,7 +80,7 @@ ms.date: 2026-11-11
 | **Embodied Intelligence**<br>具身智能 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByjKmY8eye) |
 | **Molecular Basis of Disease**<br>疾病的分子基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByjKmY8eye) |
 | **Integrative Energy Metabolism in Health and Disease**<br>健康与疾病中的整合能量代谢 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByjKmY8eye) |
-| **Introduction to Genetics for the Biosciences**<br>生物科学遗传学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByjKmY8eye) |
+| **Introduction to Genetics for the Biosciences**<br>生物科学遗传学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByjKmY8eye) |
 | **Instrumentation and Signal Processing in Biophysical Research**<br>生物物理研究中的仪器与信号处理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByjKmY8eye) |
 | **Physiological and Biochemical Analysis of Nutrition and Health**<br>营养与健康的生理与生化分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByjKmY8eye) |
 | **Instrumentation in Neuroscience Research**<br>神经科学研究中的仪器 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/ByjKmY8eye) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Advanced Television and Film**<br>高级电视与电影 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-television-and-film) |
 | **Introductory Bootcamp: The Traditional Production Process and its Relation to Virtual Production**<br>入门训练营：传统制作流程及其与虚拟制作的关系 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-television-and-film) |
-| **Introduction to Virtual Production**<br>虚拟制作导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-television-and-film) |
+| **Introduction to Virtual Production**<br>虚拟制作入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-television-and-film) |
 | **Project Development 1**<br>项目开发 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-television-and-film) |
 | **Working with 3D Assets**<br>3D资产处理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-television-and-film) |
 | **Virtual Production for Technicians**<br>技术人员虚拟制作 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/advanced-television-and-film) |

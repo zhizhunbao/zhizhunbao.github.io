@@ -12,15 +12,15 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Systems Technician**<br>计算机系统技术员 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
-| **Introduction to Web Design**<br>网页设计导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
+| **Introduction to Web Design**<br>网页设计入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **Math for Computing**<br>计算数学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **Networking Fundamentals**<br>网络基础 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **Relational Database Systems**<br>关系数据库系统 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **AI & Machine Learning Fund.**<br>AI与机器学习基础 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **Emerging Technologies**<br>新兴技术 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
-| **Introduction to Linux and Cloud Computing**<br>Linux与云计算导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
-| **Introduction to Scripting the use of PowerShell**<br>PowerShell脚本使用导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
+| **Introduction to Linux and Cloud Computing**<br>Linux与云计算入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
+| **Introduction to Scripting the use of PowerShell**<br>PowerShell脚本使用入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **MS Client Operating System**<br>MS客户端操作系统 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **Non-Relational Database Systems**<br>非关系型数据库系统 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |
 | **Becoming a Global Changemaker**<br>成为全球变革者 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/computer-systems-technician/) |

@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Optical Sciences - Contact Lenses**<br>光学科学－隐形眼镜 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
 | **Contact Lens Eye Health**<br>隐形眼镜与眼健康 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
 | **Clinical I: Contact Lenses**<br>临床 I：隐形眼镜 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
-| **Introduction to Contact Lens Fitting**<br>隐形眼镜验配导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
+| **Introduction to Contact Lens Fitting**<br>隐形眼镜验配入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
 | **Contact Lens Assessment and Care**<br>隐形眼镜评估与护理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
-| **Introduction to Contact Lenses**<br>隐形眼镜导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
+| **Introduction to Contact Lenses**<br>隐形眼镜入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
 | **Contact Lens Optics and Rigid Contact Lens Fitting**<br>隐形眼镜光学与硬性隐形眼镜验配 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
 | **Specialty Contact Lenses**<br>特种隐形眼镜 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |
 | **Clinical II: Contact Lenses**<br>临床 II：隐形眼镜 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/optical-sciences-contact-lenses) |

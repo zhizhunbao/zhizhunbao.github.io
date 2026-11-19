@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Select 1 course from the Communications list during registration.**<br>注册时从传播列表中选修1门课程。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cstc/) |
 | **Relational Database 1**<br>关系数据库 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cstc/) |
 | **Wireless Networking**<br>无线网络 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cstc/) |
-| **Introduction to Information Security**<br>信息安全导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cstc/) |
+| **Introduction to Information Security**<br>信息安全入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cstc/) |
 | **Cloud Computing**<br>云计算 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cstc/) |
 | **Linux Automation**<br>Linux 自动化 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cstc/) |
 | **Network Security**<br>网络安全 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/cstc/) |

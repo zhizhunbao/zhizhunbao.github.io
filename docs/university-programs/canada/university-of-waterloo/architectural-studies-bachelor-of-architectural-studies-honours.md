@@ -12,8 +12,8 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Architectural Studies (Bachelor of Architectural Studies - Honours)**<br>建筑研究（建筑研究学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |
 | **Visual and Digital Media 1**<br>视觉与数字媒体 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |
-| **An Introduction to Architectural Ideas and Communications**<br>建筑理念与传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |
-| **Introduction to Cultural History**<br>文化史导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |
+| **An Introduction to Architectural Ideas and Communications**<br>建筑理念与传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |
+| **Introduction to Cultural History**<br>文化史入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |
 | **Building Construction 1**<br>建筑施工 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |
 | **Design Studio**<br>设计工作室 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |
 | **Visual and Digital Media 2**<br>视觉与数字媒体 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SklSyJRRoh) |

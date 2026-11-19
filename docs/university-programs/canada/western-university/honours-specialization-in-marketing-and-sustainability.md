@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN MARKETING AND SUSTAINABILITY**<br>市场营销与可持续发展荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUSINESS**<br>商业导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUSINESS**<br>商业入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF CALCULUS**<br>微积分方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF FINITE MATHEMATICS**<br>有限数学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **CALCULUS II**<br>微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS II FOR MATHEMATICAL AND PHYSICAL SCIENCES**<br>数学与物理科学微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **CRITICAL READING AND WRITING**<br>批判性阅读与写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ACADEMIC WRITING IN ENGLISH**<br>英语学术写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ACADEMIC WRITING IN ENGLISH**<br>英语学术写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **CRITICAL READING & WRITING IN ENGLISH**<br>英语批判性阅读与写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **INFORMATION TECHNOLOGY IN THE COMMERCIAL ENVIRONMENT**<br>商业环境中的信息技术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **MARKETING**<br>市场营销 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
@@ -33,8 +33,8 @@ ms.date: 2026-11-11
 | **E-COMMERCE STRATEGY**<br>电子商务战略 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCES IN SUSTAINABILITY AND CONSUMER BEHAVIOUR**<br>可持续性与消费者行为进展 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **ORGANIZATIONAL BEHAVIOR**<br>组织行为学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **EQUITY, DIVERSITY, AND INCLUSION IN ORGANIZATIONS**<br>组织中的公平、多样性与包容 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS**<br>统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
@@ -50,7 +50,7 @@ ms.date: 2026-11-11
 | **PROFESSIONAL COMMUNICATIONS**<br>专业沟通 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **STARTING A BUSINESS OR SOCIAL ENTERPRISE**<br>创办企业或社会企业 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL SUPPLY CHAIN MANAGEMENT**<br>全球供应链管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DATA SCIENCE FOR MOS**<br>MOS 数据科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DATA SCIENCE FOR MOS**<br>MOS 数据科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **PROJECT MANAGEMENT**<br>项目管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **CORPORATE SOCIAL RESPONSIBILITY**<br>企业社会责任 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **MANAGEMENT AND ORGANIZATIONAL CONSULTING**<br>管理与组织咨询 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
@@ -106,14 +106,14 @@ ms.date: 2026-11-11
 | **JAPANESE II-A**<br>日语 II-A | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE KOREAN**<br>中级韩语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS ETHICS**<br>商业伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **CLIMATE JUSTICE**<br>气候正义 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL RELATIONS**<br>国际关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL POLITICAL ECONOMY**<br>全球政治经济学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL ENVIRONMENTAL POLITICS**<br>全球环境政治 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **PERSUASION THEORY AND RESEARCH**<br>说服理论与研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 | **INTERMEDIATE SPANISH**<br>中级西班牙语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21676&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

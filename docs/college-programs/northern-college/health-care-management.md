@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Care Management**<br>医疗保健管理 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |
-| **Introduction to Patient Care**<br>患者护理导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |
+| **Introduction to Patient Care**<br>患者护理入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |
-| **Introduction to Patient Safety**<br>患者安全导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |
+| **Introduction to Patient Safety**<br>患者安全入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |
 | **Healthcare Management**<br>医疗保健管理 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |
 | **Communication in Health Care I**<br>医疗保健沟通 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |
 | **Healthcare IT Systems**<br>医疗保健IT系统 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/health-care-management/) |

@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **General Arts and Science – Trent University Transfer**<br>通识文理 - 特伦特大学转学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
 | **Academic Writing for Success Strategies**<br>学术写作成功策略 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
-| **Introduction to Computer Applications**<br>计算机应用导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
+| **Introduction to Computer Applications**<br>计算机应用入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
 | **Politics In Canada**<br>加拿大政治 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
 | **Foundations for Academic Success**<br>学业成功基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
 | **Introduction to Psychology - An Applied Science**<br>心理学入门 - 一门应用科学 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
 | **Academic Writing Success Applications**<br>学术写作成功应用 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
 | **Critical Thinking Skills**<br>批判性思维技能 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |
 | **Canadian Law**<br>加拿大法律 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/general-arts-and-science-liberal-arts-trent-transfer) |

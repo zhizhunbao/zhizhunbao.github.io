@@ -11,23 +11,23 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Statistics - Actuarial Joint, B.Sc. Honours**<br>统计学 - 精算联合，B.Sc. 荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Statistics and Computing**<br>统计与计算导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Statistics and Computing**<br>统计与计算入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Statistics and Computing (B)**<br>统计与计算（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Microeconomic Principles**<br>微观经济学原理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Macroeconomic Principles**<br>宏观经济学原理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Microeconomic Principles**<br>微观经济学原理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Macroeconomic Principles**<br>宏观经济学原理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Linear Algebra 1**<br>线性代数 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Elementary Discrete Mathematics**<br>初等离散数学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Principles of Data Collection**<br>数据收集原理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Probability 1**<br>概率论导论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Probability 2**<br>概率论导论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Probability 1**<br>概率论入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Probability 2**<br>概率论入门 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Interest Theory**<br>利息理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Introductory Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Finance**<br>金融学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Finance**<br>金融学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Multivariable Calculus**<br>多元微积分 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Risk Management**<br>风险管理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Statistical Inference**<br>统计推断导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Risk Management**<br>风险管理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Statistical Inference**<br>统计推断入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Statistical Computing**<br>统计计算 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Linear Models**<br>线性模型 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Multivariate Analysis**<br>多元分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-11
 | **Statistical Learning**<br>统计学习 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Actuarial Models 2**<br>精算模型 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 | **Actuarial Aspects of Investment Practice**<br>投资实务的精算方面 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
-| **Introduction to Property and Casualty Insurance Industry**<br>财产与意外险行业导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
+| **Introduction to Property and Casualty Insurance Industry**<br>财产与意外险行业入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-actuarial-bsc-honours/) |
 
 ## Courses
 

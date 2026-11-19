@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Logistics and Supply Chain Management**<br>物流与供应链管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
-| **Introduction to Procurement**<br>采购导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
+| **Introduction to Procurement**<br>采购入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
 | **Leadership and Professionalism**<br>领导力与职业素养 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
 | **Negotiation Skills**<br>谈判技巧 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
 | **Strategic Procurement**<br>战略采购 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
-| **Introduction to Supply Chain Information Systems**<br>供应链信息系统导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
+| **Introduction to Supply Chain Information Systems**<br>供应链信息系统入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
 | **Logistics and Transportation**<br>物流与运输 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
 | **Risk Management**<br>风险管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Logistics-and-Supply-Chain-Management.aspx) |

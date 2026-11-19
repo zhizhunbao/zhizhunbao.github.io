@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Global German Studies (UofT Global Scholar) (Category 2)**<br>全球德语研究证书（多伦多大学全球学者）（类别 2） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
-| **Introduction to German**<br>德语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
-| **Introduction to German b**<br>德语导论 b | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
+| **Introduction to German**<br>德语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
+| **Introduction to German b**<br>德语入门 b | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
 | **Intermediate German 1**<br>中级德语 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
 | **Intermediate German 1b**<br>中级德语 1b | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
-| **Introduction to Business German**<br>商务德语导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
+| **Introduction to Business German**<br>商务德语入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
 | **Intermediate German 2**<br>中级德语 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
 | **Intermediate German 2b**<br>中级德语 2b | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |
 | **German Business Culture**<br>德国商业文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer1401) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN THE STUDY OF LAW AND PUBLIC POLICY**<br>法律与公共政策研究证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LAW AND PUBLIC POLICY**<br>法律与公共政策导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LAW AND PUBLIC POLICY**<br>法律与公共政策入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDHOOD, YOUTH, AND THE LAW**<br>童年、青少年与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDHOOD, POVERTY POLICY, AND LAW**<br>童年、贫困政策与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **DISABILITY RIGHTS AND LAW**<br>残障权利与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-11
 | **PHILOSOPHY OF LAW**<br>法哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIAL POLICY AND THE PUBLIC GOOD**<br>社会政策与公共利益 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **IMMIGRATION & MULTICULTURALISM**<br>移民与多元文化主义 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CANADIAN LAW**<br>加拿大法律导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CANADIAN LAW**<br>加拿大法律入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **CANADIAN FOREIGN POLICY**<br>加拿大外交政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **POLITICS AND CONTEMPORARY SOCIAL POLICY**<br>政治与当代社会政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL LAW & ORGANIZATION**<br>国际法与国际组织 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **CONFLICT RESOLUTION, DIFFICULT CONVERSATIONS**<br>冲突解决与艰难对话 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIOLOGY OF LAW**<br>法律社会学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **SPECIAL TOPICS IN WRITING**<br>写作专题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ADVOCACY**<br>倡导导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ADVOCACY**<br>倡导入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL CHILDREN'S RIGHTS**<br>国际儿童权利 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **STUDENT RIGHTS IN SCHOOLS**<br>学校中的学生权利 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **CHILD PROTECTION, PARTICIPATION, AND CRIMINAL LAW**<br>儿童保护、参与与刑法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
@@ -69,8 +69,8 @@ ms.date: 2026-11-11
 | **CAPITALISM AND THE LAW**<br>资本主义与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **RIGHTING WRONGS: HUMAN RIGHTS IN CANADA**<br>纠正错误：加拿大的人权 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **CANADIAN IMMIGRATION HISTORY: THE POLITICS, THE POLICIES AND THE PEOPLE**<br>加拿大移民史：政治、政策与人民 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN RIGHTS**<br>人权导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO TAXATION IN CANADA**<br>加拿大税务导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN RIGHTS**<br>人权入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO TAXATION IN CANADA**<br>加拿大税务入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **POWER, SOCIAL POLITICS, AND CULTURE**<br>权力、社会政治与文化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **CYBERETHICS IN CYBERSPACE**<br>网络空间中的网络伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF THE EARTH**<br>地球哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21657&SelectedCalendar=Live&ArchiveID=) |

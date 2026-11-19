@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Animation Theory and Practice Certificate**<br>动画理论与实践证书 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
-| **Introduction to Animation Studies**<br>动画研究导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
+| **Introduction to Animation Studies**<br>动画研究入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
 | **Animation Curation**<br>动画策展 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
 | **Animation Industries from Disney to Ghibli**<br>从迪士尼到吉卜力的动画产业 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
 | **2D Animation Techniques**<br>2D 动画技术 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **3D Animation Techniques**<br>3D 动画技术 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
 | **Special Topics in Animation**<br>动画专题 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
 | **Advanced Animation Production**<br>高级动画制作 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
-| **Introduction to Video Game Studies**<br>电子游戏研究导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
+| **Introduction to Video Game Studies**<br>电子游戏研究入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
 | **Advanced Video Game History and Theory**<br>高级电子游戏历史与理论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
 | **Computational Cinema**<br>计算电影 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |
 | **Virtual and Augmented Reality App Development**<br>虚拟与增强现实应用开发 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/animation-theory-and-practice-certificate/) |

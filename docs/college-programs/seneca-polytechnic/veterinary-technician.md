@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Medical Clinics III: Dentistry**<br>医疗诊所 III：牙科 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTE/courses.html) |
 | **Advanced Radiography**<br>高级放射摄影 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTE/courses.html) |
 | **Anesthetic Principles**<br>麻醉原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTE/courses.html) |
-| **Introduction to Clinical Field Placement**<br>临床实地实习导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTE/courses.html) |
+| **Introduction to Clinical Field Placement**<br>临床实地实习入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTE/courses.html) |
 | **Clinical Care of Animals IV - Transition to Practice**<br>动物临床护理 IV - 过渡到执业 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTE/courses.html) |
 | **Advanced Clinical Lab Procedures**<br>高级临床实验室程序 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTE/courses.html) |
 | **Medical Clinics IV**<br>医疗诊所 IV | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/VTE/courses.html) |

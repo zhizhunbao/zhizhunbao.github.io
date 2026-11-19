@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN CREATIVE ARTS AND PRODUCTION (21669)**<br>创意艺术与制作主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CREATIVE ARTS**<br>创意艺术导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CREATIVE ARTS**<br>创意艺术入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
 | **FIRST YEAR FOUNDATIONS IN MEDIA PRODUCTION**<br>媒体制作一年级基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COMPOSITION**<br>作曲导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ELECTROACOUSTIC MUSIC SYSTEMS**<br>电声音乐系统导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POPULAR MUSIC AND CULTURE**<br>流行音乐与文化导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COMPOSITION**<br>作曲入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ELECTROACOUSTIC MUSIC SYSTEMS**<br>电声音乐系统入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POPULAR MUSIC AND CULTURE**<br>流行音乐与文化入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
 | **ELECTIVE APPLIED STUDY I**<br>选修应用研究 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS OF VISUAL ARTS**<br>视觉艺术基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED VISUAL ARTS FOUNDATION STUDIO**<br>高级视觉艺术基础工作室 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21669&SelectedCalendar=Live&ArchiveID=) |

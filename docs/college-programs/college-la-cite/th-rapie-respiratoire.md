@@ -13,10 +13,10 @@ ms.date: 2026-11-08
 | **Thérapie respiratoire**<br>呼吸治疗 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Physiologie respiratoire**<br>呼吸生理学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Équilibre hydroélectrolytique**<br>水电解质平衡 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
-| **Introduction aux soins respiratoires**<br>呼吸护理导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
+| **Introduction aux soins respiratoires**<br>呼吸护理入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Physiologie cardiaque**<br>心脏生理学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Principes de communication et d'évaluation**<br>沟通与评估原理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
-| **Introduction à la pratique des soins respiratoires**<br>呼吸护理实践导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
+| **Introduction à la pratique des soins respiratoires**<br>呼吸护理实践入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Stratégies de communication en milieu professionnel**<br>职场沟通策略 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Communication orale en milieu professionnel**<br>职业口头沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Communication écrite en milieu professionnel**<br>职场书面沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Physiopathologie des maladies cardiaques**<br>心脏疾病病理生理学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Soins respiratoires**<br>呼吸护理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Pratique de soins respiratoires**<br>呼吸护理实践 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
-| **Introduction à la ventilation mécanique**<br>机械通气导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
+| **Introduction à la ventilation mécanique**<br>机械通气入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Written Communication: Beginner Level**<br>书面沟通：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Written Communication: Intermediate Level**<br>书面沟通：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |
 | **Physiopathologie I**<br>病理生理学 I | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61080) |

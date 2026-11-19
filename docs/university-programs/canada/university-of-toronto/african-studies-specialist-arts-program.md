@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **African Studies Specialist (Arts Program)**<br>非洲研究专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
-| **Africa: A Critical Introduction**<br>非洲：批判性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
+| **Africa: A Critical Introduction**<br>非洲：批判性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Africa in Toronto**<br>多伦多的非洲 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Africa in the 21st Century: Challenges and Opportunities**<br>21世纪的非洲：挑战与机遇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Language, Freedom and Linguistic Human Rights in Africa**<br>非洲的语言、自由与语言人权 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
@@ -55,12 +55,12 @@ ms.date: 2026-11-11
 | **Contemporary World Cinema**<br>当代世界电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Anti-Colonization and the Politics of Violence**<br>反殖民化与暴力政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Black Playwrights: Resistance, Resilience and Transformation**<br>黑人剧作家：抗争、韧性与转变 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
-| **Introduction to Diaspora and Transnational Studies**<br>离散与跨国研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
+| **Introduction to Diaspora and Transnational Studies**<br>离散与跨国研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Advanced Topics in Diaspora and Transnationalism**<br>离散与跨国主义高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Economics of Global Trade**<br>全球贸易经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Global Macroeconomics and Policies**<br>全球宏观经济学与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Economic Development**<br>经济发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
-| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
+| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Entrepreneurial Strategy**<br>创业战略 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Multidisciplinary Perspectives on Environment**<br>环境的多学科视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Ecological Worldviews**<br>生态世界观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
@@ -76,14 +76,14 @@ ms.date: 2026-11-11
 | **Regional Politics and Radical Movements in the 20th Century Caribbean**<br>20世纪加勒比的区域政治与激进运动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Gender and Slavery in the Atlantic World**<br>大西洋世界的性别与奴隶制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Animal and Human Rights in Anglo-American Culture**<br>英美文化中的动物权利与人权 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
-| **Introduction to Health and Disease**<br>健康与疾病导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
-| **Introduction to Global Health**<br>全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
+| **Introduction to Health and Disease**<br>健康与疾病入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
+| **Introduction to Global Health**<br>全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Global Health and Human Rights**<br>全球健康与人权 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Global Health Research**<br>全球卫生研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Topics in Global Health**<br>全球健康专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Global Hidden Hunger**<br>全球隐性饥饿 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Religion and Power in the Postcolony**<br>后殖民地的宗教与权力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
-| **Introduction to Financial Markets**<br>金融市场导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
+| **Introduction to Financial Markets**<br>金融市场入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Fundamentals of Marketing**<br>市场营销基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Fundamentals of Financial Accounting**<br>财务会计基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **International and Community Nutrition**<br>国际与社区营养 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
@@ -107,7 +107,7 @@ ms.date: 2026-11-11
 | **Islam**<br>伊斯兰教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **The Earliest Christians**<br>最早的基督徒 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Gender, Body and Sexuality in Islam**<br>伊斯兰教中的性别、身体与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
-| **The Quran: An Introduction**<br>古兰经导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
+| **The Quran: An Introduction**<br>古兰经入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Living Islam**<br>活生生的伊斯兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Queer Digital Media Studies**<br>酷儿数字媒体研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |
 | **Theories of Sexuality**<br>性理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1707) |

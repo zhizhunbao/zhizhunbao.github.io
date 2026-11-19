@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Electronics I Lab**<br>电子学 I 实验 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Standard Practices I Theory**<br>标准实践 I 理论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Standard Practices I Lab**<br>标准实践 I 实验课 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
-| **Introduction to Canadian Aviation Regulatory Requirements**<br>加拿大航空监管要求导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
+| **Introduction to Canadian Aviation Regulatory Requirements**<br>加拿大航空监管要求入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Aircraft Instruments**<br>飞机仪表 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Aircraft Electrical Drawing I**<br>飞机电气制图 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Digital I Theory**<br>数字 I 理论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Communications Systems II Theory**<br>通信系统 II 理论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Aircraft Systems Theory**<br>飞机系统理论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Aircraft Systems Laboratory**<br>飞机系统实验 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
-| **Introduction to Technical Records**<br>技术记录导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
+| **Introduction to Technical Records**<br>技术记录入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Aircraft Computers**<br>飞机计算机 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **AutoPilot and Control Systems**<br>自动驾驶仪与控制系统 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |
 | **Avionics Systems Installation**<br>航空电子系统安装 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/avionics-technology) |

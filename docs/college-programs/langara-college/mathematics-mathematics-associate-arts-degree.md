@@ -18,12 +18,12 @@ ms.date: 2026-11-08
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
 | **Descriptive and Elementary Inferential Statistics**<br>描述统计与初等推断统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
 | **Probability and Elementary Mathematical Statistics**<br>概率与初等数理统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
-| **Introduction to Mathematical Proof**<br>数学证明导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
+| **Introduction to Mathematical Proof**<br>数学证明入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
 | **Real Analysis**<br>实分析 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
 | **Algorithms and Data Structures I**<br>算法与数据结构 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
 | **Theoretical Foundations of Computer Science**<br>计算机科学理论基础 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
-| **Introduction to Calculus I (Part I)**<br>微积分导论 I（第一部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
-| **Introduction to Calculus I (Part II)**<br>微积分导论 I（第二部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
+| **Introduction to Calculus I (Part I)**<br>微积分入门 I（第一部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
+| **Introduction to Calculus I (Part II)**<br>微积分入门 I（第二部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
 | **Calculus I with Computer Explorations**<br>微积分 I：计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |
 | **Computer Explorations for Calculus I**<br>微积分 I 计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/mathematics-associate-arts-degree/courses) |

@@ -1,17 +1,17 @@
 ---
-title: "3.2.72 Master of Science in Linguistics"
+title: "4.2.72 Master of Science in Linguistics"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Linguistics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.72 Master of Science in Linguistics
+# 4.2.72 Master of Science in Linguistics
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Science in Linguistics**<br>语言学理学硕士 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
 | **Language and Its Structure I: Phonology**<br>语言及其结构 I：音系学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
 | **Language and Its Structure II: Syntax**<br>语言及其结构 II：句法学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
 | **Language and Its Structure III: Semantics and Pragmatics**<br>语言及其结构 III：语义学与语用学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |

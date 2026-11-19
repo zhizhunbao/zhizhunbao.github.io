@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Reinforced Concrete & Masonry Design**<br>钢筋混凝土与砌体设计 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/construction-engineering-technician) |
 | **Material Testing**<br>材料试验 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/construction-engineering-technician) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/construction-engineering-technician) |
-| **Soil Mechanics Introduction**<br>土力学导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/construction-engineering-technician) |
+| **Soil Mechanics Introduction**<br>土力学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/construction-engineering-technician) |
 | **Construction Management**<br>施工管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/construction-engineering-technician) |
 | **Advanced Surveying**<br>高级测量 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/construction-engineering-technician) |
 | **CIVIL Estimating**<br>土木预算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/construction-engineering-technician) |

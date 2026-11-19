@@ -14,11 +14,11 @@ ms.date: 2026-11-11
 | **Chemistry for Engineers**<br>工程师化学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Linear Algebra for Engineering**<br>工程线性代数 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Calculus 1 for Engineering**<br>工程微积分 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Mechanical Engineering Practice 1**<br>机械工程实践导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Mechanical Engineering Practice 1**<br>机械工程实践入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Calculus 2 for Engineering**<br>工程微积分 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Seminar**<br>研讨课 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Mechanical Engineering Practice 2**<br>机械工程实践导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Mechanical Engineering Practice 2**<br>机械工程实践入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Structure and Properties of Materials**<br>材料的结构与性能 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Electrical Engineering for Mechanical Engineers**<br>机械工程师电气工程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Advanced Calculus**<br>高等微积分 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Thermodynamics 2**<br>热力学 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Mechanical Design 1**<br>机械设计 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Heat Transfer 1**<br>传热学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Control Systems**<br>控制系统导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Control Systems**<br>控制系统入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Fluid Mechanics 2**<br>流体力学 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Mechanical Engineering Design Workshop**<br>机械工程设计工作坊 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Engineering Economics: Financial Management for Engineers**<br>工程经济学：工程师财务管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
@@ -84,30 +84,30 @@ ms.date: 2026-11-11
 | **Clean Air Technologies**<br>清洁空气技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Special Topics in Mechanical Engineering**<br>机械工程专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Power Electronics and Motor Drives**<br>电力电子与电机驱动 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Analog and Digital Transistor-Level Design**<br>模拟与数字晶体管级设计导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Analog and Digital Transistor-Level Design**<br>模拟与数字晶体管级设计入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Mechatronic System Integration**<br>机电系统集成 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Autonomous Mobile Robots**<br>自主移动机器人 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to MEMS Fabrication**<br>MEMS 制造导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to MEMS Fabrication**<br>MEMS 制造入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Multi-Sensor Data Fusion**<br>多传感器数据融合 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Advanced Dynamics**<br>高等动力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Foundations of Artificial Intelligence**<br>人工智能基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Quantum Mechanics**<br>量子力学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Quantum Mechanics**<br>量子力学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Algorithm Design and Analysis**<br>算法设计与分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Artificial and Natural Intelligence**<br>人工智能与自然智能 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Programming for Performance**<br>面向性能的编程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Autonomous Vehicles**<br>自动驾驶车辆 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Optimization**<br>最优化导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Optimization**<br>最优化入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Stochastic Models and Methods**<br>随机模型与方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Production and Service Operations Management**<br>生产与服务运营管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Decision Making Under Uncertainty**<br>不确定性下的决策 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Quality Management and Control**<br>质量管理与控制 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Scheduling: Theory and Practice**<br>调度：理论与实践 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Complex Systems**<br>复杂系统导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Complex Systems**<br>复杂系统入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Cognitive Ergonomics**<br>认知工效学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **User Centred Design Methods**<br>以用户为中心的设计方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
-| **Introduction to Pattern Recognition**<br>模式识别导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
+| **Introduction to Pattern Recognition**<br>模式识别入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 | **Physiological Systems and Biomedical Design**<br>生理系统与生物医学设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin) |
 
 ## Courses

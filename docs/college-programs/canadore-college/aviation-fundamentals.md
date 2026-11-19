@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Pre-Aviation Communications I**<br>航空预备沟通 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/aviation-fundamentals) |
 | **Pre-Aviation Mathematics I**<br>航空预备数学 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/aviation-fundamentals) |
 | **Health & Safety for Aviation**<br>航空健康与安全 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/aviation-fundamentals) |
-| **Introduction to Aviation**<br>航空导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/aviation-fundamentals) |
+| **Introduction to Aviation**<br>航空入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/aviation-fundamentals) |
 | **Basic Electricity (DC)**<br>基础电学（直流） | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/aviation-fundamentals) |
 | **Personal Success**<br>个人成功 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/aviation-fundamentals) |
 | **Aircraft Science and Aerodynamics II**<br>飞机科学与空气动力学 II | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/aviation-fundamentals) |

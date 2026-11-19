@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Fundamentals of Hydrology**<br>水文学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1465) |
 | **Ecosystems and Environmental Change**<br>生态系统与环境变化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1465) |
 | **Spatial Data Science I**<br>空间数据科学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1465) |
-| **Introduction to GIScience**<br>GIScience导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1465) |
+| **Introduction to GIScience**<br>GIScience入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1465) |
 | **Geochemistry**<br>地球化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1465) |
 | **Tectonics**<br>构造学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1465) |
 | **Geophysics**<br>地球物理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1465) |

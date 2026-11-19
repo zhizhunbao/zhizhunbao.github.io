@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Dessin d’architecture de bâtiment résidentiel**<br>住宅建筑建筑制图 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-du-genie-du-batiment/) |
 | **Stage international - technologie de l'ingénierie du bâtiment**<br>国际实习 - 建筑工程技术 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-du-genie-du-batiment/) |
 | **Assurance de la qualité**<br>质量保证 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-du-genie-du-batiment/) |
-| **Introduction à la topométrie**<br>地形测量导论 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-du-genie-du-batiment/) |
+| **Introduction à la topométrie**<br>地形测量入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-du-genie-du-batiment/) |
 | **Indications générales d'un bâtiment**<br>建筑物一般说明 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-du-genie-du-batiment/) |
 | **Dessin d'architecture de bâtiment commercial**<br>商业建筑建筑制图 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-du-genie-du-batiment/) |
 | **Projets d’ingénierie d'un bâtiment commercial**<br>商业建筑工程项目 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-du-genie-du-batiment/) |

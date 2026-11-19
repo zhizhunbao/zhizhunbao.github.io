@@ -1,10 +1,10 @@
 ---
-title: "3.4.43 French (B.A.)"
+title: "4.4.43 French (B.A.)"
 description: "University Programs > United States > Yale University > French (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.43 French (B.A.)
+# 4.4.43 French (B.A.)
 
 ## Glossary
 
@@ -12,7 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **French (B.A.)**<br>法语（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/french/) |
 | **Advanced Language Practice**<br>高级语言实践 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/french/) |
-| **Introduction to Literatures in French**<br>法语文学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/french/) |
+| **Introduction to Literatures in French**<br>法语文学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/french/) |
 | **The Senior Essay**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/french/) |
 | **The Senior Essay in the Intensive Major**<br>强化专业毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/french/) |
 | **The Senior Essay—Translation Concentration**<br>毕业论文：翻译方向 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/french/) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Event Computer Applications**<br>活动计算机应用 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Communications and Academic Writing**<br>沟通与学术写作 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
-| **Introduction to Event Logistics**<br>活动物流导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
+| **Introduction to Event Logistics**<br>活动物流入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Foundations of Event Management**<br>活动管理基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
@@ -25,12 +25,12 @@ ms.date: 2026-11-08
 | **Event Food and Beverage Management**<br>活动餐饮管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Cooperative Education and Job Readiness**<br>合作教育与就业准备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Customer Management**<br>客户管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
-| **Introduction to Hospitality and Tourism Marketing**<br>酒店与旅游营销导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
+| **Introduction to Hospitality and Tourism Marketing**<br>酒店与旅游营销入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Technology Applications for Events**<br>活动技术应用 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Logistics and Event Production**<br>物流与活动制作 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Programming for Concerts and Entertainment Events**<br>音乐会与娱乐活动策划 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Co-Op Job Search 1**<br>带薪实习求职 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
-| **Introduction to Human Resources Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
+| **Introduction to Human Resources Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Critical Path and Project Management**<br>关键路径与项目管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Co-Operative Work Term I**<br>合作教育实习学期 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
@@ -50,13 +50,13 @@ ms.date: 2026-11-08
 | **Navigating Canada's Political Landscape**<br>解读加拿大政治格局 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Risk Management**<br>风险管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Sustainable and Green Events**<br>可持续与绿色活动 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Co-Op Job Search 2**<br>带薪实习求职 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Event Revenue Generation**<br>活动收入创造 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Co-Operative Work Term II**<br>合作教育实习学期 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Crowd Control, Safety and Security**<br>人群控制、安全与保卫 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |
 | **Experiential Learning Project 1**<br>体验式学习项目 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6179X03FWO.pdf) |

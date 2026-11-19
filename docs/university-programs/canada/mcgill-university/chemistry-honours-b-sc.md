@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Inorganic Chemistry 1.**<br>无机化学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/) |
 | **Introductory Organic Chemistry 3.**<br>有机化学入门 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/) |
 | **Biological Chemistry.**<br>生物化学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/) |
-| **Introduction to Quantum Chemistry.**<br>量子化学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/) |
+| **Introduction to Quantum Chemistry.**<br>量子化学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/) |
 | **Applications of Quantum Chemistry.**<br>量子化学的应用 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/) |
 | **Statistical Thermodynamics.**<br>统计热力学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/) |
 | **Instrumental Analysis 1.**<br>仪器分析 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/) |

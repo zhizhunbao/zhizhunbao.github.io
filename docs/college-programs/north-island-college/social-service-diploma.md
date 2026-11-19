@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Family Relationships**<br>家庭关系 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/human-services/social-service-diploma.html) |
 | **Conflict Management**<br>冲突管理 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/human-services/social-service-diploma.html) |
 | **Program Planning, Development and Implementation**<br>项目规划、开发与实施 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/human-services/social-service-diploma.html) |
-| **Introduction to Group Work Practice**<br>团体工作实践导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/human-services/social-service-diploma.html) |
+| **Introduction to Group Work Practice**<br>团体工作实践入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/human-services/social-service-diploma.html) |
 | **Social Work Practice in Mental Health and Addictions**<br>心理健康与成瘾领域的社会工作实践 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/human-services/social-service-diploma.html) |
 | **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/human-services/social-service-diploma.html) |
 | **Advanced Practice Experience Social Services**<br>高级实践经验：社会服务 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/human-services/social-service-diploma.html) |

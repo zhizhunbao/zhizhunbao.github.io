@@ -11,29 +11,29 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **BASc Multidisciplinary Design Engineering**<br>多学科设计工程（BASc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
-| **Introduction to Engineering Design**<br>工程设计导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
+| **Introduction to Engineering Design**<br>工程设计入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Personal development and communications skills**<br>个人发展与沟通技能 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Teamwork and communication skills**<br>团队合作与沟通技能 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
-| **Introduction to engineering and its impact on society**<br>工程学及其社会影响导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
-| **Introduction to sustainability**<br>可持续发展导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
+| **Introduction to engineering and its impact on society**<br>工程学及其社会影响入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
+| **Introduction to sustainability**<br>可持续发展入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Data visualization and analytics**<br>数据可视化与分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
-| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
+| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Leadership and communication**<br>领导力与沟通 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Ethics and Technology**<br>伦理与技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Engineering Accreditation I**<br>工程认证 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Internship I**<br>实习 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Multidisciplinary Design I**<br>多学科设计 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Multidisciplinary Design II**<br>多学科设计 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Community engagement**<br>社区参与 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Internship II**<br>实习 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Capstone Design I**<br>毕业设计 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Capstone Design II**<br>毕业设计 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Engineering Accreditation II**<br>工程认证 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Internship III**<br>实习 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
-| **Introduction to Computing I**<br>计算导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
+| **Introduction to Computing I**<br>计算入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Embedded programming and scripting**<br>嵌入式编程与脚本 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
-| **Introduction to Computing II**<br>计算导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
+| **Introduction to Computing II**<br>计算入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 | **Web and Mobile Applications**<br>网络与移动应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-multidisciplinary-design-engineering/) |
 
 ## Courses

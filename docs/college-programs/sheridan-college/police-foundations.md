@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Criminal Procedures and Civil Law**<br>刑事程序与民法 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/police-foundations) |
 | **Canadian Criminal Code**<br>加拿大刑法典 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/police-foundations) |
 | **Private Policing**<br>私人警务 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/police-foundations) |
-| **Introduction to Fitness and Police Preparation**<br>体能与警务准备导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/police-foundations) |
+| **Introduction to Fitness and Police Preparation**<br>体能与警务准备入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/police-foundations) |
 | **Criminology: A Canadian Approach**<br>犯罪学：加拿大视角 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/police-foundations) |
 | **Provincial Legislation**<br>省级立法 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/police-foundations) |
 | **Diversity, Values and Ethics in Public Safety**<br>公共安全中的多样性、价值观与伦理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/police-foundations) |

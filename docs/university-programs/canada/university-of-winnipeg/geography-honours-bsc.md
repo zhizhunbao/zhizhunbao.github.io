@@ -11,15 +11,15 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geography, Honours BSc**<br>地理学，荣誉 BSc | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
-| **Challenges of a Changing World: An Introduction to Human Geography**<br>变化世界的挑战：人文地理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
-| **Science in a Dynamic World: An Introduction to Physical Geography**<br>动态世界中的科学：自然地理学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
-| **Mapping in a Global World: An Introduction to Geomatics**<br>全球化世界中的制图：地理信息技术导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
+| **Challenges of a Changing World: An Introduction to Human Geography**<br>变化世界的挑战：人文地理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
+| **Science in a Dynamic World: An Introduction to Physical Geography**<br>动态世界中的科学：自然地理学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
+| **Mapping in a Global World: An Introduction to Geomatics**<br>全球化世界中的制图：地理信息技术入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Regional Geography of Canada**<br>加拿大区域地理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
-| **Introduction to Cartography**<br>制图学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
+| **Introduction to Cartography**<br>制图学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Statistical Techniques in Environmental Analysis**<br>环境分析中的统计技术 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Statistical Analysis I**<br>统计分析 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
-| **Introduction to Statistical Analysis**<br>统计分析导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
+| **Introduction to Statistical Analysis**<br>统计分析入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Remote Sensing**<br>遥感 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Research Methods in Geography**<br>地理学研究方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Climatology**<br>气候学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
@@ -31,8 +31,8 @@ ms.date: 2026-11-11
 | **Geomorphology**<br>地貌学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Hydrology**<br>水文学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Honours Geography Thesis**<br>荣誉地理学论文 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Concepts in Science**<br>科学中的概念 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Biology and Human Concerns**<br>生物学与人类关切 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |
 | **Human Biology**<br>人类生物学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/geog.pdf#page=7) |

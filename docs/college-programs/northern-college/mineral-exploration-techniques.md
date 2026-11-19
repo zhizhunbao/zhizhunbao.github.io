@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Mineral Exploration Techniques**<br>矿产勘探技能 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
 | **Mathematics I**<br>数学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
-| **Introduction to Mineral Exploration**<br>矿产勘探导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
+| **Introduction to Mineral Exploration**<br>矿产勘探入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
 | **Sampling Methods and Protocols**<br>取样方法与规程 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
-| **Introduction to Geology and Geomorphology**<br>地质学与地貌学导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
+| **Introduction to Geology and Geomorphology**<br>地质学与地貌学入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
 | **Mineral Exploration Workplace Best Practices**<br>矿产勘探职场最佳实践 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
 | **Indigenous Culture & Awareness**<br>原住民文化与意识 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
-| **Introduction to GIS Applications**<br>GIS应用导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
+| **Introduction to GIS Applications**<br>GIS应用入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
 | **Mineral Exploration Field School**<br>矿产勘探野外实习 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
 | **Geophysical Methods in Mineral Exploration**<br>矿产勘探地球物理方法 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |
 | **Environmental Best Practices in Mineral Exploration**<br>矿产勘探环境最佳实践 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/mineral-exploration-techniques/) |

@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Computer Programming and Analysis**<br>计算机编程与分析 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **IT Essentials: Computer Hardware Fundamentals**<br>IT基础：计算机硬件基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
-| **Introduction to Web Development**<br>Web开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
+| **Introduction to Web Development**<br>Web开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Fundamentals of Computing Logic**<br>计算逻辑基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
-| **Introduction to Data Management**<br>数据管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
+| **Introduction to Data Management**<br>数据管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Mathematics for Computer Technology I**<br>计算机技术数学 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Database Management**<br>数据库管理 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Object Oriented Programming**<br>面向对象程序设计 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
-| **Introduction to Full-Stack Development**<br>全栈开发导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
+| **Introduction to Full-Stack Development**<br>全栈开发入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Linux Essentials**<br>Linux 要点 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Personal Finance**<br>个人理财 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Mathematics for Computer Technology II**<br>计算机技术数学 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-08
 | **Mobile Application Development II**<br>移动应用开发 2 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Applied Machine Learning**<br>应用机器学习 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 | **Full Stack Development II**<br>全栈开发 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
-| **Introduction to Cyber Security**<br>网络安全导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
+| **Introduction to Cyber Security**<br>网络安全入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177) |
 
 ## Courses
 

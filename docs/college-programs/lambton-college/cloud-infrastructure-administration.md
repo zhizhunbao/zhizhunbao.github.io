@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Networking Basics**<br>网络基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **Operating Systems Foundations**<br>操作系统基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **Foundational Cloud Administration**<br>云管理基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
-| **Introduction to Security**<br>安全导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
+| **Introduction to Security**<br>安全入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **Canadian IT Consulting & Business Tools I**<br>加拿大IT咨询与商务工具 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **ITIL Foundations**<br>ITIL基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **Canadian IT Consulting & Business Tools II**<br>加拿大IT咨询与商务工具 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **Business Technologies - A Canadian Perspective**<br>商业技术 - 加拿大视角 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
-| **Introduction to Canadian Culture**<br>加拿大文化导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
+| **Introduction to Canadian Culture**<br>加拿大文化入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **Co-op Work Term**<br>带薪实习学期 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 | **WIL Project**<br>WIL项目 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cias) |
 

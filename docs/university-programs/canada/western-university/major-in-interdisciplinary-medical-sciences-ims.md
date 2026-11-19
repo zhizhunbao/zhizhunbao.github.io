@@ -22,10 +22,10 @@ ms.date: 2026-11-11
 | **CALCULUS II FOR MATHEMATICAL AND PHYSICAL SCIENCES**<br>数学与物理科学微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTER SCIENCE FUNDAMENTALS I**<br>计算机科学基础 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **BIOCHEMISTRY AND MOLECULAR BIOLOGY**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICS FOR SCIENCE**<br>科学统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **SCIENTIFIC METHOD IN BIOLOGY**<br>生物学中的科学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
@@ -48,7 +48,7 @@ ms.date: 2026-11-11
 | **BIOCHEMICAL REGULATION**<br>生化调节 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **BIOSTATISTICAL METHODS FOR EPIDEMIOLOGY**<br>流行病学生物统计方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **MULTIVARIABLE METHODS**<br>多变量方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EPIDEMIOLOGY**<br>流行病学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EPIDEMIOLOGY**<br>流行病学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **EPIDEMIOLOGY II**<br>流行病学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN BIOMECHANICS AND BIOMEDICAL APPLICATIONS 1**<br>人体生物力学及生物医学应用 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **CIRCULATORY AND RESPIRATORY SCIENCES 1**<br>循环与呼吸科学 1 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
@@ -59,7 +59,7 @@ ms.date: 2026-11-11
 | **VIROLOGY**<br>病毒学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **IMMUNOLOGY**<br>免疫学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **BACTERIOLOGY**<br>细菌学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN PATHOLOGY**<br>人体病理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN PATHOLOGY**<br>人体病理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN PHARMACOLOGY AND THERAPEUTIC PRINCIPLES**<br>人体药理学与治疗原则 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **HUMAN PHYSIOLOGY**<br>人体生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **CELLULAR PHYSIOLOGY**<br>细胞生理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
@@ -72,12 +72,12 @@ ms.date: 2026-11-11
 | **INTERMEDIATE EPIDEMIOLOGY**<br>中级流行病学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **EPIDEMIOLOGY OF MAJOR DISEASES**<br>主要疾病流行病学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **SYSTEMIC REVIEWS AND META-ANALYSIS**<br>系统综述与元分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MEDICAL BIOINFORMATICS**<br>医学生物信息学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MOLECULAR IMAGING**<br>分子成像导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MEDICAL BIOINFORMATICS**<br>医学生物信息学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MOLECULAR IMAGING**<br>分子成像入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **PHOTONICS IN MEDICINE AND BIOLOGY**<br>医学与生物学中的光子学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **TRUTH AND LIES IN BIOMEDICAL BIG DATA**<br>生物医学大数据中的真相与谎言 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGICAL AND SOCIAL DETERMINANTS OF INFECTIOUS DISEASE**<br>传染病的生物与社会决定因素 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO NEUROSCIENCE**<br>神经科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO NEUROSCIENCE**<br>神经科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **FOUNDATIONS IN ONE HEALTH**<br>同一健康基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 | **ONE HEALTH IN ACTION**<br>行动中的同一健康 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20753&SelectedCalendar=Live&ArchiveID=) |
 

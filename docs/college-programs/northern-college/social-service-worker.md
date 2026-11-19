@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/social-service-worker/) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/social-service-worker/) |
 | **Working on Teams and in Groups**<br>团队与小组中的工作 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/social-service-worker/) |
-| **Introduction to Social Welfare in Canada**<br>加拿大社会福利导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/social-service-worker/) |
+| **Introduction to Social Welfare in Canada**<br>加拿大社会福利入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/social-service-worker/) |
 | **Understanding Power, Privilege & Oppression**<br>理解权力、特权与压迫 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/social-service-worker/) |
 | **Working with Diverse Families**<br>与多元家庭合作 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/social-service-worker/) |
 | **Clinical Practice Skills**<br>临床实践技能 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/social-service-worker/) |

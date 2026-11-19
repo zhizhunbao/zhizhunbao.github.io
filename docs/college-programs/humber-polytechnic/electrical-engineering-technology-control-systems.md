@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Electromechanical Systems - Theory**<br>机电系统 - 理论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technology-control-systems) |
 | **Electromechanical Systems - Experiments**<br>机电系统 - 实验 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technology-control-systems) |
 | **Communication & Alarm Systems**<br>通信与报警系统 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technology-control-systems) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technology-control-systems) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technology-control-systems) |
 | **Electrical Code Applications**<br>电气规范应用 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technology-control-systems) |
 | **Industrial Electrical Distribution Design**<br>工业配电设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technology-control-systems) |
 | **PLC Fundamentals**<br>PLC基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electrical-engineering-technology-control-systems) |

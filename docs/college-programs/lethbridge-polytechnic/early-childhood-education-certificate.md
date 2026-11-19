@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Early Childhood Education Certificate**<br>幼儿教育证书 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/early-childhood-education-certificate) |
-| **Introduction to Early Childhood Education**<br>幼儿教育导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/early-childhood-education-certificate) |
+| **Introduction to Early Childhood Education**<br>幼儿教育入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/early-childhood-education-certificate) |
 | **Development Through Play**<br>通过游戏发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/early-childhood-education-certificate) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/early-childhood-education-certificate) |
 | **Composition**<br>作文 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/early-childhood-education-certificate) |

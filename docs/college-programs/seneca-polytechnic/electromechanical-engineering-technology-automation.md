@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Electromechanical Engineering Technology – Automation**<br>机电工程技术：自动化 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Electricity**<br>电学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Electronic Lab Instrumentation and Techniques**<br>电子实验室仪器与技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Mathematics with Foundations**<br>数学（含基础） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Programming Fundamentals Using "C"**<br>使用"C"的编程基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
@@ -48,7 +48,7 @@ ms.date: 2026-11-08
 | **Simulation for Design and Manufacturing**<br>设计与制造仿真 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Capstone Project**<br>毕业设计项目 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Accounting I**<br>会计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
-| **Introduction to Business Administration**<br>工商管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
+| **Introduction to Business Administration**<br>工商管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Physics for Electronics**<br>电子学物理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Engineering Ethics and Professional Practice**<br>工程伦理与专业实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |
 | **Machining Theory**<br>机械加工理论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EMA/courses.html) |

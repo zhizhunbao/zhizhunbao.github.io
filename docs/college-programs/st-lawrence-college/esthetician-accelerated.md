@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Hair Removal**<br>脱毛 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician-accelerated/full-time/kingston) |
 | **Skin Care 1: Facial Treatments**<br>皮肤护理 1：面部护理 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician-accelerated/full-time/kingston) |
 | **Advanced Techniques in Medical Esthetics**<br>医学美容高级技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician-accelerated/full-time/kingston) |
-| **Dynamic Designs 1: Introduction to Client Services**<br>动态设计 1：客户服务导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician-accelerated/full-time/kingston) |
+| **Dynamic Designs 1: Introduction to Client Services**<br>动态设计 1：客户服务入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician-accelerated/full-time/kingston) |
 | **Work Placement 1**<br>工作岗位实习 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician-accelerated/full-time/kingston) |
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician-accelerated/full-time/kingston) |
 | **Chemistry in the Beauty Industry 1**<br>美容行业化学 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/esthetician-accelerated/full-time/kingston) |

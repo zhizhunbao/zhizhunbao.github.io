@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Educational Support**<br>教育支持 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **Across the Lifespan**<br>贯穿生命全程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **Communications I for Community Development Professionals**<br>社区发展专业人员沟通 I | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **Foundations of Educational Support**<br>教育支持基础 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **Technology for Human Service Professionals**<br>人类服务专业人员技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **Curriculum for Educational Support**<br>教育支持课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **Technology for Today's Classroom**<br>当代课堂技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
-| **Introduction to Exceptionalities**<br>特殊需求导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
+| **Introduction to Exceptionalities**<br>特殊需求入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **Field Preparation I**<br>实地准备 I | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |
 | **Neurodevelopmental Disabilities**<br>神经发育障碍 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/educational-support/full-time/brockville) |

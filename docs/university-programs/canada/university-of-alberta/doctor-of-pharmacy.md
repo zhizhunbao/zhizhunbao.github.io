@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Doctor of Pharmacy**<br>药学博士 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Principles of Medicinal Chemistry**<br>药物化学原理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Pharmaceutics 1**<br>药剂学 1 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
-| **Introduction to Pharmacology 1**<br>药理学导论 1 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
+| **Introduction to Pharmacology 1**<br>药理学入门 1 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Anatomy and Physiology for Pharmacy**<br>药学解剖学与生理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Foundations of Collaborative Practice or equivalent (see list provided by Faculty)**<br>协作实践基础或同等课程（见学院提供的清单） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Behavioural, Administrative, Social and Evidence-based Pharmacy 1**<br>行为、管理、社会与循证药学 1 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Pharmaceutical Calculations**<br>药剂计算 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Patient Care Skills 1**<br>患者护理技能 1 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Patient Care Skills 2**<br>患者护理技能 2 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
-| **Introduction to Pharmacology 2**<br>药理学导论 2 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
+| **Introduction to Pharmacology 2**<br>药理学入门 2 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Pharmacotherapy 1**<br>药物治疗学 1 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Introductory Pharmacy Practice Experience Part 1**<br>药学实践入门经历第 1 部分 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |
 | **Pharmaceutics 2**<br>药剂学 2 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110712&returnto=20853) |

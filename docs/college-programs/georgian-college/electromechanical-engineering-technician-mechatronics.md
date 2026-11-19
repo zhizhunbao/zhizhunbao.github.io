@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Introduction to Microprocessors**<br>微处理器入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mett/) |
 | **Applied Mechanics of Materials**<br>应用材料力学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mett/) |
 | **Applied Computer Aided Manufacturing**<br>应用计算机辅助制造 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mett/) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mett/) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mett/) |
 | **Mechatronics Work Term 1**<br>机电一体化实习学期 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mett/) |
 
 ## Courses

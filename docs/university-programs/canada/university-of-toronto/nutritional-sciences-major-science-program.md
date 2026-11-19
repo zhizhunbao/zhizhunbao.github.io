@@ -28,10 +28,10 @@ ms.date: 2026-11-11
 | **Mammalian Molecular Biology**<br>哺乳动物分子生物学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
 | **Biochemistry II: Nucleic Acids and Biological Information Flow**<br>生物化学 II：核酸与生物信息流 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
 | **Vitamin and Mineral Metabolism Throughout the Life Cycle**<br>全生命周期的维生素与矿物质代谢 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
-| **Introduction to Food Science**<br>食品科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
+| **Introduction to Food Science**<br>食品科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
 | **Nutrition Literacy: Sorting Science from Snake Oil**<br>营养素养：辨别科学与江湖骗术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
 | **Nutrition, Athletics, Performance and Behaviour**<br>营养、运动、表现与行为 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
-| **Introduction to Clinical Nutrition**<br>临床营养导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
+| **Introduction to Clinical Nutrition**<br>临床营养入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
 | **Advanced Clinical Nutrition**<br>高级临床营养学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
 | **Research Course in Nutritional Science**<br>营养科学研究课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |
 | **Functional Foods and Nutraceuticals in Human Nutrition**<br>人类营养中的功能食品与保健品 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1068) |

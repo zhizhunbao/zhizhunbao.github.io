@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Canadian Business Law**<br>加拿大商法 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-certificate/) |
 | **Micro Economics**<br>微观经济学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-certificate/) |
 | **Macro Economics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-certificate/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-certificate/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-certificate/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-certificate/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-certificate/) |
 | **3 credits of 100 Level Business Administration or any University Credit Elective**<br>3学分100级工商管理或任意大学学分选修课 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-certificate/) |

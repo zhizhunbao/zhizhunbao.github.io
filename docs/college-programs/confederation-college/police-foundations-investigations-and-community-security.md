@@ -16,23 +16,23 @@ ms.date: 2026-11-08
 | **Fitness and Lifestyles Management I**<br>健身与生活方式管理 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Intro to Security Practices**<br>安全实践入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
-| **Introduction to Modern Policing**<br>现代警务导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
+| **Introduction to Modern Policing**<br>现代警务入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Career Preparation**<br>职业准备 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Provincial Statutes**<br>省级法规 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Criminal Code and Federal Statutes**<br>刑法典与联邦法规 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Fitness and Lifestyles Management II**<br>健身与生活方式管理 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Border Services and Corrections**<br>边境服务与惩教 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Mental Health for 1st Responders**<br>急救人员心理健康 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Public Safety and Emergency Management**<br>公共安全与应急管理 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Arrest, Search and Use of Force**<br>逮捕、搜查与武力使用 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
-| **Introduction to Forensics GIT I**<br>取证 GIT I 导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
+| **Introduction to Forensics GIT I**<br>取证 GIT I 入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Law Enforcement Ethics and Leadership**<br>执法伦理与领导力 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Fitness and Resiliency for Policing**<br>警务体能与心理韧性 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **YCJA - Diversionary and Alternative Measures**<br>《青少年刑事司法法》(YCJA) - 转处与替代措施 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Conflict Management and Crisis Intervention**<br>冲突管理与危机干预 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
-| **Introduction to Cyber-Security**<br>网络安全导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
+| **Introduction to Cyber-Security**<br>网络安全入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Interpersonal and Tactical Responses**<br>人际与战术应对 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Community Mobilization and Engagement**<br>社区动员与参与 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |
 | **Crime Scene Analysis and Reconstruction GIT I**<br>犯罪现场分析与重建 GIT I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/police-foundations/) |

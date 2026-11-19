@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Inclusive Baking Practices**<br>包容性烘焙实践 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/BAKPF-CT/PrinterFriendly#BAKE-1026) |
 | **Nutrition for Bakers**<br>烘焙师营养学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/BAKPF-CT/PrinterFriendly#BAKE-1027) |
 | **Advanced Pastries**<br>高级糕点 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/BAKPF-CT/PrinterFriendly#BAKE-2022) |
-| **Introduction to Café**<br>咖啡馆导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/BAKPF-CT/PrinterFriendly#BAKE-1028) |
+| **Introduction to Café**<br>咖啡馆入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/BAKPF-CT/PrinterFriendly#BAKE-1028) |
 | **Wedding Cakes**<br>婚礼蛋糕 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/BAKPF-CT/PrinterFriendly#BAKE-2023) |
 | **Advanced Chocolate and Sugar Work**<br>高级巧克力与糖艺 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/BAKPF-CT/PrinterFriendly#CULI-4002) |
 | **Baking and Pastry Arts Field Placement**<br>烘焙与糕点艺术实地实习 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/BAKPF-CT/PrinterFriendly#FIEP-2003) |

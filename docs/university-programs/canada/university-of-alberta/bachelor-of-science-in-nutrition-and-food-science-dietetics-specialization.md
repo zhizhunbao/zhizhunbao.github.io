@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science in Nutrition and Food Science - Dietetics Specialization**<br>理学学士（营养与食品科学，营养师专业方向） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Introductory University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Introductory University Chemistry II**<br>大学化学入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Nutrition and Well-being**<br>营养与幸福 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Indigenous \| Canada: Looking Forward/Looking Back**<br>原住民 \| 加拿大：展望未来/回顾过去 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
@@ -27,11 +27,11 @@ ms.date: 2026-11-11
 | **Food Fundamentals and Quality**<br>食品基础与质量 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Role of the Dietitian in the Canadian Health Care System**<br>营养师在加拿大医疗体系中的角色 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Human Physiology**<br>人体生理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
-| **Introduction to Accounting**<br>会计学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
+| **Introduction to Accounting**<br>会计学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Bioenergetics and Metabolism**<br>生物能量学与代谢 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Teaching and Communication in Nutrition**<br>营养教学与传播 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Nutrition Across the Lifespan**<br>贯穿生命历程的营养 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
-| **Introduction to Population and Public Health Nutrition**<br>人群与公共卫生营养导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
+| **Introduction to Population and Public Health Nutrition**<br>人群与公共卫生营养入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Foodservice Systems Management**<br>餐饮服务系统管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Fundamentals of Nutritional Biochemistry and Metabolism I**<br>营养生物化学与代谢基础 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Fundamentals of Nutritional Biochemistry and Metabolism II**<br>营养生物化学与代谢基础 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
@@ -46,8 +46,8 @@ ms.date: 2026-11-11
 | **Integrated Advanced Clinical Dietetic Practice**<br>综合高级临床营养师实践 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Advanced Clinical Nutrition**<br>高级临床营养学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Advanced Population and Public Health Nutrition**<br>高级人群与公共卫生营养 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
-| **Introduction to Dietetic Practice**<br>营养师实践导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
-| **Introduction to Management for Non-Business Students**<br>非商科学生管理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
+| **Introduction to Dietetic Practice**<br>营养师实践入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
+| **Introduction to Management for Non-Business Students**<br>非商科学生管理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Behavior in Organizations**<br>组织中的行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Nutrition and Metabolism Related to Cancer**<br>与癌症相关的营养与代谢 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |
 | **Advances in Human Nutrition and the Intestinal Microbiome**<br>人类营养与肠道微生物组进展 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109997&returnto=20843) |

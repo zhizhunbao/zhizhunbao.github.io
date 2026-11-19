@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Applied Food Safety Management Systems**<br>应用食品安全管理体系 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/food-safety-and-quality-assurance-food-processing/courses-no-intake?id=15295) |
 | **Good Agricultural Practices**<br>良好农业规范 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/food-safety-and-quality-assurance-food-processing/courses-no-intake?id=15295) |
 | **Food Safety Applications in the Processing Environment**<br>加工环境中的食品安全应用 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/food-safety-and-quality-assurance-food-processing/courses-no-intake?id=15295) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/food-safety-and-quality-assurance-food-processing/courses-no-intake?id=15295) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/food-safety-and-quality-assurance-food-processing/courses-no-intake?id=15295) |
 
 ## Courses
 

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Engineering Graphics**<br>工程图学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mechanical-engineering-technology) |
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mechanical-engineering-technology) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mechanical-engineering-technology) |
-| **Introduction to Metrology and Geometric Dimensioning**<br>计量与几何尺寸公差导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mechanical-engineering-technology) |
+| **Introduction to Metrology and Geometric Dimensioning**<br>计量与几何尺寸公差入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mechanical-engineering-technology) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mechanical-engineering-technology) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mechanical-engineering-technology) |
 | **Physical Principles I**<br>物理原理 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/mechanical-engineering-technology) |

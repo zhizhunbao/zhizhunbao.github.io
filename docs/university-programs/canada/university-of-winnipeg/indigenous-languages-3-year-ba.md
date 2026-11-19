@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Indigenous Languages, 3-Year BA**<br>原住民语言，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=1) |
-| **Introductory Cultural Anthropology – Indigenous Focus**<br>文化人类学导论：原住民专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=1) |
-| **Introduction to Indigenous Studies: Art, Culture and History**<br>原住民研究导论：艺术、文化与历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=1) |
+| **Introductory Cultural Anthropology – Indigenous Focus**<br>文化人类学入门：原住民专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=1) |
+| **Introduction to Indigenous Studies: Art, Culture and History**<br>原住民研究入门：艺术、文化与历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=1) |
 | **Introductory Ojibwe**<br>奥吉布瓦语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=1) |
 | **Indigenous Languages: Resilience and Identity**<br>原住民语言：韧性与身份认同 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=1) |
 | **Indigenous History Since 1900: Racism, Resistance, Renewal**<br>1900 年以来的原住民历史：种族主义、抵抗、复兴 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/il.pdf#page=1) |

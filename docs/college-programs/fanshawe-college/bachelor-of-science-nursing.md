@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Holistic Assessment: Theory**<br>整体评估：理论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6439541/courses-next/) |
 | **HA Clinical Reasoning: Theory**<br>HA临床推理：理论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6439541/courses-next/) |
 | **Wellbeing in Older Adults: Theory**<br>老年人幸福感：理论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6439541/courses-next/) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6439541/courses-next/) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6439541/courses-next/) |
 | **Anatomy & Physiology 1**<br>解剖学与生理学 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6439541/courses-next/) |
 | **Anatomy & Physiology 2**<br>解剖学与生理学 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6439541/courses-next/) |
 | **Holistic Assessment: Lab**<br>整体评估：实验 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6439541/courses-next/) |

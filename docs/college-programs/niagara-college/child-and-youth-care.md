@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Child and Youth Care**<br>儿童与青少年关怀 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/child-youth-care/) |
-| **Introduction to Counselling Skills**<br>咨询技能导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/child-youth-care/) |
+| **Introduction to Counselling Skills**<br>咨询技能入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/child-youth-care/) |
 | **Relational Practice I**<br>关系实践 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/child-youth-care/) |
 | **Designing Therapeutic Programs**<br>治疗项目设计 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/child-youth-care/) |
 | **Group Work in CYC Practice**<br>儿童与青少年照护实践中的团体工作 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/communityservices/program/child-youth-care/) |

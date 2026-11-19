@@ -18,8 +18,8 @@ ms.date: 2026-11-11
 | **Research Methods for Political Science I**<br>政治学研究方法 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Research Methods for Political Science II**<br>政治学研究方法 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Politics and Government of the United States**<br>美国的政治与政府 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
-| **Introduction to Comparative Politics: Institutions**<br>比较政治导论：制度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
-| **Introduction to Comparative Politics: Processes and Identities**<br>比较政治导论：过程与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
+| **Introduction to Comparative Politics: Institutions**<br>比较政治入门：制度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
+| **Introduction to Comparative Politics: Processes and Identities**<br>比较政治入门：过程与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Topics in Comparative Politics**<br>比较政治专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **The Politics of Islam**<br>伊斯兰政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Politics of South Asia**<br>南亚政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Politics of the South Asian Diaspora in Comparative Perspective**<br>比较视角下的南亚侨民政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Collective Action and Political Change**<br>集体行动与政治变革 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Protest and Social Movements in Comparative and Transnational Perspective**<br>比较与跨国视角下的抗议与社会运动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Contemporary Challenges in International Relations**<br>国际关系的当代挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Topics in International Relations**<br>国际关系专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Military Power**<br>军事力量 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
@@ -64,8 +64,8 @@ ms.date: 2026-11-11
 | **Comparative Environmental Policy**<br>比较环境政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Politics and Policy of Wildlife Conservation**<br>野生动物保护的政治与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
-| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
-| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
+| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
+| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 | **Modernity and Resistance**<br>现代性与抵抗 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj2015) |
 
 ## Courses

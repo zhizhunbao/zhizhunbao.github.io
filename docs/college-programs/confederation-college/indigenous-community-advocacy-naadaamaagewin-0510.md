@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Indigenous Identity and Worldview**<br>原住民身份与世界观 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Aboriginal Law I**<br>原住民法 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Community Development Processes**<br>社区发展流程 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
-| **Introduction to Advocacy**<br>倡导导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
+| **Introduction to Advocacy**<br>倡导入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **History of Indigenous Canadian Relations**<br>加拿大原住民关系史 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Decolonizing History: Indigenous-Canadian Relations**<br>去殖民化历史：原住民与加拿大关系 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |
 | **Indigenous Knowledge and Ethics**<br>原住民知识与伦理 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/indigenous-community-advocacy-naadaamaagewin/) |

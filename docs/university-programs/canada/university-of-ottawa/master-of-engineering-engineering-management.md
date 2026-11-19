@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Engineering Engineering Management**<br>工程硕士，工程管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
-| **Introduction to Engineering Management**<br>工程管理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
+| **Introduction to Engineering Management**<br>工程管理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
 | **Business Case Development**<br>商业案例开发 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
 | **Leadership Skills**<br>领导技能 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
-| **Introduction to Corporate Finance**<br>公司金融导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
+| **Introduction to Corporate Finance**<br>公司金融入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |
 | **Business Intelligence Technologies and Big Data Analytics for DTI**<br>DTI 商业智能技术与大数据分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-engineering-management/) |

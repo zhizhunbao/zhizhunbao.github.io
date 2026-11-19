@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Intro to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Communications for Business**<br>商务沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Recruitment & Selection**<br>招聘与选拔 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **HR Research & Information Systems**<br>人力资源研究与信息系统 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Labour Relations**<br>劳资关系 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Training & Development**<br>培训与发展 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Human Resources Planning & Development**<br>人力资源规划与发展 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
-| **Introduction to Financial Management Accounting**<br>财务管理会计导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
+| **Introduction to Financial Management Accounting**<br>财务管理会计入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Critical & Ethical Decision Making**<br>批判性与伦理决策 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Equity, Diversity & Inclusion: A Canadian Perspective**<br>公平、多元与包容：加拿大视角 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |
 | **Integrated Business Solutions: Capstone**<br>综合商业解决方案：毕业项目 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/bhnf) |

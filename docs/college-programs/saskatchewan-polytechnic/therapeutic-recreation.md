@@ -14,14 +14,14 @@ ms.date: 2026-11-08
 | **Essentials of Human Anatomy and Physiology**<br>人体解剖与生理学基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Human Growth and Development**<br>人类成长与发展 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Foundations of Therapeutic Recreation**<br>治疗性康复基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
-| **Introduction to Therapeutic Recreation Profession**<br>治疗性康乐职业导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
+| **Introduction to Therapeutic Recreation Profession**<br>治疗性康乐职业入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Research and Evaluation in Therapeutic Recreation**<br>治疗性娱乐中的研究与评估 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Health Promotion in Therapeutic Recreation**<br>治疗性康乐中的健康促进 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Employability Skills**<br>就业能力技能 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
-| **Introduction to Psychology 2**<br>心理学导论 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
+| **Introduction to Psychology 2**<br>心理学入门 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Physical and Cognitive Disabilities in Therapeutic Recreation Practice**<br>治疗性娱乐实践中的身体与认知障碍 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Therapeutic Recreation Process**<br>治疗性娱乐过程 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |
 | **Therapeutic Recreation for Children and Youth**<br>儿童与青少年治疗性娱乐 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Therapeutic-Recreation.aspx) |

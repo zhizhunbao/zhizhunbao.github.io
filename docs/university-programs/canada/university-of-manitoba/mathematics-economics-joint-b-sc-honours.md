@@ -11,26 +11,26 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mathematics - Economics Joint, B.Sc. Honours**<br>数学 - 经济学联合，B.Sc. 荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
-| **Introduction to Microeconomic Principles (B)**<br>微观经济学原理导论（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
-| **Introduction to Macroeconomic Principles (B)**<br>宏观经济学原理导论（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
-| **Introduction to Canadian Economic Issues and Policies (B)**<br>加拿大经济问题与政策导论（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
-| **Introduction to Global and Environmental Economic Issues and Policies (B)**<br>全球与环境经济问题与政策导论（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
+| **Introduction to Microeconomic Principles (B)**<br>微观经济学原理入门（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
+| **Introduction to Macroeconomic Principles (B)**<br>宏观经济学原理入门（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
+| **Introduction to Canadian Economic Issues and Policies (B)**<br>加拿大经济问题与政策入门（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
+| **Introduction to Global and Environmental Economic Issues and Policies (B)**<br>全球与环境经济问题与政策入门（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Linear Algebra 1**<br>线性代数 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Integral Calculus (B)**<br>积分学 (B) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Elementary Discrete Mathematics**<br>初等离散数学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
-| **Introduction to Statistics and Computing**<br>统计与计算导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
+| **Introduction to Statistics and Computing**<br>统计与计算入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Introductory Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Microeconomic Theory 1**<br>微观经济理论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Macroeconomic Theory 1**<br>宏观经济理论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Algebra 1**<br>代数 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
-| **Introduction to Analysis**<br>分析学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
+| **Introduction to Analysis**<br>分析学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Linear Algebra 2**<br>线性代数 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Multivariable Calculus**<br>多元微积分 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Real Analysis 1**<br>实分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Microeconomic Theory 2**<br>微观经济理论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Macroeconomic Theory 2**<br>宏观经济理论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
-| **Introduction to Econometrics**<br>计量经济学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
+| **Introduction to Econometrics**<br>计量经济学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Combinatorics 1**<br>组合数学 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Numerical Analysis 1**<br>数值分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Algebra 2**<br>代数 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Real Analysis 3**<br>实分析 3 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Numerical Analysis 2**<br>数值分析 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
-| **Introduction to Mathematical Modelling**<br>数学建模导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
+| **Introduction to Mathematical Modelling**<br>数学建模入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 | **Linear Algebra and Matrix Analysis**<br>线性代数与矩阵分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/mathematics/mathematics-economics-bsc-honours/) |
 
 ## Courses

@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Health Applications in Music**<br>音乐的健康应用证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
-| **Introduction to Music in Healthcare**<br>医疗保健中的音乐导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
+| **Introduction to Music in Healthcare**<br>医疗保健中的音乐入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
 | **Healthy Practices for Healthy Musicians**<br>健康音乐人的健康实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
 | **Psychology of Music**<br>音乐心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
-| **Introduction to Music Therapy**<br>音乐治疗导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
+| **Introduction to Music Therapy**<br>音乐治疗入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
 | **Health and Music Performance**<br>健康与音乐表演 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
-| **Introduction to Performance Techniques for Palliative Care**<br>姑息治疗表演技巧导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
+| **Introduction to Performance Techniques for Palliative Care**<br>姑息治疗表演技巧入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERHLTH) |
 
 ## Courses
 

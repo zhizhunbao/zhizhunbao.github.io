@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geography, B.A. General**<br>地理学，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/environment-geography/geography-ba-general/) |
-| **Introduction to Human Geography**<br>人文地理学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/environment-geography/geography-ba-general/) |
-| **Introduction to Physical Geography**<br>自然地理学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/environment-geography/geography-ba-general/) |
+| **Introduction to Human Geography**<br>人文地理学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/environment-geography/geography-ba-general/) |
+| **Introduction to Physical Geography**<br>自然地理学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/environment-geography/geography-ba-general/) |
 | **Social Justice in the 21st Century: Global Political Economy and Environmental Change**<br>21 世纪的社会正义：全球政治经济与环境变化 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/environment-geography/geography-ba-general/) |
 
 ## Courses

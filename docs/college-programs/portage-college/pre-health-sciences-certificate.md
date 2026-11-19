@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **PERSONAL HEALTH & WELLNESS**<br>个人健康与保健 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Pre-Health-Sciences-Certificate) |
 | **CAREER INTERNSHIP 1**<br>职业实习 1 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Pre-Health-Sciences-Certificate) |
 | **INTRODUCTORY PSYCHOLOGY**<br>心理学入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Pre-Health-Sciences-Certificate) |
-| **INTRODUCTION TO STATISTICS & RESEARCH METHODS**<br>统计与研究方法导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Pre-Health-Sciences-Certificate) |
+| **INTRODUCTION TO STATISTICS & RESEARCH METHODS**<br>统计与研究方法入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Pre-Health-Sciences-Certificate) |
 
 ## Courses
 

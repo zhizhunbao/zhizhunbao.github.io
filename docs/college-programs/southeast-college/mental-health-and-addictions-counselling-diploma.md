@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Mental Health and Addictions Counselling Diploma**<br>心理健康与成瘾咨询文凭 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Critical Reading and Writing**<br>批判性阅读与写作 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
-| **Introduction to Counselling Skills**<br>咨询技能导论 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
+| **Introduction to Counselling Skills**<br>咨询技能入门 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Trauma-Informed Practice**<br>创伤知情实践 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Roles, Responsibilities and Ethics**<br>角色、职责与伦理 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Conflict Resolution**<br>冲突解决 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Concurrent Disorders**<br>共病障碍 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Poly-Addictions**<br>多重成瘾 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Mental Health and Psychological Considerations**<br>心理健康与心理因素考量 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Culture and Diversity in Canadian Society**<br>加拿大社会的文化与多元性 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |
 | **Seminar**<br>研讨会 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/courses/mental-health-and-addictions-counselling-diploma/) |

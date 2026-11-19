@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Advertising & Graphic Design**<br>广告与平面设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
-| **Introduction to Advertising**<br>广告学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
+| **Introduction to Advertising**<br>广告学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
 | **Innovative Design**<br>创新设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
 | **Web Design**<br>网页设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
 | **Communication Skills**<br>沟通技能 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Creative Advertising 1**<br>创意广告 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
 | **Media Technology 1**<br>媒体技术 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
-| **Introduction to Copywriting**<br>文案写作导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
+| **Introduction to Copywriting**<br>文案写作入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
 | **Marketing Strategies**<br>营销策略 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
 | **Typography 2**<br>字体排印 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |
 | **Field Experience - Advertising Graphic Design**<br>实地体验 - 广告平面设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/advertising-graphic-design) |

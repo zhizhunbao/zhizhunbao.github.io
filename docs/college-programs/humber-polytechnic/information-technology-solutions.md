@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/information-technology-solutions) |
 | **Java Programing 1**<br>Java编程 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/information-technology-solutions) |
 | **Web Programming and Design**<br>Web编程与设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/information-technology-solutions) |
-| **Introduction to Database and SQL**<br>数据库与SQL导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/information-technology-solutions) |
+| **Introduction to Database and SQL**<br>数据库与SQL入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/information-technology-solutions) |
 | **Requirement Analysis and Process Modelling**<br>需求分析与流程建模 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/information-technology-solutions) |
 | **XML and Java Script**<br>XML与JavaScript | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/information-technology-solutions) |
 | **Fundamentals of Data Analytics**<br>数据分析基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/information-technology-solutions) |

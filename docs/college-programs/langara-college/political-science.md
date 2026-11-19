@@ -11,27 +11,27 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Political Science**<br>政治学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree) |
-| **Introduction to Government and Politics**<br>政府与政治导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
+| **Introduction to Government and Politics**<br>政府与政治入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Canadian Politics and Government**<br>加拿大政治与政府 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Peace and Conflict in the Modern World**<br>现代世界的和平与冲突 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Contemporary Ideologies**<br>当代意识形态 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Special Topics I**<br>专题 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Politics in the Developing Nations**<br>发展中国家政治 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Canadian Public Policy**<br>加拿大公共政策 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Canadian Public Administration**<br>加拿大公共行政 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
-| **Introduction to Urban Politics**<br>城市政治导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
+| **Introduction to Urban Politics**<br>城市政治入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Topics in Canadian Politics**<br>加拿大政治专题 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **International Political Economy**<br>国际政治经济学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **BC Politics & Government**<br>BC 省政治与政府 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Comparative Politics: Western Liberal Democracies**<br>比较政治：西方自由民主国家 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Surveillance and Terror: The Politics of Totalitarianism**<br>监控与恐怖：极权主义政治 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
-| **Introduction to Western Political Thought**<br>西方政治思想导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
-| **Introduction to Western Feminist Social and Political Thought**<br>西方女性主义社会与政治思想导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
+| **Introduction to Western Political Thought**<br>西方政治思想入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
+| **Introduction to Western Feminist Social and Political Thought**<br>西方女性主义社会与政治思想入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Special Topics II**<br>专题 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Reading and Writing about Literature**<br>文学阅读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/political-science-associate-arts-degree/courses) |
 
 ## Courses

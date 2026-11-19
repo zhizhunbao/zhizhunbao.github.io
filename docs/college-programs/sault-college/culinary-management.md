@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Contemporary Food Production**<br>当代食品生产 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/culinary/culinary-management) |
 | **Co-op Placement I**<br>合作教育实习 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/culinary/culinary-management) |
 | **Global Citizenship**<br>全球公民意识 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/culinary/culinary-management) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/culinary/culinary-management) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/culinary/culinary-management) |
 | **Exploring International Cuisine**<br>探索国际美食 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/culinary/culinary-management) |
 | **Modern Baking and Pastry**<br>现代烘焙与糕点 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/culinary/culinary-management) |
 | **Menu Planning and Development**<br>菜单规划与开发 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/culinary/culinary-management) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Curriculum and Pedagogy in Elementary School Social Studies**<br>小学社会学科课程与教学法 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 | **Language Arts in the Elementary School**<br>小学语言艺术 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 | **Communication Through Mathematics Education**<br>通过数学教育进行沟通 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
-| **Introduction to Curriculum and Pedagogy in Elementary School Physical Education**<br>小学体育课程与教学法导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
+| **Introduction to Curriculum and Pedagogy in Elementary School Physical Education**<br>小学体育课程与教学法入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 | **Aboriginal Education and Contexts for Professional and Personal Engagement**<br>原住民教育与专业及个人参与的背景 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 | **Teaching Language Arts in Cross-Cultural Environments**<br>跨文化环境中的语言艺术教学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 | **Curriculum and Pedagogy in Elementary School Science**<br>小学科学课程与教学法 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Curriculum and Pedagogy in Elementary School Music**<br>小学音乐课程与教学法 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 | **Teaching Literature in Elementary Schools**<br>小学文学教学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 | **Ethics and Law in Teaching**<br>教学中的伦理与法律 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
-| **Introduction to Inclusive Education: Adapting Classroom Instruction for Students with Special Needs**<br>融合教育导论：为特殊需要学生调整课堂教学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
+| **Introduction to Inclusive Education: Adapting Classroom Instruction for Students with Special Needs**<br>融合教育入门：为特殊需要学生调整课堂教学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 | **Elementary Route: Advanced Field Experience**<br>小学路径：高级实地经验 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/education-early-learning/bachelor-of-education-elementary/) |
 
 ## Courses

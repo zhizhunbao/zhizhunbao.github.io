@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Embedded Systems Development**<br>嵌入式系统开发 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/embedded-systems-development-postgraduate-program-t415) |
-| **Introduction to Embedded Systems**<br>嵌入式系统导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/embedded-systems-development-postgraduate-program-t415) |
+| **Introduction to Embedded Systems**<br>嵌入式系统入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/embedded-systems-development-postgraduate-program-t415) |
 | **Microcontroller Architecture and Programming**<br>微控制器架构与编程 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/embedded-systems-development-postgraduate-program-t415) |
 | **Circuits and Signal Processing for Embedded Systems**<br>嵌入式系统电路与信号处理 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/embedded-systems-development-postgraduate-program-t415) |
 | **Embedded Systems Communications**<br>嵌入式系统通信 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/embedded-systems-development-postgraduate-program-t415) |

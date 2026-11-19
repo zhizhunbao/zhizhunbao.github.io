@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Post-Degree Diploma in Information Technology Management**<br>信息技术管理学位后文凭 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
-| **Introduction to Workplace Communications**<br>职场沟通导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
+| **Introduction to Workplace Communications**<br>职场沟通入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Management Skills for Supervisors**<br>主管管理技能 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
 | **Principles of Corporate Finance II**<br>公司金融原理 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
 | **Business Law: Principles and Applications**<br>商法：原理与应用 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/business-management-post-degree-diploma-information-technology-specialization/) |
 
 ## Courses
 

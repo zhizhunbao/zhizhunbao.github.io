@@ -10,7 +10,7 @@ ms.date: 2026-11-11
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **Micro-Diploma in Introduction to German Language, Life, and Culture**<br>德语语言、生活与文化导论微型文凭 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/micro-diploma-german-language-life-culture/) |
+| **Micro-Diploma in Introduction to German Language, Life, and Culture**<br>德语语言、生活与文化入门微型文凭 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/micro-diploma-german-language-life-culture/) |
 | **Introductory German 1 (A)**<br>德语入门 1（A） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/micro-diploma-german-language-life-culture/) |
 | **Introductory German 2 (A)**<br>德语入门 2（A） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/micro-diploma-german-language-life-culture/) |
 | **Discovering German Life and Culture (C)**<br>探索德国生活与文化 (C) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/micro-diploma-german-language-life-culture/) |

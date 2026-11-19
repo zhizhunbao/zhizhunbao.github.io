@@ -1,10 +1,10 @@
 ---
-title: "3.2.3 Archaeology and Materials (Course 3-C)"
+title: "4.2.3 Archaeology and Materials (Course 3-C)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Archaeology and Materials (Course 3-C): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.3 Archaeology and Materials (Course 3-C)
+# 4.2.3 Archaeology and Materials (Course 3-C)
 
 ## Glossary
 
@@ -18,20 +18,20 @@ ms.date: 2026-11-18
 | **Mechanics of Materials**<br>材料力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Materials Processing**<br>材料加工 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Archaeological Science**<br>考古科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
-| **The Human Past: Introduction to Archaeology**<br>人类的过去：考古学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
+| **The Human Past: Introduction to Archaeology**<br>人类的过去：考古学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Human Evolution: Data from Palaeontology, Archaeology, and Materials Science**<br>人类进化：来自古生物学、考古学与材料科学的证据 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Seminar in Archaeological Method and Theory (CI-M)**<br>考古学方法与理论研讨课（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
-| **Introduction to Computer Science and Programming**<br>计算机科学与编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
+| **Introduction to Computer Science and Programming**<br>计算机科学与编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
-| **Introduction to Anthropology: Comparing Human Cultures**<br>人类学导论：比较人类文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
+| **Introduction to Anthropology: Comparing Human Cultures**<br>人类学入门：比较人类文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Undergraduate Thesis**<br>本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Ancient Mesoamerican Civilization**<br>古代中美洲文明 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Maya City Building: Materials, Technology, and Ecology in an Ancient Society**<br>玛雅城市建设：古代社会的材料、技术与生态 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
-| **Introduction to Ceramics**<br>陶艺导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
+| **Introduction to Ceramics**<br>陶艺入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Materials in Human Experience**<br>人类经验中的材料 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Ancient Engineering: Ceramic Technologies**<br>古代工程：陶瓷技术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |
 | **Modern Physical Metallurgy**<br>现代物理冶金学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/) |

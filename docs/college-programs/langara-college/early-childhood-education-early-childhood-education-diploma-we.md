@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Exploring the Environment I**<br>环境探索 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Foundations of Early Childhood Education**<br>幼儿教育基础 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Knowing the Individual Child**<br>了解儿童个体 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
-| **Introduction to Program Planning**<br>项目规划导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
+| **Introduction to Program Planning**<br>项目规划入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Child Growth and Development ll**<br>儿童成长与发展 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Exploring the Environment II**<br>环境探索 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Practicum III**<br>实习 III | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Health, Nutrition and Safety**<br>健康、营养与安全 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Infant and Toddler Practicum**<br>婴幼儿实习 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
-| **Introduction to Early Childhood Special Education**<br>幼儿特殊教育导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
+| **Introduction to Early Childhood Special Education**<br>幼儿特殊教育入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Human Relations**<br>人际关系 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Special Education Program Planning**<br>特殊教育方案规划 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |
 | **Early Childhood: Special Education Practicum**<br>幼儿期：特殊教育实习 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-diploma-we/courses) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Web Interface Design**<br>网页界面设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Functions and Number Systems**<br>函数与数系 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
-| **Introduction to Database Concepts**<br>数据库概念导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
+| **Introduction to Database Concepts**<br>数据库概念入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Programming 2**<br>编程 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Client-Side Web Development**<br>客户端Web开发 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Software Requirements Engineering**<br>软件需求工程 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **College Communications 2**<br>学院交流 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Java Programming**<br>Java 编程 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Web Application Development**<br>Web应用开发 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Artificial Intelligence Systems Design**<br>人工智能系统设计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Linear Algebra and Statistics**<br>线性代数与统计学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |
 | **Advanced Database Concepts**<br>高级数据库概念 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence) |

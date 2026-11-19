@@ -1,10 +1,10 @@
 ---
-title: "3.3.111 Human Genetics and Genetic Counseling, Master of Science"
+title: "4.3.111 Human Genetics and Genetic Counseling, Master of Science"
 description: "University Programs > United States > Stanford University > Human Genetics and Genetic Counseling, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.111 Human Genetics and Genetic Counseling, Master of Science
+# 4.3.111 Human Genetics and Genetic Counseling, Master of Science
 
 ## Glossary
 
@@ -12,8 +12,8 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Human Genetics and Genetic Counseling, Master of Science**<br>人类遗传学与遗传咨询，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |
 | **Human Molecular Genetics and Cytogenetics**<br>人类分子遗传学与细胞遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |
-| **Introduction to Medical Genetics**<br>医学遗传学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |
-| **Introduction to Clinical Genetics Testing**<br>临床遗传检测导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |
+| **Introduction to Medical Genetics**<br>医学遗传学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |
+| **Introduction to Clinical Genetics Testing**<br>临床遗传检测入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |
 | **A Case Based Approach to Clinical Genetics**<br>基于案例的临床遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |
 | **Role Play and Genetic Counseling Observations**<br>角色扮演与遗传咨询观察 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |
 | **Prenatal Genetic Counseling**<br>产前遗传咨询 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/human-genetics-and-genetic-counseling/master-of-science) |

@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Office Administration – General**<br>办公室管理 – 通用 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
 | **Computer Applications for Business**<br>商业计算机应用 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
 | **Business Math I**<br>商业数学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Communications in the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
 | **Indigenous Culture & Awareness**<br>原住民文化与意识 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
 | **Computer Applications II**<br>计算机应用 II | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
-| **Introduction to Computerized Bookkeeping**<br>计算机记账导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
+| **Introduction to Computerized Bookkeeping**<br>计算机记账入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
 | **Placement I**<br>实习 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
 | **Administrative Procedures**<br>行政程序 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/office-admin-general/) |
 

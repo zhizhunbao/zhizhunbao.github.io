@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baking and Pastry Arts Management**<br>烘焙与糕点艺术管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/baking-pastry-arts-management/) |
-| **Introduction to Baking Principles**<br>烘焙原理导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/baking-pastry-arts-management/) |
+| **Introduction to Baking Principles**<br>烘焙原理入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/baking-pastry-arts-management/) |
 | **Baking and Pastry Techniques I**<br>烘焙与糕点技术 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/baking-pastry-arts-management/) |
 | **Baking Essentials I**<br>烘焙基础 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/baking-pastry-arts-management/) |
 | **Baking and Pastry Techniques II**<br>烘焙与糕点技术 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/baking-pastry-arts-management/) |

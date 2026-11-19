@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece/courses?id=36194) |
 | **Health Safety & Nutrition**<br>健康安全与营养 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece/courses?id=36194) |
 | **Child Development and Responsive Relationships**<br>儿童发展与回应式关系 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece/courses?id=36194) |
-| **Introduction to Early Learning, Curriculum, and Pedagogy**<br>幼儿学习、课程与教学法导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece/courses?id=36194) |
+| **Introduction to Early Learning, Curriculum, and Pedagogy**<br>幼儿学习、课程与教学法入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece/courses?id=36194) |
 | **Professional Practice in the Early Years**<br>幼儿期的专业实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece/courses?id=36194) |
 | **Field Placement II (Early Childhood Education)**<br>实地实习 II（幼儿教育） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece/courses?id=36194) |
 | **Safety in the Workplace**<br>工作场所安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/early-childhood-education-fast-track-ece/courses?id=36194) |

@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Advanced Health Assessment for Bridging Students**<br>面向衔接学生的高级健康评估 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnb) |
 | **Research & Evidence-Informed Practice**<br>研究与循证实践 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnb) |
 | **Mental Health & Addictions**<br>精神健康与成瘾 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnb) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnb) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnb) |
 | **Clinical Transition from RPN to RN Student Practice**<br>从RPN到RN的临床过渡学生实践 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnb) |
 | **Degree Level Non Core Elective**<br>学位级非核心选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnb) |
 | **Community 3: Population & Global Health**<br>社区 3：人群与全球健康 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnb) |

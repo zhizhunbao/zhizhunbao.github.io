@@ -14,19 +14,19 @@ ms.date: 2026-11-08
 | **Critical Writing and Reading: Poetry and Drama**<br>批判性写作与阅读：诗歌与戏剧 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Critical Writing and Reading: Short Fiction and the Novel**<br>批判性写作与阅读：短篇小说与长篇小说 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Critical Writing and Reading: Narrative**<br>批判性写作与阅读：叙事 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
-| **Introduction to Creative Writing I**<br>创意写作导论 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
-| **Introduction to Creative Writing II**<br>创意写作导论 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
+| **Introduction to Creative Writing I**<br>创意写作入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
+| **Introduction to Creative Writing II**<br>创意写作入门 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Applied Publishing Skills**<br>应用出版技能 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Design Foundations**<br>设计基础 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
-| **Introduction to Mass Communication**<br>大众传播导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
+| **Introduction to Mass Communication**<br>大众传播入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Journalism Fundamentals**<br>新闻学基础 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
-| **Introduction to Digital Media**<br>数字媒体导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
+| **Introduction to Digital Media**<br>数字媒体入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
-| **Introduction to Publication Design**<br>出版物设计导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
+| **Introduction to Publication Design**<br>出版物设计入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Advanced Publication Design**<br>高级出版物设计 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Small Press Publishing in Canada from Curation to Production**<br>加拿大小型出版社出版：从策展到制作 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
-| **Applied Publishing Studies: Introduction to Book Arts**<br>应用出版研究：书籍艺术导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
+| **Applied Publishing Studies: Introduction to Book Arts**<br>应用出版研究：书籍艺术入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Women in Literature**<br>文学中的女性 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Survey of English Literature I**<br>英国文学概论 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |
 | **Studies in Children's Literature**<br>儿童文学研究 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/diploma-in-writing-and-publishing-english) |

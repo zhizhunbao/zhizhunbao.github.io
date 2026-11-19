@@ -48,7 +48,7 @@ ms.date: 2026-11-11
 | **Tectonic Evolution of North America**<br>北美构造演化 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geological-sciences) |
 | **Elemental and Isotopic Geochemistry**<br>元素与同位素地球化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geological-sciences) |
 | **Environmental, Geotechnical, and Exploration Geophysics I**<br>环境、岩土与勘探地球物理学 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geological-sciences) |
-| **Introduction to Research in Environmental Science**<br>环境科学研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geological-sciences) |
+| **Introduction to Research in Environmental Science**<br>环境科学研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geological-sciences) |
 
 ## Courses
 

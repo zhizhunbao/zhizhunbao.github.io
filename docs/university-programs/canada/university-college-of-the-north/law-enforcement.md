@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Canadian Judicial System**<br>加拿大司法体系 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Community Problem Solving**<br>社区问题解决 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Youth and the Law**<br>青少年与法律 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
-| **Introduction to Corrections**<br>惩教导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
+| **Introduction to Corrections**<br>惩教入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Law Enforcement Career Exploration**<br>执法职业探索 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Tour of RCMP Depot**<br>加拿大皇家骑警训练学院参观 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Interpersonal Communication for Law Enforcement**<br>执法人员人际沟通 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Surviving a Behavioural-Based Interview**<br>应对行为面试 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Fitness Preparation**<br>体能准备 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Special Topics in Law Enforcement**<br>执法专题 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
-| **Introduction to Keyboarding**<br>键盘输入导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
+| **Introduction to Keyboarding**<br>键盘输入入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Restorative Justice 1**<br>恢复性司法 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Boat Pro Course**<br>船艇专业课程 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |
 | **Mental Health First Aid**<br>心理健康急救 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=62) |

@@ -11,16 +11,16 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Digital Marketing Communication (Honours) (Co-op) Pathway for Public Relations**<br>数字营销传播学士（荣誉）（带薪实习）衔接课程（面向公共关系） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/business-hospitality/program/bachelor-of-digital-marketing-communication-honours-pathway-for-public-relations/) |
-| **Introduction to Digital Media and Communications**<br>数字媒体与传播导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
+| **Introduction to Digital Media and Communications**<br>数字媒体与传播入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Digital Analytics I**<br>数字分析 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Digital Storytelling**<br>数字叙事 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Audience and Media Insight**<br>受众与媒体洞察 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Cooperative Education and Job Readiness**<br>合作教育与就业准备 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Digital Media Buying**<br>数字媒体购买 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Digital Analytics 2**<br>数字分析 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
-| **Introduction to Creative Design**<br>创意设计导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
+| **Introduction to Creative Design**<br>创意设计入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Co-Op Job Search 1**<br>带薪实习求职 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Trendspotting in a Global Environment**<br>全球环境中的趋势洞察 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Bachelor of Digital Marketing Communication Co-Op Work Term I**<br>数字营销传播学士带薪实习学期 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-08
 | **Navigating Canada's Political Landscape**<br>解读加拿大政治格局 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Bachelor of Digital Marketing Communication Co-Op Work Term II**<br>数字营销传播学士带薪实习学期 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |
 | **Multicultural Communications**<br>多元文化传播 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6450B03FWO.pdf) |

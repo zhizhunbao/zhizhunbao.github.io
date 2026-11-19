@@ -1,10 +1,10 @@
 ---
-title: "3.4.48 History of Art (B.A.)"
+title: "4.4.48 History of Art (B.A.)"
 description: "University Programs > United States > Yale University > History of Art (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.48 History of Art (B.A.)
+# 4.4.48 History of Art (B.A.)
 
 ## Glossary
 

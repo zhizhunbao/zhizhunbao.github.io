@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Applied Data Analytics and Visualization**<br>应用数据分析与可视化 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/applied-data-analytics-and-visualization) |
 | **Statistics and Data Analytics**<br>统计与数据分析 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/applied-data-analytics-and-visualization) |
-| **Introduction to Data Analytics and Information Systems**<br>数据分析与信息系统导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/applied-data-analytics-and-visualization) |
+| **Introduction to Data Analytics and Information Systems**<br>数据分析与信息系统入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/applied-data-analytics-and-visualization) |
 | **Databases, Data Governance and Data Management**<br>数据库、数据治理与数据管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/applied-data-analytics-and-visualization) |
 | **Applied Data Analytics with AI and Cloud Platforms 1**<br>结合AI与云平台的应用数据分析1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/applied-data-analytics-and-visualization) |
 | **Applied Data Analytics and Visualization Platforms**<br>应用数据分析与可视化平台 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/applied-data-analytics-and-visualization) |

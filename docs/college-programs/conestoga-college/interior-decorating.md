@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Staging and Composition**<br>布景与构图 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/interior-decorating/courses?id=33939) |
 | **Computer Aided Drafting and Design I**<br>计算机辅助制图与设计 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/interior-decorating/courses?id=33939) |
 | **Studio I - Interior Decorating**<br>工作室 I - 室内装饰 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/interior-decorating/courses?id=33939) |
-| **Introduction to Sustainable Design**<br>可持续设计导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/interior-decorating/courses?id=33939) |
+| **Introduction to Sustainable Design**<br>可持续设计入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/interior-decorating/courses?id=33939) |
 | **Residential Construction and Design**<br>住宅建筑与设计 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/interior-decorating/courses?id=33939) |
 | **Lighting-Methods and Fixtures**<br>照明方法与灯具 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/interior-decorating/courses?id=33939) |
 | **Safety in the Workplace**<br>工作场所安全 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/interior-decorating/courses?id=33939) |

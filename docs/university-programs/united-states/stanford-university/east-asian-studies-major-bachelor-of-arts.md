@@ -1,10 +1,10 @@
 ---
-title: "3.3.25 East Asian Studies, Major: Bachelor of Arts"
+title: "4.3.25 East Asian Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > East Asian Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.25 East Asian Studies, Major: Bachelor of Arts
+# 4.3.25 East Asian Studies, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -42,8 +42,8 @@ ms.date: 2026-11-18
 | **Japanese Anthropology**<br>日本人类学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
 | **Tokyo, Kyoto, Osaka and Beyond: Place in Modern Japan**<br>东京、京都、大阪及其他：现代日本的地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
 | **Japanese Functional Objects**<br>日本功能性物品 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
-| **Introduction to Modern Japanese Literature and Culture**<br>现代日本文学与文化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
-| **Introduction to Premodern Japanese**<br>前现代日语导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
+| **Introduction to Modern Japanese Literature and Culture**<br>现代日本文学与文化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
+| **Introduction to Premodern Japanese**<br>前现代日语入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
 | **Readings in Premodern Japanese**<br>前现代日语读本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
 | **The Japanese Tea Ceremony: The History, Aesthetics, and Politics Behind a National Pastime**<br>日本茶道：一项全民消遣背后的历史、美学与政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |
 | **Sharing Conversations Across Generations: The Magic of Haiku**<br>跨代对话：俳句的魔力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/east-asian-studies/bachelor-of-arts) |

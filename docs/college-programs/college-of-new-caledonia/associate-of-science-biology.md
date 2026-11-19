@@ -17,15 +17,15 @@ ms.date: 2026-11-08
 | **Cellular & Organismal Biology**<br>细胞与生物体生物学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **Genetics, Evolution & Ecology**<br>遗传学、进化与生态学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **Cell Structure**<br>细胞结构 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
-| **Intro to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
+| **Intro to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **Microbiology**<br>微生物学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **Introductory Genetics**<br>遗传学入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **Fundamentals of Chemistry I**<br>化学基础 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
-| **Introduction to Chemistry I**<br>化学导论 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
+| **Introduction to Chemistry I**<br>化学入门 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **Fundamentals of Chemistry II**<br>化学基础 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
-| **Introduction to Chemistry II**<br>化学导论 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
+| **Introduction to Chemistry II**<br>化学入门 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **General Physics I**<br>普通物理 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 | **General Physics II**<br>普通物理 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/associate-of-science-biology) |
 

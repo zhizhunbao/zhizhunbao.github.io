@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Certifications**<br>认证 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/hospitality-hotel-restaurant) |
 | **Hospitality Career Development And Preparation**<br>酒店业职业发展与准备 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/hospitality-hotel-restaurant) |
 | **Intro To Food & Beverage I**<br>餐饮入门 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/hospitality-hotel-restaurant) |
-| **Introduction To Cost Control**<br>成本控制导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/hospitality-hotel-restaurant) |
+| **Introduction To Cost Control**<br>成本控制入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/hospitality-hotel-restaurant) |
 | **Hospitality Finance**<br>酒店财务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/hospitality-hotel-restaurant) |
 | **Bartending**<br>调酒 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/hospitality-hotel-restaurant) |
 | **Accommodations Operations II**<br>住宿运营 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/hospitality-hotel-restaurant) |

@@ -14,26 +14,26 @@ ms.date: 2026-11-08
 | **Structural and Functional Anatomy**<br>结构与功能解剖学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Essentials of Human Physiology**<br>人体生理学基础 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Integrative Human Physiology**<br>综合人体生理学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
-| **Introduction to Sociocultural Aspects of Leisure and Sport**<br>休闲与体育社会文化方面导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
+| **Introduction to Sociocultural Aspects of Leisure and Sport**<br>休闲与体育社会文化方面入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Statistics, Measurement and Evaluation**<br>统计、测量与评估 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
-| **Introduction to Human Movement**<br>人体运动导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
-| **Introduction to Personal Physical Fitness**<br>个人体能导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
+| **Introduction to Human Movement**<br>人体运动入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
+| **Introduction to Personal Physical Fitness**<br>个人体能入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Movement Foundations in Yoga and Fitness**<br>瑜伽与健身运动基础 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
-| **Introduction to Individual Movement Skills**<br>个人运动技能导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
-| **Introduction to Coaching Theory**<br>教练理论导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
-| **Introduction to the Movement Activities of Children**<br>儿童运动活动导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
+| **Introduction to Individual Movement Skills**<br>个人运动技能入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
+| **Introduction to Coaching Theory**<br>教练理论入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
+| **Introduction to the Movement Activities of Children**<br>儿童运动活动入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **A Conceptual Approach to Physical Activity**<br>体育活动的概念性方法 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Leadership in Resistance Training**<br>阻力训练领导力 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Advanced Training Methodologies**<br>高级培训方法 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **The Spectrum of Dance in Society**<br>舞蹈在社会中的多样形态 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
-| **Introduction to the Administration of Sport, Physical Activity and Recreation Programs**<br>体育、体育活动与休闲项目管理导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
+| **Introduction to the Administration of Sport, Physical Activity and Recreation Programs**<br>体育、体育活动与休闲项目管理入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Exercise Physiology**<br>运动生理学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Skill Acquisition and Performance**<br>技能习得与表现 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Leisure and Sport in Canadian Society: Historical Perspectives**<br>加拿大社会中的休闲与体育：历史视角 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Biomechanics**<br>生物力学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Adapted Sport and Physical Activity for Diverse Populations**<br>面向多元人群的适应性运动与体育活动 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Human Growth and Motor Development**<br>人体生长与运动发育 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
-| **Introduction to Athletic Injuries**<br>运动损伤导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
+| **Introduction to Athletic Injuries**<br>运动损伤入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Research Methods in Kinesiology**<br>运动学研究方法 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 | **Psychology of Sport and Physical Activity**<br>运动与体育活动心理学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/kinesiology-university-transfer) |
 

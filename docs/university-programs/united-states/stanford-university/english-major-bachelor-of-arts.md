@@ -1,29 +1,29 @@
 ---
-title: "3.3.31 English, Major: Bachelor of Arts"
+title: "4.3.31 English, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > English, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.31 English, Major: Bachelor of Arts
+# 4.3.31 English, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **English, Major: Bachelor of Arts**<br>英语，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English I: What Is Literary History?**<br>英语导论 I：什么是文学史？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English I: Women, Gender, and Sexuality in Early British Literature**<br>英语导论 I：早期英国文学中的女性、性别与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English I: Tradition and Individuality, Medieval to Early Modern**<br>英语导论 I：传统与个性，从中世纪到近代早期 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Intro to English I: Love and Death from Chaucer to Milton**<br>英语导论 I：从乔叟到弥尔顿的爱与死 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Intro to English I: The Natural World in Early English Literary History**<br>英语导论 I：早期英国文学史中的自然世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Intro to English I: Voice and Style in Medieval and Renaissance Literature**<br>英语导论 I：中世纪与文艺复兴文学中的声音与风格 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English I: What Women Want in Med/Ren Literature**<br>英语导论 I：中世纪与文艺复兴文学中女性想要什么 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English II: From Milton to the Romantics**<br>英语导论 II：从弥尔顿到浪漫主义者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English II: American Literature and Culture to 1855**<br>英语导论 II：1855年以前的美国文学与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English II: Revolutionary Energies (1640-1820)**<br>英语导论 II：革命能量（1640年至1820年） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English III: Modern Literature**<br>英语导论 III：现代文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Intro to English III: Latinx Literature**<br>英语导论 III：拉丁裔文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to English III: Introduction to Modern Literature: People, Politics, Place**<br>英语导论 III：现代文学导论：人、政治、地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English I: What Is Literary History?**<br>英语入门 I：什么是文学史？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English I: Women, Gender, and Sexuality in Early British Literature**<br>英语入门 I：早期英国文学中的女性、性别与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English I: Tradition and Individuality, Medieval to Early Modern**<br>英语入门 I：传统与个性，从中世纪到近代早期 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Intro to English I: Love and Death from Chaucer to Milton**<br>英语入门 I：从乔叟到弥尔顿的爱与死 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Intro to English I: The Natural World in Early English Literary History**<br>英语入门 I：早期英国文学史中的自然世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Intro to English I: Voice and Style in Medieval and Renaissance Literature**<br>英语入门 I：中世纪与文艺复兴文学中的声音与风格 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English I: What Women Want in Med/Ren Literature**<br>英语入门 I：中世纪与文艺复兴文学中女性想要什么 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English II: From Milton to the Romantics**<br>英语入门 II：从弥尔顿到浪漫主义者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English II: American Literature and Culture to 1855**<br>英语入门 II：1855年以前的美国文学与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English II: Revolutionary Energies (1640-1820)**<br>英语入门 II：革命能量（1640年至1820年） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English III: Modern Literature**<br>英语入门 III：现代文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Intro to English III: Latinx Literature**<br>英语入门 III：拉丁裔文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to English III: Introduction to Modern Literature: People, Politics, Place**<br>英语入门 III：现代文学入门：人、政治、地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
 | **Poetry and Poetics**<br>诗歌与诗学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
 | **Narrative and Narrative Theory**<br>叙事与叙事理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
 | **Medieval Ecologies**<br>中世纪生态 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
@@ -134,7 +134,7 @@ ms.date: 2026-11-18
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
 | **Ethics, Public Policy, and Technological Change**<br>伦理、公共政策与技术变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
 | **The Politics of Algorithms**<br>算法的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/english/bachelor-of-arts) |
 

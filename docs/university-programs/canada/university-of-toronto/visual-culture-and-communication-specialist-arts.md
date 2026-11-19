@@ -13,9 +13,9 @@ ms.date: 2026-11-11
 | **Visual Culture and Communication - Specialist (Arts)**<br>视觉文化与传播－专精（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
 | **Contemporary Communication Technologies**<br>当代通信技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
 | **Rhetoric and Media**<br>修辞与媒体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
-| **Introduction to Art History**<br>艺术史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
-| **Introduction to Visual Culture**<br>视觉文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
-| **An Introduction to Cinema Studies**<br>电影研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
+| **Introduction to Art History**<br>艺术史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
+| **Introduction to Visual Culture**<br>视觉文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
+| **An Introduction to Cinema Studies**<br>电影研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
 | **Writing for University and Beyond**<br>面向大学及以后的写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
 | **Design Thinking I**<br>设计思维 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |
 | **Foundations of Digital Design and Production**<br>数字设计与制作基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1200) |

@@ -1,10 +1,10 @@
 ---
-title: "3.2.56 Biomedical Engineering (MEng)"
+title: "4.2.56 Biomedical Engineering (MEng)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Biomedical Engineering (MEng): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.56 Biomedical Engineering (MEng)
+# 4.2.56 Biomedical Engineering (MEng)
 
 ## Glossary
 
@@ -13,14 +13,14 @@ ms.date: 2026-11-18
 | **Biomedical Engineering (MEng)**<br>生物医学工程（工程硕士） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
-| **Introduction to Biological Chemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
+| **Introduction to Biological Chemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **General Biochemistry**<br>普通生物化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Thermal-Fluids Engineering I**<br>热流体工程 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Electrical Circuits: Modeling and Design of Physical Systems**<br>电路：物理系统的建模与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Probability and Causal Inference**<br>概率与因果推断 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Numerical Computation for Mechanical Engineers**<br>机械工程师数值计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Molecular, Cellular, and Tissue Biomechanics**<br>分子、细胞与组织生物力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Principles of Molecular Bioengineering**<br>分子生物工程原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |
 | **Fields, Forces, and Flows in Biological Systems**<br>生物系统中的场、力与流 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/schools/engineering/biological-engineering/) |

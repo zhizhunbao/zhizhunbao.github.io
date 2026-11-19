@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Bachelor of Interdisciplinary Studies and Bachelor of Education Integrated Stream**<br>跨学科研究学士与教育学学士一体化方向 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=48) |
 | **Waskawimakanwa Meciwaci Isihtwawina**<br>Waskawimakanwa Meciwaci Isihtwawina | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=48) |
-| **Introduction to Teaching**<br>教学导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=48) |
+| **Introduction to Teaching**<br>教学入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=48) |
 | **Education Children and Youth**<br>儿童与青少年教育 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=48) |
 | **Teaching Practicum 1**<br>教学实习 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=48) |
 | **Teaching Practicum 2**<br>教学实习 2 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=48) |

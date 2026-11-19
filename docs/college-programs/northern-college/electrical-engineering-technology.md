@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Measuring Instruments**<br>测量仪器 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/electrical-engineering-technology/) |
 | **Health and Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/electrical-engineering-technology/) |
 | **Indigenous Culture & Awareness**<br>原住民文化与意识 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/electrical-engineering-technology/) |
-| **Introduction to Physics**<br>物理学导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/electrical-engineering-technology/) |
+| **Introduction to Physics**<br>物理学入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/electrical-engineering-technology/) |
 | **Mathematics I**<br>数学 I | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/electrical-engineering-technology/) |
 | **Communications in the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/electrical-engineering-technology/) |
 | **Residential Wiring and Methods**<br>住宅布线与方法 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/electrical-engineering-technology/) |

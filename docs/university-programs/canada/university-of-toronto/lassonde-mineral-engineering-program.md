@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Physical Chemistry in Engineering Practice**<br>工程实践中的物理化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Insight into Mineral Engineering**<br>矿物工程洞察 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
-| **Introduction to Mineral Engineering**<br>矿物工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
+| **Introduction to Mineral Engineering**<br>矿物工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Solid Mechanics I**<br>固体力学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Engineering Mathematics I**<br>工程数学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Fluid Mechanics I**<br>流体力学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Technology in Society and the Biosphere I**<br>社会与生物圈中的技术 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Engineering Mathematics II**<br>工程数学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Probability Theory for Civil and Mineral Engineers**<br>土木与矿业工程师概率论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
-| **Introduction to Mineralogy and Petrology**<br>矿物学与岩石学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
+| **Introduction to Mineralogy and Petrology**<br>矿物学与岩石学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Geotechnical Engineering I**<br>岩土工程 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Survey CAMP (Civil and Mineral Practicals)**<br>测量 CAMP（土木与矿业实习） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-11
 | **Aqueous Process Engineering**<br>水相过程工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Construction Engineering**<br>建筑施工工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Individual Project**<br>个人项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
-| **Introduction to Data Science for Civil and Mineral Engineers**<br>土木与矿物工程师的数据科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
+| **Introduction to Data Science for Civil and Mineral Engineers**<br>土木与矿物工程师的数据科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Groundwater Flow and Contamination**<br>地下水流动与污染 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Tunneling and Urban Excavation**<br>隧道与城市开挖 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |
 | **Geophysical Imaging with Non-seismic Methods**<br>非地震方法的地球物理成像 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aelmebasc) |

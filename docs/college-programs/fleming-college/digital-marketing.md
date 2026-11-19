@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Artificial Intelligence: Digital Marketing Supports**<br>人工智能：数字营销支持 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/digital-marketing) |
 | **Crafting a Digital Narrative**<br>打造数字叙事 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/digital-marketing) |
 | **Digital Marketing Strategy**<br>数字营销战略 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/digital-marketing) |
-| **Introduction to Digital Marketing**<br>数字营销导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/digital-marketing) |
+| **Introduction to Digital Marketing**<br>数字营销入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/digital-marketing) |
 | **Strategic Social Media**<br>战略社交媒体 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/digital-marketing) |
 | **Tools of the Digital Marketing Trade I**<br>数字营销行业工具 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/digital-marketing) |
 | **What's in a Website?**<br>网站里有什么？ | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/digital-marketing) |

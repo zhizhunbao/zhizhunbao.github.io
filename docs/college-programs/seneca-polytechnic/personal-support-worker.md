@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Personal Support Worker**<br>个人护理员 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PSWC.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PSWC/courses.html) |
-| **Introduction to Personal Support Worker**<br>个人支持工作者导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PSWC/courses.html) |
+| **Introduction to Personal Support Worker**<br>个人支持工作者入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PSWC/courses.html) |
 | **Client and Family Centred Care**<br>以客户和家庭为中心的护理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PSWC/courses.html) |
 | **Human Body and Illness Management**<br>人体与疾病管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PSWC/courses.html) |
 | **Fundamental Skills for the Personal Support Worker**<br>个人支持工作者基础技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PSWC/courses.html) |

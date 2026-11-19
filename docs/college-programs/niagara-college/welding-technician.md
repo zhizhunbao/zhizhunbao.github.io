@@ -14,13 +14,13 @@ ms.date: 2026-11-08
 | **Applied Trade Calculations**<br>应用行业计算 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Engineering Drawings**<br>工程制图 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Health and Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
-| **Introduction to Welding and Cutting Processes**<br>焊接与切割工艺导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
+| **Introduction to Welding and Cutting Processes**<br>焊接与切割工艺入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Layout and Fabrication**<br>放样与制作 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Shielded Metal Arc Welding - Flat Applications**<br>手工电弧焊 - 平焊应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Essentials of Workplace Communication**<br>职场沟通基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Mechanical Repair Technologies**<br>机械维修技术 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
-| **Introduction to Semi-Automatic Welding Processes**<br>半自动焊接工艺导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
+| **Introduction to Semi-Automatic Welding Processes**<br>半自动焊接工艺入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Weld Applications - Horizontal and Vertical**<br>焊接应用 - 水平与垂直 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Weld Quality**<br>焊接质量 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |
 | **Mechanical Engineering Drawings II**<br>机械工程制图 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/trades/program/welding-technician/) |

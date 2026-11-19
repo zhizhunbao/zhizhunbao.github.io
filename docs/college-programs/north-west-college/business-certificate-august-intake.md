@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Introductory Financial Accounting 1**<br>财务会计入门 1 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
 | **Business Solutions Software**<br>商务解决方案软件 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
 | **Automated Accounting**<br>自动化会计 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
-| **Introduction to Human Resource Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
+| **Introduction to Human Resource Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
 | **Commercial Law**<br>商法 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/business.html?ProgramID=1064&loc=1898) |

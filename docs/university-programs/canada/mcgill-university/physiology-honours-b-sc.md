@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Physiology Honours (B.Sc.)**<br>生理学荣誉（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
-| **Introduction to Dynamic Histology.**<br>动态组织学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
+| **Introduction to Dynamic Histology.**<br>动态组织学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
 | **Metabolic Biochemistry.**<br>代谢生物化学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
 | **Molecular Biology.**<br>分子生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
 | **Basic Genetics.**<br>基础遗传学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-11
 | **Mathematical Models in Biology.**<br>生物学中的数学模型 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
 | **Biometry.**<br>生物统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
 | **Computer Programming for Life Sciences.**<br>生命科学计算机编程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
-| **Introduction to Computer Science.**<br>计算机科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
+| **Introduction to Computer Science.**<br>计算机科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
 | **Statistics for Experimental Design.**<br>实验设计统计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
 | **Developmental Neurobiology Seminar.**<br>发育神经生物学研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |
 | **Biomedical Signals and Systems.**<br>生物医学信号与系统 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/) |

@@ -11,16 +11,16 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sexualities, Relationships, and Families (Bachelor of Arts - Honours)**<br>性、关系与家庭（文学学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
-| **Introduction to Sexualities, Relationships, and Families**<br>性、关系与家庭导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
+| **Introduction to Sexualities, Relationships, and Families**<br>性、关系与家庭入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
 | **The Dark Side of Sex and Sexualities**<br>性与性取向的阴暗面 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
 | **Parent and Child Relations**<br>亲子关系 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
-| **Introduction to Systemic Therapies and Anti-Oppressive Practices**<br>系统式治疗与反压迫实践导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
+| **Introduction to Systemic Therapies and Anti-Oppressive Practices**<br>系统式治疗与反压迫实践入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
 | **Sexual and Relational Ethics**<br>性与关系伦理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
 | **Capstone Seminar**<br>顶点研讨课 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
 | **A Psychological Analysis of Human Sexuality**<br>人类性行为的心理学分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
-| **Introduction to Human Sexualities**<br>人类性取向导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
+| **Introduction to Human Sexualities**<br>人类性取向入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
 | **Interpersonal Relations**<br>人际关系 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
 | **Human Sexuality in Relationships**<br>关系中的人类性行为 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |
 | **Social Issues and Controversies in Human Sexuality**<br>人类性行为的社会议题与争议 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJgDxJA0s2) |

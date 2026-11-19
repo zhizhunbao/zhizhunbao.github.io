@@ -11,15 +11,15 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Linguistics Joint Honours Component (B.A. & Sc.)**<br>语言学联合荣誉组成部分（B.A. & Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
-| **Introduction to Linguistics.**<br>语言学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
+| **Introduction to Linguistics.**<br>语言学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
 | **Phonetics.**<br>语音学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
 | **Phonology 1.**<br>音系学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
-| **Introduction to Semantics.**<br>语义学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
+| **Introduction to Semantics.**<br>语义学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
 | **Syntax 1.**<br>句法学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
 | **Joint Honours Thesis.**<br>联合荣誉论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
 | **Logic and Computability.**<br>逻辑与可计算性 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
 | **Mathematical Logic.**<br>数理逻辑 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
-| **Introduction to Deductive Logic 1.**<br>演绎逻辑导论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
+| **Introduction to Deductive Logic 1.**<br>演绎逻辑入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
 | **Linguistics of Indigenous Languages**<br>原住民语言语言学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/) |
 
 ## Courses

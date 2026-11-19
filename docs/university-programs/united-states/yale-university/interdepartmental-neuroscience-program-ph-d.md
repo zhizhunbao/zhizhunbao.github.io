@@ -1,10 +1,10 @@
 ---
-title: "3.4.141 Interdepartmental Neuroscience Program (Ph.D.)"
+title: "4.4.141 Interdepartmental Neuroscience Program (Ph.D.)"
 description: "University Programs > United States > Yale University > Interdepartmental Neuroscience Program (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.141 Interdepartmental Neuroscience Program (Ph.D.)
+# 4.4.141 Interdepartmental Neuroscience Program (Ph.D.)
 
 ## Glossary
 
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **Integrated Workshop**<br>综合工作坊 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Unsupervised Learning for Big Data**<br>大数据无监督学习 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Genomic Methods for Genetic Analysis**<br>遗传分析的基因组方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
-| **Introduction to Biostatistics in Clinical Investigation**<br>临床研究中的生物统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
+| **Introduction to Biostatistics in Clinical Investigation**<br>临床研究中的生物统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Genomics and Epigenetics of the Brain using R**<br>基于R的脑基因组学与表观遗传学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Modeling Biological Systems II**<br>生物系统建模 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Computational Vision and Biological Perception**<br>计算视觉与生物感知 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
@@ -30,12 +30,12 @@ ms.date: 2026-11-18
 | **Algorithms of the Mind**<br>心智的算法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Computational Methods in Human Neuroscience**<br>人类神经科学中的计算方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
-| **Introductory Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
-| **Introduction to Statistics: Life Sciences**<br>统计学导论：生命科学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
-| **Introduction to Statistics: Data Analysis**<br>统计学导论：数据分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
-| **Intensive Introductory Statistics**<br>强化统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
+| **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
+| **Introduction to Statistics: Life Sciences**<br>统计学入门：生命科学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
+| **Introduction to Statistics: Data Analysis**<br>统计学入门：数据分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
+| **Intensive Introductory Statistics**<br>强化统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Data Exploration and Analysis**<br>数据探索与分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
-| **Introductory Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
+| **Introductory Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Advances in Large Language Models: Theory and Applications**<br>大语言模型进展：理论与应用 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Grantsmanship and Preparing Training Award Applications**<br>基金申请技巧与培训奖项申请准备 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |
 | **Molecular Cell Biology**<br>分子细胞生物学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/interdepartmental-neuroscience-program/) |

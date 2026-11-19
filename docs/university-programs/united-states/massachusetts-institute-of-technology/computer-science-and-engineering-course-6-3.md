@@ -1,34 +1,34 @@
 ---
-title: "3.2.20 Computer Science and Engineering (Course 6-3)"
+title: "4.2.20 Computer Science and Engineering (Course 6-3)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science and Engineering (Course 6-3): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.20 Computer Science and Engineering (Course 6-3)
+# 4.2.20 Computer Science and Engineering (Course 6-3)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Science and Engineering (Course 6-3)**<br>计算机科学与工程（Course 6-3） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Programming and Computer Science**<br>编程与计算机科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Programming and Computer Science**<br>编程与计算机科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Fundamentals of Programming**<br>编程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Software Construction**<br>软件构造 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Computability and Complexity Theory**<br>可计算性与复杂性理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Computer Systems Engineering (CI-M)**<br>计算机系统工程（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Operating System Engineering**<br>操作系统工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Database Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Low-level Programming in C and Assembly**<br>C 与汇编低级编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Low-level Programming in C and Assembly**<br>C 与汇编低级编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Computation Structures**<br>计算结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Inference**<br>推断导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Inference**<br>推断入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) |
 

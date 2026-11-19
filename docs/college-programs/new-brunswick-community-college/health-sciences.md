@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Sciences**<br>健康科学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |
-| **Introduction to Medical Terminology**<br>医学术语导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |
+| **Introduction to Medical Terminology**<br>医学术语入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |
-| **Introduction to the Healthcare Profession**<br>医疗职业导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |
+| **Introduction to the Healthcare Profession**<br>医疗职业入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |
 | **Clinical: Health Science**<br>临床：健康科学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |
 | **Mental Health Concepts**<br>心理健康概念 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |
 | **Geriatric Nursing Concepts and Care**<br>老年护理概念与照护 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=6e1eb1c5-be03-4502-8496-11459e502a19) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Bachelor of Fine Arts in Acting**<br>表演美术学士 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-acting/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-acting/) |
-| **Introduction to the Practice of Theatre: Backstage**<br>戏剧实践导论：幕后 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-acting/) |
+| **Introduction to the Practice of Theatre: Backstage**<br>戏剧实践入门：幕后 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-acting/) |
 | **Ensemble I**<br>合奏 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-acting/) |
 | **Techniques I: Body/Voice/Speech**<br>技巧 I：身体/嗓音/言语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-acting/) |
 | **Techniques II: Body/Voice/Speech**<br>技巧 II：身体/嗓音/言语 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/bachelor-fine-arts-acting/) |

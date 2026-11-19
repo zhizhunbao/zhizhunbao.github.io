@@ -15,13 +15,13 @@ ms.date: 2026-11-08
 | **Children, Play and Creativity**<br>儿童、游戏与创造力 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Child Development: Prenatal to 2 and a Half Years**<br>儿童发展：产前至2.5岁 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Promoting Health and Safety**<br>促进健康与安全 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
-| **Introduction to the Early Childhood Education Profession**<br>幼儿教育职业导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
+| **Introduction to the Early Childhood Education Profession**<br>幼儿教育职业入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Understanding Children through Observation**<br>通过观察了解儿童 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Critical Communications 1**<br>关键沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Curriculum Design**<br>课程设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Child Development: 2 to 6 Years**<br>儿童发展：2至6岁 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Field Experience 1 - Early Childhood Education**<br>实地体验 1 - 幼儿教育 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Critical Communications 2**<br>关键沟通 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Field Experience 2 - Early Childhood Education**<br>实地体验 2 - 幼儿教育 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |
 | **Creating Inclusive Environments**<br>创建包容性环境 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/early-childhood-education) |

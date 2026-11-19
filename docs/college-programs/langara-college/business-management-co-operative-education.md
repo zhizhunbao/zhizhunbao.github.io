@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Management (Co-operative Education)**<br>商业管理（带薪实习） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op) |
-| **Introduction to Digital Literacy**<br>数字素养导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
-| **Introduction to Business in Canada**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
+| **Introduction to Digital Literacy**<br>数字素养入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
+| **Introduction to Business in Canada**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Business Presentation Skills**<br>商务演示技能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Business Planning**<br>商业规划 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Employment Strategies for Current Labour Markets**<br>当前劳动力市场的就业策略 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Marketing Research**<br>市场调研 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Basic Probability and Statistics for Business**<br>商务基础概率与统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Statistical Methods I**<br>统计方法 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
@@ -32,8 +32,8 @@ ms.date: 2026-11-08
 | **Financial Accounting Overview**<br>财务会计概述 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |
 | **Mathematics of Business Affairs**<br>商务事务数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-co-operative-education-diploma-co-op/courses) |

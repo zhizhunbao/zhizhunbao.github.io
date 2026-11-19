@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Major in Anthropology**<br>人类学主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-anthropology/) |
 | **Social and Cultural Anthropology**<br>社会与文化人类学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-anthropology/) |
-| **Introduction to Research Methods in Anthropology**<br>人类学研究方法导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-anthropology/) |
+| **Introduction to Research Methods in Anthropology**<br>人类学研究方法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-anthropology/) |
 | **Classical Theories in Anthropology**<br>人类学经典理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-anthropology/) |
 | **Anthropology and Indigenous Peoples**<br>人类学与原住民 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-anthropology/) |
 | **Anthropology for the 21st Century**<br>21 世纪的人类学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-anthropology/) |

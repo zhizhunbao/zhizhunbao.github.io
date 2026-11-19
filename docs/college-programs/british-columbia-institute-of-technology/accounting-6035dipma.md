@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/) |
 | **AI, Integrity, and You: A Foundation for Academic and Professional Life**<br>人工智能、诚信与你：学术与职业生涯的基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/) |
 | **Applied Data Analytics in Excel**<br>Excel 应用数据分析 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/) |
-| **Introduction to Organizational Development**<br>组织发展导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/) |
+| **Introduction to Organizational Development**<br>组织发展入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/) |
 | **Business Communication 2**<br>商务沟通 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/) |
 | **Accounting 2 for Financial Management**<br>财务管理会计 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/) |

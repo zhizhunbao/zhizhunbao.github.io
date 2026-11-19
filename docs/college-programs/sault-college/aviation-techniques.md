@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Human Factors in Aviation**<br>航空人为因素 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/aviation/aviation-techniques) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/aviation/aviation-techniques) |
 | **Mathematics**<br>数学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/aviation/aviation-techniques) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/aviation/aviation-techniques) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/aviation/aviation-techniques) |
 | **Fitness and Lifestyle Management**<br>健身与生活方式管理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/aviation/aviation-techniques) |
 | **Air Operations**<br>航空运行 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/aviation/aviation-techniques) |
 | **Aviation Motive Power**<br>航空动力 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/aviation/aviation-techniques) |

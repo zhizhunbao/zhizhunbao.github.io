@@ -11,15 +11,15 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Craft and Design (Glass)**<br>荣誉工艺与设计学士（玻璃） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
-| **Introduction to Hot Glassforming 1**<br>热玻璃成型导论 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
-| **Introduction to Cold and Warm Glassforming 1**<br>冷热玻璃成型导论 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
+| **Introduction to Hot Glassforming 1**<br>热玻璃成型入门 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
+| **Introduction to Cold and Warm Glassforming 1**<br>冷热玻璃成型入门 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
 | **Alternate Media – Ceramics**<br>替代媒介：陶瓷 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
 | **Alternate Media – Furniture**<br>替代媒介：家具 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
 | **Sketching & Drawing Fundamentals**<br>速写与绘画基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
 | **Digital 2D Visual Communication**<br>数字2D视觉传达 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
-| **Introduction to Hot Glassforming 2**<br>热玻璃成型导论 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
-| **Introduction to Cold and Warm Glassforming 2**<br>冷热玻璃成型导论 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
+| **Introduction to Hot Glassforming 2**<br>热玻璃成型入门 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
+| **Introduction to Cold and Warm Glassforming 2**<br>冷热玻璃成型入门 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
 | **Alternate Media – Industrial Design**<br>替代媒介：工业设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
 | **Alternate Media – Textiles**<br>替代媒介：纺织品 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |
 | **Digital Modelling**<br>数字建模 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-glass) |

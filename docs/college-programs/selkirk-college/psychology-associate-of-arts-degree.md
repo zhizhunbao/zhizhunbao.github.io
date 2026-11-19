@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **College Composition**<br>大学写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/psychology-associate-arts-degree) |
 | **Introductory Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/psychology-associate-arts-degree) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/psychology-associate-arts-degree) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/psychology-associate-arts-degree) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/psychology-associate-arts-degree) |
 | **Introductory Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/psychology-associate-arts-degree) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/psychology-associate-arts-degree) |
 | **Mental Health and Psychological Disorders I**<br>心理健康与心理障碍 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/psychology-associate-arts-degree) |

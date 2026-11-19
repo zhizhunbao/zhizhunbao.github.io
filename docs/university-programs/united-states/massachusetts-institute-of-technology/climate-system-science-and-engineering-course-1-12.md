@@ -1,10 +1,10 @@
 ---
-title: "3.2.17 Climate System Science and Engineering (Course 1-12)"
+title: "4.2.17 Climate System Science and Engineering (Course 1-12)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Climate System Science and Engineering (Course 1-12): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.17 Climate System Science and Engineering (Course 1-12)
+# 4.2.17 Climate System Science and Engineering (Course 1-12)
 
 ## Glossary
 
@@ -13,26 +13,26 @@ ms.date: 2026-11-18
 | **Climate System Science and Engineering (Course 1-12)**<br>气候系统科学与工程（Course 1-12） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Probability: Concepts and Applications**<br>概率：概念与应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Causal Inference for Data Analysis**<br>面向数据分析的因果推断 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Environmental Data Analysis**<br>环境数据分析导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Environmental Data Analysis**<br>环境数据分析入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Data Science Fundamentals**<br>数据科学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Programming and Computer Science**<br>编程与计算机科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Atmosphere, Ocean, and Climate Dynamics**<br>大气、海洋与气候动力学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Programming and Computer Science**<br>编程与计算机科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Atmosphere, Ocean, and Climate Dynamics**<br>大气、海洋与气候动力学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Climate Science**<br>气候科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Physics and Engineering of Renewable Energy Systems**<br>可再生能源系统的物理与工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Science, Politics, and Environmental Policy**<br>科学、政治与环境政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **People and the Planet: Environmental Governance and Science**<br>人与地球：环境治理与科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Energy Economics and Policy**<br>能源经济学与政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Carbon Management**<br>碳管理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to the Global Carbon Cycle**<br>全球碳循环导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to the Global Carbon Cycle**<br>全球碳循环入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Climate and Sustainability Lab (CI-M)**<br>气候与可持续性实验（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Weather and Climate Laboratory (CI-M)**<br>天气与气候实验（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Experimental Atmospheric Chemistry (CI-M)**<br>实验大气化学 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Civil and Environmental Engineering Design**<br>土木与环境工程设计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Civil and Environmental Engineering Design**<br>土木与环境工程设计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Sensing and Intelligent Systems (CI-M)**<br>感知与智能系统（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Environmental Fluid Mechanics Lab**<br>环境流体力学实验室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Water and Air Quality Laboratory (CI-M)**<br>水与空气质量实验（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
@@ -75,8 +75,8 @@ ms.date: 2026-11-18
 | **Fundamentals of Ecology**<br>生态学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Chemicals in the Environment**<br>环境中的化学品 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Environmental Microbial Biogeochemistry**<br>环境微生物生物地球化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Geophysics and Planetary Science**<br>地球物理与行星科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Geophysics and Planetary Science**<br>地球物理与行星科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Global Change Science**<br>全球变化科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Atmospheric Chemistry Models & Climate**<br>大气化学模型与气候 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **The History of Earth's Climate**<br>地球气候史 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
@@ -87,16 +87,16 @@ ms.date: 2026-11-18
 | **Software Performance Engineering**<br>软件性能工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Computer Language Engineering**<br>计算机语言工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Computability and Complexity Theory**<br>可计算性与复杂性理论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Computer Systems Engineering**<br>计算机系统工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Computation Structures**<br>计算结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Constructive Computer Architecture**<br>构造式计算机体系结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to EECS via Communication Networks**<br>通过通信网络学 EECS 导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to EECS via Communication Networks**<br>通过通信网络学 EECS 入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Statistics, Computation and Applications**<br>统计、计算及应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Inference**<br>推断导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Inference**<br>推断入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Computational Cognitive Science**<br>计算认知科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Robotics: Science and Systems**<br>机器人学：科学与系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Computer Graphics**<br>计算机图形学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
@@ -110,8 +110,8 @@ ms.date: 2026-11-18
 | **Quantitative Methods for Natural Language Processing**<br>自然语言处理定量方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Computational Biology: Genomes, Networks, Evolution**<br>计算生物学：基因组、网络、演化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Computational Systems Biology: Deep Learning in the Life Sciences**<br>计算系统生物学：生命科学中的深度学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to EECS via Interconnected Embedded Systems**<br>通过互联嵌入式系统学 EECS 导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to EECS via Robotics**<br>通过机器人学 EECS 导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to EECS via Interconnected Embedded Systems**<br>通过互联嵌入式系统学 EECS 入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to EECS via Robotics**<br>通过机器人学 EECS 入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Modeling with Machine Learning: from Algorithms to Applications**<br>机器学习建模：从算法到应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Machine Learning for Sustainable Systems**<br>可持续系统中的机器学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Modeling Environmental Complexity**<br>环境复杂性建模 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
@@ -130,8 +130,8 @@ ms.date: 2026-11-18
 | **Foundational Analyses of Problems in Energy and the Environment**<br>能源与环境问题的基础分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Earth Science, Energy, and the Environment**<br>地球科学、能源与环境 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Economics of Energy, Innovation, and Sustainability**<br>能源、创新与可持续性经济学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Sustainable Energy**<br>可持续能源导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Energy in Global Development**<br>全球发展中的能源导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Sustainable Energy**<br>可持续能源入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Energy in Global Development**<br>全球发展中的能源入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Energy Systems for Climate Change Mitigation**<br>减缓气候变化的能源系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Experiential Sustainability**<br>体验式可持续发展 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Tools for Sustainable Design**<br>可持续设计工具 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
@@ -144,8 +144,8 @@ ms.date: 2026-11-18
 | **D-Lab: Design**<br>D-Lab：设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Transport Processes in the Environment**<br>环境中的传递过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Transport Processes in the Environment I**<br>环境中的传递过程 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Hydrology and Water Resources**<br>水文学与水资源导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
-| **Introduction to Hydrology Modeling**<br>水文建模导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Hydrology and Water Resources**<br>水文学与水资源入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
+| **Introduction to Hydrology Modeling**<br>水文建模入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Geochemistry of Natural Waters**<br>天然水体地球化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Elements of Modern Oceanography**<br>现代海洋学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |
 | **Fluid Dynamics of the Atmosphere and Ocean**<br>大气与海洋流体动力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/) |

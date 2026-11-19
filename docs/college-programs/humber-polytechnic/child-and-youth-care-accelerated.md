@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Child and Youth Care - Accelerated**<br>儿童与青少年关爱 - 加速 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care-accelerated) |
 | **Community Resources and Legislation**<br>社区资源与立法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care-accelerated) |
-| **Introduction to Child and Youth Care Professional Practice**<br>儿童与青少年关怀专业实践导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care-accelerated) |
+| **Introduction to Child and Youth Care Professional Practice**<br>儿童与青少年关怀专业实践入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care-accelerated) |
 | **Relational Practices in Child and Youth Care**<br>儿童与青少年关爱中的关系实践 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care-accelerated) |
 | **Therapeutic Activities Programming**<br>治疗活动编程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care-accelerated) |
 | **Group Dynamics**<br>团体动力学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/child-and-youth-care-accelerated) |

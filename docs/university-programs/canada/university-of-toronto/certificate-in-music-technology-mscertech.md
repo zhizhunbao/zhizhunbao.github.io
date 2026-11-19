@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Music Technology**<br>音乐技术证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
-| **Introduction to Computer Applications in Music**<br>音乐中的计算机应用导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
+| **Introduction to Computer Applications in Music**<br>音乐中的计算机应用入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
 | **Electro-acoustic Music I**<br>电声音乐 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
 | **Electro-acoustic Music II**<br>电声音乐 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
 | **Video Documentation**<br>视频记录 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
 | **Concert Video Production**<br>音乐会视频制作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
-| **Introduction to Music Recording**<br>音乐录音导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
+| **Introduction to Music Recording**<br>音乐录音入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
 | **Live Coding: Digital Audio in Real Time**<br>现场编码：实时数字音频 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
 | **MAX/MSP**<br>MAX/MSP | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |
 | **Interactive Music & Sound for Video Games I**<br>电子游戏的交互音乐与音效 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERTECH) |

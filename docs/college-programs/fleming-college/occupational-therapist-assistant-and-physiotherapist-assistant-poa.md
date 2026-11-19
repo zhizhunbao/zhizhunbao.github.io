@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Concepts in Health Care**<br>医疗保健概念 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/occupational-therapist-assistant-and-physiotherapist-assistant) |
 | **Healthcare Concepts for Occupational Therapist Assistant and Physiotherapist Assistant**<br>职业治疗师助理与物理治疗师助理的医疗概念 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/occupational-therapist-assistant-and-physiotherapist-assistant) |
 | **Across the Lifespan**<br>贯穿生命全程 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/occupational-therapist-assistant-and-physiotherapist-assistant) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/occupational-therapist-assistant-and-physiotherapist-assistant) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/occupational-therapist-assistant-and-physiotherapist-assistant) |
 | **Anatomy & Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/occupational-therapist-assistant-and-physiotherapist-assistant) |
 | **Basic Clinical Skills II**<br>基础临床技能 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/occupational-therapist-assistant-and-physiotherapist-assistant) |
 | **Clinical Pathology**<br>临床病理学 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/occupational-therapist-assistant-and-physiotherapist-assistant) |

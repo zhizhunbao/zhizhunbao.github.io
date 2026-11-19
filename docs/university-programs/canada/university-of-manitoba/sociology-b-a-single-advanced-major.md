@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sociology, B.A. Single Advanced Major**<br>社会学，B.A. 单一高级主修 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/sociology-ba-single-advanced/) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/sociology-ba-single-advanced/) |
-| **Introduction à la microsociologie and Introduction à la macrosociologie**<br>微观社会学导论 与 宏观社会学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/sociology-ba-single-advanced/) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/sociology-ba-single-advanced/) |
+| **Introduction à la microsociologie and Introduction à la macrosociologie**<br>微观社会学入门 与 宏观社会学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/sociology-ba-single-advanced/) |
 | **Sociological Theoretical Foundations**<br>社会学理论基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/sociology-ba-single-advanced/) |
 | **Understanding Social Research**<br>理解社会研究 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/sociology-ba-single-advanced/) |
 | **Understanding Social Statistics**<br>理解社会统计 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/sociology-criminology/sociology-ba-single-advanced/) |

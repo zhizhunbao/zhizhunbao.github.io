@@ -1,10 +1,10 @@
 ---
-title: "3.4.14 Chemistry (B.A. or B.S.)"
+title: "4.4.14 Chemistry (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Chemistry (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.14 Chemistry (B.A. or B.S.)
+# 4.4.14 Chemistry (B.A. or B.S.)
 
 ## Glossary
 
@@ -27,7 +27,7 @@ ms.date: 2026-11-18
 | **Laboratory for Organic Chemistry I**<br>有机化学实验 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/) |
 | **Laboratory for Organic Chemistry II**<br>有机化学实验 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/) |
 | **Physical Chemistry with Applications in the Physical Sciences I**<br>物理化学及其在物理科学中的应用 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/) |
-| **Introductory Inorganic Chemistry**<br>无机化学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/) |
+| **Introductory Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/) |
 | **Current Chemistry Seminar**<br>化学前沿研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/) |
 | **Physical Chemistry with Applications in the Physical Sciences II**<br>物理化学及其在物理科学中的应用 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/) |
 | **Laboratory for Physical Chemistry I**<br>物理化学实验 I | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/) |

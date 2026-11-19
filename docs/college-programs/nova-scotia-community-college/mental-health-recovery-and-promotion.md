@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Mental Health Recovery and Promotion**<br>心理健康康复与促进 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
-| **Introduction to Mental Health Services**<br>心理健康服务导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
+| **Introduction to Mental Health Services**<br>心理健康服务入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Mental Health Promotion/Self and Others**<br>心理健康促进：自我与他人 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Applied Helping Skills I**<br>应用助人技能 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Ethics and Professional Practice**<br>伦理与职业实践 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
@@ -30,15 +30,15 @@ ms.date: 2026-11-08
 | **Mental Health Mentorship**<br>心理健康导师制 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Addictions and Mental Health**<br>成瘾与心理健康 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Mental Health Support Strategies for Diverse Populations**<br>面向多元人群的心理健康支持策略 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Suicide Intervention (ASIST)**<br>自杀干预（ASIST） | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Writing Skills for Social Service Practice I**<br>社会服务实践写作技能 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Writing Skills for Social Service Practice II**<br>社会服务实践写作技能 II | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 | **Grief and Loss**<br>悲伤与丧失 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
-| **Introduction to Grant Proposal Writing**<br>资助申请书写作导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
+| **Introduction to Grant Proposal Writing**<br>资助申请书写作入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/mental-health-recovery-and-promotion) |
 
 ## Courses
 

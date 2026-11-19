@@ -1,10 +1,10 @@
 ---
-title: "3.4.30 Economics and Mathematics (B.A.)"
+title: "4.4.30 Economics and Mathematics (B.A.)"
 description: "University Programs > United States > Yale University > Economics and Mathematics (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.30 Economics and Mathematics (B.A.)
+# 4.4.30 Economics and Mathematics (B.A.)
 
 ## Glossary
 
@@ -12,10 +12,10 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Economics and Mathematics (B.A.)**<br>经济学与数学（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **Calculus of Functions of Several Variables**<br>多元函数微积分 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
-| **An Introduction to Microeconomic Analysis**<br>微观经济分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
-| **Introductory Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
-| **An Introduction to Macroeconomic Analysis**<br>宏观经济分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
-| **Introductory Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
+| **An Introduction to Microeconomic Analysis**<br>微观经济分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
+| **Introductory Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
+| **An Introduction to Macroeconomic Analysis**<br>宏观经济分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
+| **Introductory Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **Individual Studies**<br>个人研究 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **Probability Theory**<br>概率论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **Theory of Statistics**<br>统计理论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-18
 | **Intermediate Microeconomics**<br>中级微观经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **Macroeconomic Theory**<br>宏观经济理论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **Intermediate Macroeconomics**<br>中级宏观经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **Econometrics**<br>计量经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **Mathematical Economics: General Equilibrium Theory**<br>数理经济学：一般均衡理论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |
 | **The Economics of Space**<br>太空经济学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/) |

@@ -16,14 +16,14 @@ ms.date: 2026-11-08
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Skills for Academic & Business Success**<br>学术与商业成功技能 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Material and Operations Management**<br>物料与运营管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
-| **Introduction to Management Fundamentals**<br>管理基础导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
+| **Introduction to Management Fundamentals**<br>管理基础入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Accounting Concepts I**<br>会计概念 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Database & Advanced Excel Concepts**<br>数据库与高级Excel概念 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Communications 2**<br>沟通 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **B2B Purchasing Management**<br>B2B采购管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Scheduling & Planning of Resources**<br>资源调度与规划 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Logistics Using SAP**<br>使用 SAP 的物流 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1321X01FWO.pdf) |

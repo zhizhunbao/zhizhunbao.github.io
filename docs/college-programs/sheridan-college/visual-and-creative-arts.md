@@ -12,9 +12,9 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Visual and Creative Arts**<br>视觉与创意艺术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **Observational Drawing**<br>观察性素描 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
-| **Introduction to 2D Design**<br>2D设计导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
-| **Introduction to 3D Design**<br>3D设计导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
-| **Introduction to Painting**<br>绘画导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
+| **Introduction to 2D Design**<br>2D设计入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
+| **Introduction to 3D Design**<br>3D设计入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
+| **Introduction to Painting**<br>绘画入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **Colour Theory**<br>色彩理论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **Essential Communications Skills**<br>基础沟通技能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **Figure Drawing**<br>人体素描 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
@@ -26,8 +26,8 @@ ms.date: 2026-11-08
 | **Figurative Drawing**<br>人体素描 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **Interpretive Drawing**<br>诠释性素描 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **2D Design Studio**<br>2D设计工作室 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
-| **Introduction to Surface Design**<br>表面设计导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
-| **Introduction to Figurative Sculpture**<br>人物雕塑导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
+| **Introduction to Surface Design**<br>表面设计入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
+| **Introduction to Figurative Sculpture**<br>人物雕塑入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **3D Design Studio**<br>3D设计工作室 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **Painting: Media and Materials**<br>绘画：媒介与材料 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |
 | **Digital Media Lab**<br>数字媒体实验课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/visual-creative-arts) |

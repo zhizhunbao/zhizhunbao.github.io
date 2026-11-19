@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **LINEAR ALGEBRA II**<br>线性代数 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21054&SelectedCalendar=Live&ArchiveID=) |
 | **PROJECT IN ACTUARIAL SCIENCE**<br>精算科学项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21054&SelectedCalendar=Live&ArchiveID=) |
 | **PROJECT**<br>项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21054&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21054&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21054&SelectedCalendar=Live&ArchiveID=) |
 | **MATHEMATICS OF FINANCIAL OPTIONS**<br>金融期权数学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21054&SelectedCalendar=Live&ArchiveID=) |
 | **PROJECT IN FINANCIAL MODELLING**<br>金融建模项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21054&SelectedCalendar=Live&ArchiveID=) |
 | **FINITE ELEMENT METHODS**<br>有限元方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21054&SelectedCalendar=Live&ArchiveID=) |

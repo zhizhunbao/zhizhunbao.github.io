@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Social Service Worker**<br>社会服务工作者 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Community Development and Fundraising**<br>社区发展与筹款 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Social Service Practice**<br>社会服务实务 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
-| **Introduction to Social Services and Field Practicum**<br>社会服务与实地实习导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
+| **Introduction to Social Services and Field Practicum**<br>社会服务与实地实习入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Psychology Core Concepts**<br>心理学核心概念 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Social Diversity in Contemporary Canada**<br>当代加拿大的社会多样性 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Essential Communications**<br>基础沟通 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **The Helping Process**<br>助人过程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Human Development Lifespan**<br>人类生命周期发展 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
-| **Introduction to Applied Research in Social Services**<br>社会服务应用研究导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
+| **Introduction to Applied Research in Social Services**<br>社会服务应用研究入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Field Preparation: SSW**<br>实地准备：SSW | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Social Policy, Social Justice and Change**<br>社会政策、社会公正与变革 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |
 | **Migration and Settlement Studies**<br>移民与定居研究 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/social-service-worker) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Hearing Instrument Specialist**<br>助听器验配专家 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
 | **Acoustics and Psychoacoustics**<br>声学与心理声学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
 | **Anatomy and Physiology of the Ear**<br>耳的解剖学与生理学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
 | **Fundamental Principles of Audiometry**<br>听力测定基本原理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Advanced Principles of Hearing Devices**<br>高级助听设备原理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
 | **Hearing Device Verification**<br>助听设备验证 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
 | **Patient Counselling Skills**<br>患者咨询技能 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
-| **Psychology: Introduction**<br>心理学：导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
+| **Psychology: Introduction**<br>心理学：入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
 | **Critical Communications 2**<br>关键沟通 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
 | **Hearing Device Troubleshooting**<br>助听设备故障排除 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |
 | **Hearing Disorders**<br>听力障碍 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/hearing-instrument-specialist) |

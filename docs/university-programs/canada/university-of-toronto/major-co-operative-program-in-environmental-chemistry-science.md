@@ -11,7 +11,27 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR (CO-OPERATIVE) PROGRAM IN ENVIRONMENTAL CHEMISTRY (SCIENCE)**<br>环境化学主修项目（合作教育）（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Introductory Chemistry I: Structure and Bonding**<br>化学入门 I：结构与成键 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Introductory Chemistry II: Reactions and Mechanisms**<br>化学入门 II：反应与机理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Advanced General Chemistry**<br>高级普通化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Calculus I for the Life Sciences**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Calculus II for Biological Sciences**<br>生物科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Introduction to Environmental Science**<br>环境科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Introduction to Planet Earth**<br>地球入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Water**<br>水 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Environmental Pollution**<br>环境污染 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
 | **Techniques in Analytical Chemistry**<br>分析化学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Principles of Analytical Instrumentation**<br>分析仪器原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Principles of Climatology**<br>气候学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Principles of Hydrology**<br>水文学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Principles of Soil Science**<br>土壤科学原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| **Environmental and Analytical Chemistry**<br>环境与分析化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
 | **Becoming Job Search Ready: Science Co-op**<br>为求职做好准备：理科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
 | **Finding Your First Work Term and Getting Workplace Ready: Science Co-op**<br>寻找首个工作学期并做好职场准备：理科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
@@ -27,6 +47,30 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): | MATA29H3 | Calculus I for the Life Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): (or) | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): | MATA35H3 | Calculus II for Biological Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): (or) | MATA36H3 | Calculus II for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): | EESA01H3 | Introduction to Environmental Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): and 0.5 credit from | EESA06H3 | Introduction to Planet Earth | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): and 0.5 credit from | EESA07H3 | Water | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| First Year (3.0 credits) | Program requirements (same as SCMAJ0361): and 0.5 credit from | EESA11H3 | Environmental Pollution | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): | CHMB16H3 | Techniques in Analytical Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): | CHMB31H3 | Introduction to Inorganic Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): | CHMB41H3 | Organic Chemistry I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): | CHMB42H3 | Organic Chemistry II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): | CHMB55H3 | Environmental Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): | CHMC11H3 | Principles of Analytical Instrumentation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): and 0.5 credit from | EESB03H3 | Principles of Climatology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): and 0.5 credit from | EESB04H3 | Principles of Hydrology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): and 0.5 credit from | EESB05H3 | Principles of Soil Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): and |  | 2.5 additional credits in CHM courses that meet the following criteria: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): and |  | i. at least 2.0 credits must be at the C- or D-level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): and |  | ii. at least 0.5 credit must be at the D-level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
+| Second and Later Years (6.0 credits) | Program requirements (same as SCMAJ0361): and; iii. at least 0.5 credit at the C- or D-level must be a course with a laboratory component | CHMD16H3 | Environmental and Analytical Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
 |  | Academic Program Requirements |  | Students must complete the program requirements as described in the Major in Environmental Chemistry. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0361c) |

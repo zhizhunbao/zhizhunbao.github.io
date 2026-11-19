@@ -10,7 +10,7 @@ ms.date: 2026-11-08
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **Introduction to Canadian Healthcare Studies**<br>加拿大医疗保健研究导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/health-sciences/program/introduction-to-canadian-health-studies/) |
+| **Introduction to Canadian Healthcare Studies**<br>加拿大医疗保健研究入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/health-sciences/program/introduction-to-canadian-health-studies/) |
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1630X01FWO.pdf) |
 | **Academic Reading, Writing and Researching**<br>学术阅读、写作与研究 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1630X01FWO.pdf) |
 | **Healthcare in Canada and Basic Medical Terminology**<br>加拿大医疗保健与基础医学术语 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1630X01FWO.pdf) |

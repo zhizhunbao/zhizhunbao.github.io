@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Health Care Assistant - Certificate**<br>健康护理助手证书 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-certificate) |
 | **Program Foundations**<br>课程基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-certificate) |
 | **Concepts for Practice**<br>实践概念 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-certificate) |
-| **Introduction to Practice**<br>实践导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-certificate) |
+| **Introduction to Practice**<br>实践入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-certificate) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-certificate) |
 | **Lifestyle and Choices**<br>生活方式与选择 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-certificate) |
 | **Common Health Challenges**<br>常见健康挑战 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/health-care-assistant-certificate) |

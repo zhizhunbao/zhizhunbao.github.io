@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Laboratoire de biologie**<br>生物学实验 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-de-lenvironnement/) |
 | **Gestion de projet**<br>项目管理 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-de-lenvironnement/) |
 | **Enjeux environnementaux**<br>环境问题 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-de-lenvironnement/) |
-| **Introduction à la topométrie**<br>地形测量导论 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-de-lenvironnement/) |
+| **Introduction à la topométrie**<br>地形测量入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-de-lenvironnement/) |
 | **Microbiologie de l'environnement**<br>环境微生物学 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-de-lenvironnement/) |
 | **Gestion de la qualité de l'air**<br>空气质量管理 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-de-lenvironnement/) |
 | **Droit de l'environnement - lois et règlements**<br>环境法 - 法律与法规 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/technologie-de-lenvironnement/) |

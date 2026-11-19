@@ -13,14 +13,14 @@ ms.date: 2026-11-08
 | **Associate of Arts Degree (Health Studies)**<br>文科副学士学位（健康研究） | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Anatomy and Physiology I**<br>解剖学与生理学 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Contemporary Moral Issues**<br>当代道德问题 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Cultural and Social Anthropology II**<br>文化与社会人类学 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Anatomy and Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
-| **Introduction to Health Sciences**<br>健康科学导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
+| **Introduction to Health Sciences**<br>健康科学入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Nonfictional Prose**<br>非虚构散文 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Contemporary Canadian Native Peoples**<br>当代加拿大原住民 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Medical Anthropology**<br>医学人类学 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |
 | **Organizational Structure of the Canadian Health Care System**<br>加拿大医疗体系的组织结构 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/associate-of-arts-degree-health-studies/) |

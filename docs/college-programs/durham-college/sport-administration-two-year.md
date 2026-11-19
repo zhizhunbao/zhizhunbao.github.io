@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Communication Foundations**<br>沟通基础 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/sport-administration) |
 | **Computer Applications 1 - Sport**<br>计算机应用 1：体育 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/sport-administration) |
 | **Financial Management Of Sport Organizations 1**<br>体育组织财务管理 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/sport-administration) |
-| **Introduction to Sport Management**<br>体育管理导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/sport-administration) |
+| **Introduction to Sport Management**<br>体育管理入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/sport-administration) |
 | **Sport Marketing 1**<br>体育营销 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/sport-administration) |
 | **Sport Development In Canada**<br>加拿大体育发展 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/sport-administration) |
 | **Computer Applications 2 - Sport**<br>计算机应用 2：体育 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/sport-administration) |

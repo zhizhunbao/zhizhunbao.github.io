@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbaa) |
 | **Calculus for the Social Sciences**<br>社会科学微积分 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbaa) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbaa) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbaa) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbaa) |
 | **Values and Contemporary Issues**<br>价值观与当代问题 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbaa) |
 | **Business Ethics**<br>商业伦理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbaa) |
 | **Applied Legal and Ethical Decision Making for Managers, Professionals and Executives**<br>经理、专业人员与高管的应用法律与伦理决策 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/bbaa) |

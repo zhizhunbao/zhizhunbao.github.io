@@ -1,10 +1,10 @@
 ---
-title: "3.3.68 Aeronautics and Astronautics, Master of Science"
+title: "4.3.68 Aeronautics and Astronautics, Master of Science"
 description: "University Programs > United States > Stanford University > Aeronautics and Astronautics, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.68 Aeronautics and Astronautics, Master of Science
+# 4.3.68 Aeronautics and Astronautics, Master of Science
 
 ## Glossary
 
@@ -16,7 +16,7 @@ ms.date: 2026-11-18
 | **Analysis of Structures**<br>结构分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Mechanics of Composites**<br>复合材料力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Optimal and Learning-based Control**<br>最优与基于学习的控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Control Design Techniques**<br>控制设计技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Control Design Techniques**<br>控制设计技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Classical Dynamics**<br>经典动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Space Mechanics**<br>空间力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Spacecraft Electric Propulsion**<br>航天器电推进 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-18
 | **Fundamentals of Plasmas I**<br>等离子体基础 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Fundamentals of Plasmas II**<br>等离子体基础 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Stability of Structures**<br>结构稳定性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to the Space Environment**<br>空间环境导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to the Space Environment**<br>空间环境入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Techniques of Failure Analysis**<br>失效分析技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Deployable Space Structures**<br>可展开空间结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Origami Engineering**<br>折纸工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
@@ -62,7 +62,7 @@ ms.date: 2026-11-18
 | **Nonlinear Dynamics**<br>非线性动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Mechanics and Finite Elements**<br>力学与有限元 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Finite Element Methods in Structural Dynamics**<br>结构动力学中的有限元方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Machine Learning and the Physical Sciences**<br>机器学习与物理科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Machine Learning for Computational Engineering.**<br>计算工程的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Foundations of Reinforcement Learning with Applications in Finance**<br>强化学习基础及其在金融中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
@@ -90,11 +90,11 @@ ms.date: 2026-11-18
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Convex Optimization II**<br>凸优化 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Analysis and Control of Nonlinear Systems**<br>非线性系统的分析与控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Probabilistic Analysis**<br>概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Stochastic Modeling**<br>随机建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Bayesian Linear Regression**<br>贝叶斯线性回归 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Game Theory, Data Science and AI**<br>博弈论、数据科学与人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Optimization**<br>优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Optimization Algorithms**<br>优化算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
@@ -104,27 +104,27 @@ ms.date: 2026-11-18
 | **Fundamental Concepts of Analysis**<br>分析学基本概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Partial Differential Equations in Engineering**<br>工程中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Finite Element Analysis**<br>有限元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Continuum Mechanics**<br>连续介质力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Spectral Methods in Computational Physics**<br>计算物理中的谱方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Computational Methods in Fluid Mechanics**<br>流体力学计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Advanced Mechanics**<br>高级力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Probability Theory for Statistical Inference**<br>统计推断的概率论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Sampling**<br>采样 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Nonparametric Statistics**<br>非参数统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Nonparametric Statistics**<br>非参数统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Resampling Methods: Bootstrap, Cross Validation and Beyond**<br>重抽样方法：自助法、交叉验证及其他 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Machine Learning for Sequence Modeling**<br>序列建模的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Design of Experiments**<br>实验设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
@@ -151,12 +151,12 @@ ms.date: 2026-11-18
 | **High-Frequency Circuit Design Laboratory**<br>高频电路设计实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Integrated Circuit Fabrication Laboratory**<br>集成电路制造实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Design and Manufacturing**<br>设计与制造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Smart Product Design Fundamentals**<br>智能产品设计基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Smart Product Design Applications**<br>智能产品设计应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Smart Product Design Practice**<br>智能产品设计实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Smart Product Design: Projects**<br>智能产品设计：项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
-| **Introduction to Sensors**<br>传感器导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
+| **Introduction to Sensors**<br>传感器入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Precision Engineering**<br>精密工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Experimental Methods in Fluid Mechanics**<br>流体力学实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |
 | **Optical Diagnostics and Spectroscopy Laboratory**<br>光学诊断与光谱学实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/aeronautics-and-astronautics/master-of-science) |

@@ -12,26 +12,26 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Exceptionality in Human Learning - Specialist (Science)**<br>人类学习中的特殊性－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Biological Anthropology and Archaeology**<br>生物人类学与考古学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Sociocultural and Linguistic Anthropology**<br>社会文化与语言人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Biological Anthropology and Archaeology**<br>生物人类学与考古学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Sociocultural and Linguistic Anthropology**<br>社会文化与语言人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Evolution and Evolutionary Genetics**<br>进化与进化遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Diversity of Organisms**<br>生物多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Introductory Animal Physiology**<br>动物生理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Ecology**<br>生态学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Introductory Cell and Molecular Biology**<br>细胞与分子生物学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Introductory Genetics**<br>遗传学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Quantitative Research in Psychology I**<br>心理学定量研究导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Quantitative Research in Psychology I**<br>心理学定量研究入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Data Analysis and Applied Econometrics**<br>数据分析与应用计量经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Foundations of Econometrics**<br>计量经济学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Quantitative Analysis**<br>定量分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **The Practice of Statistics I**<br>统计实践 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Developmental Psychology**<br>发展心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Abnormal Psychology**<br>变态心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Quantitative Research in Psychology II**<br>心理学定量研究导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Developmental Psychology**<br>发展心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Abnormal Psychology**<br>变态心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Quantitative Research in Psychology II**<br>心理学定量研究入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Cognition: The Machinery of the Mind**<br>认知：心智的机制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Sensation and Perception: Where the World Meets the Brain**<br>感觉与知觉：世界与大脑的交汇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Language, Mind, & Brain**<br>语言、心智与大脑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Adolescence and Emerging Adulthood**<br>青春期与成年初显期 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Social Development**<br>社会发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-11
 | **Human Neuropsychology**<br>人类神经心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Language Development**<br>语言发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Language Processing: Words, Sentences, and Discourse**<br>语言处理：词、句与语篇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Speech Communication**<br>言语传播导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Speech Communication**<br>言语传播入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Bilingualism and Multiple Language Acquisition**<br>双语与多语习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Practicum in Exceptionality in Human Learning**<br>人类学习特殊性实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
@@ -74,13 +74,13 @@ ms.date: 2026-11-11
 | **Biological Anthropology: Human Variation and Adaptation**<br>生物人类学：人类变异与适应 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Biological Anthropology: Primatology and Palaeoanthropology**<br>生物人类学：灵长类学与古人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Sociocultural Anthropology**<br>社会文化人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Forensic Anthropology**<br>法医人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Forensic Anthropology**<br>法医人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Culture and Communication**<br>文化与传播 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Being Human: Classic Thought on Self and Society**<br>成为人：关于自我与社会的经典思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Sex, Evolution and Behaviour**<br>性、进化与行为 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Anthropology of Food and Nutrition**<br>食物与营养人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **How Should One Live? An Introduction to the Anthropology of Ethics**<br>人应如何生活？伦理人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to the Anthropology of Health**<br>健康人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **How Should One Live? An Introduction to the Anthropology of Ethics**<br>人应如何生活？伦理人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to the Anthropology of Health**<br>健康人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Anthropology and the Indigenous Peoples of Turtle Island (in Canada)**<br>人类学与龟岛（加拿大）原住民 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Forensic Anthropology Field School**<br>法医人类学野外学校 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Anthropology of Youth**<br>青年人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
@@ -108,7 +108,7 @@ ms.date: 2026-11-11
 | **Gender and Crime**<br>性别与犯罪 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Sociology of Education**<br>教育社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Sociology of Work and Occupations**<br>工作与职业社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to Social Policy**<br>社会政策导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to Social Policy**<br>社会政策入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Sociology of Families**<br>家庭社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Social Inequality**<br>社会不平等 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Sociology of Gender**<br>性别社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
@@ -149,8 +149,8 @@ ms.date: 2026-11-11
 | **Psycholinguistics: multilingual learners in action**<br>心理语言学：多语学习者实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **The History of Women Since 1800**<br>1800年以来的妇女史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **The Holocaust in Nazi Germany and Occupied Europe**<br>纳粹德国与被占领欧洲的大屠杀 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to General Linguistics: The Sounds of Language**<br>普通语言学导论：语言的声音 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
-| **Introduction to General Linguistics: Words, Sentences, their Structure and Meaning**<br>普通语言学导论：词、句及其结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to General Linguistics: The Sounds of Language**<br>普通语言学入门：语言的声音 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
+| **Introduction to General Linguistics: Words, Sentences, their Structure and Meaning**<br>普通语言学入门：词、句及其结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Sociolinguistics**<br>社会语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Theoretical Issues in Second Language Teaching and Learning**<br>第二语言教学的理论问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |
 | **Language and Society**<br>语言与社会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe1883) |

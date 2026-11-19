@@ -11,16 +11,16 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bilingual Bachelor of Commerce - Effective Fall 2027 [Business]**<br>商学学士（双语，2027 年秋季生效）（商学院） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
-| **Introduction à la micro-économie**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
+| **Introduction à la micro-économie**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
 | **Calcul différentiel et intégral I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
 | **Fondements légaux de l’économie canadienne**<br>加拿大经济的法律基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
-| **Introduction à la macro-économie**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
-| **Introduction à la statistique appliquée I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
-| **Introduction to Accounting for Financial Performance**<br>财务绩效会计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
+| **Introduction à la macro-économie**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
+| **Introduction à la statistique appliquée I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
+| **Introduction to Accounting for Financial Performance**<br>财务绩效会计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
-| **Introduction to Accounting for Management Decision Making**<br>管理决策会计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
+| **Introduction to Accounting for Management Decision Making**<br>管理决策会计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
 | **Techniques de rédaction - Français langue des affaires**<br>写作技巧：商务法语 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=127510&returnto=20845) |
 
 ## Courses

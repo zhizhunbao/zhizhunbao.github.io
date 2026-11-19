@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Disability Studies (DCSD)**<br>残障研究 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Interpersonal Relationships And Communication Skills**<br>人际关系与沟通技能 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Person Centered Planning**<br>以人为本的规划 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
-| **Introduction To Exceptionalities**<br>特殊儿童导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
+| **Introduction To Exceptionalities**<br>特殊儿童入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
-| **Introduction to Disability Studies**<br>残障研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
+| **Introduction to Disability Studies**<br>残障研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Disability Work Management and Supported Employment**<br>残障工作管理与支持性就业 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Mental Health and Disability**<br>精神健康与残障 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Positive Behaviour Support**<br>积极行为支持 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
@@ -25,11 +25,11 @@ ms.date: 2026-11-08
 | **Supporting Children and Adults with Disabilities across the Life Span**<br>终身支持残障儿童与成人 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Family and Society Studies**<br>家庭与社会研究 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Social Policy**<br>社会政策 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
-| **Introduction to Early Childhood Education and Development**<br>幼儿教育与发展导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
+| **Introduction to Early Childhood Education and Development**<br>幼儿教育与发展入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Developing Through Play**<br>通过游戏发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Fetal Alcohol Spectrum Awareness for Human Service Professionals**<br>面向人类服务专业人员的胎儿酒精谱系认知 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Workplace Writing for Human Services**<br>人类服务职场写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Trauma-Informed Practice**<br>创伤知情实践 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Indigenous Approaches to Healing and Wellness**<br>原住民疗愈与健康方法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
@@ -39,10 +39,10 @@ ms.date: 2026-11-08
 | **Community Connections and Inclusion**<br>社区联结与融入 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Organization and Administration in Human Services**<br>人类服务中的组织与管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Leadership in Disability Studies**<br>残障研究中的领导力 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
-| **Introduction to Autism Spectrum Disorder**<br>孤独症谱系障碍导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
+| **Introduction to Autism Spectrum Disorder**<br>孤独症谱系障碍入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Facilitating Groups**<br>团体带领 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies) |
 
 ## Courses
 

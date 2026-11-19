@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Arts in Native Studies**<br>文学学士（原住民研究） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |
-| **Introduction to Research and Inquiry**<br>研究与探究导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |
+| **Introduction to Research and Inquiry**<br>研究与探究入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |
 | **Introductory Cree**<br>克里语入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |
-| **Introduction to the Structure of the Cree Language for Cree Speakers**<br>克里语使用者的克里语结构导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |
+| **Introduction to the Structure of the Cree Language for Cree Speakers**<br>克里语使用者的克里语结构入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |
 | **Intermediate Cree**<br>中级克里语 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |
 | **Advanced Cree**<br>高级克里语 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |
 | **Historical Perspectives in Indigenous Studies**<br>原住民研究的历史视角 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110006&returnto=20851) |

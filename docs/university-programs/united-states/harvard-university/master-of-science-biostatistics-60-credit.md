@@ -1,10 +1,10 @@
 ---
-title: "3.1.81 Master of Science – Biostatistics (60-credit)"
+title: "4.1.81 Master of Science – Biostatistics (60-credit)"
 description: "University Programs > United States > Harvard University > Master of Science – Biostatistics (60-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.81 Master of Science – Biostatistics (60-credit)
+# 4.1.81 Master of Science – Biostatistics (60-credit)
 
 ## Glossary
 
@@ -16,10 +16,10 @@ ms.date: 2026-11-18
 | **Applied Survival Analysis**<br>应用生存分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Applied Longitudinal Analysis**<br>应用纵向分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Applied Data Structures and Algorithms**<br>应用数据结构与算法 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
-| **Introduction to Statistical Genetics**<br>统计遗传学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
+| **Introduction to Statistical Genetics**<br>统计遗传学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Applied Bayesian Analysis**<br>应用贝叶斯分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
-| **Introduction to Social and Biological Networks**<br>社会网络与生物网络导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
+| **Introduction to Social and Biological Networks**<br>社会网络与生物网络入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Functional Data Analysis in Digital Health**<br>数字健康中的函数型数据分析 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Advanced Population and Medical Genetics**<br>高级群体与医学遗传学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |
 | **Econometrics for Health Policy**<br>卫生政策计量经济学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/sm-biostatistics/) |

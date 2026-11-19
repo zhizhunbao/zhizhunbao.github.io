@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Rehabilitation Assistant (OTA & PTA)**<br>康复助理（OTA 与 PTA） | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
-| **Intro to Musculoskeletal Anatomy**<br>肌肉骨骼解剖学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
+| **Intro to Musculoskeletal Anatomy**<br>肌肉骨骼解剖学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
 | **Communications in Health Care**<br>医疗保健沟通 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
 | **Orientation to Rehabilitation**<br>康复入门指导 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Anatomy & Physiology for Rehabilitation Assistants**<br>康复助理解剖与生理学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
 | **Communication Disorders in Rehabilitation**<br>康复中的沟通障碍 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
-| **Introduction to Clinical Skills**<br>临床技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
+| **Introduction to Clinical Skills**<br>临床技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
 | **Advanced Clinical Skills**<br>高级临床技能 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
 | **Human Movement and Kinesiology**<br>人体运动与运动学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |
 | **Disease, Injury and Intervention I**<br>疾病、损伤与干预 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/rehabilitation-assistant) |

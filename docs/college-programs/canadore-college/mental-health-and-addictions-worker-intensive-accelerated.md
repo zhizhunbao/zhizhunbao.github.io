@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Interviewing & Helping Skills I**<br>访谈与助人技能 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addictions-worker-intensive-accelerated) |
 | **Mental Health Across the Lifespan**<br>全生命周期心理健康 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addictions-worker-intensive-accelerated) |
 | **Evaluating Information**<br>信息评估 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addictions-worker-intensive-accelerated) |
-| **Introduction to Substance Use**<br>物质使用导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addictions-worker-intensive-accelerated) |
+| **Introduction to Substance Use**<br>物质使用入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addictions-worker-intensive-accelerated) |
 | **Interventions for Mental Health & Addictions I**<br>心理健康与成瘾干预 I | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addictions-worker-intensive-accelerated) |
 | **Pharmacology for Mental Health & Addiction Workers**<br>心理健康与成瘾工作者药理学 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addictions-worker-intensive-accelerated) |
 | **Cognitive Behaviour Techniques**<br>认知行为技术 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mental-health-and-addictions-worker-intensive-accelerated) |

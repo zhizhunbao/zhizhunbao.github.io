@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Office Administration - Executive**<br>办公室管理 - 行政 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Language Fundamentals**<br>语言基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Business For The Office Assistant**<br>办公助理商务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
-| **Introduction to Keyboarding**<br>键盘输入导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
+| **Introduction to Keyboarding**<br>键盘输入入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Essential Business Calculations**<br>基本商业计算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
-| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
+| **Introduction To Word Processing & Business Documents**<br>文字处理与商务文书入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
-| **Introduction To Computer Technology**<br>计算机技术导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
+| **Introduction To Computer Technology**<br>计算机技术入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Accounting For The Office Assistant**<br>办公助理会计 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Administrative Procedures**<br>行政程序 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Advanced Electronic Spreadsheets**<br>高级电子表格 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Office Management**<br>办公室管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
-| **Introduction To Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
+| **Introduction To Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Administrative Documents II**<br>行政文件 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Advanced Office Technology**<br>高级办公技术 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |
 | **Digital Production**<br>数字制作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/office-administration-executive) |

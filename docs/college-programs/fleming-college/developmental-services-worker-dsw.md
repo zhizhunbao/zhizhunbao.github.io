@@ -17,8 +17,8 @@ ms.date: 2026-11-08
 | **Person Centred Planning**<br>以人为本的规划 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
 | **Thriving at College**<br>在大学中茁壮成长 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
 | **Across the Lifespan**<br>贯穿生命全程 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
 | **Becoming a Developmental Services Professional**<br>成为发展服务专业人员 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
 | **Educational and Positive Behavioural Support Strategies for Children, Youth and Adults**<br>儿童、青少年与成人的教育与积极行为支持策略 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |
 | **Essentials of Holistic Health Supports**<br>整体健康支持要点 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/developmental-services-worker) |

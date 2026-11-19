@@ -1,10 +1,10 @@
 ---
-title: "3.3.75 Biomedical Data Science, Master of Science"
+title: "4.3.75 Biomedical Data Science, Master of Science"
 description: "University Programs > United States > Stanford University > Biomedical Data Science, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.75 Biomedical Data Science, Master of Science
+# 4.3.75 Biomedical Data Science, Master of Science
 
 ## Glossary
 
@@ -12,12 +12,12 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Biomedical Data Science, Master of Science**<br>生物医学数据科学，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **An overview of Biomedical Data Science**<br>生物医学数据科学概览 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Bioinformatics for Stem Cell and Cancer Biology**<br>干细胞与癌症生物学的生物信息学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Data Science for Medicine**<br>医学数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Modern Applied Statistics: Learning**<br>现代应用统计：学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Stochastic and Nonlinear Dynamics**<br>随机与非线性动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -51,12 +51,12 @@ ms.date: 2026-11-18
 | **Vector Calculus for Engineers**<br>工程师矢量微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Ordinary Differential Equations for Engineers**<br>工程师常微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Linear Algebra and Partial Differential Equations for Engineers**<br>工程师线性代数与偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Scientific Computing with Machine Learning Applications**<br>科学计算与机器学习应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Linear Algebra with Application to Engineering Computations**<br>线性代数及其在工程计算中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Partial Differential Equations in Engineering**<br>工程中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Geometric and Topological Data Analysis**<br>几何与拓扑数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Advanced MATLAB for Scientific Computing**<br>科学计算高级MATLAB | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -70,7 +70,7 @@ ms.date: 2026-11-18
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Computer Organization and Systems**<br>计算机组成与系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Object-Oriented Systems Design**<br>面向对象系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Principles of Computer Systems**<br>计算机系统原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Operating Systems Principles**<br>操作系统原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -79,12 +79,12 @@ ms.date: 2026-11-18
 | **Operating Systems and Systems Programming**<br>操作系统与系统编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Web Applications**<br>网络应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Compilers**<br>编译器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Computer Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Computer Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Parallel Computing**<br>并行计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Computer and Network Security**<br>计算机与网络安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Computational Logic**<br>计算逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Advanced Data Structures**<br>高级数据结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -92,7 +92,7 @@ ms.date: 2026-11-18
 | **iOS Application Development**<br>iOS 应用开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Continuous Mathematical Methods with an Emphasis on Machine Learning**<br>强调机器学习的连续数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Deep Reinforcement Learning**<br>深度强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Spoken Language Processing**<br>口语语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -119,7 +119,7 @@ ms.date: 2026-11-18
 | **Computer Graphics: Rendering, Geometry, and Image Manipulation**<br>计算机图形学：渲染、几何与图像处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **The Modern Internet**<br>现代互联网 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Computational Complexity**<br>计算复杂性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Counting and Sampling**<br>计数与抽样 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -151,17 +151,17 @@ ms.date: 2026-11-18
 | **Signals and Systems I**<br>信号与系统 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Signals and Systems II**<br>信号与系统 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Digital System Design**<br>数字系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Digital Image Processing**<br>数字图像处理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Bioimaging**<br>生物成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Digital Image Processing**<br>数字图像处理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Bioimaging**<br>生物成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Probabilistic Systems Analysis**<br>概率系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Analog and Digital Communication Systems**<br>模拟与数字通信系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Board Level Design**<br>电路板级设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **The Fourier Transform and Its Applications**<br>傅里叶变换及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Digital Signal Processing**<br>数字信号处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Digital Communication**<br>数字通信导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Digital Communication**<br>数字通信入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Computer Systems Architecture**<br>计算机系统结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Computer Networks**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Computer Networks**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Convex Optimization I**<br>凸优化 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Convex Optimization II**<br>凸优化 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Medical Imaging Systems I**<br>医学成像系统 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -175,16 +175,16 @@ ms.date: 2026-11-18
 | **Internet Switching and Routing Protocols**<br>互联网交换与路由协议 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Performance Engineering of Computer Systems & Networks**<br>计算机系统与网络的性能工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Algebraic Error Correcting Codes**<br>代数纠错码 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Matrix Methods**<br>矩阵方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Control Design Techniques**<br>控制设计技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Matrix Methods**<br>矩阵方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Control Design Techniques**<br>控制设计技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Analysis and Control of Nonlinear Systems**<br>非线性系统的分析与控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Meta-research: Appraising Research Findings, Bias, and Meta-analysis**<br>元研究：评估研究发现、偏倚与荟萃分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Genetic Epidemiology**<br>遗传流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Intermediate Epidemiologic and Clinical Research Methods**<br>中级流行病学与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Design and Conduct of Clinical Trials**<br>临床试验的设计与实施 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Social Epidemiology**<br>社会流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Decoding Academia: Power, Hierarchies, and Transforming Institutions**<br>解码学术界：权力、等级与机构转型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -193,11 +193,11 @@ ms.date: 2026-11-18
 | **Applied Matrix Theory**<br>应用矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Functions of a Complex Variable**<br>复变函数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Graph Theory**<br>图论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Combinatorics and Its Applications**<br>组合数学及其应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Combinatorics and Its Applications**<br>组合数学及其应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Groups and Symmetry**<br>群与对称 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Number Theory for Cryptography**<br>密码学的数论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Linear Algebra and Matrix Theory**<br>线性代数与矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Functions of a Real Variable**<br>实变函数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Complex Analysis**<br>复分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Mathematics of Computation**<br>计算数学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -207,11 +207,11 @@ ms.date: 2026-11-18
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Differential Geometry**<br>微分几何 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Topology and Geometry**<br>拓扑与几何导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Topology and Geometry**<br>拓扑与几何入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Algebraic Geometry**<br>代数几何 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Differential Topology**<br>微分拓扑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Algebraic Topology**<br>代数拓扑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Elementary Theory of Numbers**<br>初等数论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Algebraic Number Theory**<br>代数数论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Analytic Number Theory**<br>解析数论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -226,14 +226,14 @@ ms.date: 2026-11-18
 | **Modern Algebra I**<br>近世代数 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Modern Algebra II**<br>近世代数 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Lie Theory**<br>李理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Algebraic Geometry**<br>代数几何导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Algebraic Geometry**<br>代数几何入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Computational Methods of Applied Mathematics**<br>应用数学计算方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Stochastic Methods in Engineering**<br>工程中的随机方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Theory of Probability I**<br>概率论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Theory of Probability II**<br>概率论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Theory of Probability III**<br>概率论 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Topics in Probability**<br>概率论专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Stochastic Differential Equations**<br>随机微分方程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Stochastic Differential Equations**<br>随机微分方程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Riemann Surfaces**<br>黎曼曲面 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Topics in Algebraic Geometry**<br>代数几何专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Topics in number theory**<br>数论专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -253,8 +253,8 @@ ms.date: 2026-11-18
 | **Dynamic Systems, Vibrations and Control**<br>动态系统、振动与控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Human Health and the Environment**<br>人类健康与环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Machine Learning and Causal Inference**<br>机器学习与因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Probabilistic Analysis**<br>概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Stochastic Simulation and Monte Carlo Methods**<br>随机模拟与蒙特卡罗方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Fundamentals of Data Science: Prediction, Inference, Causality**<br>数据科学基础：预测、推断、因果 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -271,19 +271,19 @@ ms.date: 2026-11-18
 | **Mathematical Tools for Neuroscience**<br>神经科学的数学工具 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Analysis Techniques for the Biosciences Using MATLAB**<br>使用MATLAB的生物科学分析技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Multivariate Analysis, Measurement, and Study of Change in Social Science Research**<br>社会科学研究中的多元分析、测量与变化研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Nonparametric Statistics**<br>非参数统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Nonparametric Statistics**<br>非参数统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Resampling Methods: Bootstrap, Cross Validation and Beyond**<br>重抽样方法：自助法、交叉验证及其他 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Machine Learning Theory**<br>机器学习理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Statistical Models in Biology**<br>生物学中的统计模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Design of Experiments**<br>实验设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Bayesian Statistics**<br>贝叶斯统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Massive Computational Experiments, Painlessly**<br>轻松进行大规模计算实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -313,7 +313,7 @@ ms.date: 2026-11-18
 | **Advances in Biotechnology**<br>生物技术进展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Deploying and Evaluating Fair AI in Healthcare**<br>医疗中公平AI的部署与评估 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Economics of Health and Medical Care**<br>健康与医疗经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析导论：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析入门：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Methods for Reproducible Population Health and Clinical Research**<br>可重复的人群健康与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Silicon Valley and the U.S. Government**<br>硅谷与美国政府 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Ethics, Public Policy, and Technological Change**<br>伦理、公共政策与技术变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
@@ -326,7 +326,7 @@ ms.date: 2026-11-18
 | **Practical Approaches to Global Health Research**<br>全球健康研究的实用方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Genes and Environment in Disease Causation: Implications for Medicine and Public Health**<br>疾病成因中的基因与环境：对医学与公共卫生的启示 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Law and the Biosciences**<br>法律与生物科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
-| **Introduction to Genetics, Ethics, and Society**<br>遗传学、伦理与社会导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
+| **Introduction to Genetics, Ethics, and Society**<br>遗传学、伦理与社会入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Law and Biosciences: Neuroscience**<br>法律与生物科学：神经科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Law and the Biosciences: Genetics**<br>法律与生物科学：遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |
 | **Global Leaders and Innovators in Human and Planetary Health: Sustainable Societies Lab**<br>人类与行星健康的全球领导者与创新者：可持续社会实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-data-science/master-of-science) |

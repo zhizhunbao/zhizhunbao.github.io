@@ -11,18 +11,18 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Linguistics Honours (B.A.)**<br>语言学荣誉（B.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
-| **Introduction to Linguistics.**<br>语言学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
+| **Introduction to Linguistics.**<br>语言学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Phonetics.**<br>语音学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Phonology 1.**<br>音系学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
-| **Introduction to Semantics.**<br>语义学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
+| **Introduction to Semantics.**<br>语义学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Syntax 1.**<br>句法学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Honours Thesis.**<br>荣誉论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Logic and Computability.**<br>逻辑与可计算性 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Mathematical Logic.**<br>数理逻辑 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
-| **Introduction to Deductive Logic 1.**<br>演绎逻辑导论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
+| **Introduction to Deductive Logic 1.**<br>演绎逻辑入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Linguistics of Indigenous Languages**<br>原住民语言语言学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Foundations of Programming.**<br>编程基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
-| **Introduction to Computer Science.**<br>计算机科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
+| **Introduction to Computer Science.**<br>计算机科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Linguistique française.**<br>法语语言学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Histoire de la langue française.**<br>法语史 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |
 | **Sociolinguistique du français.**<br>法语社会语言学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/) |

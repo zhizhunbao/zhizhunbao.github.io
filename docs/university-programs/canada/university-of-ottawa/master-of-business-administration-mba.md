@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **Mergers and Acquisitions**<br>并购 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
 | **Equity Valuation**<br>股权估值 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
 | **International Finance**<br>国际金融 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
-| **Introduction to FinTech**<br>金融科技导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
+| **Introduction to FinTech**<br>金融科技入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
 | **Alternative Investments**<br>另类投资 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
 | **Options and Futures**<br>期权与期货 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
 | **Prescriptive Analytics**<br>规范性分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-11
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
 | **Management Consulting Project**<br>管理咨询项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
 | **Principles of Negotiation**<br>谈判原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
-| **Managing the Professional Services Firm – Introduction**<br>专业服务公司管理导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
+| **Managing the Professional Services Firm – Introduction**<br>专业服务公司管理入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-business-administration-mba/) |
 
 ## Courses
 

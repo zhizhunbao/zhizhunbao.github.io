@@ -15,10 +15,10 @@ ms.date: 2026-11-11
 | **Chemical Reaction Laboratory 1**<br>化学反应实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Chemical Reactions, Equilibria and Kinetics**<br>化学反应、平衡与动力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Chemical Reaction Laboratory 2**<br>化学反应实验 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
-| **Introduction to Scientific Calculations**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
-| **Introduction to Laboratory Techniques**<br>实验室技术导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
+| **Introduction to Scientific Calculations**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
+| **Introduction to Laboratory Techniques**<br>实验室技术入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Structure and Bonding**<br>结构与成键 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
-| **Intro Analytical Chemistry**<br>分析化学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
+| **Intro Analytical Chemistry**<br>分析化学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Quantitative Chemical Analysis Laboratory**<br>定量化学分析实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Multi-Component Analysis**<br>多成分分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Fundamentals of Biochemistry**<br>生物化学基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Fundamentals of Metabolism 1**<br>代谢基础 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Chemical Kinetics and Statistical Mechanics**<br>化学动力学与统计力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Organic Chemistry 3**<br>有机化学 3 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
-| **Introduction to Polymer Science**<br>高分子科学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
+| **Introduction to Polymer Science**<br>高分子科学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Communication in the Sciences**<br>科学中的沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Physics 1**<br>物理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SJZHJJCAs3) |

@@ -1,17 +1,17 @@
 ---
-title: "3.3.24 Earth Systems, Major: Bachelor of Science"
+title: "4.3.24 Earth Systems, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Earth Systems, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.24 Earth Systems, Major: Bachelor of Science
+# 4.3.24 Earth Systems, Major: Bachelor of Science
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Earth Systems, Major: Bachelor of Science**<br>地球系统，主修：理学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Biology and Global Change**<br>生物学与全球变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Science for Sustainable Solutions**<br>可持续解决方案的科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Taking the Pulse of the Planet**<br>把脉地球 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **The Social Science of Sustainability**<br>可持续性的社会科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Internship Preparation Workshops**<br>实习准备工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Internship**<br>实习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Research in Ecology and Evolutionary Biology**<br>生态学与进化生物学研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Research in Ecology and Evolutionary Biology**<br>生态学与进化生物学研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Wild Writing**<br>野性写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Science and Environmental Journalism**<br>科学与环境新闻 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Environmental Storytelling**<br>环境叙事 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-18
 | **Earth Systems Capstone Project**<br>地球系统毕业设计项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Honors Program in Earth Systems**<br>地球系统荣誉项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Earth Systems Thesis Workshop**<br>地球系统论文工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Intermediate Writing: Introduction to Science Communication**<br>中级写作：科学传播导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Intermediate Writing: Introduction to Science Communication**<br>中级写作：科学传播入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Sexual Health Communication: Strategies to Save Lives**<br>性健康沟通：拯救生命的策略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Intermediate Writing: Storytelling and Science**<br>中级写作：讲故事与科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Intermediate Writing: Art in/and Science Communication**<br>中级写作：科学传播中的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -40,13 +40,13 @@ ms.date: 2026-11-18
 | **Shades of Green: Exploring and Expanding Environmental Justice in Practice**<br>绿色的层次：在实践中探索并拓展环境正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Stories that Move: Exploring and Creating Effective Environmental Media**<br>打动人心的故事：探索并创作有效的环境媒体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Environmental Justice and Literature**<br>环境正义与文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Environmental Ethics**<br>环境伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Environmental Ethics**<br>环境伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **History and Ethics of the Global Climate Crisis**<br>全球气候危机的历史与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **The Geoscience of Environmental Justice**<br>环境正义的地球科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Justice**<br>正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Native American History**<br>美洲原住民历史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Native American History**<br>美洲原住民历史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Economics for Sustainability**<br>可持续性经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -57,22 +57,22 @@ ms.date: 2026-11-18
 | **Calculus**<br>微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Vector Calculus for Engineers**<br>工程师矢量微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Biochemistry & Molecular Biology**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Evolution of Terrestrial Ecosystems**<br>陆地生态系统的演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Coevolution of Earth and Life**<br>地球与生命的协同演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Chemical Principles I**<br>化学原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Chemical Principles II**<br>化学原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Chemical Foundations and 21st Century Problems**<br>化学基础与21世纪问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Chemistry of the Earth and Planets**<br>地球与行星化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Environmental Data Analysis**<br>环境数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Data Science for Geoscience**<br>地球科学数据科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Data Science for Geoscience**<br>地球科学数据科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Engineering Thermodynamics**<br>工程热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **100% Clean, Renewable Energy and Storage for Everything**<br>100%清洁、可再生的能源与储能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Engineering Future Electricity Systems**<br>未来电力系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -120,7 +120,7 @@ ms.date: 2026-11-18
 | **Aquatic Chemistry and Biology**<br>水生化学与生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Soil and Water Chemistry**<br>土壤与水化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Earth and Planetary Processes and Mechanics**<br>地球与行星过程及力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **The Hidden Kingdom - Evolution, Ecology and Diversity of Fungi**<br>隐秘王国：真菌的进化、生态与多样性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Ornithology**<br>鸟类学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Macroevolution**<br>宏观进化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -151,10 +151,10 @@ ms.date: 2026-11-18
 | **Remote Sensing of Hydrology**<br>水文遥感 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Earthquakes and Volcanoes**<br>地震与火山 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Mining and the Green Transition**<br>采矿与绿色转型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Earth Materials: Introduction to Mineralogy**<br>地球材料：矿物学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Earth Materials: Introduction to Mineralogy**<br>地球材料：矿物学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Magmatic and Eruptive Processes**<br>岩浆与喷发过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Geomorphology: The Mechanics of Earth's Landscapes**<br>地貌学：地球景观的力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Physical Oceanography**<br>物理海洋学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Physical Oceanography**<br>物理海洋学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Geomicrobiology**<br>地质微生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Sedimentary Geochemistry and Analysis**<br>沉积地球化学与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Economic Analysis I**<br>经济分析 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -196,14 +196,14 @@ ms.date: 2026-11-18
 | **Light and Heat**<br>光与热 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Mechanics of Fluids**<br>流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Rivers, Streams, and Canals**<br>河流、溪流与运河 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Hydrologic Processes, Water Resources and Hazards**<br>水文过程、水资源与灾害 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **The Archaeology of Climate**<br>气候考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Water Innovation & Investment**<br>水创新与投资 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Environmental Governance**<br>环境治理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Decolonizing Methodologies: Introduction to Native American Studies**<br>去殖民方法论：美洲原住民研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Urban Studies**<br>城市研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计导论：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Decolonizing Methodologies: Introduction to Native American Studies**<br>去殖民方法论：美洲原住民研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Urban Studies**<br>城市研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计入门：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Designing Research for Social Justice: Creating a Community Engaged Research Project**<br>为社会正义设计研究：创建社区参与研究项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Evolution**<br>进化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -232,11 +232,11 @@ ms.date: 2026-11-18
 | **Human Nutrition**<br>人类营养学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Archaeology of Food: production, consumption and ritual**<br>食物考古学：生产、消费与仪式 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Food and Society: Exploring Eating Behaviors in Social, Environmental, and Policy Context**<br>食物与社会：在社会、环境与政策背景下探索饮食行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Environmental Science and Technology**<br>环境科学与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **The Sixth Extinction (and the Other Five)**<br>第六次大灭绝（及其他五次） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Method and Evidence in Anthropology**<br>人类学的方法与证据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Pragmatic Skills for Mixed Methods Community Research**<br>混合方法社区研究的实用技能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Qualitative Research Methodology**<br>定性研究方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
@@ -252,18 +252,18 @@ ms.date: 2026-11-18
 | **Problem Solving for Social Change**<br>社会变革的问题解决 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Problem Solving and Decision Making for Public Policy and Social Change**<br>公共政策与社会变革的问题解决与决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Foundations of Decision Analysis**<br>决策分析基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **What Makes You Tick? An Introduction to Affective Science**<br>是什么让你运转？情感科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **What Makes You Tick? An Introduction to Affective Science**<br>是什么让你运转？情感科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Judgment and Decision-Making**<br>判断与决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Social Psychology and Social Change**<br>社会心理学与社会变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Regional Politics and Decision Making in Silicon Valley and the Greater Bay Area**<br>硅谷与大湾区的区域政治与决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Implementing & Financing a Decarbonized Economy**<br>实施与资助脱碳经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Technology, International Security, and Sustainability**<br>技术、国际安全与可持续性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Sustainable Innovation for Disaster Resilience**<br>面向灾害韧性的可持续创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Integrative Design and Entrepreneurship for Sustainability**<br>可持续性的整合设计与创业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Racial Equity in Energy**<br>能源中的种族公平 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Social Movements & Education**<br>社会运动与教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
-| **Rethinking Meat: An Introduction to Alternative Proteins**<br>重新思考肉类：替代蛋白导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
+| **Rethinking Meat: An Introduction to Alternative Proteins**<br>重新思考肉类：替代蛋白入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Where the Wild Things Are: The Ecology and Ethics of Conserving Megafauna**<br>野兽出没之地：保护大型动物的生态与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **How Do We Get Out of Here? Global Ecocide**<br>我们如何逃离这里？全球生态灭绝 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |
 | **Will Technology Save the World?: Environmental Ethics and Techno-Optimism**<br>技术会拯救世界吗？环境伦理与技术乐观主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/earth-systems/bachelor-of-science) |

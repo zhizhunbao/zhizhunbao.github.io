@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Managing Requirements & Engagment for Canadian Workforce**<br>加拿大劳动力需求与参与管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bamm) |
 | **Big Data Fundamentals**<br>大数据基础 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bamm) |
 | **Management Information Systems**<br>管理信息系统 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bamm) |
-| **Introduction to Canadian Business Analytics**<br>加拿大商业分析导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bamm) |
+| **Introduction to Canadian Business Analytics**<br>加拿大商业分析入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bamm) |
 | **Canadian Careers in Business Analysis**<br>加拿大商业分析职业 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bamm) |
 | **SQL & Data Analysis**<br>SQL与数据分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bamm) |
 | **Canadian Business Process Modelling & Improvement**<br>加拿大业务流程建模与改进 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/bamm) |

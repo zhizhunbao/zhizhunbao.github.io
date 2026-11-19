@@ -1,10 +1,10 @@
 ---
-title: "3.1.72 Master of Public Health – Health and Social Behavior (65-credit)"
+title: "4.1.72 Master of Public Health – Health and Social Behavior (65-credit)"
 description: "University Programs > United States > Harvard University > Master of Public Health – Health and Social Behavior (65-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.72 Master of Public Health – Health and Social Behavior (65-credit)
+# 4.1.72 Master of Public Health – Health and Social Behavior (65-credit)
 
 ## Glossary
 
@@ -19,7 +19,7 @@ ms.date: 2026-11-18
 | **Applied Practice Experience and Integrative Learning Experience for Health and Social Behavior**<br>健康与社会行为应用实践经历与综合学习经历 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-health-social-behavior/) |
 | **Society and Health**<br>社会与健康 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-health-social-behavior/) |
 | **Principles of Social and Behavioral Research**<br>社会与行为研究原理 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-health-social-behavior/) |
-| **Introduction to Dissemination and Implementation Science**<br>传播与实施科学导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-health-social-behavior/) |
+| **Introduction to Dissemination and Implementation Science**<br>传播与实施科学入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-health-social-behavior/) |
 | **Health Communication in the 21st Century**<br>21世纪的健康传播 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-health-social-behavior/) |
 | **Reducing Socioeconomic and Racial/Ethnic Inequalities in Health: Concepts, Models, Effective Strategies**<br>减少健康中的社会经济与种族/族裔不平等：概念、模型与有效策略 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-health-social-behavior/) |
 

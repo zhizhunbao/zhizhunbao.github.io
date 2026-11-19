@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Bible, Quran and Interpretations.**<br>圣经、古兰经及其诠释 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
 | **Jews in Poland.**<br>波兰的犹太人 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
 | **The Hasidic Movement.**<br>哈西德运动 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
-| **Introduction to Yiddish Literature.**<br>意第绪文学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
+| **Introduction to Yiddish Literature.**<br>意第绪文学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
 | **The Holocaust.**<br>大屠杀 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
 | **Studies in Modern Jewish Literature.**<br>现代犹太文学研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
 | **The Shtetl: 1500-1897.**<br>小镇犹太社区：1500-1897 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
@@ -71,7 +71,7 @@ ms.date: 2026-11-11
 | **American Jewish Literature.**<br>美国犹太文学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
 | **Arab-Israel Conflict, Crisis, Peace.**<br>阿以冲突、危机与和平 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
 | **Social and Ethical Issues Jewish Law 1.**<br>犹太法的社会与伦理问题 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
-| **Introduction to Rabbinic Literature.**<br>拉比文献导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
+| **Introduction to Rabbinic Literature.**<br>拉比文献入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/) |
 
 ## Courses
 

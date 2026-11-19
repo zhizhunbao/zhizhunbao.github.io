@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Master of Environment and Business (MEB)**<br>环境与商业硕士（MEB） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJ03jAJn2) |
 | **Business and the Case for Sustainability (this is an on-campus block course offered in August, at the beginning of the program)**<br>商业与可持续性的理由（这是8月份项目开始时在校园内开设的集中课程） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJ03jAJn2) |
-| **Introduction to Sustainability for Business**<br>商业可持续性导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJ03jAJn2) |
+| **Introduction to Sustainability for Business**<br>商业可持续性入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJ03jAJn2) |
 | **Business Operations and Sustainability**<br>商业运营与可持续性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJ03jAJn2) |
 | **Enterprise Marketing and Social Accountability**<br>企业营销与社会责任 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJ03jAJn2) |
 | **Strategies for Sustainable Enterprises**<br>可持续企业战略 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BJ03jAJn2) |

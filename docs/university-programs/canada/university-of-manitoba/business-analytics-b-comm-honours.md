@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Data Analytics in Accounting**<br>会计数据分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/business-analytics-bcomm-honours/) |
 | **Systems Analysis and Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/business-analytics-bcomm-honours/) |
 | **Marketing Analytics**<br>营销分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/business-analytics-bcomm-honours/) |
-| **Introduction to Business Process Management**<br>业务流程管理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/business-analytics-bcomm-honours/) |
+| **Introduction to Business Process Management**<br>业务流程管理入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/business-analytics-bcomm-honours/) |
 | **Supply Chain Analytics**<br>供应链分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/management-business/business-analytics-bcomm-honours/) |
 
 ## Courses

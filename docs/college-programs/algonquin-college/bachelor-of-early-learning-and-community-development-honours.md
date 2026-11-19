@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Communications and Academic Writing**<br>沟通与学术写作 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Mentorship I**<br>导师指导 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
-| **Introduction to Curriculum**<br>课程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
+| **Introduction to Curriculum**<br>课程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Human Development II**<br>人类发展 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Supporting Children with Exceptionalities**<br>支持特殊需要儿童 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Logic and Critical Thinking**<br>逻辑与批判性思维 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Ethical Decision Making**<br>伦理决策 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Navigating Canada's Political Landscape**<br>解读加拿大政治格局 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Environmental Science**<br>环境科学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Anti-Racism: Theory and Practice**<br>反种族主义：理论与实践 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Foundations of Literacy, Numeracy, and Science Development**<br>读写、算术与科学发展基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |
 | **Creative Arts for Children**<br>儿童创意艺术 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1617X01FWO.pdf) |

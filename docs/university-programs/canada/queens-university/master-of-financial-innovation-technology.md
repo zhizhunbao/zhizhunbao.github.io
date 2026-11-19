@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Fin Data Privacy & Security**<br>金融数据隐私与安全 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-of-financial-innovation-and-technology/) |
 | **AI Ethics and Policy**<br>人工智能伦理与政策 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-of-financial-innovation-and-technology/) |
 | **Acquisition and Mgmt of Data**<br>数据的获取与管理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-of-financial-innovation-and-technology/) |
-| **Intro to Analytical Modelling**<br>分析建模导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-of-financial-innovation-and-technology/) |
+| **Intro to Analytical Modelling**<br>分析建模入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-of-financial-innovation-and-technology/) |
 | **Predictive Modelling**<br>预测建模 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-of-financial-innovation-and-technology/) |
 | **Machine Learning & AI**<br>机器学习与人工智能 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-of-financial-innovation-and-technology/) |
 

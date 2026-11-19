@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Raisonnement et pensée critique**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/) |
 | **Philosophie : idées et arguments**<br>哲学：观念与论证 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/) |
 | **Initiation aux études interdisciplinaires en Arts**<br>艺术跨学科研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/) |
-| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/) |
+| **Introduction to Interdisciplinary Study in the Arts**<br>艺术跨学科研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/) |
 | **Raisonnement moral**<br>道德推理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/) |
 | **Les grandes questions philosophiques**<br>重大哲学问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/) |
 | **Les grands philosophes**<br>伟大的哲学家 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/ba-specialise-lettres-francaises/) |

@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Health Sciences - Health and Wellness**<br>健康科学学士 - 健康与养生 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Introduction to Health and Wellness**<br>健康与保健入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
-| **Introduction to the Canadian Health System**<br>加拿大卫生体系导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
+| **Introduction to the Canadian Health System**<br>加拿大卫生体系入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Biology for Health Sciences**<br>健康科学生物学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Research and Writing in Health Science**<br>健康科学中的研究与写作 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Mathematics for Health Sciences**<br>健康科学数学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Interprofessional Education: Exploring Professional Roles and Responsibilities**<br>跨专业教育：探索专业角色与职责 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Changing Behaviour**<br>改变行为 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Global and Environmental Health**<br>全球与环境健康 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
-| **Introduction to Anatomy and Physiology for Health Science**<br>健康科学解剖与生理学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
+| **Introduction to Anatomy and Physiology for Health Science**<br>健康科学解剖与生理学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Communications for Health Science**<br>健康科学沟通 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Reflective and Critical Practice**<br>反思与批判性实践 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |
 | **Functional Anatomy and Human Kinetics**<br>功能解剖与人体运动学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-health-sciences-health-and-wellness) |

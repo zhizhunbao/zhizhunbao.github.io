@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Early Childhood Education Intensive (accelerated)**<br>幼儿教育 强化（加速） | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education-intensive-accelerated) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education-intensive-accelerated) |
-| **Introduction to Practice**<br>实践导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education-intensive-accelerated) |
+| **Introduction to Practice**<br>实践入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education-intensive-accelerated) |
 | **Observation & Documentation**<br>观察与记录 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education-intensive-accelerated) |
 | **Health, Safety & Well-Being**<br>健康、安全与福祉 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education-intensive-accelerated) |
 | **Creative Expression**<br>创意表达 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/early-childhood-education-intensive-accelerated) |

@@ -23,10 +23,10 @@ ms.date: 2026-11-08
 | **Matrix Algebra for Engineers**<br>工程师矩阵代数 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
 | **Physics for Scientists and Engineers 2**<br>科学家与工程师物理 2 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
 | **Applied Computer Programming**<br>应用计算机编程 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
-| **Intro to Probability and Statistics 1**<br>概率与统计导论 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
+| **Intro to Probability and Statistics 1**<br>概率与统计入门 1 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
 | **Engineering Mechanics**<br>工程力学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
-| **Intro to the Engineering Profession**<br>工程职业导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
-| **Intro to the Engineering Design Process**<br>工程设计流程导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
+| **Intro to the Engineering Profession**<br>工程职业入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
+| **Intro to the Engineering Design Process**<br>工程设计流程入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4241) |
 
 ## Courses
 

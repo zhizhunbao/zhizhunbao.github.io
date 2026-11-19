@@ -35,10 +35,10 @@ ms.date: 2026-11-08
 | **Techniques d'écoute en situation professionnelle**<br>职业情境中的倾听技巧 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
 | **Introduction au service à la clientèle**<br>客户服务入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
 | **C12 - Assurance des biens**<br>C12 - 财产保险 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
-| **C110 - Introduction à l'expertise des sinistres**<br>C110 - 理赔评估导论 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
+| **C110 - Introduction à l'expertise des sinistres**<br>C110 - 理赔评估入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
 | **English Second Language - Level B1.2**<br>英语作为第二语言 - B1.2级 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
 | **English Second Language - Level B2.3**<br>英语作为第二语言 - B2.3级 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
-| **C120 - Introduction à l'appréciation du risque**<br>C120 - 风险评估导论 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
+| **C120 - Introduction à l'appréciation du risque**<br>C120 - 风险评估入门 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
 | **C11 - Principes et pratique de l'assurance**<br>C11 - 保险原理与实务 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
 | **English Second Language - Level C1.1**<br>英语作为第二语言 - C1.1级 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |
 | **Mathématiques financières**<br>金融数学 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/programmes/assurance-de-dommages/) |

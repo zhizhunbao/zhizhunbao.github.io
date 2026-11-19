@@ -14,13 +14,13 @@ ms.date: 2026-11-11
 | **Artificial Intelligence Everywhere**<br>无处不在的人工智能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Artificial Intelligence Everywhere Capstone**<br>无处不在的人工智能毕业项目 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Literature in the Digital Age**<br>数字时代的文学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
-| **Introduction to Principles and Techniques of Data Science**<br>数据科学原理与技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
+| **Introduction to Principles and Techniques of Data Science**<br>数据科学原理与技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Machine Learning I**<br>机器学习 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
-| **Introduction to Reinforcement Learning**<br>强化学习导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
+| **Introduction to Reinforcement Learning**<br>强化学习入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Search and Planning in Artificial Intelligence**<br>人工智能中的搜索与规划 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
-| **Introduction to Multimedia Signal Processing**<br>多媒体信号处理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
+| **Introduction to Multimedia Signal Processing**<br>多媒体信号处理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Data Analysis and Machine Learning for Engineers**<br>工程师的数据分析与机器学习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Intelligent Systems Engineering**<br>智能系统工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Technology and History**<br>技术与历史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-11
 | **Statistics for Data Science**<br>数据科学统计学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Computing for Data Science**<br>数据科学计算 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Statistical Methods for Learning and Data Mining**<br>学习与数据挖掘的统计方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
-| **Introduction to Studies in Science, Technology and Society**<br>科学、技术与社会研究导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
+| **Introduction to Studies in Science, Technology and Society**<br>科学、技术与社会研究入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Responsible Data Science and Artificial Intelligence**<br>负责任的数据科学与人工智能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Computers and Society**<br>计算机与社会 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |
 | **Indigenous Peoples and Technoscience**<br>原住民与技术科学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111005&returnto=20858) |

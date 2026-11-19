@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Performing and Fine Arts**<br>表演与美术 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Arts and Culture in Canada**<br>加拿大的艺术与文化 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Arts of the Modern World**<br>现代世界艺术 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
-| **Introduction to Film Studies**<br>电影研究导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
-| **Introduction to Acting**<br>表演导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
-| **Introduction to Music**<br>音乐导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
+| **Introduction to Film Studies**<br>电影研究入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
+| **Introduction to Acting**<br>表演入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
+| **Introduction to Music**<br>音乐入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Career Development for Musicians I**<br>音乐人职业发展 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Canadian Film Studies**<br>加拿大电影研究 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Career Development for Musicians II**<br>音乐人职业发展 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
@@ -24,8 +24,8 @@ ms.date: 2026-11-08
 | **History of Popular Music 2**<br>流行音乐史 2 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **World Music 2**<br>世界音乐 2 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Professional Communication for Arts Entrepreneurs 3**<br>艺术创业者专业沟通 3 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
-| **Introduction to Writing Poetry**<br>诗歌写作导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
-| **Introduction to Playwriting**<br>戏剧写作导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
+| **Introduction to Writing Poetry**<br>诗歌写作入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
+| **Introduction to Playwriting**<br>戏剧写作入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Writing Song Lyrics**<br>歌词创作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Writing for Film 2**<br>电影写作 2 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Reading Literature and Culture**<br>文学与文化阅读 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-08
 | **Beginning Choral Ensemble I**<br>初级合唱团 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Studio Instruction – General (1hr) I**<br>个别指导：通用（1 小时）1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Studio Instruction – General (1/2 hr) I**<br>个别指导：通用（半小时）1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
-| **Introduction to Music Technology**<br>音乐技术导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
+| **Introduction to Music Technology**<br>音乐技术入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Percussion Ensemble I**<br>打击乐合奏 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Guitar Ensemble I**<br>吉他合奏 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Drafting for Stage**<br>舞台制图 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-08
 | **Set Painting**<br>布景绘制 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Properties**<br>性质 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **Stage Management**<br>舞台管理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
-| **Introduction to Costume**<br>服装导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
+| **Introduction to Costume**<br>服装入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **History of Theatre I**<br>戏剧史 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 | **History of Theatre II**<br>戏剧史 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctpfa) |
 

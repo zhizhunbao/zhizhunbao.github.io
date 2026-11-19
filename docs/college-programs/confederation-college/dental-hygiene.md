@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Radiography Theory for the DH**<br>牙科保健师放射学理论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Anatomy & Physiology I**<br>解剖与生理学 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Intro to Dental Materials**<br>牙科材料入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
-| **Introduction to the Dental Hygiene Profession**<br>牙科保健专业导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
+| **Introduction to the Dental Hygiene Profession**<br>牙科保健专业入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Principle of Dental Hygiene II**<br>牙科保健原理 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Preventative Oral Health Promotion I**<br>预防性口腔健康促进 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Anatomy & Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Clinical Intermediate**<br>中级临床 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Diverse Populations and Health Beliefs**<br>多元人群与健康观念 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Community Health Care and Promotions I**<br>社区医疗保健与健康促进 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
-| **Introduction to Research Methods**<br>研究方法导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
+| **Introduction to Research Methods**<br>研究方法入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Clinical Advanced**<br>高级临床 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Evidence Informed Practice**<br>循证实践 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |
 | **Community Health Care & Promotions II**<br>社区医疗保健与健康促进 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/dental-hygiene/) |

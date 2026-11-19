@@ -15,9 +15,9 @@ ms.date: 2026-11-08
 | **First Nations, Metis and Inuit Perspectives**<br>原住民、梅蒂人和因纽特人视角 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
 | **Mathematical Foundations**<br>数学基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
 | **Social Context of Sustainability and Climate Change**<br>可持续性与气候变化的社会背景 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
-| **Introduction to Earth Systems Science**<br>地球系统科学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
+| **Introduction to Earth Systems Science**<br>地球系统科学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
 | **Breadth Elective 1**<br>广度选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
-| **Introduction to Economics**<br>经济学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
+| **Introduction to Economics**<br>经济学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
 | **Environmental Policy and Regulations**<br>环境政策与法规 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
 | **Sustainable and Renewable Energy**<br>可持续与可再生能源 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |
 | **Storytelling for Sustainability**<br>可持续发展叙事 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=664&prg_ver=26-A) |

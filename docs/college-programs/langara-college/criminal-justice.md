@@ -12,22 +12,22 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Criminal Justice**<br>刑事司法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma) |
 | **Security**<br>安全 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to Canadian Law and Legal Institutions**<br>加拿大法律与法律制度导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to Policing**<br>警务导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to Canadian Law and Legal Institutions**<br>加拿大法律与法律制度入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to Policing**<br>警务入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to Government and Politics**<br>政府与政治导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to Government and Politics**<br>政府与政治入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Canadian Politics and Government**<br>加拿大政治与政府 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Business Presentation Skills**<br>商务演示技能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Professional Skills and Reporting for Criminal Justice**<br>刑事司法职业技能与报告撰写 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
-| **Introduction to Corrections**<br>矫正学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
+| **Introduction to Corrections**<br>矫正学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Criminal Law and Court Procedure**<br>刑法与法庭程序 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Ethics and Professional Issues in Justice and Law**<br>司法与法律中的伦理与职业问题 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |
 | **Psychological Disorders and Mental Health**<br>心理障碍与心理健康 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/criminal-justice-diploma/courses) |

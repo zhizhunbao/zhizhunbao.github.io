@@ -14,9 +14,9 @@ ms.date: 2026-11-08
 | **Communications for Nursing**<br>护理沟通 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
 | **First-Year University English**<br>大学一年级英语 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
 | **Foundation of Anatomy & Physiology**<br>解剖与生理学基础 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
-| **Nursing Foundations I: Introduction to Nursing**<br>护理基础 1：护理导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
+| **Nursing Foundations I: Introduction to Nursing**<br>护理基础 1：护理入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
 | **Health Education: Individual Health & Wellness**<br>健康教育：个人健康与保健 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
 | **Pathophysiology for Health-Care Professions**<br>医疗保健专业病理生理学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |
 | **Basic Pharmacotherapeutics**<br>基础药物治疗学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/practical-nurse-diploma/) |

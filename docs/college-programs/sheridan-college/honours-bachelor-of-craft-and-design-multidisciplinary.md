@@ -11,14 +11,14 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Craft and Design (Multidisciplinary)**<br>荣誉工艺与设计学士（多学科） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
-| **Introduction to Hand Building**<br>手工成型导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
+| **Introduction to Hand Building**<br>手工成型入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Furniture Design 1: Typologies**<br>家具设计1：类型学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
-| **Introduction to Hot Glassforming 1**<br>热玻璃成型导论 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
+| **Introduction to Hot Glassforming 1**<br>热玻璃成型入门 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Design Process 1**<br>设计流程1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Textiles 1: Form**<br>纺织品 1：形态 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
-| **Introduction to Wheel Throwing**<br>拉坯成型导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
+| **Introduction to Wheel Throwing**<br>拉坯成型入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Furniture Fab. 1: Intro to Woodworking**<br>家具制作1：木工入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
-| **Introduction to Cold and Warm Glassforming 1**<br>冷热玻璃成型导论 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
+| **Introduction to Cold and Warm Glassforming 1**<br>冷热玻璃成型入门 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **3D Fundamentals**<br>3D基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Textiles 1: Surface**<br>纺织品 1：表面 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Alternate Media – Ceramics**<br>替代媒介：陶瓷 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
@@ -31,12 +31,12 @@ ms.date: 2026-11-08
 | **Composition and Rhetoric Breadth**<br>写作与修辞广度课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Fundamental Ceramics**<br>陶瓷基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Furniture Design 2: Surfaces**<br>家具设计2：表面 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
-| **Introduction to Hot Glassforming 2**<br>热玻璃成型导论 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
+| **Introduction to Hot Glassforming 2**<br>热玻璃成型入门 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Design Process 2**<br>设计流程2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Textiles Sewing and Construction**<br>纺织品缝制与构造 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
-| **Introduction to Ceramic Technology**<br>陶瓷技术导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
+| **Introduction to Ceramic Technology**<br>陶瓷技术入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Furniture Fab. 2: Woodworking Methods**<br>家具制作2：木工方法 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
-| **Introduction to Cold and Warm Glassforming 2**<br>冷热玻璃成型导论 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
+| **Introduction to Cold and Warm Glassforming 2**<br>冷热玻璃成型入门 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Materials & Processes**<br>材料与工艺 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Textiles Explorations in Print & Surfaces**<br>印花与表面的纺织品探索 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |
 | **Digital 2D Visual Communication**<br>数字2D视觉传达 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-craft-and-design-multidisciplinary) |

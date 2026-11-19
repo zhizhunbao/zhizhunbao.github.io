@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Statistics, B.Sc. Honours**<br>统计学，B.Sc. 荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Statistical Quality Control**<br>统计质量控制 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
-| **Introduction to Nonparametric Statistics**<br>非参数统计导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
+| **Introduction to Nonparametric Statistics**<br>非参数统计入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Nonlinear Regression Models**<br>非线性回归模型 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Intermediate Topics in Statistics**<br>统计学中级专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **Partial Differential Equations**<br>偏微分方程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Real Analysis 2**<br>实分析 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Real Analysis 3**<br>实分析 3 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
-| **Introduction to Mathematical Modelling**<br>数学建模导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
+| **Introduction to Mathematical Modelling**<br>数学建模入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Linear Algebra and Matrix Analysis**<br>线性代数与矩阵分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Numerical Approximation Theory**<br>数值逼近理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Optimization**<br>优化 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
@@ -50,17 +50,17 @@ ms.date: 2026-11-11
 | **Software Development 1**<br>软件开发 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Software Development 2**<br>软件开发 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Analysis of Algorithms and Data Structures**<br>算法与数据结构分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Theory of Computing**<br>计算理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Machine Learning Concepts and Usage**<br>机器学习概念与应用 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Databases Concepts and Usage**<br>数据库概念与应用 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
-| **Introduction to Cryptography and Cryptosystems**<br>密码学与密码系统导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
+| **Introduction to Cryptography and Cryptosystems**<br>密码学与密码系统入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Artificial Intelligence**<br>人工智能 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Computability and Complexity**<br>可计算性与复杂性 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Advanced Data Structures**<br>高级数据结构 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Advanced Algorithms**<br>高级算法 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
-| **Introduction to Data Mining**<br>数据挖掘导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
+| **Introduction to Data Mining**<br>数据挖掘入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 | **Bioinformatics**<br>生物信息学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/statistics/statistics-bsc-honours/) |
 
 ## Courses

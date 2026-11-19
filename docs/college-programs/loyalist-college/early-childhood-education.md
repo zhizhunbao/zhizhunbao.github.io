@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Early Childhood Education**<br>幼儿教育 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
 | **Creative Play**<br>创意游戏 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
-| **Introduction to Child Development**<br>儿童发展导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
-| **Introduction to Early Childhood Education**<br>幼儿教育导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
+| **Introduction to Child Development**<br>儿童发展入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
+| **Introduction to Early Childhood Education**<br>幼儿教育入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
 | **Observing Early Development**<br>早期发展观察 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
 | **Becoming a Global Changemaker**<br>成为全球变革者 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |
 | **Health, Safety & Nutrition**<br>健康、安全与营养 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/early-childhood-education/) |

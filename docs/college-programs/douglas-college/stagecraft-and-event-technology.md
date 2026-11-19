@@ -19,10 +19,10 @@ ms.date: 2026-11-08
 | **Set painting**<br>布景绘制 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
 | **History of Theatre II**<br>戏剧史 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
 | **Set Construction**<br>布景搭建 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
-| **Introduction to Costume (5 weeks)**<br>服装导论（5 周） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
+| **Introduction to Costume (5 weeks)**<br>服装入门（5 周） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
 | **Properties**<br>性质 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
 | **Stage Management (5 weeks)**<br>舞台管理（5 周） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
-| **Introduction to CAD**<br>CAD 导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
+| **Introduction to CAD**<br>CAD 入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
 | **Lighting Software (5 weeks)**<br>灯光软件（5 周） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
 | **Design Explorations (5 weeks)**<br>设计探索（5 周） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |
 | **Audio Techniques I**<br>音频技术 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpstge) |

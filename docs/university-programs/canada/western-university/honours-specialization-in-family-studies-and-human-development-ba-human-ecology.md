@@ -22,8 +22,8 @@ ms.date: 2026-11-11
 | **DIVERSITY AND CANADIAN FAMILIES**<br>多样性与加拿大家庭 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
 | **MEASUREMENT AND ANALYSIS**<br>测量与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
 | **IMMIGRANT AND REFUGEE FAMILIES**<br>移民与难民家庭 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO COUNSELLING**<br>咨询导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GROUP COUNSELLING**<br>团体咨询导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO COUNSELLING**<br>咨询入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GROUP COUNSELLING**<br>团体咨询入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
 | **FAMILY LAW AND POLICY IN CANADA**<br>加拿大家庭法律与政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
 | **COMPARATIVE FAMILY POLICY**<br>比较家庭政策 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |
 | **PROFESSIONAL PERSPECTIVES**<br>专业视角 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20813&SelectedCalendar=Live&ArchiveID=) |

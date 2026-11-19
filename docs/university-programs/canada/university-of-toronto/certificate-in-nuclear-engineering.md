@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **CERTIFICATE IN NUCLEAR ENGINEERING**<br>核工程证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernuc) |
 | **Elements of Nuclear Engineering**<br>核工程基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernuc) |
-| **Introduction to Fusion Energy**<br>聚变能导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernuc) |
+| **Introduction to Fusion Energy**<br>聚变能入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernuc) |
 | **Nuclear Engineering**<br>核工程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernuc) |
 | **Nuclear Reactor Theory and Design**<br>核反应堆理论与设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernuc) |
 | **\* Thermal and Machine Design of Nuclear Power Reactors**<br>核动力反应堆的热工与机械设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecernuc) |

@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Vascular Botany**<br>维管植物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Microbiology I**<br>微生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Biology of Algae, Bryophytes, and Fungi**<br>藻类、苔藓植物与真菌生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Invertebrate Biology**<br>无脊椎动物生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Physical Chemistry for the Life Sciences**<br>生命科学物理化学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
-| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
+| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Advanced Geomorphology**<br>高级地貌学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 | **Natural Hazards**<br>自然灾害 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/environmental-studies-associate-science-degree/courses) |
 

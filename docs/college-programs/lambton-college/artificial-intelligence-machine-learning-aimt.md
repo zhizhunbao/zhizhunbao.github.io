@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Big Data Fundamental Data Storage Networking**<br>大数据基础数据存储与网络 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/aimt) |
 | **Careers in Artificial Intelligence & Machine Learning**<br>人工智能与机器学习职业 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/aimt) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/aimt) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/aimt) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/aimt) |
 | **Visualization for AI and ML**<br>AI 与机器学习可视化 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/aimt) |
 | **Advance Python - AI & ML Tools**<br>高级Python - AI与机器学习工具 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/aimt) |
 | **Data Mining & Analysis**<br>数据挖掘与分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/aimt) |

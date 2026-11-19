@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Private Pilot 3 - Advanced Flight Training**<br>私人飞行员 3 - 高级飞行训练 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Commercial-Pilot.aspx) |
 | **Ground School Theory and Application**<br>地面学校理论与应用 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Commercial-Pilot.aspx) |
 | **Instruments, Navigation, and Flight Test Preparation**<br>仪表、导航与飞行测试准备 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Commercial-Pilot.aspx) |
-| **Introduction to Aviation**<br>航空导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Commercial-Pilot.aspx) |
+| **Introduction to Aviation**<br>航空入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Commercial-Pilot.aspx) |
 | **Aviation Language Proficiency**<br>航空语言能力 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Commercial-Pilot.aspx) |
 | **Leadership Development**<br>领导力发展 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Commercial-Pilot.aspx) |
 | **Indigenous Cultural Awareness**<br>原住民文化意识 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Commercial-Pilot.aspx) |

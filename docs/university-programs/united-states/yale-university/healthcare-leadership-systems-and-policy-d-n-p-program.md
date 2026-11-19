@@ -1,10 +1,10 @@
 ---
-title: "3.4.137 HealthCare Leadership, Systems, and Policy D.N.P. Program"
+title: "4.4.137 HealthCare Leadership, Systems, and Policy D.N.P. Program"
 description: "University Programs > United States > Yale University > HealthCare Leadership, Systems, and Policy D.N.P. Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.137 HealthCare Leadership, Systems, and Policy D.N.P. Program
+# 4.4.137 HealthCare Leadership, Systems, and Policy D.N.P. Program
 
 ## Glossary
 

@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Presentation Software**<br>演示软件 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/office-administration-general/courses?id=36104) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/office-administration-general/courses?id=36104) |
 | **Business Mathematics I**<br>商务数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/office-administration-general/courses?id=36104) |
-| **Introduction to Office Technology**<br>办公技术导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/office-administration-general/courses?id=36104) |
+| **Introduction to Office Technology**<br>办公技术入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/office-administration-general/courses?id=36104) |
 | **Keyboarding Techniques 1**<br>键盘输入技术 1 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/office-administration-general/courses?id=36104) |
 | **Office Procedures I**<br>办公室流程 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/office-administration-general/courses?id=36104) |
 | **Interpersonal And Group Dynamics**<br>人际与团体动力 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/office-administration-general/courses?id=36104) |

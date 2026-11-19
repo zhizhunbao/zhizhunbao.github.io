@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN CHILDHOOD AND YOUTH STUDIES (formerly the HONOURS SPECIALIZATION IN CHILDHOOD AND SOCIAL INSTITUTIONS)**<br>儿童与青少年研究荣誉专业方向（原荣誉专业方向：儿童与社会制度） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHILDHOOD AND YOUTH STUDIES**<br>童年与青少年研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHILDHOOD AND YOUTH STUDIES**<br>童年与青少年研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDHOOD, YOUTH, AND THE LAW**<br>童年、青少年与法律 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ADVOCACY**<br>倡导导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WRITING FOR CHILDHOOD AND YOUTH STUDIES**<br>儿童与青少年研究写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ADVOCACY**<br>倡导入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WRITING FOR CHILDHOOD AND YOUTH STUDIES**<br>儿童与青少年研究写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
 | **WRITING AND DISCOURSES OF CHILDHOOD**<br>写作与童年话语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
 | **CHILDREN, ACTIVISM, AND CHANGE**<br>儿童、行动主义与变革 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |
 | **FACILITATING CHILD ADVOCACY**<br>促进儿童倡导 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20692&SelectedCalendar=Live&ArchiveID=) |

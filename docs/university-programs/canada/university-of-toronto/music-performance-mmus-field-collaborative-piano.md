@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Performance Practices Before 1800**<br>1800年以前的演奏实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Analysis and Performance: Music of the 18th and 19th Centuries**<br>分析与演奏：18世纪与19世纪音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Analysis and Performance: Music of the 20th and 21st Centuries**<br>分析与演奏：20世纪与21世纪音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Music Analysis**<br>音乐分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Music Analysis**<br>音乐分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Advanced Repertoire for Singers and Pianists I**<br>歌唱家与钢琴家高级曲目 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Advanced Repertoire for Singers and Pianists II**<br>歌唱家与钢琴家高级曲目 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Collaborative Piano Studio Techniques I**<br>钢琴合作工作室技巧 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |

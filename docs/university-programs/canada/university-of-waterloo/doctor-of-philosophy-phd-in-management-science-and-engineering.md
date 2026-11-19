@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Doctor of Philosophy (PhD) in Management Science and Engineering**<br>哲学博士（PhD），管理科学与工程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkZjgy0Ro3) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkZjgy0Ro3) |
 | **Applied Economics for Management**<br>管理应用经济学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkZjgy0Ro3) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkZjgy0Ro3) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkZjgy0Ro3) |
 | **Human Computer Interaction**<br>人机交互 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkZjgy0Ro3) |
 | **Probabilistic Models in Operations Research**<br>运筹学中的概率模型 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkZjgy0Ro3) |
 | **Deterministic Models in Operations Research**<br>运筹学确定性模型 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkZjgy0Ro3) |

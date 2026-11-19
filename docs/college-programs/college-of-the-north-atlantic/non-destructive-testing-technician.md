@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/non-destructive-testing-technician) |
 | **WHMIS**<br>WHMIS | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/non-destructive-testing-technician) |
 | **Standard First Aid**<br>标准急救 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/non-destructive-testing-technician) |
-| **Intro to Non-Destructive Testing**<br>无损检测导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/non-destructive-testing-technician) |
+| **Intro to Non-Destructive Testing**<br>无损检测入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/non-destructive-testing-technician) |
 | **Math Fundamentals for NDT**<br>无损检测数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/non-destructive-testing-technician) |
 | **Science for NDT**<br>无损检测科学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/non-destructive-testing-technician) |
 | **Materials and Processes**<br>材料与工艺 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/non-destructive-testing-technician) |

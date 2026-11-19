@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Lab Techniques - Hematology**<br>实验室技术 - 血液学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlbt/) |
 | **Lab Techniques - Microbiology**<br>实验室技术 - 微生物学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlbt/) |
 | **Lab Techniques - Chemistry**<br>实验室技术 - 化学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlbt/) |
-| **Introduction to Transfusion**<br>输血导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlbt/) |
+| **Introduction to Transfusion**<br>输血入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlbt/) |
 | **BIOL 2027**<br>BIOL 2027 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlbt/) |
 | **BIOL 2028**<br>BIOL 2028 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlbt/) |
 | **CHEM 2007**<br>CHEM 2007 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/mlbt/) |

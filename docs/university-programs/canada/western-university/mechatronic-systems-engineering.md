@@ -27,10 +27,10 @@ ms.date: 2026-11-11
 | **MECHANICS OF MATERIALS**<br>材料力学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
 | **THERMODYNAMICS I**<br>热力学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
 | **ENGINEERING DYNAMICS**<br>工程动力学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FLUID MECHANICS AND HEAT TRANSFER**<br>流体力学与传热导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FLUID MECHANICS AND HEAT TRANSFER**<br>流体力学与传热入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
 | **ENGINEERING SHOP SAFETY TRAINING**<br>工程车间安全培训 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ELECTRICAL INSTRUMENTATION**<br>电气仪表导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
-| **INTRO TO MECHATRONIC DESIGN**<br>机电一体化设计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ELECTRICAL INSTRUMENTATION**<br>电气仪表入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
+| **INTRO TO MECHATRONIC DESIGN**<br>机电一体化设计入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
 | **COMPUTATIONAL METHODS FOR MECHATRONIC SYSTEMS ENGINEERS**<br>机电系统工程师计算方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
 | **CIRCUITS AND SYSTEMS**<br>电路与系统 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |
 | **APPLIED MATHEMATICS FOR ENGINEERING II**<br>工程应用数学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21288&SelectedCalendar=Live&ArchiveID=) |

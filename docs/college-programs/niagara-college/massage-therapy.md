@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Clinical Techniques and Assessment II**<br>临床技术与评估 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/massage-therapy/) |
 | **Professionalism in Massage Therapy II**<br>按摩治疗职业素养 II | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/massage-therapy/) |
 | **Completion of additional General Education elective 1 course required**<br>须再完成1门额外通识教育选修课 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/massage-therapy/) |
-| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/massage-therapy/) |
+| **Introduction to Interprofessional Education and Practice**<br>跨专业教育与实践入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/massage-therapy/) |
 | **Pathophysiology for RMT I**<br>注册按摩治疗师病理生理学 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/massage-therapy/) |
 | **Neuroanatomy**<br>神经解剖学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/massage-therapy/) |
 | **Massage Theory III**<br>按摩理论 III | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/alliedhealth/program/massage-therapy/) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Operating Engineering Studies I**<br>操作工程研究 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpex) |
 | **Operating Engineering Calculations**<br>操作工程师计算 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpex) |
 | **Electric Circuits**<br>电路 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpex) |
-| **Introduction to Biofuelds and Bio-Based Chemicals**<br>生物燃料与生物基化学品导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpex) |
+| **Introduction to Biofuelds and Bio-Based Chemicals**<br>生物燃料与生物基化学品入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpex) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpex) |
 | **Operating Engineering Studies - Boilers**<br>操作工程研究 - 锅炉 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpex) |
 | **Refrigeration Theory & Systems I**<br>制冷理论与系统 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/cpex) |

@@ -14,9 +14,9 @@ ms.date: 2026-11-08
 | **Yinka Dene Worldview**<br>Yinka Dene 世界观 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Personal Health and Wellness**<br>个人健康与保健 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Aboriginal Peoples of Canada**<br>加拿大原住民族 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Intro. to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Intro to Womens' Studies I**<br>妇女研究导论 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Intro. to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Intro to Womens' Studies I**<br>妇女研究入门 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Social Problems**<br>社会问题 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Critical Perspectives on**<br>批判视角 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
@@ -24,23 +24,23 @@ ms.date: 2026-11-08
 | **Helping Skills: Practical Apps**<br>助人技能：实践应用 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Communication & Interpersonal**<br>沟通与人际交往 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Social Welfare Policy**<br>社会福利政策 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Intro to Social Work Practice**<br>社会工作实践导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Intro to Social Work Practice**<br>社会工作实践入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Group Process and Practice**<br>团体过程与实践 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Issues Principles Field Work**<br>议题原则实地工作 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Aboriginal Services Practicum**<br>原住民服务实习 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Practicum and Seminar I**<br>实习与研讨 I | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Introduction to Philosophy**<br>哲学导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Introduction to Philosophy**<br>哲学入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Cultural Anthropology**<br>文化人类学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Moral Philosophy**<br>道德哲学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Theory of Knowledge**<br>知识论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Intro to Criminal Justice**<br>刑事司法导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Introduction to Disabilities**<br>残障导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Intro to Criminal Justice**<br>刑事司法入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Introduction to Disabilities**<br>残障入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Loss and Grief**<br>丧失与悲伤 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Counselling Theories**<br>咨询理论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Mental Health**<br>心理健康 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Addictions**<br>成瘾 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
-| **Intro to Child Welfare**<br>儿童福利导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
+| **Intro to Child Welfare**<br>儿童福利入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 | **Human Behaviour Techniques**<br>人类行为技术 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/social-service-worker-ut-diploma) |
 
 ## Courses

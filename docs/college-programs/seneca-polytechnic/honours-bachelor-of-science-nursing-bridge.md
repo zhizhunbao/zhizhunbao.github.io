@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Pharmacotherapeutic Concepts in Acute and Chronic Illness**<br>急慢性疾病的药物治疗概念 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNB/courses.html) |
 | **RPN to RN Professional Role Transition**<br>RPN到RN的职业角色转换 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNB/courses.html) |
 | **Scholarly Writing in Nursing**<br>护理学术写作 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNB/courses.html) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNB/courses.html) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNB/courses.html) |
 | **Comprehensive Health Assessment**<br>综合健康评估 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNB/courses.html) |
 | **Nursing Practice in Acute and Chronic Illness**<br>急慢性疾病护理实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNB/courses.html) |
 | **Bridge to BSCN Seminar and Simulation**<br>护理学士衔接研讨与模拟 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BSNB/courses.html) |

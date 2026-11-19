@@ -31,12 +31,12 @@ ms.date: 2026-11-08
 | **Indigenous Family Structure & Child Welfare**<br>原住民家庭结构与儿童福利 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **Indigenous Wholistic Practices**<br>原住民整体实践 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **Elective - Select 1**<br>选修课 - 选择 1 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
-| **Introduction to Community Mental Health**<br>社区心理健康导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
+| **Introduction to Community Mental Health**<br>社区心理健康入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **Service Learning for Indigenous Studies Part 3**<br>原住民研究服务学习 第3部分 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **Impacts-Truth & Reconciliation**<br>影响 - 真相与和解 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **First Nations Perspectives**<br>原住民视角 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **Service Service Learning for Indigenous Studies Part 4**<br>原住民研究服务学习 第4部分 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **Sociology II**<br>社会学 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **Canadian Politics & Government II**<br>加拿大政治与政府 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |
 | **Indigenous Family Structure**<br>原住民家庭结构 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/libi) |

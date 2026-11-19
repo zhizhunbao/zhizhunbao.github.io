@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN SEXUALITY STUDIES (21144)**<br>性学研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GENDER AND WOMEN'S STUDIES**<br>性别与女性研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BLACK STUDIES**<br>黑人研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SEXUALITY STUDIES**<br>性学研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GENDER AND WOMEN'S STUDIES**<br>性别与女性研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BLACK STUDIES**<br>黑人研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SEXUALITY STUDIES**<br>性学研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
 | **GENDER, JUSTICE, CHANGE**<br>性别、正义、变革 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EQUITY, DIVERSITY, AND HUMAN RIGHTS**<br>公平、多样性与人权导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EQUITY, DIVERSITY, AND HUMAN RIGHTS**<br>公平、多样性与人权入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
 | **THE HISTORY OF SEXUALITY**<br>性史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
 | **SEX WARS: FOUNDATIONAL DEBATES IN SEXUALITY STUDIES**<br>性别之争：性学研究中的基础性辩论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |
 | **QUEER THEORY**<br>酷儿理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21144&SelectedCalendar=Live&ArchiveID=) |

@@ -18,12 +18,12 @@ ms.date: 2026-11-08
 | **Professional Development and Customer Relations**<br>职业发展与客户关系 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
 | **Business Office Procedures**<br>商务办公程序 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
 | **Human Resource Management I**<br>人力资源管理 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
 | **Field Experience for Administrative Professionals**<br>行政专业人员现场体验 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
 | **Community Based Learning Experience**<br>社区学习体验 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
 | **Collaboration and Emerging Technology**<br>协作与新兴技术 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
-| **Introduction to Management**<br>管理学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
+| **Introduction to Management**<br>管理学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
 | **Social and Digital Communication**<br>社交与数字沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/administrative-professional/costs-and-courses/) |
 
 ## Courses

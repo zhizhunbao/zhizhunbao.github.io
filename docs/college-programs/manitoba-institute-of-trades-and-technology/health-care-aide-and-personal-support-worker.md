@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Health Care Aide and Personal Support Worker**<br>医疗护理员与个人支持工 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-health-care-aide-and-personal-support-worker-2025-2026-1.pdf) |
-| **Introduction to the Healthcare Environment**<br>医疗保健环境导论 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-health-care-aide-and-personal-support-worker-2025-2026-1.pdf) |
+| **Introduction to the Healthcare Environment**<br>医疗保健环境入门 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-health-care-aide-and-personal-support-worker-2025-2026-1.pdf) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-health-care-aide-and-personal-support-worker-2025-2026-1.pdf) |
 | **Anatomy and Physiology 1**<br>解剖与生理学 1 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-health-care-aide-and-personal-support-worker-2025-2026-1.pdf) |
 | **Human Development for Healthcare Professionals**<br>面向医疗专业人员的人类发展 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/wp-content/uploads/program-reference-sheet-health-care-aide-and-personal-support-worker-2025-2026-1.pdf) |

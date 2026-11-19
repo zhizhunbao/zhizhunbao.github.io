@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Adapted Recreation and Program Planning in Therapeutic Recreation**<br>治疗性休闲中的适应性休闲与项目规划 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/trex) |
 | **Leisure Education & Counselling in Therapeutic Recreation**<br>治疗性娱乐中的休闲教育与咨询 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/trex) |
 | **Therapeutic Recreation Assessment**<br>治疗性康乐评估 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/trex) |
-| **Introduction to Community Mental Health**<br>社区心理健康导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/trex) |
+| **Introduction to Community Mental Health**<br>社区心理健康入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/trex) |
 | **Therapeutic Recreation Leadership**<br>治疗性休闲领导力 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/trex) |
 | **Therapeutic Recreation Practice and Professional Portfolio**<br>治疗性休闲实践与专业档案 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/trex) |
 | **Field Placement I (7 weeks)**<br>实习 I (7周) | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/trex) |

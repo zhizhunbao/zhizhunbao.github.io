@@ -15,21 +15,21 @@ ms.date: 2026-11-08
 | **Design Principles I**<br>设计原则 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Interactive Media Tools I**<br>互动媒体工具 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Digital Photography**<br>数码摄影 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
-| **Introduction to Typography and Text-Crafting**<br>字体排印与文本创作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
+| **Introduction to Typography and Text-Crafting**<br>字体排印与文本创作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Interactive Media Business I**<br>互动媒体商业 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
-| **Introduction to Web Design**<br>网页设计导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
+| **Introduction to Web Design**<br>网页设计入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Sound**<br>声音 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Design Principles II**<br>设计原则 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Interactive Media Tools II**<br>互动媒体工具 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Mindful Design**<br>正念设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Interactive Media Business II**<br>互动媒体商业 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Web Development I**<br>Web 开发 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
-| **Introduction to Video**<br>视频导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
+| **Introduction to Video**<br>视频入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **User Experience Design**<br>用户体验设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **VFX and Motion Graphics**<br>视觉特效与动态图形 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Interactive Media Business III**<br>互动媒体商业 III | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Web Development II**<br>Web 开发 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
-| **Introduction to 3D**<br>3D 导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
+| **Introduction to 3D**<br>3D 入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Content Creation and Application**<br>内容创作与应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **UX and Interaction Design**<br>用户体验与交互设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |
 | **Advanced VFX and Motion Graphics**<br>高级视觉特效与动态图形 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/INM/courses.html) |

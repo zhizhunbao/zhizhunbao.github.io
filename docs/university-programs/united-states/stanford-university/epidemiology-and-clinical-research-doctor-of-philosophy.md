@@ -1,21 +1,21 @@
 ---
-title: "3.3.176 Epidemiology and Clinical Research, Doctor of Philosophy"
+title: "4.3.176 Epidemiology and Clinical Research, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Epidemiology and Clinical Research, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.176 Epidemiology and Clinical Research, Doctor of Philosophy
+# 4.3.176 Epidemiology and Clinical Research, Doctor of Philosophy
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Epidemiology and Clinical Research, Doctor of Philosophy**<br>流行病学与临床研究，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
-| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
+| **Introduction to Epidemiologic and Clinical Research Methods**<br>流行病学与临床研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Intermediate Epidemiologic and Clinical Research Methods**<br>中级流行病学与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Advanced Epidemiologic Methods**<br>高级流行病学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Foundations of Statistical and Scientific Inference**<br>统计与科学推断基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
-| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
+| **Introduction to Probability and Statistics for Epidemiology**<br>流行病学概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Intermediate Biostatistics: Analysis of Discrete Data**<br>中级生物统计学：离散数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Intermediate Biostatistics: Regression, Prediction, Survival Analysis**<br>中级生物统计学：回归、预测、生存分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Writing Compelling Fellowships and Career Development Awards**<br>撰写有说服力的奖学金与职业发展奖申请 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
@@ -32,12 +32,12 @@ ms.date: 2026-11-18
 | **Evaluating Technologies for Diagnosis, Prediction and Screening**<br>诊断、预测与筛查技术的评估 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Big Data Methods for Behavioral, Social, and Population Health Research**<br>行为、社会与人群健康研究的大数据方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Outcomes Analysis**<br>结果分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
-| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析导论：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
+| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析入门：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Sampling**<br>采样 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
-| **Introduction to Nonparametric Statistics**<br>非参数统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
+| **Introduction to Nonparametric Statistics**<br>非参数统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Bayesian Statistics**<br>贝叶斯统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Genomic approaches to the study of human disease**<br>人类疾病研究的基因组学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-18
 | **Cancer in Asian Americans: Epidemiology and Prevention**<br>亚裔美国人的癌症：流行病学与预防 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Methods for Reproducible Population Health and Clinical Research**<br>可重复的人群健康与临床研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Scientific Writing**<br>科学写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
-| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
+| **Introduction to Data Management and Analysis in SAS & R**<br>SAS与R数据管理与分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Genetic Epidemiology**<br>遗传流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Epidemiology of Infectious Diseases**<br>传染病流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Practical Approaches to Global Health Research**<br>全球健康研究的实用方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-18
 | **Epidemic Intelligence: How to Identify, Investigate and Interrupt Outbreaks of Disease**<br>疫情情报：如何识别、调查并阻断疾病暴发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Human Health and the Environment**<br>人类健康与环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Cancer Epidemiology and Prevention**<br>癌症流行病学与预防 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
-| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
+| **Introduction to Probability and Statistics for Clinical Research**<br>临床研究概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Social Epidemiology**<br>社会流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Using Real-World Data for Clinical and Population Health Research**<br>运用真实世界数据开展临床与人群健康研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |
 | **Life Course Epidemiology**<br>生命历程流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/epidemiology-and-clinical-research/doctor-of-philosophy) |

@@ -13,15 +13,15 @@ ms.date: 2026-11-11
 | **Honours Bachelor of Science in Human Kinetics**<br>人类运动学荣誉理学学士 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Essentials of Human Anatomy and Physiology I**<br>人体解剖与生理学要义 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Musculoskeletal Anatomy**<br>肌肉骨骼解剖学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
-| **Introduction to Organismal Biology**<br>生物体生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
-| **Introduction to Cell and Molecular Biology**<br>细胞与分子生物学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
+| **Introduction to Organismal Biology**<br>生物体生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
+| **Introduction to Cell and Molecular Biology**<br>细胞与分子生物学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Principles of Chemistry**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Calculus for the Life Sciences I**<br>生命科学微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Principles of Physics I**<br>物理学原理 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Biomechanical Analysis of Human Movement**<br>人体运动的生物力学分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Motor Control and Learning**<br>运动控制与学习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
-| **Introduction to Sport and Exercise Psychology**<br>运动与锻炼心理学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
+| **Introduction to Sport and Exercise Psychology**<br>运动与锻炼心理学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Research Methods in Human Kinetics**<br>人体运动学研究方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Exercise Physiology I**<br>运动生理学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Laboratory Techniques in Exercise Physiology and Biomechanics**<br>运动生理学与生物力学实验技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Physical Activity in a Global Health Perspective**<br>全球健康视角下的身体活动 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Sociology of Sport and Physical Activity in Canada**<br>加拿大体育与体育活动社会学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
-| **Introduction to Leisure Studies**<br>休闲研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
+| **Introduction to Leisure Studies**<br>休闲研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Administration of Leisure, Sport and Physical Activity Services**<br>休闲、体育与身体活动服务管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **History of Sport and Physical Activity in Canada**<br>加拿大体育与身体活动史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |
 | **Research Project**<br>研究项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-human-kinetics/) |

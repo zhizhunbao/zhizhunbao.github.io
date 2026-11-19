@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Critical Writing about Literature**<br>文学批判写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
 | **Charting Literary History I**<br>文学史图谱 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
 | **Charting Literary History II**<br>文学史图谱 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-| **Introduction to Theory and Criticism**<br>理论与批评导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+| **Introduction to Theory and Criticism**<br>理论与批评入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
 | **Children's Literature**<br>儿童文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
 | **Independent Studies in Creative Writing: Poetry**<br>创意写作独立研究：诗歌 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
 | **Independent Studies in Creative Writing: Prose**<br>创意写作独立研究：散文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
@@ -26,27 +26,24 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | 12.0 credits in English are required of which at least 3.0 credits must be at the C-level and 1.5 credits at the D-level. They should be selected as follows: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | 1. All of the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  | ENGA01H3 | What Is Literature? | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  | ENGA02H3 | Critical Writing about Literature | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  | ENGB27H3 | Charting Literary History I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  | ENGB28H3 | Charting Literary History II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  | ENGC15H3 | Introduction to Theory and Criticism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | 2. 1.0 additional credits from courses whose content is pre-1900\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | \*See the English Course List for courses in pre-1900 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | 3. 0.5 additional credit in Indigenous Literatures of Turtle Island |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | \*See the English Course List for courses in Indigenous Literatures of Turtle Island |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | 4. 0.5 credit in Canadian Literature\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | \*See the English Course List for courses in Canadian Literature |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | 5. 7.5 additional credits in ENG or FLM courses |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | Note: Students may count no more than one of the following courses towards the Specialist requirements: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  | ENGB35H3 | Children's Literature | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | (ENGB36H3) Detective Fiction |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | (ENGB41H3) Science Fiction |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  | Students may count no more than 1.0 credit of D-level independent study [ | ENGD26Y3 | Independent Studies in Creative Writing: Poetry | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  | Students may count no more than 1.0 credit of D-level independent study [ | ENGD27Y3 | Independent Studies in Creative Writing: Prose | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  | Students may count no more than 1.0 credit of D-level independent study [ | ENGD28Y3 | Independent Studies in Creative Writing: Open Genre | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
-|  |  |  | The following courses do not count towards any English programs: ENG100H, ENG185Y. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 1. All of the following | ENGA01H3 | What Is Literature? | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 1. All of the following | ENGA02H3 | Critical Writing about Literature | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 1. All of the following | ENGB27H3 | Charting Literary History I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 1. All of the following | ENGB28H3 | Charting Literary History II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 1. All of the following | ENGC15H3 | Introduction to Theory and Criticism | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 1. All of the following |  | 2. 1.0 additional credits from courses whose content is pre-1900\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 1. All of the following |  | \*See the English Course List for courses in pre-1900 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 3. 0.5 additional credit in Indigenous Literatures of Turtle Island |  | \*See the English Course List for courses in Indigenous Literatures of Turtle Island |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 3. 0.5 additional credit in Indigenous Literatures of Turtle Island |  | 4. 0.5 credit in Canadian Literature\* |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 3. 0.5 additional credit in Indigenous Literatures of Turtle Island |  | \*See the English Course List for courses in Canadian Literature |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 5. 7.5 additional credits in ENG or FLM courses |  | Note: Students may count no more than one of the following courses towards the Specialist requirements: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 5. 7.5 additional credits in ENG or FLM courses | ENGB35H3 | Children's Literature | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 5. 7.5 additional credits in ENG or FLM courses |  | (ENGB36H3) Detective Fiction |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 5. 7.5 additional credits in ENG or FLM courses |  | (ENGB41H3) Science Fiction |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 5. 7.5 additional credits in ENG or FLM courses; Students may count no more than 1.0 credit of D-level independent study [ | ENGD26Y3 | Independent Studies in Creative Writing: Poetry | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 5. 7.5 additional credits in ENG or FLM courses; Students may count no more than 1.0 credit of D-level independent study [ | ENGD27Y3 | Independent Studies in Creative Writing: Prose | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 5. 7.5 additional credits in ENG or FLM courses; Students may count no more than 1.0 credit of D-level independent study [ | ENGD28Y3 | Independent Studies in Creative Writing: Open Genre | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
+|  | 5. 7.5 additional credits in ENG or FLM courses |  | The following courses do not count towards any English programs: ENG100H, ENG185Y. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1645) |
 
 ## References
 

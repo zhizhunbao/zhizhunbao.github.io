@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Indigenous Studies, 4-Year BA**<br>原住民研究，4 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=3) |
-| **Introduction to Indigenous Studies: Arts, Culture and History**<br>原住民研究导论：艺术、文化与历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=3) |
-| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究导论：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=3) |
+| **Introduction to Indigenous Studies: Arts, Culture and History**<br>原住民研究入门：艺术、文化与历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=3) |
+| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究入门：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=3) |
 | **IS-**<br>IS- | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=3) |
 | **Indigenous Women and Resilience**<br>原住民女性与韧性 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=3) |
 | **Indigenous Peoples, Lands, and Resources**<br>原住民、土地与资源 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=3) |

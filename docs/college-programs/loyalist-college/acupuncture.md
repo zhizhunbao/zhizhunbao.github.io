@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Traditional Chinese Medicine Diagnosis**<br>中医诊断 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/acupuncture/) |
 | **Tui Na 2**<br>推拿 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/acupuncture/) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/acupuncture/) |
-| **Introduction to Clinical Practice**<br>临床实践导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/acupuncture/) |
+| **Introduction to Clinical Practice**<br>临床实践入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/acupuncture/) |
 | **Acupuncture Safety Lab**<br>针灸安全实验 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/acupuncture/) |
 | **Acupuncture Techniques 1**<br>针灸技术 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/acupuncture/) |
 | **Orthopaedics and Traumatology**<br>骨科与创伤学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/acupuncture/) |

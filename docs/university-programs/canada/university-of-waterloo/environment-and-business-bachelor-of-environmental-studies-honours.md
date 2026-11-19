@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Environment and Business (Bachelor of Environmental Studies - Honours)**<br>环境与商业（环境研究学士 - 荣誉） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
-| **Introduction to Environment and Business**<br>环境与商业导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
+| **Introduction to Environment and Business**<br>环境与商业入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Economics and Sustainability 1**<br>经济学与可持续性 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Economics and Sustainability 2**<br>经济学与可持续性 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Operationalizing Sustainable Development within Business**<br>在商业中落实可持续发展 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
@@ -21,19 +21,19 @@ ms.date: 2026-11-11
 | **Principles of Marketing for Sustainability Professionals**<br>可持续性专业人员的市场营销原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Strategies for Environment and Business**<br>环境与商业战略 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Research Design**<br>研究设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
-| **Introduction to Sustainable Finance**<br>可持续金融导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
+| **Introduction to Sustainable Finance**<br>可持续金融入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Environmental Sustainability and Ethics**<br>环境可持续性与伦理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Communications for Environmental Professions**<br>环境专业沟通 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Environmental Applications of Data Management and Statistics**<br>数据管理与统计的环境应用 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
-| **Introduction to Environmental Studies**<br>环境研究导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
+| **Introduction to Environmental Studies**<br>环境研究入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Field Ecology**<br>野外生态学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
-| **Introduction to Canadian Environmental Law**<br>加拿大环境法导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
+| **Introduction to Canadian Environmental Law**<br>加拿大环境法入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Ecological Economics**<br>生态经济学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Applied Statistics for Environmental Research**<br>环境研究应用统计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Environmental and Sustainability Assessment 1**<br>环境与可持续性评估 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Economy and Development: Spaces of Global Transformation**<br>经济与发展：全球转型的空间 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Accounting Information for Managers**<br>管理者会计信息 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
-| **Introduction to Business in North America**<br>北美商业导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
+| **Introduction to Business in North America**<br>北美商业入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Professional and Business Ethics**<br>职业与商业伦理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Circular Economy**<br>循环经济 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Sustainability Management Standards and Auditing**<br>可持续性管理标准与审核 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **Basic Human Resources Management**<br>基础人力资源管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Environment and Business Project**<br>环境与商业项目 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Interdisciplinary Project**<br>跨学科项目 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
-| **Introduction to Life Cycle Assessment**<br>生命周期评价导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
+| **Introduction to Life Cycle Assessment**<br>生命周期评价入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Industrial Ecology: Sustainable Materials**<br>产业生态学：可持续材料 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Corporate Sustainability Accounting and Reporting**<br>企业可持续性会计与报告 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |
 | **Policy Instruments for Sustainability**<br>可持续性政策工具 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zDkkCCs2) |

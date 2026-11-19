@@ -1,10 +1,10 @@
 ---
-title: "3.3.95 Earth Systems, Master of Science"
+title: "4.3.95 Earth Systems, Master of Science"
 description: "University Programs > United States > Stanford University > Earth Systems, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.95 Earth Systems, Master of Science
+# 4.3.95 Earth Systems, Master of Science
 
 ## Glossary
 
@@ -18,29 +18,29 @@ ms.date: 2026-11-18
 | **The Social Science of Sustainability**<br>可持续性的社会科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Taking the Pulse of the Planet**<br>把脉地球 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Climate 101**<br>气候101 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Biochemistry & Molecular Biology**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Evolution**<br>进化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **The Sixth Extinction (and the Other Five)**<br>第六次大灭绝（及其他五次） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Evolution of Terrestrial Ecosystems**<br>陆地生态系统的演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Geology**<br>地质学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Geology**<br>地质学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Coevolution of Earth and Life**<br>地球与生命的协同演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Environmental Justice in California**<br>加利福尼亚的环境正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Shades of Green: Exploring and Expanding Environmental Justice in Practice**<br>绿色的层次：在实践中探索并拓展环境正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **History and Ethics of the Global Climate Crisis**<br>全球气候危机的历史与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **The Geoscience of Environmental Justice**<br>环境正义的地球科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Justice**<br>正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Native American History**<br>美洲原住民历史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Native American History**<br>美洲原住民历史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Environment, Technoscience, and Society**<br>环境、技术科学与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Chemical Principles I**<br>化学原理 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Chemical Foundations and 21st Century Problems**<br>化学基础与21世纪问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Chemistry of the Earth and Planets**<br>地球与行星化学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Earth and Planetary Processes and Mechanics**<br>地球与行星过程及力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Mechanics and Fluids**<br>力学与流体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Mechanics, Fluids, and Heat Laboratory**<br>力学、流体与热实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Electricity, Magnetism, and Optics**<br>电磁学与光学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
@@ -51,13 +51,13 @@ ms.date: 2026-11-18
 | **Light and Heat**<br>光与热 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Mechanics and Special Relativity**<br>力学与狭义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Environmental Data Analysis**<br>环境数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Data Science for Geoscience**<br>地球科学数据科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Data Science for Geoscience**<br>地球科学数据科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Probability Theory for Statistical Inference**<br>统计推断的概率论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Vector Calculus for Engineers**<br>工程师矢量微积分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
@@ -77,8 +77,8 @@ ms.date: 2026-11-18
 | **Terrestrial Ecology and Conservation**<br>陆地生态学与保护 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Global Change in Chile**<br>智利的全球变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Human and Planetary Health**<br>人类与行星健康 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
-| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
+| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Method and Evidence in Anthropology**<br>人类学的方法与证据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Pragmatic Skills for Mixed Methods Community Research**<br>混合方法社区研究的实用技能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |
 | **Designing Research for Social Justice: Creating a Community Engaged Research Project**<br>为社会正义设计研究：创建社区参与研究项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-systems/master-of-science) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Applied Computer Science (Database Option)**<br>应用计算机科学（数据库方向） | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/) |
-| **Introduction to Information and Network Security**<br>信息与网络安全导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/) |
+| **Introduction to Information and Network Security**<br>信息与网络安全入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/) |
 | **Database Applications Development and Optimization**<br>数据库应用开发与优化 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/) |
 | **Software Engineering**<br>软件工程 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/) |

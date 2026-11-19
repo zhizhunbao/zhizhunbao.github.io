@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN PHILOSOPHY (20922)**<br>哲学主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHILOSOPHY**<br>哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHILOSOPHY**<br>哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **BIG IDEAS**<br>大创意 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCING PHILOSOPHY**<br>哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **REASONING AND CRITICAL THINKING**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHILOSOPHY (REALITY AND WHAT WE CAN KNOW OF IT)**<br>哲学导论（实在及我们对它的认识） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHILOSOPHY (REALITY AND WHAT WE CAN KNOW OF IT)**<br>哲学入门（实在及我们对它的认识） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **ANCIENT PHILOSOPHY**<br>古代哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **EARLY MODERN PHILOSOPHY**<br>近代早期哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **PLATO'S REPUBLIC**<br>柏拉图的《理想国》 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-11
 | **SEMINAR IN KANT'S FIRST CRITIQUE**<br>康德《第一批判》研讨课 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **HISTORY OF THE PHILOSOPHY OF RACE**<br>种族哲学史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **POWER, OPPRESSION, AND PRIVILEGE**<br>权力、压迫与特权 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **THE HISTORY OF POLITICAL PHILOSOPHY**<br>政治哲学史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **CONTEMPORARY POLITICAL PHILOSOPHY**<br>当代政治哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF LAW**<br>法哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
@@ -52,17 +52,17 @@ ms.date: 2026-11-11
 | **NORMATIVE ETHICS**<br>规范伦理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **JUSTICE**<br>正义 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY AND ARTIFICIAL INTELLIGENCE**<br>哲学与人工智能 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE PHILOSOPHY OF PSYCHIATRY**<br>精神病学哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE PHILOSOPHY OF PSYCHIATRY**<br>精神病学哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **THE SCIENTIFIC SEARCH FOR THE MIND**<br>对心灵的科学探索 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **SCIENCE VS. RELIGION: THE EPISTEMOLOGICAL CONFLICT**<br>科学与宗教：认识论冲突 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE PHILOSOPHY OF LANGUAGE**<br>语言哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE PHILOSOPHY OF LANGUAGE**<br>语言哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **TALKING PHILOSOPHY**<br>谈论哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHILOSOPHY OF SCIENCE**<br>科学哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHILOSOPHY OF SCIENCE**<br>科学哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **THE DARWINIAN REVOLUTION**<br>达尔文革命 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHILOSOPHY OF MIND**<br>心灵哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHILOSOPHY OF MIND**<br>心灵哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **ISSUES IN THE PHILOSOPHY OF THE EMOTIONS**<br>情感哲学中的问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE THEORY OF KNOWLEDGE**<br>知识论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE THEORY OF KNOWLEDGE**<br>知识论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF RELIGION**<br>宗教哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **ORIGINS OF ANALYTIC PHILOSOPHY**<br>分析哲学的起源 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **THEORIES OF MEANING**<br>意义理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
@@ -81,7 +81,7 @@ ms.date: 2026-11-11
 | **GENDER AND SEXUALITY**<br>性别与性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **SUSTAINABILITY: A PHILOSOPHICAL PERSPECTIVE**<br>可持续性：哲学视角 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF YOGA**<br>瑜伽哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUDDHIST PHILOSOPHY**<br>佛教哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUDDHIST PHILOSOPHY**<br>佛教哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **GLOBAL JUSTICE AND HUMAN RIGHTS**<br>全球正义与人权 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **CONTINENTAL PHILOSOPHY**<br>欧陆哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED PHILOSOPHY OF FOOD**<br>高级食物哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20922&SelectedCalendar=Live&ArchiveID=) |

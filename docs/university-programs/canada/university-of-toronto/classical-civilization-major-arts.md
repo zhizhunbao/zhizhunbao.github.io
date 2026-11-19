@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Classical Civilization - Major (Arts)**<br>古典文明－主修（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
-| **Introduction to Classical Civilization**<br>古典文明导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
-| **Introduction to Greek History**<br>希腊史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
-| **Introduction to Roman History**<br>罗马史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
-| **Introduction to Roman Culture & Society**<br>罗马文化与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
-| **Introduction to Greek Culture & Society**<br>希腊文化与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
+| **Introduction to Classical Civilization**<br>古典文明入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
+| **Introduction to Greek History**<br>希腊史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
+| **Introduction to Roman History**<br>罗马史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
+| **Introduction to Roman Culture & Society**<br>罗马文化与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
+| **Introduction to Greek Culture & Society**<br>希腊文化与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
 | **Paul and Earliest Christianity**<br>保罗与最早的基督教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
 | **Early Christianity and Rabbinic Judaism**<br>早期基督教与拉比犹太教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |
 | **Christianity in Late Antiquity: From Persecuted Sect to Imperial Religion**<br>古代晚期的基督教：从受迫害教派到帝国宗教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0382) |

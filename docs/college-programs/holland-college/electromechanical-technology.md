@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Industrial Communication Systems**<br>工业通信系统 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/electromechanical-technology/index.php) |
 | **Mechatronics**<br>机电一体化 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/electromechanical-technology/index.php) |
 | **Electrical Blueprint Reading**<br>电气施工图识读 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/electromechanical-technology/index.php) |
-| **Introduction to Computer-Aided Design**<br>计算机辅助设计导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/electromechanical-technology/index.php) |
+| **Introduction to Computer-Aided Design**<br>计算机辅助设计入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/electromechanical-technology/index.php) |
 | **Workplace Communications**<br>职场沟通 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/electromechanical-technology/index.php) |
 | **Workplace Communications II**<br>职场沟通 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/electromechanical-technology/index.php) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/electromechanical-technology/index.php) |

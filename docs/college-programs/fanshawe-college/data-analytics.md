@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Programming Fundamentals for Analytics**<br>分析编程基础 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6432846/courses-next/) |
 | **Data Privacy, Ethics & Governance**<br>数据隐私、伦理与治理 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6432846/courses-next/) |
 | **Predictive Analytics**<br>预测分析 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6432846/courses-next/) |
-| **Introduction to AI & Machine Learning**<br>AI与机器学习导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6432846/courses-next/) |
+| **Introduction to AI & Machine Learning**<br>AI与机器学习入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6432846/courses-next/) |
 | **Data Analytics for CRM**<br>CRM 数据分析 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6432846/courses-next/) |
 | **Data Strategy & Decision Making**<br>数据策略与决策 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6432846/courses-next/) |
 | **Data Analytics Capstone**<br>数据分析毕业设计项目 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/6432846/courses-next/) |

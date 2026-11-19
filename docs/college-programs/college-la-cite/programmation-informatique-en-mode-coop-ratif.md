@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Programmation informatique en mode coopératif**<br>计算机编程（带薪实习模式） | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
-| **Introduction à la programmation**<br>编程导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
+| **Introduction à la programmation**<br>编程入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Algèbre et trigonométrie**<br>代数与三角学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
-| **Introduction à la gestion d'un système d'exploitation**<br>操作系统管理导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
+| **Introduction à la gestion d'un système d'exploitation**<br>操作系统管理入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Réseau pour programmeur**<br>程序员网络 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Architecture de l'ordinateur pour programmeur**<br>程序员计算机体系结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Stratégies de communication en milieu professionnel**<br>职场沟通策略 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
@@ -22,16 +22,16 @@ ms.date: 2026-11-08
 | **Foundations of English**<br>英语基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Oral Communication: Beginner Level**<br>口语交际：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Oral Communication: Intermediate Level**<br>口语交际：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
-| **Introduction aux bases de données**<br>数据库导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
+| **Introduction aux bases de données**<br>数据库入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Statistiques**<br>统计学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
-| **Introduction à la programmation Web client**<br>Web客户端编程导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
+| **Introduction à la programmation Web client**<br>Web客户端编程入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Développement d'applications mobiles pour Android**<br>Android移动应用开发 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Assurance de qualité logicielle**<br>软件质量保证 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Programmation orientée objet**<br>面向对象编程 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Written Communication: Beginner Level**<br>书面沟通：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Written Communication: Intermediate Level**<br>书面沟通：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Mise à niveau C++**<br>C++知识更新 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
-| **Introduction à la programmation de serveurs Web**<br>Web服务器编程导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
+| **Introduction à la programmation de serveurs Web**<br>Web服务器编程入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Fondements de la cybersécurité**<br>网络安全基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Développement d'application de bureau**<br>桌面应用开发 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |
 | **Analyse et conception de systèmes**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51734) |

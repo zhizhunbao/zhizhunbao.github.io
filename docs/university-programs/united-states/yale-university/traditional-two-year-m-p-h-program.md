@@ -1,10 +1,10 @@
 ---
-title: "3.4.112 Traditional Two-Year M.P.H. Program"
+title: "4.4.112 Traditional Two-Year M.P.H. Program"
 description: "University Programs > United States > Yale University > Traditional Two-Year M.P.H. Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.112 Traditional Two-Year M.P.H. Program
+# 4.4.112 Traditional Two-Year M.P.H. Program
 
 ## Glossary
 
@@ -35,7 +35,7 @@ ms.date: 2026-11-18
 | **Statistical Practice II**<br>统计实践 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Thesis**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Obesity Prevention and Lifestyle Interventions**<br>肥胖预防与生活方式干预 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
-| **Introduction to Evidence-Based Medicine and Health Care**<br>循证医学与医疗卫生导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
+| **Introduction to Evidence-Based Medicine and Health Care**<br>循证医学与医疗卫生入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Epidemiology of Heart Disease and Stroke**<br>心脏病与中风流行病学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Social Determinants and Public Health Impact: An Epidemiology Capstone**<br>社会决定因素与公共卫生影响：流行病学毕业项目 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Biostatistics in Public Health II**<br>公共卫生生物统计学 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
@@ -77,7 +77,7 @@ ms.date: 2026-11-18
 | **Narratives in Health**<br>健康叙事 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Sustainable Innovation in Healthcare**<br>医疗保健可持续创新 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Strategic Management of Nonprofit Organizations**<br>非营利组织战略管理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
-| **Introduction to Social Entrepreneurship**<br>社会创业导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
+| **Introduction to Social Entrepreneurship**<br>社会创业入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Managing Social Enterprises**<br>社会企业管理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Impact Measurement & Financial Reporting in the Social Sector**<br>社会部门的影响力测量与财务报告 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Seminar in Social and Behavioral Sciences**<br>社会与行为科学研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
@@ -112,7 +112,7 @@ ms.date: 2026-11-18
 | **Seminar for Modeling in Public Health**<br>公共卫生建模研讨课 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Bayesian Statistics**<br>贝叶斯统计 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Quantitative Methods for Infectious Disease Epidemiology**<br>传染病流行病学定量方法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
-| **Introduction to the Analysis and Interpretation of Public Health Surveillance Data**<br>公共卫生监测数据分析与解读导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
+| **Introduction to the Analysis and Interpretation of Public Health Surveillance Data**<br>公共卫生监测数据分析与解读入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Probability and Statistics**<br>概率与统计 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Advocacy and Activism**<br>倡导与行动主义 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |
 | **Biomedical Justice: Public Health Critiques and Praxis**<br>生物医学正义：公共卫生批判与实践 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ysph/traditional-two-year-mph-program/) |

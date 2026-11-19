@@ -1,17 +1,17 @@
 ---
-title: "3.3.33 Feminist, Gender, and Sexuality Studies, Major: Bachelor of Arts"
+title: "4.3.33 Feminist, Gender, and Sexuality Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Feminist, Gender, and Sexuality Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.33 Feminist, Gender, and Sexuality Studies, Major: Bachelor of Arts
+# 4.3.33 Feminist, Gender, and Sexuality Studies, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Feminist, Gender, and Sexuality Studies, Major: Bachelor of Arts**<br>女性主义、性别与性研究，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
-| **Introduction to Feminist, Gender, and Sexuality Studies**<br>女性主义、性别与性学研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
+| **Introduction to Feminist, Gender, and Sexuality Studies**<br>女性主义、性别与性学研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
 | **Feminist and Sexuality Studies Theories Across the Disciplines**<br>跨学科的女性主义与性学理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
 | **Perspectives on American Identity**<br>美国身份认同视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
 | **Media, Technology, and the Body**<br>媒体、技术与身体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-18
 | **Performing Identities**<br>表演身份 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
 | **History of World Cinema III: Queer Cinemas Around the World**<br>世界电影史 III：世界各地的酷儿电影 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
 | **Archaeology of Gender and Sexuality**<br>性别与性存在考古学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
-| **Introduction to Queer Theory**<br>酷儿理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
+| **Introduction to Queer Theory**<br>酷儿理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
 | **The Changing American Family**<br>变迁中的美国家庭 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
 | **Feminism and Technology**<br>女性主义与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |
 | **Challenging Sex and Gender Dichotomies in Biology and Medicine**<br>挑战生物学与医学中的性与性别二分法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/feminist-gender-and-sexuality-studies/bachelor-of-arts) |

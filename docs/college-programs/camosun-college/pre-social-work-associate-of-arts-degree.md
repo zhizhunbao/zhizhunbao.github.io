@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Pre-Social Work, Associate of Arts Degree**<br>社会工作预科，文科副学士学位 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/programs-courses/pre-social-work-associate-arts-degree) |
 | **Experimental Psychology**<br>实验心理学 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Interpersonal Skills**<br>人际技能 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
-| **Intro to Sociology: Social Life**<br>社会学导论：社会生活 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
+| **Intro to Sociology: Social Life**<br>社会学入门：社会生活 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Indigenous-Settler Relations in Canada**<br>加拿大的原住民与定居者关系 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Women in Canadian Society**<br>加拿大社会中的女性 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **”Race” and Ethnicity in Canada**<br>加拿大的“种族”与族裔 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
@@ -21,9 +21,9 @@ ms.date: 2026-11-08
 | **Social Problems**<br>社会问题 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Indigenous Ways of Knowing**<br>原住民认知方式 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Indigenous Peoples/TELŦIN TŦE WILNEW**<br>原住民/TELŦIN TŦE WILNEW | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
-| **Indigenous Intro to Social Work**<br>原住民社会工作导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
+| **Indigenous Intro to Social Work**<br>原住民社会工作入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Indigenous Social Welfare**<br>原住民社会福利 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
-| **Introduction to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
+| **Introduction to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Social Welfare in Canada**<br>加拿大社会福利 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Academic Writing Strategies**<br>学术写作策略 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |
 | **Literary Genres**<br>文学体裁 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://calendar.camosun.ca/preview_program.php?catoid=27&poid=4206) |

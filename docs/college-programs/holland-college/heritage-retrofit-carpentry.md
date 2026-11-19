@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Heritage Retrofit Carpentry**<br>文物建筑改造木工 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/heritage-retrofit-carpentry/index.php) |
 | **PEI Occupational Health and Safety**<br>PEI职业健康与安全 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/heritage-retrofit-carpentry/index.php) |
 | **Heritage Recording and Architectural History**<br>遗产记录与建筑史 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/heritage-retrofit-carpentry/index.php) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/heritage-retrofit-carpentry/index.php) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/heritage-retrofit-carpentry/index.php) |
 | **Blueprint Reading & Basic Drafting**<br>施工图识读与基础制图 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/heritage-retrofit-carpentry/index.php) |
 | **Advanced Finish Carpentry**<br>高级细木工 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/heritage-retrofit-carpentry/index.php) |
 | **Energy Efficiency**<br>能源效率 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/heritage-retrofit-carpentry/index.php) |

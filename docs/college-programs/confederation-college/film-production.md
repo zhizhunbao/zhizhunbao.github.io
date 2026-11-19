@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Advanced Editing & Digital Special Effects**<br>高级剪辑与数字特效 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/film-production/) |
 | **Scriptwriting II**<br>编剧 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/film-production/) |
 | **Advanced Production Design**<br>高级制作设计 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/film-production/) |
-| **Introduction to Documentary Filmmaking**<br>纪录片制作导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/film-production/) |
+| **Introduction to Documentary Filmmaking**<br>纪录片制作入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/film-production/) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/film-production/) |
 | **Production Theory IV**<br>生产理论 IV | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/film-production/) |
 | **Producing and Directing IV**<br>制作与导演 IV | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/film-production/) |

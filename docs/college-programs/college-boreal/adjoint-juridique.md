@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Logiciels Microsoft**<br>Microsoft软件 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/adjoint-juridique/) |
 | **Droit des contrats et des délits**<br>合同与侵权法 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/adjoint-juridique/) |
 | **Bail résidentiel**<br>住宅租赁 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/adjoint-juridique/) |
-| **Introduction au droit**<br>法律导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/adjoint-juridique/) |
+| **Introduction au droit**<br>法律入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/adjoint-juridique/) |
 | **Recherche et rédaction juridique**<br>法律研究与写作 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/adjoint-juridique/) |
 | **Gouvernements canadiens/Science politique**<br>加拿大政府/政治学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/adjoint-juridique/) |
 | **Oral Communication for Professional Environments**<br>职业环境口语沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/adjoint-juridique/) |

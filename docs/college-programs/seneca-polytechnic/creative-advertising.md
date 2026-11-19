@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Creative Advertising**<br>创意广告 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB.html) |
-| **Introduction to Account Services and Project Management**<br>客户服务与项目管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
-| **Introduction to Insights, Consumer Behaviour and Market Research**<br>洞察、消费者行为与市场研究导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
-| **Introduction to Creative Advertising**<br>创意广告导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
-| **Introduction to Media, Analytics and Measurement**<br>媒体、分析与测量导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
+| **Introduction to Account Services and Project Management**<br>客户服务与项目管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
+| **Introduction to Insights, Consumer Behaviour and Market Research**<br>洞察、消费者行为与市场研究入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
+| **Introduction to Creative Advertising**<br>创意广告入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
+| **Introduction to Media, Analytics and Measurement**<br>媒体、分析与测量入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
 | **History of Advertising: Perspectives and Ethics**<br>广告史：视角与伦理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |
 | **Art Direction and Copywriting**<br>艺术指导与文案 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CAB/courses.html) |

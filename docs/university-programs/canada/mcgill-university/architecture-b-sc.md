@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Architectural History 4.**<br>建筑史 4 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/) |
 | **Landscape.**<br>景观 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/) |
 | **Energy, Environment, and Buildings 1.**<br>能源、环境与建筑 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/) |
-| **Introduction to Building Environments.**<br>建筑环境导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/) |
+| **Introduction to Building Environments.**<br>建筑环境入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/) |
 | **Design and Construction 3.**<br>设计与施工 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/) |
 | **Design and Construction 4.**<br>设计与施工 4 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/) |
 | **Architectural Structures 2.**<br>建筑结构 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/) |

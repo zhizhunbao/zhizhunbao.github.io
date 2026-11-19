@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Radio Television Journalism - Radio and Audio Production**<br>广播电视新闻：广播与音频制作 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-radio-and-audio-production) |
-| **Introduction to Podcasting**<br>播客导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-radio-and-audio-production) |
+| **Introduction to Podcasting**<br>播客入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-radio-and-audio-production) |
 | **Diversity and the Media**<br>多元化与媒体 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-radio-and-audio-production) |
 | **Media Law and Ethics**<br>媒体法与伦理 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-radio-and-audio-production) |
 | **Digital Audio I**<br>数字音频 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/radio-television-journalism-radio-and-audio-production) |

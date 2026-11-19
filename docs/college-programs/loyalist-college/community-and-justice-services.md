@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Abnormal Psychology**<br>异常心理学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/community-and-justice-services/) |
 | **Community & Client Services**<br>社区与客户服务 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/community-and-justice-services/) |
 | **Interprofessional Simulation & Community Engagement**<br>跨专业模拟与社区参与 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/community-and-justice-services/) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/community-and-justice-services/) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/community-and-justice-services/) |
 | **Penology**<br>刑罚学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/community-and-justice-services/) |
 | **Youth in Conflict**<br>冲突中的青少年 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/community-and-justice-services/) |
 | **Addictions & Mental Health**<br>成瘾与心理健康 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/community-and-justice-services/) |

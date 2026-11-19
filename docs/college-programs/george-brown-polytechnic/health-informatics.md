@@ -15,9 +15,9 @@ ms.date: 2026-11-08
 | **Information Technology Project Management**<br>信息技术项目管理 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
 | **Foundations of Business Analysis**<br>商业分析基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
 | **Fundamentals of Health Informatics and the Canadian Health System**<br>健康信息学与加拿大卫生体系基础 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
-| **Introduction to Information Systems**<br>信息系统导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
+| **Introduction to Information Systems**<br>信息系统入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
 | **Career Planning and Portfolio Development**<br>职业规划与作品集开发 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
-| **Introduction to Business Data Analytics**<br>商业数据分析导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
+| **Introduction to Business Data Analytics**<br>商业数据分析入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
 | **Business Analyst Case Study II**<br>商业分析师案例研究 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
 | **Machine Learning (Ml) and AI for Health**<br>机器学习（ML）与健康AI | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |
 | **Health Data Standards**<br>健康数据标准 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/health-informatics-program-postgraduate-t419) |

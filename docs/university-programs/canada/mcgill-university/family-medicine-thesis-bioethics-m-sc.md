@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **M.Sc. Thesis.**<br>理学硕士论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/family-medicine-thesis-bioethics-msc/) |
 | **Foundations of Participatory Research .**<br>参与式研究基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/family-medicine-thesis-bioethics-msc/) |
 | **Epidemiology and Data Analysis in Primary Care 1.**<br>初级保健流行病学与数据分析 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/family-medicine-thesis-bioethics-msc/) |
-| **Introduction to Qualitative Research in Health.**<br>健康领域定性研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/family-medicine-thesis-bioethics-msc/) |
+| **Introduction to Qualitative Research in Health.**<br>健康领域定性研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/medicine/family-medicine-thesis-bioethics-msc/) |
 
 ## Courses
 

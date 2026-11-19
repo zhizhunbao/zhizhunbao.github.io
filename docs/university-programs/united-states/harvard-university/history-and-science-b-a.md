@@ -1,10 +1,10 @@
 ---
-title: "3.1.26 History and Science (B.A.)"
+title: "4.1.26 History and Science (B.A.)"
 description: "University Programs > United States > Harvard University > History and Science (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.26 History and Science (B.A.)
+# 4.1.26 History and Science (B.A.)
 
 ## Glossary
 

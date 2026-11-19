@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Sheet Metal Systems**<br>钣金系统 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Industry Readiness**<br>行业就绪 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Working Effectively in the Trades**<br>行业中的高效工作 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Safety Basics – Restricted Spaces**<br>安全基础：受限空间 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Safety Basics – Hazard Identification**<br>安全基础：危险识别 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Fabrication and Installation Fundamentals I**<br>制作与安装基础 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Pattern Development and Layout**<br>展开图与放样 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Basic Math**<br>基础数学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
-| **Introduction to Air Handling**<br>空气处理导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
+| **Introduction to Air Handling**<br>空气处理入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Print Reading and Sketching**<br>图纸识读与草图绘制 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Metallurgy, Welding and Cutting**<br>冶金学、焊接与切割 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |
 | **Power Tools and Equipment**<br>电动工具与设备 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/sheet-metal-systems) |

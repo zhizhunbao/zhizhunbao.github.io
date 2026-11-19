@@ -13,21 +13,21 @@ ms.date: 2026-11-11
 | **BASc Mechanical Engineering**<br>机械工程（BASc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Principles of Chemistry**<br>化学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Technical Report Writing**<br>技术报告写作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
-| **Introduction to Engineering Design**<br>工程设计导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
+| **Introduction to Engineering Design**<br>工程设计入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Engineering Mechanics**<br>工程力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Fundamentals of Engineering Computation**<br>工程计算基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
-| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
+| **Introduction to Linear Algebra**<br>线性代数入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Fundamentals of Mechanical Engineering**<br>机械工程基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Mechanical Drafting**<br>机械制图 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Fundamentals of Physics II**<br>物理学基础 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Mechanics of Materials I**<br>材料力学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Electric Circuits and Machines for Mechanical Engineering**<br>机械工程电路与电机 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
-| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
+| **Introduction to Product Development for Engineers and Computer Scientists**<br>面向工程师与计算机科学家的产品开发入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Calculus III for Engineers**<br>工程师微积分 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Ordinary Differential Equations and Numerical Methods**<br>常微分方程与数值方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
-| **Introduction to Design of Mechanical Systems**<br>机械系统设计导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
+| **Introduction to Design of Mechanical Systems**<br>机械系统设计入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Dynamics**<br>动力学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Thermodynamics II**<br>热力学 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
@@ -71,13 +71,13 @@ ms.date: 2026-11-11
 | **Automation Design and Control**<br>自动化设计与控制 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Robot Design and Control**<br>机器人设计与控制 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Mechatronics**<br>机电一体化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
-| **Introduction to Nuclear Engineering**<br>核工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
+| **Introduction to Nuclear Engineering**<br>核工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Deformation and Fracture of Engineering Materials**<br>工程材料的变形与断裂 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Micro and Nano Systems**<br>微纳系统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Corrosion: Principles, Prevention and Control**<br>腐蚀：原理、预防与控制 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Product Design and Development**<br>产品设计与开发 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
-| **Introduction to Composite Materials**<br>复合材料导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
+| **Introduction to Composite Materials**<br>复合材料入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Selected Topics I**<br>专题选讲 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Selected Topics II**<br>专题选讲 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |
 | **Selected Topics III**<br>专题选讲 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/basc-mechanical-engineering/) |

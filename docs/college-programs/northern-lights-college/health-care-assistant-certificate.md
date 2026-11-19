@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Common Health Challenges**<br>常见健康挑战 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/health-care-assistant-certificate/) |
 | **Lifestyle and Choices**<br>生活方式与选择 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/health-care-assistant-certificate/) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/health-care-assistant-certificate/) |
-| **Introduction to Practice**<br>实践导论 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/health-care-assistant-certificate/) |
+| **Introduction to Practice**<br>实践入门 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/health-care-assistant-certificate/) |
 | **Concepts for Practice**<br>实践概念 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/health-care-assistant-certificate/) |
 | **Personal Care and Assistance**<br>个人护理与协助 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/health-care-assistant-certificate/) |
 | **Cognitive and/or Mental Challenges**<br>认知和/或精神障碍 | (Definition pending) | （定义待补） | [Northern Lights College, n.d.](https://www.nlc.bc.ca/programs/health-care-assistant-certificate/) |

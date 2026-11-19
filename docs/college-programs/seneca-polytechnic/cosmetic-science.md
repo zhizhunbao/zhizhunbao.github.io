@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Actives**<br>活跃成员 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSP/courses.html) |
 | **Product Development, Marketing and Sales**<br>产品开发、营销与销售 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSP/courses.html) |
 | **Capstone Project: Rouge**<br>毕业设计项目：Rouge | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSP/courses.html) |
-| **Introduction to Cosmetic Quality Assurance**<br>化妆品质量保证导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSP/courses.html) |
+| **Introduction to Cosmetic Quality Assurance**<br>化妆品质量保证入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CSP/courses.html) |
 
 ## Courses
 

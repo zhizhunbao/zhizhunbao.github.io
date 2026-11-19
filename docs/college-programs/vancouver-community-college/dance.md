@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Flamenco 1**<br>弗拉门戈 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Classical Variations 1**<br>古典变奏 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Health for Dancers**<br>舞者健康 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
-| **Intro to Improvisation 1**<br>即兴表演导论 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
+| **Intro to Improvisation 1**<br>即兴表演入门 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Rhythm Studies 1**<br>节奏训练 1 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Electives**<br>选修课 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Ballet 2**<br>芭蕾 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Flamenco 2**<br>弗拉门戈 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Classical Variations 2**<br>古典变奏 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Body Conditioning**<br>身体体能训练 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
-| **Introduction to Improvisation 2**<br>即兴表演导论 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
+| **Introduction to Improvisation 2**<br>即兴表演入门 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Rhythm Studies 2**<br>节奏训练 2 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Ballet 3**<br>芭蕾 3 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |
 | **Pointe Work 3 (Women) or Men's Work 3**<br>足尖技巧 3（女生）或男生技巧 3 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/programs/program-areas/music-and-dance/dance/) |

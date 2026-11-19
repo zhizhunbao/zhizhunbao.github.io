@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Honours BSocSc Criminology**<br>犯罪学荣誉（BSocSc） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/) |
 | **History of Criminological Thought**<br>犯罪学思想史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/) |
 | **Criminal Law and the Criminal Justice System**<br>刑法与刑事司法系统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/) |
 | **Positivist Theories in Criminology**<br>犯罪学中的实证主义理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-criminology/) |

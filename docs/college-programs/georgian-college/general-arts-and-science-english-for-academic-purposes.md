@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Speaking and Listening 4**<br>口语与听力 4 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eapc/) |
 | **Reading and Vocabulary 4**<br>阅读与词汇 4 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eapc/) |
 | **Canadian Culture**<br>加拿大文化 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eapc/) |
-| **Introduction to Digital Media**<br>数字媒体导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eapc/) |
+| **Introduction to Digital Media**<br>数字媒体入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eapc/) |
 | **Writing and Grammar 5**<br>写作与语法 5 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eapc/) |
 | **Speaking and Listening 5**<br>口语与听力 5 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eapc/) |
 | **Reading and Vocabulary 5**<br>阅读与词汇 5 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/eapc/) |

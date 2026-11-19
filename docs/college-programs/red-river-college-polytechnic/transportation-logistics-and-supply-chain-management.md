@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Transportation Systems (CITT)**<br>运输系统（CITT） | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#BUSA-1018) |
 | **Logistics Processes (CITT)**<br>物流流程（CITT） | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#BUSA-2004) |
 | **Communication Strategies**<br>沟通策略 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#COMM-1173) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#COMP-1313) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#DIST-1010) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#COMP-1313) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#DIST-1010) |
 | **Project Management Fundamentals**<br>项目管理基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#PROJ-1030) |
 | **Economic Influences on Logistics (CITT)**<br>经济对物流的影响（CITT） | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#BUSA-1087) |
 | **Success and Professionalism**<br>成功与职业素养 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/TRAMF-CT/PrinterFriendly#BUSA-1154) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education, SPECIALIZATION IN INCLUSIVE EDUCATION**<br>教育学硕士，融合教育专业方向 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
-| **Introduction to Educational Research Methodologies**<br>教育研究方法论导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
+| **Introduction to Educational Research Methodologies**<br>教育研究方法论入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
 | **Overview of Educational Issues**<br>教育问题概述 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
 | **Theory & Practice in Standardized Assessment**<br>标准化评估的理论与实践 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
 | **Theories of Inclusive Education**<br>全纳教育理论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
@@ -43,7 +43,7 @@ ms.date: 2026-11-11
 | **Counselling Interventions**<br>咨询干预 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
 | **Student Services Leadership**<br>学生服务领导力 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
 | **Theory & Practice of Assessment in the Classroom**<br>课堂评估的理论与实践 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
-| **Introduction to Counselling: Helping Relationships**<br>咨询导论：帮助关系 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
+| **Introduction to Counselling: Helping Relationships**<br>咨询入门：帮助关系 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
 | **Theories of Counselling**<br>咨询理论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
 | **Career-Life Development & Counselling**<br>职业生涯发展与咨询 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |
 | **Nature Based Learning: Supporting Inclusion, Good Health & Human Learning**<br>自然学习：支持包容、良好健康与人类学习 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Graduate-Calendar-2026-27.pdf#page=27) |

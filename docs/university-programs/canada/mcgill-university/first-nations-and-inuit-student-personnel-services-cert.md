@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **First Nations and Inuit Student Personnel Services (Cert.)**<br>原住民与因纽特人学生人员服务（证书） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/programs-first-nations-inuit/first-nations-inuit-student-personnel-services-cert/) |
-| **Introduction to Student Advising.**<br>学生指导导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/programs-first-nations-inuit/first-nations-inuit-student-personnel-services-cert/) |
+| **Introduction to Student Advising.**<br>学生指导入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/programs-first-nations-inuit/first-nations-inuit-student-personnel-services-cert/) |
 | **Helping Skills Practicum 1.**<br>助人技能实习 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/programs-first-nations-inuit/first-nations-inuit-student-personnel-services-cert/) |
 | **Helping Skills Practicum 2.**<br>助人技能实习 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/programs-first-nations-inuit/first-nations-inuit-student-personnel-services-cert/) |
 | **Career/Occupational Development.**<br>职业/就业发展 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/education/programs-first-nations-inuit/first-nations-inuit-student-personnel-services-cert/) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Applied Music**<br>应用音乐 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/applied-music) |
 | **Creative Practice**<br>创意实践 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/applied-music) |
-| **Intro to Music Business**<br>音乐商务导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/applied-music) |
+| **Intro to Music Business**<br>音乐商务入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/applied-music) |
 | **Music Theory Fundamentals**<br>乐理基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/applied-music) |
 | **Recording for Musicians**<br>音乐人录音 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/applied-music) |
 | **Wellness & the Music Industry**<br>健康福祉与音乐产业 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/applied-music) |

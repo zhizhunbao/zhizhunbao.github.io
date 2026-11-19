@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Computed Tomography-Imaging Procedures and Protocols**<br>计算机断层扫描：成像规程与方案 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1615X01FWO.pdf) |
 | **Transition to Clinical Practice**<br>临床实践过渡 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1615X01FWO.pdf) |
 | **Advanced Radiological Procedures and Protocols**<br>高级放射检查规程与方案 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1615X01FWO.pdf) |
-| **Introduction to Health Research in Medical Imaging**<br>医学影像健康研究导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1615X01FWO.pdf) |
+| **Introduction to Health Research in Medical Imaging**<br>医学影像健康研究入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1615X01FWO.pdf) |
 | **Radiological Protocols Laboratory 3**<br>放射检查规程实验 3 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1615X01FWO.pdf) |
 | **Adaptive Imaging Protocols**<br>自适应成像规程 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1615X01FWO.pdf) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/1615X01FWO.pdf) |

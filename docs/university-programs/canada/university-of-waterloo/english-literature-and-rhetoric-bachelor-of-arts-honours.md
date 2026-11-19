@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Rhetorical Theory and Criticism**<br>修辞理论与批评 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Rhetoric, Classical to Enlightenment**<br>修辞学：从古典到启蒙时代 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Contemporary Rhetoric**<br>当代修辞学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
-| **Introduction to Anti-Racist Communication**<br>反种族主义传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
+| **Introduction to Anti-Racist Communication**<br>反种族主义传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Writing Anti-Racism**<br>书写反种族主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Topics in Black Language and Linguistics**<br>黑人语言与语言学专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **African American Rhetoric**<br>非裔美国人修辞 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
@@ -28,10 +28,10 @@ ms.date: 2026-11-11
 | **Arts Writing**<br>艺术写作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Legal Writing**<br>法律写作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Technical Editing**<br>技术编辑 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **How English Grammar Works**<br>英语语法如何运作 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **The History of the English Language**<br>英语语言史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
-| **Introduction to Semiotics**<br>符号学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
+| **Introduction to Semiotics**<br>符号学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Critical Discourse Analysis**<br>批判性话语分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Linguistic Imperialism and Resistance**<br>语言帝国主义与抵抗 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Race and Resistance**<br>种族与抵抗 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
@@ -89,7 +89,7 @@ ms.date: 2026-11-11
 | **Eighteenth-Century Women Writers**<br>十八世纪女性作家 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Eighteenth-Century Literature and Media**<br>十八世纪文学与媒介 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Topics in Literatures Medieval to Romantic**<br>从中世纪到浪漫主义的文学专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
-| **Introduction to Black Canadian Writing**<br>加拿大黑人写作导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
+| **Introduction to Black Canadian Writing**<br>加拿大黑人写作入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Early Canadian Literatures**<br>早期加拿大文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **Austen**<br>奥斯汀 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |
 | **American Literature to 1860**<br>1860年以前的美国文学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryWEgkRCo2) |

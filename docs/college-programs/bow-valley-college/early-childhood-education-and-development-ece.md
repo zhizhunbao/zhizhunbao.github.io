@@ -11,15 +11,15 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Early Childhood Education and Development (ECE)**<br>幼儿教育与发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
-| **Introduction to Early Childhood Education and Development**<br>幼儿教育与发展导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
+| **Introduction to Early Childhood Education and Development**<br>幼儿教育与发展入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
-| **Seminar and Placement I: Introduction to Professional Practice**<br>研讨与实习 1：专业实践导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
+| **Seminar and Placement I: Introduction to Professional Practice**<br>研讨与实习 1：专业实践入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
 | **Emergent Curriculum in Early Childhood Education**<br>幼儿教育中的生成性课程 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
 | **Interpersonal Relationships And Communication Skills**<br>人际关系与沟通技能 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
 | **Developing Through Play**<br>通过游戏发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
 | **Supporting Children's Social and Emotional Development**<br>支持儿童的社会与情感发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
 | **Seminar and Placement II: Strengthening Pedagogical Practice**<br>研讨与实习 2：加强教学法实践 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/early-childhood-education-and-development) |
 
 ## Courses

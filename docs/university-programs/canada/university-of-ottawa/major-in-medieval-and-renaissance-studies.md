@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Major in Medieval and Renaissance Studies**<br>中世纪与文艺复兴研究主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Deciphering the Medieval Era: Western Europe from the 5th to the 15th Century**<br>解读中世纪：5 至 15 世纪的西欧 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
-| **Introduction to Medieval and Renaissance Civilization**<br>中世纪与文艺复兴文明导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
+| **Introduction to Medieval and Renaissance Civilization**<br>中世纪与文艺复兴文明入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Selected Topics in Medieval and Renaissance Studies**<br>中世纪与文艺复兴研究专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Seminar in Medieval and Renaissance Studies**<br>中世纪与文艺复兴研究研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Latin I**<br>拉丁语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
@@ -21,16 +21,16 @@ ms.date: 2026-11-11
 | **Latin IV**<br>拉丁语 IV | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Arabic Culture I**<br>阿拉伯文化 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Histories of Art I**<br>艺术史 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
-| **Introduction to Latin Literature**<br>拉丁文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
+| **Introduction to Latin Literature**<br>拉丁文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **The World of the New Testament**<br>新约圣经的世界 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Religion in Late Antiquity**<br>古代晚期的宗教 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Topics in Ancient History I**<br>古代史专题 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Ancient History Seminar**<br>古代史研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
-| **Introduction to the Celtic World**<br>凯尔特世界导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
+| **Introduction to the Celtic World**<br>凯尔特世界入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Early Celtic Literature**<br>早期凯尔特文学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Medieval Celtic Literature**<br>中世纪凯尔特文学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Celtic Christianity**<br>凯尔特基督教 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
-| **Introduction to British Literature Before 1700**<br>1700 年前的英国文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
+| **Introduction to British Literature Before 1700**<br>1700 年前的英国文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Classical Backgrounds of English Literature**<br>英国文学的古典背景 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **The Bible and the History of English Literature**<br>圣经与英国文学史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Traditions of King Arthur**<br>亚瑟王传统 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-11
 | **Selected Topics in Musicology**<br>音乐学专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Arabic Philosophy**<br>阿拉伯哲学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Medieval Philosophy**<br>中世纪哲学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
-| **Introduction to Political Thought**<br>政治思想导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
+| **Introduction to Political Thought**<br>政治思想入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **God's Warriors: Religion in the Middle Ages**<br>上帝的战士：中世纪的宗教 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 | **Theatre History I**<br>戏剧史 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-medieval-renaissance-studies/) |
 

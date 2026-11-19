@@ -1,10 +1,10 @@
 ---
-title: "3.2.48 Philosophy (Course 24-1)"
+title: "4.2.48 Philosophy (Course 24-1)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Philosophy (Course 24-1): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.48 Philosophy (Course 24-1)
+# 4.2.48 Philosophy (Course 24-1)
 
 ## Glossary
 
@@ -22,7 +22,7 @@ ms.date: 2026-11-18
 | **Philosophy of Perception**<br>知觉哲学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/philosophy-course-24-1/) |
 | **Topics in the Philosophy of Science**<br>科学哲学专题 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/philosophy-course-24-1/) |
 | **Rationality**<br>理性 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/philosophy-course-24-1/) |
-| **Introduction to Philosophy of Language (CI-M)**<br>语言哲学导论 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/philosophy-course-24-1/) |
+| **Introduction to Philosophy of Language (CI-M)**<br>语言哲学入门 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/philosophy-course-24-1/) |
 | **Language and Power (CI-M)**<br>语言与权力 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/philosophy-course-24-1/) |
 | **Philosophy of Mathematics**<br>数学哲学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/philosophy-course-24-1/) |
 | **Foundations of Probability**<br>概率论基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/philosophy-course-24-1/) |

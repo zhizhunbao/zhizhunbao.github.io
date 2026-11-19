@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Ukrainian, B.A. General**<br>乌克兰语，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/ukrainian-ba-general/) |
 | **The Economy of Ukraine**<br>乌克兰经济 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/ukrainian-ba-general/) |
-| **Introduction to Ukraine (E)**<br>乌克兰导论（E） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/ukrainian-ba-general/) |
+| **Introduction to Ukraine (E)**<br>乌克兰入门（E） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/ukrainian-ba-general/) |
 | **Making of Modern Ukraine (E)**<br>现代乌克兰的形成（E） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/ukrainian-ba-general/) |
 | **The Ukrainians in Canada (C)**<br>加拿大的乌克兰人（C） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/ukrainian-ba-general/) |
 | **Politics, Government and Society in Ukraine**<br>乌克兰的政治、政府与社会 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/german-slavic-studies/ukrainian-ba-general/) |

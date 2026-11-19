@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Ethics and Career Development**<br>伦理与职业发展 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/natural-resource-compliance) |
 | **Composition**<br>作文 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/natural-resource-compliance) |
 | **Physical Geology 1**<br>自然地质学 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/natural-resource-compliance) |
-| **Introduction to Natural Resource Law**<br>自然资源法导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/natural-resource-compliance) |
+| **Introduction to Natural Resource Law**<br>自然资源法入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/natural-resource-compliance) |
 | **Botany 1**<br>植物学 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/natural-resource-compliance) |
 | **Zoology 1**<br>动物学 1 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/natural-resource-compliance) |
 | **Interpersonal Skills in Enforcement**<br>执法中的人际技巧 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/natural-resource-compliance) |

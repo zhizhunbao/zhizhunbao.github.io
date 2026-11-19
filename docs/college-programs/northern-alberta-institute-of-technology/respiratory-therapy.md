@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Adult Critical Care**<br>成人重症监护 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/respiratory-therapy) |
 | **Research in Healthcare**<br>医疗保健研究 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/respiratory-therapy) |
 | **Pediatric Respiratory Care**<br>儿科呼吸治疗 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/respiratory-therapy) |
-| **Introduction to Clinical Practice**<br>临床实践导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/respiratory-therapy) |
+| **Introduction to Clinical Practice**<br>临床实践入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/respiratory-therapy) |
 | **Clinical Rotations I**<br>临床轮转 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/respiratory-therapy) |
 | **Clinical Rotations II**<br>临床轮转 II | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/respiratory-therapy) |
 | **Child Health Clinical Rotations**<br>儿童健康临床轮转 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/respiratory-therapy) |

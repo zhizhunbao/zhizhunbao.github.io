@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN ENGLISH AND CULTURAL STUDIES**<br>英语与文化研究荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20724&SelectedCalendar=Live&ArchiveID=) |
 | **STUDIES IN POETICS**<br>诗学研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20724&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THEORY**<br>理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20724&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THEORY**<br>理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20724&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED THEORY**<br>高级理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20724&SelectedCalendar=Live&ArchiveID=) |
 | **LITERARY AND CULTURAL TEXTS: PRE-1700**<br>文学与文化文本：1700 年以前 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20724&SelectedCalendar=Live&ArchiveID=) |
 | **LITERARY AND CULTURAL TEXTS: 1700-1900**<br>文学与文化文本：1700-1900 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20724&SelectedCalendar=Live&ArchiveID=) |

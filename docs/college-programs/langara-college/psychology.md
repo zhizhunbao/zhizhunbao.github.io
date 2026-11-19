@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Psychology**<br>心理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/psychology-associate-arts-degree) |
-| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/psychology-associate-arts-degree/courses) |
-| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/psychology-associate-arts-degree/courses) |
+| **Introduction to Biological, Cognitive, and Developmental Psychology**<br>生物、认知与发展心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/psychology-associate-arts-degree/courses) |
+| **Introduction to Social, Personality, and Abnormal Psychology**<br>社会心理学、人格心理学与变态心理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/psychology-associate-arts-degree/courses) |
 | **Research Methods in Psychology**<br>心理学研究方法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/psychology-associate-arts-degree/courses) |
 | **Data Analysis for Psychology**<br>心理学数据分析 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/psychology-associate-arts-degree/courses) |
 | **Psychology of the Exceptional Child**<br>特殊儿童心理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/psychology-associate-arts-degree/courses) |

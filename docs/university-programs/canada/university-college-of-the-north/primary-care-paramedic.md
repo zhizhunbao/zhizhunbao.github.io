@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Physiology of the Human Body**<br>人体生理学 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=55) |
 | **Communication and Documentation**<br>沟通与文书记录 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=55) |
 | **Airway management and Vital Signs**<br>气道管理与生命体征 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=55) |
-| **Introduction to Aboriginal Studies 1**<br>原住民研究导论 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=55) |
+| **Introduction to Aboriginal Studies 1**<br>原住民研究入门 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=55) |
 | **Patient Assessment and Diagnostics**<br>患者评估与诊断 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=55) |
 | **Core Skills 1**<br>核心技能 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=55) |
 | **Pharmacology and Drug Administration 1**<br>药理学与给药 1 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=55) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Environmental Control - Applied Engineering and Geoscience (Optional Co-op)**<br>环境控制 - 应用工程与地球科学（可选带薪实习） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/environmental-control-applied-engineering-and-geoscience) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/environmental-control-applied-engineering-and-geoscience/courses?id=36049) |
-| **Introduction to AutoCAD with Environmental Engineering Applications**<br>AutoCAD导论及其环境工程应用 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/environmental-control-applied-engineering-and-geoscience/courses?id=36049) |
+| **Introduction to AutoCAD with Environmental Engineering Applications**<br>AutoCAD入门及其环境工程应用 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/environmental-control-applied-engineering-and-geoscience/courses?id=36049) |
 | **Environmental Project I**<br>环境项目 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/environmental-control-applied-engineering-and-geoscience/courses?id=36049) |
 | **Water Quality**<br>水质 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/environmental-control-applied-engineering-and-geoscience/courses?id=36049) |
 | **Site Remediation and Development**<br>场地修复与开发 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/environmental-control-applied-engineering-and-geoscience/courses?id=36049) |

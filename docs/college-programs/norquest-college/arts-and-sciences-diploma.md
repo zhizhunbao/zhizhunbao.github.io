@@ -11,24 +11,24 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Arts and Sciences Diploma**<br>文理文凭 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Organisms in their Environment**<br>生物与环境 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Medical Microbiology for Healthcare**<br>医疗保健医学微生物学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Chemistry**<br>化学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Chemistry II**<br>化学导论 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Machine Learning and Data Science**<br>机器学习与数据科学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Earth Sciences**<br>地球科学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Chemistry**<br>化学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Chemistry II**<br>化学入门 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Machine Learning and Data Science**<br>机器学习与数据科学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Earth Sciences**<br>地球科学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Linear Algebra I**<br>线性代数 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Statistics I**<br>统计学 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Art History**<br>艺术史导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Literary Analysis**<br>文学分析导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Indigenous Literature and Storytelling**<br>原住民文学与讲故事导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Art History**<br>艺术史入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Literary Analysis**<br>文学分析入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Indigenous Literature and Storytelling**<br>原住民文学与讲故事入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Scientific and Technical Writing**<br>科技写作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Indigenous Art Studies**<br>原住民艺术研究 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
@@ -38,17 +38,17 @@ ms.date: 2026-11-08
 | **Women's and Gender Studies**<br>妇女与性别研究 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to the Criminal Justice System**<br>刑事司法系统导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to the Criminal Justice System**<br>刑事司法系统入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Diversity and Criminal Justice in Canada**<br>加拿大的多样性与刑事司法 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **An Introduction to Government and Politics**<br>政府与政治导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **An Introduction to Government and Politics**<br>政府与政治入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Canadian Politics: Institutions and Issues**<br>加拿大政治：制度与议题 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Indigenous Studies I**<br>原住民研究 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Inuit Perspectives and Experiences**<br>因纽特人的观点与经历 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Indigenous Ways of Knowing and Being**<br>原住民认知与存在方式 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Cree Language**<br>克里语导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Cree Language**<br>克里语入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Indigenous Political Realities**<br>原住民政治现实 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Indigenous Perspectives in Social Work Practice**<br>社会工作实务中的原住民视角 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Indigenous Business and Economics**<br>原住民商业与经济 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
@@ -75,11 +75,11 @@ ms.date: 2026-11-08
 | **Residential Schools in Canada**<br>加拿大的寄宿学校 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Philosophy of Technology and Computing**<br>技术与计算哲学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Developmental Psychology: Human Life Span**<br>发展心理学：人类生命全程 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Research Methods in Psychology**<br>心理学研究方法导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Research Methods in Psychology**<br>心理学研究方法入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Psychology of Aging**<br>老年心理学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Abnormal Psychology- Psychiatric Disorders and Interventions**<br>变态心理学：精神障碍与干预 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Criminology**<br>犯罪学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
-| **Introduction to Social Research Methods**<br>社会研究方法导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
+| **Introduction to Social Research Methods**<br>社会研究方法入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 | **Sociology of Death and Dying**<br>死亡与临终社会学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/arts-and-sciences/costs-and-courses/) |
 
 ## Courses

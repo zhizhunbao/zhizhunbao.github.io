@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science Honors in Nutrition**<br>理学学士（营养学，荣誉） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Introductory University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Introductory University Chemistry II**<br>大学化学入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Nutrition and Well-being**<br>营养与幸福 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
-| **Introduction to Food Science and Technology**<br>食品科学与技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
+| **Introduction to Food Science and Technology**<br>食品科学与技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Communication Fundamentals for Professionals**<br>专业人员沟通基础 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
@@ -30,12 +30,12 @@ ms.date: 2026-11-11
 | **Human Physiology II**<br>人体生理学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Bioenergetics and Metabolism**<br>生物能量学与代谢 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Nutrition Across the Lifespan**<br>贯穿生命历程的营养 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
-| **Introduction to Population and Public Health Nutrition**<br>人群与公共卫生营养导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
+| **Introduction to Population and Public Health Nutrition**<br>人群与公共卫生营养入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Fundamentals of Nutritional Biochemistry and Metabolism I**<br>营养生物化学与代谢基础 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Fundamentals of Nutritional Biochemistry and Metabolism II**<br>营养生物化学与代谢基础 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Clinical Nutrition**<br>临床营养学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
-| **Introduction to Applied Statistics II**<br>应用统计学导论 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
-| **Introduction to Immunology**<br>免疫学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
+| **Introduction to Applied Statistics II**<br>应用统计学入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
+| **Introduction to Immunology**<br>免疫学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Food Microbiology**<br>食品微生物学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Research Methods in Nutritional Science**<br>营养科学研究方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |
 | **Honors Nutritional Science Research Project (Capstone)**<br>荣誉营养科学研究项目（毕业项目） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=109992&returnto=20843) |

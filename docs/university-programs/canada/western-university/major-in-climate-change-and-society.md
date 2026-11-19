@@ -12,8 +12,8 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **MAJOR IN CLIMATE CHANGE AND SOCIETY**<br>气候变化与社会主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **THE CLIMATE EMERGENCY**<br>气候紧急状态 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE PHYSICAL ENVIRONMENT**<br>自然环境导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE HUMAN ENVIRONMENT**<br>人类环境导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE PHYSICAL ENVIRONMENT**<br>自然环境入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE HUMAN ENVIRONMENT**<br>人类环境入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENT AND DEVELOPMENT CHALLENGES**<br>环境与发展挑战 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENTAL SCIENCE AND SUSTAINABILITY**<br>环境科学与可持续性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **THE NATURAL ENVIRONMENT**<br>自然环境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-11
 | **PALEOLIMNOLOGY AND GLOBAL ENVIRONMENTAL CHANGE**<br>古湖沼学与全球环境变化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **WATER AND CITIES**<br>水与城市 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **CLIMATE CHANGE AND TERRESTRIAL ECOSYSTEM MODELING**<br>气候变化与陆地生态系统建模 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS FOR GEOGRAPHERS**<br>地理学者统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS FOR GEOGRAPHERS**<br>地理学者统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **GEOGRAPHIC INFORMATION SCIENCE I**<br>地理信息科学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **REMOTE SENSING**<br>遥感 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |
 | **SOCIAL SCIENCE RESEARCH METHODS IN GEOGRAPHY**<br>地理学中的社会科学研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21662&SelectedCalendar=Live&ArchiveID=) |

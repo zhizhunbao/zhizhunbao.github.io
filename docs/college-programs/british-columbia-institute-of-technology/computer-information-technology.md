@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Information Technology**<br>计算机信息技术 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
-| **Introduction to Systems Administration**<br>系统管理导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
+| **Introduction to Systems Administration**<br>系统管理入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
 | **Scripting for IT**<br>IT 脚本编程 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
 | **Fundamental Web Technologies**<br>Web 技术基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
 | **Database Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Information Assurance and Security**<br>信息保障与安全 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
 | **IT System and Network Provisioning**<br>IT 系统与网络配置 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
 | **Enterprise System Integration**<br>企业系统集成 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
-| **Introduction to Data Analytics**<br>数据分析导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
+| **Introduction to Data Analytics**<br>数据分析入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
 | **IT Project Practicum 2\***<br>IT 项目实习 2\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
 | **Information Technology Industry Practicum\***<br>信息技术行业实习\* | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |
 | **Co-operative Education Workterm 1**<br>带薪实习工作学期 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/) |

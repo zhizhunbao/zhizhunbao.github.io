@@ -1,10 +1,10 @@
 ---
-title: "3.3.167 Earth System Science, Doctor of Philosophy"
+title: "4.3.167 Earth System Science, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Earth System Science, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.167 Earth System Science, Doctor of Philosophy
+# 4.3.167 Earth System Science, Doctor of Philosophy
 
 ## Glossary
 
@@ -24,7 +24,7 @@ ms.date: 2026-11-18
 | **Uncertainty Quantification in Data-Centric Simulations**<br>以数据为中心的模拟中的不确定性量化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-system-science/doctor-of-philosophy) |
 | **Data Science for Geoscience**<br>地球科学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-system-science/doctor-of-philosophy) |
 | **Topics and Methods in Global Environmental Policy I**<br>全球环境政策的主题与方法 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-system-science/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-system-science/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-system-science/doctor-of-philosophy) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-system-science/doctor-of-philosophy) |
 | **Statistical Learning and Data Science [Flipped]**<br>统计学习与数据科学［翻转课堂］ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-system-science/doctor-of-philosophy) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/earth-system-science/doctor-of-philosophy) |

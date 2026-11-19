@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Group Process And Dynamics**<br>团体过程与动力 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Decolonizing Social Service Work**<br>去殖民化社会服务工作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Social Service Systems**<br>社会服务体系 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Electives: General Education**<br>选修课：通识教育 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Community Interventions**<br>社区干预 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Field Placement I (Community Settlement Services)**<br>实地实习 I（社区安置服务） | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Newcomer Legislation and Innovative Systems Approaches**<br>新移民立法与创新体系方法 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
-| **Introduction to Services and Systems for Newcomer Populations**<br>新移民服务与体系导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
+| **Introduction to Services and Systems for Newcomer Populations**<br>新移民服务与体系入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Trauma, Resilience and Beginning Interventions for Newcomer Populations**<br>新移民群体的创伤、复原力与初步干预 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Supportive Counselling with Families**<br>家庭支持性咨询 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |
 | **Professional Obligations and Ethical Decision Making**<br>专业义务与伦理决策 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/community-settlement-services/courses-no-intake?id=15483) |

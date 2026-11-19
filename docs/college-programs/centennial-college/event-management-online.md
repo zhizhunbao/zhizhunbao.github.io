@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Event Management (Online)**<br>活动管理（线上） | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/event-management-online) |
-| **Introduction to Event Management**<br>活动管理导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/event-management-online) |
+| **Introduction to Event Management**<br>活动管理入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/event-management-online) |
 | **Networking and Industry Relations**<br>人脉拓展与行业关系 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/event-management-online) |
 | **Event Sales and Marketing**<br>活动销售与营销 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/event-management-online) |
 | **Event Budgeting**<br>活动预算 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/event-management-online) |

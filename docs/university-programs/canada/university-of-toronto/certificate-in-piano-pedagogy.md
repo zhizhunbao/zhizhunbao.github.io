@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Piano Pedagogy**<br>钢琴教学法证书 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERPPED) |
-| **Introduction to Piano Teaching Methods**<br>钢琴教学法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERPPED) |
+| **Introduction to Piano Teaching Methods**<br>钢琴教学法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERPPED) |
 | **Piano Teaching Methods Practicum**<br>钢琴教学方法实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERPPED) |
 | **Psychological Foundations of Music Education**<br>音乐教育的心理学基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERPPED) |
 | **Accompanying**<br>伴奏 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://music.calendar.utoronto.ca/section/Certificates#MSCERPPED) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Strategic Communication Planning**<br>战略传播规划 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRC/courses.html) |
 | **Media Relations**<br>媒体关系 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRC/courses.html) |
 | **Principles of Public Relations**<br>公共关系原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRC/courses.html) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRC/courses.html) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRC/courses.html) |
 | **Public Relations Career Management**<br>公共关系职业管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRC/courses.html) |
 | **Writing for Public Relations Practitioners II**<br>公共关系从业者写作 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRC/courses.html) |
 | **Advanced Presentation Skills**<br>高级演讲技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PRC/courses.html) |

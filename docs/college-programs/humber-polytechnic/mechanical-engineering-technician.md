@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Mechanical Engineering Technician**<br>机械工程技术员 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Engineering Graphics**<br>工程图学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
-| **Introduction to Control Circuits**<br>控制电路导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
+| **Introduction to Control Circuits**<br>控制电路入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Workshop Practices 1**<br>车间实践 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Technical Mathematics 1**<br>技术数学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Technical Communications 1**<br>技术沟通 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Industrial Pneumatics**<br>工业气动 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Computer Assisted Design**<br>计算机辅助设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |
 | **Computer Assisted Manufacturing 1**<br>计算机辅助制造 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/mechanical-engineering-technician) |

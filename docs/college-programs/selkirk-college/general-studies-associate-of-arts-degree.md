@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **General Studies - Associate of Arts Degree**<br>通识研究文科副学士学位 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/general-studies-associate-arts-degree) |
 | **College Composition**<br>大学写作 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/general-studies-associate-arts-degree) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/general-studies-associate-arts-degree) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/general-studies-associate-arts-degree) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/general-studies-associate-arts-degree) |
 
 ## Courses
 

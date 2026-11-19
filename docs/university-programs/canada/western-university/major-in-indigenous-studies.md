@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN INDIGENOUS STUDIES**<br>原住民研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO INDIGENOUS STUDIES**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO INDIGENOUS STUDIES**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
 | **BEYOND LAND ACKNOWLEDGMENTS: INDIGENOUS REALITIES IN SOUTHWESTERN ONTARIO**<br>超越土地声明：安大略西南部的原住民现实 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
 | **INDIGENOUS ALLYSHIP**<br>原住民盟友关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
 | **CONTEMPORARY INDIGENOUS ISSUES**<br>当代原住民问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **INDIGENOUS LITERATURES OF TURTLE ISLAND**<br>龟岛原住民文学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
 | **LUNAAPE LANGUAGE, CULTURE AND HISTORY**<br>卢纳佩语言、文化与历史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY KANYEN'KEHA (MOHAWK) LANGUAGE**<br>卡尼恩凯哈语（莫霍克语）入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ONEIDA LANGUAGE**<br>奥奈达语导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ONEIDA LANGUAGE**<br>奥奈达语入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
 | **HAUDENOSAUNEE ARTS**<br>豪德诺索尼艺术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
 | **LANDMARKS: SPATIAL STORYTELLING, LAND, ART, PLACE & COMMUNITY I**<br>地标：空间叙事、土地、艺术、地方与社区 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |
 | **INDIGENOUS THEATRE AND PERFORMANCE**<br>原住民戏剧与表演 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20996&SelectedCalendar=Live&ArchiveID=) |

@@ -1,26 +1,26 @@
 ---
-title: "3.3.63 Sociology, Major: Bachelor of Arts"
+title: "4.3.63 Sociology, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Sociology, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.63 Sociology, Major: Bachelor of Arts
+# 4.3.63 Sociology, Major: Bachelor of Arts
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sociology, Major: Bachelor of Arts**<br>社会学，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Classics of Modern Social Theory**<br>现代社会理论经典 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Foundations of Social Research**<br>社会研究基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Economic Sociology**<br>经济社会学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Formal Organizations**<br>正式组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Ethics, Morality, and Markets**<br>伦理、道德与市场 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Social Movements and Collective Action**<br>社会运动与集体行动 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Education and Society**<br>教育与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
-| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
+| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Sport, Competition, and Society**<br>体育、竞争与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Data Science for Social Impact**<br>社会影响的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **The Urban Underclass**<br>城市底层阶级 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
@@ -36,15 +36,15 @@ ms.date: 2026-11-18
 | **Capstone Research Seminar: Part I**<br>毕业研究研讨课：第 I 部分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Capstone Research Seminar: Part II**<br>毕业研究研讨课：第 II 部分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Capstone Research Seminar: Part III**<br>毕业研究研讨课：第 III 部分 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
-| **Introduction to Computational Social Science**<br>计算社会科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
+| **Introduction to Computational Social Science**<br>计算社会科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Machine Learning with Graphs**<br>图机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Social and Economic Networks**<br>社会与经济网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Networks**<br>网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Social Networks**<br>社会网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
-| **Introduction to Social Networks**<br>社交网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
+| **Introduction to Social Networks**<br>社交网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **Relational Sociology**<br>关系社会学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 | **America: Unequal**<br>美国：不平等 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/sociology/bachelor-of-arts) |
 

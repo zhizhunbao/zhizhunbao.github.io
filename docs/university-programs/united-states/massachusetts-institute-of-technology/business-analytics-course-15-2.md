@@ -1,20 +1,20 @@
 ---
-title: "3.2.12 Business Analytics (Course 15-2)"
+title: "4.2.12 Business Analytics (Course 15-2)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Business Analytics (Course 15-2): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.12 Business Analytics (Course 15-2)
+# 4.2.12 Business Analytics (Course 15-2)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Analytics (Course 15-2)**<br>商业分析（Course 15-2） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Fundamentals of Programming**<br>编程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **The Analytics Edge**<br>分析优势 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Optimization Methods in Business Analytics**<br>商业分析中的优化方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Analytics for a Better World**<br>分析造福世界 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
@@ -23,15 +23,15 @@ ms.date: 2026-11-18
 | **People, Teams, and Organizations Laboratory (CI-M)**<br>人、团队与组织实验室（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Organizational Processes for Business Analytics (CI-M)**<br>商业分析的组织过程（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Applied Probability and Statistics**<br>应用概率与统计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
-| **Introduction to Statistical Methods in Economics**<br>经济学统计方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
+| **Introduction to Statistical Methods in Economics**<br>经济学统计方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Climate and Energy in the Global Economy**<br>全球经济中的气候与能源 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Game Theory for Strategic Advantage**<br>获取战略优势的博弈论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Business Experiments and Causal Analytics**<br>商业实验与因果分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Energy Economics and Policy**<br>能源经济学与政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Data Mining: Finding the Models and Predictions that Create Value**<br>数据挖掘：寻找创造价值的模型与预测 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Negotiation Analysis**<br>谈判分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
-| **Introduction to Operations Management**<br>运营管理导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
+| **Introduction to Operations Management**<br>运营管理入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Marketing Innovation**<br>营销创新 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **System Dynamics: Tools for Solving Complex Problems**<br>系统动力学：解决复杂问题的工具 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **People and the Planet: Environmental Governance and Science**<br>人与地球：环境治理与科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
@@ -42,14 +42,14 @@ ms.date: 2026-11-18
 | **Competitive Strategy**<br>竞争战略 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Transportation: Foundations and Methods**<br>交通：基础与方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
-| **Introduction to Neural Computation**<br>神经计算导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
+| **Introduction to Neural Computation**<br>神经计算入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Computational Cognitive Science**<br>计算认知科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Economic Applications of Game Theory**<br>博弈论的经济应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Networks**<br>网络 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Econometric Data Science**<br>计量经济数据科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
-| **Introduction to Stochastic Processes**<br>随机过程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
+| **Introduction to Stochastic Processes**<br>随机过程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 | **Statistics, Computation and Applications**<br>统计、计算及应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/) |
 
 ## Courses

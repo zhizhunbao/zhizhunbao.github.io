@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Practical Nursing**<br>实用护理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
-| **Introduction To The Practice Of Nursing**<br>护理实践导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
+| **Introduction To The Practice Of Nursing**<br>护理实践入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
 | **Nursing Clinical I**<br>护理临床 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
 | **Anatomy, Physiology & Pathophysiology**<br>解剖学、生理学与病理生理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
-| **Foundations of Medication Safety and Introduction to Pharmacology**<br>用药安全基础与药理学导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
+| **Foundations of Medication Safety and Introduction to Pharmacology**<br>用药安全基础与药理学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
 | **Pharmacology & Therapeutics**<br>药理学与治疗学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |
 | **Nursing Theory II A**<br>护理理论 II A | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/practical-nursing) |

@@ -1,10 +1,10 @@
 ---
-title: "3.4.144 Management (Ph.D.)"
+title: "4.4.144 Management (Ph.D.)"
 description: "University Programs > United States > Yale University > Management (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.144 Management (Ph.D.)
+# 4.4.144 Management (Ph.D.)
 
 ## Glossary
 
@@ -31,7 +31,7 @@ ms.date: 2026-11-18
 | **Econometrics V**<br>计量经济学 V | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/management/) |
 | **Policy Modeling**<br>政策建模 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/management/) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/management/) |
-| **Introductory Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/management/) |
+| **Introductory Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/management/) |
 | **Modeling Operational Processes**<br>运营流程建模 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/management/) |
 | **Probability Theory**<br>概率论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/management/) |
 | **Theory of Statistics**<br>统计理论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/management/) |

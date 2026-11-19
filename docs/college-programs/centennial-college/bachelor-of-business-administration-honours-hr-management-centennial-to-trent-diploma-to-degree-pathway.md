@@ -37,7 +37,7 @@ ms.date: 2026-11-08
 | **Compensation and Benefits**<br>薪酬与福利 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-honours-hr-management) |
 | **Employee Training and Development**<br>员工培训与发展 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-honours-hr-management) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-honours-hr-management) |
-| **Introduction to Mathematics for Economics and Management**<br>经济与管理数学导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-honours-hr-management) |
+| **Introduction to Mathematics for Economics and Management**<br>经济与管理数学入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-honours-hr-management) |
 | **Fundamentals of Managerial Accounting**<br>管理会计基础 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-honours-hr-management) |
 | **Organization Theory**<br>组织理论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-honours-hr-management) |
 | **Strategic Management**<br>战略管理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/bba-honours-hr-management) |

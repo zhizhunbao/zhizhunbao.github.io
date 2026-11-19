@@ -52,7 +52,7 @@ ms.date: 2026-11-11
 | **Healthcare Informatics for Managers**<br>管理者的医疗信息学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-accounting/) |
 | **Healthcare Management**<br>医疗管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-accounting/) |
 | **Applied Biostatistics in R**<br>R 语言应用生物统计 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-accounting/) |
-| **Introduction to Health Economics**<br>卫生经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-accounting/) |
+| **Introduction to Health Economics**<br>卫生经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-accounting/) |
 | **Health Research: Quantitative and Qualitative Approaches**<br>健康研究：定量与定性方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-accounting/) |
 | **Epidemiology**<br>流行病学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-accounting/) |
 | **Staffing Organizations**<br>组织人员配置 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-commerce-option-accounting/) |

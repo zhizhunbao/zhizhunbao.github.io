@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Electrical Engineering Technician**<br>电气工程技术员 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
-| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
+| **Introduction to Writing and Communicating in the Workplace**<br>职场写作与沟通入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
 | **Computer Concepts**<br>计算机概念 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
 | **Electrical I**<br>电气 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
 | **Mathematics I for the School of Technology Studies**<br>技术研究学院数学 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Power Systems**<br>电力系统 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
 | **Canadian Electrical Code**<br>加拿大电气规范 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
 | **Operational Amplifiers and Analog Circuits**<br>运算放大器与模拟电路 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
-| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
+| **Introduction to Programmable Logic Controllers**<br>可编程逻辑控制器入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
 | **Electrical Code and Commercial Installations**<br>电气规范与商业安装 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |
 | **AC Machines and Controls**<br>交流电机与控制 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/technology/program/electrical-engineering-technician/) |

@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Office Management**<br>办公室管理 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/office-administration-executive) |
 | **Field Placement**<br>实地实习 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/office-administration-executive) |
 | **Field Placement Seminar - Executive**<br>实地实习研讨 - 行政 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/office-administration-executive) |
-| **Intro to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/office-administration-executive) |
+| **Intro to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/office-administration-executive) |
 
 ## Courses
 

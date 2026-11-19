@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **End of Life Care**<br>临终关怀 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/continuing-care-assistant-cca) |
 | **Personal Care 1**<br>个人护理 1 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/continuing-care-assistant-cca) |
 | **Personal Care 2**<br>个人护理 2 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/continuing-care-assistant-cca) |
-| **Introduction to Caregiving**<br>护理照护导论 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/continuing-care-assistant-cca) |
+| **Introduction to Caregiving**<br>护理照护入门 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/continuing-care-assistant-cca) |
 | **Community Care**<br>社区护理 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/continuing-care-assistant-cca) |
 | **Special Procedures**<br>特殊程序 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/continuing-care-assistant-cca) |
 | **Personal Competence**<br>个人能力 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/college-trades-university/continuing-care-assistant-cca) |

@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Tools and Equipment**<br>工具与设备 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **DC Theory**<br>直流电理论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Series and Parallel DC Circuits**<br>串联与并联直流电路 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
-| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
+| **Introduction to the Canadian Electrical Code**<br>加拿大电气规范入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Voltage Drop & Power Loss**<br>电压降与功率损耗 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Single Phase Theory**<br>单相理论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Three Phase Theory**<br>三相理论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Safety**<br>安全 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Grounding and Bonding**<br>接地与等电位连接 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Job Planning**<br>作业规划 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
-| **Introduction to Communication and Trade Documentation**<br>沟通与行业文件导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
+| **Introduction to Communication and Trade Documentation**<br>沟通与行业文件入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Raceways, Wireways and Busways**<br>线槽、布线槽与母线槽 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Lighting Systems and Controls**<br>照明系统与控制 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Single-Phase Motors**<br>单相电动机 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
@@ -47,13 +47,13 @@ ms.date: 2026-11-08
 | **Support Components**<br>支撑部件 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Mentoring I**<br>辅导指导 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Work Term**<br>实习学期 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
-| **Introduction to Skills for Success**<br>成功技能导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
+| **Introduction to Skills for Success**<br>成功技能入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Math Essentials**<br>数学基础要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Electrician Math Fundamentals**<br>电工数学基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Workplace Essentials**<br>职场要点 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 | **Computer Essentials**<br>计算机基础 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
-| **Introduction to Apprenticeship**<br>学徒制导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
+| **Introduction to Apprenticeship**<br>学徒制入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/construction-industrial-electrician) |
 
 ## Courses
 

@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Carpentry Theory**<br>木工理论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/construction-techniques-masonry-plumbing-electrical-and-carpentry/courses?id=33993) |
 | **Carpentry Practice**<br>木工实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/construction-techniques-masonry-plumbing-electrical-and-carpentry/courses?id=33993) |
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/construction-techniques-masonry-plumbing-electrical-and-carpentry/courses?id=33993) |
-| **Introduction to Print Reading**<br>读图导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/construction-techniques-masonry-plumbing-electrical-and-carpentry/courses?id=33993) |
+| **Introduction to Print Reading**<br>读图入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/construction-techniques-masonry-plumbing-electrical-and-carpentry/courses?id=33993) |
 | **Residential Electrical Theory**<br>住宅电气理论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/construction-techniques-masonry-plumbing-electrical-and-carpentry/courses?id=33993) |
 | **Residential Electrical Practice**<br>住宅电气实践 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/construction-techniques-masonry-plumbing-electrical-and-carpentry/courses?id=33993) |
 

@@ -45,14 +45,14 @@ ms.date: 2026-11-11
 | **Accelerated Modern Standard Korean II**<br>现代标准朝鲜语速成 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Modern Standard Korean III**<br>现代标准韩语 III | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Modern Standard Korean IV**<br>现代标准韩语 IV | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
-| **Introduction to Sanskrit I**<br>梵语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
-| **Introduction to Sanskrit II**<br>梵语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
+| **Introduction to Sanskrit I**<br>梵语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
+| **Introduction to Sanskrit II**<br>梵语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Intermediate Sanskrit I**<br>中级梵语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Intermediate Sanskrit II**<br>中级梵语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Introductory Pali I**<br>巴利语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Introductory Pali II**<br>巴利语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
-| **Introduction to Tibetan I**<br>藏语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
-| **Introduction to Tibetan II**<br>藏语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
+| **Introduction to Tibetan I**<br>藏语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
+| **Introduction to Tibetan II**<br>藏语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Intermediate Tibetan I**<br>中级藏语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Intermediate Tibetan II**<br>中级藏语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Hinduism**<br>印度教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-11
 | **History of Southeast Asia: How the Lands Below the Winds Reshaped the World**<br>东南亚史：风下之地如何重塑世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Socially Engaged Buddhism**<br>入世佛教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Buddhism and Psychology**<br>佛教与心理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
-| **Introduction to Chinese Philosophy**<br>中国哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
+| **Introduction to Chinese Philosophy**<br>中国哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Gender, Body and Sexuality in Asian Traditions**<br>亚洲传统中的性别、身体与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **Hinduism: The Great Books**<br>印度教：伟大典籍 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |
 | **God and Love in Hinduism**<br>印度教中的神与爱 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1525) |

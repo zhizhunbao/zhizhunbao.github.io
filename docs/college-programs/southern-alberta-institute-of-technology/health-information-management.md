@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Health Information Management**<br>健康信息管理 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/health-information-management) |
 | **Anatomy and Applied Terminology**<br>解剖学与应用术语 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/health-information-management) |
 | **Data Classification 1**<br>数据分类 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/health-information-management) |
-| **Introduction to Digital Productivity Applications**<br>数字办公应用导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/health-information-management) |
+| **Introduction to Digital Productivity Applications**<br>数字办公应用入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/health-information-management) |
 | **Health Information Law 1**<br>健康信息法 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/health-information-management) |
 | **Health Information Management 1**<br>健康信息管理 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/health-information-management) |
 | **Pathophysiology 1**<br>病理生理学 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/health-information-management) |

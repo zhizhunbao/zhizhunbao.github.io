@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Electrical Systems II**<br>电气系统 II | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/motorcycle-and-powersports-product-repair-techniques) |
 | **Power Trains II**<br>动力传动 II | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/motorcycle-and-powersports-product-repair-techniques) |
 | **Brakes /Chassis I**<br>制动/底盘 I | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/motorcycle-and-powersports-product-repair-techniques) |
-| **Introduction to Service Management**<br>服务管理导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/motorcycle-and-powersports-product-repair-techniques) |
+| **Introduction to Service Management**<br>服务管理入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/motorcycle-and-powersports-product-repair-techniques) |
 
 ## Courses
 

@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Behavioural Sciences**<br>行为科学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS.html) |
-| **Introduction to ABA I: History and Principles**<br>ABA导论 I：历史与原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
+| **Introduction to ABA I: History and Principles**<br>ABA入门 I：历史与原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
 | **Behavior Theory I: Observation and Assessment**<br>行为理论 I：观察与评估 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
 | **Professional Pathways**<br>职业发展路径 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
 | **Interpersonal Communications: Behavioural Sciences**<br>人际沟通：行为科学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
-| **Introduction to ABA II: Techniques and Applications**<br>ABA导论 II：技术与应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
+| **Introduction to ABA II: Techniques and Applications**<br>ABA入门 II：技术与应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
 | **Behavioural Theory II: Assessment and Data Analysis**<br>行为理论 II：评估与数据分析 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
 | **Ethics and Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |
 | **Autism and Developmental Disabilities**<br>自闭症与发育障碍 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BHS/courses.html) |

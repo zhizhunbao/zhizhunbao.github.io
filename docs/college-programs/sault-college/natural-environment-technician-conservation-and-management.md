@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Natural Environment Technician - Conservation and Management**<br>自然环境技术员：保护与管理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
-| **Introduction to Green Careers**<br>绿色职业导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
+| **Introduction to Green Careers**<br>绿色职业入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Fish and Wildlife Studies I**<br>鱼类与野生动物研究 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Outdoor Equipment Certifications**<br>户外装备认证 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Trees and Shrubs I**<br>乔木与灌木 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
@@ -36,7 +36,7 @@ ms.date: 2026-11-08
 | **Wetland Conservation**<br>湿地保护 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Forest Practices and the Environment**<br>森林作业与环境 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Ecosystem Classification**<br>生态系统分类 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
-| **Introduction to Soil Science**<br>土壤科学导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
+| **Introduction to Soil Science**<br>土壤科学入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Advanced GIS**<br>高级GIS | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Career Readiness**<br>就业准备 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |
 | **Global Environmental Issues**<br>全球环境问题 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/school-natural-environment/natural-environment-technician-conservation-and-management) |

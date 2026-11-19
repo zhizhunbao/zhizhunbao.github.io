@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Practical Nurse**<br>实用护士 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/) |
 | **Anatomy and Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Health Education: Individual Health and Wellness**<br>健康教育：个人健康与福祉 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Communications for Nursing**<br>护理沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
-| **Nursing Foundations I: Introduction to Nursing**<br>护理基础 1：护理导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
+| **Nursing Foundations I: Introduction to Nursing**<br>护理基础 1：护理入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Anatomy and Physiology I**<br>解剖学与生理学 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Basic Pharmacotherapeutics**<br>基础药物治疗学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Nursing Foundations II: Basic Nursing**<br>护理基础 2：基础护理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Nursing Foundations III: Medical-Surgical Nursing**<br>护理基础 3：内外科护理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Nursing Foundations IV: Maternity Nursing**<br>护理基础 4：产科护理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Nursing Foundations V: Pediatric Nursing**<br>护理基础 5：儿科护理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
-| **Introduction to the Study of Society**<br>社会研究导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
+| **Introduction to the Study of Society**<br>社会研究入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Nursing Practice II: Acute Care Practice - Medicine**<br>护理实践 2：急症护理实践（内科） | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Nursing Practice III: Acute Care Practice - Surgery**<br>护理实践 3：急症护理实践（外科） | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |
 | **Nursing Foundations VI: Community Nursing**<br>护理基础 6：社区护理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/practical-nurse/costs-and-courses/) |

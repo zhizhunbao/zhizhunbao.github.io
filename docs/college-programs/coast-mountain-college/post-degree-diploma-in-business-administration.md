@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Macro Economics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma) |
 | **Canadian Business Law**<br>加拿大商法 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma) |
 | **Business Ethics ( or)**<br>商业伦理（或） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma) |
 | **Financial Accounting II**<br>财务会计 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/business-administration-post-degree-diploma) |

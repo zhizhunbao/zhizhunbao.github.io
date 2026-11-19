@@ -1,10 +1,10 @@
 ---
-title: "3.3.3 American Studies, Major: Bachelor of Arts"
+title: "4.3.3 American Studies, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > American Studies, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.3 American Studies, Major: Bachelor of Arts
+# 4.3.3 American Studies, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **The Inner Lives of Black Women**<br>黑人女性的内心生活 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Indigeneity and Colonialism**<br>原住民性与殖民主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Foundations of African American Studies**<br>非裔美国人研究基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
-| **Introduction to Feminist, Gender, and Sexuality Studies**<br>女性主义、性别与性学研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
+| **Introduction to Feminist, Gender, and Sexuality Studies**<br>女性主义、性别与性学研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **War and Peace in American Foreign Policy**<br>美国外交政策中的战争与和平 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **American Politics and Policy: In Defense of Democracy**<br>美国政治与政策：捍卫民主 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **The American West**<br>美国西部 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
@@ -43,10 +43,10 @@ ms.date: 2026-11-18
 | **Learning Religion: How People Acquire Religious Commitments**<br>学习宗教：人们如何获得宗教信念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Thinking the American Revolution**<br>思考美国革命 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Identity in the American Imagination**<br>美国想象中的身份 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
-| **Introduction to Asian American History**<br>亚裔美国人历史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
-| **Introduction to English II: American Literature and Culture to 1855**<br>英语导论 II：1855年以前的美国文学与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
+| **Introduction to Asian American History**<br>亚裔美国人历史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
+| **Introduction to English II: American Literature and Culture to 1855**<br>英语入门 II：1855年以前的美国文学与文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Media, Culture, and Society**<br>媒体、文化与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
-| **Introduction to African American Literature**<br>非裔美国文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
+| **Introduction to African American Literature**<br>非裔美国文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **American Moderns: Hemingway, Hurston, Faulkner, & Fitzgerald**<br>美国现代派：海明威、赫斯顿、福克纳与菲茨杰拉德 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Comparative Fictions of Ethnicity**<br>族群的比较小说 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Mark Twain and American Culture**<br>马克吐温与美国文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
@@ -78,7 +78,7 @@ ms.date: 2026-11-18
 | **Black Aliveness**<br>黑人的生命力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Becoming Modern: American Literature 1880-1920**<br>走向现代：美国文学1880至1920 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **American Photographs: A Magical History**<br>美国摄影：一部神奇的历史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
-| **Decolonizing Methodologies: Introduction to Native American Studies**<br>去殖民方法论：美洲原住民研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
+| **Decolonizing Methodologies: Introduction to Native American Studies**<br>去殖民方法论：美洲原住民研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **Vietnamese American Cultural Studies**<br>越南裔美国人文化研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **The Development of the Southeast Asian American Communities: A comparative analysis**<br>东南亚裔美国人社区的发展：比较分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |
 | **The Urban Underclass**<br>城市底层阶级 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/american-studies/bachelor-of-arts) |

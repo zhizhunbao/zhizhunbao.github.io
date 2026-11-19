@@ -14,15 +14,15 @@ ms.date: 2026-11-08
 | **Cell Biology Lab**<br>细胞生物学实验 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Cell Biology Lecture**<br>细胞生物学讲座 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Communications**<br>传播 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
-| **Introduction to Applied Chemistry-Lab**<br>应用化学导论-实验 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
-| **Introduction to Applied Chemistry-Lecture**<br>应用化学导论-讲授 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
+| **Introduction to Applied Chemistry-Lab**<br>应用化学入门-实验 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
+| **Introduction to Applied Chemistry-Lecture**<br>应用化学入门-讲授 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Mathematics**<br>数学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Organic Chemistry 1**<br>有机化学 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Sustainability**<br>可持续性 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Applied Chemistry 2-Lab**<br>应用化学 2-实验 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Applied Chemistry 2-Lecture**<br>应用化学 2-讲座 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Applied Organic Chem Techniques**<br>应用有机化学技术 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Mathematics for Biosciences**<br>生物科学数学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Organic Chemistry 2**<br>有机化学 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |
 | **Organismal Biology & Taxonomy**<br>生物体生物学与分类学 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/biotechnology/) |

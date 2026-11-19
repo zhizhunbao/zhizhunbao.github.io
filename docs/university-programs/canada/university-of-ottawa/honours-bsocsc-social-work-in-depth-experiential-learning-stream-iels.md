@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **Honours BSocSc Social Work - In-depth Experiential Learning Stream (IELS)**<br>社会工作荣誉（BSocSc）－深度体验式学习路径（IELS） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
-| **Introduction to the In-depth Experiential Learning Stream and Transferable Competencies**<br>深度体验式学习路径与可迁移能力导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
-| **Introduction au travail social**<br>社会工作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
+| **Introduction to the In-depth Experiential Learning Stream and Transferable Competencies**<br>深度体验式学习路径与可迁移能力入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
+| **Introduction au travail social**<br>社会工作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
 | **Diversité et travail social**<br>多元性与社会工作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
 | **Sciences sociales et recherche**<br>社会科学与研究 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |
 | **Méthodes d'intervention en travail social**<br>社会工作干预方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-social-work-iels/) |

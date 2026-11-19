@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Gender and Social Justice (Bachelor of Arts - Three-Year General)**<br>性别与社会公正（文学学士 - 3 年制普通） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
-| **Introduction to Gender and Social Justice**<br>性别与社会正义导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
+| **Introduction to Gender and Social Justice**<br>性别与社会正义入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Gender Issues**<br>性别议题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Feminisms for Social Justice**<br>面向社会正义的女性主义 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Truth - Reconciliation - Story**<br>真相、和解、故事 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Sex and Gender in the Ancient World**<br>古代世界的性与性别 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
-| **Introduction to Race, Culture, and Communication**<br>种族、文化与传播导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
+| **Introduction to Race, Culture, and Communication**<br>种族、文化与传播入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Topics in Gender and Sexuality in Communication**<br>传播中的性别与性专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Topics in Race, Culture, and Communication**<br>种族、文化与传播专题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Advanced Race, Culture, and Communication**<br>高级种族、文化与传播 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
@@ -33,8 +33,8 @@ ms.date: 2026-11-11
 | **Changing Concepts of Childhood**<br>童年概念的变迁 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Canadian Legal History**<br>加拿大法律史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Canada: The Immigrant Experience**<br>加拿大：移民经历 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
-| **Introduction to Health 1**<br>健康导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
-| **Introduction to Health 2**<br>健康导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
+| **Introduction to Health 1**<br>健康入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
+| **Introduction to Health 2**<br>健康入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Indigenous Visual Culture in Canada**<br>加拿大原住民视觉文化 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **The Social Nature of Knowledge**<br>知识的社会性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Women, Sex, Marriage, and Family Traditions in Italy**<br>意大利的女性、性、婚姻与家庭传统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
@@ -49,7 +49,7 @@ ms.date: 2026-11-11
 | **Psychological Perspectives on Gender and Sex**<br>性别与性的心理学视角 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **A Psychological Analysis of Human Sexuality**<br>人类性行为的心理学分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Psychosexual Organization**<br>心理性欲组织 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
-| **Introduction to Leisure, Equity, Diversity, and Inclusion for Just Communities**<br>休闲、公平、多元与包容导论：迈向公正社区 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
+| **Introduction to Leisure, Equity, Diversity, and Inclusion for Just Communities**<br>休闲、公平、多元与包容入门：迈向公正社区 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Qualitative Approaches to Leisure Research**<br>休闲研究的质性方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Islam, the West, and the Modern World**<br>伊斯兰教、西方与现代世界 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Christian Sexual Ethics**<br>基督教性伦理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
@@ -59,8 +59,8 @@ ms.date: 2026-11-11
 | **Queer and Trans Studies**<br>酷儿与跨性别研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Gender Relations within Educational Institutions**<br>教育机构中的性别关系 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Islam in the World**<br>世界中的伊斯兰教 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
-| **Introduction to Sexualities, Relationships, and Families**<br>性、关系与家庭导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
-| **Introduction to Human Sexualities**<br>人类性取向导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
+| **Introduction to Sexualities, Relationships, and Families**<br>性、关系与家庭入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
+| **Introduction to Human Sexualities**<br>人类性取向入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Welcome to Latin America**<br>欢迎来到拉丁美洲 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Gender, Power, and Representations in Latin America**<br>拉丁美洲的性别、权力与再现 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |
 | **Memory, Human Rights, and Reconciliation**<br>记忆、人权与和解 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1NekACj2) |

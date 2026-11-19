@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Linguistics, B.A. Single Honours**<br>语言学，B.A. 单一荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/linguistics/linguistics-ba-honours/) |
-| **Introduction to Linguistics: Foundations of Language**<br>语言学导论：语言基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/linguistics/linguistics-ba-honours/) |
-| **Introduction to Linguistics: Language in Context**<br>语言学导论：语境中的语言 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/linguistics/linguistics-ba-honours/) |
+| **Introduction to Linguistics: Foundations of Language**<br>语言学入门：语言基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/linguistics/linguistics-ba-honours/) |
+| **Introduction to Linguistics: Language in Context**<br>语言学入门：语境中的语言 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/linguistics/linguistics-ba-honours/) |
 | **Phonetics and Phonology**<br>语音学与音系学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/linguistics/linguistics-ba-honours/) |
 | **Morphology and Syntax**<br>形态学与句法学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/linguistics/linguistics-ba-honours/) |
 | **Arts Co-operative Option 1**<br>文学院合作教育选项 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/linguistics/linguistics-ba-honours/) |

@@ -15,13 +15,13 @@ ms.date: 2026-11-08
 | **College Reading & Writing Across Contexts**<br>跨情境大学阅读与写作 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Business Computing Applications I**<br>商务计算应用 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
-| **Introduction to Personal Finances**<br>个人理财导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
+| **Introduction to Personal Finances**<br>个人理财入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Insurance Fundamentals - Property and Casualty**<br>保险基础：财产与意外险 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Business Mathematics I**<br>商务数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Insurance Fundamentals**<br>保险基础 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Client Communications in Financial Services**<br>金融服务中的客户沟通 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
-| **Introduction to Economics**<br>经济学导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
+| **Introduction to Economics**<br>经济学入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Introductory Financial Planning**<br>财务规划入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Marketing I**<br>市场营销 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-insurance/courses?id=35989) |

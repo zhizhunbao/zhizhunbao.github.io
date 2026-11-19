@@ -13,10 +13,10 @@ ms.date: 2026-11-11
 | **MAJOR IN PHILOSOPHY IN COMMERCE**<br>商科哲学主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **REASONING AND CRITICAL THINKING**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **RIGHT AND WRONG**<br>对与错 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHILOSOPHY (REALITY AND WHAT WE CAN KNOW OF IT)**<br>哲学导论（实在及我们对它的认识） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHILOSOPHY (REALITY AND WHAT WE CAN KNOW OF IT)**<br>哲学入门（实在及我们对它的认识） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **FORM, THOUGHT, COMMUNICATION**<br>形式、思想、沟通 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS ETHICS**<br>商业伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **THE HISTORY OF POLITICAL PHILOSOPHY**<br>政治哲学史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **CONTEMPORARY POLITICAL PHILOSOPHY**<br>当代政治哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **GROUP AGENCY**<br>群体能动性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
@@ -31,8 +31,8 @@ ms.date: 2026-11-11
 | **SOCIAL CONSTRUCTION OF INSTITUTIONS**<br>制度的社会建构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **THEORIES OF PROPERTY**<br>财产理论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **CONTEMPORARY ISSUES IN THE PHILOSOPHY OF PROPERTY**<br>财产哲学当代问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO LOGIC**<br>逻辑学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO LOGIC**<br>逻辑学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO DECISION ANALYSIS**<br>决策分析入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF RISK**<br>风险哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF MONEY**<br>货币哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF LAW**<br>法哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20787&SelectedCalendar=Live&ArchiveID=) |

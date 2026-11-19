@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Patient Care 2**<br>患者护理 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4085/courses-next/) |
 | **Patient Care Lab 2**<br>患者护理实验 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4085/courses-next/) |
 | **Paramedic Practice 2**<br>急救医护实务 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4085/courses-next/) |
-| **Research Principles: Intro**<br>研究原则：导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4085/courses-next/) |
+| **Research Principles: Intro**<br>研究原则：入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4085/courses-next/) |
 | **Professional Comm for Paramedics 2**<br>急救员专业沟通 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4085/courses-next/) |
 | **Patient Care 3**<br>患者护理 3 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4085/courses-next/) |
 | **Pharmacology for Paramedics**<br>急救医护员药理学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4085/courses-next/) |

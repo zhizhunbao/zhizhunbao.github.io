@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **IT Service Delivery**<br>IT 服务交付 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ITOPF-DP/PrinterFriendly#COMP-3016) |
 | **Business Continuity and Disaster Recovery**<br>业务连续性与灾难恢复 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ITOPF-DP/PrinterFriendly#COMP-3017) |
 | **Transforming Data Into Databases**<br>将数据转化为数据库 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ITOPF-DP/PrinterFriendly#COMP-1701) |
-| **Introduction to Data Science and Machine Learning**<br>数据科学与机器学习导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ITOPF-DP/PrinterFriendly#COMP-1702) |
+| **Introduction to Data Science and Machine Learning**<br>数据科学与机器学习入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ITOPF-DP/PrinterFriendly#COMP-1702) |
 | **Networking for IT Operations**<br>IT运维网络 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ITOPF-DP/PrinterFriendly#COMP-3046) |
 | **Endpoint Administration**<br>终端管理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ITOPF-DP/PrinterFriendly#COMP-3047) |
 | **IT Operations Co-op**<br>IT 运维带薪实习 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ITOPF-DP/PrinterFriendly#COOP-4003) |

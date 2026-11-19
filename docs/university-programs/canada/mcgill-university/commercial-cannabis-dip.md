@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Commercial Cannabis (Dip.)**<br>商业大麻（文凭） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |
-| **Introduction to Cannabis and Cannabinoids.**<br>大麻与大麻素导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |
+| **Introduction to Cannabis and Cannabinoids.**<br>大麻与大麻素入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |
 | **Contaminants in Cannabis.**<br>大麻中的污染物 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |
-| **Introduction to Cannabis Product Design.**<br>大麻产品设计导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |
+| **Introduction to Cannabis Product Design.**<br>大麻产品设计入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |
 | **Cannabis Issues and Concerns.**<br>大麻议题与关切 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |
 | **Commercial Cannabis Production.**<br>商业大麻生产 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |
 | **Cannabis Genetics and Breeding.**<br>大麻遗传与育种 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/commercial-cannabis-dip/) |

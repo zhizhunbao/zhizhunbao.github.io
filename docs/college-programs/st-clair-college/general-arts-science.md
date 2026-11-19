@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **General Arts & Science**<br>通识文理科 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
-| **Introduction To Psychology I**<br>心理学导论 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
+| **Introduction To Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
 | **Intro To Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
 | **How To Be Who I Want To Be**<br>如何成为我想成为的人 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
 | **Thinking, Learning and Being**<br>思考、学习与存在 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
 | **College Writing**<br>学院写作 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
 | **Social Science Research**<br>社会科学研究 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
-| **Introduction To Psychology II**<br>心理学导论 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
+| **Introduction To Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
 | **Canadian History And Politics**<br>加拿大历史与政治 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
 | **Contemporary Social Problems**<br>当代社会问题 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |
 | **Intro To Cultural Anthropology**<br>文化人类学入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/general-arts-science) |

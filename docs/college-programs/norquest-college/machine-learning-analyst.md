@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Machine Learning Analyst**<br>机器学习分析师 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/) |
 | **Statistics I**<br>统计学 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
 | **Scientific and Technical Writing**<br>科技写作 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
-| **Introduction to Machine Learning and Data Science**<br>机器学习与数据科学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
+| **Introduction to Machine Learning and Data Science**<br>机器学习与数据科学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
 | **Database Management Systems**<br>数据库管理系统 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
 | **Linear Algebra I**<br>线性代数 1 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
 | **Algorithms**<br>算法 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
 | **Canadian Business Fundamentals**<br>加拿大商业基础 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
 | **Technology Business Strategy and Execution**<br>技术业务战略与执行 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |
 | **Public Speaking for Business**<br>商务公共演讲 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/machine-learning-analyst/costs-and-courses/) |

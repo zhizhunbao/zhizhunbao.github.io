@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mobile Application Development**<br>移动应用开发 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mobile-application-development) |
-| **Introduction to Mobile Application Development**<br>移动应用开发导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mobile-application-development) |
+| **Introduction to Mobile Application Development**<br>移动应用开发入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mobile-application-development) |
 | **Web & Database Programming for Mobile Application Development**<br>面向移动应用开发的Web与数据库编程 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mobile-application-development) |
 | **Rich Media Development**<br>富媒体开发 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mobile-application-development) |
 | **Software Project Management and Agile Practices**<br>软件项目管理与敏捷实践 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/mobile-application-development) |

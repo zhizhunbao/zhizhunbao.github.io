@@ -11,7 +11,33 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIST (CO-OPERATIVE) PROGRAM IN CHEMISTRY (SCIENCE)**<br>化学专精项目（合作教育）（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Introductory Chemistry I: Structure and Bonding**<br>化学入门 I：结构与成键 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Introductory Chemistry II: Reactions and Mechanisms**<br>化学入门 II：反应与机理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Advanced General Chemistry**<br>高级普通化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Physics I for the Physical Sciences**<br>物理科学物理 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Physics II for the Physical Sciences**<br>物理科学物理 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
 | **Techniques in Analytical Chemistry**<br>分析化学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Chemical Structure and Spectroscopy**<br>化学结构与波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice**<br>化学热力学与动力学入门：理论与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Introduction to Inorganic Chemistry**<br>无机化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Techniques of the Calculus of Several Variables I**<br>多变量微积分技巧 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Principles of Analytical Instrumentation**<br>分析仪器原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Analytical Instrumentation**<br>分析仪器学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Intermediate Physical Chemistry**<br>中级物理化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Topics in Biophysical Chemistry**<br>生物物理化学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Intermediate Inorganic Chemistry**<br>中级无机化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Organic Synthesis**<br>有机合成 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Current Questions in Mathematics and Science**<br>数学与科学的当前问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Directed Research**<br>指导研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| **Advanced Chemistry Laboratory Course**<br>高级化学实验课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
 | **Becoming Job Search Ready: Science Co-op**<br>为求职做好准备：理科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
 | **Finding Your First Work Term and Getting Workplace Ready: Science Co-op**<br>寻找首个工作学期并做好职场准备：理科合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
@@ -27,6 +53,40 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+| First Year | Program requirements (same as SCSPE1376): |  | 1. 4.0 credits from the following |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): | CHMA10H3 | Introductory Chemistry I: Structure and Bonding | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): | CHMA11H3 | Introductory Chemistry II: Reactions and Mechanisms | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): (or) | CHMA12H3 | Advanced General Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): | MATA23H3 | Linear Algebra I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): | MATA36H3 | Calculus II for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): | PHYA10H3 | Physics I for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): | PHYA21H3 | Physics II for the Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| First Year | Program requirements (same as SCSPE1376): | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): |  | 2. 4.0 credits from the following |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): | CHMB16H3 | Techniques in Analytical Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): | CHMB21H3 | Chemical Structure and Spectroscopy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): | CHMB23H3 | Introduction to Chemical Thermodynamics and Kinetics: Theory and Practice | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): | CHMB31H3 | Introduction to Inorganic Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): | CHMB41H3 | Organic Chemistry I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): | CHMB42H3 | Organic Chemistry II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): | CHMB55H3 | Environmental Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): (or) | CHMB62H3 | Introduction to Biochemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Second Year | Program requirements (same as SCSPE1376): | MATB41H3 | Techniques of the Calculus of Several Variables I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Third Year | Program requirements (same as SCSPE1376): |  | 3. 3.0 credits from the following |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Third Year | Program requirements (same as SCSPE1376): | CHMC11H3 | Principles of Analytical Instrumentation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Third Year | Program requirements (same as SCSPE1376): | CHMC16H3 | Analytical Instrumentation | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Third Year | Program requirements (same as SCSPE1376): | CHMC20H3 | Intermediate Physical Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Third Year | Program requirements (same as SCSPE1376): (or) | CHMC21H3 | Topics in Biophysical Chemistry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Third Year | Program requirements (same as SCSPE1376): | CHMC31Y3 | Intermediate Inorganic Chemistry | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Third Year | Program requirements (same as SCSPE1376): | CHMC42H3 | Organic Synthesis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Fourth Year | Program requirements (same as SCSPE1376): |  | 4. 3.0 credits from the following |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Fourth Year | Program requirements (same as SCSPE1376): | PSCD02H3 | Current Questions in Mathematics and Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Fourth Year | Program requirements (same as SCSPE1376): and |  | 0.5 credit in any C-level or 300-level CHM course not already taken |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Fourth Year | Program requirements (same as SCSPE1376): and |  | 2.0 credits in any D-level or 400-level CHM course, including one of the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Fourth Year | Program requirements (same as SCSPE1376): and | CHMD90Y3 | Directed Research | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Fourth Year | Program requirements (same as SCSPE1376): and | CHMD91H3 | Directed Research | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
+| Fourth Year | Program requirements (same as SCSPE1376): and | CHMD92H3 | Advanced Chemistry Laboratory Course | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
 |  | Academic Program Requirements |  | Students must complete the program requirements as described in the Specialist Program in Chemistry. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1376c) |

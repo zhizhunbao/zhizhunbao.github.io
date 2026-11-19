@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Honours Bachelor of Science - Nursing**<br>理学荣誉学士 - 护理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Anatomy & Physiology 1**<br>解剖学与生理学 1 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
-| **Introduction to the Nursing Profession**<br>护理专业导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
+| **Introduction to the Nursing Profession**<br>护理专业入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Fundamental Skills Labs**<br>基础技能实验室 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Clinical 1 - Professional Communication & Self-Awareness**<br>临床 1 - 专业沟通与自我觉察 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Critical Inquiry & Scholarly Writing for Nursing**<br>护理批判性探究与学术写作 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
@@ -24,14 +24,14 @@ ms.date: 2026-11-08
 | **General education elective change to Degree Level Non Core Elective (advanced)**<br>通识教育选修课改为学位级别非核心选修课 (高级) | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Pathophysiology Concepts & Nursing Care 1**<br>病理生理学概念与护理 1 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Statistics for Nursing Research**<br>护理研究统计学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
-| **Introduction to Pharmacology**<br>药理学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
+| **Introduction to Pharmacology**<br>药理学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Clinical 3 - Labs**<br>临床 3 - 实验 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Microbiology - Infectious Disease & the Immune Response**<br>微生物学 - 传染病与免疫应答 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
-| **Community 1 - Introduction to Community Nursing & Aging in Place**<br>社区 1 - 社区护理与居家养老导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
+| **Community 1 - Introduction to Community Nursing & Aging in Place**<br>社区 1 - 社区护理与居家养老入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Research & Evidence - Informed Practice**<br>研究与循证实践 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Mental Health & Addictions**<br>精神健康与成瘾 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Clinical 4 - Labs**<br>临床 4 - 实验 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Pathophysiology Concents & Nursing Care 2**<br>病理生理学概念与护理 2 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Community 2 - Public & Population Health**<br>社区 2 - 公共与人群健康 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |
 | **Young Families Health - Maternal Infant Care**<br>年轻家庭健康 - 母婴护理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/bsnl) |

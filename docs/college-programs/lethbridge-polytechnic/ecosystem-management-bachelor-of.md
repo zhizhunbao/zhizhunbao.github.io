@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Fundamentals of Soil Science**<br>土壤科学基础 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-ecosystem-management) |
 | **Descriptive Statistics**<br>描述统计学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-ecosystem-management) |
 | **Geographic Information Systems**<br>地理信息系统 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-ecosystem-management) |
-| **Introduction to Environmental Law**<br>环境法导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-ecosystem-management) |
+| **Introduction to Environmental Law**<br>环境法入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-ecosystem-management) |
 | **Rangeland Management**<br>牧场管理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-ecosystem-management) |
 | **Forest Management**<br>森林经营 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-ecosystem-management) |
 | **List A Electives**<br>A 类选修课 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/bachelor-of-ecosystem-management) |

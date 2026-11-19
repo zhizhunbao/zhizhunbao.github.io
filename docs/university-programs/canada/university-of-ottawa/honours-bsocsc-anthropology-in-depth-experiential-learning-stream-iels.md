@@ -14,8 +14,8 @@ ms.date: 2026-11-11
 | **Workshop in Essay Writing**<br>论文写作工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Selected Topics in Literature and Composition**<br>文学与写作专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Social and Cultural Anthropology**<br>社会与文化人类学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
-| **Introduction to the In-depth Experiential Learning Stream and Transferable Competencies**<br>深度体验式学习路径与可迁移能力导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
-| **Introduction to Research Methods in Anthropology**<br>人类学研究方法导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
+| **Introduction to the In-depth Experiential Learning Stream and Transferable Competencies**<br>深度体验式学习路径与可迁移能力入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
+| **Introduction to Research Methods in Anthropology**<br>人类学研究方法入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Classical Theories in Anthropology**<br>人类学经典理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Anthropology and Indigenous Peoples**<br>人类学与原住民 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Anthropology for the 21st Century**<br>21 世纪的人类学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
@@ -51,14 +51,14 @@ ms.date: 2026-11-11
 | **Historical Anthropology**<br>历史人类学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Canada and the Challenges of International Development and Globalization**<br>加拿大与国际发展和全球化的挑战 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Social Impact in Global Perspective**<br>全球视野下的社会影响 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
-| **Introduction to International Development Practices: Challenges and Innovations**<br>国际发展实践导论：挑战与创新 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
+| **Introduction to International Development Practices: Challenges and Innovations**<br>国际发展实践入门：挑战与创新 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Education, Health and Social Protection**<br>教育、健康与社会保护 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Qualitative Research Methods and Techniques for Doing Fieldwork in International Development**<br>国际发展实地调查的定性研究方法与技术 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **International Projects Management**<br>国际项目管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Global Experiential Learning**<br>全球体验式学习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **International Internship in International Development**<br>国际发展国际实习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
-| **Introduction to the Study of Conflicts and Human Rights**<br>冲突与人权研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
-| **Introduction to International Human Rights Law and Institutions**<br>国际人权法与机构导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
+| **Introduction to the Study of Conflicts and Human Rights**<br>冲突与人权研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
+| **Introduction to International Human Rights Law and Institutions**<br>国际人权法与机构入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Indigenous Politics and Human Rights**<br>原住民政治与人权 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Conflicts and Rights: Philosophical Perspectives**<br>冲突与权利：哲学视角 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Qualitative Methods in Conflict Studies and Human Rights**<br>冲突研究与人权中的定性方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
@@ -96,7 +96,7 @@ ms.date: 2026-11-11
 | **Geographies of Transnational Migration and Settlement**<br>跨国移民与定居地理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Latin America, Colonial Period**<br>拉丁美洲殖民时期 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **Latin America, Modern Period**<br>拉丁美洲近代 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
-| **Introduction to the History of Southeast Asia**<br>东南亚史导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
+| **Introduction to the History of Southeast Asia**<br>东南亚史入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **History of East Asia from 1600 to the Present**<br>1600 年至今的东亚史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **History of Indigenous Peoples in Canada**<br>加拿大原住民史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |
 | **The African Past**<br>非洲往昔 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsocsc-anthropology-iels/) |

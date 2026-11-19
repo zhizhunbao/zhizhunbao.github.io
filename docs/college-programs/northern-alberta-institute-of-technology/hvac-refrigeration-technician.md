@@ -14,13 +14,13 @@ ms.date: 2026-11-08
 | **Refrigeration Fundamentals**<br>制冷基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 | **HVACR Tools and Safety**<br>暖通空调制冷工具与安全 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
-| **Introduction to HVAC**<br>HVAC 导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
+| **Introduction to HVAC**<br>HVAC 入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 | **Refrigeration Processes and Components**<br>制冷工艺与部件 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 | **Refrigeration and Air Conditioning (RAC) Installations**<br>制冷与空调（RAC）安装 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 | **Gas-Fired Heating**<br>燃气采暖 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 | **Electrical Systems and Controls**<br>电气系统与控制 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
-| **Introduction to Building Automation Systems**<br>楼宇自动化系统导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
+| **Introduction to Building Automation Systems**<br>楼宇自动化系统入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 | **HVACR Industry Field Placement**<br>暖通空调制冷行业现场实习 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/hvac-refrigeration-technician) |
 
 ## Courses

@@ -15,13 +15,13 @@ ms.date: 2026-11-08
 | **Family Dynamics**<br>家庭动力学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
 | **Introductory Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
-| **Introduction to Social Work I**<br>社会工作导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
+| **Introduction to Social Work I**<br>社会工作入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
 | **Community Resources**<br>社区资源 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
-| **Introduction to Addictions**<br>成瘾导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
+| **Introduction to Addictions**<br>成瘾入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
 | **Introductory Psychology II**<br>心理学入门 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
 | **Group Skills**<br>团体技能 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
-| **Introduction to Social Policy**<br>社会政策导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
+| **Introduction to Social Policy**<br>社会政策入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
 | **Field Work I**<br>野外工作 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
 | **Field Work II**<br>野外工作 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-certificate) |
 

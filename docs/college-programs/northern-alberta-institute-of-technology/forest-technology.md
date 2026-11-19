@@ -17,8 +17,8 @@ ms.date: 2026-11-08
 | **Forest Soils**<br>森林土壤学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
 | **Wildfire Suppression**<br>野火扑救 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
 | **Professional Communications**<br>职业沟通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
-| **Introduction to Forest Management**<br>森林管理导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
-| **Introduction to Forest Engineering**<br>森林工程导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
+| **Introduction to Forest Management**<br>森林管理入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
+| **Introduction to Forest Engineering**<br>森林工程入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
 | **Plant Physiology and Forest Ecology**<br>植物生理学与森林生态学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
 | **Forest Entomology, Pathology, and Wildlife**<br>森林昆虫学、病理学与野生动物 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |
 | **The Forestry Professional**<br>林业专业人员 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/forest-technology) |

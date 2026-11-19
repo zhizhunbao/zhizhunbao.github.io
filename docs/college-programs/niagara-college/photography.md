@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Photography**<br>摄影 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |
 | **Design and Composition Fundamentals**<br>设计与构图基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |
-| **Introduction to the Digital Darkroom**<br>数字暗房导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |
-| **Introduction to the Photography Studio**<br>摄影工作室导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |
+| **Introduction to the Digital Darkroom**<br>数字暗房入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |
+| **Introduction to the Photography Studio**<br>摄影工作室入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |
 | **The Digital Mirrorless Camera**<br>数码无反相机 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |
 | **The Photographic Portrait**<br>摄影肖像 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |
 | **Communications for Media Studies**<br>媒体研究沟通 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/media/program/photography/) |

@@ -11,22 +11,22 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN ELECTRIC VEHICLE DESIGN (U of T Sustainability Scholar)**<br>电动车辆设计证书（多伦多大学可持续性学者） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
-| **Introduction to Electric Vehicle Design**<br>电动汽车设计导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
+| **Introduction to Electric Vehicle Design**<br>电动汽车设计入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Fuel Cells and Electro-chemical Conversion Devices**<br>燃料电池与电化学转换装置 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Fundamentals of Electrical Energy Systems**<br>电能系统基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
-| **Introduction to Energy Systems**<br>能源系统导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
+| **Introduction to Energy Systems**<br>能源系统入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Analog and Digital Electronics for Mechatronics**<br>机电一体化的模拟与数字电子学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Electronics for Robotics**<br>机器人电子学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Electrification Through Electricity Markets**<br>通过电力市场实现电气化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Nanotech in Alternate Energy Systems**<br>替代能源系统中的纳米技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Robotics**<br>机器人学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Data-based Modelling for Prediction and Control**<br>基于数据的预测与控制建模 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
-| **Introduction to Control Systems**<br>控制系统导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
+| **Introduction to Control Systems**<br>控制系统入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Computer Hardware**<br>计算机硬件 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Photonic Devices**<br>光子器件 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Electric Drives**<br>电力传动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Power Electronics**<br>电力电子 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
-| **Introduction to Quality Control**<br>质量控制导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
+| **Introduction to Quality Control**<br>质量控制入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Operations and Supply Chain Management**<br>运营与供应链管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Control Systems I**<br>控制系统 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |
 | **Mechatronics Systems: Design and Integration**<br>机电一体化系统：设计与集成 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aecerevd) |

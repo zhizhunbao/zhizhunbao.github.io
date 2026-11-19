@@ -13,14 +13,14 @@ ms.date: 2026-11-08
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Programming Foundations – Python**<br>编程基础 – Python | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Web Development**<br>Web开发 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
-| **Introduction to Data Communications and Networking**<br>数据通信与网络导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
+| **Introduction to Data Communications and Networking**<br>数据通信与网络入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Computer Math Fundamentals**<br>计算机数学基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **General Education Elective (Open)**<br>通识教育选修课（开放） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Object Oriented Programming 2 – Java**<br>面向对象编程 2 – Java | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Web Programming**<br>Web 编程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Cloud Enabled Networks**<br>云赋能网络 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
-| **Introduction to Database Systems**<br>数据库系统导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
+| **Introduction to Database Systems**<br>数据库系统入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Operating Systems – Linux**<br>操作系统 – Linux | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **Enterprise Java Development**<br>企业级Java开发 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |
 | **AI and Machine Learning – Python**<br>AI与机器学习（Python） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/computer-programming) |

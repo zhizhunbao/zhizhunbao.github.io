@@ -24,8 +24,8 @@ ms.date: 2026-11-11
 | **Marketing Consulting: Models for Analysis**<br>营销咨询：分析模型 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
 | **Negotiations**<br>谈判 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
 | **Managing Global Organizations**<br>全球组织管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
-| **Introduction to International Business**<br>国际商务导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
-| **Introduction to Strategic Management**<br>战略管理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
+| **Introduction to International Business**<br>国际商务入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
+| **Introduction to Strategic Management**<br>战略管理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
 | **Small Business Management**<br>小企业管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
 | **Entrepreneurial Strategy**<br>创业战略 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |
 | **Entrepreneurial Finance and Venture Capital**<br>创业金融与风险投资 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ercer2020) |

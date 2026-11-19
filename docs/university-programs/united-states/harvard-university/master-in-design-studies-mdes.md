@@ -1,10 +1,10 @@
 ---
-title: "3.1.52 Master in Design Studies (MDes)"
+title: "4.1.52 Master in Design Studies (MDes)"
 description: "University Programs > United States > Harvard University > Master in Design Studies (MDes): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.52 Master in Design Studies (MDes)
+# 4.1.52 Master in Design Studies (MDes)
 
 ## Glossary
 

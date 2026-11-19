@@ -74,7 +74,7 @@ ms.date: 2026-11-11
 | **Social History of the Jesus Movement**<br>耶稣运动社会史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Gender, Body and Sexuality in Islam**<br>伊斯兰教中的性别、身体与性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **The Life of Muhammad**<br>穆罕默德的生平 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
-| **The Quran: An Introduction**<br>古兰经导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
+| **The Quran: An Introduction**<br>古兰经入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Post-Colonial Islam**<br>后殖民伊斯兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Marriage and Divorce in Islamic Thought and Practice**<br>伊斯兰思想与实践中的婚姻与离婚 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Living Islam**<br>活生生的伊斯兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
@@ -129,7 +129,7 @@ ms.date: 2026-11-11
 | **The Catholic Church in Canada**<br>加拿大天主教会 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Faith and Physics**<br>信仰与物理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Indian Christianity**<br>印度基督教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
-| **Introduction to Classical Mythology**<br>古典神话导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
+| **Introduction to Classical Mythology**<br>古典神话入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Theories of Myth**<br>神话理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Religion in the Greek World**<br>希腊世界的宗教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Religion in the Roman World**<br>罗马世界的宗教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
@@ -156,7 +156,7 @@ ms.date: 2026-11-11
 | **Dante: Vita Nuova and Divina Commedia (Inferno)**<br>但丁：《新生》与《神曲》（《地狱》） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Dante: Divina Commedia (Purgatorio and Paradiso)**<br>但丁：《神曲》（《炼狱》与《天堂》） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Love in the Renaissance**<br>文艺复兴中的爱 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
-| **Introduction to Jewish Thought**<br>犹太思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
+| **Introduction to Jewish Thought**<br>犹太思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Topics in Jewish Studies**<br>犹太研究专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Special Topics in Jewish Studies**<br>犹太研究专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Research Seminar in Jewish Studies**<br>犹太研究研究研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
@@ -185,7 +185,7 @@ ms.date: 2026-11-11
 | **C.G. Jung: Stories, Patterns, Symbols**<br>C.G. 荣格：故事、模式、象征 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Mind, Consciousness and the Self**<br>心灵、意识与自我 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Philosophy of Religion**<br>宗教哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
-| **Introduction to Chinese Philosophy**<br>中国哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
+| **Introduction to Chinese Philosophy**<br>中国哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Classical Islamic Philosophy**<br>古典伊斯兰哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Post-Classical Islamic Philosophy**<br>后古典伊斯兰哲学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Augustine**<br>奥古斯丁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
@@ -201,12 +201,12 @@ ms.date: 2026-11-11
 | **Russian Thinkers**<br>俄罗斯思想家 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Introductory Pali I**<br>巴利语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Introductory Pali II**<br>巴利语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
-| **Introduction to Sanskrit I**<br>梵语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
-| **Introduction to Sanskrit II**<br>梵语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
+| **Introduction to Sanskrit I**<br>梵语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
+| **Introduction to Sanskrit II**<br>梵语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Intermediate Sanskrit I**<br>中级梵语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Intermediate Sanskrit II**<br>中级梵语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
-| **Introduction to Tibetan I**<br>藏语导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
-| **Introduction to Tibetan II**<br>藏语导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
+| **Introduction to Tibetan I**<br>藏语入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
+| **Introduction to Tibetan II**<br>藏语入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Elementary Modern Hebrew I**<br>初级现代希伯来语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Elementary Modern Hebrew II**<br>初级现代希伯来语 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |
 | **Intermediate Modern Hebrew I**<br>中级现代希伯来语 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0151) |

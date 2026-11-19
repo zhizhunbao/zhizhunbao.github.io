@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Computer Applications for Business & Technology**<br>商务与技术计算机应用 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Water Monitoring and Sampling**<br>水质监测与采样 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Intro to Wastewater Collections and Treatment**<br>污水收集与处理入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
-| **Introduction to Human Resources**<br>人力资源导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
+| **Introduction to Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Communications in the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Plant Operations II**<br>工厂运行 II | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Pumps and Motors**<br>泵与电动机 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Soil and Air Monitoring & Sampling**<br>土壤与空气监测与采样 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Health and Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Indigenous Culture & Awareness**<br>原住民文化与意识 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
-| **Introduction to Drones, LiDar, and (GIS)**<br>无人机、LiDAR与(GIS)导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
+| **Introduction to Drones, LiDar, and (GIS)**<br>无人机、LiDAR与(GIS)入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Drinking Water Operations – Self Study**<br>饮用水运营 - 自学 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |
 | **Millwright and Water Treatment Plant 1**<br>机械安装工与水处理厂 1 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/environmental-technician-water-and-wastewater-systems-operations/) |

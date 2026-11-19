@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Social Work**<br>社会工作学士 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
-| **Introduction to Social Welfare**<br>社会福利导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
-| **Introduction to Social Work Practice**<br>社会工作实践导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
+| **Introduction to Social Welfare**<br>社会福利入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
+| **Introduction to Social Work Practice**<br>社会工作实践入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
 | **Topics in Social Work Practice I**<br>社会工作实践专题 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
 | **Topics in Social Analysis for Social Work Practice**<br>社会工作实践的社会分析专题 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
 | **Interviewing Skills**<br>访谈技巧 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-11
 | **Social Work Practice II**<br>社会工作实践 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
 | **Practicum II**<br>实习 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
 | **Advanced Integrative Seminar in Social Work Theory, Policy and Practice**<br>社会工作理论、政策与实践高级综合研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
-| **Introduction to Social Work Research**<br>社会工作研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
+| **Introduction to Social Work Research**<br>社会工作研究入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-social-work/bachelor-social-work/degree-requirements) |
 
 ## Courses
 

@@ -25,19 +25,19 @@ ms.date: 2026-11-08
 | **Finite Mathematics**<br>有限数学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
-| **Island Pre-Health I: Introduction to Health Science**<br>岛屿预科健康 I：健康科学导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
+| **Island Pre-Health I: Introduction to Health Science**<br>岛屿预科健康 I：健康科学入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Island Pre-Health II: Regional Issues in Health Science**<br>岛屿预科健康 II：健康科学中的区域问题 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
-| **Introduction to Physics I**<br>物理学导论 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
-| **Introduction to Physics II**<br>物理学导论 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
+| **Introduction to Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
+| **Introduction to Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Health Psychology**<br>健康心理学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Principles of Genetics**<br>遗传学原理 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Introductory Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Histories and Impacts of Colonization**<br>殖民化的历史与影响 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Cultural Anthropology**<br>文化人类学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Human Anatomy and Physiology I**<br>人体解剖学与生理学 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Human Anatomy and Physiology II**<br>人体解剖学与生理学 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Organic Chemistry I**<br>有机化学 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Culture, Communication and Global Citizenship**<br>文化、沟通与全球公民 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
@@ -53,8 +53,8 @@ ms.date: 2026-11-08
 | **Abnormal Psychology**<br>异常心理学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Human Development from Conception Through Childhood**<br>从受孕到童年期的人类发展 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Human Development from Adolescence Through Adulthood**<br>从青春期到成年期的人类发展 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
-| **Introduction to Sociology I**<br>社会学导论 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
-| **Introduction to Sociology II**<br>社会学导论 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
+| **Introduction to Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
+| **Introduction to Sociology II**<br>社会学入门 II | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **First Nations Sociology**<br>原住民社会学 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 | **Issues in Women's Health**<br>女性健康问题 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/programs/programs/university-arts-sciences/health-science-diploma.html) |
 

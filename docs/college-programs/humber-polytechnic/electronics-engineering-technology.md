@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Electronics Engineering Technology**<br>电子工程技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Digital Fundamentals**<br>数字基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
-| **Introduction to Electric Circuits**<br>电路导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
+| **Introduction to Electric Circuits**<br>电路入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Computer Hardware and Programming Fundamentals**<br>计算机硬件与编程基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Foundational Project - Electronics and Computer Technology**<br>基础项目 - 电子与计算机技术 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Technical Mathematics 1**<br>技术数学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
@@ -27,8 +27,8 @@ ms.date: 2026-11-08
 | **Electric Machines**<br>电机 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Communication Circuits**<br>通信电路 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Telecommunications Fundamentals**<br>电信基础 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
-| **Introduction to Calculus**<br>微积分导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
+| **Introduction to Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Computer Networking**<br>计算机联网 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Analog Electronics**<br>模拟电子学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |
 | **Smart Systems Project**<br>智能系统项目 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/electronics-engineering-technology) |

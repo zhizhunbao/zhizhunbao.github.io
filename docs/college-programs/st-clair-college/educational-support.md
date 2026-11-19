@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Foundations In Literacy And Numeracy**<br>读写与计算基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/educational-support) |
 | **Educational Programming Techniques I**<br>教育课程设计技术 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/educational-support) |
 | **Applied Behaviour Strategies**<br>应用行为策略 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/educational-support) |
-| **Introduction To Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/educational-support) |
+| **Introduction To Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/educational-support) |
 | **Field Placement I**<br>现场实习 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/educational-support) |
 | **Field Placement Seminar I**<br>实习研讨会 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/educational-support) |
 | **Educational Programming Techniques II**<br>教育课程设计技术 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/educational-support) |

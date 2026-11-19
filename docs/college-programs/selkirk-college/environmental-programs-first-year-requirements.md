@@ -17,12 +17,12 @@ ms.date: 2026-11-08
 | **Soil and Earth Sciences**<br>土壤与地球科学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
 | **Computer Applications in Natural Resource Management**<br>自然资源管理中的计算机应用 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
 | **Technical Math Review**<br>技术数学复习 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
-| **Introduction to Technical Writing and Communications I**<br>技术写作与沟通导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
-| **Introduction to Geomatics**<br>地理信息学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
+| **Introduction to Technical Writing and Communications I**<br>技术写作与沟通入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
+| **Introduction to Geomatics**<br>地理信息学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
 | **Terrestrial Ecology and Biology**<br>陆地生态学与生物学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
 | **Fish and Wildlife Ecology**<br>鱼类与野生动物生态学 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
 | **Resource Statistics I**<br>资源统计学 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
-| **Introduction to Technical Writing and Communications II**<br>技术写作与沟通导论 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
+| **Introduction to Technical Writing and Communications II**<br>技术写作与沟通入门 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
 | **Forest Technology Field School**<br>林业技术野外学校 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
 | **Ecological Restoration and Remediation**<br>生态恢复与修复 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |
 | **Environmental Planning Field Applications**<br>环境规划实地应用 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/environmental-programs-first-year-requirements) |

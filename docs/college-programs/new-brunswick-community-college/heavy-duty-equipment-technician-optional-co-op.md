@@ -11,12 +11,12 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Heavy Duty Equipment Technician (Optional Co-op)**<br>重型设备技术员（可选带薪实习） | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
-| **Introduction to Hydraulic Systems**<br>液压系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
+| **Introduction to Hydraulic Systems**<br>液压系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Hydraulic Systems for Heavy Equipment**<br>重型设备液压系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Pneumatic and Fire Suppression Systems**<br>气动与消防系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Hydraulic Systems Diagnosis**<br>液压系统诊断 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Trades Math I**<br>行业数学 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
-| **Introducton to Electrical Systems**<br>电气系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
+| **Introducton to Electrical Systems**<br>电气系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Electrical Systems II**<br>电气系统 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Mobile Equipment Vehicle Service**<br>移动设备车辆维修 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Buckets and Blades**<br>铲斗与铲刃 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Off-Road Steering Systems**<br>越野转向系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Hydraulic Brake Systems II**<br>液压制动系统 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Power Train Components**<br>传动系统部件 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
-| **Introduction to Steering Systems**<br>转向系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
+| **Introduction to Steering Systems**<br>转向系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 | **Mobile Equipment Welding**<br>移动设备焊接 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=bdaf052d-5799-4f8c-b488-18deb3088e26) |
 
 ## Courses

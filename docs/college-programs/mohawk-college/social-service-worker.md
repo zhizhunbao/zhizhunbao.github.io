@@ -20,10 +20,10 @@ ms.date: 2026-11-08
 | **Community Awareness and Field Placement Preparation**<br>社区认知与实地实习准备 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
 | **SSW Interviewing Skills II**<br>SSW访谈技能 II | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
 | **Equity and Inclusion in SSW Practice**<br>SSW实践中的公平与包容 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
-| **Introduction To Group Dynamics**<br>团体动力导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
+| **Introduction To Group Dynamics**<br>团体动力入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
 | **Decolonizing Social Service Worker Practices**<br>社会服务工作者实践去殖民化 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
 | **General Education Elective 2**<br>通识教育选修课 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
 | **Case Management and Documentation**<br>个案管理与记录 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
 | **Professional Development**<br>职业发展 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |
 | **SSW Methods of Intervention**<br>社会服务工作干预方法 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=215&prg_ver=26-A) |

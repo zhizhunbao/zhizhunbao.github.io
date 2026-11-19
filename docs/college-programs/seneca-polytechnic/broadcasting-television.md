@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
 | **Media Storytelling**<br>媒体叙事 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
 | **Editing Audio and Video**<br>音频与视频编辑 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
-| **Introduction to Camera, Lighting, and Field Audio**<br>摄影、灯光与现场音频导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
-| **Introduction to Studio Production**<br>演播室制作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
+| **Introduction to Camera, Lighting, and Field Audio**<br>摄影、灯光与现场音频入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
+| **Introduction to Studio Production**<br>演播室制作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
 | **Media Graphics**<br>媒体图形 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
 | **Audio Fundamentals**<br>音频基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |
 | **Field Audio Production**<br>外景音频制作 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/RTVT/courses.html) |

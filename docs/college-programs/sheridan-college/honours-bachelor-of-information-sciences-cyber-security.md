@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Information Sciences (Cyber Security)**<br>荣誉信息科学学士（网络安全） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
-| **Introduction to Cyber Security**<br>网络安全导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
+| **Introduction to Cyber Security**<br>网络安全入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Computer Mathematics 1**<br>计算机数学1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
-| **Introduction to Communication Networks**<br>通信网络导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
-| **Introduction to Linux Operating Systems**<br>Linux操作系统导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
+| **Introduction to Communication Networks**<br>通信网络入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
+| **Introduction to Linux Operating Systems**<br>Linux操作系统入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Information Age Ethics**<br>信息时代伦理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Intermediate Programming**<br>中级编程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Database Implementations and Management**<br>数据库实现与管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Algorithm Development and Data Structures**<br>算法开发与数据结构 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Software Engineering and Secure Software Development**<br>软件工程与安全软件开发 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
-| **Introduction to Cryptology**<br>密码学导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
+| **Introduction to Cryptology**<br>密码学入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Work-Term and Career Preparation – Degree**<br>工作学期与职业准备 – 学位 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Windows Administration**<br>Windows管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |
 | **Database Security**<br>数据库安全 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-information-sciences-cyber-security) |

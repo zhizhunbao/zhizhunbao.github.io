@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=746&prg_ver=26-A) |
 | **Intro to OTA/PTA in Health Care Delivery 1**<br>医疗服务中的OTA/PTA入门 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=746&prg_ver=26-A) |
 | **Anatomy Physiology**<br>解剖生理学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=746&prg_ver=26-A) |
-| **Introduction to Occupational Therapy and Physiotherapy**<br>职业治疗与物理治疗导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=746&prg_ver=26-A) |
+| **Introduction to Occupational Therapy and Physiotherapy**<br>职业治疗与物理治疗入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=746&prg_ver=26-A) |
 | **Fundamentals of Human Kinetics**<br>人体运动学基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=746&prg_ver=26-A) |
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=746&prg_ver=26-A) |
 | **Documentation & Technology in OTA/PTA Practice**<br>OTA/PTA实践中的文档与技术 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=746&prg_ver=26-A) |

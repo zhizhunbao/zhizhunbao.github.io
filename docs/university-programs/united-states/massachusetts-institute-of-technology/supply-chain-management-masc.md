@@ -1,10 +1,10 @@
 ---
-title: "3.2.80 Supply Chain Management (MASc)"
+title: "4.2.80 Supply Chain Management (MASc)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Supply Chain Management (MASc): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.80 Supply Chain Management (MASc)
+# 4.2.80 Supply Chain Management (MASc)
 
 ## Glossary
 
@@ -33,7 +33,7 @@ ms.date: 2026-11-18
 | **Accounting Information for Decision Makers**<br>面向决策者的会计信息 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **Business Analysis Using Financial Statements**<br>基于财务报表的商业分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **Operations Strategy**<br>运营战略 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
-| **Healthcare Lab: Introduction to Healthcare Delivery in the United States**<br>医疗实验室：美国医疗服务导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
+| **Healthcare Lab: Introduction to Healthcare Delivery in the United States**<br>医疗实验室：美国医疗服务入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **Operations Laboratory**<br>运营实验室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **Competitive Strategy**<br>竞争战略 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **Strategy and the CEO**<br>战略与CEO | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
@@ -54,10 +54,10 @@ ms.date: 2026-11-18
 | **Supply Chain: Capacity Analytics**<br>供应链：产能分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **Supply Chain and Demand Analytics**<br>供应链与需求分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **Transportation: Foundations and Methods**<br>交通：基础与方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
-| **Introduction to Manufacturing Systems**<br>制造系统导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
+| **Introduction to Manufacturing Systems**<br>制造系统入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **The AI Edge**<br>AI优势 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **AI for Operations**<br>面向运营的AI | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
-| **Introduction to System Dynamics**<br>系统动力学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
+| **Introduction to System Dynamics**<br>系统动力学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **System Dynamics II**<br>系统动力学 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **System Dynamics for Business and Policy**<br>商业与政策中的系统动力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |
 | **Optimization Methods**<br>优化方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-supply-chain-management/) |

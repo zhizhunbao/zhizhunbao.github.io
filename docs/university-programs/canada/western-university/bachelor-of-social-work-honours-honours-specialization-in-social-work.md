@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **BACHELOR OF SOCIAL WORK (HONOURS) - HONOURS SPECIALIZATION IN SOCIAL WORK**<br>社会工作学士（荣誉）－社会工作荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIAL WORK AND SOCIAL WELFARE**<br>社会工作与社会福利导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIAL WORK PRACTICE AND COMMUNICATION SKILLS**<br>社会工作实务与沟通技能导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GENERALIST SOCIAL WORK PRACTICE AND THEORIES**<br>通才社会工作实践与理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
-| **WRITING: INTRODUCTION TO UNIVERSITY ESSAY WRITING**<br>写作：大学论文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIAL WORK AND SOCIAL WELFARE**<br>社会工作与社会福利入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIAL WORK PRACTICE AND COMMUNICATION SKILLS**<br>社会工作实务与沟通技能入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GENERALIST SOCIAL WORK PRACTICE AND THEORIES**<br>通才社会工作实践与理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
+| **WRITING: INTRODUCTION TO UNIVERSITY ESSAY WRITING**<br>写作：大学论文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
 | **UNIVERSITY WRITING IN ENGLISH**<br>大学英语写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH METHODS FOR SOCIAL WORKERS**<br>社会工作者研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
 | **DIRECT PRACTICE SKILLS**<br>直接实践技能 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |
 | **INDIVIDUAL AND FAMILY DEVELOPMENT**<br>个人与家庭发展 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21246&SelectedCalendar=Live&ArchiveID=) |

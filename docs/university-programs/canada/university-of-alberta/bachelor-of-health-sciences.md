@@ -11,16 +11,16 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Health Sciences**<br>健康科学学士 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Cell Biology**<br>细胞生物学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Cell Biology**<br>细胞生物学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Introductory University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to the Biological Aspects of Fitness to Health**<br>体能与健康的生物学方面导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to the Biological Aspects of Fitness to Health**<br>体能与健康的生物学方面入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Your Future in Health: Pathways and Possibilities**<br>你在健康领域的未来：路径与可能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Anatomy**<br>解剖学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Nutrition and Well-being**<br>营养与幸福 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Indigenous Health in Canada**<br>加拿大原住民健康 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Public Health**<br>公共卫生导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Public Health**<br>公共卫生入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Contemporary Issues in Healthcare Ethics and Law**<br>医疗保健伦理与法律的当代问题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Health Promotion in an Unequal World**<br>不平等世界中的健康促进 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Population Health**<br>群体健康 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
@@ -34,30 +34,30 @@ ms.date: 2026-11-11
 | **Public Health in a Global World**<br>全球化世界中的公共卫生 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Fighting Misinformation for Public Health**<br>为公共卫生对抗错误信息 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Environmental Risk Assessment and Management**<br>环境风险评估与管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Environmental Health**<br>环境卫生导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Environmental Health**<br>环境卫生入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **One-Health**<br>同一健康 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Statistical Methods in Health Research**<br>健康研究中的统计方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Responsible Data Science and Artificial Intelligence**<br>负责任的数据科学与人工智能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Inspired to Dream: Becoming a Leader**<br>受启发去梦想：成为领导者 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Indigenous Peoples and Technoscience**<br>原住民与技术科学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Management for Non-Business Students**<br>非商科学生管理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Principles and Techniques of Data Science**<br>数据科学原理与技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Management for Non-Business Students**<br>非商科学生管理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Principles and Techniques of Data Science**<br>数据科学原理与技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Artificial Intelligence Everywhere**<br>无处不在的人工智能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Innovation, Systems Thinking and Leadership in Healthcare**<br>医疗保健中的创新、系统思维与领导力 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Health Care Finance**<br>医疗保健财务导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Health Care Finance**<br>医疗保健财务入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Management and Design of Health Care Organizations**<br>医疗机构的管理与设计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Perspectives on Indigenous Peoples Health and Wellbeing**<br>原住民健康与福祉视角 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Individual and Social Behavior**<br>个体与社会行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Abnormal Psychology**<br>变态心理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Clinical Psychology**<br>临床心理学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Clinical Psychology**<br>临床心理学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Basic Psychological Processes**<br>基础心理过程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Brain and Behavior**<br>大脑与行为 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Health Psychology**<br>健康心理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Grieving and Loss**<br>悲伤与丧失 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Introduction to Clinical Neuroscience**<br>临床神经科学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
-| **Drugs - An Introduction to Pharmacology**<br>药物：药理学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Introduction to Clinical Neuroscience**<br>临床神经科学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
+| **Drugs - An Introduction to Pharmacology**<br>药物：药理学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Human Neuropsychology**<br>人类神经心理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 | **Biological Aspects of Psychiatry**<br>精神病学的生物学方面 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=128541&returnto=20859) |
 

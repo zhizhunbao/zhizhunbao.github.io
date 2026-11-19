@@ -11,6 +11,29 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR (CO-OPERATIVE) PROGRAM IN STATISTICS (SCIENCE)**<br>统计学主修项目（合作教育）（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Linear Algebra I for Mathematical Sciences**<br>数学科学线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Linear Algebra I**<br>线性代数 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Introduction to Computer Science I**<br>计算机科学入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Calculus I for Physical Sciences**<br>物理科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Calculus I for Mathematical Sciences**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Calculus II for Mathematical Sciences**<br>数学科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Applied Linear Algebra II**<br>应用线性代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Linear Algebra II**<br>线性代数 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Techniques of the Calculus of Several Variables I**<br>多变量微积分技巧 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Techniques of the Calculus of Several Variables II**<br>多变量微积分技巧 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **An Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Introduction to Applied Probability**<br>应用概率入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **An Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Regression Analysis**<br>回归分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Applications of Statistical Methods**<br>统计方法的应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Applied Data Collection**<br>应用数据收集 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Statistics for Life & Social Scientists**<br>生命与社会科学家统计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Fundamentals of Investment and Credit**<br>投资与信贷基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Financial Derivatives**<br>金融衍生品 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+| **Linear Programming and Optimization**<br>线性规划与优化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
 | **Foundations for Success in Arts and Science Co-op**<br>文理合作教育成功基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
 | **Becoming Job Search Ready: CMS Co-op**<br>为求职做好准备：CMS合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
 | **Finding Your First Work Term and Getting Workplace Ready: CMS Co-op**<br>寻找首个工作学期并做好职场准备：CMS 合作教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
@@ -26,6 +49,40 @@ ms.date: 2026-11-11
 
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
+|  | Program requirements (same as SCMAJ2289): |  | This program requires 8.0 credits. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses | MATA22H3 | Linear Algebra I for Mathematical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses (or) | MATA23H3 | Linear Algebra I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses | CSCA08H3 | Introduction to Computer Science I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses (or) | CSCA20H3 | Introduction to Programming | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses | MATA30H3 | Calculus I for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses (or) | MATA31H3 | Calculus I for Mathematical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses | MATA36H3 | Calculus II for Physical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses (or) | MATA37H3 | Calculus II for Mathematical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses; The sequence | MATA31H3 | Calculus I for Mathematical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses; The sequence | MATA37H3 | Calculus II for Mathematical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses; The sequence | MATA31H3 | Calculus I for Mathematical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 1. A-level courses; The sequence | MATA37H3 | Calculus II for Mathematical Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 2. B-level courses | MATB23H3 | Applied Linear Algebra II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 2. B-level courses (or) | MATB24H3 | Linear Algebra II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 2. B-level courses | MATB41H3 | Techniques of the Calculus of Several Variables I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 2. B-level courses | MATB42H3 | Techniques of the Calculus of Several Variables II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 2. B-level courses | STAB52H3 | An Introduction to Probability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 2. B-level courses (or) | STAB53H3 | Introduction to Applied Probability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 2. B-level courses | STAB57H3 | An Introduction to Statistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 3. Upper-level courses | STAC67H3 | Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): and |  | 1.5 credits from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): and; any C- or D-level STA courses, except | STAC32H3 | Applications of Statistical Methods | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): and; any C- or D-level STA courses, except | STAC53H3 | Applied Data Collection | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): and; any C- or D-level STA courses, except | STAD29H3 | Statistics for Life & Social Scientists | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives |  | 1.5 credit from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives | STAA57H3 | Introduction to Data Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives | STAB40H3 | Fundamentals of Investment and Credit | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives | STAB41H3 | Financial Derivatives | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives | MATB61H3 | Linear Programming and Optimization | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives | STAB52H3 | An Introduction to Probability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives | STAB53H3 | Introduction to Applied Probability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives | STAB57H3 | An Introduction to Statistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
+|  | Program requirements (same as SCMAJ2289): 4. Electives | STAC67H3 | Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
 |  | Academic Program Requirements |  | Students must complete the program requirements as described in the Major Program in Statistics. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
 |  | Planning your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj2289c) |

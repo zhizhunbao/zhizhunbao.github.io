@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Media Studies Certificate**<br>媒体研究证书 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/media-studies-certificate/) |
 | **Media and Cultural Studies**<br>媒体与文化研究 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/media-studies-certificate/) |
-| **Introduction to Popular Culture**<br>流行文化导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/media-studies-certificate/) |
+| **Introduction to Popular Culture**<br>流行文化入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/media-studies-certificate/) |
 | **Digital Media Theory**<br>数字媒体理论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/media-studies-certificate/) |
 | **Classical Hollywood Cinema: The Dream Factory**<br>经典好莱坞电影：造梦工厂 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/media-studies-certificate/) |
 | **World Cinemas**<br>世界电影 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/certificates/media-studies-certificate/) |

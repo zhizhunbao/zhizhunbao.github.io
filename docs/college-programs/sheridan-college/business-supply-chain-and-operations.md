@@ -14,9 +14,9 @@ ms.date: 2026-11-08
 | **Business Communication 1**<br>商务沟通 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
 | **Business Math 1**<br>商业数学1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
 | **Computer Application for Business**<br>商务计算机应用 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
-| **Introduction to Accounting 1**<br>会计导论 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
+| **Introduction to Accounting 1**<br>会计入门 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
 | **Business Fundamentals**<br>商业基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
-| **Supply Chain Management (Introduction)**<br>供应链管理（导论） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
+| **Supply Chain Management (Introduction)**<br>供应链管理（入门） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
 | **Quality and Continuous Improvement**<br>质量与持续改进 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |
 | **Project Management in Business**<br>商务项目管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/business-supply-chain-and-operations) |

@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Applied Health Sciences – Athletic Therapy**<br>荣誉应用健康科学学士 – 运动治疗 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
-| **Introduction to Athletic Therapy**<br>运动治疗导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
+| **Introduction to Athletic Therapy**<br>运动治疗入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
 | **Human Physiology 1**<br>人体生理学 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
 | **Nutrition**<br>营养学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
 | **Principles of Biomechanics**<br>生物力学原理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
-| **Introduction to Composition and Rhetoric**<br>写作与修辞导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
+| **Introduction to Composition and Rhetoric**<br>写作与修辞入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
 | **Elective**<br>选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
 | **Movement and Exercise Techniques**<br>运动与锻炼技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |
 | **Health Wellness & Resilience in Athletic Therapy**<br>运动治疗中的健康、保健与韧性 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-applied-health-sciences-athletic-therapy) |

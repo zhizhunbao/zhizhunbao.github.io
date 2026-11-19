@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Epidemiology and Data Analysis in Primary Care 2.**<br>初级保健流行病学与数据分析 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/dental-sciences-thesis-ms/) |
 | **Advanced Research Topics**<br>高级研究专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/dental-sciences-thesis-ms/) |
 | **Research Protocol Development**<br>研究方案制定 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/dental-sciences-thesis-ms/) |
-| **Introduction to Craniofacial Research.**<br>颅面研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/dental-sciences-thesis-ms/) |
+| **Introduction to Craniofacial Research.**<br>颅面研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/dental-sciences-thesis-ms/) |
 | **Mechanisms and Management of Pain.**<br>疼痛的机制与管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/dental-sciences-thesis-ms/) |
 | **Health Research Communications.**<br>健康研究传播 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/dental-sciences-thesis-ms/) |
 | **Leadership and Management Skills in Research.**<br>研究中的领导与管理技能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/dental-sciences-thesis-ms/) |

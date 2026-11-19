@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Services policiers et sécurité communautaire**<br>警务服务与社区安全 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51461) |
 | **Éthique en services policiers**<br>警务伦理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51461) |
 | **Santé mentale pour les premiers répondants**<br>急救响应人员心理健康 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51461) |
-| **Introduction aux interventions policières**<br>警务干预导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51461) |
+| **Introduction aux interventions policières**<br>警务干预入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51461) |
 | **Communication en services policiers**<br>警务服务沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51461) |
 | **Forme et santé des premiers répondants**<br>急救人员体能与健康 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51461) |
 | **Droit pénal**<br>刑法 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51461) |

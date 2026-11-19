@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Integrated Fire & EMS (PCP)**<br>消防与紧急医疗综合（初级急救医护员） | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Anatomy & Physiology: Essentials of Human Anatomy and Physiology**<br>解剖学与生理学：人体解剖生理学基础 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
-| **Introduction to English Language and Literature**<br>英语语言与文学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
+| **Introduction to English Language and Literature**<br>英语语言与文学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Health Education: Personal Health and Wellness**<br>健康教育：个人健康与福祉 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Pathophysiology**<br>病理生理学 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Primary Care Paramedic Foundations**<br>初级急救医护基础 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Primary Care Paramedic Foundations II**<br>初级急救医护基础 II | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Primary Care Paramedic Practicum I**<br>初级急救医护实习 I | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 | **Primary Care Paramedic Practicum II**<br>初级急救医护实习 II | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
-| **Pharmacology: An Introduction to Pharmacology**<br>药理学：药理学导论 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
+| **Pharmacology: An Introduction to Pharmacology**<br>药理学：药理学入门 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/programs-courses/health-careers/paramedic) |
 
 ## Courses
 

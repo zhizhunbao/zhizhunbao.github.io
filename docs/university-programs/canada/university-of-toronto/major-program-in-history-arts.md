@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **The Global Middle East**<br>全球中东 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 | **Themes in World History I**<br>世界史主题 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 | **Themes in World History II**<br>世界史主题 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
-| **Introducing Global Asia and its Histories**<br>全球亚洲及其历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
+| **Introducing Global Asia and its Histories**<br>全球亚洲及其历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 | **The Ancient Mediterranean World**<br>古代地中海世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 | **Capitalism: A Global History**<br>资本主义：全球史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 | **Critical Writing and Research for Historians**<br>历史学家的批判写作与研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
@@ -38,12 +38,8 @@ ms.date: 2026-11-11
 |  |  | CLAA04H3 | The Ancient Mediterranean World | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 |  |  |  | (HISA08H3) Africa in the World: An Introduction |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 |  |  | HISA09H3 | Capitalism: A Global History | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
-|  |  |  | 2. 0.5 credit as follows: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
-|  |  | HISB03H3 | Critical Writing and Research for Historians | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
-|  |  |  | 3. 3.0 credits at the C- or D-level |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
-|  |  |  | 4. Additional 2.5 credits in History |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
-|  |  |  | 5. Within the above 7.0 credits required, students must also complete: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
-|  |  |  | 1.5 credits must deal with a period prior to 1800 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
+|  | 2. 0.5 credit as follows | HISB03H3 | Critical Writing and Research for Historians | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
+|  | 5. Within the above 7.0 credits required, students must also complete |  | 1.5 credits must deal with a period prior to 1800 |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 |  | and |  | 1.0 credit in Canadian History |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 |  | and |  | at least 0.5 credit in two of the following areas of history |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |
 |  | and |  | a. United States and Latin America |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0652) |

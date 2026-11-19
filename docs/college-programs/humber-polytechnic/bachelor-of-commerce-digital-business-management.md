@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Consumer Behaviour**<br>消费者行为 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-digital-business-management) |
 | **Database Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-digital-business-management) |
 | **Digital Marketing**<br>数字营销 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-digital-business-management) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-digital-business-management) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-digital-business-management) |
 | **Field Experience - Bachelor of Commerce: Digital Business Management**<br>实地体验 - 商学学士：数字商业管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-digital-business-management) |
 | **Mobile Development**<br>移动开发 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-digital-business-management) |
 | **Data Science for Business Analytics**<br>商业分析数据科学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-commerce-digital-business-management) |

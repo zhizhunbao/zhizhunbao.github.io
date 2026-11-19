@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Keys to Success in ECE**<br>幼儿教育成功要诀 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-progress) |
 | **The Learning Environment: The Third Teacher**<br>学习环境：第三位教师 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-progress) |
 | **The Healthy Development of the Whole Child**<br>全人儿童的健康发展 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-progress) |
-| **An Introduction to Early Childhood Education**<br>幼儿教育导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-progress) |
+| **An Introduction to Early Childhood Education**<br>幼儿教育入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-progress) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-progress) |
 | **College Communications 2**<br>学院交流 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-progress) |
 | **Observing Infant and Toddler Development**<br>观察婴幼儿发展 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-progress) |

@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
 | **Computing Environments and Tools**<br>计算环境与工具 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
-| **Introduction to Computer Networks**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
+| **Introduction to Computer Networks**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
 | **Computer Mathematics**<br>计算机数学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
 | **AI and You**<br>AI与你 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
 | **Business Applications I**<br>业务应用 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
-| **Introduction to Web Development**<br>Web开发导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
+| **Introduction to Web Development**<br>Web开发入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
 | **Programming Concepts I**<br>编程概念 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
 | **Databases I**<br>数据库 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |
 | **Emerging Technology**<br>新兴技术 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/information-technology-studies/computer-programming) |

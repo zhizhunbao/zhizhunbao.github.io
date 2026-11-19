@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Relation thérapeutique**<br>治疗关系 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-en-sciences-infirmieres/) |
 | **Profession infirmière**<br>护理专业 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-en-sciences-infirmieres/) |
 | **Professional Communication**<br>职业沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-en-sciences-infirmieres/) |
-| **Introduction à la psychologie**<br>心理学导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-en-sciences-infirmieres/) |
+| **Introduction à la psychologie**<br>心理学入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-en-sciences-infirmieres/) |
 | **Anatomie et physiologie de l’humain II**<br>人体解剖学与生理学 II | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-en-sciences-infirmieres/) |
 | **Examen de santé**<br>健康检查 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-en-sciences-infirmieres/) |
 | **Stage clinique I**<br>临床实习 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/baccalaureat-en-sciences-infirmieres/) |

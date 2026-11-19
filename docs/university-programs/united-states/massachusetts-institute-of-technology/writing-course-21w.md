@@ -1,10 +1,10 @@
 ---
-title: "3.2.55 Writing (Course 21W)"
+title: "4.2.55 Writing (Course 21W)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Writing (Course 21W): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.55 Writing (Course 21W)
+# 4.2.55 Writing (Course 21W)
 
 ## Glossary
 

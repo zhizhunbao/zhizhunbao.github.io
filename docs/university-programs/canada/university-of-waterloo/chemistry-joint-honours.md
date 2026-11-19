@@ -15,14 +15,14 @@ ms.date: 2026-11-11
 | **Chemical Reaction Laboratory 1**<br>化学反应实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Chemical Reactions, Equilibria and Kinetics**<br>化学反应、平衡与动力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Chemical Reaction Laboratory 2**<br>化学反应实验 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
-| **Introduction to Scientific Calculations**<br>科学计算导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
+| **Introduction to Scientific Calculations**<br>科学计算入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Quantitative Chemical Analysis Laboratory**<br>定量化学分析实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Physical Chemistry Laboratory 1**<br>物理化学实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Organic Chemistry Laboratory 1**<br>有机化学实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Inorganic Chemistry Laboratory 1**<br>无机化学实验 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Introductory Spectroscopy and Structure**<br>光谱学与结构入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Structure and Bonding**<br>结构与成键 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
-| **Intro Analytical Chemistry**<br>分析化学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
+| **Intro Analytical Chemistry**<br>分析化学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Multi-Component Analysis**<br>多成分分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Analytical Instrumentation Laboratory**<br>分析仪器实验 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |
 | **Introductory Chemical Thermodynamics**<br>化学热力学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/BkGLyMeV6) |

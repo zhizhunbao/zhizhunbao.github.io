@@ -42,7 +42,7 @@ ms.date: 2026-11-08
 | **Advanced Writing**<br>高级写作 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-science-bachelor-post-diploma) |
 | **Contemporary Media**<br>当代媒体 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-science-bachelor-post-diploma) |
 | **Independent Study**<br>自主研修 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-science-bachelor-post-diploma) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-science-bachelor-post-diploma) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-science-bachelor-post-diploma) |
 | **Indigenous Law**<br>原住民法 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-science-bachelor-post-diploma) |
 | **International Relations**<br>国际关系 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-science-bachelor-post-diploma) |
 | **Human Behavioural Ecology**<br>人类行为生态学 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/agriculture-science-bachelor-post-diploma) |

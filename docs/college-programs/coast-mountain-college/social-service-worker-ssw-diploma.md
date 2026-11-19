@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Social Service Worker (SSW) Diploma**<br>社会服务工作者（SSW）文凭 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/social-service-worker-diploma/) |
 | **Technical Writing I**<br>技术写作 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/social-service-worker-diploma/) |
-| **Introduction to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/social-service-worker-diploma/) |
+| **Introduction to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/social-service-worker-diploma/) |
 | **Group Work**<br>团体工作 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/social-service-worker-diploma/) |
 | **Developmental Psychology I**<br>发展心理学 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/social-service-worker-diploma/) |
 | **Sociology of the Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/social-service-worker-diploma/) |

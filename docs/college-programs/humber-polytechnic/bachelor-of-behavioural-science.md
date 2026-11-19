@@ -13,8 +13,8 @@ ms.date: 2026-11-08
 | **Bachelor of Behavioural Science**<br>行为科学学士 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Applied Behaviour Analysis 1**<br>应用行为分析 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Communication for Behavioural Science**<br>行为科学沟通 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
-| **Introduction to Equity, Diversity and Inclusion**<br>公平、多元与包容导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
+| **Introduction to Equity, Diversity and Inclusion**<br>公平、多元与包容入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Counselling and Facilitation Skills**<br>咨询与引导技能 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Cognitive Behavioural Approaches**<br>认知行为疗法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Ethics and Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Autism Spectrum Disorders**<br>自闭症谱系障碍 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Special Populations: ADD, FASD, AB Injury, Corrections**<br>特殊人群：ADD、FASD、AB损伤、矫正 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Mental Health Across the Lifespan**<br>全生命周期心理健康 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Qualitative Research Methods**<br>定性研究方法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |
 | **Research in Behavioural Science**<br>行为科学研究 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-behavioural-science) |

@@ -1,10 +1,10 @@
 ---
-title: "3.4.91 Full-Time M.B.A. Degree Program"
+title: "4.4.91 Full-Time M.B.A. Degree Program"
 description: "University Programs > United States > Yale University > Full-Time M.B.A. Degree Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.91 Full-Time M.B.A. Degree Program
+# 4.4.91 Full-Time M.B.A. Degree Program
 
 ## Glossary
 
@@ -20,7 +20,7 @@ ms.date: 2026-11-18
 | **Customer**<br>顾客 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/full-time-mba/) |
 | **Investor**<br>投资者 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/full-time-mba/) |
 | **State and Society**<br>国家与社会 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/full-time-mba/) |
-| **Introduction to Negotiation**<br>谈判导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/full-time-mba/) |
+| **Introduction to Negotiation**<br>谈判入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/full-time-mba/) |
 | **The Workforce**<br>劳动力 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/full-time-mba/) |
 | **Innovator**<br>创新者 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/full-time-mba/) |
 | **Operations Engine**<br>运营引擎 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/full-time-mba/) |

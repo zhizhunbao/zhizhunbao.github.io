@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Supply Chain and Operations Management – Business Administration (Co-op option available)**<br>供应链与运营管理 - 工商管理（提供可选带薪实习） | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/supply-chain-and-operations-management-business-administration) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/supply-chain-and-operations-management-business-administration) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/supply-chain-and-operations-management-business-administration) |
 | **Business Computer Applications 1**<br>商务计算机应用 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/supply-chain-and-operations-management-business-administration) |
 | **Financial Planning**<br>财务规划 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/supply-chain-and-operations-management-business-administration) |
 | **Human Resource Management 1**<br>人力资源管理 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/supply-chain-and-operations-management-business-administration) |

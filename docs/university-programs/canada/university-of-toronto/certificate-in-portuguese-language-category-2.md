@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Portuguese Language (Category 2)**<br>葡萄牙语证书（类别 2） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0338) |
-| **Introduction to the Cultures of the Portuguese-Speaking World**<br>葡语世界文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0338) |
+| **Introduction to the Cultures of the Portuguese-Speaking World**<br>葡语世界文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0338) |
 | **Contemporary Brazilian Cinema**<br>当代巴西电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0338) |
 
 ## Courses

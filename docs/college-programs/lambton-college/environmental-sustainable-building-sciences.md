@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Construction Plans, Specifications & Codes**<br>施工图纸、规格与规范 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sebs) |
 | **Electric Circuits**<br>电路 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sebs) |
 | **Business Analytics**<br>商业分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sebs) |
-| **Introduction to Canadian Building Science**<br>加拿大建筑科学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sebs) |
+| **Introduction to Canadian Building Science**<br>加拿大建筑科学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sebs) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sebs) |
 | **Indoor Environmental Sampling & Testing Methods**<br>室内环境采样与检测方法 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sebs) |
 | **Indoor Environmental Measurements & Controls**<br>室内环境测量与控制 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/sebs) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Basic Psychological Processes**<br>基础心理过程 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/social-work-diploma) |
 | **Social and Individual Behaviour**<br>社会与个体行为 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/social-work-diploma) |
 | **Introductory Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/social-work-diploma) |
-| **Introduction to the Practice of Social Work**<br>社会工作实践导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/social-work-diploma) |
+| **Introduction to the Practice of Social Work**<br>社会工作实践入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/social-work-diploma) |
 | **Ethics in Social Work**<br>社会工作伦理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/social-work-diploma) |
 | **Interviewing with Individuals (Intervention and Assessment)**<br>个体访谈（干预与评估） | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/social-work-diploma) |
 | **Social Work with Children**<br>儿童社会工作 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/social-work-diploma) |

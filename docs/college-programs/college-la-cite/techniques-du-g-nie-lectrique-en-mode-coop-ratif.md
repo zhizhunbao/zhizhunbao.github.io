@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Oral Communication: Intermediate Level**<br>口语交际：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51831) |
 | **Placement COOP I**<br>合作教育实习 I | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51831) |
 | **Analyse de circuits triphasés à courant alternatif**<br>三相交流电路分析 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51831) |
-| **Introduction aux automates programmables**<br>可编程控制器导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51831) |
+| **Introduction aux automates programmables**<br>可编程控制器入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51831) |
 | **Instrumentation industrielle**<br>工业仪表 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51831) |
 | **Machines électriques à courant continu**<br>直流电机 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51831) |
 | **Électronique numérique avancé**<br>高级数字电子学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51831) |

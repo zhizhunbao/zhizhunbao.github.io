@@ -12,15 +12,15 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN GEOLOGY - For Professional Registration**<br>地质学荣誉专业方向－用于专业注册 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL STRUCTURE**<br>探索化学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS I**<br>物理学导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS I**<br>工科学生物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL ENERGETICS**<br>探索化学能量学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHYSICS II**<br>物理学导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHYSICS II**<br>物理学入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES II**<br>理科物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR ENGINEERING STUDENTS II**<br>工科学生物理 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理导论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS II**<br>强化物理入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE I**<br>理科生物学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **BIOLOGY FOR SCIENCE II**<br>理科生物学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **STRUCTURAL GEOLOGY**<br>构造地质学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **MINERAL SYSTEMS, CRYSTALLOGRAPHY AND OPTICS**<br>矿物系统、晶体学与光学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENTAL AND EXPLORATION GEOPHYSICS I**<br>环境与勘探地球物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GEOCHEMISTRY**<br>地球化学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GEOCHEMISTRY**<br>地球化学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY FIELD MAPPING TECHNIQUES**<br>野外测绘技术入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **STRATIGRAPHY AND SEDIMENTOLOGY: FROM BEDS TO BASINS**<br>地层学与沉积学：从层理到盆地 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **PALEOBIOLOGY AND PALEOECOLOGY**<br>古生物学与古生态学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
@@ -46,7 +46,7 @@ ms.date: 2026-11-11
 | **WATERSHED HYDROLOGY**<br>流域水文学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **WATERS AND GEOCHEMICAL CYCLES**<br>水体与地球化学循环 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **METALLOGENY I: ORE PETROLOGY**<br>成矿作用 I：矿石岩石学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PETROLEUM SYSTEMS**<br>石油系统导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PETROLEUM SYSTEMS**<br>石油系统入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **ISOTOPE GEOCHEMISTRY IN EARTH AND ENVIRONMENTAL SCIENCE**<br>地球与环境科学中的同位素地球化学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **MINERAL DEPOSIT GEOCHEMISTRY**<br>矿床地球化学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **HYDROGEOLOGY: PRINCIPLES, PROCESSES, AND PROFESSIONAL PRACTICE**<br>水文地质学：原理、过程与专业实践 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
@@ -62,13 +62,13 @@ ms.date: 2026-11-11
 | **COMPUTER SCIENCE FUNDAMENTALS II**<br>计算机科学基础 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **DATA SCIENCE CONCEPTS**<br>数据科学概念 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **DATA ANALYSIS IN EARTH SCIENCES**<br>地球科学中的数据分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS FOR GEOGRAPHERS**<br>地理学者统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS FOR GEOGRAPHERS**<br>地理学者统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF FINITE MATHEMATICS**<br>有限数学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **LINEAR ALGEBRA WITH NUMERICAL ANALYSIS FOR ENGINEERING**<br>工程数值分析线性代数 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 | **STATISTICAL CONCEPTS**<br>统计概念 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO STATISTICS**<br>统计学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO STATISTICS**<br>统计学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21640&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Educational Leadership and Policy MA**<br>教育领导力与政策（MA） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
 | **Designing Master's Research Proposals**<br>硕士研究计划书设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
 | **Research Literacy in Educational Leadership and Policy**<br>教育领导与政策中的研究素养 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
-| **Introduction to Educational Leadership and Policy: Policy, Leadership, Change, and Diversity**<br>教育领导与政策导论：政策、领导、变革与多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
+| **Introduction to Educational Leadership and Policy: Policy, Leadership, Change, and Diversity**<br>教育领导与政策入门：政策、领导、变革与多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
 
 ## Courses
 

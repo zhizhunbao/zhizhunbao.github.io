@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Digital Media**<br>数字媒体 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/visual-and-creative-arts-diploma) |
 | **Drawing Disciplines**<br>绘画学科 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/visual-and-creative-arts-diploma) |
 | **Media Explorations I**<br>媒体探索 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/visual-and-creative-arts-diploma) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/visual-and-creative-arts-diploma) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/visual-and-creative-arts-diploma) |
 | **Business for Artists**<br>艺术家的商业知识 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/visual-and-creative-arts-diploma) |
 | **Concept Development**<br>概念开发 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/visual-and-creative-arts-diploma) |
 | **Design II**<br>设计 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/visual-and-creative-arts-diploma) |

@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Heavy Duty Equipment / Truck and Transport Repair**<br>重型设备、卡车与运输维修 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
-| **Introduction to Hydraulic Systems**<br>液压系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
+| **Introduction to Hydraulic Systems**<br>液压系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
 | **Trades Math I**<br>行业数学 I | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
-| **Introducton to Electrical Systems**<br>电气系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
+| **Introducton to Electrical Systems**<br>电气系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
 | **Electrical Systems II**<br>电气系统 II | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
 | **Mobile Equipment Vehicle Service**<br>移动设备车辆维修 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
 | **Orientation to Community Service**<br>社区服务入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Basic Engine Principles**<br>发动机基本原理 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
 | **Mobile Equipment Brake Systems**<br>移动设备制动系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
 | **Engine Support Systems**<br>发动机辅助系统 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
-| **Introduction to Steering Systems**<br>转向系统导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
+| **Introduction to Steering Systems**<br>转向系统入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
 | **Mobile Equipment Welding**<br>移动设备焊接 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=b7ff82d6-ff39-4e8f-bb41-0a9b48f7888a) |
 
 ## Courses

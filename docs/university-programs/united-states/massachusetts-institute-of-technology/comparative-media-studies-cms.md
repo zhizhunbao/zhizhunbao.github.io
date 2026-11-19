@@ -1,17 +1,17 @@
 ---
-title: "3.2.18 Comparative Media Studies (CMS)"
+title: "4.2.18 Comparative Media Studies (CMS)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Comparative Media Studies (CMS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.18 Comparative Media Studies (CMS)
+# 4.2.18 Comparative Media Studies (CMS)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Comparative Media Studies (CMS)**<br>比较媒体研究（CMS） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/) |
-| **Introduction to Media Studies**<br>媒介研究导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/) |
+| **Introduction to Media Studies**<br>媒介研究入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/) |
 | **Game Design Methods**<br>游戏设计方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/) |
 | **DJ History, Technique, and Technology**<br>DJ的历史、技巧与技术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/) |
 | **Rap Theory and Practice**<br>说唱理论与实践 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/) |

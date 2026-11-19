@@ -23,9 +23,9 @@ ms.date: 2026-11-08
 | **Engineering Drawing & Introduction to CAD**<br>工程制图与CAD入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
 | **Quality Assurance & Control**<br>质量保证与控制 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
 | **Materials & Testing**<br>材料与测试 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
-| **Introduction to Polymer Characterization**<br>聚合物表征导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
+| **Introduction to Polymer Characterization**<br>聚合物表征入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
-| **Introduction to Materials Processing**<br>材料加工导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
+| **Introduction to Materials Processing**<br>材料加工入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
 | **Additive Manufacturing & Printing**<br>增材制造与打印 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
 | **Advanced Topics in Canadian Materials Manufacturing**<br>加拿大材料制造高级专题 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |
 | **Work Term (Full-Time)**<br>工作学期（全职） | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/amms) |

@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0214C01FWO.pdf) |
 | **Financial Accounting 3**<br>财务会计 3 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0214C01FWO.pdf) |
 | **Management Accounting 1**<br>管理会计 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0214C01FWO.pdf) |
-| **Introduction to Personal Taxation**<br>个人税务导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0214C01FWO.pdf) |
+| **Introduction to Personal Taxation**<br>个人税务入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0214C01FWO.pdf) |
 | **Accounting Software Applications**<br>会计软件应用 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0214C01FWO.pdf) |
 | **Payroll and Compliance**<br>薪资核算与合规 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0214C01FWO.pdf) |
 | **Management Accounting 2**<br>管理会计 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0214C01FWO.pdf) |

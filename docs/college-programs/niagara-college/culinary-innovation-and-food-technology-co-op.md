@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Culinary Innovation and Food Technology (Co-op)**<br>烹饪创新与食品技术（带薪实习） | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
-| **Introduction to Food Chemistry**<br>食品化学导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
-| **Introduction to Product and Process Engineering**<br>产品与工艺工程导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
-| **Introduction to Food Principles**<br>食品原理导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
+| **Introduction to Food Chemistry**<br>食品化学入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
+| **Introduction to Product and Process Engineering**<br>产品与工艺工程入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
+| **Introduction to Food Principles**<br>食品原理入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
 | **Nutrition**<br>营养学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
 | **Garde Manger I**<br>冷菜间 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
 | **Culinary Techniques I - Intro to A La Carte Cooking**<br>烹饪技术 I - 单点烹饪入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Culinary Techniques II - Advanced A La Carte**<br>烹饪技术 II - 高级单点烹饪 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
 | **Baking Essentials**<br>烘焙基础 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
 | **Integrated Baking Production for the Processing Engineer**<br>加工工程师综合烘焙生产 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
 | **Food Chemistry I**<br>食品化学 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
 | **I-Think: The Science of Thinking and Problem Solving**<br>I-Think：思维与问题解决的科学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |
 | **Food Law and Regulations**<br>食品法律与法规 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-innovation-food-technology/) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Pharmacy Technician (Fast-Track)**<br>药房技术员（快读） | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://www.mohawkcollege.ca/programs/health/pharmacy-technician-fast-track) |
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=607&prg_ver=26-A) |
 | **Anatomy Physiology**<br>解剖生理学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=607&prg_ver=26-A) |
-| **Orientation To Pharmacy**<br>药学导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=607&prg_ver=26-A) |
+| **Orientation To Pharmacy**<br>药学入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=607&prg_ver=26-A) |
 | **Pharmaceutical Calculations 1**<br>药剂计算 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=607&prg_ver=26-A) |
 | **Pharmaceutical Fundamentals**<br>制药基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=607&prg_ver=26-A) |
 | **Community Pharmacy Practice 1**<br>社区药房实践 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=607&prg_ver=26-A) |

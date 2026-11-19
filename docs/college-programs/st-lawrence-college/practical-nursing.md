@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Alterations in Mental Health**<br>精神健康改变 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/practical-nursing/full-time/brockville) |
 | **Pathopharm 2**<br>病理药理学 2 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/practical-nursing/full-time/brockville) |
 | **The Story of Indigenous People**<br>原住民的故事 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/practical-nursing/full-time/brockville) |
-| **Introduction to Intercultural Communications**<br>跨文化传播导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/practical-nursing/full-time/brockville) |
+| **Introduction to Intercultural Communications**<br>跨文化传播入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/practical-nursing/full-time/brockville) |
 | **Current Topics in Indigenous Studies**<br>原住民研究当前专题 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/practical-nursing/full-time/brockville) |
 | **Indigenous Storytelling**<br>原住民故事讲述 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/practical-nursing/full-time/brockville) |
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/practical-nursing/full-time/brockville) |

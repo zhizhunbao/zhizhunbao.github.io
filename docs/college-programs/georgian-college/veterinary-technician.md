@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Veterinary Office Practices**<br>兽医办公室实务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vetn/) |
 | **Field Placement 1**<br>现场实习 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vetn/) |
 | **Animal Nursing 2**<br>动物护理学 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vetn/) |
-| **Introduction to Veterinary Anesthesia**<br>兽医麻醉导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vetn/) |
+| **Introduction to Veterinary Anesthesia**<br>兽医麻醉入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vetn/) |
 | **Veterinary Radiography 2**<br>兽医放射摄影 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vetn/) |
 | **Veterinary Surgical Techniques**<br>兽医外科技术 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vetn/) |
 | **Veterinary Pharmacology 2**<br>兽医药理学 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/vetn/) |

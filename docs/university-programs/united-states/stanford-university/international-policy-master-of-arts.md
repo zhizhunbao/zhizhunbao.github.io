@@ -1,10 +1,10 @@
 ---
-title: "3.3.113 International Policy, Master of Arts"
+title: "4.3.113 International Policy, Master of Arts"
 description: "University Programs > United States > Stanford University > International Policy, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.113 International Policy, Master of Arts
+# 4.3.113 International Policy, Master of Arts
 
 ## Glossary
 
@@ -20,7 +20,7 @@ ms.date: 2026-11-18
 | **Policy Problem-Solving in the Real World**<br>现实世界中的政策问题解决 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Policy Change Studio**<br>政策变革工作室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Capstone Field Research**<br>毕业田野研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
-| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
+| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Fundamentals of Cyber Policy and Security**<br>网络政策与安全基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **The Rise of Digital Culture**<br>数字文化的兴起 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Censorship and Propaganda**<br>审查与宣传 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
@@ -103,7 +103,7 @@ ms.date: 2026-11-18
 | **Climate: Politics, Finance, and Infrastructure**<br>气候：政治、金融与基础设施 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Advanced Negotiation: International**<br>高级谈判：国际 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Energy and Environmental Policy Analysis**<br>能源与环境政策分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Environmental Governance and Climate Resilience**<br>环境治理与气候韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Pursuing Sustainability: Managing Complex Social Environmental Systems**<br>追求可持续性：管理复杂的社会环境系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Poverty and Prosperity**<br>贫困与繁荣 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
@@ -116,13 +116,13 @@ ms.date: 2026-11-18
 | **Economics of Biotechnology**<br>生物技术经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Human Trafficking: Historical, Legal, and Medical Perspectives**<br>人口贩运：历史、法律与医学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Redesigning Finance**<br>重新设计金融 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Development Economics**<br>发展经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **International Trade**<br>国际贸易 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Economics of Gender**<br>性别经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Labor Economics I**<br>劳动经济学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **The AI Awakening: Implications for the Economy and Society**<br>人工智能觉醒：对经济与社会的影响 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
-| **Introduction to Global and Comparative Education**<br>全球与比较教育导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
+| **Introduction to Global and Comparative Education**<br>全球与比较教育入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Economics of Education in the Global Economy**<br>全球经济中的教育经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Power and Institutions in the Global Economy**<br>全球经济中的权力与制度 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |
 | **Creating and Scaling High Potential Ventures in Developing Economies (Cases)**<br>在发展中经济体创建并扩展高潜力企业（案例） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/international-policy/master-of-arts) |

@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Advanced Excel**<br>高级Excel | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofah/) |
 | **Digital Workplace Applications and Database Fundamentals**<br>数字化职场应用与数据库基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofah/) |
 | **Office Procedures and Strategies**<br>办公室程序与策略 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofah/) |
-| **Introduction to Medical Terminology**<br>医学术语导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofah/) |
+| **Introduction to Medical Terminology**<br>医学术语入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofah/) |
 | **Bookkeeping for Office Administration Professionals**<br>办公室行政专业人员簿记 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofah/) |
 | **Anatomy for Health Services 1**<br>健康服务解剖学 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofah/) |
 | **Electronic Medical Office**<br>电子医疗办公室 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofah/) |

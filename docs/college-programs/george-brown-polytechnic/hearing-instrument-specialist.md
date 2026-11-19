@@ -13,20 +13,20 @@ ms.date: 2026-11-08
 | **Hearing Instrument Specialist**<br>助听器验配专家 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Clinical Acoustics**<br>临床声学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
-| **Introduction to Hearing Instrument Science**<br>助听器科学导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
+| **Introduction to Hearing Instrument Science**<br>助听器科学入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Functional Anatomy&Physiology**<br>功能解剖与生理学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Ethics and Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Gerontology**<br>老年学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Hearing Disorders**<br>听力障碍 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Hearing Technology I - Linear to Digital Evolution**<br>听力技术 I - 从线性到数字的演进 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
-| **Hearing Testing I - Introduction to Audiometry**<br>听力测试 I - 听力测定导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
+| **Hearing Testing I - Introduction to Audiometry**<br>听力测试 I - 听力测定入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Psycho-Social Impact of Hearing Loss**<br>听力损失的心理社会影响 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **General Elective**<br>通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Hearing Testing II-Intermediate Audiometry and Masking**<br>听力测试 II - 中级听力测定与掩蔽 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Interviewing and Counselling**<br>访谈与咨询 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Hearing Instrument Technology II: Programming and Ansi Testing**<br>助听器技术 II：编程与ANSI测试 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Hearing Clinic I**<br>听力诊所 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
-| **Business Management I - Introduction to Marketing**<br>商业管理 I - 市场营销导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
+| **Business Management I - Introduction to Marketing**<br>商业管理 I - 市场营销入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Hearing Instrument Technology III-Real Ear Measurement**<br>助听器技术 III - 真耳测量 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Hearing Testing III-Advanced Audiometry**<br>听力测试 III - 高级听力测定 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |
 | **Hearing Clinic II**<br>听力诊所 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/hearing-instrument-specialist-program-s117) |

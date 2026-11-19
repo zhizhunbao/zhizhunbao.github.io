@@ -1,10 +1,10 @@
 ---
-title: "3.3.89 Computer Science, Master of Science"
+title: "4.3.89 Computer Science, Master of Science"
 description: "University Programs > United States > Stanford University > Computer Science, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.89 Computer Science, Master of Science
+# 4.3.89 Computer Science, Master of Science
 
 ## Glossary
 
@@ -12,21 +12,21 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Computer Science, Master of Science**<br>计算机科学，理学硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Probabilistic Systems Analysis**<br>概率系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Probabilistic Analysis**<br>概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Computer Organization and Systems**<br>计算机组成与系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Computer Systems from the Ground Up**<br>从零开始的计算机系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Operating Systems Principles**<br>操作系统原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Operating systems design and implementation**<br>操作系统设计与实现 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Compilers**<br>编译器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Computer Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Computer Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Parallel Computing**<br>并行计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Logic Programming**<br>逻辑编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Software Design Studio**<br>软件设计工作室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-18
 | **Deep Multi-task and Meta Learning**<br>深度多任务与元学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Language Modeling from Scratch**<br>从零开始的语言建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Statistical Mechanics of Learning and Computation**<br>学习与计算的统计力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Computational Logic**<br>计算逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Advanced Data Structures**<br>高级数据结构 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **The Modern Algorithmic Toolbox**<br>现代算法工具箱 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -55,9 +55,9 @@ ms.date: 2026-11-18
 | **Algebraic Error Correcting Codes**<br>代数纠错码 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Computational Complexity**<br>计算复杂性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Computational Complexity II**<br>计算复杂性 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Algorithmic Fairness**<br>算法公平性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Automated Reasoning**<br>自动推理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Automated Reasoning**<br>自动推理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Quantum Cryptography**<br>量子密码学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Quantum Computing**<br>量子计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -77,7 +77,7 @@ ms.date: 2026-11-18
 | **Information Theory and Statistics**<br>信息论与统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Metalogic**<br>元逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Foundations of Computational Human Genomics**<br>计算人类基因组学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Spoken Language Processing**<br>口语语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Natural Language Understanding**<br>自然语言理解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Agentic AI**<br>智能体AI | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -94,7 +94,7 @@ ms.date: 2026-11-18
 | **Principles of Robot Autonomy II**<br>机器人自主性原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Decision Making under Uncertainty**<br>不确定性下的决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Algorithmic Foundations for Artificial Intelligence in Healthcare**<br>医疗领域人工智能的算法基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Deep Learning in Genomics and Biomedicine**<br>基因组学与生物医学中的深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Foundation Models for Healthcare**<br>面向医疗健康的基础模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -147,8 +147,8 @@ ms.date: 2026-11-18
 | **Language and Technology**<br>语言与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Equity and Governance for Artificial Intelligence**<br>人工智能的公平与治理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Data: Algorithms, Tools, Policy, and Society**<br>数据：算法、工具、政策与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Trust and Safety**<br>信任与安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Computers, Ethics, and Public Policy**<br>计算机、伦理与公共政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Computers, Ethics, and Public Policy (WIM)**<br>计算机、伦理与公共政策（WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -182,7 +182,7 @@ ms.date: 2026-11-18
 | **Music and AI**<br>音乐与人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **The Design of Data**<br>数据的设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Innovating for Climate and Sustainability**<br>为气候与可持续性创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 导论：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to CSCL: Computer-Supported Collaborative Learning**<br>CSCL 入门：计算机支持的协作学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Knowledge in the Age of AI: New Epistemic Issues in Education**<br>人工智能时代的知识：教育中的新认识论问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **New Directions in Gendered Innovations in Science, Medicine, Technology, and Environment**<br>科学、医学、技术与环境中性别化创新的新方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Governing Artificial Intelligence: Law, Policy, and Institutions**<br>人工智能治理：法律、政策与制度 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -212,7 +212,7 @@ ms.date: 2026-11-18
 | **Computer Vision for Education and Social Science Research**<br>面向教育与社会科学研究的计算机视觉 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Probability and Statistical Inference**<br>概率与统计推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Control Design Techniques**<br>控制设计技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Control Design Techniques**<br>控制设计技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Fundamentals of Data Science: Prediction, Inference, Causality**<br>数据科学基础：预测、推断、因果 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Foundations of Decision Analysis**<br>决策分析基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Neural Network Models of Cognition**<br>认知的神经网络模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -237,16 +237,16 @@ ms.date: 2026-11-18
 | **Performance Engineering of Computer Systems & Networks**<br>计算机系统与网络的性能工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Full-Stack Web Programming**<br>全栈 Web 编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Truth, Trust, and Tech**<br>真理、信任与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Product Management with AI**<br>人工智能产品管理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Product Management with AI**<br>人工智能产品管理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Read, Write, Play**<br>读、写、玩 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Interactive Art: Making it with Arduino**<br>互动艺术：用 Arduino 制作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Drawing with Code**<br>用代码绘图 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Intro to Art & Technology**<br>艺术与技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Intro to Art & Technology**<br>艺术与技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Virtual Reality: the possibility and peril of immersive artwork**<br>虚拟现实：沉浸式艺术作品的可能与危险 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Media Psychology**<br>媒体心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Ethnographic Methods**<br>民族志方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **History and Ethics of Design**<br>设计的历史与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Human Values in Design**<br>设计中的人类价值导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Human Values in Design**<br>设计中的人类价值入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Advanced Design: Needfinding**<br>高级设计：需求发现 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Business Design: Impact and Implications**<br>商业设计：影响与意义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Visual Frontiers**<br>视觉前沿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -258,14 +258,14 @@ ms.date: 2026-11-18
 | **Design to Equip Learners in Under-Resourced Communities**<br>为资源匮乏社区的学习者赋能的设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Leadership Lab**<br>领导力实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **LaunchPad: Design and Launch your Product or Service**<br>LaunchPad（发射台）：设计并推出你的产品或服务 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Qualitative Research Methods**<br>定性研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Qualitative Research Methods**<br>定性研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Technology for Learners**<br>学习者技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Child Development and New Technologies**<br>儿童发展与新技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Designing Explorable Explanations for Learning**<br>设计面向学习的可探索解释 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Transformative Design**<br>变革性设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Design and Manufacturing**<br>设计与制造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **The Future of Work: What Will it Mean to Build AI-Augmented Organizations?**<br>工作的未来：构建人工智能增强型组织意味着什么？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Topics in Social Data**<br>社会数据专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Fundamentals of Computer-Generated Sound**<br>计算机生成声音基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -282,7 +282,7 @@ ms.date: 2026-11-18
 | **AI for Algorithmic Reasoning and Optimization**<br>面向算法推理与优化的AI | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Data for AI**<br>面向AI的数据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Parallel Computing Research Project**<br>并行计算研究项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **Introduction to VLSI Systems**<br>VLSI 系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **Introduction to VLSI Systems**<br>VLSI 系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Domain-Specific Programming Models and Compilers**<br>面向特定领域的编程模型与编译器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Machine Learning for Software Engineering**<br>软件工程的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Virtual Reality**<br>虚拟现实 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
@@ -295,7 +295,7 @@ ms.date: 2026-11-18
 | **Linear Programming**<br>线性规划 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Efficient Generative Models**<br>高效生成模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Computational Imaging**<br>计算成像 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
-| **A Hands-On Introduction to Building AI-Enabled Robots**<br>构建AI机器人实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
+| **A Hands-On Introduction to Building AI-Enabled Robots**<br>构建AI机器人实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **Physically Based Animation and Sound**<br>基于物理的动画与声音 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 | **The Fourier Transform and Its Applications**<br>傅里叶变换及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computer-science/master-of-science) |
 

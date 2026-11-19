@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Power Tools and Equipment**<br>电动工具与设备 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/building-construction-technician) |
 | **Estimating, Calculation and Layout**<br>估算、计算与放样 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/building-construction-technician) |
 | **Carpentry Practice 2**<br>木工实践 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/building-construction-technician) |
-| **An Introduction to Arts and Sciences**<br>文理学科导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/building-construction-technician) |
+| **An Introduction to Arts and Sciences**<br>文理学科入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/building-construction-technician) |
 | **Essentials of Building Mathematics**<br>建筑数学要点 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/building-construction-technician) |
 | **Equal and Unequal Sloped Roofs**<br>等坡与不等坡屋顶 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/building-construction-technician) |
 | **Interior Finishes**<br>室内装修 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/building-construction-technician) |

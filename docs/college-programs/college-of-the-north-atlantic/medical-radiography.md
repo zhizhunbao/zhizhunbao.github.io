@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Clinical Orientation I**<br>临床入门 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-radiography) |
 | **Radiographic Technique I**<br>放射摄影技术 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-radiography) |
 | **Digital Imaging II: DDR Systems**<br>数字成像 II：DDR 系统 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-radiography) |
-| **Introduction to CT and Specialized Imaging**<br>CT与特殊成像导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-radiography) |
+| **Introduction to CT and Specialized Imaging**<br>CT与特殊成像入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-radiography) |
 | **Radiographic Anatomy III**<br>放射解剖学 III | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-radiography) |
 | **Radiographic Image Analysis I**<br>放射影像分析 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-radiography) |
 | **Clinical Orientation II**<br>临床入门 II | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/medical-radiography) |

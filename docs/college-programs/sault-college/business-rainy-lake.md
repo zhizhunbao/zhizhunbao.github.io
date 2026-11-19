@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business (Rainy Lake)**<br>商务（Rainy Lake） | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-rainy-lake) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-rainy-lake) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-rainy-lake) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-rainy-lake) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-rainy-lake) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-rainy-lake) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-rainy-lake) |
 | **Principles of Human Resource Management**<br>人力资源管理原理 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/business/business-rainy-lake) |

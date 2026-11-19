@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Teaching and Learning: Mathematics (Gr. Dip.)**<br>教学与学习：数学（研究生文凭） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-mathematics-option/) |
 | **Indigenizing Pedagogy and Curriculum.**<br>教学法与课程的本土化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-mathematics-option/) |
-| **Introduction to Philosophy of Education.**<br>教育哲学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-mathematics-option/) |
+| **Introduction to Philosophy of Education.**<br>教育哲学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-mathematics-option/) |
 | **Foundational Professional Seminar**<br>基础专业研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-mathematics-option/) |
 | **English Exam for Teacher Certification.**<br>教师资格英语考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-mathematics-option/) |
 | **Perspectives on Knowledge in Mathematics and Science.**<br>数学与科学知识的多种视角 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/education/ise/teaching-learning-grad-dip-mathematics-option/) |

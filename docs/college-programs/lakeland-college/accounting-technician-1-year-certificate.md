@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Payroll Administration**<br>薪资管理 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/business/accounting-technician/index.html) |
 | **Accounting II**<br>会计 II | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/business/accounting-technician/index.html) |
 | **Computerized Accounting**<br>计算机化会计 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/business/accounting-technician/index.html) |
-| **Introduction to Taxation**<br>税务导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/business/accounting-technician/index.html) |
+| **Introduction to Taxation**<br>税务入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/business/accounting-technician/index.html) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/business/accounting-technician/index.html) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/business/accounting-technician/index.html) |
 | **Business Computer Applications**<br>商务计算机应用 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/business/accounting-technician/index.html) |

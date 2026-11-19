@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Government Relations**<br>政府关系 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM.html) |
-| **Introduction to Government Relations**<br>政府关系导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
+| **Introduction to Government Relations**<br>政府关系入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
 | **Writing for Government Relations Practitioners**<br>政府关系从业者写作 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
 | **Digital Campaigning**<br>数字营销活动 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
 | **Presentation Tools and Techniques**<br>演示工具与技巧 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
-| **Introduction to Public Policy**<br>公共政策导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
+| **Introduction to Public Policy**<br>公共政策入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
 | **Media Relations and Communications Planning**<br>媒体关系与传播策划 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
 | **Government Relations Career Management**<br>政府关系职业管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
 | **Alliances and Stakeholder Relations**<br>联盟与利益相关者关系 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |
 | **Ethics, Advocacy and Managing the Government Relations Function**<br>伦理、倡导与政府关系职能管理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/GRM/courses.html) |

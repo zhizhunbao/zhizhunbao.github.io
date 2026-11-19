@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Biology I**<br>生物学 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **Technical Reading & Writing for the Health Science**<br>健康科学技术阅读与写作 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **Pre Health Math I**<br>健康预科数学 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
-| **Introduction to Medical Terminology and Health Professions**<br>医学术语与健康专业导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
+| **Introduction to Medical Terminology and Health Professions**<br>医学术语与健康专业入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **The following Elective course:**<br>以下选修课： | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **Health Science Physics I**<br>健康科学物理 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |
 | **One General Education course.**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/pre-health-sciences-pathway-to-advanced-diplomas-and-degrees) |

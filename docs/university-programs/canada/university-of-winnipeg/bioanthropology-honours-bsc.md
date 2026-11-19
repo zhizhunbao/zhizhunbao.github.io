@@ -11,15 +11,15 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bioanthropology, Honours BSc**<br>生物人类学，荣誉 BSc | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
-| **Introductory Anthropology**<br>人类学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
-| **Introductory Biological Anthropology and Archaeology plus one of**<br>生物人类学与考古学导论，加以下之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
-| **Introductory Cultural Anthropology and Linguistics**<br>文化人类学与语言学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
-| **Introductory Cultural Anthropology- Indigenous Focus**<br>文化人类学导论：原住民专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
+| **Introductory Anthropology**<br>人类学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
+| **Introductory Biological Anthropology and Archaeology plus one of**<br>生物人类学与考古学入门，加以下之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
+| **Introductory Cultural Anthropology and Linguistics**<br>文化人类学与语言学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
+| **Introductory Cultural Anthropology- Indigenous Focus**<br>文化人类学入门：原住民专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Method and Theory in Biological Anthropology**<br>生物人类学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Cells and Cellular Processes**<br>细胞与细胞过程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Evolution, Ecology and Biodiversity**<br>进化、生态与生物多样性 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
-| **Introduction to the Chemical Properties of Matter**<br>物质化学性质导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
+| **Introduction to the Chemical Properties of Matter**<br>物质化学性质入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Basic Principles of Chemical Reactivity**<br>化学反应性基本原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Elementary Biological Statistics I**<br>初级生物统计学 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Method and Theory in Cultural Anthropology**<br>文化人类学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Method and Theory in Linguistic Anthropology**<br>语言人类学的方法与理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Honours Thesis**<br>荣誉论文 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Medical Anthropology**<br>医学人类学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
-| **Introduction to Forensic Anthropology**<br>法医人类学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
+| **Introduction to Forensic Anthropology**<br>法医人类学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Origins of Human Culture**<br>人类文化的起源 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Zooarchaeology**<br>动物考古学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Human Osteology**<br>人类骨骼学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-11
 | **International Field School**<br>国际野外学校 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Human Anatomy and Physiology**<br>人体解剖学与生理学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Comparative Chordate Zoology**<br>比较脊索动物学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
-| **Introduction to Animal Behavior**<br>动物行为学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
+| **Introduction to Animal Behavior**<br>动物行为学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Histology**<br>组织学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Molecular Genetics and Genomics**<br>分子遗传学与基因组学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
@@ -58,7 +58,7 @@ ms.date: 2026-11-11
 | **Organic Chemistry II**<br>有机化学 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Intermediate Biochemistry I: Structure, Function and Energetics of Biomolecules**<br>中级生物化学 I：生物分子的结构、功能与能量学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Intermediate Biochemistry II: Intermediary Metabolism**<br>中级生物化学 II：中间代谢 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Quaternary Environments**<br>第四纪环境 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |
 | **Biomechanics**<br>生物力学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/bant.pdf#page=2) |

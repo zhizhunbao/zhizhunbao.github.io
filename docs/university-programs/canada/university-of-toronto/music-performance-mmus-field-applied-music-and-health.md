@@ -18,7 +18,7 @@ ms.date: 2026-11-11
 | **Advanced Improvisation Methods**<br>高级即兴表演方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Topics in Music and Health**<br>音乐与健康专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Topics in Music and Health II**<br>音乐与健康专题 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Music in Healthcare**<br>医疗保健中的音乐导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Music in Healthcare**<br>医疗保健中的音乐入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Principles of Clinical Performance Pedagogy**<br>临床表演教学法原理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Public Capstone Presentation**<br>公开毕业设计展示 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Neurosciences of Music: Scientific Foundations, Clinical Translations**<br>音乐神经科学：科学基础与临床转化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |

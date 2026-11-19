@@ -1,10 +1,10 @@
 ---
-title: "3.4.45 Global Affairs (B.A.)"
+title: "4.4.45 Global Affairs (B.A.)"
 description: "University Programs > United States > Yale University > Global Affairs (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.45 Global Affairs (B.A.)
+# 4.4.45 Global Affairs (B.A.)
 
 ## Glossary
 
@@ -12,10 +12,10 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Global Affairs (B.A.)**<br>全球事务（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
 | **Quantitative Foundations of Microeconomics**<br>微观经济学定量基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
-| **An Introduction to Microeconomic Analysis**<br>微观经济分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
-| **Introductory Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
-| **An Introduction to Macroeconomic Analysis**<br>宏观经济分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
-| **Introductory Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
+| **An Introduction to Microeconomic Analysis**<br>微观经济分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
+| **Introductory Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
+| **An Introduction to Macroeconomic Analysis**<br>宏观经济分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
+| **Introductory Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
 | **Applied Quantitative Analysis**<br>应用定量分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
 | **Applied Quantitative Analysis II**<br>应用定量分析 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |
 | **Challenges in Global Affairs**<br>全球事务中的挑战 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs/) |

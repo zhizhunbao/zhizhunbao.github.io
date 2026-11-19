@@ -22,13 +22,13 @@ ms.date: 2026-11-08
 | **Salon & Spa Development I**<br>沙龙与水疗发展 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **Fundamentals of Instrumentation I**<br>仪表基础 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **Solder, Brazing and Oxy Fuel Techniques**<br>焊接、钎焊与氧燃料技术 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
-| **Introduction to Mathematics**<br>数学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
+| **Introduction to Mathematics**<br>数学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **Student Success & Life Skills**<br>学生成功与生活技能 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
-| **Introduction to Biology**<br>生物学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
+| **Introduction to Biology**<br>生物学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **Physics**<br>物理学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **Energy Efficiencies & Sustainable Construction**<br>能效与可持续建设 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **Health and Safety for Industrial Processes**<br>工业流程健康与安全 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
-| **Introduction to Pumps, Machines, and Piping**<br>泵、机器与管道导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
+| **Introduction to Pumps, Machines, and Piping**<br>泵、机器与管道入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **Electric Circuits 1**<br>电路 1 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |
 | **Basic Chemistry 1**<br>基础化学 1 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/ptec) |

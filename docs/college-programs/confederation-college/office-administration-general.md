@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Computer Keyboarding Skills I**<br>计算机键盘输入技能 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-general/) |
 | **Excel - Core**<br>Excel - 核心 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-general/) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-general/) |
-| **Introduction to Computers 1**<br>计算机导论 1 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-general/) |
+| **Introduction to Computers 1**<br>计算机入门 1 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-general/) |
 | **Word Core**<br>Word核心技能 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-general/) |
 | **Outlook**<br>Outlook | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-general/) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/office-administration-general/) |

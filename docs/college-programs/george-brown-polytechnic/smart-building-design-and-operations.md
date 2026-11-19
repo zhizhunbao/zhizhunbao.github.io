@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Smart Building Design and Operations**<br>智能建筑设计与运营 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/smart-building-design-and-operations-postgraduate-program-t420) |
 | **Advanced Communications**<br>高级沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/smart-building-design-and-operations-postgraduate-program-t420) |
-| **Introduction to Smart Buildings**<br>智能建筑导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/smart-building-design-and-operations-postgraduate-program-t420) |
+| **Introduction to Smart Buildings**<br>智能建筑入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/smart-building-design-and-operations-postgraduate-program-t420) |
 | **Smart Building Elements and Features**<br>智能建筑要素与特征 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/smart-building-design-and-operations-postgraduate-program-t420) |
 | **Stages in New Construction and Design**<br>新建与设计阶段 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/smart-building-design-and-operations-postgraduate-program-t420) |
 | **Ethical Use and Storage of Data**<br>数据的伦理使用与存储 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/smart-building-design-and-operations-postgraduate-program-t420) |

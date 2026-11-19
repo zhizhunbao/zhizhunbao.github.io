@@ -14,14 +14,14 @@ ms.date: 2026-11-08
 | **Human Anatomy and Physiology I**<br>人体解剖学与生理学 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **The Fundamentals of Nursing Theory**<br>护理理论基础 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Reflection and Academic Writing**<br>反思与学术写作 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
-| **Introduction to the Profession of Nursing**<br>护理专业导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
+| **Introduction to the Profession of Nursing**<br>护理专业入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Clinical I: The Fundamentals of Nursing**<br>临床 I：护理基础 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Human Anatomy and Physiology II**<br>人体解剖学与生理学 II | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Communication in Nursing**<br>护理沟通 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Clinical II: Health Assessment**<br>临床 II：健康评估 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
-| **Introduction to Indigenous Canada**<br>原住民加拿大导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
+| **Introduction to Indigenous Canada**<br>原住民加拿大入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Medical-Surgical Nursing I Theory**<br>内外科护理 I 理论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Healthcare Informatics**<br>医疗信息学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |
 | **Medical-Surgical I Lab and Clinical III**<br>内外科 I 实验与临床 III | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/health-programs/bachelor-science-nursing-honours) |

@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Adult Education and Community Development MEd**<br>成人教育与社区发展（MEd） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
-| **Introduction to Adult Education**<br>成人教育导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
-| **Introduction to Community Development**<br>社区发展导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
+| **Introduction to Adult Education**<br>成人教育入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
+| **Introduction to Community Development**<br>社区发展入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Leadership%2C-Higher-and-Adult-Education) |
 
 ## Courses
 

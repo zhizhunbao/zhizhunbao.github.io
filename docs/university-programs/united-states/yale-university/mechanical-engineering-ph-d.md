@@ -1,10 +1,10 @@
 ---
-title: "3.4.146 Mechanical Engineering (Ph.D.)"
+title: "4.4.146 Mechanical Engineering (Ph.D.)"
 description: "University Programs > United States > Yale University > Mechanical Engineering (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.146 Mechanical Engineering (Ph.D.)
+# 4.4.146 Mechanical Engineering (Ph.D.)
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **Polymer Chemistry and Physics**<br>高分子化学与物理 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Synthesis of Nanomaterials**<br>纳米材料合成 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Building Interactive Machines**<br>构建交互式机器 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Intelligent Robotics**<br>智能机器人 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Intelligent Robotics Laboratory**<br>智能机器人实验 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Applied Planning and Optimization**<br>应用规划与优化 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
@@ -30,16 +30,16 @@ ms.date: 2026-11-18
 | **Computer-Aided Engineering**<br>计算机辅助工程 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Neuromuscular Biomechanics**<br>神经肌肉生物力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Fundamentals of Robot Modeling and Control**<br>机器人建模与控制基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
-| **Introduction to Embedded Robotic Systems**<br>嵌入式机器人系统导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
-| **Introduction to Soft Robotics**<br>软体机器人导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
-| **Introduction to Robot Analysis**<br>机器人分析导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
+| **Introduction to Embedded Robotic Systems**<br>嵌入式机器人系统入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
+| **Introduction to Soft Robotics**<br>软体机器人入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
+| **Introduction to Robot Analysis**<br>机器人分析入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Advanced Robotic Mechanisms**<br>高级机器人机构 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Theoretical Fluid Dynamics**<br>理论流体力学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Fundamentals of Combustion**<br>燃烧学基础 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Solidification and Phase Transformations**<br>凝固与相变 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Forces on the Nanoscale**<br>纳米尺度上的力 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Electronic and Optical Properties of Energy Materials**<br>能源材料的电子与光学性质 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
-| **Introduction to Nanomaterials and Nanotechnology**<br>纳米材料与纳米技术导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
+| **Introduction to Nanomaterials and Nanotechnology**<br>纳米材料与纳米技术入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Thermodynamics, Kinetics, and Structure of Materials**<br>材料的热力学、动力学与结构 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 | **Statistical Physics II**<br>统计物理 II | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/gsas/degree-granting-departments-programs/mechanical-engineering/) |
 

@@ -23,7 +23,7 @@ ms.date: 2026-11-11
 | **Pagans and Christians in the Later Roman Empire**<br>晚期罗马帝国的异教徒与基督徒 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/) |
 | **Topics in Late Antique Literature**<br>古代晚期文学专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/) |
 | **Topics in Late Antique History**<br>古代晚期历史专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/) |
-| **Introduction to an Ancient Language**<br>古代语言导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/) |
+| **Introduction to an Ancient Language**<br>古代语言入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/) |
 | **Directed Readings in Ancient Language**<br>古代语言指导阅读 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/) |
 | **Major Research Paper**<br>主要研究论文 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/) |
 | **Master's Thesis**<br>硕士论文 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-classical-studies/) |

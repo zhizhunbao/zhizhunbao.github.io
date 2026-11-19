@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Critical Studies in Equity and Solidarity Major (Arts Program)**<br>公平与团结的批判研究主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Theorizing Settler Colonialism, Capitalism and Race**<br>殖民定居主义、资本主义与种族的理论化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **The Canadian Census: Populations, Migrations and Demographics**<br>加拿大人口普查：人口、迁移与人口统计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Caribbean Foodways Across History, Culture and Diaspora**<br>跨越历史、文化与离散社群的加勒比饮食文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Critical Disability Studies**<br>批判残障研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Critical Disability Studies**<br>批判残障研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Special Topics in Equity and Solidarity Studies**<br>公平与团结研究专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Community Dis/Engagement and Solidarity**<br>社区脱离/参与与团结 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Abolition in the Global Context: Theorizing Uprisings and Youth Activism against Policing and Prisons**<br>全球语境下的废除主义：关于反警务与反监禁的起义和青年行动主义理论化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -93,7 +93,7 @@ ms.date: 2026-11-11
 | **Gender Relations**<br>性别关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Advanced Studies in Gender**<br>性别高级研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Spanish American Women in Art, Film, and Literature**<br>艺术、电影与文学中的西班牙裔美洲女性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Texts, Theories, Histories**<br>文本、理论、历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Gender in Popular Culture**<br>流行文化中的性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Gender & Environmental (In)Justice**<br>性别与环境（不）公正 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -108,7 +108,7 @@ ms.date: 2026-11-11
 | **Gender and Critical Political Economy**<br>性别与批判政治经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **The Politics of Girlhood**<br>少女时代的政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Gender and Globalization: Transnational Perspectives**<br>性别与全球化：跨国视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Africa: A Critical Introduction**<br>非洲：批判性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Africa: A Critical Introduction**<br>非洲：批判性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Africa in the 21st Century: Challenges and Opportunities**<br>21世纪的非洲：挑战与机遇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **The Contemporary African Novel**<br>当代非洲小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **African Systems of Thought**<br>非洲思想体系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -133,7 +133,7 @@ ms.date: 2026-11-11
 | **Black Cinema**<br>黑人电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Ireland, Race and Empires**<br>爱尔兰、种族与帝国 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Black Playwrights: Resistance, Resilience and Transformation**<br>黑人剧作家：抗争、韧性与转变 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **African Literatures in English**<br>英语非洲文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Asian North American Literature**<br>亚裔北美文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **South Asian Literatures in English**<br>英语南亚文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -233,8 +233,8 @@ ms.date: 2026-11-11
 | **Lesbian Studies: Identity/Theory/Culture**<br>女同性恋研究：身份/理论/文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Queer Youth Studies in Education**<br>教育中的酷儿青少年研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Sexual Diversity in Transnational Perspective**<br>跨国视角下的性多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Intro to Trans Studies**<br>跨性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Intro to Trans Studies**<br>跨性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Queer Indigenous Politics and Cultures**<br>酷儿原住民政治与文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Sexuality & Health**<br>性与健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Special Topics in Sexual Diversity Studies**<br>性多样性研究专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -275,7 +275,7 @@ ms.date: 2026-11-11
 | **Media and Environmental Justice**<br>媒体与环境正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Socially Engaged Buddhism**<br>入世佛教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Buddhist Perspectives on Current Social Issues**<br>佛教视角下的当代社会问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Caribbean Studies**<br>加勒比研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Caribbean Studies**<br>加勒比研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Comparative Caribbean Literature**<br>加勒比文学比较 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Comparative Caribbean Literature and Visual Culture**<br>加勒比文学与视觉文化比较 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Asian Youth Cultures**<br>亚洲青年文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -300,7 +300,7 @@ ms.date: 2026-11-11
 | **Equity and Diversity in Education**<br>教育中的公平与多样性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Social Justice in Education**<br>教育中的社会正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Residential Schools and Education in Canada**<br>加拿大的寄宿学校与教育 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Indigenous Literatures**<br>原住民文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Indigenous Literatures**<br>原住民文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Confronting the Climate Crisis**<br>直面气候危机 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Community Research in Environment and Faith**<br>环境与信仰的社区研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Edible Campus**<br>可食用校园 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -315,7 +315,7 @@ ms.date: 2026-11-11
 | **Urban Political Geographies**<br>城市政治地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Health Geography**<br>健康地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Housing and Community Development**<br>住房与社区发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Geographies of Extraction**<br>采掘地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Environmental Justice**<br>环境正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Building Community Resilience**<br>建设社区韧性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -328,20 +328,20 @@ ms.date: 2026-11-11
 | **Violence in Medieval Society**<br>中世纪社会的暴力 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Soviet History and Film, 1921-1946**<br>苏联历史与电影，1921-1946年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **The History of Psychiatry and Psychiatric Illness**<br>精神病学与精神疾病史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Global Health**<br>全球健康导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Global Health**<br>全球健康入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Global Health and Human Rights**<br>全球健康与人权 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Global Hidden Hunger**<br>全球隐性饥饿 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **AIDS: A Global Perspective**<br>艾滋病：全球视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Natural Science and Social Issues**<br>自然科学与社会问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **History of Autism Across Time and Cultures**<br>自闭症跨时代与跨文化的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Slavery, Medicine, and Science**<br>奴隶制、医学与科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Social Determinants of Health**<br>健康的社会决定因素导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Social Determinants of Health**<br>健康的社会决定因素入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Population Health**<br>群体健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Political Economy of Health**<br>健康政治经济学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Indigenous Studies: Foundations**<br>原住民研究导论：基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Indigenous Studies: History & Politics**<br>原住民研究导论：历史与政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Indigenous Environmental Studies**<br>原住民环境研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Indigenous Truth and Resilience**<br>原住民真相与韧性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Indigenous Studies: Foundations**<br>原住民研究入门：基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Indigenous Studies: History & Politics**<br>原住民研究入门：历史与政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Indigenous Environmental Studies**<br>原住民环境研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Indigenous Languages and Cultures**<br>原住民语言与文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Indigenous Representation in the Mass Media and Society**<br>大众传媒与社会中的原住民表现 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Indigenous Narratives of Empowerment**<br>原住民赋权叙事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -359,7 +359,7 @@ ms.date: 2026-11-11
 | **Postsecular Political Thought: Religion, Radicalism and the Limits of Liberalism**<br>后世俗政治思想：宗教、激进主义与自由主义的限度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Truths & Reconciliations in Canada**<br>加拿大的真相与和解 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Disability in the Hebrew Bible and Related Texts**<br>希伯来圣经及相关文本中的残障 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to HIV/AIDS: Health, Sexuality and Gender**<br>HIV/AIDS导论：健康、性与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to HIV/AIDS: Health, Sexuality and Gender**<br>HIV/AIDS入门：健康、性与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Critical Perspectives of Development in Latin American Contexts**<br>拉丁美洲背景下的发展批判视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Language and Social Justice**<br>语言与社会正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Linguistic Discrimination and Justice**<br>语言歧视与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
@@ -410,7 +410,7 @@ ms.date: 2026-11-11
 | **Sociology of Work & Occupations**<br>工作与职业社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Social Stratification**<br>社会分层 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Sociology of Health and Illness**<br>健康与疾病社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
-| **Introduction to Social Problems**<br>社会问题导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
+| **Introduction to Social Problems**<br>社会问题入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Social Movements**<br>社会运动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Sociology of Mental Health and Mental Disorders**<br>心理健康与精神障碍社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |
 | **Race, Class, and Gender**<br>种族、阶级与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1141) |

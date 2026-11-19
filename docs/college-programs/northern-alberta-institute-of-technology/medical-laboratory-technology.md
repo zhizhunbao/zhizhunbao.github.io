@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Medical Laboratory Technology**<br>医学实验室技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/medical-laboratory-technology) |
-| **Introduction to Immunology**<br>免疫学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/medical-laboratory-technology) |
+| **Introduction to Immunology**<br>免疫学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/medical-laboratory-technology) |
 | **Introductory Medical Laboratory Procedures**<br>医学检验程序入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/medical-laboratory-technology) |
 | **Quality Management & Specimen Handling**<br>质量管理与标本处理 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/medical-laboratory-technology) |
 | **Analytical Principles I**<br>分析原理 I | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/medical-laboratory-technology) |

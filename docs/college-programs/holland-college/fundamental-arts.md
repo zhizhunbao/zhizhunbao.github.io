@@ -12,13 +12,13 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Fundamental Arts**<br>基础艺术 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **PEI Occupational Health and Safety**<br>PEI职业健康与安全 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
-| **Creativity: An Introduction to Creative Thinking**<br>创造力：创造性思维导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
+| **Creativity: An Introduction to Creative Thinking**<br>创造力：创造性思维入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **Art History and Criticism**<br>艺术史与艺术批评 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **Drawing I**<br>绘画 I | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **Design I**<br>设计 I | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **Drawing II**<br>绘画 II | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **Design II: Colour**<br>设计 II：色彩 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
-| **Introduction to Animation**<br>动画导论 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
+| **Introduction to Animation**<br>动画入门 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **Media Exploration**<br>媒体探索 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **Communication and Technology in the Arts**<br>艺术中的沟通与技术 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |
 | **Digital Photography**<br>数码摄影 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/fundamental-arts/index.php) |

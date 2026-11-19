@@ -14,8 +14,8 @@ ms.date: 2026-11-11
 | **SOCIAL FOUNDATIONS OF KINESIOLOGY**<br>运动机能学的社会基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **FUNCTIONAL HUMAN GROSS ANATOMY**<br>人体功能大体解剖学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **PSYCHOLOGY OF HUMAN MOVEMENT SCIENCE**<br>人类运动科学心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SENSORIMOTOR NEUROSCIENCE**<br>感觉运动神经科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HUMAN PHYSIOLOGY**<br>人体生理学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SENSORIMOTOR NEUROSCIENCE**<br>感觉运动神经科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HUMAN PHYSIOLOGY**<br>人体生理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTORY EXERCISE PHYSIOLOGY**<br>运动生理学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **BIOMECHANICS**<br>生物力学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **RESEARCH DESIGN IN HUMAN MOVEMENT SCIENCE**<br>人类运动科学研究设计 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **SPORT AND SOCIETY**<br>体育与社会 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **CANADIAN SPORT HISTORY**<br>加拿大体育史 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **CRITICAL THINKING AND ETHICS IN KINESIOLOGY**<br>运动学中的批判性思维与伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MANAGEMENT IN KINESIOLOGY**<br>运动机能学管理导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGEMENT IN KINESIOLOGY**<br>运动机能学管理入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **SPORT FOR DEVELOPMENT**<br>体育促进发展 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **OLYMPIC AND PARALYMPIC ISSUES**<br>奥林匹克与残奥会问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **THE PSYCHOLOGY OF SPORT**<br>运动心理学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **SPORT, THE BODY AND CULTURE**<br>体育、身体与文化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **EXERCISE AND HEALTH BEHAVIOUR CHANGE**<br>运动与健康行为改变 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 | **PROFESSIONAL ETHICS IN KINESIOLOGY**<br>运动机能学职业伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ATHLETIC INJURIES**<br>运动损伤导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ATHLETIC INJURIES**<br>运动损伤入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21168&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

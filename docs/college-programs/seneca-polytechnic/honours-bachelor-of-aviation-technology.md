@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Fundamentals of Aerodynamics**<br>空气动力学基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPR/courses.html) |
 | **Advanced Instruments and Avionics**<br>高级仪表与航空电子 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPR/courses.html) |
 | **Meteorology**<br>气象学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPR/courses.html) |
-| **Introduction to Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPR/courses.html) |
+| **Introduction to Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPR/courses.html) |
 | **Advanced Aerodynamics**<br>高级空气动力学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPR/courses.html) |
 | **Basic Aircraft Systems**<br>飞机系统基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPR/courses.html) |
 | **Human Factors Ethics and Safety**<br>人为因素伦理与安全 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FPR/courses.html) |

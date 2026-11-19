@@ -127,7 +127,7 @@ ms.date: 2026-11-11
 | **MODELING AND ANALYTICS**<br>建模与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=) |
 | **C&S - SUSTAINABLE FINANCE**<br>公司与社会：可持续金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=) |
 | **CREATIVE ANALYTICS**<br>创意分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTORY DATA SCIENCE**<br>数据科学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTORY DATA SCIENCE**<br>数据科学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS AND MARKETS**<br>商业与市场 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=) |
 | **SPORTS/ENTERTAINMENT MARKETING**<br>体育/娱乐营销 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=) |
 | **FIXED INCOME MARKETS, SECURITIES & ANALYSIS**<br>固定收益市场、证券与分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=) |
@@ -430,3 +430,7 @@ ms.date: 2026-11-11
 ## References
 
 Western University. (n.d.). *THE HBA PROGRAM*. Retrieved November 11, 2026, from <https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21323&SelectedCalendar=Live&ArchiveID=>
+
+Western University. (n.d.). *THE HBA PROGRAM*. Retrieved November 11, 2026, from <https://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=4&SelectedCalendar=Live&ArchiveID=>
+
+Western University. (n.d.). *THE HBA PROGRAM*. Retrieved November 11, 2026, from <https://www.westerncalendar.uwo.ca/Courses.cfm?Subject=BUSINESS&SelectedCalendar=Live&ArchiveID=>

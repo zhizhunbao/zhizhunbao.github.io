@@ -27,8 +27,8 @@ ms.date: 2026-11-08
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
 | **General Education Elective 2**<br>通识教育选修课 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
 | **Intercultural Communications**<br>跨文化交际 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
-| **Introduction to Computers 1**<br>计算机导论 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
-| **Introduction to Computers 2**<br>计算机导论 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
+| **Introduction to Computers 1**<br>计算机入门 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
+| **Introduction to Computers 2**<br>计算机入门 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
 | **Medical Conditions for Medical Office Professionals**<br>医务办公室专业人员的医疗状况 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
 | **Medical OHIP Billing**<br>医疗OHIP计费 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |
 | **Medical Office Procedures**<br>医务办公室流程 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-health-services-online/) |

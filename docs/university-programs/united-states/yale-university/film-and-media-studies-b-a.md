@@ -1,17 +1,17 @@
 ---
-title: "3.4.42 Film and Media Studies (B.A.)"
+title: "4.4.42 Film and Media Studies (B.A.)"
 description: "University Programs > United States > Yale University > Film and Media Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.42 Film and Media Studies (B.A.)
+# 4.4.42 Film and Media Studies (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Film and Media Studies (B.A.)**<br>电影与媒体研究（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/film-studies/) |
-| **Introduction to Film Studies**<br>电影研究导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/film-studies/) |
+| **Introduction to Film Studies**<br>电影研究入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/film-studies/) |
 | **Senior Production Project Contextualizing Essay**<br>毕业制作项目背景论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/film-studies/) |
 
 ## Courses

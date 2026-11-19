@@ -1,10 +1,10 @@
 ---
-title: "3.2.22 Computer Science, Economics, and Data Science (Course 6-14)"
+title: "4.2.22 Computer Science, Economics, and Data Science (Course 6-14)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science, Economics, and Data Science (Course 6-14): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.22 Computer Science, Economics, and Data Science (Course 6-14)
+# 4.2.22 Computer Science, Economics, and Data Science (Course 6-14)
 
 ## Glossary
 
@@ -13,18 +13,18 @@ ms.date: 2026-11-18
 | **Computer Science, Economics, and Data Science (Course 6-14)**<br>计算机科学、经济学与数据科学（Course 6-14） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
-| **Introduction to Programming and Computer Science**<br>编程与计算机科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
+| **Introduction to Programming and Computer Science**<br>编程与计算机科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Econometric Data Science**<br>计量经济数据科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
-| **Introduction to Statistical Methods in Economics**<br>经济学统计方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
+| **Introduction to Statistical Methods in Economics**<br>经济学统计方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Probability and Random Variables**<br>概率与随机变量 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Seminar in Undergraduate Advanced Research (12 units, CI-M)**<br>本科高级研究研讨课（12学分，CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Oral Communication (CI-M)**<br>口头沟通（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |
 | **Communicating with Data (CI-M)**<br>用数据沟通（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/) |

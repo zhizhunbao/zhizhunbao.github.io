@@ -12,13 +12,13 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Geography & Environment, 4-YEAR MAJOR (HONOURS), ENVIRONMENTAL STUDIES - ENVIRONMENTAL TECHNOLOGIES DIPLOMA: LAND & WATER MANAGEMENT (BA or BSc)**<br>地理与环境，4 年制主修（荣誉），环境研究 - 环境技术文凭：土地与水管理（BA 或 BSc） | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **How Earth Works: Applied Physical Geography**<br>地球如何运转：应用自然地理学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
-| **People and Places: An Introduction to Human Geography**<br>人与地：人文地理学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
+| **People and Places: An Introduction to Human Geography**<br>人与地：人文地理学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Environment and Society**<br>环境与社会 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Applied Quantitative Methods in Geography**<br>地理学中的应用定量方法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
-| **Introduction to Geographic Research Methods**<br>地理研究方法导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
+| **Introduction to Geographic Research Methods**<br>地理研究方法入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **GIS I - Principles of Spatial Data and Cartographic Design**<br>GIS I：空间数据与制图设计原理 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Honours Thesis in Geography**<br>地理学荣誉论文 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
-| **Introduction to Remote Sensing**<br>遥感导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
+| **Introduction to Remote Sensing**<br>遥感入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **GIS II – Spatial Data Management and Analysis**<br>GIS II：空间数据管理与分析 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Sustainable Prairie Ecosystems**<br>可持续草原生态系统 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Global Environmental Change**<br>全球环境变化 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **Political and Economic Geography**<br>政治与经济地理 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Cultural Geography**<br>文化地理学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Urban Geography**<br>城市地理学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
-| **Introduction to Weather and Climate**<br>天气与气候导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
+| **Introduction to Weather and Climate**<br>天气与气候入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Geomorphology**<br>地貌学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 | **Hydrology**<br>水文学 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=154) |
 

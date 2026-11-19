@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Legal Assistant**<br>法律助理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/legal-assistant) |
-| **Introduction to Professional Keyboarding**<br>专业键盘输入导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/legal-assistant) |
-| **Introduction to the Legal Profession**<br>法律职业导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/legal-assistant) |
+| **Introduction to Professional Keyboarding**<br>专业键盘输入入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/legal-assistant) |
+| **Introduction to the Legal Profession**<br>法律职业入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/legal-assistant) |
 | **Legal Document Processing I**<br>法律文书处理 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/legal-assistant) |
 | **Litigation I**<br>诉讼 I | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/legal-assistant) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/legal-assistant) |

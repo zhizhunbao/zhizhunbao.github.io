@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Sustainable Innovation**<br>可持续创新 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sustainable-innovation) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sustainable-innovation) |
 | **Creativity and Changing Perspectives**<br>创造力与视角转变 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sustainable-innovation) |
-| **Introduction to Social Innovation**<br>社会创新导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sustainable-innovation) |
+| **Introduction to Social Innovation**<br>社会创新入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sustainable-innovation) |
 | **Regenerative Design**<br>再生设计 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sustainable-innovation) |
 | **Sustainability & Systems Thinking**<br>可持续性与系统思维 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sustainable-innovation) |
 | **Sustainability & Modelling**<br>可持续性与建模 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sustainable-innovation) |

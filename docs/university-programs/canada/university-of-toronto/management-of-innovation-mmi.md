@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Management of Innovation MMI**<br>创新管理（MMI） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Prices and Markets**<br>价格与市场 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
-| **Introduction to Big Data Analysis**<br>大数据分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
+| **Introduction to Big Data Analysis**<br>大数据分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Marketing Science**<br>营销科学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Accounting**<br>会计学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Negotiations**<br>谈判 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |

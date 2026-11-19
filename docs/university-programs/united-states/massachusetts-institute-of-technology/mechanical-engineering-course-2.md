@@ -1,10 +1,10 @@
 ---
-title: "3.2.45 Mechanical Engineering (Course 2)"
+title: "4.2.45 Mechanical Engineering (Course 2)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mechanical Engineering (Course 2): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.45 Mechanical Engineering (Course 2)
+# 4.2.45 Mechanical Engineering (Course 2)
 
 ## Glossary
 
@@ -33,14 +33,14 @@ ms.date: 2026-11-18
 | **Hydrodynamics**<br>流体动力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Design of Ocean Systems (CI-M)**<br>海洋系统设计（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Nonlinear Dynamics: Chaos**<br>非线性动力学：混沌 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Instrumentation and Measurement: MICA Projects**<br>仪器与测量：MICA 项目 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Analysis and Design of Feedback Control Systems**<br>反馈控制系统分析与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Biomechanics and Neural Control of Movement**<br>生物力学与运动的神经控制 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Fundamentals of Nanoengineering**<br>纳米工程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Intermediate Heat and Mass Transfer**<br>中级传热与传质 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Fundamentals of Advanced Energy Conversion**<br>先进能量转换基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
-| **Introduction to Sustainable Energy**<br>可持续能源导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
+| **Introduction to Sustainable Energy**<br>可持续能源入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Optics**<br>光学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Elements of Mechanical Design**<br>机械设计基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Product Design**<br>产品设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
@@ -48,7 +48,7 @@ ms.date: 2026-11-18
 | **Design of Medical Devices and Implants**<br>医疗器械与植入物设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Molecular, Cellular, and Tissue Biomechanics**<br>分子、细胞与组织生物力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Energy, Materials, and Manufacturing**<br>能源、材料与制造 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
-| **Introduction to Manufacturing Systems**<br>制造系统导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
+| **Introduction to Manufacturing Systems**<br>制造系统入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Management in Engineering**<br>工程管理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Physical Systems Modeling and Design Using Machine Learning**<br>基于机器学习的物理系统建模与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |
 | **Modeling with Machine Learning: from Algorithms to Applications**<br>机器学习建模：从算法到应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) |

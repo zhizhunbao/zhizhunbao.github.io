@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Cultural History of Food & Drink in East Asia**<br>东亚饮食文化史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Tales of the Supernatural in Chinese Literature**<br>中国文学中的超自然故事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Perceptions of China in Japanese Literature**<br>日本文学中的中国观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
-| **Introduction to Chinese Philosophy**<br>中国哲学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
+| **Introduction to Chinese Philosophy**<br>中国哲学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Japanese Cinemas I: Film Form and the Problems of Modernity**<br>日本电影 I：电影形式与现代性问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Japanese Cinemas II: Film Form and the Problems of Modernity**<br>日本电影 II：电影形式与现代性问题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Premodern Japanese History**<br>前近代日本史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
@@ -64,7 +64,7 @@ ms.date: 2026-11-11
 | **Narrative Strategies in Modern Japanese Fiction**<br>日本现代小说的叙事策略 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Modernism and Colonial Korea**<br>现代主义与殖民地朝鲜 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Chinese Novels**<br>中国小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
-| **Introduction to Manchu Language and History**<br>满语与满族历史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
+| **Introduction to Manchu Language and History**<br>满语与满族历史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Classical Daoism**<br>古典道家 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Chinese Society and Culture**<br>中国社会与文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **A History of Sushi**<br>寿司史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
@@ -201,7 +201,7 @@ ms.date: 2026-11-11
 | **Buddhist Ritual**<br>佛教仪式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Buddhist Life Stories**<br>佛教人生故事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 | **Readings in Buddhist Texts**<br>佛教文本选读 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
-| **Introduction to Russian Asia: From Central Asia to Siberia**<br>俄属亚洲导论：从中亚到西伯利亚 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
+| **Introduction to Russian Asia: From Central Asia to Siberia**<br>俄属亚洲入门：从中亚到西伯利亚 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1058) |
 
 ## Courses
 

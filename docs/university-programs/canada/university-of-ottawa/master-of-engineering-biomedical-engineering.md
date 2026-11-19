@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Engineering Biomedical Engineering**<br>工程硕士，生物医学工程 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-biomedical/) |
-| **Introduction to Biomedical Engineering**<br>生物医学工程导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-biomedical/) |
+| **Introduction to Biomedical Engineering**<br>生物医学工程入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-biomedical/) |
 | **Biomedical Engineering Seminar**<br>生物医学工程研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-biomedical/) |
 | **Biomedical Engineering Project**<br>生物医学工程项目 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-biomedical/) |
 | **Professional Skills and Responsibility**<br>专业技能与责任 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-engineering-biomedical/) |

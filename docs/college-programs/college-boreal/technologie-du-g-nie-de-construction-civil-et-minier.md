@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Logiciels Microsoft**<br>Microsoft软件 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-du-genie-de-construction-civil-et-minier/) |
 | **Mathématiques appliquées I**<br>应用数学 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-du-genie-de-construction-civil-et-minier/) |
 | **Physique**<br>物理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-du-genie-de-construction-civil-et-minier/) |
-| **Introduction à l'analyse des structures**<br>结构分析导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-du-genie-de-construction-civil-et-minier/) |
+| **Introduction à l'analyse des structures**<br>结构分析入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-du-genie-de-construction-civil-et-minier/) |
 | **Dessin assisté par ordinateur I (2D)**<br>计算机辅助绘图 I（2D） | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-du-genie-de-construction-civil-et-minier/) |
 | **Mécanique des fluides**<br>流体力学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-du-genie-de-construction-civil-et-minier/) |
 | **Méthodes minières I**<br>采矿方法 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/technologie-du-genie-de-construction-civil-et-minier/) |

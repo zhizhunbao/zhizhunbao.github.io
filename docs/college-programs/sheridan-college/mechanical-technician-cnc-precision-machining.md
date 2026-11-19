@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Mechanical Technician – CNC & Precision Machining**<br>机械技术员 – CNC与精密加工 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/mechanical-technician-cnc-precision-machining) |
 | **Precision Machining 1**<br>精密加工 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/mechanical-technician-cnc-precision-machining) |
 | **CNC Manual Part Programming**<br>CNC手动零件编程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/mechanical-technician-cnc-precision-machining) |
-| **Introduction to Industrial Mechanical Drawings**<br>工业机械制图导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/mechanical-technician-cnc-precision-machining) |
+| **Introduction to Industrial Mechanical Drawings**<br>工业机械制图入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/mechanical-technician-cnc-precision-machining) |
 | **Trade Calculations 1**<br>行业计算 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/mechanical-technician-cnc-precision-machining) |
 | **Workplace Preparation and Safety**<br>职场准备与安全 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/mechanical-technician-cnc-precision-machining) |
 | **Precision Machining 2**<br>精密加工 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/mechanical-technician-cnc-precision-machining) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN DIVERSITY AND FAMILIES**<br>多样性与家庭证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21627&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FAMILIES AND HUMAN DEVELOPMENT**<br>家庭与人类发展导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21627&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FAMILIES AND HUMAN DEVELOPMENT**<br>家庭与人类发展入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21627&SelectedCalendar=Live&ArchiveID=) |
 | **CLOSE RELATIONSHIPS**<br>亲密关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21627&SelectedCalendar=Live&ArchiveID=) |
 | **IMMIGRANT AND REFUGEE FAMILIES**<br>移民与难民家庭 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21627&SelectedCalendar=Live&ArchiveID=) |
 | **FAMILIES ACROSS THE GLOBE**<br>全球各地的家庭 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21627&SelectedCalendar=Live&ArchiveID=) |

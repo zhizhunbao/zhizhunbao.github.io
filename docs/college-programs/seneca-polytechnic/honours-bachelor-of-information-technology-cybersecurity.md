@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
 | **OS-Unix**<br>OS-Unix | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
 | **OS-Windows**<br>OS-Windows | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
-| **Introduction to Security**<br>安全导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
-| **Introduction to Problem Solving and Programming**<br>问题解决与编程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
+| **Introduction to Security**<br>安全入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
+| **Introduction to Problem Solving and Programming**<br>问题解决与编程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
 | **Protocol and Standards**<br>协议与标准 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |
 | **Basic Cryptography**<br>基础密码学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/IFS/courses.html) |

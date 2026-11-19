@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Building Superintendence and Repair**<br>建筑物管理与维修 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/building-superintendence-and-repair) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/building-superintendence-and-repair/courses-no-intake?id=15384) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/building-superintendence-and-repair/courses-no-intake?id=15384) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/building-superintendence-and-repair/courses-no-intake?id=15384) |
 | **Microsoft Applications for the Workplace**<br>职场Microsoft应用 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/building-superintendence-and-repair/courses-no-intake?id=15384) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/building-superintendence-and-repair/courses-no-intake?id=15384) |
 | **Student Success Strategies**<br>学生成功策略 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/building-superintendence-and-repair/courses-no-intake?id=15384) |

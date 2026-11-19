@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Work Experience**<br>工作经历 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Oxy-Fuel Welding and Metallurgy**<br>氧燃料焊接与冶金学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Wheels, Tires and Rims**<br>车轮、轮胎与轮辋 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
-| **Introduction to Electric Welding**<br>电焊导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
+| **Introduction to Electric Welding**<br>电焊入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Electrical I**<br>电气 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Shop Fundamentals**<br>车间基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Engines and Engine Systems I**<br>发动机与发动机系统 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Hydraulics I**<br>液压学 I | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Industry Readiness**<br>行业就绪 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Working Effectively in the Trades**<br>行业中的高效工作 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Safety Basics – Restricted Spaces**<br>安全基础：受限空间 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |
 | **Safety Basics – Hazard Identification**<br>安全基础：危险识别 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/heavy-duty-equipment-repair) |

@@ -21,7 +21,7 @@ ms.date: 2026-11-08
 | **Construction Job Site Management II**<br>建设工地管理 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpmt) |
 | **Advanced Blueprint Reading & Drafting**<br>高级蓝图识读与制图 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpmt) |
 | **Construction Contracts & Laws**<br>建设合同与法律 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpmt) |
-| **Introduction to Structural Systems**<br>结构体系导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpmt) |
+| **Introduction to Structural Systems**<br>结构体系入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpmt) |
 | **Construction Economics & Financial Analysis**<br>建设经济与财务分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpmt) |
 | **Computer Applications & Estimating**<br>计算机应用与估价 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpmt) |
 | **Construction Project Management Simulation**<br>建设项目管理模拟 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cpmt) |

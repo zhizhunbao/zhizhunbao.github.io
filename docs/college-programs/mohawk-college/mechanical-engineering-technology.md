@@ -19,11 +19,11 @@ ms.date: 2026-11-08
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
 | **Technical Drawing 2**<br>技术制图 2 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
 | **Applied Electrical Systems**<br>应用电气系统 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
-| **Introduction to AI**<br>AI导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
+| **Introduction to AI**<br>AI入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
 | **Technical Math 2 (Mechanical)**<br>技术数学 2（机械） | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
 | **Geometric Dimensioning and Tolerancing**<br>几何尺寸与公差 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
 | **Physical Science**<br>自然科学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
-| **Introduction to Quality Assurance**<br>质量保证导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
+| **Introduction to Quality Assurance**<br>质量保证入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
 | **Engineering Design**<br>工程设计 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
 | **Materials and Processes in Manufacturing**<br>制造中的材料与工艺 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |
 | **Technical Math 3**<br>技术数学 3 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=529&prg_ver=26-A) |

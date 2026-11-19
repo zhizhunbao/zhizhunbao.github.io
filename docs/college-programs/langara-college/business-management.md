@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Business Management**<br>商业管理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma) |
-| **Introduction to Digital Literacy**<br>数字素养导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
-| **Introduction to Business in Canada**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
+| **Introduction to Digital Literacy**<br>数字素养入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
+| **Introduction to Business in Canada**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Business Presentation Skills**<br>商务演示技能 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Business Planning**<br>商业规划 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Marketing Research**<br>市场调研 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Basic Probability and Statistics for Business**<br>商务基础概率与统计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Statistical Methods I**<br>统计方法 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
@@ -31,8 +31,8 @@ ms.date: 2026-11-08
 | **Financial Accounting Overview**<br>财务会计概述 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |
 | **Mathematics of Business Affairs**<br>商务事务数学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-management-diploma/courses) |

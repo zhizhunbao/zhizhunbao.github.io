@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Economic Analysis and Decision Making**<br>经济分析与决策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Simulation Modelling: Principles and Applications**<br>模拟建模：原理与应用 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Transport Planning**<br>交通规划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
-| **Introduction to Data Science for Civil and Mineral Engineers**<br>土木与矿物工程师的数据科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
+| **Introduction to Data Science for Civil and Mineral Engineers**<br>土木与矿物工程师的数据科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Engineering Science Option Seminar**<br>工程科学方向研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Transportation Data Analytics: Advanced Statistics and Machine Learning**<br>交通数据分析：高级统计与机器学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Transportation Safety Analytics and Design**<br>交通安全分析与设计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
@@ -30,12 +30,12 @@ ms.date: 2026-11-11
 | **Data Mining**<br>数据挖掘 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Decision Making Under Uncertainty**<br>不确定性下的决策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Multi-agent Reinforcement Learning**<br>多智能体强化学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Control Systems**<br>控制系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Energy Policy**<br>能源政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Public Transit Operations and Planning**<br>公共交通运营与规划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Engineering and Management of Large Projects**<br>大型项目的工程与管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
-| **Introduction to Control Theory**<br>控制理论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
+| **Introduction to Control Theory**<br>控制理论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Adaptive Control and Reinforcement Learning**<br>自适应控制与强化学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Operations and Supply Chain Management**<br>运营与供应链管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |
 | **Mathematical Programming (Optimization)**<br>数学规划（优化） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://engineering.calendar.utoronto.ca/program/aeescbasev) |

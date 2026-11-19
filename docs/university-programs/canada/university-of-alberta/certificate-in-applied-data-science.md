@@ -12,28 +12,28 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Certificate in Applied Data Science**<br>应用数据科学证书 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Data Science Capstone (See Note 1)**<br>数据科学毕业项目（见注 1） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
-| **Introduction to Principles and Techniques of Data Science**<br>数据科学原理与技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
+| **Introduction to Principles and Techniques of Data Science**<br>数据科学原理与技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Responsible Data Science and Artificial Intelligence**<br>负责任的数据科学与人工智能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Indigenous Peoples and Technoscience**<br>原住民与技术科学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Ethics and Artificial Intelligence**<br>伦理与人工智能 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Machine Learning I**<br>机器学习 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
-| **Introduction to File and Database Management**<br>文件与数据库管理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
+| **Introduction to File and Database Management**<br>文件与数据库管理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Visual Recognition**<br>视觉识别 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
-| **Introduction to Information Retrieval**<br>信息检索导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
-| **Introduction to Natural Language Processing**<br>自然语言处理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
+| **Introduction to Information Retrieval**<br>信息检索入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
+| **Introduction to Natural Language Processing**<br>自然语言处理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Machine Learning Essentials**<br>机器学习要点 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Machine Learning II**<br>机器学习 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Bioinformatics I**<br>生物信息学 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Bioinformatics II**<br>生物信息学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
-| **Introduction to Biological Data**<br>生物数据导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
+| **Introduction to Biological Data**<br>生物数据入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Community Ecology**<br>群落生态学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Genetic Analysis of Populations**<br>群体遗传分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Statistical Design and Analysis in Biology**<br>生物学中的统计设计与分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Landscape Ecology**<br>景观生态学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Bioinformatics for Molecular Biologists**<br>分子生物学家的生物信息学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Applied Data Analysis in Marine Science**<br>海洋科学应用数据分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
-| **Introduction to Geographical Information Systems and Remote Sensing**<br>地理信息系统与遥感导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
+| **Introduction to Geographical Information Systems and Remote Sensing**<br>地理信息系统与遥感入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Environmental Applications of Geographic Information Systems**<br>地理信息系统的环境应用 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Basin Resources and Subsurface Methods**<br>盆地资源与地下方法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Geoscience Data Analysis**<br>地球科学数据分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
@@ -47,7 +47,7 @@ ms.date: 2026-11-11
 | **Probability I**<br>概率论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Time Series Analysis**<br>时间序列分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Statistical Analysis**<br>统计分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
-| **Introduction to Geomatic Techniques in Natural Resource Management**<br>自然资源管理中的地理空间技术导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
+| **Introduction to Geomatic Techniques in Natural Resource Management**<br>自然资源管理中的地理空间技术入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **GIS Applications in Environmental Science**<br>地理信息系统在环境科学中的应用 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Applied Statistics for Environmental Sciences**<br>环境科学应用统计学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |
 | **Predictive Business Analytics**<br>预测性商业分析 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110974&returnto=20858) |

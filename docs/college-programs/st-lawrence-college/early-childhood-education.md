@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Early Childhood Education**<br>幼儿教育 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/early-childhood-education/full-time/cornwall) |
 | **Child Development 1**<br>儿童发展 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/early-childhood-education/full-time/cornwall) |
 | **Communications for College**<br>大学沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/early-childhood-education/full-time/cornwall) |
-| **Introduction to Early Childhood Education**<br>幼儿教育导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/early-childhood-education/full-time/cornwall) |
+| **Introduction to Early Childhood Education**<br>幼儿教育入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/early-childhood-education/full-time/cornwall) |
 | **Arts-Based Curriculum**<br>艺术本位课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/early-childhood-education/full-time/cornwall) |
 | **Philosophies of Curriculum**<br>课程哲学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/early-childhood-education/full-time/cornwall) |
 | **Health and Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/early-childhood-education/full-time/cornwall) |

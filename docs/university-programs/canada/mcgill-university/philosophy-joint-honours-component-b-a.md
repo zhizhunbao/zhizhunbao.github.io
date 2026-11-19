@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Philosophy Joint Honours Component (B.A.)**<br>哲学联合荣誉组成部分（B.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
-| **Introduction to Deductive Logic 1.**<br>演绎逻辑导论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
+| **Introduction to Deductive Logic 1.**<br>演绎逻辑入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **Philosophical Fundamentals.**<br>哲学基本原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **Ethical Theory.**<br>伦理理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **Philosophy of Mind.**<br>心灵哲学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
@@ -21,10 +21,10 @@ ms.date: 2026-11-11
 | **Epistemology.**<br>认识论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **Metaphysics.**<br>形而上学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **Topics in Contemporary Analytic Philosophy.**<br>当代分析哲学专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
-| **Introduction to Moral Philosophy 1.**<br>道德哲学导论 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
+| **Introduction to Moral Philosophy 1.**<br>道德哲学入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **Contemporary Moral Issues.**<br>当代道德议题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **Political Philosophy 1.**<br>政治哲学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
-| **Introduction to Feminist Theory.**<br>女性主义理论导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
+| **Introduction to Feminist Theory.**<br>女性主义理论入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **Greek Political Theory.**<br>希腊政治理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **History and Philosophy of Ancient Science.**<br>古代科学的历史与哲学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |
 | **The Presocratic Philosophers.**<br>前苏格拉底哲学家 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/) |

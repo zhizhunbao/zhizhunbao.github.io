@@ -1,10 +1,10 @@
 ---
-title: "3.3.137 Russian, East European and Eurasian Studies, Master of Arts"
+title: "4.3.137 Russian, East European and Eurasian Studies, Master of Arts"
 description: "University Programs > United States > Stanford University > Russian, East European and Eurasian Studies, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.137 Russian, East European and Eurasian Studies, Master of Arts
+# 4.3.137 Russian, East European and Eurasian Studies, Master of Arts
 
 ## Glossary
 
@@ -72,7 +72,7 @@ ms.date: 2026-11-18
 | **Postmodernist Poetry in Eastern Europe: Ukraine, Belarus, and Russia**<br>东欧后现代主义诗歌：乌克兰、白俄罗斯与俄罗斯 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/russian-east-european-and-eurasian-studies/master-of-arts) |
 | **Yugoslavia and the Literature of Freedom**<br>南斯拉夫与自由文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/russian-east-european-and-eurasian-studies/master-of-arts) |
 | **Fighting For a Freedom of Thought: Censorship and Russian literature of the 19th-20th centuries**<br>为思想自由而战：审查制度与19至20世纪俄罗斯文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/russian-east-european-and-eurasian-studies/master-of-arts) |
-| **Introduction to Old Church Slavonic**<br>古教会斯拉夫语导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/russian-east-european-and-eurasian-studies/master-of-arts) |
+| **Introduction to Old Church Slavonic**<br>古教会斯拉夫语入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/russian-east-european-and-eurasian-studies/master-of-arts) |
 | **Memory Matters**<br>记忆攸关 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/russian-east-european-and-eurasian-studies/master-of-arts) |
 | **The Other Europe: Literature from East Central Europe**<br>另一个欧洲：中东欧文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/russian-east-european-and-eurasian-studies/master-of-arts) |
 | **Socialist Realism**<br>社会主义现实主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/russian-east-european-and-eurasian-studies/master-of-arts) |

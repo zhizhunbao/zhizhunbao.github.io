@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Urban Innovation MUI**<br>城市创新（MUI） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
-| **Introduction to Management of Urban Innovation**<br>城市创新管理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
+| **Introduction to Management of Urban Innovation**<br>城市创新管理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Civic Engagement and Economic Development**<br>公民参与和经济发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Urban and Regional Economic Development Theory**<br>城市与区域经济发展理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |
 | **Socially Sustainable Cities: Theory, Politics, and Practice**<br>社会可持续城市：理论、政治与实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation) |

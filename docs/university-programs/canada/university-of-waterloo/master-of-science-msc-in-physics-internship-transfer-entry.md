@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Master of Science (MSc) in Physics - Internship (transfer entry)**<br>理学硕士（MSc），物理学 - 实习（转入） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJJtW_Mo0) |
 | **Quantum Mechanics 1**<br>量子力学 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJJtW_Mo0) |
-| **Introduction to Quantum Field Theory**<br>量子场论导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJJtW_Mo0) |
+| **Introduction to Quantum Field Theory**<br>量子场论入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJJtW_Mo0) |
 | **Statistical Physics 1**<br>统计物理 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJJtW_Mo0) |
 | **Electromagnetic Theory**<br>电磁理论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJJtW_Mo0) |
 | **Quantum Information Processing**<br>量子信息处理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJJtW_Mo0) |

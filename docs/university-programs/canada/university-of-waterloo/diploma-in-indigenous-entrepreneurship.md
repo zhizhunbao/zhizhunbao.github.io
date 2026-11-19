@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Issues in Contemporary Indigenous Communities in Canada**<br>加拿大当代原住民社区议题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1ExyACi3) |
 | **The Indigenous Experience in Canada**<br>加拿大的原住民经历 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1ExyACi3) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1ExyACi3) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1ExyACi3) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1ExyACi3) |
 | **Canadian Law, Indigenous Peoples, and Natural Resource Development**<br>加拿大法律、原住民与自然资源开发 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1ExyACi3) |
 | **First Nations and the Environment**<br>第一民族与环境 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1ExyACi3) |
 | **Indigenous Histories in Canada**<br>加拿大原住民历史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1ExyACi3) |

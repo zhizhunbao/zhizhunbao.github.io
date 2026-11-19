@@ -11,15 +11,15 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baking and Pastry Arts**<br>烘焙与糕点艺术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
-| **Introduction to Basic Bread Making**<br>基础面包制作导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
-| **Introduction to Cooking**<br>烹饪导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
+| **Introduction to Basic Bread Making**<br>基础面包制作入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
+| **Introduction to Cooking**<br>烹饪入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
 | **Bakery Fundamentals**<br>烘焙基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
-| **Introduction to Pastry Making**<br>糕点制作导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
+| **Introduction to Pastry Making**<br>糕点制作入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
 | **Contemporary Pastries, Tarts and Pies**<br>当代糕点、挞与派 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
 | **Culinary Management 1**<br>烹饪管理 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
 | **Artisan Bread Making**<br>工匠面包制作 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
 | **Laminated Dough and Viennoiseries**<br>层压面团与维也纳酥皮点心 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
-| **Introduction to Cakes and Decorating Techniques**<br>蛋糕与装饰技术导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
+| **Introduction to Cakes and Decorating Techniques**<br>蛋糕与装饰技术入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
 | **Capstone Year 1**<br>毕业设计项目第 1 年 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
 | **Culinary Management 2**<br>烹饪管理 2 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |
 | **Nutrition and Special Dietary Needs**<br>营养与特殊膳食需求 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/baking-and-pastry-arts) |

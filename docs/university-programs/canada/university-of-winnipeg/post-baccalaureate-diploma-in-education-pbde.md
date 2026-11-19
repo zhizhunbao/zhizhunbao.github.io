@@ -17,7 +17,7 @@ ms.date: 2026-11-11
 | **Treaty Education for Manitoba School Systems**<br>马尼托巴学校系统的条约教育 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=13) |
 | **Enriching Indigenous and Canadian History**<br>丰富原住民与加拿大历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=13) |
 | **Special Topics in Indigenous Knowledges for Teachers**<br>教师原住民知识专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=13) |
-| **Introduction to School Guidance and Counselling**<br>学校辅导与咨询导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=13) |
+| **Introduction to School Guidance and Counselling**<br>学校辅导与咨询入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=13) |
 | **Theories and Issues in School Counselling**<br>学校辅导的理论与问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=13) |
 | **Counselling Ethics for Canadian School Settings**<br>加拿大学校环境中的咨询伦理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=13) |
 | **Early and Middle Years School Counselling**<br>早期与中期学年学校辅导 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=13) |

@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Professional Interactions**<br>专业互动 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/early-childhood-care-and-learning-diploma) |
 | **Leadership and Administration**<br>领导与行政 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/early-childhood-care-and-learning-diploma) |
 | **ECCL Program Planning**<br>ECCL项目规划 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/early-childhood-care-and-learning-diploma) |
-| **Intro to Inclusive Child Care**<br>融合式托育导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/early-childhood-care-and-learning-diploma) |
+| **Intro to Inclusive Child Care**<br>融合式托育入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/early-childhood-care-and-learning-diploma) |
 | **Advanced Health & Wellness**<br>高级健康与保健 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/early-childhood-care-and-learning-diploma) |
 | **Partnership With Families**<br>与家庭合作 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/early-childhood-care-and-learning-diploma) |
 | **Composition & Style**<br>写作与文体 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/early-childhood-care-and-learning-diploma) |

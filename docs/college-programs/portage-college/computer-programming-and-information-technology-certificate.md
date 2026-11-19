@@ -15,15 +15,15 @@ ms.date: 2026-11-08
 | **INTRO TO COMP PROGRAMMING (JAVA)**<br>计算机编程入门（JAVA） | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
 | **INTRO TO COMPUTING AND INFO SYSTEMS**<br>计算与信息系统入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
 | **INTRO TO COMPUTER PROGRAMMING**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
-| **INTRODUCTION TO WEB PROGRAMMING**<br>网络编程导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
+| **INTRODUCTION TO WEB PROGRAMMING**<br>网络编程入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
 | **OPERATING SYSTEMS**<br>操作系统 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
 | **SYSTEMS ANALYSIS AND DESIGN**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
 | **INTRODUCTORY COMPOSITION**<br>入门写作 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
-| **INTRODUCTION TO DRAMA AND TO POETRY**<br>戏剧与诗歌导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
-| **INTRODUCTION TO THE NOVEL AND THE SHORT STORY**<br>长篇小说与短篇小说导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
+| **INTRODUCTION TO DRAMA AND TO POETRY**<br>戏剧与诗歌入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
+| **INTRODUCTION TO THE NOVEL AND THE SHORT STORY**<br>长篇小说与短篇小说入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
 | **CAREER INTERNSHIP 1**<br>职业实习 1 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
-| **INTRODUCTION TO CALCULUS I**<br>微积分导论 I | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
-| **INTRODUCTION TO STATISTICS & RESEARCH METHODS**<br>统计与研究方法导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
+| **INTRODUCTION TO CALCULUS I**<br>微积分入门 I | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
+| **INTRODUCTION TO STATISTICS & RESEARCH METHODS**<br>统计与研究方法入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/University-Programs/Computer-Programming-and-Information-Technology-Certificate) |
 
 ## Courses
 

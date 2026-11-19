@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Global Citizenship: From Social Analysis to Social Action**<br>全球公民：从社会分析到社会行动 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-online) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-online) |
 | **Management Principles**<br>管理学原理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-online) |
-| **Introduction to Supply Chain and Business Operations**<br>供应链与企业运营导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-online) |
+| **Introduction to Supply Chain and Business Operations**<br>供应链与企业运营入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-online) |
 | **Retailing**<br>零售 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-online) |
 | **Digital Marketing**<br>数字营销 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-online) |
 | **Management Accounting 1**<br>管理会计 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-online) |

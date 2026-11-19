@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Chemistry and Advanced Ingredients**<br>化学与高级配料 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/esthetician) |
 | **Esthetic Clinic 1**<br>美容诊所 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/esthetician) |
 | **Skin Care Practices 2**<br>皮肤护理实践 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/esthetician) |
-| **Introduction to Business Practices**<br>商业实践导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/esthetician) |
+| **Introduction to Business Practices**<br>商业实践入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/esthetician) |
 | **Anatomy and Physiology 2**<br>解剖与生理学 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/esthetician) |
 | **Skin Care Practice 3**<br>皮肤护理实践 3 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/esthetician) |
 | **Spa Body**<br>水疗身体护理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/esthetician) |

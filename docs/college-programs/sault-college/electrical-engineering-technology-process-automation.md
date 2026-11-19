@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Electronic Devices and Circuits II**<br>电子器件与电路 II | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/electrical-engineering-technology-process-automation) |
 | **Instrumentation/Process Control**<br>仪表/过程控制 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/electrical-engineering-technology-process-automation) |
 | **Electrical Power Systems**<br>电力系统 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/electrical-engineering-technology-process-automation) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/electrical-engineering-technology-process-automation) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/electrical-engineering-technology-process-automation) |
 | **Electrical Machines**<br>电机 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/electrical-engineering-technology-process-automation) |
 | **Robotic and PLC Control Systems**<br>机器人与PLC控制系统 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/electrical-engineering-technology-process-automation) |
 | **Power Electronics**<br>电力电子学 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/electrical-engineering-technology-process-automation) |

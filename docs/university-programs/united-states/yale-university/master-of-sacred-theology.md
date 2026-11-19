@@ -1,10 +1,10 @@
 ---
-title: "3.4.108 Master of Sacred Theology"
+title: "4.4.108 Master of Sacred Theology"
 description: "University Programs > United States > Yale University > Master of Sacred Theology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.108 Master of Sacred Theology
+# 4.4.108 Master of Sacred Theology
 
 ## Glossary
 

@@ -28,8 +28,8 @@ ms.date: 2026-11-11
 | **Special Topics in German Culture II**<br>德国文化专题 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-german-language-culture/) |
 | **Practicum in German**<br>德语实习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-german-language-culture/) |
 | **Directed Study in German**<br>德语指导学习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-german-language-culture/) |
-| **Introduction to the Yiddish Language and Culture I**<br>意第绪语言与文化导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-german-language-culture/) |
-| **Introduction to the Yiddish Language and Culture II**<br>意第绪语言与文化导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-german-language-culture/) |
+| **Introduction to the Yiddish Language and Culture I**<br>意第绪语言与文化入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-german-language-culture/) |
+| **Introduction to the Yiddish Language and Culture II**<br>意第绪语言与文化入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-german-language-culture/) |
 | **Yiddish Culture, Literature, and Film**<br>意第绪文化、文学与电影 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-german-language-culture/) |
 
 ## Courses

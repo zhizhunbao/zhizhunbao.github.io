@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Engineering Chemistry I**<br>工程化学 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology) |
 | **Professional Communication and Presentation Skills**<br>职业沟通与演讲技能 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology) |
 | **Computer Fundamentals**<br>计算机基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology) |
-| **Introduction to Chemical Engineering**<br>化学工程导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology) |
+| **Introduction to Chemical Engineering**<br>化学工程入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology) |
 | **Math for Engineering and Tech I**<br>工程与技术数学 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology) |
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology) |
 | **Instrumentation and Process Control**<br>仪表与过程控制 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/chemical-engineering-technology) |

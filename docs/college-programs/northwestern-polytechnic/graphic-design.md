@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Graphic Design**<br>平面设计 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
-| **Introduction to Digital Photography**<br>数码摄影导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
+| **Introduction to Digital Photography**<br>数码摄影入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
 | **Design History**<br>设计史 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
 | **Typography I**<br>字体排印 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
 | **Visual Communication**<br>视觉传达 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
@@ -23,8 +23,8 @@ ms.date: 2026-11-08
 | **2D Fundamentals**<br>2D基础 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
 | **Drawing I**<br>绘画 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
 | **Professional Practice**<br>职业实践 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
-| **Introduction to Video Production**<br>视频制作导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
+| **Introduction to Video Production**<br>视频制作入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
 | **Interactive Design I**<br>交互设计 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
 | **Web Design I**<br>网页设计 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |
 | **Interactive Design II**<br>交互设计 II | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/graphic-design-diploma) |

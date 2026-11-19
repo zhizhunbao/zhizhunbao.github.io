@@ -13,17 +13,17 @@ ms.date: 2026-11-11
 | **Art History, B.F.A. General**<br>艺术史，B.F.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Asian Civilizations to 1500 (B)**<br>1500 年以前的亚洲文明 (B) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Asian Civilization from 1500 (B)**<br>1500 年以来的亚洲文明 (B) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to Catholic Studies**<br>天主教研究导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to Canada**<br>加拿大导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to Ancient Greek Culture**<br>古希腊文化导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to Ancient Roman Culture**<br>古罗马文化导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to Catholic Studies**<br>天主教研究入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to Canada**<br>加拿大入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to Ancient Greek Culture**<br>古希腊文化入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to Ancient Roman Culture**<br>古罗马文化入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **The Art of the Film 1**<br>电影艺术 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Film History**<br>电影史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to German Culture from 1918 to the Present (C)**<br>1918 年至今的德国文化导论（C） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to German Culture from the Beginnings to 1918 (C)**<br>从起源到 1918 年的德国文化导论（C） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **An Introduction to the History of Western Civilization (G)**<br>西方文明史导论 (G) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **An Introduction to the History of Western Civilization to 1500 (G)**<br>1500 年以前的西方文明史导论 (G) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **An Introduction to the History of Western Civilization from 1500 (G)**<br>1500 年以来的西方文明史导论 (G) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to German Culture from 1918 to the Present (C)**<br>1918 年至今的德国文化入门（C） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to German Culture from the Beginnings to 1918 (C)**<br>从起源到 1918 年的德国文化入门（C） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **An Introduction to the History of Western Civilization (G)**<br>西方文明史入门 (G) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **An Introduction to the History of Western Civilization to 1500 (G)**<br>1500 年以前的西方文明史入门 (G) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **An Introduction to the History of Western Civilization from 1500 (G)**<br>1500 年以来的西方文明史入门 (G) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Modern World History: 1500-1800 (M)**<br>现代世界史：1500-1800（M） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Modern World History: 1800-Present (M)**<br>现代世界史：1800 年至今（M） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **History of Canada (C)**<br>加拿大史 (C) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
@@ -33,13 +33,13 @@ ms.date: 2026-11-11
 | **Indigenous Peoples in Canada, Part 1**<br>加拿大的原住民，第 1 部分 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Indigenous Peoples in Canada, Part 2**<br>加拿大的原住民，第 2 部分 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Rudiments of Music**<br>音乐基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to Philosophy**<br>哲学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to Philosophy**<br>哲学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Critical Thinking**<br>批判性思维 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to Eastern Religions**<br>东方宗教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to Western Religions**<br>西方宗教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to Eastern Religions**<br>东方宗教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to Western Religions**<br>西方宗教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Russian Culture from 1900 to the Present**<br>1900 年至今的俄罗斯文化 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 | **Ukrainian Culture from 1900 to the Present**<br>1900 年至今的乌克兰文化 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
-| **Introduction to Women's and Gender Studies in the Humanities**<br>人文学科中的妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
+| **Introduction to Women's and Gender Studies in the Humanities**<br>人文学科中的妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/art/art-history-bfa-general/) |
 
 ## Courses
 

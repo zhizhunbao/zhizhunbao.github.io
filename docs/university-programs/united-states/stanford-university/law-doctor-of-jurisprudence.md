@@ -1,10 +1,10 @@
 ---
-title: "3.3.187 Law, Doctor of Jurisprudence"
+title: "4.3.187 Law, Doctor of Jurisprudence"
 description: "University Programs > United States > Stanford University > Law, Doctor of Jurisprudence: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.187 Law, Doctor of Jurisprudence
+# 4.3.187 Law, Doctor of Jurisprudence
 
 ## Glossary
 
@@ -21,7 +21,7 @@ ms.date: 2026-11-18
 | **Discussion (1L): Exit, Voice, and Loyalty for Lawyers**<br>讨论课（1L）：律师的退出、呼吁与忠诚 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Discussion (1L): Human Reproduction in the 21st Century**<br>讨论课（1L）：21世纪的人类生殖 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Discussion (1L): Inequality, Redistribution and Predistribution**<br>讨论课（1L）：不平等、再分配与预分配 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
-| **Discussion (1L): Introduction to Election Law**<br>讨论课（1L）：选举法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
+| **Discussion (1L): Introduction to Election Law**<br>讨论课（1L）：选举法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Discussion (1L): Representations of Criminal Lawyers in Popular Culture Through the Lens of Bias**<br>讨论课（1L）：从偏见视角看流行文化中的刑事律师形象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Discussion (1L): Meritocracy, Inequality and Higher Education**<br>讨论课（1L）：精英制、不平等与高等教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Discussion (1L): The Central Park Five Case**<br>讨论课（1L）：中央公园五人案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-18
 | **Property**<br>财产法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Federal Litigation in a Global Context: Methods and Practice**<br>全球背景下的联邦诉讼：方法与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **American Politics and Policy: In Defense of Democracy**<br>美国政治与政策：捍卫民主 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Asia-Pacific Transformation**<br>亚太转型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Bayesian Inference: Methods and Applications**<br>贝叶斯推断：方法与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Biology and Global Change**<br>生物学与全球变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
@@ -58,12 +58,12 @@ ms.date: 2026-11-18
 | **Entrepreneurship and Venture Capital**<br>创业与风险投资 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Family Business and The Enduring Enterprise**<br>家族企业与长青企业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Fundamentals of Renewable Energy Processes**<br>可再生能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
-| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
+| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Impact: Strategic Leadership of Social Ventures and Nonprofit Organizations**<br>影响力：社会企业与非营利组织的战略领导 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Implementing & Financing a Decarbonized Economy**<br>实施与资助脱碳经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **International Trade**<br>国际贸易 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Interpersonal Dynamics**<br>人际动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
-| **Introduction to Decision Analysis**<br>决策分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
+| **Introduction to Decision Analysis**<br>决策分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Investment Management and Entrepreneurial Finance**<br>投资管理与创业金融 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Journalism Law**<br>新闻法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |
 | **Leadership Perspectives**<br>领导力视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/law/doctor-of-jurisprudence) |

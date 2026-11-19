@@ -13,9 +13,9 @@ ms.date: 2026-11-11
 | **Pharmacy, Pharm.D.**<br>药学，Pharm.D. | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
 | **Pharmacology**<br>药理学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
 | **Applied Pharmacy Practice Lab 1**<br>应用药学实践实验 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
-| **Introduction to Pharmacotherapy Literature**<br>药物治疗文献导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
+| **Introduction to Pharmacotherapy Literature**<br>药物治疗文献入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
 | **Pharmacy Informatics**<br>药学信息学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
 | **Medicinal Chemistry**<br>药物化学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |
 | **Applied Pathophysiology**<br>应用病理生理学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/health-sciences/pharmacy/pharmacy-pharmd/) |

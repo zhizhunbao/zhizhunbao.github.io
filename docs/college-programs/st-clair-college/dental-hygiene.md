@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **Clinical Theory I**<br>临床理论 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/dental-hygiene) |
 | **Clinical Practice I**<br>临床实践 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/dental-hygiene) |
 | **Intro To Health Promotion**<br>健康促进入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/dental-hygiene) |
-| **Introduction To Professional Communications And Information Management**<br>专业沟通与信息管理导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/dental-hygiene) |
+| **Introduction To Professional Communications And Information Management**<br>专业沟通与信息管理入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/dental-hygiene) |
 | **Human Pathophysiology**<br>人体病理生理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/dental-hygiene) |
 | **Oral Pathology & Radiographic Interpretation**<br>口腔病理学与放射影像判读 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/dental-hygiene) |
 | **Clinical Practice II**<br>临床实践 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/dental-hygiene) |

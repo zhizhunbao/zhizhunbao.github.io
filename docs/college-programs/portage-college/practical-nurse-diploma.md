@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **PHYSIOLOGY I**<br>生理学 I | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/Health-and-Wellness/Practical-Nurse-Diploma) |
 | **INTRODUCTORY COMPOSITION**<br>入门写作 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/Health-and-Wellness/Practical-Nurse-Diploma) |
 | **PERSONAL HEALTH & WELLNESS**<br>个人健康与保健 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/Health-and-Wellness/Practical-Nurse-Diploma) |
-| **NURSING FOUNDATIONS 1: INTRODUCTION TO NURSING**<br>护理基础 1：护理导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/Health-and-Wellness/Practical-Nurse-Diploma) |
+| **NURSING FOUNDATIONS 1: INTRODUCTION TO NURSING**<br>护理基础 1：护理入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/Health-and-Wellness/Practical-Nurse-Diploma) |
 | **PHYSIOLOGY ll**<br>生理学 II | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/Health-and-Wellness/Practical-Nurse-Diploma) |
 | **COMMUNICATIONS FOR HEALTH PROFESSIONALS**<br>医疗专业人员沟通 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/Health-and-Wellness/Practical-Nurse-Diploma) |
 | **NURSING FOUNDATIONS 2: BASIC NURSING**<br>护理基础 2：基础护理 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Programs-and-Training/Health-and-Wellness/Practical-Nurse-Diploma) |

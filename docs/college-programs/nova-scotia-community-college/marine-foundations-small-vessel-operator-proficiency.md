@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Small Vessel Operator Proficiency (SVOP)**<br>小型船舶操作员能力（SVOP） | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-small-vessel-operator-proficiency) |
 | **Marine Emergency Duties - Domestic Vessel Safety (MED-DVS)**<br>海上应急职责：国内船舶安全（MED-DVS） | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-small-vessel-operator-proficiency) |
 | **Marine Basic First Aid**<br>海上基础急救 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-small-vessel-operator-proficiency) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-small-vessel-operator-proficiency) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-small-vessel-operator-proficiency) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-small-vessel-operator-proficiency) |
 
 ## Courses

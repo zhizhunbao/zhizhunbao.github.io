@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Strategic Merchandising Operations Management**<br>战略商品运营管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
 | **Canadian Business Communications**<br>加拿大商务沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
 | **Business Analytics**<br>商业分析 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
-| **Introduction to Canadian Culture**<br>加拿大文化导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
+| **Introduction to Canadian Culture**<br>加拿大文化入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
 | **Corporate Social Responsibility: A Canadian Perspective**<br>企业社会责任：加拿大视角 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
 | **Retailing**<br>零售 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
-| **Introduction to Managerial Accounting**<br>管理会计导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
+| **Introduction to Managerial Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
 | **Inventory Management**<br>库存管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
 | **Consumer Behaviour & Trends**<br>消费者行为与趋势 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |
 | **Logistics: Warehouse & Distribution**<br>物流：仓储与配送 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/smom) |

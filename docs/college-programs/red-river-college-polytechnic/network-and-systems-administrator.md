@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Network and Systems Administrator**<br>网络与系统管理员 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP) |
-| **Introduction to Computer Systems**<br>计算机系统导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP/PrinterFriendly#RRCM-1074) |
+| **Introduction to Computer Systems**<br>计算机系统入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP/PrinterFriendly#RRCM-1074) |
 | **Networking and IT Essentials**<br>网络与IT基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP/PrinterFriendly#RRCM-1075) |
-| **Introduction to Programming Using Python**<br>Python编程导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP/PrinterFriendly#RRCM-1076) |
+| **Introduction to Programming Using Python**<br>Python编程入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP/PrinterFriendly#RRCM-1076) |
 | **Microsoft Azure Fundamentals**<br>Microsoft Azure基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP/PrinterFriendly#RRCM-1077) |
 | **Microsoft Azure Administration**<br>Microsoft Azure管理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP/PrinterFriendly#RRCM-1078) |
 | **CCNA I: Introduction to Networks**<br>CCNA I：网络入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/NESAF-DP/PrinterFriendly#RRCM-1079) |

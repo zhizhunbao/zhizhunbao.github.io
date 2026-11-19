@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Health and Safety for Environmental Technicians**<br>环境技术员健康与安全 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician-fast-track/full-time/cornwall) |
 | **Statistics Experimental Design**<br>统计实验设计 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician-fast-track/full-time/cornwall) |
 | **Environmental Issues and Solutions**<br>环境问题与解决方案 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician-fast-track/full-time/cornwall) |
-| **Introduction to Geographical Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician-fast-track/full-time/cornwall) |
+| **Introduction to Geographical Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician-fast-track/full-time/cornwall) |
 | **Ecological Sampling Techniques**<br>生态采样技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician-fast-track/full-time/cornwall) |
 | **Ecotoxicology**<br>生态毒理学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician-fast-track/full-time/cornwall) |
 | **Microbiology**<br>微生物学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician-fast-track/full-time/cornwall) |

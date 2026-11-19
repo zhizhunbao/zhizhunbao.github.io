@@ -30,10 +30,10 @@ ms.date: 2026-11-08
 | **Human Resource Management Principles**<br>人力资源管理原则 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
 | **Intercultural Communications**<br>跨文化交际 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
-| **Introduction to Business Management & Organizational Behaviour**<br>商业管理与组织行为导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
-| **Introduction to Computers 1**<br>计算机导论 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
-| **Introduction to Computers 2**<br>计算机导论 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
+| **Introduction to Business Management & Organizational Behaviour**<br>商业管理与组织行为入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
+| **Introduction to Computers 1**<br>计算机入门 1 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
+| **Introduction to Computers 2**<br>计算机入门 2 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
 | **Occupational Health and Safety**<br>职业健康与安全 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
 | **Office Technology and Procedures**<br>办公技术与流程 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |
 | **Presentations and Desktop Publishing**<br>演示文稿与桌面出版 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/office-administration-executive-online/) |

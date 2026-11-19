@@ -12,11 +12,11 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Process and Power Engineering, 2-year Diploma**<br>流程与动力工程，2年制文凭 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 | **Technical Communications & Computers**<br>技术传播与计算机 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
-| **Introduction to Engineering Mathematics, Physics and Chemistry**<br>工程数学、物理与化学导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
-| **Introduction to Electrical Theory & Instrumentation**<br>电气理论与仪表导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
+| **Introduction to Engineering Mathematics, Physics and Chemistry**<br>工程数学、物理与化学入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
+| **Introduction to Electrical Theory & Instrumentation**<br>电气理论与仪表入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 | **Elementary 4th Class Power Engineering Lab**<br>初级四级动力工程实验 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 | **Advanced 4th Class Power Engineering Lab**<br>高级四级动力工程实验 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
-| **Introduction to Boilers**<br>锅炉导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
+| **Introduction to Boilers**<br>锅炉入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 | **Materials, Welding and Communications**<br>材料、焊接与沟通 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 | **Safety and the Environment**<br>安全与环境 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 | **Heating, Ventilation & Air Conditioning**<br>供暖、通风与空调 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
@@ -42,9 +42,9 @@ ms.date: 2026-11-08
 | **SAGD Operations**<br>SAGD作业 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 | **Heavy Oil Upgrading and Process Optimization**<br>重油提质与工艺优化 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 | **Basic Energy Principles**<br>基础能源原理 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
-| **Introduction to Wind Energy**<br>风能导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
-| **Introduction to Solar Energy**<br>太阳能导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
-| **Introduction to Biofuels**<br>生物燃料导论 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
+| **Introduction to Wind Energy**<br>风能入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
+| **Introduction to Solar Energy**<br>太阳能入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
+| **Introduction to Biofuels**<br>生物燃料入门 | (Definition pending) | （定义待补） | [Lakeland College, n.d.](https://www.lakelandcollege.ca/programs-and-courses/energy/process-power-engineering.html) |
 
 ## Courses
 

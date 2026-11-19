@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Strategic Human Resources Management**<br>战略人力资源管理 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
 | **Business Information Systems**<br>商业信息系统 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
-| **Introduction to Organizational Development**<br>组织发展导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
+| **Introduction to Organizational Development**<br>组织发展入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
 | **Business Communication 1**<br>商务沟通 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
-| **Introduction to Operations Management**<br>运营管理导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
+| **Introduction to Operations Management**<br>运营管理入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
 | **Business Mathematics**<br>商业数学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |
 | **Applied Data Analytics in Excel**<br>Excel 应用数据分析 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/strategic-human-resources-management-diploma-full-time-6290dipma/) |

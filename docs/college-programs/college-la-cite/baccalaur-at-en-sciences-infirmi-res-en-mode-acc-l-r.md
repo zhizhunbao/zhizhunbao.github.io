@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baccalauréat en sciences infirmières en mode accéléré**<br>加速模式护理学学士 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
-| **Introduction aux sciences infirmières**<br>护理科学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
+| **Introduction aux sciences infirmières**<br>护理科学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
 | **Anatomie & physiologie I**<br>解剖学与生理学 I | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
 | **Psychologie du développement humain**<br>人类发展心理学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
 | **Microbiologie**<br>微生物学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-08
 | **Histoire des savoirs en criminologie**<br>犯罪学知识史 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
 | **Langue et culture hispaniques**<br>西班牙语语言与文化 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
 | **Principes d'éthique**<br>伦理原则 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
-| **Introduction à la psychologie expérimentale**<br>实验心理学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
+| **Introduction à la psychologie expérimentale**<br>实验心理学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
 | **Concepts judiciaires**<br>司法概念 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
 | **Statistiques et tableurs**<br>统计与电子表格 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |
 | **Entrepreneuriat et gestion de projet**<br>创业与项目管理 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81780) |

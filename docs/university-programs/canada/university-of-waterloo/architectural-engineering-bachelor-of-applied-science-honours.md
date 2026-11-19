@@ -37,7 +37,7 @@ ms.date: 2026-11-11
 | **Architectural Engineering Studio 1**<br>建筑工程工作室 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Soil Mechanics and Foundations**<br>土力学与基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Structural Timber Design**<br>结构木材设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
-| **Introduction to Structural Design**<br>结构设计导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
+| **Introduction to Structural Design**<br>结构设计入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Structural Analysis**<br>结构分析 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Architectural Engineering Studio 2**<br>建筑工程工作室 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Building Science and Technology**<br>建筑科学与技术 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
@@ -74,7 +74,7 @@ ms.date: 2026-11-11
 | **Welding and Joining Processes**<br>焊接与连接工艺 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **HVAC Load Analysis and Design Fundamentals**<br>暖通空调负荷分析与设计基础 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Fire Safety Engineering**<br>消防安全工程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
-| **Introduction to Complex Systems**<br>复杂系统导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
+| **Introduction to Complex Systems**<br>复杂系统入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Integrated Environmental Systems**<br>综合环境系统 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Structural Steel Design**<br>结构钢设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |
 | **Structural Concrete Design**<br>结构混凝土设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/rJry1RAs2) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Trauma & Crisis Intervention**<br>创伤与危机干预 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/program/trauma-crisis-intervention) |
-| **Introduction to Critical Incident Stress Management**<br>重大事件压力管理导论 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/program/trauma-crisis-intervention) |
+| **Introduction to Critical Incident Stress Management**<br>重大事件压力管理入门 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/program/trauma-crisis-intervention) |
 | **Diversity & Trauma**<br>多样性与创伤 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/program/trauma-crisis-intervention) |
 | **Defusing and Crisis Management Briefing**<br>情绪疏导与危机管理简报 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/program/trauma-crisis-intervention) |
 | **Critical Incident Stress Debriefing**<br>重大事件压力汇报 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/program/trauma-crisis-intervention) |

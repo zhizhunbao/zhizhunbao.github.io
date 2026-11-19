@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Honours Bachelor of Brand Design (G305)**<br>品牌设计荣誉学士 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-bridge-program-g305) |
-| **Introduction to Brand Studies and Strategy**<br>品牌研究与战略导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-bridge-program-g305) |
+| **Introduction to Brand Studies and Strategy**<br>品牌研究与战略入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-bridge-program-g305) |
 | **Brand Studies Research Preparation**<br>品牌研究准备 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-bridge-program-g305) |
 | **Brand Writing**<br>品牌写作 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-bridge-program-g305) |
 | **Lower Liberal Elective**<br>低年级通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-brand-design-bridge-program-g305) |

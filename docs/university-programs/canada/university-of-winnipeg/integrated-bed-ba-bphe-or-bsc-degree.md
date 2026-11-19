@@ -27,7 +27,7 @@ ms.date: 2026-11-11
 | **Teaching/Learning and the K-8 Curriculum Practicum**<br>教与学与 K-8 课程实习 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=5) |
 | **Teaching/Learning and the K-8 and Assessment: Middle Years Physical**<br>教与学与 K-8 及评估：中学低年级体育 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=5) |
 | **Contemporary Issues in Inner-City Education -**<br>内城教育中的当代问题 - | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=5) |
-| **Introduction to Indigenous Education**<br>原住民教育导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=5) |
+| **Introduction to Indigenous Education**<br>原住民教育入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=5) |
 | **Classroom Management**<br>课堂管理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=5) |
 | **Elementary (K-8) Curriculum, Instruction and Assessment: English Language Arts - 1**<br>小学（K-8）课程、教学与评估：英语语言艺术 - 1 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=5) |
 | **Elementary (K-8) Curriculum, Instruction and Assessment: English Language Arts - 2**<br>小学（K-8）课程、教学与评估：英语语言艺术 - 2 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/educ.pdf#page=5) |

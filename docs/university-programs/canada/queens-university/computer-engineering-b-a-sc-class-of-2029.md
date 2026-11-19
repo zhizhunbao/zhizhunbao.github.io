@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **AI-Assisted Software Development and Design**<br>人工智能辅助的软件开发与设计 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
 | **Fundamentals of Electromagnetics**<br>电磁学基础 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
 | **Electrical and Computer Engineering Design and Practice**<br>电气与计算机工程设计与实践 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
-| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
+| **Introduction to Data Science**<br>数据科学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
 | **Probability & Random Processes**<br>概率与随机过程 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
 | **Microprocessor Interfacing and Embedded Systems**<br>微处理器接口与嵌入式系统 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
 | **Computer Networks**<br>计算机网络 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
@@ -72,7 +72,7 @@ ms.date: 2026-11-11
 | **Health AI: 2D and 3D Image Analysis**<br>健康人工智能：2D 与 3D 图像分析 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
 | **Solid State Devices**<br>固态器件 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
 | **Sensors and Electric Actuators**<br>传感器与电动执行器 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/engineering-applied-sciences/academic-plans/computer-engineering/computer-engineering-basc-class-2029/) |
 
 ## Courses
 

@@ -13,17 +13,17 @@ ms.date: 2026-11-08
 | **Carpentry & Renovation Techniques**<br>木工与翻新技能 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 | **Safety, Tools & Materials**<br>安全、工具与材料 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 | **Construction Plans, Specifications & Codes**<br>施工图纸、规格与规范 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
-| **Introduction to Surveying**<br>测量学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
+| **Introduction to Surveying**<br>测量学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 | **Estimating & Calculating I**<br>估价与计算 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 | **Foundations Systems**<br>基础系统 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 | **Energy Efficiencies & Sustainable Construction**<br>能效与可持续建设 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
-| **Introduction to Interior Finishing**<br>室内装修导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
-| **Introduction to Exterior Finishing**<br>外墙装修导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
+| **Introduction to Interior Finishing**<br>室内装修入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
+| **Introduction to Exterior Finishing**<br>外墙装修入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 | **Workplace Communications**<br>职场沟通 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 | **Construction Safety**<br>施工安全 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
-| **Introduction to Framing**<br>框架结构导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
+| **Introduction to Framing**<br>框架结构入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/cact) |
 
 ## Courses
 

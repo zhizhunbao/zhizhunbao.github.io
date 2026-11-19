@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician/full-time/cornwall) |
 | **Fundamentals of Chemistry 2**<br>化学基础 2 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician/full-time/cornwall) |
 | **Communications for Environmental Technicians**<br>环境技术员沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician/full-time/cornwall) |
-| **Introduction to Geographical Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician/full-time/cornwall) |
+| **Introduction to Geographical Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician/full-time/cornwall) |
 | **Ecology**<br>生态学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician/full-time/cornwall) |
 | **Ecological Sampling Techniques**<br>生态采样技术 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician/full-time/cornwall) |
 | **Microbiology**<br>微生物学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/environmental-technician/full-time/cornwall) |

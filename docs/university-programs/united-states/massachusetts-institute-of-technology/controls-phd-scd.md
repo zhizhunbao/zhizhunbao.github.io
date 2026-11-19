@@ -1,10 +1,10 @@
 ---
-title: "3.2.103 Controls (PhD, ScD)"
+title: "4.2.103 Controls (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Controls (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.103 Controls (PhD, ScD)
+# 4.2.103 Controls (PhD, ScD)
 
 ## Glossary
 

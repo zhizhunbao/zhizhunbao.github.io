@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Biology and Mathematics Major (B.Sc.)**<br>生物学与数学主修（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
-| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
+| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Cell and Molecular Laboratory.**<br>细胞与分子实验 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Quantitative Biology Seminar.**<br>定量生物学研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Introductory Organic Chemistry 1.**<br>有机化学入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Honours Applied Linear Algebra.**<br>荣誉应用线性代数 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Ordinary Differential Equations.**<br>常微分方程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Probability.**<br>概率论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
-| **Introduction to Ecology and Evolution.**<br>生态学与进化导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
+| **Introduction to Ecology and Evolution.**<br>生态学与进化入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Analysis 1.**<br>分析 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Analysis 2.**<br>分析 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Independent Research Project 1.**<br>独立研究项目 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
@@ -33,10 +33,10 @@ ms.date: 2026-11-11
 | **Numerical Analysis.**<br>数值分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Partial Differential Equations .**<br>偏微分方程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Nonlinear Dynamics and Chaos.**<br>非线性动力学与混沌 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
-| **Introduction to Statistical Computing.**<br>统计计算导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
+| **Introduction to Statistical Computing.**<br>统计计算入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Statistics.**<br>统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Applied Regression.**<br>应用回归 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
-| **Introduction to Stochastic Processes.**<br>随机过程导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
+| **Introduction to Stochastic Processes.**<br>随机过程入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Applied Machine Learning.**<br>应用机器学习 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Principles of Statistics 2.**<br>统计学原理 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |
 | **Fundamentals of Statistical Learning.**<br>统计学习基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/) |

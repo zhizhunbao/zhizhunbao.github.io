@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Nuclear Fuel Management**<br>核燃料管理 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJlseJCRsn) |
 | **Nuclear Energy in Society: Regulations and Energy Future**<br>社会中的核能：法规与能源未来 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJlseJCRsn) |
 | **Small Modular Reactors**<br>小型模块化反应堆 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJlseJCRsn) |
-| **Introduction to Operational Health Physics**<br>运行健康物理导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJlseJCRsn) |
+| **Introduction to Operational Health Physics**<br>运行健康物理入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJlseJCRsn) |
 | **Nuclear Fuel Engineering**<br>核燃料工程 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJlseJCRsn) |
 | **Power Plant Thermodynamics**<br>发电厂热力学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJlseJCRsn) |
 | **Reactor Chemistry and Corrosion**<br>反应堆化学与腐蚀 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HJlseJCRsn) |

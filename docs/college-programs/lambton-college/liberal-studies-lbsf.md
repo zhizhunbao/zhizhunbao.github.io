@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Business English Skills I**<br>商务英语技能 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Sociology I**<br>社会学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Psychology I**<br>心理学 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Stress, Wellness and Nutrition**<br>压力、健康与营养 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Intro to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
@@ -24,10 +24,10 @@ ms.date: 2026-11-08
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Critical & Ethical Decision Making**<br>批判性与伦理决策 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **AI & Society: Playing with Power, Ethics, & the Future School**<br>AI与社会：权力、伦理与未来学校 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
-| **Introduction to Sustainable Development**<br>可持续发展导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
+| **Introduction to Sustainable Development**<br>可持续发展入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Cults & Terrorism**<br>邪教与恐怖主义 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Elective - Select 2**<br>选修课 - 选择 2 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Who Runs Canada: Government, Rights & Resistance**<br>谁在治理加拿大：政府、权利与抗争 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |
 | **Equity, Diversity & Inclusion: A Canadian Perspective**<br>公平、多元与包容：加拿大视角 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/online/lbsf) |

@@ -16,9 +16,9 @@ ms.date: 2026-11-11
 | **Technical Production 2**<br>舞台技术制作 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
 | **Performance History**<br>表演史 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
 | **Advanced Production and Performance Practicum**<br>高级制作与表演实践 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
-| **Introduction to Performance**<br>表现导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
-| **Introduction to Critical Design Practices**<br>批判性设计实践导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
-| **Introduction to Theatre**<br>戏剧导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
+| **Introduction to Performance**<br>表现入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
+| **Introduction to Critical Design Practices**<br>批判性设计实践入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
+| **Introduction to Theatre**<br>戏剧入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
 | **Gender and Performance**<br>性别与表演 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
 | **Race and Performance**<br>种族与表演 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |
 | **Production and Performance Practicum**<br>制作与表演实习 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/SyulJ0Aon) |

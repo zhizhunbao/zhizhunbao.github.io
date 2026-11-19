@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geography**<br>地理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree) |
-| **Introduction to Physical Geography: Planet Earth**<br>自然地理学导论：行星地球 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
+| **Introduction to Physical Geography: Planet Earth**<br>自然地理学入门：行星地球 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Our Changing Environment: Climate and Ecosystems**<br>我们变化的环境：气候与生态系统 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Geographic Field Techniques**<br>地理野外技术 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
-| **Introduction to Human Geography**<br>人文地理学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
+| **Introduction to Human Geography**<br>人文地理学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Regional Geography of Canada**<br>加拿大区域地理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Urban Geography**<br>城市地理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Geography of British Columbia**<br>不列颠哥伦比亚地理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Dynamic Earth**<br>动力地球 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Sustainable Resource and Environmental Management**<br>可持续资源与环境管理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Natural Hazards**<br>自然灾害 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
-| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
+| **Introduction to Geographic Information Systems (GIS)**<br>地理信息系统（GIS）入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Contemporary Canadian Urban Life**<br>当代加拿大都市生活 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Geographies of Money and Power**<br>货币与权力地理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |
 | **Cultural Geography**<br>文化地理学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/geography-associate-arts-degree/courses) |

@@ -11,21 +11,21 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Criminology Specialization**<br>犯罪学专业方向 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
-| **Introduction to Composition**<br>作文导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
+| **Introduction to Composition**<br>作文入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **(Depends on receiving institution)**<br>（视接收院校而定） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Lab Science - Student Choice**<br>实验室科学：学生自选 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Science - Student Choice**<br>科学（学生自选） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
-| **Introduction to Political Science**<br>政治学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
+| **Introduction to Political Science**<br>政治学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Introductory Sociology I**<br>社会学入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Introductory Sociology II**<br>社会学入门 II | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
-| **Introduction to Philosophy**<br>哲学导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
+| **Introduction to Philosophy**<br>哲学入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Any First Year Humanities (Other than English)**<br>任意一年级人文课程（英语除外） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
-| **Introduction to Criminology (\*)**<br>犯罪学导论（\*） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
+| **Introduction to Criminology (\*)**<br>犯罪学入门（\*） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Psychology of Crime & Deviance**<br>犯罪与越轨心理学 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Crime, Deviance & Society**<br>犯罪、越轨与社会 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **The Criminal Justice System (\* Part of Criminal Justice Field School so Co-requisite is PSYC 240 )**<br>刑事司法系统（\*属刑事司法实地学校的一部分，共同必修课为 PSYC 240） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
-| **Introduction to Canadian Law**<br>加拿大法律导论 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
+| **Introduction to Canadian Law**<br>加拿大法律入门 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Women and Crime (or CRIM 210 )**<br>女性与犯罪（或 CRIM 210） | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Criminal Law in Canada**<br>加拿大刑法 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |
 | **Introductory Psychology I**<br>心理学入门 I | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://catalogue.coastmountaincollege.ca/programs/criminology-arts) |

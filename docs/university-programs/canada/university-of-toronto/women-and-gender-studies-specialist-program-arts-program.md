@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Women and Gender Studies Specialist Program (Arts Program)**<br>女性与性别研究专精项目（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Honours Seminar**<br>荣誉研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Texts, Theories, Histories**<br>文本、理论、历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Making Knowledge in a World that Matters**<br>在重要的世界中创造知识 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Gender in Popular Culture**<br>流行文化中的性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
@@ -107,17 +107,17 @@ ms.date: 2026-11-11
 | **Screening Race**<br>放映种族 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Contemporary World Cinema**<br>当代世界电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Advanced Study in Cinema as Social and Cultural Practice**<br>作为社会与文化实践的电影高级研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
-| **Introduction to Critical Disability Studies**<br>批判残障研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
+| **Introduction to Critical Disability Studies**<br>批判残障研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Theorizing Settler Colonialism, Capitalism and Race**<br>殖民定居主义、资本主义与种族的理论化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Body Matters: Oppression, Solidarity and Justice**<br>身体问题：压迫、团结与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Equity and Activism in Education**<br>教育中的公平与行动主义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Contemporary Theories in Critical Disability Studies**<br>批判残障研究中的当代理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Culture & World After Hiroshima & Nagasaki**<br>广岛与长崎之后的文化与世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
-| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
+| **Introduction to Colonial and Postcolonial Writing**<br>殖民与后殖民写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Austen and Her Contemporaries**<br>奥斯汀及其同时代人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Labour Geographies**<br>劳动地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
-| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
+| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Soviet History and Film, 1921-1946**<br>苏联历史与电影，1921-1946年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Emancipate Yourselves from Mental Slavery? Historical Narratives of Caribbean Decolonization**<br>从精神奴役中解放自己？加勒比去殖民化的历史叙事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Health Policy in Canada**<br>加拿大卫生政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
@@ -142,7 +142,7 @@ ms.date: 2026-11-11
 | **Theories of Sexuality**<br>性理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Sexuality and Law**<br>性与法律 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Lesbian Studies: Identity/Theory/Culture**<br>女同性恋研究：身份/理论/文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
-| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
+| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Queer Musics**<br>酷儿音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Sociology of Work & Occupations**<br>工作与职业社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |
 | **Social Stratification**<br>社会分层 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe0571) |

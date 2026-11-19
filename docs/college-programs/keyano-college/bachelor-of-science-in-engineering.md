@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Science in Engineering**<br>工程理学学士 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Introductory University Chemistry I**<br>大学化学入门 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
-| **Introduction to the Engineering Profession**<br>工程职业导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
+| **Introduction to the Engineering Profession**<br>工程职业入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Engineering Mechanics I**<br>工程力学 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **English for Engineering Students**<br>工程专业学生英语 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Wave Motion, Optics & Sound**<br>波动、光学与声学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Introductory University Chemistry II**<br>大学化学入门 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Computer Programming for Engineers**<br>工程师计算机编程 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
-| **Introduction to Engineering Design, Communication and Profession**<br>工程设计、沟通与职业导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
+| **Introduction to Engineering Design, Communication and Profession**<br>工程设计、沟通与职业入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |
 | **Applied Linear Algebra**<br>应用线性代数 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/arts-sciences-environment/bachelor-of-science-in-engineering/) |

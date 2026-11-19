@@ -100,7 +100,7 @@ ms.date: 2026-11-11
 | **The Imaginary Jew**<br>想象的犹太人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Literary Imagination and Jewish Identity in Modern Europe**<br>现代欧洲的文学想象与犹太身份认同 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **City of Saints and Sinners: Kyiv through the Centuries**<br>圣徒与罪人之城：历代基辅 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
-| **Introduction to Polish Culture**<br>波兰文化导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
+| **Introduction to Polish Culture**<br>波兰文化入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Film and Ethics: Polish Cinema**<br>电影与伦理：波兰电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Frames of Memory: The European Graphic Novel**<br>记忆的框架：欧洲图像小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Polish Culture in 10 Images**<br>10幅图像中的波兰文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
@@ -122,7 +122,7 @@ ms.date: 2026-11-11
 | **Constructing Space: A History of Russian Art and Architecture**<br>建构空间：俄罗斯艺术与建筑史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Studies in Russian-French Cultural History**<br>俄法文化史研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Cultural History of the Caucasus**<br>高加索文化史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
-| **Introduction to Russian Asia: From Central Asia to Siberia**<br>俄属亚洲导论：从中亚到西伯利亚 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
+| **Introduction to Russian Asia: From Central Asia to Siberia**<br>俄属亚洲入门：从中亚到西伯利亚 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Russian Literature in the Age of Empire**<br>帝国时代的俄罗斯文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Russian Literature Between Tradition and Modernity**<br>传统与现代之间的俄罗斯文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |
 | **Gogol**<br>果戈理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1205) |

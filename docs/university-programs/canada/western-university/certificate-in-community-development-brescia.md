@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN COMMUNITY DEVELOPMENT (Brescia)**<br>社区发展证书（Brescia） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20836&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SOCIOLOGY**<br>社会学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20836&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SOCIOLOGY**<br>社会学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20836&SelectedCalendar=Live&ArchiveID=) |
 | **BRIDGING CLASSROOM & COMMUNITY: AN INTRODUCTION TO COMMUNITY DEVELOPMENT THROUGH SERVICE-LEARNING**<br>连接课堂与社区：通过服务学习认识社区发展 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20836&SelectedCalendar=Live&ArchiveID=) |
 | **COMMUNITY ANALYSIS: RESEARCH AND EVALUATION**<br>社区分析：研究与评估 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20836&SelectedCalendar=Live&ArchiveID=) |
 | **INVESTIGATING THE SOCIAL WORLD: QUALITATIVE RESEARCH**<br>探究社会世界：定性研究 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20836&SelectedCalendar=Live&ArchiveID=) |

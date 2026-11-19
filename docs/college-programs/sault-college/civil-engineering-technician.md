@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Civil Engineering Technician**<br>土木工程技术员 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/civil-engineering-technician) |
-| **Introduction to Computers and AutoCAD**<br>计算机与AutoCAD导论 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/civil-engineering-technician) |
+| **Introduction to Computers and AutoCAD**<br>计算机与AutoCAD入门 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/civil-engineering-technician) |
 | **Construction Safety/Tools**<br>建设安全/工具 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/civil-engineering-technician) |
 | **Blueprints, Specifications & Layout**<br>蓝图、规格与放样 | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/civil-engineering-technician) |
 | **Communications I**<br>沟通 I | (Definition pending) | （定义待补） | [Sault College, n.d.](https://www.saultcollege.ca/programs/engineering-technology/civil-engineering-technician) |

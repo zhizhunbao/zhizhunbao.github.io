@@ -1,10 +1,10 @@
 ---
-title: "3.3.20 Data Science, Major: Bachelor of Arts"
+title: "4.3.20 Data Science, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Data Science, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.20 Data Science, Major: Bachelor of Arts
+# 4.3.20 Data Science, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -16,11 +16,11 @@ ms.date: 2026-11-18
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Principles of Data Science**<br>数据科学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Applied Matrix Theory**<br>应用矩阵理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Optimization: Data Science**<br>优化导论：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Optimization (Accelerated)**<br>优化导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Optimization: Data Science**<br>优化入门：数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Optimization (Accelerated)**<br>优化入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Data Science for Social Impact**<br>社会影响的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Causality, Decision Making and Data Science**<br>因果性、决策与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Advanced Topics in Econometrics**<br>计量经济学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -33,11 +33,11 @@ ms.date: 2026-11-18
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **The Politics of Algorithms**<br>算法的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to AI Safety**<br>AI 安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to AI Safety**<br>AI 安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Human-Centered AI**<br>以人为中心的 AI | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Computers, Ethics, and Public Policy**<br>计算机、伦理与公共政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Ethics, Public Policy, and Technological Change**<br>伦理、公共政策与技术变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Moral Philosophy**<br>道德哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Moral Philosophy**<br>道德哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Justice**<br>正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Governing Artificial Intelligence: Law, Policy, and Institutions**<br>人工智能治理：法律、政策与制度 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Thinking and Making with Data**<br>用数据思考与创造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -47,13 +47,13 @@ ms.date: 2026-11-18
 | **Independent Study**<br>独立学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Applied Artistic and Cultural Analysis**<br>应用艺术与文化分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Experimental and Behavioral Economics**<br>实验与行为经济学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Experimental and Behavioral Economics**<br>实验与行为经济学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **The Science of Politics**<br>政治科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Minds and Machines**<br>心智与机器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Learning and Memory**<br>学习与记忆导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Cognitive Neuroscience**<br>认知神经科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Learning and Memory**<br>学习与记忆入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Cognitive Neuroscience**<br>认知神经科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Data Science Practicum Design**<br>数据科学实践设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Data Science and the Science of Learning**<br>数据科学与学习科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Data Science for Neuroscience**<br>神经科学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -64,16 +64,16 @@ ms.date: 2026-11-18
 | **Experimental Methods**<br>实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Social and Ethical Issues in the Neurosciences**<br>神经科学中的社会与伦理问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Philosophy of Neuroscience**<br>神经科学哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Perception**<br>知觉导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Clinical Psychology: A Neuroscience Perspective**<br>临床心理学导论：神经科学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Perception**<br>知觉入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Clinical Psychology: A Neuroscience Perspective**<br>临床心理学入门：神经科学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Brain and Decision Making**<br>大脑与决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Brain decoding**<br>大脑解码 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Advanced Seminar on Memory**<br>记忆高级研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Earth Systems**<br>地球系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Earth Systems**<br>地球系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Energy and the Environment**<br>能源与环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Economic Analysis I**<br>经济分析 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Earth at a Crossroads: Negotiating the Politics of Global Environmental Governance**<br>十字路口的地球：全球环境治理政治的协商 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **American Politics and Policy: In Defense of Democracy**<br>美国政治与政策：捍卫民主 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Human and Planetary Health**<br>人类与行星健康 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Quantitative Methods for Marine Ecology and Conservation**<br>海洋生态与保护的定量方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -113,7 +113,7 @@ ms.date: 2026-11-18
 | **Democracy, Development, and the Rule of Law**<br>民主、发展与法治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **America: Unequal**<br>美国：不平等 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **The Immigrant Experience in Everyday Life**<br>日常生活中的移民经历 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Urban Studies**<br>城市研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Urban Studies**<br>城市研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Data for Sustainable Development**<br>可持续发展的数据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Economic Development, Microfinance, and Social Networks**<br>经济发展、小额信贷与社会网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Economics of Health Improvement in Developing Countries**<br>发展中国家健康改善的经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -135,18 +135,18 @@ ms.date: 2026-11-18
 | **Political Economy of Latin America**<br>拉丁美洲政治经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Governance and Poverty**<br>治理与贫困 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **China's Political Economy**<br>中国政治经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Teaching and Learning**<br>教与学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Teaching and Learning**<br>教与学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Technology for Learners**<br>学习者技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Educational Opportunity Research Lab**<br>教育机会研究实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Empowering Educators via Language Technology**<br>通过语言技术赋能教育者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Education Data Science: Data Processing**<br>教育数据科学导论：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Education Data Science: Data Processing**<br>教育数据科学入门：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Economics of Education**<br>教育经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Race, Ethnicity, and Linguistic Diversity in Classrooms: Sociocultural Theory and Practices**<br>课堂中的种族、族裔与语言多样性：社会文化理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **How to Learn Mathematics**<br>如何学习数学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Research and Policy on Postsecondary Access**<br>高等教育入学机会的研究与政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Foundational Course in Testing**<br>测试基础课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Re(positioning) Disability: Historical, Cultural, and Social Lenses**<br>重新(定位)残障：历史、文化与社会视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Philosophy of Education**<br>教育哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Philosophy of Education**<br>教育哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **History of Higher Education in the U.S.**<br>美国高等教育史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Education and Society**<br>教育与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **The Future of America's Healthcare Policies**<br>美国医疗保健政策的未来 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -159,7 +159,7 @@ ms.date: 2026-11-18
 | **Economics of Health Equity**<br>健康公平经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Economics of Health and Medical Care**<br>健康与医疗经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Social Epidemiology**<br>社会流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Global Health**<br>全球健康导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Global Health**<br>全球健康入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Global Change and Emerging Infectious Disease**<br>全球变化与新发传染病 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Beyond Health Care: the effects of social policies on health**<br>超越医疗保健：社会政策对健康的影响 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Health Care Systems around the World**<br>世界各地的医疗保健系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -177,10 +177,10 @@ ms.date: 2026-11-18
 | **Personality and Digital Media**<br>人格与数字媒体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Virtual People**<br>虚拟人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Media, Technology, and the Body**<br>媒体、技术与身体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Semantics and Pragmatics**<br>语义学与语用学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Psycholinguistics**<br>心理语言学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Semantics and Pragmatics**<br>语义学与语用学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Psycholinguistics**<br>心理语言学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Language, Gender, & Sexuality**<br>语言、性别与性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Personality and Affective Science**<br>人格与情感科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Personality and Affective Science**<br>人格与情感科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Language Neuroscience Seminar**<br>语言神经科学研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Developmental Science of Social Cognition**<br>社会认知的发展科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Economics of Voting**<br>投票经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -209,7 +209,7 @@ ms.date: 2026-11-18
 | **Ethics on the Edge: Business, Non-Profit Organizations, Government, and Individuals**<br>边缘上的伦理：企业、非营利组织、政府与个人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Sociology of Law**<br>法律社会学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Crime and Punishment in America**<br>美国的犯罪与惩罚 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Social Networks**<br>社交网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Social Networks**<br>社交网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Trust and Safety**<br>信任与安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **News Frontiers**<br>新闻前沿 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Big Local Journalism: a project-based class**<br>大型地方新闻：项目式课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -225,13 +225,13 @@ ms.date: 2026-11-18
 | **The Future of Work: What Will it Mean to Build AI-Augmented Organizations?**<br>工作的未来：构建人工智能增强型组织意味着什么？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **AI Policy Development: Leveraging Social Science to Ensure Responsible Generative AI**<br>AI政策制定：借助社会科学确保负责任的生成式AI | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Media, Culture, and Society**<br>媒体、文化与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Censorship and Propaganda**<br>审查与宣传 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Design**<br>设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Human Values in Design**<br>设计中的人类价值导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Design**<br>设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Human Values in Design**<br>设计中的人类价值入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Market Design**<br>市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Technology Entrepreneurship**<br>科技创业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Product Management**<br>产品管理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Product Management**<br>产品管理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Social Entrepreneurship**<br>社会创业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Organizations: Theory and Management**<br>组织：理论与管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Market Design for Engineers**<br>工程师的市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -251,13 +251,13 @@ ms.date: 2026-11-18
 | **What Is Comparative Literature?**<br>什么是比较文学？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Poetry and Poetics**<br>诗歌与诗学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Narrative and Narrative Theory**<br>叙事与叙事理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Iberia: Cultural Perspectives**<br>伊比利亚导论：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Latin America: Cultural Perspectives**<br>拉丁美洲导论：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Iberia: Cultural Perspectives**<br>伊比利亚入门：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Latin America: Cultural Perspectives**<br>拉丁美洲入门：文化视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Critical Translation Studies**<br>批判翻译研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Survey of Formal Methods**<br>形式化方法概览 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Religion Around the Globe**<br>全球宗教 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Black Geographies**<br>黑人地理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Museum Practice**<br>博物馆实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Museum Practice**<br>博物馆实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Latinx Geographies: Identity, Memory & Place**<br>拉丁裔地理：身份、记忆与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Greek Archaeology: The Worlds the Greeks Made**<br>希腊考古学：希腊人创造的世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **The Archaeological Imagination**<br>考古想象力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -272,21 +272,21 @@ ms.date: 2026-11-18
 | **Doing Gender History**<br>性别史研究实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Doing Historical Memory**<br>历史记忆研究实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Doing Colonial History**<br>殖民史研究实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Philosophy of Science**<br>科学哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Philosophy of Science**<br>科学哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Art Practice Foundation 2D**<br>艺术实践基础 2D | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Art Practice Foundation 3D/4D**<br>艺术实践基础 3D/4D | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Fiction Writing**<br>小说写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Creative Nonfiction**<br>创意非虚构写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Tonal Theory**<br>调性理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Instrumental Composition**<br>器乐作曲导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Tonal Theory**<br>调性理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Instrumental Composition**<br>器乐作曲入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Stage Management Techniques**<br>舞台监督技巧 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Acting I: Fundamentals of Acting**<br>表演 I：表演基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Themes in Black Studies I**<br>黑人研究主题导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Themes in Black Studies I**<br>黑人研究主题入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Theory of Cultural and Social Anthropology**<br>文化与社会人类学理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Art and Power**<br>艺术与权力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **The Greeks**<br>希腊人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Media Processes and Effects**<br>媒体过程与效应 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Feminist and Sexuality Studies Theories Across the Disciplines**<br>跨学科的女性主义与性学理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Media and Mediums**<br>媒体与媒介 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **The Nature of Knowledge: Science and Literature in East Asia**<br>知识的本质：东亚的科学与文学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
@@ -310,7 +310,7 @@ ms.date: 2026-11-18
 | **Drawing with Code**<br>用代码绘图 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Ensemble Sonification of Temporal Data**<br>时间数据的合奏声化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Fire Stories: Narrative in the Digital Age**<br>火的故事：数字时代的叙事 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
-| **Introduction to Creating Electronic Sounds**<br>电子声音创作导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
+| **Introduction to Creating Electronic Sounds**<br>电子声音创作入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Research in Computer-Generated Music**<br>计算机生成音乐研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **Race and Gender in Silicon Valley**<br>硅谷的种族与性别 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |
 | **AI Art, Performance, and Aesthetics**<br>AI艺术、表演与美学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/data-science/bachelor-of-arts) |

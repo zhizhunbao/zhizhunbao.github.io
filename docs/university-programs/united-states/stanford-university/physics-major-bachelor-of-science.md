@@ -1,10 +1,10 @@
 ---
-title: "3.3.55 Physics, Major: Bachelor of Science"
+title: "4.3.55 Physics, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Physics, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.55 Physics, Major: Bachelor of Science
+# 4.3.55 Physics, Major: Bachelor of Science
 
 ## Glossary
 
@@ -17,9 +17,9 @@ ms.date: 2026-11-18
 | **Mechanics and Special Relativity**<br>力学与狭义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Mechanics Laboratory**<br>力学实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Quantum and Thermal Physics**<br>量子与热物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Data Analysis, with Python and Jupyter**<br>数据分析导论：使用 Python 与 Jupyter | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Data Analysis, with Python and Jupyter**<br>数据分析入门：使用 Python 与 Jupyter | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Electricity and Magnetism Using Special Relativity and Vector Calculus**<br>运用狭义相对论与矢量微积分的电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Experimental Practice**<br>实验实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Experimental Practice**<br>实验实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Linear Algebra, Multivariable Calculus, and Modern Applications**<br>线性代数、多元微积分与现代应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Integral Calculus of Several Variables**<br>多变量积分学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications**<br>线性代数、傅里叶方法与现代应用的微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
@@ -35,24 +35,24 @@ ms.date: 2026-11-18
 | **Electrodynamics**<br>电动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Quantum Mechanics II**<br>量子力学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Thermodynamics, Kinetic Theory, and Statistical Mechanics II**<br>热力学、气体动理论与统计力学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Observational Astrophysics**<br>观测天体物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Electronic Techniques for Physics Research Instrumentation**<br>物理研究仪器的电子技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Observational Astrophysics**<br>观测天体物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Electronic Techniques for Physics Research Instrumentation**<br>物理研究仪器的电子技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Experimental Methods in Quantum Physics**<br>量子物理实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Advanced Physics Laboratory: Project**<br>高级物理实验室：项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Computational Physics**<br>计算物理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Statistical Methods in Experimental Physics**<br>实验物理中的统计方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Probability Theory for Statistical Inference**<br>统计推断的概率论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **The Fourier Transform and Its Applications**<br>傅里叶变换及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Mathematical Methods for Physics**<br>物理学的数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Stellar and Galactic Astrophysics**<br>恒星与星系天体物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Cosmology and Extragalactic Astrophysics**<br>宇宙学与河外天体物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Stellar and Galactic Astrophysics**<br>恒星与星系天体物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Cosmology and Extragalactic Astrophysics**<br>宇宙学与河外天体物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Statistical Methods in Astrophysics**<br>天体物理学中的统计方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Formation and Dynamics of Planets**<br>行星的形成与动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **General Relativity**<br>广义相对论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Stochastic and Nonlinear Dynamics**<br>随机与非线性动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Quantitative Evolutionary Dynamics and Genomics**<br>定量进化动力学与基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **A modern explainable AI approach to Theoretical Neuroscience**<br>理论神经科学的现代可解释AI方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
@@ -61,7 +61,7 @@ ms.date: 2026-11-18
 | **Physical Biology**<br>物理生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Advanced Imaging Lab in Biophysics**<br>生物物理高级成像实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Applied Machine Learning**<br>应用机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Continuous Mathematical Methods with an Emphasis on Machine Learning**<br>强调机器学习的连续数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
@@ -73,10 +73,10 @@ ms.date: 2026-11-18
 | **Applied Bayesian Statistics**<br>应用贝叶斯统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: The Atmospheric Circulation**<br>大气、海洋与气候动力学：大气环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation**<br>大气、海洋与气候动力学：海洋环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Physical Oceanography**<br>物理海洋学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Physical Oceanography**<br>物理海洋学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Cloud and Aerosol: From Microphysics to Climate Change**<br>云与气溶胶：从微物理到气候变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Geophysical Fluid Dynamics**<br>地球物理流体动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to the Foundations of Contemporary Geophysics**<br>当代地球物理学基础入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Geophysical Mechanics and Dynamics**<br>地球物理力学与动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Modeling Earth**<br>地球建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Introductory Seismology**<br>地震学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
@@ -85,12 +85,12 @@ ms.date: 2026-11-18
 | **Ice Penetrating Radar**<br>冰穿透雷达 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Journey to the Center of the Earth**<br>地心之旅 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Crustal Deformation**<br>地壳变形 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Teaching and Learning**<br>教与学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Teaching and Learning**<br>教与学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Topics in Cognition and Learning: Enhancing Human Cognition with AI**<br>认知与学习专题：用人工智能增强人类认知 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Learning & Teaching of Science**<br>科学学与教学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Engineering Education and Online Learning**<br>工程教育与在线学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Core Mechanics for Learning**<br>学习的核心机制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
-| **Introduction to Statistical Methods in Education**<br>教育统计方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
+| **Introduction to Statistical Methods in Education**<br>教育统计方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Educational Neuroscience**<br>教育神经科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Advanced Topics in Quantum Mechanics**<br>量子力学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |
 | **Atoms, Fields and Photons**<br>原子、场与光子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/physics/bachelor-of-science) |

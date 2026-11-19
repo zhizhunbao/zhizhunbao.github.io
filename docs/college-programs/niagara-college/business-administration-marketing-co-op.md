@@ -37,7 +37,7 @@ ms.date: 2026-11-08
 | **Completion of additional General Education elective 1 course required**<br>须再完成1门额外通识教育选修课 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-marketing/) |
 | **Co-op Work Term I**<br>合作教育工作学期 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-marketing/) |
 | **Statistical Concepts**<br>统计学概念 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-marketing/) |
-| **Introduction to Business Analytics**<br>商业分析导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-marketing/) |
+| **Introduction to Business Analytics**<br>商业分析入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-marketing/) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-marketing/) |
 | **Retailing**<br>零售 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-marketing/) |
 | **Business Strategy**<br>商业战略 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/business-administration-marketing/) |

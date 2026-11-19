@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Social Service Worker (Fast-Track)**<br>社会服务工作者（快读） | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
-| **Introduction to Social Service Practice**<br>社会服务实践导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
+| **Introduction to Social Service Practice**<br>社会服务实践入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Group Work**<br>团体工作 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Addictions**<br>成瘾 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Social Welfare**<br>社会福利 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Interviewing and Counselling**<br>访谈与咨询 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Family Violence**<br>家庭暴力 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Crisis Intervention**<br>危机干预 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
-| **Introduction to Field Placement**<br>实地实习导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
+| **Introduction to Field Placement**<br>实地实习入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Mental Health and Practical Pharmacology**<br>心理健康与实用药理学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Intervention Strategies**<br>干预策略 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |
 | **Community Resources and Case Management**<br>社区资源与个案管理 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker-fast-track/full-time/kingston) |

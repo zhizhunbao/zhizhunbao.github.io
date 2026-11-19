@@ -17,11 +17,11 @@ ms.date: 2026-11-11
 | **LIVING RELIGIONS**<br>活着的宗教 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
 | **INTRODUCTION TO BIBLICAL GREEK I**<br>圣经希腊语入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
 | **INTRO TO BIBLICAL GREEK II**<br>圣经希腊语入门 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE NEW TESTAMENT**<br>新约导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE NEW TESTAMENT**<br>新约入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
 | **INTERPRETING THE QUR'AN (IN TRANSLATION)**<br>古兰经诠释（译本） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE HEBREW BIBLE**<br>希伯来圣经导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE HEBREW BIBLE**<br>希伯来圣经入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
 | **ADVANCED QURANIC ARABIC**<br>高级古兰经阿拉伯语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BIBLICAL HEBREW**<br>圣经希伯来语导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BIBLICAL HEBREW**<br>圣经希伯来语入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21586&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

@@ -1,10 +1,10 @@
 ---
-title: "3.3.141 Sustainability Science and Practice, Master of Arts"
+title: "4.3.141 Sustainability Science and Practice, Master of Arts"
 description: "University Programs > United States > Stanford University > Sustainability Science and Practice, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.141 Sustainability Science and Practice, Master of Arts
+# 4.3.141 Sustainability Science and Practice, Master of Arts
 
 ## Glossary
 
@@ -14,13 +14,13 @@ ms.date: 2026-11-18
 | **Pursuing Sustainability: Managing Complex Social Environmental Systems**<br>追求可持续性：管理复杂的社会环境系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Case Studies in Leading Change for Sustainability**<br>引领可持续变革案例研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Sustainability Leadership Practicum**<br>可持续性领导力实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Systems Transformation**<br>系统转型导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Systems Transformation**<br>系统转型入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Human Society and Environmental Change**<br>人类社会与环境变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **The Social Science of Sustainability**<br>可持续性的社会科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Biology and Global Change**<br>生物学与全球变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Science for Sustainable Solutions**<br>可持续解决方案的科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Physical Oceanography**<br>物理海洋学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Physical Oceanography**<br>物理海洋学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Hydrologic Processes, Water Resources and Hazards**<br>水文过程、水资源与灾害 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Scientific Basis of Climate Change**<br>气候变化的科学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Biosphere-Atmosphere Interactions**<br>生物圈与大气相互作用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
@@ -82,7 +82,7 @@ ms.date: 2026-11-18
 | **Quest for an Inclusive Clean Energy Economy**<br>追求包容的清洁能源经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Archaeology and Environmental Aesthetics**<br>考古学与环境美学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Why is Climate Change Un-believable? Interdisciplinary Approaches to Environmental Action**<br>为什么气候变化难以置信？环境行动的跨学科方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Entrepreneurship for Sustainability and Social Impact**<br>面向可持续发展与社会影响的创业 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Just Transitions Policy Lab**<br>公正转型政策实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Environmental Justice Colloquium**<br>环境正义研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
@@ -106,7 +106,7 @@ ms.date: 2026-11-18
 | **Big Ideas & Open Opportunities in Climate-Tech Entrepreneurship**<br>气候科技创业中的重大构想与开放机遇 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Principled Entrepreneurial Decisions**<br>有原则的创业决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **New Frontiers and Opportunities in Sustainability**<br>可持续性的新前沿与机遇 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Implementing & Financing a Decarbonized Economy**<br>实施与资助脱碳经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Will Technology Save the World?: Environmental Ethics and Techno-Optimism**<br>技术会拯救世界吗？环境伦理与技术乐观主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Earth System Perspectives II**<br>地球系统视角 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
@@ -142,7 +142,7 @@ ms.date: 2026-11-18
 | **Organizational Behavior: Evidence in Action**<br>组织行为：行动中的证据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Groups and Teams**<br>群体与团队 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Entrepreneurial Thought Leaders' Seminar**<br>创业思想领袖研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Environmental Ethics**<br>环境伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Environmental Ethics**<br>环境伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Regional Politics and Decision Making in Silicon Valley and the Greater Bay Area**<br>硅谷与大湾区的区域政治与决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Human and Planetary Health**<br>人类与行星健康 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Social Entrepreneurship and Innovation Lab (SE Lab) - Human & Planetary Health**<br>社会创业与创新实验室（SE Lab）：人类与地球健康 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
@@ -155,7 +155,7 @@ ms.date: 2026-11-18
 | **Blue Foods for Indonesia: A Human & Planetary Health Action Lab**<br>印度尼西亚的蓝色食物：人类与行星健康行动实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Imagining Adaptive Societies**<br>想象适应性社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Concepts and Analytic Skills for the Social Sector**<br>社会部门的概念与分析技能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **The Urban Economy**<br>城市经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Quantitative Methods for Marine Ecology and Conservation**<br>海洋生态与保护的定量方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
@@ -172,7 +172,7 @@ ms.date: 2026-11-18
 | **Coastal Contaminants**<br>海岸污染物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Engineering Future Electricity Systems**<br>未来电力系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **SmartGrids and Advanced Power Systems Seminar**<br>智能电网与先进电力系统研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Human Exposure Analysis**<br>人体暴露分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Human Exposure Analysis**<br>人体暴露分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **100% Clean, Renewable Energy and Storage for Everything**<br>100%清洁、可再生的能源与储能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Advanced Field Methods in Water, Health and Development**<br>水、健康与发展的高级田野方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Air Pollution Fundamentals**<br>空气污染基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
@@ -207,21 +207,21 @@ ms.date: 2026-11-18
 | **Energy and Environmental Policy Analysis**<br>能源与环境政策分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Advanced Methods in Modeling for Climate and Energy Policy**<br>气候与能源政策高级建模方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Environmental Change and Marine Biodiversity**<br>环境变化与海洋生物多样性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to the Physics of Energy**<br>能源物理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Nuclear Energy**<br>核能导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Introduction to Social Networks**<br>社交网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to the Physics of Energy**<br>能源物理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Nuclear Energy**<br>核能入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Introduction to Social Networks**<br>社交网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Conservation Biology: A Latin American Perspective**<br>保护生物学：拉丁美洲视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **The Science & Practice of Valuing Nature for a Better World**<br>为更美好世界重视自然的科学与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Urban Water**<br>城市水系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Global Project Finance**<br>全球项目融资 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Intro to Urban Sys Engrg**<br>城市系统工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Intro to Urban Sys Engrg**<br>城市系统工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Environmental Governance and Climate Resilience**<br>环境治理与气候韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Big Earth Hackathon Wildland Fire Challenge**<br>大地球黑客松：荒野火灾挑战 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Electricity Economics**<br>电力经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **California Coast: Science, Policy, and Law**<br>加州海岸：科学、政策与法律 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Smart Cities & Communities: Sustainability Design Thinking**<br>智慧城市与社区：可持续性设计思维 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **World Food Economy**<br>世界粮食经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
-| **Rethinking Meat: An Introduction to Alternative Proteins**<br>重新思考肉类：替代蛋白导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
+| **Rethinking Meat: An Introduction to Alternative Proteins**<br>重新思考肉类：替代蛋白入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Urban Agroecology**<br>城市农业生态学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Sustainability Changemakers: UK**<br>可持续性变革者：英国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |
 | **Renewable Energy Transition in Rural America, a Human & Planetary Health Action Lab**<br>美国农村的可再生能源转型，人类与行星健康行动实验室 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/sustainability-science-and-practice/master-of-arts) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Personal Fitness Trainer**<br>私人健身教练 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/personal-fitness-trainer) |
-| **Introduction to Assessment and Counselling**<br>评估与咨询导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/personal-fitness-trainer) |
+| **Introduction to Assessment and Counselling**<br>评估与咨询入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/personal-fitness-trainer) |
 | **Human Anatomy**<br>人体解剖学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/personal-fitness-trainer) |
 | **Foundations for Personal Trainers**<br>私人教练基础 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/personal-fitness-trainer) |
 | **Applied Movement Mechanics**<br>应用运动力学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/personal-fitness-trainer) |

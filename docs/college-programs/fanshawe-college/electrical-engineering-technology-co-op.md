@@ -40,7 +40,7 @@ ms.date: 2026-11-08
 | **Instrumentation**<br>仪表 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3834/courses-next/) |
 | **Co-operative Education Employment Prep**<br>合作教育就业准备 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3834/courses-next/) |
 | **Industrial Robots**<br>工业机器人 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3834/courses-next/) |
-| **Process Control-Intro**<br>过程控制 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3834/courses-next/) |
+| **Process Control-Intro**<br>过程控制 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3834/courses-next/) |
 | **Quality Assurance**<br>质量保证 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3834/courses-next/) |
 | **Capstone 2 Electrical Technology**<br>电气技术毕业项目 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3834/courses-next/) |
 | **Technical Comm for Technologists**<br>技术人员技术沟通 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3834/courses-next/) |

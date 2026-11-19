@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Fix It in Post**<br>后期修复 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/film-and-video-production) |
 | **The Director’s Chair**<br>导演椅 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/film-and-video-production) |
 | **Story Writing for Film I**<br>电影故事写作 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/film-and-video-production) |
-| **Introduction to Film**<br>电影导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/film-and-video-production) |
+| **Introduction to Film**<br>电影入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/film-and-video-production) |
 | **Leadership**<br>领导力 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/film-and-video-production) |
 | **Film Production II**<br>电影制作 II | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/film-and-video-production) |
 | **The Art of the Edit**<br>剪辑艺术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/film-and-video-production) |

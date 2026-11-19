@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Geographic Data Science Major: Human Systems Stream (Science Program)**<br>地理数据科学主修：人类系统方向（理科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Digital Earth**<br>数字地球 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
-| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
+| **Introduction to Physical Geography and Earth Science**<br>自然地理与地球科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Earth System Processes**<br>地球系统过程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Histories of Environmental Change**<br>环境变迁的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Environment, Food and People**<br>环境、食物与人 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
@@ -30,9 +30,9 @@ ms.date: 2026-11-11
 | **Advanced Geographic Information Systems**<br>高级地理信息系统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Environmental Remote Sensing**<br>环境遥感 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **GIS for Public Health**<br>公共卫生 GIS | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
-| **Introduction to Programming in GIS**<br>GIS编程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
+| **Introduction to Programming in GIS**<br>GIS编程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Geovisualization**<br>地理可视化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
-| **Introduction to Urban Data Analytics**<br>城市数据分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
+| **Introduction to Urban Data Analytics**<br>城市数据分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Special Topics in Geographic Information Systems**<br>地理信息系统专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Computational Principles and Methods for Data Science**<br>数据科学的计算原理与方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Statistical Models for Data Science**<br>数据科学统计模型 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
@@ -65,7 +65,7 @@ ms.date: 2026-11-11
 | **Institutions and Governance: Germany in Comparative Perspective**<br>制度与治理：比较视角下的德国 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Infrastructure**<br>基础设施 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Culture, History, and Landscape**<br>文化、历史与景观 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
-| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
+| **Critical Geographies: An Introduction to Radical Ideas on Space, Society and Culture**<br>批判地理学：空间、社会与文化的激进思想入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Field Course in Human Geography**<br>人文地理学野外课程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Special Topics in Human Geography**<br>人文地理学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |
 | **Histories of Geographical Thought**<br>地理思想的历史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj1305a) |

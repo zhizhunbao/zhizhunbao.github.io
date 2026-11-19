@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **AC Circuits**<br>交流电路 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#CIRC-2002) |
 | **Semiconductor Devices**<br>半导体器件 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#DEVC-2004) |
 | **Digital Logic**<br>数字逻辑 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#DIGI-1003) |
-| **Introduction to Microcontrollers and C Programming**<br>微控制器与C语言编程导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#EMBD-1000) |
+| **Introduction to Microcontrollers and C Programming**<br>微控制器与C语言编程入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#EMBD-1000) |
 | **Calculus**<br>微积分 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#MATH-2013) |
 | **Physics 2**<br>物理 2 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#PHYS-2001) |
 | **Co-Op Work Experience**<br>带薪实习工作经历 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#WRKE-1007) |
@@ -51,7 +51,7 @@ ms.date: 2026-11-08
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#PROJ-2000) |
 | **Final Project**<br>期末项目 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#PROJ-3002) |
 | **Power Systems 2**<br>电力系统 2 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#PWRS-2490) |
-| **Introduction to Quality**<br>质量导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#WRKS-1037) |
+| **Introduction to Quality**<br>质量入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ELEGF-DP/PrinterFriendly#WRKS-1037) |
 
 ## Courses
 

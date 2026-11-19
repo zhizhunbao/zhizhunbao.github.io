@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Counselling Applications in Elementary School Contexts**<br>小学情境中的咨询应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/teacher-education-primary-junior-division/) |
 | **Kindergarten and the Early Years**<br>幼儿园与早期教育 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/teacher-education-primary-junior-division/) |
 | **Teaching Writing Across the Curriculum**<br>跨课程写作教学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/teacher-education-primary-junior-division/) |
-| **Introduction to Educational Leadership**<br>教育领导力导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/teacher-education-primary-junior-division/) |
+| **Introduction to Educational Leadership**<br>教育领导力入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/teacher-education-primary-junior-division/) |
 | **Exploring Gender Sexual Diversity through a Critical Lens**<br>以批判视角探索性别与性多样性 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/teacher-education-primary-junior-division/) |
 | **Connecting Math to your World**<br>将数学与你的世界联系起来 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/teacher-education-primary-junior-division/) |
 | **Environmental Education Climate Action**<br>环境教育与气候行动 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/teacher-education-primary-junior-division/) |

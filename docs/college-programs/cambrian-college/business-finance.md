@@ -13,13 +13,13 @@ ms.date: 2026-11-08
 | **Business – Finance**<br>商科 – 金融 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **Business and Financial Math**<br>商业与金融数学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **Accounting Fundamentals I**<br>会计基础 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
-| **Introduction to Business Management**<br>企业管理导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
+| **Introduction to Business Management**<br>企业管理入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **Spreadsheets for Business**<br>商务电子表格 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **One General Education Course**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **AI for Business**<br>商务AI | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
-| **Introduction to Finance**<br>金融导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
+| **Introduction to Finance**<br>金融入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **Business Research Methods**<br>商业研究方法 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **International Management**<br>国际管理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |
 | **CSR and Ethics**<br>CSR与伦理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/business-finance) |

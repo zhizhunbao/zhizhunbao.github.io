@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Library Information Technology**<br>图书馆信息技术 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/library-information-technology) |
 | **Communication to Presentation Skills**<br>从沟通到演示技能 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/library-information-technology) |
 | **Computer Fundamentals**<br>计算机基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/library-information-technology) |
-| **Introduction to Libraries**<br>图书馆导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/library-information-technology) |
+| **Introduction to Libraries**<br>图书馆入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/library-information-technology) |
 | **Bibliographic Description and Access I**<br>书目描述与检索 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/library-information-technology) |
 | **Library Information Services I**<br>图书馆信息服务 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/library-information-technology) |
 | **Library Operations**<br>图书馆运作 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/library-information-technology) |

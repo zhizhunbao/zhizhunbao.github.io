@@ -1,19 +1,19 @@
 ---
-title: "3.2.28 Engineering (Course 16-ENG)"
+title: "4.2.28 Engineering (Course 16-ENG)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Engineering (Course 16-ENG): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.28 Engineering (Course 16-ENG)
+# 4.2.28 Engineering (Course 16-ENG)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Engineering (Course 16-ENG)**<br>工程（Course 16-ENG） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
 | **Unified Engineering: Materials and Structures**<br>统一工程：材料与结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
 | **Unified Engineering: Signals and Systems**<br>统一工程：信号与系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |
 | **Unified Engineering: Fluid Dynamics**<br>统一工程：流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) |

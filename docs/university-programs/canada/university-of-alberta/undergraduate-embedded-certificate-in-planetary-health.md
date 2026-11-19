@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Undergraduate Embedded Certificate in Planetary Health**<br>地球健康本科嵌入式证书 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
-| **Introduction to Public Health**<br>公共卫生导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
-| **Introduction to Environmental Health**<br>环境卫生导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
+| **Introduction to Public Health**<br>公共卫生入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
+| **Introduction to Environmental Health**<br>环境卫生入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
 | **One-Health**<br>同一健康 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
 | **Environmental Risk Assessment and Management**<br>环境风险评估与管理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
 | **Investigation of Foodborne Illness**<br>食源性疾病调查 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
@@ -52,7 +52,7 @@ ms.date: 2026-11-11
 | **Green Chemistry**<br>绿色化学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
 | **Planet Earth**<br>地球 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
 | **The Geology of Your Environment**<br>你所处环境的地质学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
-| **Introduction to Global Change**<br>全球变化导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
+| **Introduction to Global Change**<br>全球变化入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=111018&returnto=20859) |
 
 ## Courses
 

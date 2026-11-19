@@ -14,14 +14,14 @@ ms.date: 2026-11-08
 | **General Biology I**<br>普通生物学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **General Biology II**<br>普通生物学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **Biochemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
-| **Introduction to Genetics**<br>遗传学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
+| **Introduction to Genetics**<br>遗传学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **Evolution and Phylogenetics**<br>进化与系统发育学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **Molecular Genetics**<br>分子遗传学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **General Chemistry I**<br>普通化学 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **General Chemistry II**<br>普通化学 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **Co-operative Work Placement I**<br>带薪实习 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
-| **Introduction to Program Design**<br>课程设计导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
+| **Introduction to Program Design**<br>课程设计入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **Data Base Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **Data Transformations**<br>数据转换 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |
 | **Employment Strategies for Current Labour Markets**<br>当前劳动力市场的就业策略 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/bioinformatics-co-operative-education-diploma-co-op/courses) |

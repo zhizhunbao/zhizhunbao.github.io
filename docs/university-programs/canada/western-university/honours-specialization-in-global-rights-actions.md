@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN GLOBAL RIGHTS ACTIONS**<br>全球权利行动荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO SEXUALITY STUDIES**<br>性学研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO SEXUALITY STUDIES**<br>性学研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
 | **GENDER, JUSTICE, CHANGE**<br>性别、正义、变革 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EQUITY, DIVERSITY, AND HUMAN RIGHTS**<br>公平、多样性与人权导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EQUITY, DIVERSITY, AND HUMAN RIGHTS**<br>公平、多样性与人权入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
 | **RIGHT AND WRONG**<br>对与错 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICAL SCIENCE**<br>政治学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICAL SCIENCE**<br>政治学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOURSES OF GLOBAL STUDIES**<br>全球研究的话语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
 | **THEORISING SUBJECTIVITY AND POWER**<br>主体性与权力的理论化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |
 | **CRITICAL & ANTI-OPPRESSIVE METHODOLOGIES**<br>批判性与反压迫方法论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21550&SelectedCalendar=Live&ArchiveID=) |

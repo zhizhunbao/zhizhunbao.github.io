@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Computer Studies For M.L.T.**<br>M.L.T.计算机研究 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
 | **Culinary Skills & Techniques I**<br>烹饪技能与技术 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
 | **Baking And Pastry Arts I**<br>烘焙与糕点艺术 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
-| **Introduction To Safe Food Handling, (Theory)**<br>食品安全处理导论（理论） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
-| **Introduction To Safe Food Handling, (Practical)**<br>食品安全处理导论（实操） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
+| **Introduction To Safe Food Handling, (Theory)**<br>食品安全处理入门（理论） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
+| **Introduction To Safe Food Handling, (Practical)**<br>食品安全处理入门（实操） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
 | **Culinary Calculations**<br>烹饪计算 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
 | **Understanding Hospitality**<br>理解酒店业 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |
 | **Internship I**<br>实习 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/culinary-management) |

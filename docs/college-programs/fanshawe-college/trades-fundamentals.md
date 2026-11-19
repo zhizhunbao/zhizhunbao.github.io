@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Welding**<br>焊接 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4135/courses-next/) |
 | **Tools & Workplace Techniques**<br>工具与工作场所技术 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4135/courses-next/) |
 | **Tools-Intro**<br>工具 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4135/courses-next/) |
-| **Introduction to AutoCAD**<br>AutoCAD 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4135/courses-next/) |
+| **Introduction to AutoCAD**<br>AutoCAD 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4135/courses-next/) |
 | **Reason & Writing 1-Technology**<br>推理与写作 1 - 技术 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4135/courses-next/) |
 | **Computer Applications**<br>计算机应用 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4135/courses-next/) |
 | **Practical Electronics**<br>实用电子学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/4135/courses-next/) |

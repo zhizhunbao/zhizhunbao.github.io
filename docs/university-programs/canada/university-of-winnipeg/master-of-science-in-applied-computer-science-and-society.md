@@ -36,8 +36,8 @@ ms.date: 2026-11-11
 | **DATA WAREHOUSING**<br>数据仓库 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf#page=1) |
 | **CONCEPTUAL MODELLING**<br>概念建模 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf#page=1) |
 | **COMPUTER SECURITY AND PRIVACY**<br>计算机安全与隐私 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf#page=1) |
-| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf#page=1) |
-| **INTRODUCTION TO DISTRIBUTED SYSTEMS**<br>分布式系统导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf#page=1) |
+| **INTRODUCTION TO MACHINE LEARNING**<br>机器学习入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf#page=1) |
+| **INTRODUCTION TO DISTRIBUTED SYSTEMS**<br>分布式系统入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/graduate-calendar/docs/grad-msc-acs.pdf#page=1) |
 
 ## Courses
 

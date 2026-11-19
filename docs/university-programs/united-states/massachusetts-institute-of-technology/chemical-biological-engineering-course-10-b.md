@@ -1,10 +1,10 @@
 ---
-title: "3.2.14 Chemical-Biological Engineering (Course 10-B)"
+title: "4.2.14 Chemical-Biological Engineering (Course 10-B)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Chemical-Biological Engineering (Course 10-B): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.14 Chemical-Biological Engineering (Course 10-B)
+# 4.2.14 Chemical-Biological Engineering (Course 10-B)
 
 ## Glossary
 
@@ -15,11 +15,11 @@ ms.date: 2026-11-18
 | **Thermodynamics I**<br>热力学 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
 | **Fundamentals of Experimental Molecular Biology**<br>实验分子生物学基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
-| **Introduction to Chemical Engineering**<br>化学工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
+| **Introduction to Chemical Engineering**<br>化学工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
 | **Applied Molecular Biology Laboratory (CI-M)**<br>应用分子生物学实验（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
 | **General Biochemistry**<br>普通生物化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
-| **Introduction to Biological Chemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
+| **Introduction to Biological Chemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
 | **Chemical and Biological Engineering Thermodynamics**<br>化学与生物工程热力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/) |

@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Food Safety, Smart Serve and First Aid**<br>食品安全、Smart Serve 与急救 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/hotel-operations-management-online) |
 | **Professional Service Experience**<br>专业服务体验 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/hotel-operations-management-online) |
 | **Food Theory**<br>食品理论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/hotel-operations-management-online) |
-| **Introduction to Hospitality Operations**<br>酒店运营导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/hotel-operations-management-online) |
+| **Introduction to Hospitality Operations**<br>酒店运营入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/hotel-operations-management-online) |
 | **Math for Hospitality**<br>酒店业数学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/hotel-operations-management-online) |
 | **Restaurant and Bar Service**<br>餐厅与酒吧服务 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/hotel-operations-management-online) |
 | **College Communications 1**<br>学院交流 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/hotel-operations-management-online) |

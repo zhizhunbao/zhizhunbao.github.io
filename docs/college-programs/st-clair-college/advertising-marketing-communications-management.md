@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Intro. To Layout & Design**<br>版面与设计入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advertising-marketing-communications-management) |
 | **The Business Of Advertising**<br>广告业务 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advertising-marketing-communications-management) |
 | **Principles Of Marketing I**<br>市场营销原理 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advertising-marketing-communications-management) |
-| **Introduction To Digital Media**<br>数字媒体导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advertising-marketing-communications-management) |
+| **Introduction To Digital Media**<br>数字媒体入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advertising-marketing-communications-management) |
 | **Contemporary Study Of Aestheticexpression**<br>当代审美表达研究 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advertising-marketing-communications-management) |
 | **Psychology Of Advertising**<br>广告心理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advertising-marketing-communications-management) |
 | **Print Media Estimating & Research**<br>印刷媒体估价与研究 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advertising-marketing-communications-management) |

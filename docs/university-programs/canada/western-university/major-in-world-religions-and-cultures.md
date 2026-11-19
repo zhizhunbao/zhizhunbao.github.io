@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN WORLD RELIGIONS AND CULTURES**<br>世界宗教与文化主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO WORLD RELIGIONS**<br>世界宗教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO WORLD RELIGIONS**<br>世界宗教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
 | **APPROACHES TO THE STUDY OF RELIGION**<br>宗教研究方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO CHRISTIANITY**<br>基督教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUDDHISM**<br>佛教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO HINDUSIM**<br>印度教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ISLAM**<br>伊斯兰教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO JUDAISM**<br>犹太教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CHRISTIANITY**<br>基督教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUDDHISM**<br>佛教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO HINDUSIM**<br>印度教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ISLAM**<br>伊斯兰教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO JUDAISM**<br>犹太教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
 | **BASIC ISSUES IN RELIGION**<br>宗教基本问题 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
 | **MAKING SENSE OF RELIGIOUS DIVERSITY**<br>理解宗教多样性 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |
 | **CATHOLIC EDUCATION IN PRACTICE (1) - SERVICE LEARNING PROJECT**<br>天主教教育实践 (1)：服务学习项目 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20884&SelectedCalendar=Live&ArchiveID=) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Physiology and Mathematics Major (B.Sc.)**<br>生理学与数学主修（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
-| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
+| **Introduction to Physical Molecular and Cell Biology.**<br>物理分子与细胞生物学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
 | **Quantitative Biology Seminar.**<br>定量生物学研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
 | **Calculus 3.**<br>微积分 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
 | **Linear Algebra.**<br>线性代数 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Blood, Gastrointestinal, and Immune Systems Physiology.**<br>血液、胃肠与免疫系统生理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
 | **Experimental Physiology.**<br>实验生理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
 | **Computer Programming for Life Sciences.**<br>生命科学计算机编程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
-| **Introduction to Computer Science.**<br>计算机科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
+| **Introduction to Computer Science.**<br>计算机科学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
 | **Channels, Synapses and Hormones.**<br>通道、突触与激素 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
 | **Integrative Neuroscience.**<br>整合神经科学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |
 | **Advanced Biophysics.**<br>高级生物物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Religion, 3-YEAR MAJOR**<br>宗教学，3 年制主修 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/09/Addendum-Religion-Major-Tables.pdf#page=4) |
 | **What is a Religion?**<br>什么是宗教？ | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/09/Addendum-Religion-Major-Tables.pdf#page=4) |
 | **Jew, Christian, Muslim**<br>犹太教徒、基督徒、穆斯林 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/09/Addendum-Religion-Major-Tables.pdf#page=4) |
-| **Introduction to Religious Ecstasy**<br>宗教狂喜导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/09/Addendum-Religion-Major-Tables.pdf#page=4) |
+| **Introduction to Religious Ecstasy**<br>宗教狂喜入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/09/Addendum-Religion-Major-Tables.pdf#page=4) |
 | **World Mythology**<br>世界神话 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/09/Addendum-Religion-Major-Tables.pdf#page=4) |
 | **Theories and Methods in the Study of Religion**<br>宗教研究的理论与方法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/09/Addendum-Religion-Major-Tables.pdf#page=4) |
 | **Drug-Induced Spirituality**<br>药物诱发的灵性 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/09/Addendum-Religion-Major-Tables.pdf#page=4) |

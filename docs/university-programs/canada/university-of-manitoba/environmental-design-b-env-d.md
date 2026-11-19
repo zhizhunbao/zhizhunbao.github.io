@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Environmental Design, B.Env.D.**<br>环境设计，B.Env.D. | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/architecture/environmental-design-benvd/) |
-| **Introduction to Environmental Design**<br>环境设计导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/architecture/environmental-design-benvd/) |
+| **Introduction to Environmental Design**<br>环境设计入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/architecture/environmental-design-benvd/) |
 | **Visual Literacy**<br>视觉素养 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/architecture/environmental-design-benvd/) |
 | **History of Culture, Ideas and Environment 1**<br>文化、思想与环境史 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/architecture/environmental-design-benvd/) |
 | **History of Culture, Ideas and Environment 2**<br>文化、思想与环境史 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/architecture/environmental-design-benvd/) |

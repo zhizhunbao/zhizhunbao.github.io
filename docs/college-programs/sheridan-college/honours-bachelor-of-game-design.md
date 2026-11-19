@@ -12,9 +12,9 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Honours Bachelor of Game Design**<br>荣誉学士 游戏设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
 | **Game Design 1: Foundations of Game Design**<br>游戏设计1：游戏设计基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
-| **Introduction to Design Thinking**<br>设计思维导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
+| **Introduction to Design Thinking**<br>设计思维入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
 | **Narrative Skills for Game Designers**<br>游戏设计师叙事技能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
-| **Introduction to Game Studies**<br>游戏研究导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
+| **Introduction to Game Studies**<br>游戏研究入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
 | **Programming for Game Designers 1: Fundamentals**<br>游戏设计师编程 1：基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
 | **Composition and Rhetoric**<br>作文与修辞 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |
 | **Game Design 2: Play Design**<br>游戏设计2：玩法设计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-of-game-design) |

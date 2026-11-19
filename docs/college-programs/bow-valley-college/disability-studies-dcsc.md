@@ -13,9 +13,9 @@ ms.date: 2026-11-08
 | **Disability Studies (DCSC)**<br>残障研究 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
 | **Interpersonal Relationships And Communication Skills**<br>人际关系与沟通技能 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
 | **Person Centered Planning**<br>以人为本的规划 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
-| **Introduction To Exceptionalities**<br>特殊儿童导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
+| **Introduction To Exceptionalities**<br>特殊儿童入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
-| **Introduction to Disability Studies**<br>残障研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
+| **Introduction to Disability Studies**<br>残障研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
 | **Disability Work Management and Supported Employment**<br>残障工作管理与支持性就业 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
 | **Mental Health and Disability**<br>精神健康与残障 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |
 | **Positive Behaviour Support**<br>积极行为支持 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/disability-studies-certificate) |

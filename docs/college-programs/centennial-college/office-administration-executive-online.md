@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/office-administration-executive-online) |
 | **Keyboarding 1**<br>键盘输入 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/office-administration-executive-online) |
 | **Office Administration Technology 1**<br>办公室行政技术 1 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/office-administration-executive-online) |
-| **Introduction to Word Processing**<br>文字处理导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/office-administration-executive-online) |
+| **Introduction to Word Processing**<br>文字处理入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/office-administration-executive-online) |
 | **Document Review and Proofreading**<br>文件审阅与校对 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/office-administration-executive-online) |
 | **Financial Procedures**<br>财务程序 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/office-administration-executive-online) |
 | **College Communications 2**<br>学院交流 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/office-administration-executive-online) |

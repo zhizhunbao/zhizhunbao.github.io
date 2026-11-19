@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Engineering (Automation and Robotics Engineering) (Co-op)**<br>工程学士（自动化与机器人工程）（带薪实习） | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/sat/program/bachelor-of-automation-and-robotics/) |
 | **Computer Aided Design**<br>计算机辅助设计 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
-| **Introduction to Programming and Problem Solving**<br>编程与问题解决导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
+| **Introduction to Programming and Problem Solving**<br>编程与问题解决入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
 | **Communications and Academic Writing**<br>沟通与学术写作 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
 | **Logic and Critical Thinking**<br>逻辑与批判性思维 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
 | **Physics II**<br>物理学 II | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
 | **Electrical and Electronic Circuits 1**<br>电气与电子电路 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
 | **Principles of Design**<br>设计原理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |
 | **Engineering Mechanics: Statics**<br>工程力学：静力学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6519X03FWO.pdf) |

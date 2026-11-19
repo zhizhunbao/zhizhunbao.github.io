@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Cell and Tissue Engineering.**<br>细胞与组织工程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-gr-cert/) |
 | **Biomolecular Devices.**<br>生物分子器件 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-gr-cert/) |
 | **Design of Biosensors.**<br>生物传感器设计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-gr-cert/) |
-| **Introduction to Micro and Nano-Bioengineering.**<br>微纳生物工程导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-gr-cert/) |
+| **Introduction to Micro and Nano-Bioengineering.**<br>微纳生物工程入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-gr-cert/) |
 | **Medical Device Development Process.**<br>医疗器械开发流程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/biomedical-sciences/translational-biomedical-engineering-gr-cert/) |
 
 ## Courses

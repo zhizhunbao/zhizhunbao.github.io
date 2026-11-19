@@ -1,27 +1,27 @@
 ---
-title: "3.2.54 Urban Science and Planning with Computer Science (Course 11-6)"
+title: "4.2.54 Urban Science and Planning with Computer Science (Course 11-6)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Urban Science and Planning with Computer Science (Course 11-6): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.54 Urban Science and Planning with Computer Science (Course 11-6)
+# 4.2.54 Urban Science and Planning with Computer Science (Course 11-6)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Urban Science and Planning with Computer Science (Course 11-6)**<br>城市科学与规划结合计算机科学（Course 11-6） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Programming and Computer Science**<br>编程与计算机科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Programming and Computer Science**<br>编程与计算机科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Fundamentals of Programming**<br>编程基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Mathematics for Computer Science**<br>计算机科学数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Algorithms**<br>算法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Algorithms**<br>算法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Modeling with Machine Learning: from Algorithms to Applications**<br>机器学习建模：从算法到应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Machine Learning for Sustainable Systems**<br>可持续系统中的机器学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Urban Design and Development**<br>城市设计与开发导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Spatial Analysis and GIS Laboratory (CI-M)**<br>空间分析与 GIS 实验室导论 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Urban Design and Development**<br>城市设计与开发入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Spatial Analysis and GIS Laboratory (CI-M)**<br>空间分析与 GIS 实验室入门 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Interactive Data Visualization and Society**<br>交互式数据可视化与社会 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Foundations of Information Policy**<br>信息政策基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Making Public Policy**<br>公共政策制定 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
@@ -51,14 +51,14 @@ ms.date: 2026-11-18
 | **Computation Structures**<br>计算结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Constructive Computer Architecture**<br>构造式计算机体系结构 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Networks**<br>网络 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Statistical Data Analysis**<br>统计数据分析导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Statistical Data Analysis**<br>统计数据分析入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Statistics, Computation and Applications**<br>统计、计算及应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **AI, Decision Making, and Society**<br>AI、决策与社会 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Representation, Inference, and Reasoning in AI**<br>AI中的表示、推断与推理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Principles of Autonomy and Decision Making**<br>自主与决策原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Robotics: Science and Systems**<br>机器人学：科学与系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Robotic Manipulation**<br>机器人操作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Computer Vision**<br>计算机视觉导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Computer Vision**<br>计算机视觉入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Computer Graphics**<br>计算机图形学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Computational Design and Fabrication**<br>计算设计与制造 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Design for the Web: Languages and User Interfaces**<br>网页设计：语言与用户界面 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
@@ -77,9 +77,9 @@ ms.date: 2026-11-18
 | **Undergraduate Planning Seminar**<br>本科规划研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **American Urban History**<br>美国城市史 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Mobility Ventures: Driving Innovation in Transportation Systems**<br>出行创业：推动交通系统创新 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Housing, Community, and Economic Development**<br>住房、社区与经济发展导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Housing, Community, and Economic Development**<br>住房、社区与经济发展入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Cybersecurity Clinic**<br>网络安全实务课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
-| **Introduction to Computational Thinking in Cities**<br>城市中的计算思维导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
+| **Introduction to Computational Thinking in Cities**<br>城市中的计算思维入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Leadership in Negotiation: Advanced Applications**<br>谈判中的领导力：高级应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **The Economic Approach to Cities and Environmental Sustainability**<br>城市与环境可持续性的经济学方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |
 | **Applied Data Science for Cities**<br>城市应用数据科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/) |

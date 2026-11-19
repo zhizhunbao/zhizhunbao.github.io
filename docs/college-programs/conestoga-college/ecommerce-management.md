@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **eCommerce Management**<br>电子商务管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/ecommerce-management) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/ecommerce-management/courses-no-intake?id=16156) |
-| **Introduction to eCommerce**<br>电子商务导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/ecommerce-management/courses-no-intake?id=16156) |
+| **Introduction to eCommerce**<br>电子商务入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/ecommerce-management/courses-no-intake?id=16156) |
 | **eCommerce Data, Business Analytics, and Decision-Making**<br>电子商务数据、商业分析与决策 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/ecommerce-management/courses-no-intake?id=16156) |
 | **eCommerce Supply Chain Management**<br>电子商务供应链管理 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/ecommerce-management/courses-no-intake?id=16156) |
 | **eCommerce Platforms and Tools**<br>电子商务平台与工具 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/ecommerce-management/courses-no-intake?id=16156) |

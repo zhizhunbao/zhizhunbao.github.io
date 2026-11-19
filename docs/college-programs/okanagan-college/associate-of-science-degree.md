@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Introductory Physics I**<br>物理学入门 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Introductory Physics II**<br>物理学入门 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Elementary Applied Statistics**<br>初等应用统计学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Introductory Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Principles of Genetics**<br>遗传学原理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
@@ -32,7 +32,7 @@ ms.date: 2026-11-08
 | **Vertebrate Biology**<br>脊椎动物生物学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Physical Chemistry**<br>物理化学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Inorganic Chemistry**<br>无机化学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Analytical Chemistry**<br>分析化学导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Analytical Chemistry**<br>分析化学入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Calculus III**<br>微积分 III | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Linear Algebra I**<br>线性代数 1 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
@@ -41,17 +41,17 @@ ms.date: 2026-11-08
 | **Machine Architecture**<br>机器架构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Computer Data Structures**<br>计算机数据结构 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Principles of Computer Science**<br>计算机科学原理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Discrete Structures**<br>离散结构导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Applied Data Analytics**<br>应用数据分析导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Mathematical Statistics**<br>数理统计导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Discrete Structures**<br>离散结构入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Applied Data Analytics**<br>应用数据分析入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Mathematical Statistics**<br>数理统计入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Calculus IV**<br>微积分 IV | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Linear Algebra II**<br>线性代数 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Mathematical Structures and Proofs**<br>数学结构与证明 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Numerical Methods**<br>数值方法 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Regression Analysis**<br>回归分析 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Grapes and Wines & Other Fermented Beverages**<br>葡萄、葡萄酒及其他发酵饮品导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Grapes and Wines & Other Fermented Beverages**<br>葡萄、葡萄酒及其他发酵饮品入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Elementary Statistics**<br>初等统计学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Computer Fluency**<br>计算机素养 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
@@ -65,8 +65,8 @@ ms.date: 2026-11-08
 | **Astronomy II**<br>天文学 II | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Earth Science**<br>地球科学 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 | **Natural History of the Earth**<br>地球自然史 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Physical Geography: Climate & Vegetation**<br>自然地理学导论：气候与植被 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
-| **Introduction to Physical Geography: Water & Landscapes**<br>自然地理学导论：水与地貌 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Physical Geography: Climate & Vegetation**<br>自然地理学入门：气候与植被 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
+| **Introduction to Physical Geography: Water & Landscapes**<br>自然地理学入门：水与地貌 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/associate-of-science-degree) |
 
 ## Courses
 

@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Employment Relations – General (Arts) – Bachelor of Arts**<br>雇佣关系 - 普通（文科） - 文学学士 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/employment-relations/employment-relations-general-arts-ba/) |
-| **Introduction to Employment Relations**<br>雇佣关系导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/employment-relations/employment-relations-general-arts-ba/) |
+| **Introduction to Employment Relations**<br>雇佣关系入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/employment-relations/employment-relations-general-arts-ba/) |
 | **Workplace Communication and Interpersonal Skills**<br>职场沟通与人际技能 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/employment-relations/employment-relations-general-arts-ba/) |
 | **Labour and Global Development**<br>劳工与全球发展 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/employment-relations/employment-relations-general-arts-ba/) |
 | **Business and Global Development**<br>商业与全球发展 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/employment-relations/employment-relations-general-arts-ba/) |

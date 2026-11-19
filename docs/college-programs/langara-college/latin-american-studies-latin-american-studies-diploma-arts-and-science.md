@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Latin American Studies (latin-american-studies-diploma-arts-and-science)**<br>拉丁美洲研究 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science) |
-| **Introduction to Latin America**<br>拉丁美洲导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
+| **Introduction to Latin America**<br>拉丁美洲入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
 | **The Art of Social Change in Latin America**<br>拉丁美洲的社会变革艺术 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
 | **Trouble in Paradise: Latin American Perspectives on the Environment**<br>天堂的麻烦：拉丁美洲视角下的环境 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
 | **Roots and Rhythms: Celebrating Latin American Arts and Culture**<br>根与节奏：庆祝拉丁美洲艺术与文化 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
@@ -24,7 +24,7 @@ ms.date: 2026-11-08
 | **Geographies of Money and Power**<br>货币与权力地理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
 | **Peace and Conflict in the Modern World**<br>现代世界的和平与冲突 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
 | **Conflict and Conflict Resolution**<br>冲突与冲突解决 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
 | **Politics in the Developing Nations**<br>发展中国家政治 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
 | **International Political Economy**<br>国际政治经济学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |
 | **Beginner's Spanish I**<br>初级西班牙语 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/latin-american-studies-diploma-arts-and-science/courses) |

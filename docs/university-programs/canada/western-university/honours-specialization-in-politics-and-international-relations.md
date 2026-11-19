@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **HONOURS SPECIALIZATION IN POLITICS AND INTERNATIONAL RELATIONS**<br>政治与国际关系荣誉专业方向 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO POLITICAL THEORY**<br>政治理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO POLITICAL THEORY**<br>政治理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
 | **CANADIAN GOVERNMENT AND POLITICS**<br>加拿大政府与政治 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
 | **INTERNATIONAL RELATIONS**<br>国际关系 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
 | **POLITICS OF DEVELOPMENT**<br>发展政治学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
 | **COMPARATIVE POLITICS**<br>比较政治学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO RESEARCH METHODS IN POLITICAL SCIENCE**<br>政治学研究方法导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO RESEARCH METHODS IN POLITICAL SCIENCE**<br>政治学研究方法入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21249&SelectedCalendar=Live&ArchiveID=) |
 
 ## Courses
 

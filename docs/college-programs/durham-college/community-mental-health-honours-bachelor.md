@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Community Mental Health – Honours Bachelor**<br>社区心理健康 - 荣誉学士 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |
 | **Breadth Elective Credit**<br>广度选修学分 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |
-| **Introduction to Mental Health**<br>心理健康导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |
+| **Introduction to Mental Health**<br>心理健康入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |
 | **Healthcare and Legal Systems**<br>医疗与法律体系 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |
 | **Community Mental Health Policy**<br>社区心理健康政策 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |
 | **Counselling Theories and Approaches**<br>咨询理论与方法 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/community-mental-health-honours-bachelor) |

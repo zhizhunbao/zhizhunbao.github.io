@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Applied Business Communication**<br>应用商务沟通 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-financial-services-program-b302) |
 | **Financial Mathematics**<br>金融数学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-financial-services-program-b302) |
 | **Lower Liberal Elective**<br>低年级通识选修课 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-financial-services-program-b302) |
-| **Introduction to Financial Accounting**<br>财务会计导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-financial-services-program-b302) |
+| **Introduction to Financial Accounting**<br>财务会计入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-financial-services-program-b302) |
 | **Macroeconomics:Canada in Global Environment**<br>宏观经济学：全球环境中的加拿大 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-financial-services-program-b302) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-financial-services-program-b302) |
 | **Personal Financial Planning Principles**<br>个人理财规划原则 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/honours-bachelor-of-commerce-financial-services-program-b302) |

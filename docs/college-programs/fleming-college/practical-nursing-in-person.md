@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Nursing Skill Labs I**<br>护理技能实验课 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing) |
 | **PN Clinical I**<br>PN 临床 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing) |
 | **Practical Nursing Theory I**<br>实用护理理论 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing) |
 | **Anatomy & Physiology II**<br>解剖学与生理学 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing) |
 | **Communications II**<br>沟通 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/practical-nursing) |

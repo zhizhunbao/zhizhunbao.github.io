@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Business Math Applications**<br>商业数学应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
-| **Introduction to Document Production**<br>文档制作导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
+| **Introduction to Document Production**<br>文档制作入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Email and Calendaring Software**<br>电子邮件与日历软件 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Computer Presentation Software**<br>计算机演示软件 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Keyboarding Skills - Level 1**<br>键盘输入技能 - 1级 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-08
 | **Executive Field Placement**<br>高管实地实习 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Executive Office Procedures**<br>行政办公室流程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Introductory Human Resources**<br>人力资源入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Keyboarding Skills - Level 3**<br>键盘输入技能 - 3级 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 | **Software Integration**<br>软件集成 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/EXS/courses.html) |
 

@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Intermediate Statistics and Research Design [RM]**<br>中级统计与研究设计 [RM] | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
 | **Contemporary History and Systems in Human Development and Applied Psychology**<br>人类发展与应用心理学的当代历史与体系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
 | **Child and Adolescent Development**<br>儿童与青少年发展 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
-| **Introduction to Applied Statistics [RM]**<br>应用统计学导论 [RM] | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
+| **Introduction to Applied Statistics [RM]**<br>应用统计学入门 [RM] | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development) |
 
 ## Courses
 

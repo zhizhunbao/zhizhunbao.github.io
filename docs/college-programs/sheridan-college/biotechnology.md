@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Intro to Microbiology: Cells, Microscopy and Aseptic Techniques**<br>微生物学入门：细胞、显微镜与无菌技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Essential Communication Skills**<br>基本沟通技能 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
-| **Introduction to Analytical Techniques for Industry**<br>行业分析技术导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
+| **Introduction to Analytical Techniques for Industry**<br>行业分析技术入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Organic Chemistry for Biotechnology: Biomolecules and Reactions**<br>生物技术有机化学：生物分子与反应 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Cultures and Assays in Microbiology**<br>微生物学培养与检测 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Statistical Analysis and Bioinformatics**<br>统计分析与生物信息学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Modern Instrumentation for Industry**<br>现代工业仪表 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Biotech and Medicine: Innovations in Health**<br>生物技术与医学：健康创新 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Biomanufacturing**<br>生物制造 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
-| **Introduction to Control Systems and Automation**<br>控制系统与自动化导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
+| **Introduction to Control Systems and Automation**<br>控制系统与自动化入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Biotech Readiness: Careers and Competencies**<br>生物技术就业准备：职业与能力 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Work-Term and Career Preparation – Diploma**<br>工作学期与职业准备 – 文凭 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |
 | **Co-op Work Term 1 – Diploma**<br>合作教育工作学期1：文凭课程 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/biotechnology) |

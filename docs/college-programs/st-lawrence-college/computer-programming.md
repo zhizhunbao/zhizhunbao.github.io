@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Computer Programming**<br>计算机编程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Technical Communications**<br>技术沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Technical Mathematics**<br>技术数学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
-| **Introduction to C++ Programming**<br>C++编程导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
+| **Introduction to C++ Programming**<br>C++编程入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Networking 1**<br>网络 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Databases 1**<br>数据库 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-08
 | **PHP Programming**<br>PHP编程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Object Oriented Programming using C++**<br>使用C++的面向对象编程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Web Programming 2**<br>Web 编程 2 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
-| **Introduction to Game Programming**<br>游戏编程导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
+| **Introduction to Game Programming**<br>游戏编程入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Intermediate Databases**<br>中级数据库 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Applied Machine Learning with Python**<br>使用Python的应用机器学习 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |
 | **Java Application Development**<br>Java应用开发 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/computer-programming/full-time/cornwall) |

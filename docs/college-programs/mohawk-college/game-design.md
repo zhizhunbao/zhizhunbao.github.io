@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Game Asset Development: 3D GFX**<br>游戏资产开发：3D图形 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=374&prg_ver=26-A) |
 | **Prototyping Foundations**<br>原型制作基础 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=374&prg_ver=26-A) |
 | **General Education Elective 1**<br>通识教育选修课 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=374&prg_ver=26-A) |
-| **Introduction to Level Design**<br>关卡设计导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=374&prg_ver=26-A) |
+| **Introduction to Level Design**<br>关卡设计入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=374&prg_ver=26-A) |
 | **User Experience Design**<br>用户体验设计 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=374&prg_ver=26-A) |
 | **Cinematography Programming**<br>电影摄影编程 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=374&prg_ver=26-A) |
 | **Game Asset Development: Audio**<br>游戏资产开发：音频 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=374&prg_ver=26-A) |

@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Veterinary Office Assistant**<br>兽医办公室助理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/veterinary-office-assistant/) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/veterinary-office-assistant/costs-and-courses/) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/veterinary-office-assistant/costs-and-courses/) |
 | **Office Computer Applications**<br>办公计算机应用 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/veterinary-office-assistant/costs-and-courses/) |
 | **Computer Applications for Veterinary Office Professionals**<br>兽医办公室专业人员计算机应用 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/veterinary-office-assistant/costs-and-courses/) |
 | **Veterinary Terminology and Animal Health Systems**<br>兽医术语与动物卫生体系 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/veterinary-office-assistant/costs-and-courses/) |

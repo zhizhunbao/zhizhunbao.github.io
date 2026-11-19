@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Doctor of Philosophy (PhD) in Accounting**<br>哲学博士（PhD），会计学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BymKgkAAo2) |
-| **Introduction to Accounting Research: will be offered to all PhD students in their first year and will introduce them to important research questions and methods in accounting. This course will stress issues of research design.**<br>会计研究导论：面向所有博士一年级学生开设，将介绍会计领域的重要研究问题与方法。本课程强调研究设计问题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BymKgkAAo2) |
+| **Introduction to Accounting Research: will be offered to all PhD students in their first year and will introduce them to important research questions and methods in accounting. This course will stress issues of research design.**<br>会计研究入门：面向所有博士一年级学生开设，将介绍会计领域的重要研究问题与方法。本课程强调研究设计问题 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BymKgkAAo2) |
 | **Experimental & Field Research in Accounting, and ACC 783 Archival & Analytic Research in Accounting will be offered in alternating Winter terms to first- and second-year students. These courses will introduce research methods used in accounting research.**<br>会计实验与实地研究，以及ACC 783 会计档案与分析研究将在冬季学期轮流向一、二年级学生开设。这些课程将介绍会计研究所用的研究方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BymKgkAAo2) |
 
 ## Courses

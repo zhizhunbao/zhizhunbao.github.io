@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Technologie des systèmes informatiques – cybersécurité et réseautique en mode coopératif**<br>计算机系统技术师级：网络安全与网络（带薪实习模式） | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61768) |
 | **Algorithmes et programmation**<br>算法与编程 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61768) |
 | **Algèbre et trigonométrie**<br>代数与三角学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61768) |
-| **Introduction à la gestion d'un système d'exploitation**<br>操作系统管理导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61768) |
+| **Introduction à la gestion d'un système d'exploitation**<br>操作系统管理入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61768) |
 | **Projet d'introduction aux réseaux**<br>网络入门项目 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61768) |
 | **Architecture de l'ordinateur**<br>计算机体系结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61768) |
 | **Stratégies de communication en milieu professionnel**<br>职场沟通策略 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/61768) |

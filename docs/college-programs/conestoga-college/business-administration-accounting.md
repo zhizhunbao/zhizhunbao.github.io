@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-administration-accounting/courses?id=33770) |
 | **Business Mathematics I**<br>商务数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-administration-accounting/courses?id=33770) |
 | **Marketing I**<br>市场营销 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-administration-accounting/courses?id=33770) |
-| **Introduction to Supply Chain and Operations Management**<br>供应链与运营管理导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-administration-accounting/courses?id=33770) |
+| **Introduction to Supply Chain and Operations Management**<br>供应链与运营管理入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-administration-accounting/courses?id=33770) |
 | **Introductory Financial Accounting II**<br>财务会计入门 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-administration-accounting/courses?id=33770) |
 | **Excel in Accounting**<br>会计中的Excel | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-administration-accounting/courses?id=33770) |
 | **Professional Writing Skills for Business**<br>商务专业写作技能 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/business-administration-accounting/courses?id=33770) |

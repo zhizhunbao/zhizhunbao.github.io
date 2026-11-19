@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Advanced Care Paramedic**<br>高级急救医护员 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/programs/adp2-advanced-care-paramedic) |
-| **Paramedicine-Intro to Adv**<br>急救医学 - 高级导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3553/courses-next/) |
+| **Paramedicine-Intro to Adv**<br>急救医学 - 高级入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3553/courses-next/) |
 | **Anatomy & Physiology for Advanced Care**<br>高级护理解剖学与生理学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3553/courses-next/) |
 | **Pharmacology for Advanced Care**<br>高级护理药理学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3553/courses-next/) |
 | **Patient Assessment**<br>患者评估 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3553/courses-next/) |

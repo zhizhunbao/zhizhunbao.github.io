@@ -24,8 +24,8 @@ ms.date: 2026-11-11
 | **General Chemistry II: Thermodynamics and Kinetics**<br>普通化学 II：热力学与动力学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/geological-sciences-engineering/geology-general-science-bs/) |
 | **General Chemistry**<br>普通化学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/geological-sciences-engineering/geology-general-science-bs/) |
 | **General Physics**<br>普通物理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/geological-sciences-engineering/geology-general-science-bs/) |
-| **Introduction to Physics I**<br>物理导论 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/geological-sciences-engineering/geology-general-science-bs/) |
-| **Introduction to Physics II**<br>物理导论 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/geological-sciences-engineering/geology-general-science-bs/) |
+| **Introduction to Physics I**<br>物理入门 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/geological-sciences-engineering/geology-general-science-bs/) |
+| **Introduction to Physics II**<br>物理入门 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/geological-sciences-engineering/geology-general-science-bs/) |
 | **Basic Physics**<br>基础物理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/geological-sciences-engineering/geology-general-science-bs/) |
 
 ## Courses

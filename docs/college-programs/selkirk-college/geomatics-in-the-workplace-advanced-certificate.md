@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geomatics in the Workplace - Advanced Certificate**<br>工作场所地理空间技术高级证书 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
-| **Introduction to Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
-| **Introduction to Remote Sensing using QGIS**<br>使用QGIS的遥感导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
-| **Introduction to Global Navigation Satellite Systems and Unmanned Aerial Vehicles**<br>全球导航卫星系统与无人机导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
-| **Introduction to LiDAR Remote Sensing and Applications**<br>激光雷达遥感及应用导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
+| **Introduction to Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
+| **Introduction to Remote Sensing using QGIS**<br>使用QGIS的遥感入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
+| **Introduction to Global Navigation Satellite Systems and Unmanned Aerial Vehicles**<br>全球导航卫星系统与无人机入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
+| **Introduction to LiDAR Remote Sensing and Applications**<br>激光雷达遥感及应用入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/geomatics-workplace-advanced-certificate) |
 
 ## Courses
 

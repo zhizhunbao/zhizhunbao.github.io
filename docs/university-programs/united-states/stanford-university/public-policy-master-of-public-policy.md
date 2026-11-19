@@ -1,17 +1,17 @@
 ---
-title: "3.3.135 Public Policy, Master of Public Policy"
+title: "4.3.135 Public Policy, Master of Public Policy"
 description: "University Programs > United States > Stanford University > Public Policy, Master of Public Policy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.135 Public Policy, Master of Public Policy
+# 4.3.135 Public Policy, Master of Public Policy
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Public Policy, Master of Public Policy**<br>公共政策，公共政策硕士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Problem Solving and Decision Making for Public Policy and Social Change**<br>公共政策与社会变革的问题解决与决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Negotiations**<br>谈判 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Decision Modeling and Information**<br>决策建模与信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
@@ -26,7 +26,7 @@ ms.date: 2026-11-18
 | **Natural Resources Law and Policy**<br>自然资源法与政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Climate: Politics, Finance, and Infrastructure**<br>气候：政治、金融与基础设施 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Climate Law and Policy**<br>气候法与政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Law and the Biosciences**<br>法律与生物科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Law and the Biosciences**<br>法律与生物科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **International Human Rights**<br>国际人权 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **International Law**<br>国际法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Applied Econometrics for Public Policy**<br>公共政策应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
@@ -86,31 +86,31 @@ ms.date: 2026-11-18
 | **Research and Policy on Postsecondary Access**<br>高等教育入学机会的研究与政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Global Social Change, Sustainable Development, and Education**<br>全球社会变迁、可持续发展与教育 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Re(positioning) Disability: Historical, Cultural, and Social Lenses**<br>重新(定位)残障：历史、文化与社会视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Data Analysis and Interpretation**<br>数据分析与解释导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Qualitative Research Methods**<br>定性研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Global and Comparative Education**<br>全球与比较教育导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Philosophy of Education**<br>教育哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Data Analysis and Interpretation**<br>数据分析与解释入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Qualitative Research Methods**<br>定性研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Global and Comparative Education**<br>全球与比较教育入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Philosophy of Education**<br>教育哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Education and Inequality: Big Data for Large-Scale Problems**<br>教育与不平等：面向大规模问题的大数据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Psychometrics**<br>心理测量学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Psychometrics**<br>心理测量学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **History of Higher Education in the U.S.**<br>美国高等教育史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Social Network Methods**<br>社会网络方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Nonprofits, Philanthropy & Society**<br>非营利组织、慈善与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Educational Neuroscience**<br>教育神经科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Global Education Policy & Organization**<br>全球教育政策与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Outcomes Analysis**<br>结果分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析导论：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Cost-Effectiveness Analysis: Evaluating Benefits and Costs of Health Interventions**<br>成本效益分析入门：评估卫生干预的收益与成本 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Economics of Health and Medical Care**<br>健康与医疗经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Health Policy Modeling**<br>健康政策建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Health Care Policy and Reform**<br>医疗保健政策与改革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **BioSecurity and Pandemic Resilience**<br>生物安全与大流行韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Bioengineering Research**<br>生物工程研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Bioengineering Research**<br>生物工程研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Water and Sanitation in Low- and Middle-Income Countries**<br>低收入和中等收入国家的水与卫生 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Pathogens and Disinfection**<br>病原体与消毒 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Health and Healthcare Systems in East Asia**<br>东亚的健康与医疗保健系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Development Economics**<br>发展经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Development Economics I**<br>发展经济学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Concepts and Methods in Health Services and Policy Research I**<br>卫生服务与政策研究概念与方法导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Concepts and Methods in Health Services and Policy Research II**<br>卫生服务与政策研究概念与方法导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Concepts and Methods in Health Services and Policy Research I**<br>卫生服务与政策研究概念与方法入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Concepts and Methods in Health Services and Policy Research II**<br>卫生服务与政策研究概念与方法入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Beyond Health Care: the effects of social policies on health**<br>超越医疗保健：社会政策对健康的影响 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Global Health: Scaling Health Technology Innovations in Low Resource Settings**<br>全球健康：在资源匮乏地区推广卫生技术创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Literacy: A Fundamental Human Right Toward Health and Advocacy**<br>读写能力：健康与倡导的基本人权 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
@@ -178,28 +178,28 @@ ms.date: 2026-11-18
 | **Trust and Safety**<br>信任与安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Water Law and Policy**<br>水法与水政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Law and Biosciences: Genetics**<br>法律与生物科学：遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Intellectual Property**<br>知识产权导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Intellectual Property**<br>知识产权入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **The Future of Work: What Will it Mean to Build AI-Augmented Organizations?**<br>工作的未来：构建人工智能增强型组织意味着什么？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **The Ethical Analyst**<br>伦理分析师 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Strategy in Technology-Based Companies**<br>科技型公司的战略 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Ethics, Public Policy, and Technological Change**<br>伦理、公共政策与技术变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Sustainable Transportation: Policy and Planning in Practice**<br>可持续交通：政策与规划实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **The Urban Economy**<br>城市经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Rivers, Streams, and Canals**<br>河流、溪流与运河 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Hydrology**<br>水文学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Hydrology**<br>水文学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Hydrologic Processes, Water Resources and Hazards**<br>水文过程、水资源与灾害 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Air Quality Management**<br>空气质量管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Energy Efficient Buildings**<br>节能建筑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **100% Clean, Renewable Energy and Storage for Everything**<br>100%清洁、可再生的能源与储能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Transport and Mixing in Surface Water Flows**<br>地表水流中的输运与混合 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Environmental Governance and Climate Resilience**<br>环境治理与气候韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Physical Oceanography**<br>物理海洋学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Physical Oceanography**<br>物理海洋学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Environmental Biotechnology**<br>环境生物技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Environmental Health Microbiology Lab**<br>环境健康微生物学实验 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Spatial Planning for Gigascale Renewables & Transmission**<br>吉瓦级可再生能源与输电的空间规划 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Air Pollution Fundamentals**<br>空气污染基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Urban Agroecology**<br>城市农业生态学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Carbon Dioxide and Methane Removal, Utilization, and Sequestration**<br>二氧化碳与甲烷的去除、利用与封存 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Energy and the Environment**<br>能源与环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
@@ -212,12 +212,12 @@ ms.date: 2026-11-18
 | **Thinking in Systems**<br>系统思维 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Energy Systems I: Thermodynamics**<br>能源系统 I：热力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Energy Systems II: Modeling and Advanced Concepts**<br>能源系统 II：建模与高级概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Financial Risk Analytics**<br>金融风险分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Climate Perspectives: Climate Science, Impacts, Carbon Markets, Decarbonization Models and Projects**<br>气候视角：气候科学、影响、碳市场、脱碳模型与项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Urban Studies**<br>城市研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Urban Studies**<br>城市研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Construction Project Assessment and Budgeting: The First 100 Days as a Project Manager**<br>建设项目评估与预算：项目经理的前100天 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Real Estate Development**<br>房地产开发导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Real Estate Development**<br>房地产开发入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Smart Cities & Communities: Sustainability Design Thinking**<br>智慧城市与社区：可持续性设计思维 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **The Psychology of Communication About Politics in America**<br>美国政治传播的心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Environmental Justice in California**<br>加利福尼亚的环境正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
@@ -228,7 +228,7 @@ ms.date: 2026-11-18
 | **Confronting Our Housing and Homelessness Crises: Policy, Politics, and the Law**<br>应对住房与无家可归危机：政策、政治与法律 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Workshop: Inequality**<br>工作坊：不平等 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Crime, Punishment, and Inequality**<br>犯罪、惩罚与不平等 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
-| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计导论：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
+| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计入门：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **The Urban Century: The City in Global Perspective**<br>城市世纪：全球视野下的城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Very Impactful People (V.I.P.): Social Innovation & the Impact Entrepreneur**<br>非常有影响力的人（V.I.P.）：社会创新与影响力创业者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |
 | **Gentrification**<br>士绅化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/public-policy/master-of-public-policy) |

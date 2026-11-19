@@ -44,7 +44,7 @@ ms.date: 2026-11-08
 | **Gaming and Gender: The Digital Divide**<br>游戏与性别：数字鸿沟 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/nursing-honours-bachelor-of-science/) |
 | **Global Citizenship**<br>全球公民意识 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/nursing-honours-bachelor-of-science/) |
 | **Global Perspectives**<br>全球视野 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/nursing-honours-bachelor-of-science/) |
-| **Introduction to World Drama**<br>世界戏剧导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/nursing-honours-bachelor-of-science/) |
+| **Introduction to World Drama**<br>世界戏剧入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/nursing-honours-bachelor-of-science/) |
 | **New Worlds & Alt Realities**<br>新世界与替代现实 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/nursing-honours-bachelor-of-science/) |
 | **Survival: Information Age**<br>生存：信息时代 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/nursing-honours-bachelor-of-science/) |
 | **Interprofessional Collaboration**<br>跨专业协作 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/nursing-honours-bachelor-of-science/) |

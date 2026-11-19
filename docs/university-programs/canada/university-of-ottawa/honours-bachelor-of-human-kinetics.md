@@ -17,20 +17,20 @@ ms.date: 2026-11-11
 | **Functional Anatomy of Movement**<br>运动功能解剖学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Physical Activity in a Global Health Perspective**<br>全球健康视角下的身体活动 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Sociology of Sport and Physical Activity in Canada**<br>加拿大体育与体育活动社会学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
-| **Introduction to Leisure Studies**<br>休闲研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
+| **Introduction to Leisure Studies**<br>休闲研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Intervention Theories**<br>干预理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Motor Control and Learning**<br>运动控制与学习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Administration of Leisure, Sport and Physical Activity Services**<br>休闲、体育与身体活动服务管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
-| **Introduction to Sport and Exercise Psychology**<br>运动与锻炼心理学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
+| **Introduction to Sport and Exercise Psychology**<br>运动与锻炼心理学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Research Methods in Human Kinetics**<br>人体运动学研究方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **History of Sport and Physical Activity in Canada**<br>加拿大体育与身体活动史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Physiology of Physical Activity**<br>体育活动生理学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
-| **Introduction to Applied Biomechanics**<br>应用生物力学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
+| **Introduction to Applied Biomechanics**<br>应用生物力学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Recreation, Sport and Community Development**<br>休闲娱乐、体育与社区发展 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Ethics in Sport, Physical Activity and Health in Canada**<br>加拿大体育、身体活动与健康中的伦理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Measurement and Data Analysis in Human Kinetics**<br>人体运动学中的测量与数据分析 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
-| **Introduction to Psychology: Foundations**<br>心理学导论：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
-| **Introduction to Psychology: Applications**<br>心理学导论：应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
+| **Introduction to Psychology: Foundations**<br>心理学入门：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
+| **Introduction to Psychology: Applications**<br>心理学入门：应用 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Principles of Sociology**<br>社会学原理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Exploring Diversity in Canada**<br>探索加拿大的多元性 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |
 | **Reasoning and Critical Thinking**<br>推理与批判性思维 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bachelor-human-kinetics/) |

@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3605/courses-next/) |
 | **Strategies for Success**<br>成功策略 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3605/courses-next/) |
 | **Reason & Writing Business 1**<br>商务推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3605/courses-next/) |
-| **Introduction to Business Processes**<br>业务流程导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3605/courses-next/) |
+| **Introduction to Business Processes**<br>业务流程入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3605/courses-next/) |
 | **Co-operative Education Employment Prep**<br>合作教育就业准备 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3605/courses-next/) |
 | **Applied Computer App's for Accounting 1**<br>会计应用计算机软件 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3605/courses-next/) |
 | **Principles of Accounting 2**<br>会计原理 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3605/courses-next/) |

@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Anatomy & Physiology**<br>解剖与生理学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/pswm) |
 | **Clinical Skills Theory**<br>临床技能理论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/pswm) |
 | **Clinical Skills Lab**<br>临床技能实验 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/pswm) |
-| **Introduction to Mathematics**<br>数学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/pswm) |
+| **Introduction to Mathematics**<br>数学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/pswm) |
 | **Palliative Care**<br>姑息治疗 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/pswm) |
 | **Ongoing Health Conditions II**<br>持续性健康状况 II | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/pswm) |
 | **Career Development**<br>职业发展 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/pswm) |

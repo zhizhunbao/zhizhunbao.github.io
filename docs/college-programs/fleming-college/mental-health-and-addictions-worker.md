@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Mental Health & Recovery**<br>心理健康与康复 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/mental-health-and-addictions-worker) |
 | **Power, Privilege and Oppression**<br>权力、特权与压迫 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/mental-health-and-addictions-worker) |
 | **Across the Lifespan**<br>贯穿生命全程 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/mental-health-and-addictions-worker) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/mental-health-and-addictions-worker) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/mental-health-and-addictions-worker) |
 | **Case Management and Service Coordination**<br>案例管理与服务协调 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/mental-health-and-addictions-worker) |
 | **Counselling Interventions II**<br>咨询干预 II | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/mental-health-and-addictions-worker) |
 | **Documentation and Record Keeping in Human Services**<br>人类服务中的文档与记录保存 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/mental-health-and-addictions-worker) |

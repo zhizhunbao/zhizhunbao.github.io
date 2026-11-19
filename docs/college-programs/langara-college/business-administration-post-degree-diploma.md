@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Professional Business Practice**<br>职业商务实务 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-administration-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Accounting for Managers**<br>管理会计（面向管理者） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-administration-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-administration-post-degree-diploma-post-degree-diploma-we/courses) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-administration-post-degree-diploma-post-degree-diploma-we/courses) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-administration-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-administration-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Negotiation Skills**<br>谈判技巧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-administration-post-degree-diploma-post-degree-diploma-we/courses) |
 | **Operations Management**<br>运营管理 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/business-administration-post-degree-diploma-post-degree-diploma-we/courses) |

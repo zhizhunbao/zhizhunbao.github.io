@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Tools for Cultural Analysis**<br>文化分析工具 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Spain in its literature, (20th-21st centuries)**<br>西班牙文学中的西班牙（20-21 世纪） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Latin America in its literature, 20th-21st centuries**<br>20 至 21 世纪文学中的拉丁美洲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Hispanic Linguistics**<br>西语语言学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Hispanic Linguistics**<br>西语语言学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **World Cultures in Contact**<br>世界文化的接触 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **World Languages in Contact**<br>接触中的世界语言 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **World and Transcultural Literatures**<br>世界与跨文化文学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
@@ -47,8 +47,8 @@ ms.date: 2026-11-11
 | **Advanced German I**<br>高级德语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Advanced German II**<br>高级德语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **German Literature and Culture**<br>德国文学与文化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to the Yiddish Language and Culture I**<br>意第绪语言与文化导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to the Yiddish Language and Culture II**<br>意第绪语言与文化导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to the Yiddish Language and Culture I**<br>意第绪语言与文化入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to the Yiddish Language and Culture II**<br>意第绪语言与文化入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Yiddish Culture, Literature, and Film**<br>意第绪文化、文学与电影 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Advanced German III**<br>高级德语 III | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Advanced German IV**<br>高级德语 IV | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
@@ -62,7 +62,7 @@ ms.date: 2026-11-11
 | **Intermediate Arabic II**<br>中级阿拉伯语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Arabic Cinema and Visual Media**<br>阿拉伯电影与视觉媒体 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Special Topics in Arab Canadian Studies**<br>阿拉伯裔加拿大研究专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Arabic Literature**<br>阿拉伯文学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Arabic Literature**<br>阿拉伯文学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Special Topics in Arabic Literature**<br>阿拉伯文学专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Advanced Arabic I**<br>高级阿拉伯语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Advanced Arabic II**<br>高级阿拉伯语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
@@ -75,16 +75,16 @@ ms.date: 2026-11-11
 | **Islam**<br>伊斯兰教 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Selected Topics in East Asian Culture**<br>东亚文化专题选讲 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **East Asian Cinemas**<br>东亚电影 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Chinese I**<br>汉语导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Chinese II**<br>汉语导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Chinese Culture**<br>中国文化导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Chinese I**<br>汉语入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Chinese II**<br>汉语入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Chinese Culture**<br>中国文化入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Intermediate Chinese I**<br>中级汉语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Intermediate Chinese II**<br>中级汉语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Advanced Chinese I**<br>高级汉语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Advanced Chinese II**<br>高级汉语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Japanese I**<br>日语导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Japanese II**<br>日语导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Japanese Culture**<br>日本文化导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Japanese I**<br>日语入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Japanese II**<br>日语入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Japanese Culture**<br>日本文化入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Intermediate Japanese I**<br>中级日语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Intermediate Japanese II**<br>中级日语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Advanced Japanese I**<br>高级日语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
@@ -95,9 +95,9 @@ ms.date: 2026-11-11
 | **Irish Language and Culture II**<br>爱尔兰语言与文化 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Welsh Language and Culture I**<br>威尔士语言与文化 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Welsh Language and Culture II**<br>威尔士语言与文化 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to the Celtic World**<br>凯尔特世界导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction à la langue et à la culture bretonnes I**<br>布列塔尼语言与文化导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction à la langue et à la culture bretonnes II**<br>布列塔尼语言与文化导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to the Celtic World**<br>凯尔特世界入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction à la langue et à la culture bretonnes I**<br>布列塔尼语言与文化入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction à la langue et à la culture bretonnes II**<br>布列塔尼语言与文化入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **The Music of the Celtic Peoples**<br>凯尔特民族的音乐 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Early Celtic Literature**<br>早期凯尔特文学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Medieval Celtic Literature**<br>中世纪凯尔特文学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
@@ -133,8 +133,8 @@ ms.date: 2026-11-11
 | **Selected Topics in Latin American Studies: Cultural Issues**<br>拉丁美洲研究专题选讲：文化议题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Anthropology of Latin America and the Caribbean**<br>拉丁美洲与加勒比人类学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **International Development Issues in Latin America**<br>拉丁美洲的国际发展问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to International Economics**<br>国际经济学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Spanish Culture**<br>西班牙文化导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to International Economics**<br>国际经济学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Spanish Culture**<br>西班牙文化入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Elementary Spanish I**<br>初级西班牙语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Elementary Spanish II**<br>初级西班牙语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Special Topics in Spanish and Latin American Culture**<br>西班牙与拉丁美洲文化专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
@@ -154,7 +154,7 @@ ms.date: 2026-11-11
 | **Selected Topics in Latin American History (LCM 3101 - World Cultures in Contact)**<br>拉丁美洲历史专题选讲（LCM 3101：世界文化的接触） | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Elementary Russian I**<br>初级俄语 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Elementary Russian II**<br>初级俄语 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
-| **Introduction to Russian Culture**<br>俄罗斯文化导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
+| **Introduction to Russian Culture**<br>俄罗斯文化入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **The Age of Dostoevsky and Tolstoy**<br>陀思妥耶夫斯基与托尔斯泰的时代 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Contemporary Russian Culture**<br>当代俄罗斯文化 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |
 | **Russian Cinema**<br>俄罗斯电影 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-world-language-culture/) |

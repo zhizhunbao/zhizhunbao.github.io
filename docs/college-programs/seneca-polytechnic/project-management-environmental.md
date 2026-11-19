@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Project Management – Environmental**<br>项目管理：环境 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PME.html) |
 | **Applied Communications for Business and Industry**<br>商业与行业应用沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PME/courses.html) |
 | **The Sustainability Matrix**<br>可持续性矩阵 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PME/courses.html) |
-| **Introduction to Internship**<br>实习导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PME/courses.html) |
+| **Introduction to Internship**<br>实习入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PME/courses.html) |
 | **Business Principles**<br>商业原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PME/courses.html) |
 | **Project Management Fundamentals**<br>项目管理基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PME/courses.html) |
 | **Planning and Controlling the Baseline**<br>基线规划与控制 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/PME/courses.html) |

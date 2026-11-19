@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Environmental Legislation**<br>环境法规 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ohst) |
 | **Disability Management**<br>残障管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ohst) |
 | **Health & Wellness**<br>健康与保健 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ohst) |
-| **Introduction to Process Safety**<br>过程安全导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ohst) |
+| **Introduction to Process Safety**<br>过程安全入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ohst) |
 | **Red Cross Standard First Aid & CPR**<br>红十字标准急救与心肺复苏 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ohst) |
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ohst) |
 | **Program Design, Development & Implementation**<br>项目设计、开发与实施 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/international/ohst) |

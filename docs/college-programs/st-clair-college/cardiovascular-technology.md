@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Intro To Electrocardiography**<br>心电图入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Applied Health Science Statistics**<br>应用健康科学统计学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
-| **Introduction To Patient Care**<br>患者护理导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
+| **Introduction To Patient Care**<br>患者护理入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Ecg Interpretation**<br>心电图判读 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Cardiac Anatomy & Physiology**<br>心脏解剖学与生理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Stress Testing**<br>压力测试 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Cardiovascular Pharmacology**<br>心血管药理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Cardiac Pathophysiology**<br>心脏病理生理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Holter & Ambulatory Monitoring**<br>霍尔特与动态监测 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
-| **Introduction To Cardiovascular Devices**<br>心血管器械导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
+| **Introduction To Cardiovascular Devices**<br>心血管器械入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Cardiac Rehabilitation**<br>心脏康复 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Advanced Ecg Interpretation**<br>高级心电图解读 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |
 | **Cardiac Devices II**<br>心脏设备 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/cardiovascular-technology) |

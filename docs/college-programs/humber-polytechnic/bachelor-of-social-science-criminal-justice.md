@@ -13,21 +13,21 @@ ms.date: 2026-11-08
 | **Bachelor of Social Science - Criminal Justice**<br>社会科学学士 - 刑事司法 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Academic Communications**<br>学术交流 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Government and Social Welfare**<br>政府与社会福利 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Principles of Sociology**<br>社会学原理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
-| **Introduction to the Canadian Criminal Justice System**<br>加拿大刑事司法系统导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
+| **Introduction to the Canadian Criminal Justice System**<br>加拿大刑事司法系统入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Ethics and Moral Theory**<br>伦理与道德理论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Counselling: Theory and Practice**<br>咨询：理论与实践 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Group Dynamics**<br>团体动力学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Human Rights, Diversity and Social Inclusion**<br>人权、多样性与社会包容 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
-| **Introduction to Criminology**<br>犯罪学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
+| **Introduction to Criminology**<br>犯罪学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Issues in Community and Institutional Corrections: Historic to Present**<br>社区与机构矫正议题：从历史到现在 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Addictions and Mental Health**<br>成瘾与心理健康 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Conflict Management**<br>冲突管理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Contemporary Policing**<br>当代警务 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Victimology**<br>被害人学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
-| **Introduction to the Practicum Experience**<br>实习经历导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
+| **Introduction to the Practicum Experience**<br>实习经历入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Gender in the Criminal Justice System**<br>刑事司法系统中的性别 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Criminal Law and Procedure**<br>刑法与程序 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |
 | **Indigenous Peoples and the Criminal Justice System: Examining Historical and Contemporary Experience**<br>原住民与刑事司法系统：历史与当代经历考察 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-social-science-criminal-justice) |

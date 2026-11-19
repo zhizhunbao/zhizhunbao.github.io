@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sociology Specialist (Arts Program)**<br>社会学专精（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
-| **Introduction to Sociology I: Sociological Perspectives**<br>社会学导论 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
-| **Introduction to Sociology II: Sociological Inquiries**<br>社会学导论 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
+| **Introduction to Sociology I: Sociological Perspectives**<br>社会学入门 I：社会学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
+| **Introduction to Sociology II: Sociological Inquiries**<br>社会学入门 II：社会学探究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
 | **Classical Sociological Theory**<br>古典社会学理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
-| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
-| **Introduction to Qualitative Methods in Sociology**<br>社会学质性方法导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
+| **Introduction to Quantitative Methods in Sociology**<br>社会学定量方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
+| **Introduction to Qualitative Methods in Sociology**<br>社会学质性方法入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
 | **Contemporary Sociological Theory**<br>当代社会学理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
 | **Intermediate Quantitative Methods in Sociology**<br>社会学中级定量方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
 | **Intermediate Qualitative Methods in Sociology**<br>社会学中级定性方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
@@ -41,8 +41,7 @@ ms.date: 2026-11-11
 |  |  |  | 6. An additional 3.0 credits in Sociology at the 200 or 300-level (1.0 of which must be taken at the 300-level, i.e., 2.0 credits at the 200 or 300-level and 1.0 at the 300-level). |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
 |  |  |  | Students in this program have the option to complete the Arts & Science Internship Program (ASIP) stream. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
 |  |  |  | NOTES: |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
-|  |  |  | 1. Students cannot take more than 1.0 credit at the 400-level without written permission from the Undergraduate Program Administrator. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
-|  |  |  | 2. Students cannot take more than 2.0 credits of the program-only courses without written permission from the Undergraduate Program Administrator. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
+|  | 1. Students cannot take more than 1.0 credit at the 400-level without written permission from the Undergraduate Program Administrator. |  | 2. Students cannot take more than 2.0 credits of the program-only courses without written permission from the Undergraduate Program Administrator. |  | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asspe1013) |
 
 ## References
 

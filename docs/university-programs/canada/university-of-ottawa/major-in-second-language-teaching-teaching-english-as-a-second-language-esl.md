@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Second Language Teaching - Teaching English as a Second Language (ESL)**<br>第二语言教学－英语作为第二语言教学（ESL）主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
-| **Introduction to Second Language Teaching I**<br>第二语言教学导论 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
-| **Introduction to Second Language Teaching II**<br>第二语言教学导论 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
+| **Introduction to Second Language Teaching I**<br>第二语言教学入门 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
+| **Introduction to Second Language Teaching II**<br>第二语言教学入门 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
 | **Listening and Reading in a Second Language**<br>第二语言听力与阅读 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
 | **Teaching Grammar**<br>语法教学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |
 | **Speaking and Writing in a Second Language**<br>第二语言的口语与写作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-second-language-teaching-english-second-language/) |

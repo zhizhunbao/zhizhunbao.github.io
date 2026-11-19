@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Principles of Introductory Financial Accounting I and II**<br>基础财务会计原理 1 与 2 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdaccs) |
 | **Principles of Accounting I and Principles of Accounting II**<br>会计原理 1 及会计原理 2 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdaccs) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdaccs) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdaccs) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdaccs) |
 | **Introductory Managerial Accounting**<br>管理会计入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdaccs) |
 | **Intermediate Accounting I**<br>中级会计 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdaccs) |
 | **Intermediate Accounting II**<br>中级会计 II | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pdaccs) |

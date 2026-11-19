@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Medical Esthetics & Advanced Skin Care Therapies**<br>医学美容与高级皮肤护理疗法 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/meas) |
 | **Self Care & Energy Work for Estheticians**<br>美容师自我护理与能量疗法 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/meas) |
-| **Introduction to Laser & Light Therapy I**<br>激光与光疗导论 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/meas) |
+| **Introduction to Laser & Light Therapy I**<br>激光与光疗入门 I | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/meas) |
 | **Microdermabrasion, Dermaplaning & Microneedling**<br>微晶磨皮、皮肤刨削与微针 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/meas) |
 | **Microblading & Advanced Brow Enhancements**<br>微刀绣眉与高级眉部美化 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/meas) |
 | **Facial Volumizing & Contouring**<br>面部丰盈与塑形 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/meas) |

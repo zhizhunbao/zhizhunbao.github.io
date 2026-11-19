@@ -18,7 +18,7 @@ ms.date: 2026-11-11
 | **Special Topics in Performance Practice**<br>表演实践专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Analysis and Performance: Music of the 18th and 19th Centuries**<br>分析与演奏：18世纪与19世纪音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Analysis and Performance: Music of the 20th and 21st Centuries**<br>分析与演奏：20世纪与21世纪音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
-| **Introduction to Music Analysis**<br>音乐分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
+| **Introduction to Music Analysis**<br>音乐分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Schola Cantorum I**<br>歌唱学校合唱团 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Schola Cantorum II**<br>歌唱学校合唱团 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |
 | **Collegium Musicum I**<br>音乐学会 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Music) |

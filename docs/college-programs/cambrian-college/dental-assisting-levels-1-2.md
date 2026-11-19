@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Dental Assisting Levels 1 & 2**<br>牙科助理第1级和第2级 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/dental-assisting-levels-1-2) |
 | **Anatomy Physiology and Oral Science**<br>解剖学、生理学与口腔科学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/dental-assisting-levels-1-2) |
 | **Health Promotion**<br>健康促进 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/dental-assisting-levels-1-2) |
-| **Introduction to Dental Assisting**<br>牙科助理导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/dental-assisting-levels-1-2) |
+| **Introduction to Dental Assisting**<br>牙科助理入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/dental-assisting-levels-1-2) |
 | **Dental Office Management**<br>牙科诊所管理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/dental-assisting-levels-1-2) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/dental-assisting-levels-1-2) |
 | **Pharmacology**<br>药理学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/dental-assisting-levels-1-2) |

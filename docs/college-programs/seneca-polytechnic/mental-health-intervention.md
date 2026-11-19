@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mental Health Intervention**<br>心理健康干预 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MHI.html) |
-| **Introduction to Mental Health**<br>心理健康导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MHI/courses.html) |
+| **Introduction to Mental Health**<br>心理健康入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MHI/courses.html) |
 | **Diversity: Building Resilience**<br>多元性：培养韧性 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MHI/courses.html) |
 | **Psychosocial Health**<br>心理社会健康 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MHI/courses.html) |
 | **Community Outreach**<br>社区外展 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/MHI/courses.html) |

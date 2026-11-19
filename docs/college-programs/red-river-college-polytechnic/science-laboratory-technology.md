@@ -16,9 +16,9 @@ ms.date: 2026-11-08
 | **Instrumentation and Equipment**<br>仪表与设备 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#CBST-1016) |
 | **Measurements, Calculations and Physics Principles**<br>测量、计算与物理原理 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#CBST-1018) |
 | **Communication Strategies**<br>沟通策略 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#COMM-1173) |
-| **Introduction to Quality and Compliance**<br>质量与合规导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#QUAL-1003) |
+| **Introduction to Quality and Compliance**<br>质量与合规入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#QUAL-1003) |
 | **Applied Biochemistry**<br>应用生物化学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#BIOL-1004) |
-| **Intro Instrumental Analysis**<br>仪器分析导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#CBST-1036) |
+| **Intro Instrumental Analysis**<br>仪器分析入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#CBST-1036) |
 | **Organic Chemistry**<br>有机化学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#CHEM-1006) |
 | **Applied Chemistry Techniques**<br>应用化学技术 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#CHEM-1008) |
 | **Communication for Life Sciences**<br>生命科学沟通 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SLCTF-DP/PrinterFriendly#COMM-2171) |

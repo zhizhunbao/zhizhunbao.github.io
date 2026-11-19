@@ -1,17 +1,17 @@
 ---
-title: "3.3.145 Anthropology, Doctor of Philosophy"
+title: "4.3.145 Anthropology, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Anthropology, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.145 Anthropology, Doctor of Philosophy
+# 4.3.145 Anthropology, Doctor of Philosophy
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Anthropology, Doctor of Philosophy**<br>人类学，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
-| **Introduction to Graduate Studies**<br>研究生学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
+| **Introduction to Graduate Studies**<br>研究生学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
 | **Anthropology Colloquium**<br>人类学研讨会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
 | **Political Anthropology**<br>政治人类学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
 | **Culture as Commodity**<br>作为商品的文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-18
 | **The Archive: Theory, Form, Practice**<br>档案：理论、形式与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
 | **Environment & Power**<br>环境与权力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
 | **The Universal and the Vernacular. The Global Life of Concepts and Social Forms**<br>普遍与方言：概念与社会形式的全球生命 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
-| **Introduction to Archaeological Thought**<br>考古思想导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
+| **Introduction to Archaeological Thought**<br>考古思想入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
 | **Contemporary Debates in Archaeological Thought**<br>考古思想的当代争论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
 | **Archaeological Methods**<br>考古方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |
 | **Reading Theory Through Ethnography**<br>通过民族志阅读理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/anthropology/doctor-of-philosophy) |

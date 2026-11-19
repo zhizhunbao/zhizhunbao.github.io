@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Advanced Manufacturing**<br>先进制造 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/DADVF-DG) |
 | **Business Intelligence**<br>商业智能 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/DADVF-DG/PrinterFriendly#BUSA-3010) |
-| **Introduction to Advanced Manufacturing**<br>先进制造导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/DADVF-DG/PrinterFriendly#MANU-3040) |
+| **Introduction to Advanced Manufacturing**<br>先进制造入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/DADVF-DG/PrinterFriendly#MANU-3040) |
 | **Research Methodologies**<br>研究方法论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/DADVF-DG/PrinterFriendly#RESR-3001) |
 | **Writing for Academic Inquiry**<br>学术探究写作 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/DADVF-DG/PrinterFriendly#WSIE-3001) |
 | **Industry 4.0 Technologies**<br>工业 4.0 技术 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/DADVF-DG/PrinterFriendly#MANU-3031) |

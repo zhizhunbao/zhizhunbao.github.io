@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Public Health Sciences MPH**<br>公共卫生科学（MPH） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
-| **Introduction to Public Health Sciences**<br>公共卫生科学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
-| **Introduction to Quantitative Research**<br>定量研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
+| **Introduction to Public Health Sciences**<br>公共卫生科学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
+| **Introduction to Quantitative Research**<br>定量研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **Epidemiologic Methods I**<br>流行病学方法 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **Health Promotion 1**<br>健康促进 1 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **Social Determinants of Health**<br>健康的社会决定因素 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
-| **Introduction to Qualitative Research**<br>质性研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
+| **Introduction to Qualitative Research**<br>质性研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **Public Health Policy**<br>公共卫生政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **African/Black Health I: Sociohistorical Overview of Black Health**<br>非洲裔/黑人健康 I：黑人健康的社会历史概述 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |
 | **African/Black Health II: Chronic Diseases; Sexual and Reproductive Health: Across the Lifespan**<br>非洲裔/黑人健康 II：慢性病；全生命周期的性与生殖健康 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences) |

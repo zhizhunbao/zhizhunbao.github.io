@@ -11,15 +11,15 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate Creative Writing**<br>创意写作证书 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
-| **Introduction to Creative Writing**<br>创意写作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
-| **Introduction to Writing Prose Fiction**<br>虚构散文写作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
-| **Introduction to Writing Poetry**<br>诗歌写作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
-| **Introduction to Writing Creative Non-fiction**<br>非虚构创意写作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
-| **Introduction to Writing for Stage and Screen**<br>舞台与银幕写作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
-| **Writing with Visuals: An Introduction**<br>视觉化写作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
+| **Introduction to Creative Writing**<br>创意写作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
+| **Introduction to Writing Prose Fiction**<br>虚构散文写作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
+| **Introduction to Writing Poetry**<br>诗歌写作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
+| **Introduction to Writing Creative Non-fiction**<br>非虚构创意写作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
+| **Introduction to Writing for Stage and Screen**<br>舞台与银幕写作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
+| **Writing with Visuals: An Introduction**<br>视觉化写作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
 | **English Grammar for Professional Writers and Editors**<br>专业写作者与编辑的英语语法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
 | **Writing for Digital Media I: Fundamentals of Digital Literacy**<br>数字媒体写作 I：数字素养基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
-| **Introduction to Technical Writing**<br>技术写作导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
+| **Introduction to Technical Writing**<br>技术写作入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
 | **Writing about the Arts**<br>艺术写作 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
 | **Advanced Workshop in Prose Fiction**<br>散文体小说高级工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |
 | **Advanced Workshop in Poetry**<br>诗歌高级工作坊 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/certificate-creative-writing/) |

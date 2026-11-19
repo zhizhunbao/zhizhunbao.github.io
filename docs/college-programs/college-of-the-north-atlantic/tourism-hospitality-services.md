@@ -14,14 +14,14 @@ ms.date: 2026-11-08
 | **Academic Communications**<br>学术交流 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Customer Service**<br>客户服务 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Food & Beverage I**<br>餐饮 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
-| **Introduction to Tourism**<br>旅游业导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
+| **Introduction to Tourism**<br>旅游业入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Tourism Destinations**<br>旅游目的地 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Accommodations I**<br>住宿业务 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Cultural & Heritage Tourism**<br>文化与遗产旅游 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Digital Tourism**<br>数字旅游 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Entrepreneurial Studies**<br>创业研究 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
-| **Intro to Sustainable Tourism**<br>可持续旅游导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
+| **Intro to Sustainable Tourism**<br>可持续旅游入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Professional Development**<br>职业发展 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 | **Field Placement I**<br>现场实习 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/tourism-and-hospitality-services) |
 

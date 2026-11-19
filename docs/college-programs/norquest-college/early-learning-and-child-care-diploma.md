@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Early Learning and Child Care – diploma**<br>早期学习与儿童保育文凭 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/) |
 | **Child Growth and Development**<br>儿童成长与发展 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
-| **Introduction to Early Learning and Child Care**<br>早期学习与儿童照护导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
+| **Introduction to Early Learning and Child Care**<br>早期学习与儿童照护入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
 | **Utilizing Technology**<br>技术运用 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
 | **Written Communication**<br>书面沟通 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
-| **Introduction to ELCC Practicum**<br>ELCC 实习导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
+| **Introduction to ELCC Practicum**<br>ELCC 实习入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
 | **Play**<br>游戏 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
 | **Literacy**<br>读写能力 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
 | **Guiding Children's Behaviour**<br>引导儿童行为 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
-| **Introduction to Communications**<br>传播学导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
+| **Introduction to Communications**<br>传播学入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
 | **ELCC Practicum II**<br>ELCC 实习 II | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
 | **Development and Inclusive Care**<br>发展与包容性照护 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |
 | **Play and Creativity**<br>游戏与创造力 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/early-learning-and-child-care-diploma/costs-and-courses/) |

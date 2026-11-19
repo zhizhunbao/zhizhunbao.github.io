@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Asian Studies, B.A. General**<br>亚洲研究，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
-| **Introduction to Korean**<br>韩语导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
-| **Introduction to Chinese (Mandarin)**<br>汉语（普通话）导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
-| **Introduction to Japanese**<br>日语导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
+| **Introduction to Korean**<br>韩语入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
+| **Introduction to Chinese (Mandarin)**<br>汉语（普通话）入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
+| **Introduction to Japanese**<br>日语入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Intermediate Korean**<br>中级韩语 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Intermediate Chinese (Mandarin)**<br>中级中文（普通话） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Intermediate Japanese**<br>中级日语 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
@@ -24,9 +24,9 @@ ms.date: 2026-11-11
 | **Linguistic Analysis of Japanese**<br>日语语言学分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Asian Civilizations to 1500 (B)**<br>1500 年以前的亚洲文明 (B) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Asian Civilization from 1500 (B)**<br>1500 年以来的亚洲文明 (B) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
-| **Introduction to Korean Culture**<br>韩国文化导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
-| **Introduction to Chinese Culture**<br>中国文化导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
-| **Introduction to Japanese Culture**<br>日本文化导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
+| **Introduction to Korean Culture**<br>韩国文化入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
+| **Introduction to Chinese Culture**<br>中国文化入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
+| **Introduction to Japanese Culture**<br>日本文化入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **History, Culture, and Society in Chinese Film**<br>中国电影中的历史、文化与社会 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Japanese Film**<br>日本电影 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Modern Chinese Literature in Translation**<br>中国现代文学翻译 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
@@ -44,8 +44,8 @@ ms.date: 2026-11-11
 | **Studies in Asian History (B)**<br>亚洲史研究（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Topics in Recent World History (M)**<br>近代世界史专题（M） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Issues in Modern Asian History 1: Selected Topics (B)**<br>现代亚洲史问题 1：专题选读（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
-| **Introduction to Eastern Religions**<br>东方宗教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
-| **Introduction to Buddhism**<br>佛教导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
+| **Introduction to Eastern Religions**<br>东方宗教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
+| **Introduction to Buddhism**<br>佛教入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Religions of China and Japan**<br>中国与日本的宗教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Buddhism in East Asia**<br>东亚佛教 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |
 | **Tibetan Religious Traditions**<br>藏传宗教传统 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/asian-studies/asian-studies-ba-general/) |

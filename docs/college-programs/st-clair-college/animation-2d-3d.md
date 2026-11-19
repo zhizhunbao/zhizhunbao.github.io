@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Animation 2D/3D**<br>2D/3D动画 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
 | **Life Drawing I**<br>人体写生 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
-| **Introduction To Animation Fundamentals**<br>动画基础导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
+| **Introduction To Animation Fundamentals**<br>动画基础入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
 | **Experimental Animation Technique**<br>实验动画技术 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
 | **Animation History**<br>动画史 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
-| **Introduction To Digital Media**<br>数字媒体导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
+| **Introduction To Digital Media**<br>数字媒体入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
 | **Literature: Short Exposition**<br>文学：简短阐述 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
 | **Animation I**<br>动画 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |
 | **Character & Background**<br>角色与背景 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/animation-2d-3d) |

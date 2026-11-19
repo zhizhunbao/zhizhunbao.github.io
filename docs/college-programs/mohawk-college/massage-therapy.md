@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Self-Management for the Healthcare Professional**<br>医疗专业人员自我管理 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=469&prg_ver=26-A) |
 | **Ethics and Professional Conduct**<br>伦理与职业行为 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=469&prg_ver=26-A) |
 | **Musculoskeletal Anatomy & Palp 1**<br>肌肉骨骼解剖与触诊 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=469&prg_ver=26-A) |
-| **Introduction to Clinic**<br>临床导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=469&prg_ver=26-A) |
+| **Introduction to Clinic**<br>临床入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=469&prg_ver=26-A) |
 | **Intermediate Theory and Technique:MT**<br>中级理论与技术：MT | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=469&prg_ver=26-A) |
 | **Intermediate Treatment Protocols:MT**<br>中级治疗方案：MT | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=469&prg_ver=26-A) |
 | **Musculoskeletal Pathology 1**<br>肌肉骨骼病理学 1 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=469&prg_ver=26-A) |

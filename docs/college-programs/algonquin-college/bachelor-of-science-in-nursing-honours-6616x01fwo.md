@@ -18,7 +18,7 @@ ms.date: 2026-11-08
 | **Introductory Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6616X01FWO.pdf) |
 | **Human Anatomy and Physiology 2**<br>人体解剖生理学 2 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6616X01FWO.pdf) |
 | **Human Anatomy and Physiology 3**<br>人体解剖生理学 3 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6616X01FWO.pdf) |
-| **Introduction to the Nursing Profession**<br>护理专业导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6616X01FWO.pdf) |
+| **Introduction to the Nursing Profession**<br>护理专业入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6616X01FWO.pdf) |
 | **Logic and Critical Thinking**<br>逻辑与批判性思维 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6616X01FWO.pdf) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6616X01FWO.pdf) |
 | **Theory in Nursing**<br>护理理论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/6616X01FWO.pdf) |

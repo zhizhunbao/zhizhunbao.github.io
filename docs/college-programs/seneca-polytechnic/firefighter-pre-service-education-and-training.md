@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Firefighter, Pre-Service Education and Training**<br>消防员，入职前教育与培训 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP.html) |
 | **Fitness for Firefighters**<br>消防员健身 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP/courses.html) |
-| **Introduction to the Fire Service and Life Safety Programs**<br>消防服务与生命安全项目导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP/courses.html) |
-| **Introduction to Firefighting**<br>消防导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP/courses.html) |
+| **Introduction to the Fire Service and Life Safety Programs**<br>消防服务与生命安全项目入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP/courses.html) |
+| **Introduction to Firefighting**<br>消防入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP/courses.html) |
 | **Fire Ground Operations I**<br>火场行动 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP/courses.html) |
 | **Fire Suppression I**<br>灭火 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP/courses.html) |
 | **Fire Ground Operations II**<br>火场行动 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/FFP/courses.html) |

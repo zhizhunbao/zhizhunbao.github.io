@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Full Stack Development**<br>全栈开发 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADEVF-DP/PrinterFriendly#COMP-4002) |
 | **IT Architecture and Design**<br>IT 架构与设计 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADEVF-DP/PrinterFriendly#COMP-1310) |
 | **Design Thinking and Innovation**<br>设计思维与创新 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADEVF-DP/PrinterFriendly#COMP-1334) |
-| **Introduction to Data Science and Machine Learning**<br>数据科学与机器学习导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADEVF-DP/PrinterFriendly#COMP-1702) |
+| **Introduction to Data Science and Machine Learning**<br>数据科学与机器学习入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADEVF-DP/PrinterFriendly#COMP-1702) |
 | **IT Service Desk and Customer Support**<br>IT 服务台与客户支持 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADEVF-DP/PrinterFriendly#COMP-2042) |
 | **Security Foundations**<br>安全基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADEVF-DP/PrinterFriendly#COMP-2044) |
 | **Cloud Infrastructure**<br>云基础设施 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/ADEVF-DP/PrinterFriendly#COMP-2045) |

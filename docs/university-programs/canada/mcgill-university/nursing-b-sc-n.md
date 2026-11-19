@@ -26,7 +26,7 @@ ms.date: 2026-11-11
 | **Navigating Disagreement in Interprofessional Teams**<br>应对跨专业团队中的分歧 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
 | **Pathophysiology for Nursing 1.**<br>护理病理生理学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
 | **Pathophysiology for Nursing 2.**<br>护理病理生理学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
-| **Intro to Professional Practice and Strengths-Based Nursing and Healthcare.**<br>专业实践与优势本位护理和医疗保健导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
+| **Intro to Professional Practice and Strengths-Based Nursing and Healthcare.**<br>专业实践与优势本位护理和医疗保健入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
 | **Individual and Family Development Across Lifespans 1.**<br>个人与家庭的终身发展 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
 | **Individual and Family Development Across Lifespans 2.**<br>个人与家庭的终身发展 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
 | **Supporting Health and Healing Capacities 1.**<br>支持健康与康复能力 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-11
 | **Nursing Practice Consolidation.**<br>护理实践整合 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
 | **Ambassador Nursing Practice Consolidation.**<br>大使护理实践整合 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
 | **Introductory Statistics.**<br>统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/) |
 
 ## Courses
 

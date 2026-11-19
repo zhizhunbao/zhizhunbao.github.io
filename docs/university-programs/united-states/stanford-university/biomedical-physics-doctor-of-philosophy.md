@@ -1,17 +1,17 @@
 ---
-title: "3.3.152 Biomedical Physics, Doctor of Philosophy"
+title: "4.3.152 Biomedical Physics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Biomedical Physics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.152 Biomedical Physics, Doctor of Philosophy
+# 4.3.152 Biomedical Physics, Doctor of Philosophy
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Biomedical Physics, Doctor of Philosophy**<br>生物医学物理学，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Physics and Engineering Principles of Multi-modality Molecular Imaging of Living Subjects**<br>活体多模态分子成像的物理与工程原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Biological Principles and Medical Applications of Ionizing Radiation**<br>电离辐射的生物学原理与医学应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Research Seminar Series for Biomedical Physics**<br>生物医学物理研究研讨系列 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-18
 | **The Fourier Transform and Its Applications**<br>傅里叶变换及其应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Probability and Statistical Inference**<br>概率与统计推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Digital Image Processing**<br>数字图像处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Physics and Engineering of Radionuclide-based Medical Imaging**<br>放射性核素医学成像的物理与工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Transcranial Ultrasound Neuromodulation: Physics, Neurophysiology, and Applications**<br>经颅超声神经调控：物理、神经生理与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **MRI Sequences and Signals**<br>MRI 序列与信号 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
@@ -53,11 +53,11 @@ ms.date: 2026-11-18
 | **Biological Macromolecules**<br>生物大分子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Computational Biology: Structure and Organization of Biomolecules and Cells**<br>计算生物学：生物分子与细胞的结构与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Advances in Biotechnology**<br>生物技术进展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Tumor Immunology**<br>肿瘤免疫学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Advanced Immunology I**<br>高级免疫学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 | **Immunology in Health and Disease**<br>健康与疾病中的免疫学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
-| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
+| **Introduction to Applied Computational Tools in Immunology**<br>免疫学应用计算工具入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biomedical-physics/doctor-of-philosophy) |
 
 ## Courses
 

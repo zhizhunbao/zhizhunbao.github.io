@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Legal Ethics**<br>法律伦理 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Indigenous Culture & Awareness**<br>原住民文化与意识 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Law Office Management & Client Relations**<br>律所管理与客户关系 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
-| **Introduction to Real Estate Law**<br>房地产法导论 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
+| **Introduction to Real Estate Law**<br>房地产法入门 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Litigation Law**<br>诉讼法 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Estate Law**<br>遗产法 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |
 | **Criminal Law**<br>刑法 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/program/law-clerk/) |

@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Later African Canadian Literature**<br>晚近非裔加拿大文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Land-ing: Indigenous and Black Futurist Spaces**<br>Land-ing：原住民与黑人未来主义空间 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Black Ethnographies**<br>黑人民族志 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
-| **Africa: A Critical Introduction**<br>非洲：批判性导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
+| **Africa: A Critical Introduction**<br>非洲：批判性入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Africa in the 21st Century: Challenges and Opportunities**<br>21世纪的非洲：挑战与机遇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **African Systems of Thought**<br>非洲思想体系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **International Relations of Africa**<br>非洲国际关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-11
 | **Studies in Black Art**<br>黑人艺术研究 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Learning While Black**<br>黑人身份下的学习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Race and Racialization in Canada**<br>加拿大的种族与种族化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
-| **Introduction to Caribbean Studies**<br>加勒比研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
+| **Introduction to Caribbean Studies**<br>加勒比研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Caribbean Foodways Across History, Culture and Diaspora**<br>跨越历史、文化与离散社群的加勒比饮食文化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Comparative Caribbean Literature**<br>加勒比文学比较 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Comparative Caribbean Literature and Visual Culture**<br>加勒比文学与视觉文化比较 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
@@ -39,14 +39,14 @@ ms.date: 2026-11-11
 | **Black Cinema**<br>黑人电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Inequality and Criminal Justice**<br>不平等与刑事司法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Immigration, Ethnicity and Crime**<br>移民、族裔与犯罪 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
-| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
+| **Introduction to Critical Equity and Solidarity Studies**<br>批判公平与团结研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Abolition in the Global Context: Theorizing Uprisings and Youth Activism against Policing and Prisons**<br>全球语境下的废除主义：关于反警务与反监禁的起义和青年行动主义理论化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Theorizing Settler Colonialism, Capitalism and Race**<br>殖民定居主义、资本主义与种族的理论化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Body Matters: Oppression, Solidarity and Justice**<br>身体问题：压迫、团结与正义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Race, Ethnicity and Educational Praxis**<br>种族、族裔与教育实践 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Dancing Black in Canada**<br>加拿大的黑人舞蹈 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Black Playwrights: Resistance, Resilience and Transformation**<br>黑人剧作家：抗争、韧性与转变 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
-| **Introduction to Diaspora and Transnational Studies**<br>离散与跨国研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
+| **Introduction to Diaspora and Transnational Studies**<br>离散与跨国研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Entanglements of Power: Race, Sexuality and the City**<br>权力的纠缠：种族、性与城市 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **The Problem and Promise of Caribbean Freedom**<br>加勒比自由的难题与前景 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **The African Diaspora in the Americas, 1492-1804**<br>美洲的非洲离散群体，1492-1804年 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
@@ -61,7 +61,7 @@ ms.date: 2026-11-11
 | **The Canadian Census: Populations, Migrations and Demographics**<br>加拿大人口普查：人口、迁移与人口统计 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **The Politics of Immigration and Multiculturalism in Canada**<br>加拿大的移民与多元文化政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Black Diaspora Religions**<br>黑人离散宗教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
-| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
+| **Intro to Queer of Colour Critique**<br>有色人种酷儿批判入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Sociology of Race and Ethnicity**<br>种族与族裔社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Immigration and Race Relations in Canada**<br>加拿大的移民与种族关系 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |
 | **Race, Class, and Gender**<br>种族、阶级与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/ascer0828) |

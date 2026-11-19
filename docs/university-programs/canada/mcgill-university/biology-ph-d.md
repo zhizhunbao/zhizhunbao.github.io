@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Biology (Ph.D.)**<br>生物学（Ph.D.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-phd/) |
 | **Doctoral Qualifying Examination.**<br>博士资格考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-phd/) |
 | **Ph.D. Seminar.**<br>博士研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-phd/) |
-| **Introduction to Graduate Studies in Biology.**<br>生物学研究生学习导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-phd/) |
+| **Introduction to Graduate Studies in Biology.**<br>生物学研究生学习入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-phd/) |
 | **Molecular Biology Research and Professional Skills.**<br>分子生物学研究与专业技能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-phd/) |
 | **Organismal Biology Research and Professional Skills.**<br>生物体生物学研究与专业技能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/science/biology/biology-phd/) |
 

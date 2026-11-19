@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Co-operative Education Employment Prep**<br>合作教育就业准备 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3992/courses-next/) |
 | **Reason & Writing 1 for Public Safety**<br>公共安全推理与写作 1 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3992/courses-next/) |
 | **Reason & Writing 1-EAP**<br>推理与写作 1 - EAP | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3992/courses-next/) |
-| **Real Estate-Intro**<br>房地产 - 导论 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3992/courses-next/) |
+| **Real Estate-Intro**<br>房地产 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3992/courses-next/) |
 | **Prof. Communications for Law Clerks**<br>法律文员专业沟通 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3992/courses-next/) |
 | **Computer Applications 2**<br>计算机应用 2 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3992/courses-next/) |
 | **Wills & Estates-Intro**<br>遗嘱与遗产 - 入门 | (Definition pending) | （定义待补） | [Fanshawe College, n.d.](https://www.fanshawec.ca/node/3992/courses-next/) |

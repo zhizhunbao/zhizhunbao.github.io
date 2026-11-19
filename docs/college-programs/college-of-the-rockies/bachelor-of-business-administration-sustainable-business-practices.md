@@ -12,8 +12,8 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Business Administration: Sustainable Business Practices**<br>工商管理学士，可持续商业实践 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |
-| **Introduction to Poetry and Drama**<br>诗歌与戏剧导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |
-| **Introduction to Prose Fiction**<br>散文小说导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |
+| **Introduction to Poetry and Drama**<br>诗歌与戏剧入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |
+| **Introduction to Prose Fiction**<br>散文小说入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |
 | **Written & Oral Communication Skills**<br>书面与口头沟通技能 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |
 | **Technical and Professional Writing**<br>技术与专业写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |
 | **Sustainability Theory and Metrics**<br>可持续性理论与指标 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/bachelor-of-business-administration-sustainable-business-practices/) |

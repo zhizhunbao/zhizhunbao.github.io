@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Bachelor of Science in Nursing (BScN)**<br>护理理学学士（BScN） | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/nursing) |
 | **Indigenous Health Studies**<br>原住民健康研究 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/nursing) |
 | **Basic Anatomy & Physiology I**<br>基础解剖与生理学 I | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/nursing) |
-| **Introduction to Nursing**<br>护理学导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/nursing) |
+| **Introduction to Nursing**<br>护理学入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/nursing) |
 | **Basic Anatomy and Physiology II**<br>基础解剖与生理学 II | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/nursing) |
 | **Any 200-level or higher**<br>任意200级或以上 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/nursing) |
 | **ARTS option**<br>文科选修 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/nursing) |

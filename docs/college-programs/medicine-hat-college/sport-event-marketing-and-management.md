@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sport & Event Marketing and Management**<br>体育与活动营销和管理 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
 | **Communication in the Workplace**<br>职场沟通 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
 | **Management Theory**<br>管理理论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
-| **Introduction to Sport & Event Management**<br>体育与活动管理导论 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
+| **Introduction to Sport & Event Management**<br>体育与活动管理入门 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
 | **Human Relations in the Workplace**<br>职场人际关系 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
 | **Leadership Development**<br>领导力发展 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |
 | **Sport and Event Marketing**<br>体育与赛事营销 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/browse-programs/sport-and-event-marketing-management) |

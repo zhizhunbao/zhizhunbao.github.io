@@ -1,10 +1,10 @@
 ---
-title: "3.3.184 Iberian & Latin American Cultures, Doctor of Philosophy"
+title: "4.3.184 Iberian & Latin American Cultures, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Iberian & Latin American Cultures, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.184 Iberian & Latin American Cultures, Doctor of Philosophy
+# 4.3.184 Iberian & Latin American Cultures, Doctor of Philosophy
 
 ## Glossary
 
@@ -12,7 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Iberian & Latin American Cultures, Doctor of Philosophy**<br>伊比利亚与拉丁美洲文化，哲学博士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/iberian-and-latin-american-cultures/doctor-of-philosophy) |
 | **The Learning and Teaching of Second Languages**<br>第二语言的学与教 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/iberian-and-latin-american-cultures/doctor-of-philosophy) |
-| **Introduction to the Profession of Literary Studies**<br>文学研究职业导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/iberian-and-latin-american-cultures/doctor-of-philosophy) |
+| **Introduction to the Profession of Literary Studies**<br>文学研究职业入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/iberian-and-latin-american-cultures/doctor-of-philosophy) |
 
 ## Courses
 

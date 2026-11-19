@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Construction Project Management**<br>建设项目管理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/construction-project-management) |
-| **Introduction to Construction Management**<br>建筑管理导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/construction-project-management) |
+| **Introduction to Construction Management**<br>建筑管理入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/construction-project-management) |
 | **Management of a Construction Project**<br>建设项目管理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/construction-project-management) |
 | **Alternative Project Delivery Methods**<br>替代性项目交付方式 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/construction-project-management) |
 | **Construction Methods, Codes, and Norms**<br>施工方法、规范与标准 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/construction-project-management) |

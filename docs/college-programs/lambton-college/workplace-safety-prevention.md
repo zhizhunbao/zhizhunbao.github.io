@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Job Search & Success**<br>求职与成功 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 | **OHS Management Systems**<br>职业健康与安全管理体系 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 | **Health & Wellness**<br>健康与保健 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
-| **Introducton to Biology**<br>生物学导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
+| **Introducton to Biology**<br>生物学入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 | **Human Interaction**<br>人际互动 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 | **Ethical Leadership & Critical Decision Making**<br>伦理领导力与关键决策 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 | **Co-op Work Term**<br>带薪实习学期 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-08
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 | **Industrial Hygiene and Toxicology**<br>工业卫生与毒理学 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 | **Emergency Planning & Management**<br>应急规划与管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
-| **Introduction to Process Safety**<br>过程安全导论 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
+| **Introduction to Process Safety**<br>过程安全入门 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 | **Environmental Management**<br>环境管理 | (Definition pending) | （定义待补） | [Lambton College, n.d.](https://www.lambtoncollege.ca/programs/in-person/wspp) |
 
 ## Courses

@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Influencer Marketing**<br>网红营销 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdmark) |
 | **AI Marketing & Generative AI Strategies**<br>人工智能营销与生成式人工智能策略 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdmark) |
 | **Digital Asset Management for Marketers**<br>营销人员数字资产管理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdmark) |
-| **Introduction to Web Technologies**<br>Web 技术导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdmark) |
+| **Introduction to Web Technologies**<br>Web 技术入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdmark) |
 | **Document Design**<br>文档设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdmark) |
 | **Visual Communication**<br>视觉传达 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdmark) |
 | **Writing and Developing Websites**<br>网站编写与开发 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbdmark) |

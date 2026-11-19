@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Civil Engineering Technology Diploma**<br>土木工程技术文凭 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/civil-engineering-technology) |
-| **Intro Civil Engineering Tech**<br>土木工程技术导论 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/civil-engineering-technology) |
+| **Intro Civil Engineering Tech**<br>土木工程技术入门 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/civil-engineering-technology) |
 | **Professionalism in Workplace**<br>职场职业素养 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/civil-engineering-technology) |
 | **Statics**<br>静力学 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/civil-engineering-technology) |
 | **Writing and Communication**<br>写作与沟通 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/programs/program/civil-engineering-technology) |

@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Calculus 1**<br>微积分 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Physics 1**<br>物理 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
-| **Introduction to Engineering**<br>工程导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
+| **Introduction to Engineering**<br>工程入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Engineering in Society**<br>社会中的工程 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Technical Communication and Critical Thinking for Engineers**<br>工程师技术沟通与批判性思维 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Calculus 2**<br>微积分 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Engineering Design**<br>工程设计 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Engineering Materials and Chemistry**<br>工程材料与化学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Teamwork and Leadership for Engineers**<br>工程师团队合作与领导力 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Infrastructure and Building Science**<br>基础设施与建筑科学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |
 | **Sustainable Building Design Principles**<br>可持续建筑设计原则 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-engineering-sustainable-building-engineering) |

@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Police Report & Note-taking I**<br>警务报告与笔记 I | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/police-foundations) |
 | **Policing for Today**<br>当代警务 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/police-foundations) |
 | **Strategies for Building Resilience in Policing**<br>培养警务韧性的策略 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/police-foundations) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/police-foundations) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/police-foundations) |
 | **Criminal Code and Federal Statutes**<br>刑法典与联邦法规 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/police-foundations) |
 | **Fitness and Lifestyle Management**<br>健身与生活方式管理 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/police-foundations) |
 | **Police Powers**<br>警察权力 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/programs/police-foundations) |

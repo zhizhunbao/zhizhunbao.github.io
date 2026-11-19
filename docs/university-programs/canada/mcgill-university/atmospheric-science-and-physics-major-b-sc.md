@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Atmospheric Science and Physics Major (B.Sc.)**<br>大气科学与物理学主修（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-physics-major-bsc/) |
-| **Introduction: Physics of the Atmosphere.**<br>导论：大气物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-physics-major-bsc/) |
+| **Introduction: Physics of the Atmosphere.**<br>入门：大气物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-physics-major-bsc/) |
 | **Oceans, Weather and Climate.**<br>海洋、天气与气候 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-physics-major-bsc/) |
 | **Weather Radars and Satellites.**<br>天气雷达与卫星 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-physics-major-bsc/) |
 | **Rotating Fluid Dynamics.**<br>旋转流体动力学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-physics-major-bsc/) |

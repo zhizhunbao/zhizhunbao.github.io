@@ -24,9 +24,9 @@ ms.date: 2026-11-08
 | **Reconciling Our Economic Futures**<br>重塑我们的经济未来 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ECON-1041) |
 | **Accounting Fundamentals**<br>会计基础 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ACCT-1071) |
 | **Financial Accounting**<br>财务会计 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ACCT-2071) |
-| **Introduction to Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ADMN-1010) |
+| **Introduction to Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ADMN-1010) |
 | **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ADMN-1012) |
-| **Introduction to Supply Chain Management**<br>供应链管理导论 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ADMN-1020) |
+| **Introduction to Supply Chain Management**<br>供应链管理入门 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ADMN-1020) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ADMN-2053) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#ADMN-2058) |
 | **Communication Skills for Business and Applied Arts 1**<br>商务与应用艺术沟通技能 1 | (Definition pending) | （定义待补） | [Red River College Polytechnic, n.d.](https://catalogue.rrc.ca/Programs/WPG/FullTime/SOCCF-DP/PrinterFriendly#COMM-1205) |

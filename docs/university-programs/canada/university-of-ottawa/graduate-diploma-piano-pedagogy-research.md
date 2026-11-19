@@ -16,7 +16,7 @@ ms.date: 2026-11-11
 | **Topics in Piano Pedagogy**<br>钢琴教学法专题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-piano-pedagogy-research/) |
 | **Piano Pedagogy I**<br>钢琴教学法 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-piano-pedagogy-research/) |
 | **Piano Pedagogy II**<br>钢琴教学法 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-piano-pedagogy-research/) |
-| **Introduction to Musical Research**<br>音乐研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-piano-pedagogy-research/) |
+| **Introduction to Musical Research**<br>音乐研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-piano-pedagogy-research/) |
 | **Proseminar in Music Theory and Analysis**<br>音乐理论与分析预备研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-piano-pedagogy-research/) |
 | **Practicum**<br>实习 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-piano-pedagogy-research/) |
 | **Proseminar in Musicology**<br>音乐学预备研讨课 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/graduate-diploma-piano-pedagogy-research/) |

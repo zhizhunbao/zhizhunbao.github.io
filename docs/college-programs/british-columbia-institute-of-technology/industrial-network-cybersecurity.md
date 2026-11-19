@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Industrial Network Cybersecurity**<br>工业网络网络安全 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/) |
-| **Introduction to Windows PC Systems Administration for Industrial Network Cybersecurity**<br>面向工业网络网络安全的 Windows PC 系统管理导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/) |
+| **Introduction to Windows PC Systems Administration for Industrial Network Cybersecurity**<br>面向工业网络网络安全的 Windows PC 系统管理入门 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/) |
 | **Python Scripting for Industrial Network Cybersecurity**<br>工业网络安全 Python 脚本编程 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/) |
 | **Technical Communications 1 for Industrial Network Cybersecurity**<br>工业网络安全技术沟通 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/) |
 | **Electrical Systems for Industrial Network Cybersecurity**<br>工业网络安全电气系统 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/) |

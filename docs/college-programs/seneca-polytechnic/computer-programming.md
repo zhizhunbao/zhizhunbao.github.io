@@ -14,11 +14,11 @@ ms.date: 2026-11-08
 | **Applied Problem Solving**<br>应用问题解决 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Essential Tooling for Programmers**<br>程序员基本工具 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
-| **Introduction to Programming Using C**<br>C语言编程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
+| **Introduction to Programming Using C**<br>C语言编程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Mathematics for Programmers**<br>程序员数学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Operating Systems for Programmers**<br>程序员操作系统 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
-| **Introduction to Database Systems**<br>数据库系统导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
-| **Introduction to Object Oriented Programming**<br>面向对象编程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
+| **Introduction to Database Systems**<br>数据库系统入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
+| **Introduction to Object Oriented Programming**<br>面向对象编程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Software Testing**<br>软件测试 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Web Programming Principles**<br>网页编程原理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Advanced Database Services**<br>高级数据库服务 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
@@ -48,7 +48,7 @@ ms.date: 2026-11-08
 | **Business Application Using RPG**<br>使用RPG的业务应用 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Software Portability and Optimization**<br>软件可移植性与优化 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Software Analysis and Design - II**<br>软件分析与设计 - II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
-| **Introduction to UI/UX Design**<br>UI/UX设计导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
+| **Introduction to UI/UX Design**<br>UI/UX设计入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **UNIX Systems Programming**<br>UNIX 系统编程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Web Programming Using ASP.NET**<br>使用 ASP.NET 的 Web 编程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |
 | **Cross-platform App Development**<br>跨平台应用开发 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/CPP/courses.html) |

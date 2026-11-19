@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Professional Communication Essentials**<br>职业沟通要领 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0430X04FWO.pdf) |
 | **Observation Skills**<br>观察技能 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0430X04FWO.pdf) |
 | **Preparation and Reflection for Practicum 1**<br>实习准备与反思 1 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0430X04FWO.pdf) |
-| **Introduction to Play-Based Curriculum**<br>游戏式课程导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0430X04FWO.pdf) |
+| **Introduction to Play-Based Curriculum**<br>游戏式课程入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0430X04FWO.pdf) |
 | **Health and Wellness for Children**<br>儿童健康与保健 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0430X04FWO.pdf) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0430X04FWO.pdf) |
 | **Foundations of Early Childhood Education**<br>幼儿教育基础 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0430X04FWO.pdf) |

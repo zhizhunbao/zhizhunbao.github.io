@@ -1,10 +1,10 @@
 ---
-title: "3.3.74 Biology, Master of Science"
+title: "4.3.74 Biology, Master of Science"
 description: "University Programs > United States > Stanford University > Biology, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.74 Biology, Master of Science
+# 4.3.74 Biology, Master of Science
 
 ## Glossary
 
@@ -23,7 +23,7 @@ ms.date: 2026-11-18
 | **Systems Physiology and Design**<br>系统生理学与设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Representations and Algorithms for Computational Molecular Biology**<br>计算分子生物学的表示与算法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Translational Bioinformatics**<br>转化生物信息学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
-| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
+| **Introduction to Imaging and Image-based Human Anatomy**<br>成像与基于影像的人体解剖学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Protein Engineering**<br>蛋白质工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Computational Biology: Structure and Organization of Biomolecules and Cells**<br>计算生物学：生物分子与细胞的结构与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Advances in Biotechnology**<br>生物技术进展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
@@ -42,7 +42,7 @@ ms.date: 2026-11-18
 | **Atmosphere, Ocean, and Climate Dynamics: the Ocean Circulation**<br>大气、海洋与气候动力学：海洋环流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Aquatic Chemistry and Biology**<br>水生化学与生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Pathogens and Disinfection**<br>病原体与消毒 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Principles of Robot Autonomy II**<br>机器人自主性原理 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Symbolic Musical Information**<br>符号化音乐信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Developmental Biology**<br>发育生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
@@ -57,7 +57,7 @@ ms.date: 2026-11-18
 | **Data Science for Geoscience**<br>地球科学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Molecular, Cellular, and Genetic Medicine**<br>分子、细胞与遗传医学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Genomics**<br>基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
-| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
+| **Introduction to Biomedical Informatics Research Methodology**<br>生物医学信息学研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **C. Elegans Genetics**<br>秀丽隐杆线虫遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Human Anatomy (Online)**<br>人体解剖学（在线） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |
 | **Regional Anatomy (Online): Cardiopulmonary System**<br>区域解剖学（在线）：心肺系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/biology/master-of-science) |

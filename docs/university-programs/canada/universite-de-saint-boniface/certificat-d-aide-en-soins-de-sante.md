@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Certificat d'aide en soins de santé**<br>医疗保健助理证书 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/certificat-aide-en-soins-de-sante-esies/index.html) |
 | **Prestation des soins de santé**<br>医疗保健服务提供 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/certificat-aide-en-soins-de-sante-esies/index.html) |
 | **Croissance et développement**<br>成长与发展 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/certificat-aide-en-soins-de-sante-esies/index.html) |
-| **Introduction à la gérontologie**<br>老年学导论 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/certificat-aide-en-soins-de-sante-esies/index.html) |
+| **Introduction à la gérontologie**<br>老年学入门 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/certificat-aide-en-soins-de-sante-esies/index.html) |
 | **La sécurité en milieu de travail**<br>职场安全 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/certificat-aide-en-soins-de-sante-esies/index.html) |
 | **Activités de la vie quotidienne I**<br>日常生活活动 I | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/certificat-aide-en-soins-de-sante-esies/index.html) |
 | **Les relations interpersonnelles**<br>人际关系 | (Definition pending) | （定义待补） | [Université de Saint-Boniface, n.d.](https://ustboniface.ca/annuaire2026/certificat-aide-en-soins-de-sante-esies/index.html) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Electrical Fundamentals**<br>电气基础 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Mechatronics I**<br>机电一体化 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
-| **Introduction to Metrology and Geometric Dimensioning**<br>计量与几何尺寸公差导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
+| **Introduction to Metrology and Geometric Dimensioning**<br>计量与几何尺寸公差入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Engineering Materials**<br>工程材料 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Algebra I**<br>代数 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Solid Modeling**<br>实体建模 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-08
 | **Thermodynamics**<br>热力学 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Advanced Solid Modelling**<br>高级实体建模 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Instrumentation I**<br>仪表 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
-| **Introduction to Fluid Power**<br>流体动力导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
+| **Introduction to Fluid Power**<br>流体动力入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Data Communication**<br>数据通信 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Manufacturing Systems**<br>制造系统 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |
 | **Mechatronics Design**<br>机电一体化设计 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/electromechanical-engineering-technology-mechatronics) |

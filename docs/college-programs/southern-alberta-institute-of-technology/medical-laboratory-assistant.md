@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Patient Services**<br>患者服务 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-laboratory-assistant) |
 | **Clinical Laboratory Testing**<br>临床实验室检验 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-laboratory-assistant) |
 | **Applied Anatomy and Terminology**<br>应用解剖学与术语 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-laboratory-assistant) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-laboratory-assistant) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-laboratory-assistant) |
 | **Clinical Placement**<br>临床实习 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-laboratory-assistant) |
 | **Applied Professional Practice**<br>应用专业实践 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-laboratory-assistant) |
 

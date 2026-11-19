@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Internet and Web Technology**<br>互联网与网页技术 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/internet-and-web-technology-certificate) |
 | **Web Development I**<br>Web 开发 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/internet-and-web-technology-certificate/courses) |
-| **Introduction to Web Programming**<br>网络编程导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/internet-and-web-technology-certificate/courses) |
+| **Introduction to Web Programming**<br>网络编程入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/internet-and-web-technology-certificate/courses) |
 | **Program Design**<br>程序设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/internet-and-web-technology-certificate/courses) |
 | **Object-oriented Computing**<br>面向对象计算 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/internet-and-web-technology-certificate/courses) |
 | **Unix Tools and Scripting**<br>Unix 工具与脚本编程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/internet-and-web-technology-certificate/courses) |

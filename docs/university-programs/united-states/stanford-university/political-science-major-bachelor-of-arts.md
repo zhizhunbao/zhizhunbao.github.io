@@ -1,10 +1,10 @@
 ---
-title: "3.3.56 Political Science, Major: Bachelor of Arts"
+title: "4.3.56 Political Science, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Political Science, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.56 Political Science, Major: Bachelor of Arts
+# 4.3.56 Political Science, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -14,10 +14,10 @@ ms.date: 2026-11-18
 | **The Science of Politics**<br>政治科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Programming Abstractions**<br>编程抽象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Data Science for Politics**<br>政治学的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to Public Policy**<br>公共政策导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to Public Policy**<br>公共政策入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **BioSecurity and Pandemic Resilience**<br>生物安全与大流行韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **The Politics of Status, Symbols, and Inequality**<br>地位、符号与不平等的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Is Privacy Dead? Privacy, Surveillance, and Freedom in the Digital Age**<br>隐私已死吗？数字时代的隐私、监控与自由 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
@@ -37,7 +37,7 @@ ms.date: 2026-11-18
 | **The Ethics of Elections**<br>选举的伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Ethics and Politics of Public Service**<br>公共服务的伦理与政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Ethics for Activists**<br>活动人士的伦理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to Environmental Ethics**<br>环境伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to Environmental Ethics**<br>环境伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Contemporary Moral Problems**<br>当代道德问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Philosophy of Law: Protest, Punishment, and Racial Justice**<br>法哲学：抗议、惩罚与种族正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Political Philosophy: The Social Contract Tradition**<br>政治哲学：社会契约传统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
@@ -56,7 +56,7 @@ ms.date: 2026-11-18
 | **What Was the University?**<br>大学曾是什么？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Democratic Theory**<br>民主理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Deliberative Democracy and its Critics**<br>协商民主及其批评者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Deadly Bands: Introduction to the Political Problem of Violent Male Groups**<br>致命的帮派：暴力男性群体的政治问题导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Deadly Bands: Introduction to the Political Problem of Violent Male Groups**<br>致命的帮派：暴力男性群体的政治问题入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **The Political Theory of Progress Reconsidered**<br>重新审视进步的政治理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **From Cold War to New Cold War: Politics and Political Theory in Contemporary China**<br>从冷战到新冷战：当代中国的政治与政治理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Political Memory and Democratic Citizenship**<br>政治记忆与民主公民身份 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
@@ -87,7 +87,7 @@ ms.date: 2026-11-18
 | **Constituting a Republic: Machiavelli, Madison, and Modern Issues**<br>构建共和国：马基雅维利、麦迪逊与现代问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Layered Landscapes: Traces of the British Past**<br>层叠景观：英国过去的痕迹 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Comparative Law & Society: Conflicts in the Structuring of Democratic Polities across Latin America**<br>比较法与社会：拉丁美洲民主政体构建中的冲突 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to Moral Philosophy**<br>道德哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to Moral Philosophy**<br>道德哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Law and Economics**<br>法与经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **The Politics of Policy Making**<br>政策制定的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Life Worth Living**<br>值得过的生活 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
@@ -103,7 +103,7 @@ ms.date: 2026-11-18
 | **Conflict and Climate Change**<br>冲突与气候变化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **International Relations in Science Fiction**<br>科幻小说中的国际关系 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Security Issues in the Middle East**<br>中东安全问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **America and the World Economy**<br>美国与世界经济 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **War and Peace in American Foreign Policy**<br>美国外交政策中的战争与和平 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **America and the World Economy Non-WIM**<br>美国与世界经济（非WIM） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
@@ -136,7 +136,7 @@ ms.date: 2026-11-18
 | **Global Human Geography: Asia and Africa**<br>全球人文地理：亚洲与非洲 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Global Human Geography: Europe and Americas**<br>全球人文地理：欧洲与美洲 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Presidents and Foreign Policy in Modern History**<br>总统与现代史上的外交政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **An Introduction to Modern Military History**<br>现代军事史导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **An Introduction to Modern Military History**<br>现代军事史入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **The Future of the European Union: Challenges and Opportunities**<br>欧盟的未来：挑战与机遇 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **The U.S., U.N. Peacekeeping, and Humanitarian War**<br>美国、联合国维和与人道主义战争 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Challenging the Status Quo: Innovation in the Public Sector**<br>挑战现状：公共部门创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
@@ -164,7 +164,7 @@ ms.date: 2026-11-18
 | **The 2026 US election: How to Understand and Participate**<br>2026年美国大选：如何理解与参与 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Politics of AI**<br>人工智能政治学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **AI & Politics**<br>AI与政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to European Studies**<br>欧洲研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to European Studies**<br>欧洲研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **The Presidency**<br>总统制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Seminar on Political Change**<br>政治变迁研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Public Opinion and American Democracy**<br>民意与美国民主 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
@@ -207,7 +207,7 @@ ms.date: 2026-11-18
 | **Contemporary African Politics**<br>当代非洲政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Political Economy of Development**<br>发展的政治经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Immigration and Multiculturalism**<br>移民与多元文化主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Strategy: Introduction to Game Theory**<br>战略：博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Strategy: Introduction to Game Theory**<br>战略：博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Inventing Nations: Theories and Histories of Nationalism**<br>创造民族：民族主义的理论与历史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Totalitarianism**<br>极权主义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Modern Islamic Political Thought**<br>现代伊斯兰政治思想 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
@@ -247,9 +247,9 @@ ms.date: 2026-11-18
 | **Formal Theory II**<br>形式理论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Communication Research Methods**<br>传播研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **The Politics of Algorithms**<br>算法的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Accelerated Game Theory**<br>博弈论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Capstone Project - Autumn**<br>毕业项目：秋季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Capstone Project - Winter**<br>毕业项目：冬季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |
 | **Capstone Project - Spring**<br>毕业项目：春季 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/political-science/bachelor-of-arts) |

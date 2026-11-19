@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Motive Power Technician**<br>动力机械技术员 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |
-| **Introduction to Automotive Industry Work Practices**<br>汽车行业工作实务导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |
+| **Introduction to Automotive Industry Work Practices**<br>汽车行业工作实务入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |
 | **Drive Train Standard Transmission I**<br>传动系统手动变速器 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |
-| **Introduction To Engines**<br>发动机导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |
+| **Introduction To Engines**<br>发动机入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |
 | **Energy Service-Electrical/Electronic Fuel Systems I**<br>能源服务 - 电气/电子燃油系统 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |
 | **Applied Math (Mathematics For Automotive Trades)**<br>应用数学（汽车行业数学） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |
 | **Engine Components & Service**<br>发动机部件与维修 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/motive-power-technician) |

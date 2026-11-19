@@ -19,8 +19,8 @@ ms.date: 2026-11-08
 | **Clinical Nursing Skills**<br>临床护理技能 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
 | **Medication Administration**<br>药物管理 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
-| **Introduction to Pathophysiology**<br>病理生理学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
-| **Introduction to Pharmacology**<br>药理学导论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
+| **Introduction to Pathophysiology**<br>病理生理学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
+| **Introduction to Pharmacology**<br>药理学入门 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
 | **Practical Nursing Practice I**<br>实用护理实践 I | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
 | **Practical Nursing Theory III**<br>实用护理理论 III | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |
 | **Maternity Nursing Theory**<br>产科护理理论 | (Definition pending) | （定义待补） | [Northwestern Polytechnic, n.d.](https://www.nwpolytech.ca/programs/practical-nurse) |

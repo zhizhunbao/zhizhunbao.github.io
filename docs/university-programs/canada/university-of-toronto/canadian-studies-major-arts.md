@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Canadian Government**<br>加拿大政府 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Canadian Politics**<br>加拿大政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **The Canadian Short Story**<br>加拿大短篇小说 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
-| **Introduction to Canadian Literature**<br>加拿大文学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
+| **Introduction to Canadian Literature**<br>加拿大文学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Indigenous Literature and Storytelling**<br>原住民文学与讲故事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Canadian Drama**<br>加拿大戏剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **New Writing in Canada**<br>加拿大新写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
@@ -33,7 +33,7 @@ ms.date: 2026-11-11
 | **Anishinaabe Storytelling and Oral Tradition**<br>阿尼什纳比人的叙事与口头传统 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Special Topic in Canadian Literature**<br>加拿大文学专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Seminar: Canadian Literature**<br>研讨课：加拿大文学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
-| **Introduction to Indigenous Art in Canada**<br>加拿大原住民艺术导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
+| **Introduction to Indigenous Art in Canada**<br>加拿大原住民艺术入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Canadian Art**<br>加拿大艺术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Modernity, Tradition, and Resistance in Quebec Literature**<br>魁北克文学中的现代性、传统与抵抗 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Comedy and Tragedy in Quebec Theatre**<br>魁北克戏剧中的喜剧与悲剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
@@ -41,7 +41,7 @@ ms.date: 2026-11-11
 | **Teaching and Learning Varieties of Canadian French**<br>加拿大法语变体的教与学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Climatology of Canadian Landscapes**<br>加拿大景观气候学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Geographies of Indigenous Health**<br>原住民健康地理学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
-| **Introduction to Canadian History**<br>加拿大史导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
+| **Introduction to Canadian History**<br>加拿大史入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Indigenous Peoples and Immigrants in Canada**<br>加拿大的原住民与移民 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Canadian Environmental History: Contact to Conservation**<br>加拿大环境史：从接触到保护 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Canadian Environmental History: Conservation to the Modern Environmental Movement**<br>加拿大环境史：从保护到现代环境运动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
@@ -52,8 +52,8 @@ ms.date: 2026-11-11
 | **Indigenous North America**<br>原住民的北美 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Italian-Canadian Studies: Historical and Socio-Linguistic Perspectives**<br>意大利裔加拿大研究：历史与社会语言学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Italian-Canadian Studies: Literature, Theatre, Cinema**<br>意大利裔加拿大研究：文学、戏剧、电影 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
-| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
-| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
+| **Introduction to Canadian Environmental Law and Policy I**<br>加拿大环境法与政策入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
+| **Introduction to Canadian Environmental Law and Policy II**<br>加拿大环境法与政策入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Canadian Income Taxation I**<br>加拿大所得税 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Canadian Income Taxation II**<br>加拿大所得税 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Canada in Comparative Perspective**<br>比较视野下的加拿大 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
@@ -65,7 +65,7 @@ ms.date: 2026-11-11
 | **The Indian Act: Canadian Law, Sovereignty and Indigenous Womxn**<br>《印第安人法》：加拿大法律、主权与原住民女性 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Senior Seminar in Indigenous Studies**<br>原住民研究高年级研讨课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Women, Gender and Labour**<br>妇女、性别与劳动 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
-| **Introduction to Women, Public Policy and the Law**<br>妇女、公共政策与法律导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
+| **Introduction to Women, Public Policy and the Law**<br>妇女、公共政策与法律入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Women, Migration and Diaspora**<br>妇女、移民与离散 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **The Montreal Experience: Sex and Gender in la Cité**<br>蒙特利尔经验：城邦中的性与性别 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |
 | **Indigenous Feminisms and Decolonization**<br>原住民女性主义与去殖民化 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj0728) |

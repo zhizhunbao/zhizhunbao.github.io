@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Education (Education in Minority Language Contexts and Inclusion)**<br>教育学硕士，少数语言环境中的教育与融合 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-education-minority-language-contexts-inclusion/) |
-| **Introduction à la recherche en éducation**<br>教育研究导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-education-minority-language-contexts-inclusion/) |
+| **Introduction à la recherche en éducation**<br>教育研究入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-education-minority-language-contexts-inclusion/) |
 | **Enseignement en milieu minoritaire francophone**<br>法语少数群体环境中的教学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-education-minority-language-contexts-inclusion/) |
 | **Langues, minorités et inclusion**<br>语言、少数群体与包容 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-education-minority-language-contexts-inclusion/) |
 | **Education dans une perspective autochtone**<br>原住民视角下的教育 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-education-concentration-education-minority-language-contexts-inclusion/) |

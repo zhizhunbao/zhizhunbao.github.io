@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Culinary Skills**<br>烹饪技能 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-skills/) |
-| **Introduction to Food Principles**<br>食品原理导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-skills/) |
+| **Introduction to Food Principles**<br>食品原理入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-skills/) |
 | **Mathematics**<br>数学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-skills/) |
 | **Nutrition**<br>营养学 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-skills/) |
 | **Garde Manger I**<br>冷菜间 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/culinaryarts/program/culinary-skills/) |

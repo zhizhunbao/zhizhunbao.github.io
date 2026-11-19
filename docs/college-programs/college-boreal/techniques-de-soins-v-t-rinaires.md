@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Techniques de soins vétérinaires**<br>兽医护理技术员 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Communication française professionnelle et scolaire**<br>法语专业与学术沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
-| **Introduction à la profession de techniques de soins vétérinaires**<br>兽医护理技术专业导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
+| **Introduction à la profession de techniques de soins vétérinaires**<br>兽医护理技术专业入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Initiation aux exercices cliniques**<br>临床训练入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Hygiène et santé publique**<br>卫生与公共健康 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Soins de base des animaux canins et félins**<br>犬猫基础护理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Anatomie et physiologie animale I**<br>动物解剖学与生理学 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
-| **Introduction aux soins vétérinaires**<br>兽医护理导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
+| **Introduction aux soins vétérinaires**<br>兽医护理入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Éthologie animale**<br>动物行为学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Mathématiques pour Techniques de soins vétérinaires**<br>兽医护理技术数学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Gestion de milieu de travail**<br>职场管理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
@@ -27,7 +27,7 @@ ms.date: 2026-11-08
 | **Soins vétérinaires I**<br>兽医护理 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Hématologie et urologie**<br>血液学与泌尿学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Nutrition et alimentation**<br>营养与饮食 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
-| **Introduction à la chirurgie et l'anesthésie**<br>外科与麻醉导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
+| **Introduction à la chirurgie et l'anesthésie**<br>外科与麻醉入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Parasitologie vétérinaire**<br>兽医寄生虫学 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Principes de pharmacologie**<br>药理学原理 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |
 | **Soins vétérinaires II**<br>兽医护理 II | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/techniques-de-soins-veterinaires/) |

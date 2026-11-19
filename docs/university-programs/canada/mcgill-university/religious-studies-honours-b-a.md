@@ -11,11 +11,11 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Religious Studies Honours (B.A.)**<br>宗教研究荣誉（B.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
-| **Introduction to the Study of Religions.**<br>宗教研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
+| **Introduction to the Study of Religions.**<br>宗教研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Theories of Religion.**<br>宗教理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Honours Thesis.**<br>荣誉论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Anthropology of Religion.**<br>宗教人类学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
-| **Introduction to Catholicism.**<br>天主教导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
+| **Introduction to Catholicism.**<br>天主教入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Selected Topics in Catholic Studies.**<br>天主教研究专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Jewish History: 400 B.C.E. to 1000.**<br>犹太史：公元前 400 年至 1000 年 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Jewish History: 1000 - 2000.**<br>犹太史：1000-2000 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
@@ -37,10 +37,10 @@ ms.date: 2026-11-11
 | **Theology through Fiction.**<br>透过小说看神学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Hinduism and Buddhism.**<br>印度教与佛教 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Religions of East Asia.**<br>东亚宗教 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
-| **Introduction to Yoga Traditions.**<br>瑜伽传统导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
+| **Introduction to Yoga Traditions.**<br>瑜伽传统入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Religious Ethics and the Environment.**<br>宗教伦理与环境 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Religion and Sexuality.**<br>宗教与性 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
-| **Introduction to Sikhism.**<br>锡克教导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
+| **Introduction to Sikhism.**<br>锡克教入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Introductory Latin 1.**<br>拉丁语入门 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Introductory Latin 2.**<br>拉丁语入门 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Intensive Introductory Latin.**<br>强化拉丁语入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
@@ -108,7 +108,7 @@ ms.date: 2026-11-11
 | **Contemporary Theological Issues.**<br>当代神学议题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Themes in Buddhist Studies.**<br>佛教研究主题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Women and the Christian Tradition.**<br>女性与基督教传统 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
-| **Introduction: Philosophy of Religion.**<br>导论：宗教哲学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
+| **Introduction: Philosophy of Religion.**<br>入门：宗教哲学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Mahayana Buddhism.**<br>大乘佛教 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Classical Hinduism.**<br>古典印度教 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |
 | **Bhakti Hinduism.**<br>虔信印度教 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/) |

@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Arts in Therapeutic Recreation**<br>治疗性休闲文学学士 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
-| **Introduction to Anatomy and Physiology**<br>解剖与生理学导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
+| **Introduction to Anatomy and Physiology**<br>解剖与生理学入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
 | **Academic Writing**<br>学术写作 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
 | **Ethics in Therapeutic Recreation and Health Promotion**<br>治疗性娱乐与健康促进中的伦理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
-| **An Intrduction to Psychology (I) or An Introduction to Psychology (II)**<br>心理学导论（I）或心理学导论（II） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
+| **An Intrduction to Psychology (I) or An Introduction to Psychology (II)**<br>心理学入门（I）或心理学入门（II） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
 | **Lifespan Human Development**<br>人类毕生发展 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
 | **Abnormal Psychology Note: This course is required for NCTRC Certification.**<br>变态心理学（注：本课程为 NCTRC 认证所必修） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |
 | **Understanding Indigenous Perspectives and Experiences**<br>理解原住民视角与经历 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/btr) |

@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **SPECIALIST (CO-OPERATIVE) PROGRAM IN PSYCHOLOGY (SCIENCE)**<br>心理学专精项目（合作教育）（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+| **Introduction to Biological and Cognitive Psychology**<br>生物与认知心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+| **Introduction to Clinical, Developmental, Personality and Social Psychology**<br>临床、发展、人格与社会心理学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Methods in Psychological Science**<br>心理科学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Advanced Research Methods Laboratory**<br>高级研究方法实验室 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Social Psychology Laboratory**<br>社会心理学实验课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
@@ -20,9 +20,9 @@ ms.date: 2026-11-11
 | **Human Movement Laboratory**<br>人体运动实验课 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Cognitive Psychology Laboratory**<br>认知心理学实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Brain Imaging Laboratory**<br>脑成像实验 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-| **Introduction to Data Analysis for Scientific Literacy**<br>科学素养的数据分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+| **Introduction to Data Analysis for Scientific Literacy**<br>科学素养的数据分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Statistics I**<br>统计学 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+| **Introduction to Statistics for the Social Sciences**<br>社会科学统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Applied Statistical Analysis for Psychology & Neuroscience**<br>心理学与神经科学应用统计分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Advanced Statistical Analysis for Psychology & Neuroscience**<br>心理学与神经科学高级统计分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 | **Scientific Communication in Psychology**<br>心理学科学传播 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
@@ -46,23 +46,20 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  | Academic Program Requirements |  | The program requires students to complete a total of 13.0 credits, including at least 4.0 credits at the C- or D-level, of which at 1.0 credit must be at the D-level: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | Academic Program Requirements |  | 1. Introduction to Psychology (1.0 credit) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | Academic Program Requirements | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | Academic Program Requirements | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | Academic Program Requirements |  | 2. Laboratory Methods (1.5 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | Academic Program Requirements | PSYB70H3 | Methods in Psychological Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | Academic Program Requirements | PSYC70H3 | Advanced Research Methods Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 1. Introduction to Psychology (1.0 credit) | PSYA01H3 | Introduction to Biological and Cognitive Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 1. Introduction to Psychology (1.0 credit) | PSYA02H3 | Introduction to Clinical, Developmental, Personality and Social Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 2. Laboratory Methods (1.5 credits) | PSYB70H3 | Methods in Psychological Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 2. Laboratory Methods (1.5 credits) | PSYC70H3 | Advanced Research Methods Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and |  | 0.5 credit from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYC71H3 | Social Psychology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYC72H3 | Developmental Psychology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYC74H3 | Human Movement Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYC75H3 | Cognitive Psychology Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYC76H3 | Brain Imaging Laboratory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | 3. Statistical Methods (1.5 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | 0.5 credit from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 3. Statistical Methods (1.5 credits) |  | 0.5 credit from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 3. Statistical Methods (1.5 credits) | PSYA06H3 | Introduction to Data Analysis for Scientific Literacy | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 3. Statistical Methods (1.5 credits) | STAB22H3 | Statistics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 3. Statistical Methods (1.5 credits) | STAB23H3 | Introduction to Statistics for the Social Sciences | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYB06H3 | Applied Statistical Analysis for Psychology & Neuroscience | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and |  | 0.5 credit from the following: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYC06H3 | Advanced Statistical Analysis for Psychology & Neuroscience | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
@@ -73,19 +70,16 @@ ms.date: 2026-11-11
 |  | and |  | 2. For students who have completed the retired (PSYB07H3) course, please contact the Undergraduate Program Administrator for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYC02H3 | Scientific Communication in Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | and | PSYC01H3 | History of Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | 6. Breadth in Psychology at the B-level and C-level (4.0 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | Students are required to take 2.0 credits at the B- or C-level from each of the content groups listed below: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | (a) Social and Developmental (courses listed in the 10- and 20-series) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | (b) Perception, Cognition and Physiology (courses listed in the 50- and 60-series) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | 7. Seminars in Psychology at the D-level (1.0 credit) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and; All PSY D-level courses are considered "seminars", with the exception of | PSYD98Y3 | Thesis in Psychology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | (a) Social and Developmental (courses listed in the 10- and 20-series) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | (b) Perception, Cognition and Physiology (courses listed in the 50- and 60-series) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and |  | 8. Additional credits in Psychology at the B-level or higher (3.0 credits) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and; Of the 3.0 credits, at least 1.0 credit must be at the C-level. Supervised study [ | PSYB90H3 | Supervised Introductory Research in Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and; Of the 3.0 credits, at least 1.0 credit must be at the C-level. Supervised study [ (or) | PSYC90H3 | Supervised Study in Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and; Of the 3.0 credits, at least 1.0 credit must be at the C-level. Supervised study [ (or) | PSYC93H3 | Supervised Study in Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
-|  | and; Of the 3.0 credits, at least 1.0 credit must be at the C-level. Supervised study [ | PSYD98Y3 | Thesis in Psychology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 6. Breadth in Psychology at the B-level and C-level (4.0 credits) |  | Students are required to take 2.0 credits at the B- or C-level from each of the content groups listed below: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 6. Breadth in Psychology at the B-level and C-level (4.0 credits) |  | (a) Social and Developmental (courses listed in the 10- and 20-series) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 6. Breadth in Psychology at the B-level and C-level (4.0 credits) |  | (b) Perception, Cognition and Physiology (courses listed in the 50- and 60-series) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 7. Seminars in Psychology at the D-level (1.0 credit); All PSY D-level courses are considered "seminars", with the exception of | PSYD98Y3 | Thesis in Psychology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 7. Seminars in Psychology at the D-level (1.0 credit) |  | (a) Social and Developmental (courses listed in the 10- and 20-series) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 7. Seminars in Psychology at the D-level (1.0 credit) |  | (b) Perception, Cognition and Physiology (courses listed in the 50- and 60-series) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 8. Additional credits in Psychology at the B-level or higher (3.0 credits); Of the 3.0 credits, at least 1.0 credit must be at the C-level. Supervised study [ | PSYB90H3 | Supervised Introductory Research in Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 8. Additional credits in Psychology at the B-level or higher (3.0 credits); Of the 3.0 credits, at least 1.0 credit must be at the C-level. Supervised study [ (or) | PSYC90H3 | Supervised Study in Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 8. Additional credits in Psychology at the B-level or higher (3.0 credits); Of the 3.0 credits, at least 1.0 credit must be at the C-level. Supervised study [ (or) | PSYC93H3 | Supervised Study in Psychology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
+|  | 8. Additional credits in Psychology at the B-level or higher (3.0 credits); Of the 3.0 credits, at least 1.0 credit must be at the C-level. Supervised study [ | PSYD98Y3 | Thesis in Psychology | 1.0 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | Planning Your Co-op Work Terms & Academics |  | Enrollment in a Co-op program requires careful planning of both academics and work terms. Students should consult their Co-op Program Coordinator and Academic Program Advisors, as well as review the standard co-op sequences and course maps available on the Arts & Science Co-op website and Arts and Science Co-op Compass for guidance. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | Co-op Work Term Requirements |  | Students must successfully complete three Co-op work terms, totaling 12 months in duration, which can be fulfilled through the following options: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |
 |  | Co-op Work Term Requirements |  | Three 4-month work terms, or |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1160a) |

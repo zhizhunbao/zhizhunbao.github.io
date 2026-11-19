@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Autism & Behavioural Science (1027)**<br>孤独症与行为科学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/autism-behavioural-science/full-time/kingston) |
-| **Introduction to Applied Behaviour Analysis**<br>应用行为分析导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/autism-behavioural-science/full-time/kingston) |
-| **Introduction to Autism Spectrum Disorders**<br>自闭症谱系障碍导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/autism-behavioural-science/full-time/kingston) |
+| **Introduction to Applied Behaviour Analysis**<br>应用行为分析入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/autism-behavioural-science/full-time/kingston) |
+| **Introduction to Autism Spectrum Disorders**<br>自闭症谱系障碍入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/autism-behavioural-science/full-time/kingston) |
 | **Ethics and Professionalism**<br>伦理与职业素养 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/autism-behavioural-science/full-time/kingston) |
 | **Working With Families & Teams**<br>与家庭和团队合作 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/autism-behavioural-science/full-time/kingston) |
 | **Field Placement 1**<br>现场实习 1 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/autism-behavioural-science/full-time/kingston) |

@@ -1,10 +1,10 @@
 ---
-title: "3.3.70 Applied and Engineering Physics, Master of Science"
+title: "4.3.70 Applied and Engineering Physics, Master of Science"
 description: "University Programs > United States > Stanford University > Applied and Engineering Physics, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.70 Applied and Engineering Physics, Master of Science
+# 4.3.70 Applied and Engineering Physics, Master of Science
 
 ## Glossary
 
@@ -27,7 +27,7 @@ ms.date: 2026-11-18
 | **Electrons and Photons**<br>电子与光子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-and-engineering-physics/master-of-science) |
 | **Atoms, Fields and Photons**<br>原子、场与光子 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-and-engineering-physics/master-of-science) |
 | **Quantum Materials**<br>量子材料 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-and-engineering-physics/master-of-science) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-and-engineering-physics/master-of-science) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-and-engineering-physics/master-of-science) |
 
 ## Courses
 

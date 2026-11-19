@@ -11,8 +11,8 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Radio, Television and Broadcast News - Radio Major**<br>广播、电视与广播新闻－广播专业 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-radio) |
-| **Introduction to Radio**<br>广播电台导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-radio) |
-| **Introduction to Digital Productivity Applications and Web Design**<br>数字办公应用与网页设计导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-radio) |
+| **Introduction to Radio**<br>广播电台入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-radio) |
+| **Introduction to Digital Productivity Applications and Web Design**<br>数字办公应用与网页设计入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-radio) |
 | **Writing Fundamentals for Media**<br>媒体写作基础 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-radio) |
 | **Leadership in Broadcasting**<br>广播领导力 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-radio) |
 | **Audio Video Production**<br>音视频制作 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/radio-television-and-broadcast-news-radio) |

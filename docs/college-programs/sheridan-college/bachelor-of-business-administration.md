@@ -21,13 +21,13 @@ ms.date: 2026-11-08
 | **Finance Fundamentals**<br>金融基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Business Information Systems**<br>商业信息系统 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
-| **Introduction to Statistics (Required Degree Breadth Elective)**<br>统计学导论（学位广度必修选修课） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
+| **Introduction to Statistics (Required Degree Breadth Elective)**<br>统计学入门（学位广度必修选修课） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Business Statistics**<br>商务统计学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Managerial Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Business Law**<br>商法 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Career Portfolio Development**<br>职业作品集开发 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
-| **Introduction to Research (Required Degree Breadth Elective)**<br>研究导论（学位广度必修选修课） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
+| **Introduction to Research (Required Degree Breadth Elective)**<br>研究入门（学位广度必修选修课） | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Applied Research in Business**<br>商业应用研究 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |
 | **Human Resources Management**<br>人力资源管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/bachelor-business-administration) |

@@ -18,7 +18,7 @@ ms.date: 2026-11-11
 | **Digital Photography**<br>数码摄影 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/visual-art) |
 | **Studio Theory**<br>工作室理论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/visual-art) |
 | **Ceramic Design and Pedagogical Approaches: Art Education**<br>陶瓷设计与教学方法：艺术教育 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/visual-art) |
-| **Digital Media in Arts Education: Introduction**<br>艺术教育中的数字媒体：导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/visual-art) |
+| **Digital Media in Arts Education: Introduction**<br>艺术教育中的数字媒体：入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/visual-art) |
 
 ## Courses
 

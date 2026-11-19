@@ -30,10 +30,10 @@ ms.date: 2026-11-08
 | **HR Management Systems and HR Metrics**<br>人力资源管理系统与人力资源指标 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
 | **Co-op Work Placement I**<br>合作教育工作实习 I | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
 | **Pension and Benefits Administration**<br>养老金与福利管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
-| **Introduction to Canadian Government**<br>加拿大政府导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
+| **Introduction to Canadian Government**<br>加拿大政府入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
 | **Organization Development and Change Leadership**<br>组织发展与变革领导力 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
 | **Compensation and Rewards Systems**<br>薪酬与奖励体系 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
 | **Industrial and Labour Relations**<br>产业与劳动关系 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |
 | **Strategic Human Resources Planning**<br>战略人力资源规划 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://www.niagaracollege.ca/business/program/ba-hons-human-resources/) |

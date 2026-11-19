@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN WRITING**<br>写作证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
-| **WRITING IN THE WORLD: INTRODUCTION TO PROFESSIONAL WRITING**<br>世界中的写作：专业写作导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO EXPOSITORY WRITING**<br>说明文写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
+| **WRITING IN THE WORLD: INTRODUCTION TO PROFESSIONAL WRITING**<br>世界中的写作：专业写作入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
 | **BUILDING BETTER (COMMUNICATION) BRIDGES: RHETORIC & PROFESSIONAL COMMUNICATION FOR ENGINEERS**<br>搭建更好的（沟通）桥梁：工程师的修辞与专业沟通 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
 | **NO BONES ABOUT IT: WRITING IN THE SCIENCES**<br>毫无疑问：科学写作 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
 | **THE WRITERS' STUDIO**<br>作家工作室 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
-| **GLOBAL POSITIONING: INTRODUCTION TO RHETORIC AND PROFESSIONAL COMMUNICATION**<br>全球定位：修辞与专业沟通导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
-| **WRITING WITH PURPOSE: INTRODUCTION TO EFFECTIVE PROFESSIONAL AND ACADEMIC COMMUNICATION**<br>有目的的写作：有效专业与学术沟通导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
+| **GLOBAL POSITIONING: INTRODUCTION TO RHETORIC AND PROFESSIONAL COMMUNICATION**<br>全球定位：修辞与专业沟通入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
+| **WRITING WITH PURPOSE: INTRODUCTION TO EFFECTIVE PROFESSIONAL AND ACADEMIC COMMUNICATION**<br>有目的的写作：有效专业与学术沟通入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
 | **THE ENGLISH LANGUAGE FOR CREATIVE AND PROFESSIONAL WRITERS**<br>创意与专业写作者的英语 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
 | **RE-VISIONING SELF: CREATING YOUR PROFESSIONAL PORTFOLIO**<br>重塑自我：创建你的职业档案 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
 

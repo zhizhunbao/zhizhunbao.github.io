@@ -20,7 +20,7 @@ ms.date: 2026-11-08
 | **Personal Finance I (CFP)**<br>个人理财 1（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbfinc) |
 | **Business Statistics I**<br>商业统计 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbfinc) |
 | **Corporate Finance**<br>公司财务 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbfinc) |
-| **Introduction to Corporate Finance**<br>公司理财导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbfinc) |
+| **Introduction to Corporate Finance**<br>公司理财入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbfinc) |
 | **International Financial Management**<br>国际财务管理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbfinc) |
 | **Personal Finance II (CFP)**<br>个人理财 2（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbfinc) |
 | **Security Analysis (CFP)**<br>证券分析（CFP） | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/pbfinc) |

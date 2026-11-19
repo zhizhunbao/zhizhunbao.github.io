@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Diagnostic Cardiac Sonography (Fast Track)**<br>心脏超声诊断（快读） | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
 | **Cardiac Sonography Basics**<br>心脏超声基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
 | **Sonography Physics I**<br>超声物理学 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
-| **Introduction To Echocardiography**<br>超声心动图导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
+| **Introduction To Echocardiography**<br>超声心动图入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
 | **Cardiovascular Anatomy and Physiology**<br>心血管解剖学与生理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
 | **Applied Echocardiography**<br>应用超声心动图 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
 | **Cardiac Pathophysiology**<br>心脏病理生理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
-| **Introduction to Patient Care**<br>患者护理导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
+| **Introduction to Patient Care**<br>患者护理入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
 | **Sonography Physics II**<br>超声物理学 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
 | **Congenital Heart Disease**<br>先天性心脏病 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |
 | **Valvular Disease**<br>瓣膜疾病 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/diagnostic-cardiac-sonography) |

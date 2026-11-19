@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Pharmacy Technician - Diploma**<br>药剂技术员文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |
-| **Introduction to Program and Online Learning for Success**<br>课程与在线学习成功导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |
+| **Introduction to Program and Online Learning for Success**<br>课程与在线学习成功入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |
 | **Anatomy, Physiology and Medical Terminology**<br>解剖学、生理学与医学术语 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |
-| **Introduction to Professional Practice**<br>专业实践导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |
+| **Introduction to Professional Practice**<br>专业实践入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |
 | **Interpersonal Communication in Pharmacy**<br>药学人际沟通 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |
 | **Fundamentals of Product Distribution**<br>产品分销基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |
 | **Pharmacy Calculations**<br>药学计算 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/pharmacy-technician-diploma) |

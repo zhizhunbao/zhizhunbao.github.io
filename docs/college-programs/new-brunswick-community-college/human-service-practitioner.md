@@ -27,12 +27,12 @@ ms.date: 2026-11-08
 | **Orientation to Community Service**<br>社区服务入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
 | **Mental Health Foundations**<br>心理健康基础 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
 | **Principles of Behaviour and Intervention**<br>行为与干预原则 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
 | **Developmental Psychology: Conception to Adolescence**<br>发展心理学：受孕至青春期 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
 | **Interpersonal and Group Dynamics**<br>人际与团体动力学 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
 | **Developmental Psychology: Adolescence to End of Life**<br>发展心理学：青春期至生命终点 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
 | **Work Safely**<br>安全作业 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
 | **Family Dynamics and Support**<br>家庭动力学与支持 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=8e8f00ac-217f-411d-9d61-3129f4f4cd57) |
 
 ## Courses

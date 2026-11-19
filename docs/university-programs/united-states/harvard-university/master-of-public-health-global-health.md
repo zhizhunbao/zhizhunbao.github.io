@@ -1,10 +1,10 @@
 ---
-title: "3.1.70 Master of Public Health – Global Health"
+title: "4.1.70 Master of Public Health – Global Health"
 description: "University Programs > United States > Harvard University > Master of Public Health – Global Health: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.70 Master of Public Health – Global Health
+# 4.1.70 Master of Public Health – Global Health
 
 ## Glossary
 
@@ -19,11 +19,11 @@ ms.date: 2026-11-18
 | **Public Health Policy and Politics**<br>公共卫生政策与政治 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
 | **Applied Practice Experience for Global Health**<br>全球健康应用实践经历 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
 | **Consequential Leadership in Practice**<br>实践中的关键领导力 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
-| **Introduction to Economics with Applications to Health and Development**<br>经济学导论及其在健康与发展中的应用 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
+| **Introduction to Economics with Applications to Health and Development**<br>经济学入门及其在健康与发展中的应用 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
 | **Fundamentals of Global Health**<br>全球健康基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
 | **Ethical Basis of the Practice of Public Health**<br>公共卫生实践的伦理基础 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
 | **HIV Interventions: Rationale, Design, and Evaluation**<br>HIV干预：原理、设计与评估 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
-| **Introduction to Qualitative Research for Global Health**<br>全球健康定性研究导论 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
+| **Introduction to Qualitative Research for Global Health**<br>全球健康定性研究入门 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://hsph.harvard.edu/program/mph-global-health/) |
 
 ## Courses
 

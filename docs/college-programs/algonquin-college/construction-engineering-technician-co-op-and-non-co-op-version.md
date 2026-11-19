@@ -37,7 +37,7 @@ ms.date: 2026-11-08
 | **Construction Building Code**<br>施工建筑规范 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0190X03FWO.pdf) |
 | **Business Principles**<br>商业原理 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0190X03FWO.pdf) |
 | **Hydraulics**<br>液压学 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0190X03FWO.pdf) |
-| **Introduction to Structural Design**<br>结构设计导论 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0190X03FWO.pdf) |
+| **Introduction to Structural Design**<br>结构设计入门 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0190X03FWO.pdf) |
 | **Communicating Technical Information**<br>技术信息沟通 | (Definition pending) | （定义待补） | [Algonquin College, n.d.](https://www.algonquincollege.com/programdocs/0190X03FWO.pdf) |
 
 ## Courses

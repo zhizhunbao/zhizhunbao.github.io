@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diploma in Arabic Language I**<br>阿拉伯语 I 文凭 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1Mgy0Cs3) |
-| **Introduction to Arabic 1**<br>阿拉伯语导论 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1Mgy0Cs3) |
-| **Introduction to Arabic 2**<br>阿拉伯语导论 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1Mgy0Cs3) |
+| **Introduction to Arabic 1**<br>阿拉伯语入门 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1Mgy0Cs3) |
+| **Introduction to Arabic 2**<br>阿拉伯语入门 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1Mgy0Cs3) |
 | **Intermediate Arabic 1**<br>中级阿拉伯语 1 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1Mgy0Cs3) |
 | **Intermediate Arabic 2**<br>中级阿拉伯语 2 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/S1Mgy0Cs3) |
 

@@ -20,12 +20,12 @@ ms.date: 2026-11-08
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Veterinary Anatomy & Physiology 2**<br>兽医解剖与生理学 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Veterinary Lab Techniques 2: Urinalysis & Microbiology**<br>兽医实验室技术 2：尿液分析与微生物学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
-| **Introduction to Veterinary Nursing Techniques**<br>兽医护理技术导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
+| **Introduction to Veterinary Nursing Techniques**<br>兽医护理技术入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Veterinary Pharmacology**<br>兽医药理学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Veterinary Radiography & Diagnostic Imaging**<br>兽医放射摄影与诊断影像 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Veterinary Technician Practicum 1**<br>兽医技术员实习 1 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Companion Animal Nutrition**<br>伴侣动物营养 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
-| **Introduction to Veterinary Anesthesia & Surgical Nursing Techniques**<br>兽医麻醉与外科护理技术导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
+| **Introduction to Veterinary Anesthesia & Surgical Nursing Techniques**<br>兽医麻醉与外科护理技术入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Advanced Veterinary Nursing Techniques**<br>高级兽医护理技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Veterinary Lab Techniques 3: Hematology and Cytology**<br>兽医实验室技术 3：血液学与细胞学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |
 | **Veterinary Technician Practicum 2**<br>兽医技术员实习 2 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/veterinary-technician) |

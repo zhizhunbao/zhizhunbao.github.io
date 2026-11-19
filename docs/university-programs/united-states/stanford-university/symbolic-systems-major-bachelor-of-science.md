@@ -1,10 +1,10 @@
 ---
-title: "3.3.65 Symbolic Systems, Major: Bachelor of Science"
+title: "4.3.65 Symbolic Systems, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Symbolic Systems, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.65 Symbolic Systems, Major: Bachelor of Science
+# 4.3.65 Symbolic Systems, Major: Bachelor of Science
 
 ## Glossary
 
@@ -79,7 +79,7 @@ ms.date: 2026-11-18
 | **Scientific Realism, Perspectivism, and Antirealism**<br>科学实在论、视角主义与反实在论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Philosophy of Neuroscience**<br>神经科学哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **History of Modern Moral Philosophy**<br>现代道德哲学史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Undergraduate Introduction to Metaethics**<br>本科生元伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Philosophy of Law**<br>法哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Metaphysics**<br>形而上学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Philosophy of Language**<br>语言哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -95,13 +95,13 @@ ms.date: 2026-11-18
 | **Mathematical Logic**<br>数理逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Metalogic**<br>元逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Mathematical Foundations of Computing**<br>计算的数学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to the Theory of Computation**<br>计算理论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to the Theory of Computation**<br>计算理论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Computability and Logic**<br>可计算性与逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Probability and Statistics for Engineers**<br>工程师概率与统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Probability for Computer Scientists**<br>计算机科学家概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Probabilistic Systems Analysis**<br>概率系统分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Probability Theory**<br>概率论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Probability Theory**<br>概率论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Probabilistic Analysis**<br>概率分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Programming Methodology**<br>编程方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Programming Methodologies in JavaScript and Python (Accelerated)**<br>JavaScript 与 Python 编程方法（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -110,28 +110,28 @@ ms.date: 2026-11-18
 | **Computer Systems from the Ground Up**<br>从零开始的计算机系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Applied Machine Learning**<br>应用机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Full-Stack Web Programming**<br>全栈 Web 编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Human-Computer Interaction Design**<br>人机交互设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Human-Computer Interaction Design**<br>人机交互设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Cross-platform Mobile App Development**<br>跨平台移动应用开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **iOS Application Development**<br>iOS 应用开发 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Machine Learning**<br>机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Deep Learning**<br>深度学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Human Behavioral Biology**<br>人类行为生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Phonetics**<br>语音学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Syntax I**<br>句法学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Semantics and Pragmatics**<br>语义学与语用学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Lexical Semantics**<br>词汇语义学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Psycholinguistics**<br>心理语言学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Semantics and Pragmatics**<br>语义学与语用学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Lexical Semantics**<br>词汇语义学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Psycholinguistics**<br>心理语言学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Language and Society**<br>语言与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Perception**<br>知觉导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Learning and Memory**<br>学习与记忆导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Cognitive Neuroscience**<br>认知神经科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Developmental Psychology**<br>发展心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Perception**<br>知觉入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Learning and Memory**<br>学习与记忆入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Cognitive Neuroscience**<br>认知神经科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Developmental Psychology**<br>发展心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Judgment and Decision-Making**<br>判断与决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Phonology**<br>音系学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Word Formation**<br>构词法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Phonology**<br>音系学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Word Formation**<br>构词法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Syntax II**<br>句法学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Syntax of English**<br>英语句法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Crosslinguistic Syntax**<br>跨语言句法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -148,7 +148,7 @@ ms.date: 2026-11-18
 | **Design and Analysis of Algorithms**<br>算法设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Decision Making under Uncertainty**<br>不确定性下的决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Automated Reasoning**<br>自动推理导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Automated Reasoning**<br>自动推理入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Probabilistic models of cognition: Reasoning and Learning**<br>认知的概率模型：推理与学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Image Systems Engineering**<br>图像系统工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **A modern explainable AI approach to Theoretical Neuroscience**<br>理论神经科学的现代可解释AI方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -211,9 +211,9 @@ ms.date: 2026-11-18
 | **Global Algorithmic Development and Ethics**<br>全球算法发展与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Governing Artificial Intelligence: Law, Policy, and Institutions**<br>人工智能治理：法律、政策与制度 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Policy Practicum: AI For Legal Help**<br>政策实践：法律援助的人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Linguistics**<br>语言学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Linguistics**<br>语言学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Proofs and Modern Mathematics**<br>证明与现代数学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Combinatorics and Its Applications**<br>组合数学及其应用导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Combinatorics and Its Applications**<br>组合数学及其应用入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Science of the Impossible**<br>不可能的科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Networks**<br>网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Fundamentals of Data Science: Prediction, Inference, Causality**<br>数据科学基础：预测、推断、因果 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -227,10 +227,10 @@ ms.date: 2026-11-18
 | **Neuroforecasting**<br>神经预测 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Sociocultural Shaping of Psychological Experience**<br>心理体验的社会文化塑造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Ethics of Truth in a Post-Truth World**<br>后真相世界中的真理伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Race and Technology**<br>种族与技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Race and Technology**<br>种族与技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Governance Design: Real, Virtual, and Imaginary Worlds**<br>治理设计：真实、虚拟与想象的世界 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Robotics**<br>机器人学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Spoken Language Processing**<br>口语语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Machine Learning with Graphs**<br>图机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Computer Vision: From 3D Perception to 3D Reconstruction and Beyond**<br>计算机视觉：从3D感知到3D重建及更远 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -241,7 +241,7 @@ ms.date: 2026-11-18
 | **Machine Learning Under Distributional Shifts**<br>分布偏移下的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Brain decoding**<br>大脑解码 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Machine Learning Methods for Neural Data Analysis**<br>神经数据分析的机器学习方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Intro to Art & Technology**<br>艺术与技术导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Intro to Art & Technology**<br>艺术与技术入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Medical Device Innovation**<br>医疗器械创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Startup Garage: Design**<br>创业车库：设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Startup Garage: Testing and Launch**<br>创业车库：测试与发布 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -251,16 +251,16 @@ ms.date: 2026-11-18
 | **Digital Civil Society**<br>数字公民社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **How Can Generative AI Help Us Learn?**<br>生成式 AI 如何帮助我们学习？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Operating Systems Principles**<br>操作系统原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **A Hands-On Introduction to Building AI-Enabled Robots**<br>构建AI机器人实践导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **A Hands-On Introduction to Building AI-Enabled Robots**<br>构建AI机器人实践入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Web Applications**<br>网络应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Computer Graphics and Imaging**<br>计算机图形学与成像入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Trust and Safety**<br>信任与安全 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Continuous Mathematical Methods with an Emphasis on Machine Learning**<br>强调机器学习的连续数学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Hardware Accelerators for Machine Learning**<br>机器学习硬件加速器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Apps With LLMs Inside**<br>内置大语言模型的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Deep Generative Models**<br>深度生成模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Mining Massive Data Sets**<br>海量数据集挖掘 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Cryptography**<br>密码学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Cryptography**<br>密码学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Computational Biology: Structure and Organization of Biomolecules and Cells**<br>计算生物学：生物分子与细胞的结构与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The AI Awakening: Implications for the Economy and Society**<br>人工智能觉醒：对经济与社会的影响 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Self Improving AI Agents**<br>自我改进的人工智能智能体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -271,7 +271,7 @@ ms.date: 2026-11-18
 | **Principles of Data Science**<br>数据科学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Designing for Physical AI**<br>物理AI设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Design to Equip Learners in Under-Resourced Communities**<br>为资源匮乏社区的学习者赋能的设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Machine Learning**<br>机器学习导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Machine Learning**<br>机器学习入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Designing for Authenticity**<br>真实性设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Literary Modeling**<br>文学建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Leadership of Technology Ventures**<br>科技创业企业的领导力 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -293,7 +293,7 @@ ms.date: 2026-11-18
 | **Science and Technology Policy**<br>科学技术政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Regulating Emerging Technology: Risks, Opportunities, and Reality**<br>监管新兴技术：风险、机遇与现实 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Data Science for Social Impact**<br>社会影响的数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Modern Applied Statistics: Learning**<br>现代应用统计：学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Modern Applied Statistics: Learning II**<br>现代应用统计：学习 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -302,20 +302,20 @@ ms.date: 2026-11-18
 | **Studying Stanford: Governance, Culture, and Innovation**<br>研究斯坦福：治理、文化与创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Governance, Culture, and Innovation in Oxford**<br>牛津的治理、文化与创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Foundations of Bioethics**<br>生物伦理学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Intro to Disability Studies: Disability and Technology**<br>残障研究导论：残障与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Intro to Disability Studies: Disability and Technology**<br>残障研究入门：残障与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Social and Ethical Issues in the Neurosciences**<br>神经科学中的社会与伦理问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Environmental Ethics**<br>环境伦理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Environmental Ethics**<br>环境伦理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Theoretical Population Genetics**<br>理论群体遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Stochastic and Nonlinear Dynamics**<br>随机与非线性动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Quantitative Evolutionary Dynamics and Genomics**<br>定量进化动力学与基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Mathematical Models and Medical Decisions**<br>数学模型与医疗决策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Market Design**<br>市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Signals and Systems I**<br>信号与系统 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Statistics for the Health Sciences**<br>健康科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Health Sciences Statistics**<br>健康科学统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Statistics for the Health Sciences**<br>健康科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Health Sciences Statistics**<br>健康科学统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Principles of Epidemiology**<br>流行病学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Health Policy Modeling**<br>健康政策建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Statistics for Biology**<br>生物学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Statistics for Biology**<br>生物学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Statistical Models in Biology**<br>生物学中的统计模型 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Algorithmic Foundations for Artificial Intelligence in Healthcare**<br>医疗领域人工智能的算法基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Neuromorphics: Brains in Silicon**<br>神经形态学：硅中的大脑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -329,7 +329,7 @@ ms.date: 2026-11-18
 | **Biology, Health and Big Data**<br>生物学、健康与大数据 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Topics in Neurodiversity: Design Thinking Approaches**<br>神经多样性专题：设计思维方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Computational Neuroimaging: Data Analyses**<br>计算神经影像：数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Physiology**<br>生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Neuroplasticity: From Synapses to Behavior**<br>神经可塑性：从突触到行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -340,7 +340,7 @@ ms.date: 2026-11-18
 | **Ecology and Evolution of Infectious Disease in a Changing World**<br>变化世界中传染病的生态学与演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Biochemistry & Molecular Biology**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Fundamentals of Blockchain Infrastructure**<br>区块链基础设施基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Materials Science, Biomaterials Emphasis**<br>材料科学导论，生物材料方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Materials Science, Biomaterials Emphasis**<br>材料科学入门，生物材料方向 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Gender and Media**<br>性别与媒体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Beyond Silicon Valley: Technology and Development in the Global South**<br>超越硅谷：全球南方的技术与发展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Molecular Genetics Ethics and Practice**<br>分子遗传学伦理与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -357,10 +357,10 @@ ms.date: 2026-11-18
 | **How Can We Enforce Good Norms in Inclusive Ways?**<br>我们如何以包容的方式推行良好规范？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Intermediate Microeconomics for Public Policy**<br>公共政策中级微观经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Data Analysis for Quantitative Research**<br>定量研究的数据分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Applied Statistics**<br>应用统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Data Analysis**<br>数据分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Applied Statistics**<br>应用统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Data Analysis**<br>数据分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Statistics for Engineering and the Sciences**<br>工程与科学统计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Multivariate Analysis, Measurement, and Study of Change in Social Science Research**<br>社会科学研究中的多元分析、测量与变化研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Media Processes and Effects**<br>媒体过程与效应 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Game Theory and Economic Applications**<br>博弈论及其经济应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -373,7 +373,7 @@ ms.date: 2026-11-18
 | **Phenomenology: The Feel of Lived Experience**<br>现象学：生活体验的感受 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Social Media Cultures: Communication Capstone Seminar**<br>社交媒体文化：传播学毕业研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Media Markets and Social Good**<br>媒体市场与社会公益 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Education Data Science: Data Processing**<br>教育数据科学导论：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Education Data Science: Data Processing**<br>教育数据科学入门：数据处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **AI and Vibecoding for healthcare**<br>医疗领域的AI与氛围编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Development and Epidemiology**<br>发育与流行病学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Culture and Madness: Anthropological and Psychiatric Approaches to Mental Illness**<br>文化与疯狂：精神疾病的人类学与精神病学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -383,27 +383,27 @@ ms.date: 2026-11-18
 | **Know Thyself ! The Philosophy and Psychology of Self-Examination**<br>认识你自己！自我省察的哲学与心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Promises and Perils of Social and Behavioral Genomics**<br>社会与行为基因组学的前景与风险 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Justice**<br>正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Personality and Affective Science**<br>人格与情感科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Abnormal Psychology**<br>变态心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Personality and Affective Science**<br>人格与情感科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Abnormal Psychology**<br>变态心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Principles of Computer Systems**<br>计算机系统原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to AI Safety**<br>AI 安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to AI Safety**<br>AI 安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **An Intro to Making: What is EE**<br>制作入门：什么是电子工程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Hack Lab: Introduction to Cybersecurity**<br>黑客实验室：网络安全入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Machine Learning for Neuroimaging**<br>神经影像的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Communication**<br>传播学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Communication**<br>传播学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Networks and Human Behavior**<br>网络与人类行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Economic Analysis I**<br>经济分析 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Accelerated Game Theory**<br>博弈论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Organizations: Theory and Management**<br>组织：理论与管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Game Theory**<br>博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Game Theory**<br>博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Science of Politics**<br>政治科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **American Political Institutions in Uncertain Times**<br>不确定时代的美国政治制度 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Social Networks**<br>社交网络导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Social Networks**<br>社交网络入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Education and Society**<br>教育与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Applied Econometrics**<br>应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Communication Research Methods**<br>传播研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Tackling Big Questions Using Social Data Science**<br>用社会数据科学应对重大问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -416,7 +416,7 @@ ms.date: 2026-11-18
 | **Liberalism and its Critics**<br>自由主义及其批评者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Politics of Algorithms**<br>算法的政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Evolution**<br>进化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Neuroscience**<br>神经科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Neuroscience**<br>神经科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Behavioral Ecology**<br>行为生态学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Advanced Neurobiology: Food, Sex, and Gaming**<br>高级神经生物学：食物、性与游戏 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **BioSecurity and Pandemic Resilience**<br>生物安全与大流行韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -425,7 +425,7 @@ ms.date: 2026-11-18
 | **Censorship and Propaganda**<br>审查与宣传 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Advanced Digital Journalism Production**<br>高级数字新闻制作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Big Local Journalism: a project-based class**<br>大型地方新闻：项目式课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Intro to Modern Data Systems**<br>现代数据系统导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Intro to Modern Data Systems**<br>现代数据系统入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Empowering Educators via Language Technology**<br>通过语言技术赋能教育者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Concepts and Analytic Skills for the Social Sector**<br>社会部门的概念与分析技能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Climate Perspectives: Climate Science, Impacts, Carbon Markets, Decarbonization Models and Projects**<br>气候视角：气候科学、影响、碳市场、脱碳模型与项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -441,7 +441,7 @@ ms.date: 2026-11-18
 | **Analysis of Variation**<br>变异分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Programming for Linguists**<br>语言学家的编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Machine Learning and Causal Inference**<br>机器学习与因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Stochastic Modeling**<br>随机建模导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Stochastic Modeling**<br>随机建模入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Future of Work: What Will it Mean to Build AI-Augmented Organizations?**<br>工作的未来：构建人工智能增强型组织意味着什么？ | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Stochastic Modeling**<br>随机建模 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Stochastic Simulation and Monte Carlo Methods**<br>随机模拟与蒙特卡罗方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -450,8 +450,8 @@ ms.date: 2026-11-18
 | **Immersive Creative Writing**<br>沉浸式创意写作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Access, Distinction and Material Culture through Coffee**<br>通过咖啡看可及性、区分与物质文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Displacement and Identity in 20th Century Europe**<br>20世纪欧洲的流离与身份 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Moral Philosophy**<br>道德哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Philosophy of Science**<br>科学哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Moral Philosophy**<br>道德哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Philosophy of Science**<br>科学哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Philosophy of Evolutionary Biology**<br>进化生物学哲学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Ethical Theory**<br>伦理理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Public Opinion and American Democracy**<br>民意与美国民主 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -460,7 +460,7 @@ ms.date: 2026-11-18
 | **Research Methods in Psychology**<br>心理学研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Psychology of Communication About Politics in America**<br>美国政治传播的心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **America: Unequal**<br>美国：不平等 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Computational Social Science**<br>计算社会科学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Computational Social Science**<br>计算社会科学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Inequality in American Society**<br>美国社会中的不平等 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Social Networks**<br>社会网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Economic Sociology**<br>经济社会学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -468,9 +468,9 @@ ms.date: 2026-11-18
 | **Globalization and Social Change**<br>全球化与社会变迁 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Crime and Punishment in America**<br>美国的犯罪与惩罚 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Meta-research: Appraising Research Findings, Bias, and Meta-analysis**<br>元研究：评估研究发现、偏倚与荟萃分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Doing STS: Introduction to Research**<br>STS实践：研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Doing STS: Introduction to Research**<br>STS实践：研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Fundamentals of Computer-Generated Sound**<br>计算机生成声音基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Music, Mind, and Human Behavior**<br>音乐、心智与人类行为 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Stanford Laptop Orchestra: Composition, Coding, and Performance**<br>斯坦福笔记本电脑乐团：作曲、编程与演奏 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -479,14 +479,14 @@ ms.date: 2026-11-18
 | **Computational Music Analysis**<br>计算音乐分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Music, Computing, Design: The Art of Design**<br>音乐、计算、设计：设计的艺术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Object-Oriented Systems Design**<br>面向对象系统设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Design**<br>设计导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Design**<br>设计入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Sound in Space**<br>空间中的声音 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Ethical Analyst**<br>伦理分析师 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Modern Political Thought: Machiavelli to Marx and Mill**<br>现代政治思想：从马基雅维利到马克思与密尔 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Classical Seminar: Origins of Political Thought**<br>古典研讨课：政治思想的起源 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Economic Analysis II**<br>经济分析 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Advanced Topics in Game Theory and Information Economics**<br>博弈论与信息经济学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Game Theory (Accelerated)**<br>博弈论导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Game Theory (Accelerated)**<br>博弈论入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Formal Theory I**<br>形式理论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Experimental Economics**<br>实验经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Behavioral and Experimental Economics II**<br>行为与实验经济学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -502,34 +502,34 @@ ms.date: 2026-11-18
 | **Advanced Topics in Econometrics**<br>计量经济学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Foundations of Finance**<br>金融学基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Decision Modeling and Information**<br>决策建模与信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Optimization**<br>优化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Decision Analysis**<br>决策分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Optimization**<br>优化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Decision Analysis**<br>决策分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Innovation, Creativity, and Change**<br>创新、创造力与变革 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Reliability and Resilience of Engineered Systems**<br>工程系统的可靠性与韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Project Course in Engineering Risk Analysis**<br>工程风险分析项目课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Foundations of Decision Analysis**<br>决策分析基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Influence Diagrams and Probabilistics Networks**<br>影响图与概率网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Survey of Formal Methods**<br>形式化方法概览 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Strategy: Introduction to Game Theory**<br>战略：博弈论导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Strategy: Introduction to Game Theory**<br>战略：博弈论入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Design of Experiments**<br>实验设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Theory of Probability I**<br>概率论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Theory of Probability II**<br>概率论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Theory of Probability III**<br>概率论 III | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Reading Games and Playing Literature: Intro to Literary Game Studies**<br>阅读游戏与游玩文学：文学游戏研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Reading Games and Playing Literature: Intro to Literary Game Studies**<br>阅读游戏与游玩文学：文学游戏研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures**<br>Funkentelechy：技术、社会正义与黑人本土文化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **The Rise of Digital Culture**<br>数字文化的兴起 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Personality and Digital Media**<br>人格与数字媒体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Media Psychology**<br>媒体心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Race and Media**<br>种族与媒体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Science, Technology & Society**<br>科学、技术与社会导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Science, Technology & Society**<br>科学、技术与社会入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Virtual People**<br>虚拟人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Bridging Policy and Tech Through Design**<br>通过设计连接政策与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Design for Understanding**<br>理解设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Technology for Learners**<br>学习者技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Frontier Systems**<br>前沿系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Quantum Narratives:Writing Fiction about Science, Philosophy and Human Experience in the Quantum Age**<br>量子叙事：在量子时代书写关于科学、哲学与人类经验的小说 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Phenomenology**<br>现象学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Phenomenology**<br>现象学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **User Interface Design Project**<br>用户界面设计项目 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Designing Solutions to Global Grand Challenges**<br>设计解决全球重大挑战的方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Designing Serious Games**<br>设计严肃游戏 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -547,14 +547,14 @@ ms.date: 2026-11-18
 | **Race and Gender in Silicon Valley**<br>硅谷的种族与性别 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Qualitative Research Methodology**<br>定性研究方法论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Design and Manufacturing**<br>设计与制造 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Mechatronics**<br>机电一体化导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Mechatronics**<br>机电一体化入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Methods in Community Assessment, Evaluation, and Research**<br>社区评估、评价与研究方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Biodesign Fundamentals**<br>生物设计基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Teaching and Learning**<br>教与学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Teaching and Learning**<br>教与学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **How to Learn Mathematics**<br>如何学习数学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Social and Emotional Learning: Conceptual & Measurement Issues**<br>社会与情感学习：概念与测量问题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Seminar on Teaching Introductory Computer Science**<br>计算机科学入门教学研讨课 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Learning Sciences: Understanding Learning and Learning Environments**<br>学习科学导论：理解学习与学习环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Learning Sciences: Understanding Learning and Learning Environments**<br>学习科学入门：理解学习与学习环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Deploying and Evaluating Fair AI in Healthcare**<br>医疗中公平AI的部署与评估 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Matrix Methods: Singular Value Decomposition**<br>矩阵方法：奇异值分解 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -562,9 +562,9 @@ ms.date: 2026-11-18
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Probability and Stochastic Differential Equations for Applications**<br>应用中的概率与随机微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Discrete Probabilistic Methods**<br>离散概率方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Optimization (Accelerated)**<br>优化导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Optimization (Accelerated)**<br>优化入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Quantum Computing**<br>量子计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Scientific Computing**<br>科学计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Scientific Computing**<br>科学计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Topics in Mathematical Logic: Non-Classical Logic**<br>数理逻辑专题：非经典逻辑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Algebraic Error Correcting Codes**<br>代数纠错码 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Counting and Sampling**<br>计数与抽样 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -573,13 +573,13 @@ ms.date: 2026-11-18
 | **Graph Theory**<br>图论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Functions of a Real Variable**<br>实变函数 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Groups and Rings**<br>群与环 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Topology and Geometry**<br>拓扑与几何导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Topology and Geometry**<br>拓扑与几何入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Elementary Theory of Numbers**<br>初等数论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Fundamental Concepts of Analysis**<br>分析学基本概念 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Randomness: Computational and Philosophical Approaches**<br>随机性：计算与哲学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Applied Multivariate Analysis**<br>应用多元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Random Processes on Graphs and Lattices**<br>图与格点上的随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Qualitative Research Methods**<br>定性研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Qualitative Research Methods**<br>定性研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Optimization of Uncertainty and Applications in Finance**<br>不确定性优化及其在金融中的应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Perspectives on American Journalism**<br>美国新闻业视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Deliberative Democracy and its Critics**<br>协商民主及其批评者 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -601,7 +601,7 @@ ms.date: 2026-11-18
 | **Exploring Neural Circuits**<br>探索神经回路 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Systems Biology**<br>系统生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Quantitative Physiology**<br>定量生理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Neuroelectrical Engineering**<br>神经电气工程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Neuroelectrical Engineering**<br>神经电气工程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Materials Advances in Neurotechnology**<br>神经技术中的材料进展 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Principles and Practice of Optogenetics for Optical Control of Biological Tissues**<br>光遗传学的原理与实践：生物组织的光学控制 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Signals and Systems II**<br>信号与系统 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
@@ -610,9 +610,9 @@ ms.date: 2026-11-18
 | **The Science and Ethics of Personalized Genomic Medicine**<br>个性化基因组医学的科学与伦理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Genetics, Molecular Biology and Evolution**<br>遗传学、分子生物学与演化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Cell and Developmental Biology**<br>细胞与发育生物学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Neuromechanics**<br>神经力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Neuromechanics**<br>神经力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Artificial Intelligence in Mental Health**<br>心理健康中的人工智能 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
-| **Introduction to Clinical Psychology: A Neuroscience Perspective**<br>临床心理学导论：神经科学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
+| **Introduction to Clinical Psychology: A Neuroscience Perspective**<br>临床心理学入门：神经科学视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Topics in Philosophy of Language**<br>语言哲学专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **Linguistic Justice**<br>语言正义 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |
 | **External World Skepticism**<br>外部世界怀疑论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/symbolic-systems/bachelor-of-science) |

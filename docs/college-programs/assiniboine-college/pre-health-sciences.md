@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Communications Foundation**<br>沟通基础 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/pre-health-sciences) |
 | **Mathematics 1**<br>数学 1 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/pre-health-sciences) |
 | **Health Care in Canada**<br>加拿大医疗保健 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/pre-health-sciences) |
-| **Introduction to Biology 1**<br>生物学导论 1 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/pre-health-sciences) |
+| **Introduction to Biology 1**<br>生物学入门 1 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/pre-health-sciences) |
 | **Chemistry 1**<br>化学 1 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/pre-health-sciences) |
 | **Health & Wellness in Society**<br>社会中的健康与保健 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/pre-health-sciences) |
 | **Health Care Professionalism**<br>医疗职业素养 | (Definition pending) | （定义待补） | [Assiniboine College, n.d.](https://assiniboine.net/programs/pre-health-sciences) |

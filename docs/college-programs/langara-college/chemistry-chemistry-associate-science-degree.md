@@ -20,8 +20,8 @@ ms.date: 2026-11-08
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
 | **Calculus III**<br>微积分 III | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
 | **Physics II with Calculus**<br>微积分物理 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
-| **Introduction to Calculus I (Part I)**<br>微积分导论 I（第一部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
-| **Introduction to Calculus I (Part II)**<br>微积分导论 I（第二部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
+| **Introduction to Calculus I (Part I)**<br>微积分入门 I（第一部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
+| **Introduction to Calculus I (Part II)**<br>微积分入门 I（第二部分） | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
 | **Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |
 | **Calculus I with Computer Explorations**<br>微积分 I：计算机探索 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/chemistry-associate-science-degree/courses) |

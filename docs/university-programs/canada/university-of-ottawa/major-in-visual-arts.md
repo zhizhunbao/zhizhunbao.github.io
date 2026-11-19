@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Major in Visual Arts**<br>视觉艺术主修 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
-| **Introduction to Painting**<br>绘画导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
-| **Introduction to Sculpture**<br>雕塑导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
+| **Introduction to Painting**<br>绘画入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
+| **Introduction to Sculpture**<br>雕塑入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
 | **Modern Art: 1900-1945**<br>现代艺术：1900-1945 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
 | **Digital Photography Workshop I**<br>数码摄影工作坊 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
 | **Professional Practices in Art**<br>艺术专业实践 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
-| **Introduction to Analog Photography**<br>模拟摄影导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
+| **Introduction to Analog Photography**<br>模拟摄影入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
 | **Art, Time and the Technological Imagination**<br>艺术、时间与技术想象 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
 | **Art and Image**<br>艺术与图像 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |
 | **World Art Histories**<br>世界艺术史 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/major-visual-arts/) |

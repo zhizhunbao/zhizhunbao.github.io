@@ -42,7 +42,7 @@ ms.date: 2026-11-11
 | **Creative Writing: Screenwriting**<br>创意写作：编剧 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1909) |
 | **Movies, Music and Meaning**<br>电影、音乐与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1909) |
 | **Creative Writing: Fiction I**<br>创意写作：小说 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1909) |
-| **Introduction to Creative Writing**<br>创意写作导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1909) |
+| **Introduction to Creative Writing**<br>创意写作入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1909) |
 | **Video Game Narratives**<br>电子游戏叙事 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1909) |
 | **Gender and Genre**<br>性别与体裁 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1909) |
 | **Above and Beyond: Superheroes in Fiction and Film**<br>超越极限：小说与电影中的超级英雄 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj1909) |

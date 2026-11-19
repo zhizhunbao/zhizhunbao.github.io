@@ -1,10 +1,10 @@
 ---
-title: "3.4.92 International and Development Economics (M.A.)"
+title: "4.4.92 International and Development Economics (M.A.)"
 description: "University Programs > United States > Yale University > International and Development Economics (M.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.92 International and Development Economics (M.A.)
+# 4.4.92 International and Development Economics (M.A.)
 
 ## Glossary
 

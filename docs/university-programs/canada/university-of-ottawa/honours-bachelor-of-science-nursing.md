@@ -15,13 +15,13 @@ ms.date: 2026-11-11
 | **Essentials of Human Anatomy and Physiology II**<br>人体解剖与生理学要义 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Microbiology and Immunology**<br>微生物学与免疫学 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Communication and Digital Health in Nursing**<br>护理中的沟通与数字健康 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
-| **Introduction to Nursing Science**<br>护理科学导论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
+| **Introduction to Nursing Science**<br>护理科学入门 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Diverse Populations and Health**<br>多元人群与健康 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Laboratory I**<br>实验 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Laboratory II**<br>实验 II | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Philosophical Issues in Health Care**<br>医疗保健中的哲学问题 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
-| **Introduction to Psychology: Foundations**<br>心理学导论：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
+| **Introduction to Psychology: Foundations**<br>心理学入门：基础 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Quantitative Methods in Health Sciences: Continuous Variables**<br>健康科学中的定量方法：连续变量 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Nursing Care of Adults I**<br>成人护理 I | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |
 | **Community Health Nursing for Populations Health and Wellness**<br>面向人群健康与福祉的社区健康护理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-nursing/) |

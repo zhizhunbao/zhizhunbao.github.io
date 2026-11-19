@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **The History of Classical Greece**<br>古典时期希腊史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/clas.pdf#page=3) |
 | **The History of the Roman Empire**<br>罗马帝国史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/clas.pdf#page=3) |
 | **The Heroic Age of Greece**<br>希腊英雄时代 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/clas.pdf#page=3) |
-| **Introductory Classical Archaeology:**<br>古典考古学导论： | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/clas.pdf#page=3) |
+| **Introductory Classical Archaeology:**<br>古典考古学入门： | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/clas.pdf#page=3) |
 | **Greek Art and Architecture**<br>希腊艺术与建筑 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/clas.pdf#page=3) |
 | **Roman Art and Architecture**<br>罗马艺术与建筑 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/clas.pdf#page=3) |
 | **Intermediate Classical Archaeology: Issues**<br>中级古典考古学：问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/clas.pdf#page=3) |

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Esthetics and Spa Therapies**<br>美容与水疗理疗 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
 | **Bacteriology/Infection Control**<br>细菌学/感染控制 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
-| **Introduction to Communications for Cosmetology**<br>美容美发沟通导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
+| **Introduction to Communications for Cosmetology**<br>美容美发沟通入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
 | **Communications for Cosmetology**<br>美容美发学沟通 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
 | **Professional Development**<br>职业发展 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
 | **Nail Anatomy**<br>指甲解剖学 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-08
 | **Esthetics Skills Lab IV**<br>美容技能实验 IV | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
 | **Esthetics Skills Practicum IV**<br>美容技能实习 IV | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
 | **License Preparation**<br>执照备考 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/esthetics-and-spa-therapies) |
 
 ## Courses

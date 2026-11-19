@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Construction Management**<br>建筑管理硕士 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/master-of-construction-management-program-t550) |
-| **Introduction to Systems Thinking**<br>系统思维导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/master-of-construction-management-program-t550) |
+| **Introduction to Systems Thinking**<br>系统思维入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/master-of-construction-management-program-t550) |
 | **Construction Project Forensics**<br>施工项目鉴定 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/master-of-construction-management-program-t550) |
 | **Human Behaviour and Construction Organizations**<br>人类行为与施工组织 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/master-of-construction-management-program-t550) |
 | **Strategic Competitive Bidding**<br>战略竞争性投标 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/master-of-construction-management-program-t550) |

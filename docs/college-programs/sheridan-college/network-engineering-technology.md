@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Network Engineering Technology**<br>网络工程技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/network-engineering-technology) |
-| **Introduction to Data Communication and Networking**<br>数据通信与网络导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/network-engineering-technology) |
+| **Introduction to Data Communication and Networking**<br>数据通信与网络入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/network-engineering-technology) |
 | **The Art of Technical Communication**<br>技术传播艺术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/network-engineering-technology) |
 | **Programming Foundations – Python**<br>编程基础 – Python | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/network-engineering-technology) |
 | **Computer Math Fundamentals**<br>计算机数学基础 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/network-engineering-technology) |

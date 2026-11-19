@@ -1,10 +1,10 @@
 ---
-title: "3.4.96 M.M.S. in Systemic Risk"
+title: "4.4.96 M.M.S. in Systemic Risk"
 description: "University Programs > United States > Yale University > M.M.S. in Systemic Risk: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.96 M.M.S. in Systemic Risk
+# 4.4.96 M.M.S. in Systemic Risk
 
 ## Glossary
 
@@ -17,7 +17,7 @@ ms.date: 2026-11-18
 | **Central Banking in Emerging Economies**<br>新兴经济体的中央银行 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/mms/mms-systemic-risk/) |
 | **Systemic-Risk Colloquium**<br>系统性风险研讨会 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/mms/mms-systemic-risk/) |
 | **Monetary Policy**<br>货币政策 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/mms/mms-systemic-risk/) |
-| **Introduction to Financial Crisis Communications**<br>金融危机沟通导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/mms/mms-systemic-risk/) |
+| **Introduction to Financial Crisis Communications**<br>金融危机沟通入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/mms/mms-systemic-risk/) |
 | **Financial Stability Regulation**<br>金融稳定监管 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/mms/mms-systemic-risk/) |
 | **Macroprudential Policy**<br>宏观审慎政策 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/mms/mms-systemic-risk/) |
 | **Systemic Risk Colloquium**<br>系统性风险研讨会 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/management/mms/mms-systemic-risk/) |

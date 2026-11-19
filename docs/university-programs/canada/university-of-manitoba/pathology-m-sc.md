@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **Academic Integrity Tutorial**<br>学术诚信教程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-msc/) |
 | **Human Gross Anatomy: Musculoskeletal**<br>人体大体解剖学：肌肉骨骼 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-msc/) |
 | **Human Gross Anatomy: Trunk (Thorax, Abdomen, Pelvis)**<br>人体大体解剖学：躯干（胸、腹、盆） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-msc/) |
-| **Introduction to the Mechanisms of Disease**<br>疾病机制导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-msc/) |
+| **Introduction to the Mechanisms of Disease**<br>疾病机制入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-msc/) |
 | **Pathologists Assistant Field Practicum I**<br>病理师助理实地实习 I | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-msc/) |
 | **Pathologists Assistant Field Practicum II**<br>病理师助理实地实习 II | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-msc/) |
 | **Pathologists Assistant Field Practicum III**<br>病理师助理实地实习 III | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pathology-msc/) |

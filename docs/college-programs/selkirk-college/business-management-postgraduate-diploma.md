@@ -12,12 +12,12 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Business Management - Postgraduate Diploma**<br>商业管理研究生文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
 | **Skills Orientation**<br>技能入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
-| **An Introduction to Business Communication I**<br>商务沟通导论 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
-| **An Introduction to Business Communication II**<br>商务沟通导论 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
+| **An Introduction to Business Communication I**<br>商务沟通入门 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
+| **An Introduction to Business Communication II**<br>商务沟通入门 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
 | **Principles of Organizational Behaviour**<br>组织行为学原理 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
 | **Accounting for Managers**<br>管理会计（面向管理者） | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
 | **Management Accounting**<br>管理会计 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
 | **Commercial Law**<br>商法 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |
 | **Entrepreneurship**<br>创业 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/business/business-management-postgraduate-diploma) |

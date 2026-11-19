@@ -19,7 +19,7 @@ ms.date: 2026-11-08
 | **Systems Analysis and Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 | **Collaborative Software Development Practices**<br>协作软件开发实践 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 | **Intermediate Front End Development**<br>中级前端开发 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
-| **Introduction to Enterprise Application Development**<br>企业应用开发导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
+| **Introduction to Enterprise Application Development**<br>企业应用开发入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 | **Rapid Backend Application Development**<br>快速后端应用开发 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 | **Mobile Application Development**<br>移动应用开发 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 | **Intermediate Enterprise Application Programming**<br>中级企业应用程序设计 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
@@ -27,9 +27,9 @@ ms.date: 2026-11-08
 | **Data Science and Data Visualization**<br>数据科学与数据可视化 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 | **Technical Documentation and Facilitation**<br>技术文档与引导 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 | **Business Intelligence and Data Tools**<br>商业智能与数据工具 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
-| **Introduction to Artificial Intelligence**<br>人工智能导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
+| **Introduction to Artificial Intelligence**<br>人工智能入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 | **Software Development Capstone**<br>软件开发毕业设计项目 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
-| **Introduction to DevOps: Infrastructure & Deployment**<br>DevOps 导论：基础设施与部署 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
+| **Introduction to DevOps: Infrastructure & Deployment**<br>DevOps 入门：基础设施与部署 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/software-development) |
 
 ## Courses
 

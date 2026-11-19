@@ -14,7 +14,7 @@ ms.date: 2026-11-11
 | **Project Course in Human Genetics**<br>人类遗传学项目课程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/genetics/genetics-bsc-major/) |
 | **Human Physiology 1**<br>人体生理学 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/genetics/genetics-bsc-major/) |
 | **Human Physiology 2**<br>人体生理学 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/genetics/genetics-bsc-major/) |
-| **Introduction to Computational Biology**<br>计算生物学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/genetics/genetics-bsc-major/) |
+| **Introduction to Computational Biology**<br>计算生物学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/genetics/genetics-bsc-major/) |
 | **Medicinal and Hallucinogenic Plants**<br>药用与致幻植物 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/genetics/genetics-bsc-major/) |
 | **Evolutionary Biology**<br>进化生物学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/genetics/genetics-bsc-major/) |
 | **Plant Physiology**<br>植物生理学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/genetics/genetics-bsc-major/) |

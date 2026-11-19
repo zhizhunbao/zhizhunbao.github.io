@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Computer Engineering Technology**<br>计算机工程技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Electricity**<br>电学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
-| **Introduction to Computers**<br>计算机导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
+| **Introduction to Computers**<br>计算机入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Electronic Lab Instrumentation and Techniques**<br>电子实验室仪器与技术 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Mathematics with Foundations**<br>数学（含基础） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Programming Fundamentals Using "C"**<br>使用"C"的编程基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
-| **Introduction to Microcomputing Concepts**<br>微型计算机概念导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
+| **Introduction to Microcomputing Concepts**<br>微型计算机概念入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Intermediate Computing Concepts**<br>中级计算概念 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Digital Electronics and Introduction to PLC**<br>数字电子学与PLC入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Interpersonal Skills in the Engineering Workplace**<br>工程工作场所中的人际技能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
@@ -43,10 +43,10 @@ ms.date: 2026-11-08
 | **Advanced Mathematics**<br>高等数学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Technical Project**<br>技术项目 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Accounting I**<br>会计 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
-| **Introduction to Machine Learning and Artificial Intelligence**<br>机器学习与人工智能导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
-| **Introduction to Ar/Vr Technologies**<br>AR/VR技术导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
-| **Introduction to Business Administration**<br>工商管理导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
-| **Introduction to Data Analytics**<br>数据分析导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
+| **Introduction to Machine Learning and Artificial Intelligence**<br>机器学习与人工智能入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
+| **Introduction to Ar/Vr Technologies**<br>AR/VR技术入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
+| **Introduction to Business Administration**<br>工商管理入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
+| **Introduction to Data Analytics**<br>数据分析入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Advanced Hardware and Software Interfacing**<br>高级软硬件接口 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Embedded Linux**<br>嵌入式 Linux | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |
 | **Macintosh Fundamentals**<br>Macintosh基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ECT/courses.html) |

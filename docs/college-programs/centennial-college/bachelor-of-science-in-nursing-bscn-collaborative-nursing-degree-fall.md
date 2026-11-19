@@ -15,10 +15,10 @@ ms.date: 2026-11-08
 | **Liberal Studies Elective Group A**<br>通识选修课 A组 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
 | **Communication for the Nsg Professional**<br>护理专业人员沟通 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
 | **Foundations for Nursing Practice**<br>护理实践基础 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
-| **PPN 101: Introduction to the Nursing Profession**<br>PPN 101：护理专业导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
+| **PPN 101: Introduction to the Nursing Profession**<br>PPN 101：护理专业入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
 | **Psychology: The Science of Behaviour**<br>心理学：行为科学 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
 | **Anatomy and Physiology 2**<br>解剖与生理学 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
-| **Introduction to Health Assessment**<br>健康评估导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
+| **Introduction to Health Assessment**<br>健康评估入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
 | **Clinical Practice I**<br>临床实践 I | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
 | **Health, Wellness and the Role of Nurse**<br>健康、保健与护士角色 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |
 | **Advanced Health Assessment**<br>高级健康评估 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/nursing-bscn-cnd) |

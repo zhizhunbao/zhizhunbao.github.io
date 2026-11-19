@@ -29,7 +29,7 @@ ms.date: 2026-11-11
 | **Automatic Transmission Theory and Practical**<br>自动变速器理论与实操 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=57) |
 | **Engines Theory and Practical**<br>发动机理论与实操 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=57) |
 | **Restraint Systems Theory and Practical**<br>约束系统理论与实操 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=57) |
-| **Introduction to Electronics and Diagnostics Theory and Practical**<br>电子学与诊断理论及实操导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=57) |
+| **Introduction to Electronics and Diagnostics Theory and Practical**<br>电子学与诊断理论及实操入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=57) |
 | **Automotive Technology Practicum**<br>汽车技术实习 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=57) |
 
 ## Courses

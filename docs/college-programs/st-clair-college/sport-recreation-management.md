@@ -12,17 +12,17 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Sport & Recreation Management**<br>体育与康乐管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Accounting Concepts I**<br>会计概念 I | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
-| **Introduction To Canadian Business**<br>加拿大商业导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
-| **Introduction To Sports And Recreation Field**<br>体育与休闲领域导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
+| **Introduction To Canadian Business**<br>加拿大商业入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
+| **Introduction To Sports And Recreation Field**<br>体育与休闲领域入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Program And Event Management**<br>项目与活动管理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
-| **Introduction To Sport Marketing**<br>体育营销导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
-| **Introduction To Sport Management**<br>体育管理导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
+| **Introduction To Sport Marketing**<br>体育营销入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
+| **Introduction To Sport Management**<br>体育管理入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Accounting Concepts II**<br>会计概念 II | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Basic Spreadsheeting**<br>基础电子表格 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Communication In Sport**<br>体育运动中的沟通 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Money Matters**<br>理财要点 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Sport Organization In Canada**<br>加拿大体育组织 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
-| **Introduction To Recreation And Leisure**<br>休闲与娱乐导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
+| **Introduction To Recreation And Leisure**<br>休闲与娱乐入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Sport Research**<br>体育研究 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Choose 1 Elective Course**<br>选择 1门选修课 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |
 | **Economics**<br>经济学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/sport-recreation-management) |

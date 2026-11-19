@@ -12,13 +12,13 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **SPECIALIST (JOINT) PROGRAM IN MUSIC INDUSTRY AND TECHNOLOGY**<br>音乐产业与技术专精项目（联合） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
 | **Foundations in Musicianship**<br>音乐素养基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
-| **Introduction to Music Industry and Technology**<br>音乐产业与技术导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
-| **Introduction to Arts and Media Management**<br>艺术与媒体管理导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
+| **Introduction to Music Industry and Technology**<br>音乐产业与技术入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
+| **Introduction to Arts and Media Management**<br>艺术与媒体管理入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
 | **Developing Musicianship**<br>音乐素养培养 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
 | **Music and Technology**<br>音乐与技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
 | **DJ Cultures: Analogue Innovations and Digital Aesthetics**<br>DJ 文化：模拟创新与数字美学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
 | **Songwriting 2**<br>歌曲创作 2 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
-| **Introduction to Audio Engineering**<br>音频工程导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
+| **Introduction to Audio Engineering**<br>音频工程入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
 | **Music Business Fundamentals**<br>音乐商业基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
 | **Advanced Sound Mixing and Editing**<br>高级混音与剪辑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |
 | **Advanced Sound Production and Recording**<br>高级声音制作与录音 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspemit) |

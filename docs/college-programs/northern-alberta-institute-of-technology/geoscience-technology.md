@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Geoscience Technology**<br>地球科学技术 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
-| **Introduction to Hydrogeology**<br>水文地质学导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
+| **Introduction to Hydrogeology**<br>水文地质学入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
 | **Physical Geology**<br>普通地质学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
 | **Chemistry**<br>化学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
 | **Safety, Health and Environment**<br>安全、健康与环境 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Applied Geophysics**<br>应用地球物理学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
 | **Groundwater Chemistry**<br>地下水化学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
 | **Environmental Site Assessment**<br>环境场地评估 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
-| **Introduction to Field and Sampling Techniques**<br>野外与采样技术导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
+| **Introduction to Field and Sampling Techniques**<br>野外与采样技术入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
 | **Geochemistry**<br>地球化学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
 | **Mining**<br>采矿 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |
 | **Applied Research Project**<br>应用研究项目 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/geoscience-technology) |

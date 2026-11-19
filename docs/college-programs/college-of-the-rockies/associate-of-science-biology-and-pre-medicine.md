@@ -12,38 +12,38 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Associate of Science – Biology and Pre-Medicine**<br>理科副学士，生物学与医学预科 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Intro to Literature: Poetry and Drama**<br>文学导论：诗歌与戏剧 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Prose Fiction**<br>散文小说导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Intro to Literature: Poetry and Drama**<br>文学入门：诗歌与戏剧 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Prose Fiction**<br>散文小说入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Finite Mathematics 1**<br>有限数学 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Statistics**<br>统计学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Biology 1**<br>生物学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Biology 2**<br>生物学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Biology 1**<br>生物学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Biology 2**<br>生物学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Introductory Human Anatomy and Physiology 1**<br>人体解剖学与生理学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Introductory Human Anatomy and Physiology 2**<br>人体解剖学与生理学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Fundamentals of Chemistry 1**<br>化学基础 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Fundamentals of Chemistry 2**<br>化学基础 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Physics 1**<br>物理学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Physics 2**<br>物理学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Physics 1**<br>物理学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Physics 2**<br>物理学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Cell Biology**<br>细胞生物学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Genetics**<br>遗传学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Ecology**<br>生态学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Ecology**<br>生态学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Vertebrate Evolution and Comparative Anatomy**<br>脊椎动物进化与比较解剖学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Biostatistics**<br>生物统计学导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Biostatistics**<br>生物统计学入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Organic Chemistry 1**<br>有机化学 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Organic Chemistry 2**<br>有机化学 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Quantitative Geography**<br>计量地理学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **Calculus Based Statistics**<br>基于微积分的统计学 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 | **First Nations Studies**<br>原住民研究 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Health and Wellness in Indigenous Communities**<br>原住民社区健康与保健导论 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Psychology 2**<br>心理学导论 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Sociology: The Individual and Society**<br>社会学导论：个人与社会 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
-| **Introduction to Sociology 2: Social Institutions**<br>社会学导论 2：社会制度 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Health and Wellness in Indigenous Communities**<br>原住民社区健康与保健入门 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Psychology 2**<br>心理学入门 2 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Sociology: The Individual and Society**<br>社会学入门：个人与社会 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
+| **Introduction to Sociology 2: Social Institutions**<br>社会学入门 2：社会制度 | (Definition pending) | （定义待补） | [College of the Rockies, n.d.](https://cotr.bc.ca/programs/biology-and-medicine-pre-major/) |
 
 ## Courses
 

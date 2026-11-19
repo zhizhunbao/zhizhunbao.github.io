@@ -13,11 +13,11 @@ ms.date: 2026-11-08
 | **Automotive Business**<br>汽车商务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/programs/automotive-business/) |
 | **Financial Accounting Principles 1**<br>财务会计原理 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Concepts of the Automotive Industry**<br>汽车行业概念 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
-| **Introduction to Automotive Technology**<br>汽车技术导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
+| **Introduction to Automotive Technology**<br>汽车技术入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Introduction to Organizational Behaviour**<br>组织行为学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
-| **Introduction to Fixed Operations**<br>固定运营业务导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
+| **Introduction to Fixed Operations**<br>固定运营业务入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Dealership Management Service: Parts and Service**<br>经销商管理服务：零部件与服务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-08
 | **Automotive Business Work Term 2 ( Fall intake - occurs after Semester 3, Winter intake - occurs after Semester 4 )**<br>汽车商务工作学期 2（秋季入学：第3学期后；冬季入学：第4学期后） | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Financial Accounting Principles 2**<br>财务会计原理 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Advertising Design**<br>广告设计 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
-| **Introduction to Advertising**<br>广告学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
+| **Introduction to Advertising**<br>广告学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Consumer Behaviour**<br>消费者行为 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Professional Business Practices**<br>专业商务实践 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Customer Service**<br>客户服务 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
@@ -59,11 +59,11 @@ ms.date: 2026-11-08
 | **Production and Operations Management**<br>生产与运营管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Project Management**<br>项目管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Managerial Decision Making**<br>管理决策 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Planning the Marketing Strategy**<br>营销策略规划 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Global Marketing**<br>全球营销 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
-| **Introduction to Logistics**<br>物流导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
+| **Introduction to Logistics**<br>物流入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Professional Edge**<br>专业优势 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Case Analysis and Presentations**<br>案例分析与演示 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |
 | **Statistics 1**<br>统计学 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/aubu/) |

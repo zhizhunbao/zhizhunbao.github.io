@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Tourism Management Diploma**<br>旅游管理文凭 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/tourism-management-diploma) |
-| **Introduction to Tourism**<br>旅游业导论 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/tourism-management-diploma) |
+| **Introduction to Tourism**<br>旅游业入门 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/tourism-management-diploma) |
 | **Professional Writing I**<br>专业写作 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/tourism-management-diploma) |
 | **Management Principles**<br>管理学原理 | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/tourism-management-diploma) |
 | **Computer Applications I**<br>计算机应用 I | (Definition pending) | （定义待补） | [Okanagan College, n.d.](https://www.okanagancollege.ca/programs/tourism-management-diploma) |

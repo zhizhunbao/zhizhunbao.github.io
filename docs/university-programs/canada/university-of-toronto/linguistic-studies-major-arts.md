@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Linguistic Studies - Major (Arts)**<br>语言学研究－主修（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
-| **Introduction to General Linguistics: The Sounds of Language**<br>普通语言学导论：语言的声音 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
-| **Introduction to General Linguistics: Words, Sentences, their Structure and Meaning**<br>普通语言学导论：词、句及其结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
+| **Introduction to General Linguistics: The Sounds of Language**<br>普通语言学入门：语言的声音 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
+| **Introduction to General Linguistics: Words, Sentences, their Structure and Meaning**<br>普通语言学入门：词、句及其结构与意义 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
 | **Phonetics**<br>语音学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
 | **Phonological Patterns in Language**<br>语言中的音系模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
 | **Syntactic Patterns in Language**<br>语言中的句法模式 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
@@ -20,7 +20,7 @@ ms.date: 2026-11-11
 | **Semantics**<br>语义学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
 | **Computer Programming for Linguists**<br>语言学家计算机编程 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
 | **Sociolinguistics**<br>社会语言学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
-| **Introduction to Language Teaching, Learning, and Assessment**<br>语言教学、学习与评估导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
+| **Introduction to Language Teaching, Learning, and Assessment**<br>语言教学、学习与评估入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
 | **Language, Mind, & Brain**<br>语言、心智与大脑 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
 | **English Words through Space and Time**<br>跨越时空的英语词汇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1850) |
 

@@ -22,7 +22,7 @@ ms.date: 2026-11-11
 | **Biometry.**<br>生物统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/) |
 | **Statistics and Spatial Analysis.**<br>统计与空间分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/) |
 | **Principles of Statistics 1.**<br>统计学原理 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/) |
-| **Introduction to Psychological Statistics.**<br>心理统计学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/) |
+| **Introduction to Psychological Statistics.**<br>心理统计学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/) |
 | **Statistics in Social Research.**<br>社会研究中的统计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/) |
 | **Field Studies in Human Geography.**<br>人文地理学实地研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/) |
 | **Southeast Asia Urban Field Studies.**<br>东南亚城市实地研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/) |

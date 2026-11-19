@@ -1,23 +1,23 @@
 ---
-title: "3.4.22 Computer Science and Psychology (B.A.)"
+title: "4.4.22 Computer Science and Psychology (B.A.)"
 description: "University Programs > United States > Yale University > Computer Science and Psychology (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.22 Computer Science and Psychology (B.A.)
+# 4.4.22 Computer Science and Psychology (B.A.)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Science and Psychology (B.A.)**<br>计算机科学与心理学（文学学士） | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
 | **Mathematical Tools for Computer Science**<br>计算机科学数学工具 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
 | **Data Structures and Programming Techniques**<br>数据结构与编程技术 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
-| **Introduction to Systems Programming and Computer Organization**<br>系统编程与计算机组成导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
+| **Introduction to Systems Programming and Computer Organization**<br>系统编程与计算机组成入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
 | **Algorithms**<br>算法 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
-| **Introductory Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
+| **Introductory Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
 | **Data Exploration and Analysis**<br>数据探索与分析 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
 | **Senior Project**<br>毕业项目 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |
 | **Senior Essay**<br>毕业论文 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/) |

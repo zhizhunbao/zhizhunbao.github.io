@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Master of Management in Artificial Intelligence**<br>管理学硕士，人工智能 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-management-artificial-intelligence/) |
-| **Introduction to Management (3 Credit Units)**<br>管理学导论（3 学分） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-management-artificial-intelligence/) |
+| **Introduction to Management (3 Credit Units)**<br>管理学入门（3 学分） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-management-artificial-intelligence/) |
 | **AI Ethics and Policy (3 Credit Units)**<br>人工智能伦理与政策（3学分） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-management-artificial-intelligence/) |
 | **Leading Change (3 Credit Units)**<br>领导变革（3 学分） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-management-artificial-intelligence/) |
 | **AI in Finance (3 Credit Units)**<br>金融中的人工智能（3学分） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/business/master-management-artificial-intelligence/) |

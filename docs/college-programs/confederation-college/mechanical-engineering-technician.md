@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Industrial Design I**<br>工业设计 I | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
 | **Technology Math II**<br>技术数学 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
 | **Applied Physics II**<br>应用物理 II | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
-| **Introduction to Electricity**<br>电学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
+| **Introduction to Electricity**<br>电学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
 | **Machine Shop 2 - Theory**<br>机械加工车间 2 - 理论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
 | **Machine Shop 2 - Practical**<br>机械加工车间 2 - 实操 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
 | **Sociology of Community: The Indigenous Context**<br>社区社会学：原住民视角 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
@@ -40,8 +40,8 @@ ms.date: 2026-11-08
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
 | **Advanced Structural Design**<br>高级结构设计 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
 | **Power Transmission III**<br>动力传输 III | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
-| **Introduction to Thermodynamics**<br>热力学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
-| **Introduction to CNC**<br>CNC导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
+| **Introduction to Thermodynamics**<br>热力学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
+| **Introduction to CNC**<br>CNC入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/mechanical-engineering-technician/) |
 
 ## Courses
 

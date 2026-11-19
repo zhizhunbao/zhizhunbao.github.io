@@ -25,7 +25,7 @@ ms.date: 2026-11-08
 | **Field Placement 1**<br>现场实习 1 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/early-childhood-education-ece) |
 | **Curriculum Development 2**<br>课程开发 2 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/early-childhood-education-ece) |
 | **Field Placement Preparation 2**<br>实地实习准备 2 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/early-childhood-education-ece) |
-| **Introduction to Exceptionalities**<br>特殊需求导论 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/early-childhood-education-ece) |
+| **Introduction to Exceptionalities**<br>特殊需求入门 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/early-childhood-education-ece) |
 | **Field Placement 2**<br>现场实习 2 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/early-childhood-education-ece) |
 | **Curriculum Development 3**<br>课程开发 3 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/early-childhood-education-ece) |
 | **Field Placement Preparation 3**<br>实地实习准备 3 | (Definition pending) | （定义待补） | [Durham College, n.d.](https://durhamcollege.ca/programs/early-childhood-education-ece) |

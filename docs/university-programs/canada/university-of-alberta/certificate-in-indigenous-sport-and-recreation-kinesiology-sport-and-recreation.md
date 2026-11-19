@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Certificate in Indigenous Sport and Recreation [Kinesiology, Sport, and Recreation]**<br>原住民体育与休闲证书（运动学、体育与休闲学院） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
-| **Introduction to Personal Health and Well-Being**<br>个人健康与幸福导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
-| **Introduction to the Management of Sport, Physical Activity and Recreation Programs**<br>体育、身体活动与休闲项目管理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
+| **Introduction to Personal Health and Well-Being**<br>个人健康与幸福入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
+| **Introduction to the Management of Sport, Physical Activity and Recreation Programs**<br>体育、身体活动与休闲项目管理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
 | **Indigenous \| Canada: Looking Forward/Looking Back**<br>原住民 \| 加拿大：展望未来/回顾过去 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
 | **Indigenous Governance and Partnership Capstone (3 units in experiential based component coursework)**<br>原住民治理与伙伴关系毕业项目（体验式课程作业中的 3 学分） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
 | **Social Dimensions of Health and Health Promotion**<br>健康与健康促进的社会维度 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-11
 | **Philosophies of Leisure**<br>休闲哲学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
 | **Indigenous Peoples and Technoscience (online, asynchronous)**<br>原住民与技术科学（在线、异步） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
 | **Countering Stereotypes of Indigenous Peoples (online, asynchronous)**<br>消除对原住民的刻板印象（在线、异步） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
-| **Introduction to Indigenous Legal Issues**<br>原住民法律问题导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
+| **Introduction to Indigenous Legal Issues**<br>原住民法律问题入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
 | **Contemporary Indigenous Art**<br>当代原住民艺术 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
 | **Selected Topics in Indigenous Studies**<br>原住民研究专题选讲 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |
 | **Traditional Cultural Foundations I**<br>传统文化基础 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110688&returnto=20854) |

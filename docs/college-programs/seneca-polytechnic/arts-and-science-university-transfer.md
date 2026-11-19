@@ -24,13 +24,13 @@ ms.date: 2026-11-08
 | **Chemistry I**<br>化学 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
 | **Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
 | **Physics I**<br>物理学 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
-| **Introduction to Sociology I: Social Inequality**<br>社会学导论 I：社会不平等 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
-| **Introduction to World Literature I**<br>世界文学导论 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
+| **Introduction to Sociology I: Social Inequality**<br>社会学入门 I：社会不平等 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
+| **Introduction to World Literature I**<br>世界文学入门 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
 | **A Social History of Canada**<br>加拿大社会史 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
 | **Chemistry II**<br>化学 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
 | **Physics II**<br>物理学 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
-| **Introduction to Sociology II: Social Inequality**<br>社会学导论 II：社会不平等 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
-| **Introduction to World Literature II**<br>世界文学导论 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
+| **Introduction to Sociology II: Social Inequality**<br>社会学入门 II：社会不平等 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
+| **Introduction to World Literature II**<br>世界文学入门 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/ASU/courses.html) |
 
 ## Courses
 

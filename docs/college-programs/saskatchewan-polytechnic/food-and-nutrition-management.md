@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Food and Nutrition Management**<br>食品与营养管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Accounting**<br>会计学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Career Development**<br>职业发展 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
-| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 导论 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
+| **Introduction to Microsoft Excel 1**<br>Microsoft Excel 入门 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Customer Service for the Food Service Industry**<br>餐饮服务业客户服务 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Food Service Equipment**<br>餐饮服务设备 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Kitchen Fundamentals**<br>厨房基础 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
@@ -23,8 +23,8 @@ ms.date: 2026-11-08
 | **Assertive Conflict Resolution**<br>自信式冲突解决 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Culture and Diversity**<br>文化与多样性 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Procurement and Finances in Food Services**<br>餐饮服务采购与财务 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
-| **Introduction to Food Science**<br>食品科学导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
-| **Introduction to Food Service Management**<br>餐饮服务管理导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
+| **Introduction to Food Science**<br>食品科学入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
+| **Introduction to Food Service Management**<br>餐饮服务管理入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Marketing in Food Services**<br>餐饮服务营销 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Clinical Nutrition 1**<br>临床营养 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |
 | **Clinical Nutrition 2**<br>临床营养 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Food-and-Nutrition-Management.aspx) |

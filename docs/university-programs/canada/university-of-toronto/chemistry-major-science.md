@@ -46,7 +46,7 @@ ms.date: 2026-11-11
 | **Advanced Topics in Analytical Chemistry**<br>分析化学高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Separations, Chromatography and Microfluidics**<br>分离、色谱与微流控 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Strategy & Control in Modern Drug Synthesis**<br>现代药物合成中的策略与控制 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
-| **An Introduction to Medicinal Chemistry and Molecular Recognition**<br>药物化学与分子识别导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
+| **An Introduction to Medicinal Chemistry and Molecular Recognition**<br>药物化学与分子识别入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Revealing the Chemistry behind Biomolecules**<br>揭示生物分子背后的化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Quantum Mechanics I: Foundations**<br>量子力学 I：基础 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Statistical Mechanics**<br>统计力学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
@@ -54,11 +54,11 @@ ms.date: 2026-11-11
 | **Biomolecular NMR Spectroscopy**<br>生物分子核磁共振波谱学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Techniques in Structural Biology**<br>结构生物学技术 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Quantum Mechanics II**<br>量子力学 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
-| **Introduction to Computational Chemistry**<br>计算化学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
+| **Introduction to Computational Chemistry**<br>计算化学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Research Opportunity Program**<br>研究机会计划 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Dissertation Based on Literature Research**<br>基于文献研究的学位论文 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
-| **Introduction to Research in Chemistry**<br>化学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
-| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
+| **Introduction to Research in Chemistry**<br>化学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
+| **Introduction to Research in the Chemical and Physical Sciences**<br>化学与物理科学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Teaching Opportunity Program in Sciences**<br>科学教学机会项目 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Chemical and Physical Sciences Internship**<br>化学与物理科学实习 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |
 | **Forensic Chemistry**<br>法医化学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1376) |

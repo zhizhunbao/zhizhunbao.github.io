@@ -11,10 +11,10 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Theatre, B.A. Single Advanced Major**<br>戏剧，B.A. 单一高级主修 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
-| **Introduction to Theatre**<br>戏剧导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
+| **Introduction to Theatre**<br>戏剧入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
 | **Representative Literary Works**<br>代表性文学作品 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
 | **Literature since 1900**<br>1900 年以来的文学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
-| **Thematic Approaches to the Study of Literature and Introduction to Literary Analysis**<br>文学研究的主题方法 与 文学分析导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
+| **Thematic Approaches to the Study of Literature and Introduction to Literary Analysis**<br>文学研究的主题方法 与 文学分析入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
 | **Theatrical Techniques: Backstage**<br>戏剧技术：后台 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
 | **Fundamentals of Dramatic Analysis**<br>戏剧分析基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |
 | **Theatrical Techniques: Onstage**<br>戏剧技术：台前 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/english-theatre-film-media/theatre-ba-single-advanced/) |

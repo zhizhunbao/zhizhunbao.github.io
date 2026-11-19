@@ -12,10 +12,10 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Occupational Therapist Assistant and Physiotherapist Assistant**<br>职业治疗助理与物理治疗助理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP.html) |
 | **Communicating Across Contexts or Communicating Across Contexts (Enriched)**<br>跨情境沟通或跨情境沟通（强化） | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
-| **Introduction to the Canadian Healthcare System**<br>加拿大医疗保健体系导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
+| **Introduction to the Canadian Healthcare System**<br>加拿大医疗保健体系入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **Human Kinetics**<br>人体运动学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
-| **Orientation to OTA and PTA Roles**<br>OTA与PTA职责导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
+| **Orientation to OTA and PTA Roles**<br>OTA与PTA职责入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **Therapeutic Communication and Documentation**<br>治疗性沟通与记录 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **Developmental Psychology in OTA/PTA Practice**<br>OTA/PTA实践中的发展心理学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **PTA – Principles and Techniques I**<br>PTA - 原理与技术 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Human Conditions I**<br>人类状况 I | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **Social Determinants of Health**<br>健康的社会决定因素 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **Establishing Client-Centered and Reflective Practice**<br>建立以客户为中心的反思性实践 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
-| **Introduction to Clinical Practice**<br>临床实践导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
+| **Introduction to Clinical Practice**<br>临床实践入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **Professional Ethics**<br>职业伦理 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **PTA-Principles and Techniques II**<br>PTA - 原理与技术 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |
 | **OTA-Principles and Techniques II**<br>OTA - 原理与技术 II | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OTP/courses.html) |

@@ -11,12 +11,12 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Economics for Management Students Major (B.Com.)**<br>管理专业学生经济学主修（B.Com.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
-| **Introduction to Financial Accounting.**<br>财务会计导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
-| **Introduction to Organizational Behaviour.**<br>组织行为学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
+| **Introduction to Financial Accounting.**<br>财务会计入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
+| **Introduction to Organizational Behaviour.**<br>组织行为学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
 | **Data Programming for Business.**<br>商业数据编程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
 | **Expressive Analysis for Management.**<br>管理表达分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
 | **Information Technology Management .**<br>信息技术管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
-| **Introduction to Finance.**<br>金融导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
+| **Introduction to Finance.**<br>金融入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
 | **Principles of Marketing.**<br>市场营销原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
 | **Operations Management.**<br>运营管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |
 | **International Business.**<br>国际商务 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/) |

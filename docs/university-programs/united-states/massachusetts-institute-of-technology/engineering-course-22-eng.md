@@ -1,10 +1,10 @@
 ---
-title: "3.2.30 Engineering (Course 22-ENG)"
+title: "4.2.30 Engineering (Course 22-ENG)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Engineering (Course 22-ENG): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.30 Engineering (Course 22-ENG)
+# 4.2.30 Engineering (Course 22-ENG)
 
 ## Glossary
 
@@ -13,21 +13,21 @@ ms.date: 2026-11-18
 | **Engineering (Course 22-ENG)**<br>工程（Course 22-ENG） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Thermal-Fluids Engineering I**<br>热流体工程 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
-| **Introduction to Nuclear Engineering and Ionizing Radiation**<br>核工程与电离辐射导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
+| **Introduction to Nuclear Engineering and Ionizing Radiation**<br>核工程与电离辐射入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Social Problems of Nuclear Energy (CI-M)**<br>核能的社会问题（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Nuclear Detection Laboratory (CI-M)**<br>核探测实验室（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Fission Energy Systems**<br>裂变能源系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Fusion Energy**<br>聚变能源 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
-| **Introduction to Computer Programming and Numerical Methods for Engineering Applications**<br>面向工程应用的计算机编程与数值方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
+| **Introduction to Computer Programming and Numerical Methods for Engineering Applications**<br>面向工程应用的计算机编程与数值方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Numerical Computation for Mechanical Engineers**<br>机械工程师数值计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
-| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
-| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
-| **Introduction to Computational Science and Engineering**<br>计算科学与工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
+| **Introduction to Computer Science Programming in Python**<br>Python 计算机科学编程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
+| **Introduction to Computational Thinking and Data Science**<br>计算思维与数据科学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
+| **Introduction to Computational Science and Engineering**<br>计算科学与工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Computational Methods of Scientific Programming**<br>科学编程计算方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Real World Computation with Julia**<br>用Julia进行实际计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Complex Variables with Applications**<br>复变函数及其应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
-| **Introduction to Probability and Statistics**<br>概率与统计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
+| **Introduction to Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Linear Algebra and Optimization**<br>线性代数与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |
 | **Methods for Scientists and Engineers**<br>科学家与工程师的方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/) |

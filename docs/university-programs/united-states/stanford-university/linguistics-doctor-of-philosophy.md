@@ -1,10 +1,10 @@
 ---
-title: "3.3.189 Linguistics, Doctor of Philosophy"
+title: "4.3.189 Linguistics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Linguistics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.189 Linguistics, Doctor of Philosophy
+# 4.3.189 Linguistics, Doctor of Philosophy
 
 ## Glossary
 
@@ -18,13 +18,13 @@ ms.date: 2026-11-18
 | **Morphosyntax**<br>形态句法学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Foundations of Syntactic Theory I**<br>句法理论基础 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Foundations of Syntactic Theory II**<br>句法理论基础 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
-| **Introduction to Semantics and Pragmatics**<br>语义学与语用学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
+| **Introduction to Semantics and Pragmatics**<br>语义学与语用学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Advanced Semantics**<br>高级语义学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Lexical Semantics**<br>词汇语义学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **From Languages to Information**<br>从语言到信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Language Acquisition**<br>语言习得 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
-| **Introduction to Psycholinguistics**<br>心理语言学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
+| **Introduction to Psycholinguistics**<br>心理语言学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Methods in Psycholinguistics**<br>心理语言学方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Sociolinguistic Theory and Analysis**<br>社会语言学理论与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Sociophonetics**<br>社会语音学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
@@ -39,7 +39,7 @@ ms.date: 2026-11-18
 | **Linguistic Field Methods I**<br>语言田野方法 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Programming for Linguists**<br>语言学家的编程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Experimental Methods**<br>实验方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
-| **Introduction to Statistical Methods: Precalculus**<br>统计方法导论：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
+| **Introduction to Statistical Methods: Precalculus**<br>统计方法入门：微积分前 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Statistical Learning and Data Science**<br>统计学习与数据科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Linguistic Research Discussion Group**<br>语言学研究讨论小组 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |
 | **Research Workshop**<br>研究工作坊 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/linguistics/doctor-of-philosophy) |

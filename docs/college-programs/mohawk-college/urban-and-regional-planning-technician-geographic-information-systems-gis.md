@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Urban and Regional Planning Technician - Geographic Information Systems (GIS)**<br>城市与区域规划技术员：地理信息系统（GIS） | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://www.mohawkcollege.ca/programs/technology/urban-and-regional-planning-technician-geographic-information-systems-gis-406-606) |
 | **CAD A**<br>CAD A | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=406&prg_ver=26-A) |
 | **Municipal Environmental Infrastructure**<br>市政环境基础设施 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=406&prg_ver=26-A) |
-| **Introduction To Geographic Information Systems**<br>地理信息系统导论 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=406&prg_ver=26-A) |
+| **Introduction To Geographic Information Systems**<br>地理信息系统入门 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=406&prg_ver=26-A) |
 | **Mathematics for Urban Planning**<br>城市规划数学 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=406&prg_ver=26-A) |
 | **Environmental Sustainability**<br>环境可持续性 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=406&prg_ver=26-A) |
 | **Planning & Government**<br>规划与政府 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://myssb.mohawkcollege.ca/mcprod/psecrsdes.P_POSGet?pos_prg=406&prg_ver=26-A) |

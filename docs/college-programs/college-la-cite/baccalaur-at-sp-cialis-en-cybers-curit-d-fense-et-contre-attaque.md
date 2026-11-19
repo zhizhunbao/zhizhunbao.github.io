@@ -11,30 +11,30 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Baccalauréat spécialisé en cybersécurité – défense et contre-attaque**<br>网络安全荣誉学士：防御与反击 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
-| **Introduction à la programmation**<br>编程导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
+| **Introduction à la programmation**<br>编程入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Réseaux**<br>网络 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
-| **Introduction à la programmation Web client**<br>Web客户端编程导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
+| **Introduction à la programmation Web client**<br>Web客户端编程入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Systèmes d'exploitation Linux**<br>Linux 操作系统 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Foundations of English**<br>英语基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Written Communication: Beginner Level**<br>书面沟通：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Written Communication: Intermediate Level**<br>书面沟通：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Programmation orientée objet**<br>面向对象编程 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
-| **Introduction aux bases de données**<br>数据库导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
-| **Introduction à la gestion de projet**<br>项目管理导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
+| **Introduction aux bases de données**<br>数据库入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
+| **Introduction à la gestion de projet**<br>项目管理入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Statistiques et probabilités**<br>统计与概率 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Oral Communication: Beginner Level**<br>口语交际：初级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Oral Communication: Intermediate Level**<br>口语交际：中级 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Structures de données**<br>数据结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Système de gestion de bases de données et sécurité**<br>数据库管理系统与安全 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Programmation Web coté serveur**<br>服务器端Web编程 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
-| **Introduction à l'infonuagique**<br>云计算导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
+| **Introduction à l'infonuagique**<br>云计算入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Rédaction spécialisée en milieu professionnel et scientifique**<br>职业与科学领域专业写作 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Structures discrètes**<br>离散结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Cryptographie**<br>密码学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Sécurité des applications**<br>应用安全 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Sécurité des infrastructures réseaux**<br>网络基础设施安全 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Sécurité des systèmes d'exploitation**<br>操作系统安全 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
-| **Introduction à la protection de la vie privée**<br>隐私保护导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
+| **Introduction à la protection de la vie privée**<br>隐私保护入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Stage COOP I**<br>合作实习 I | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Contrôle d'accès**<br>门禁控制 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Détection et prévention d'intrusions**<br>入侵检测与防御 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
@@ -45,7 +45,7 @@ ms.date: 2026-11-08
 | **Langue et culture hispaniques**<br>西班牙语语言与文化 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Santé et bien-être**<br>健康与福祉 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Principes d'éthique**<br>伦理原则 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
-| **Introduction à la psychologie expérimentale**<br>实验心理学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
+| **Introduction à la psychologie expérimentale**<br>实验心理学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Éléments de sociologie**<br>社会学要素 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Psychologie du développement humain**<br>人类发展心理学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |
 | **Concepts judiciaires**<br>司法概念 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/81860) |

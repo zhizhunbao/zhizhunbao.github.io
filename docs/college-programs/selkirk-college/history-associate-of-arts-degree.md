@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Western Civilization I**<br>西方文明 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/history-associate-arts-degree) |
 | **World History, 1900-1945**<br>世界史（1900 至 1945 年） | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/history-associate-arts-degree) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/history-associate-arts-degree) |
-| **Introduction to Literature**<br>文学导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/history-associate-arts-degree) |
+| **Introduction to Literature**<br>文学入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/history-associate-arts-degree) |
 | **Contemporary Canada**<br>当代加拿大 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/history-associate-arts-degree) |
 | **Western Civilization II**<br>西方文明 II | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/history-associate-arts-degree) |
 | **World History, 1945-Present**<br>世界历史，1945年至今 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/history-associate-arts-degree) |

@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Keys to Success in ECE**<br>幼儿教育成功要诀 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-tropicana) |
 | **The Learning Environment: The Third Teacher**<br>学习环境：第三位教师 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-tropicana) |
 | **The Healthy Development of the Whole Child**<br>全人儿童的健康发展 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-tropicana) |
-| **An Introduction to Early Childhood Education**<br>幼儿教育导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-tropicana) |
+| **An Introduction to Early Childhood Education**<br>幼儿教育入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-tropicana) |
 | **General Education Elective**<br>通识教育选修课 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-tropicana) |
 | **Field Placement 1: Infant and Toddler**<br>实习 1：婴幼儿 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-tropicana) |
 | **College Communications 2**<br>学院交流 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/early-childhood-education-tropicana) |

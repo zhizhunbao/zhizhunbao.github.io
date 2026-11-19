@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Basic Tools & Material Shop**<br>基础工具与材料车间 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1076&loc=1910) |
 | **Welding**<br>焊接 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1076&loc=1910) |
 | **Work Experience**<br>工作经历 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1076&loc=1910) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1076&loc=1910) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1076&loc=1910) |
 | **Trade Math**<br>行业数学 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1076&loc=1910) |
 | **In-House Projects**<br>内部项目 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/programs/post_secondary/trades.html?ProgramID=1076&loc=1910) |
 

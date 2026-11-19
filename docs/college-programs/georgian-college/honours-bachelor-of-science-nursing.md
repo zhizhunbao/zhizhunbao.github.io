@@ -34,7 +34,7 @@ ms.date: 2026-11-08
 | **Health Challenges 3: Family Across the Lifespan**<br>健康挑战 3：全生命周期家庭 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbsn/) |
 | **Health Challenges for Unique Populations: Gerontology and Mental Health**<br>特殊人群健康挑战：老年学与心理健康 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbsn/) |
 | **Health Challenges 3 Clinical Practice: Unique Populations**<br>健康挑战 3 临床实践：特殊人群 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbsn/) |
-| **Introduction to Psychology 1**<br>心理学导论 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbsn/) |
+| **Introduction to Psychology 1**<br>心理学入门 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbsn/) |
 | **Introduction to Society and Culture**<br>社会与文化入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbsn/) |
 | **Leadership in Healthcare**<br>医疗保健领导力 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbsn/) |
 | **Nursing Professional Practice in a Digital Era**<br>数字时代的护理专业实践 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/hbsn/) |

@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Cyber-Security Principles and Best Practices**<br>网络安全原则与最佳实践 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security-post-graduate-1-year/) |
 | **Ethical Hacking and Penetration Testing**<br>道德黑客与渗透测试 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security-post-graduate-1-year/) |
 | **Information Security Fundamentals**<br>信息安全基础 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security-post-graduate-1-year/) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security-post-graduate-1-year/) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security-post-graduate-1-year/) |
 | **AI Trends and Quantum Computing**<br>AI趋势与量子计算 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security-post-graduate-1-year/) |
 | **Capstone Project**<br>毕业设计项目 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security-post-graduate-1-year/) |
 | **Cloud Security**<br>云安全 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/program/cyber-security-post-graduate-1-year/) |

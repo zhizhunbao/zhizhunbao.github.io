@@ -15,7 +15,7 @@ ms.date: 2026-11-11
 | **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **DISCOVERING CHEMICAL STRUCTURE**<br>探索化学结构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **PHYSICS FOR THE SCIENCES I**<br>理科物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
-| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理导论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
+| **ENRICHED INTRODUCTORY PHYSICS I**<br>强化物理入门 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **EXPLORING SCIENCE**<br>探索科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **WHAT SCIENTISTS DO**<br>科学家做什么 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **SUSTAINABILITY AND THE ENVIRONMENT**<br>可持续性与环境 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
@@ -26,21 +26,21 @@ ms.date: 2026-11-11
 | **DEALING WITH DATA: ANALYSIS AND VISUALIZATION**<br>数据处理：分析与可视化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **MODERN SURVIVAL SKILLS I: CODING ESSENTIALS**<br>现代生存技能 I：编程基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **EINSTEIN FOR EVERYONE**<br>人人爱因斯坦 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ENVIRONMENTAL PHILOSOPHY**<br>环境哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ENVIRONMENTAL PHILOSOPHY**<br>环境哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **NATURE, ECOLOGY AND THE FUTURE**<br>自然、生态与未来 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY AND ARTIFICIAL INTELLIGENCE**<br>哲学与人工智能 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **ETHICS FOR A DIGITAL WORLD**<br>数字世界的伦理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE PHILOSOPHY OF FOOD**<br>食物哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE PHILOSOPHY OF FOOD**<br>食物哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF THE EARTH**<br>地球哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **CONCEPTUAL DEVELOPMENT OF MATHEMATICS**<br>数学的概念发展 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO PHILOSOPHY OF SCIENCE**<br>科学哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO PHILOSOPHY OF SCIENCE**<br>科学哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY OF MODERN PHYSICS**<br>现代物理学哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **THE DARWINIAN REVOLUTION**<br>达尔文革命 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **SUSTAINABILITY: A PHILOSOPHICAL PERSPECTIVE**<br>可持续性：哲学视角 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **PHILOSOPHY AND CLIMATE CHANGE**<br>哲学与气候变化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **SCIENCE, TECHNOLOGY AND SOCIETY**<br>科学、技术与社会 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **PROJECT MANAGEMENT FOR THE SCIENCES**<br>科学项目管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO BUSINESS**<br>商业导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO BUSINESS**<br>商业入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **BUSINESS BASICS FOR THE SCIENCES**<br>理科商业基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **FUNDAMENTALS OF EARTH SCIENCES**<br>地球科学基础 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
@@ -54,7 +54,7 @@ ms.date: 2026-11-11
 | **IGNEOUS AND METAMORPHIC PETROLOGY**<br>火成岩与变质岩岩石学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **THE DYNAMIC EARTH**<br>动态地球 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **ENVIRONMENTAL AND EXPLORATION GEOPHYSICS I**<br>环境与勘探地球物理 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO GEOCHEMISTRY**<br>地球化学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO GEOCHEMISTRY**<br>地球化学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **CATASTROPHIC EVENTS IN EARTH HISTORY**<br>地球历史上的灾变事件 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 | **PLANET EARTH: SHAKEN AND STIRRED**<br>地球：摇撼与搅动 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21538&SelectedCalendar=Live&ArchiveID=) |
 

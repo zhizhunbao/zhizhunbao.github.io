@@ -13,40 +13,40 @@ ms.date: 2026-11-08
 | **General Arts and Sciences (GASD)**<br>文理通识 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Literature and Society**<br>文学与社会 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **The Organization and Diversity of Life**<br>生命的组织与多样性 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Fundamentals of Bioenergetics**<br>生物能量学基础 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **DNA, Inheritance, and Evolution**<br>DNA、遗传与进化 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **General Chemistry: Structure and Bonding**<br>普通化学：结构与键合 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **General Chemistry: Change and Equilibrium**<br>普通化学：变化与平衡 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Statistics I**<br>统计学导论 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Statistics II**<br>统计学导论 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Statistics I**<br>统计学入门 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Statistics II**<br>统计学入门 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Introductory Calculus**<br>微积分入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Introductory Calculus II**<br>微积分入门 2 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Linear Methods I**<br>线性方法 1 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Mechanics**<br>力学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Modern Physics**<br>近代物理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Canadian Studies**<br>加拿大研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Canadian Studies**<br>加拿大研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Children's Literature**<br>儿童文学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Topics in Film Genre**<br>电影类型专题 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Ethics**<br>伦理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Personality**<br>人格心理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Social Psychology**<br>社会心理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Adolescence**<br>青春期 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Psychopathology**<br>精神病理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Sociology of the Family**<br>家庭社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Sociology of Aging**<br>老年社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Sociology of Health and Illness**<br>健康与疾病社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Sociology of Death and Dying**<br>死亡与临终社会学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Social Work**<br>社会工作导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Social Work**<br>社会工作入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Anatomy and Physiology**<br>解剖学与生理学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Canadian Politics: Institutions and Issues**<br>加拿大政治：制度与议题 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Human Growth And Development Across The Life Span**<br>全生命周期人类成长与发展 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |
 | **Crime Narrative**<br>犯罪叙事 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/general-arts-and-sciences-diploma) |

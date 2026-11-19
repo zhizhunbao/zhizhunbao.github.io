@@ -1,10 +1,10 @@
 ---
-title: "3.2.24 Economics (Course 14-1)"
+title: "4.2.24 Economics (Course 14-1)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Economics (Course 14-1): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.24 Economics (Course 14-1)
+# 4.2.24 Economics (Course 14-1)
 
 ## Glossary
 
@@ -14,7 +14,7 @@ ms.date: 2026-11-18
 | **Principles of Microeconomics**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/economics-course-14/) |
 | **Microeconomic Theory and Public Policy**<br>微观经济理论与公共政策 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/economics-course-14/) |
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/economics-course-14/) |
-| **Introduction to Statistical Methods in Economics**<br>经济学统计方法导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/economics-course-14/) |
+| **Introduction to Statistical Methods in Economics**<br>经济学统计方法入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/economics-course-14/) |
 | **Econometric Data Science**<br>计量经济数据科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/economics-course-14/) |
 | **Thesis**<br>论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/economics-course-14/) |
 | **Intermediate Macroeconomics (CI-M)**<br>中级宏观经济学 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/economics-course-14/) |

@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **Calculus 3.**<br>微积分 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/) |
 | **Statistical Physics with Biophysical Applications.**<br>生物物理应用统计物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/) |
 | **Thermal and Statistical Physics.**<br>热与统计物理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/) |
-| **Introduction to Biophysics.**<br>生物物理学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/) |
+| **Introduction to Biophysics.**<br>生物物理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/) |
 | **Introductory Astrophysics.**<br>天体物理学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/) |
 | **Data Science and Observational Astrophysics.**<br>数据科学与观测天体物理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/) |
 | **Electronics.**<br>电子学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/) |

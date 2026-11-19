@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **DIPLÔME DE FRANÇAIS PRATIQUE**<br>实用法语文凭 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |
-| **FRENCH STUDIES: AN INTRODUCTION**<br>法语研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |
+| **FRENCH STUDIES: AN INTRODUCTION**<br>法语研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |
 | **UNIVERSITY FRENCH (LEVEL 1)**<br>大学法语（1 级） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO FRENCH STUDIES**<br>法国研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FRENCH STUDIES**<br>法国研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |
 | **LANGUAGE AND READING**<br>语言与阅读 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |
 | **LANGUAGE AND EXPRESSION**<br>语言与表达 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |
 | **WRITING WORKSHOP IN FRENCH**<br>法语写作工作坊 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20944&SelectedCalendar=Live&ArchiveID=) |

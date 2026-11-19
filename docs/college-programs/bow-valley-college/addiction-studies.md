@@ -12,14 +12,14 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Addiction Studies**<br>成瘾研究 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
 | **Foundations of Addiction: A Multidimensional Approach**<br>成瘾基础：多维方法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
-| **Introduction to Pharmacology for Human Services**<br>人类服务药理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
+| **Introduction to Pharmacology for Human Services**<br>人类服务药理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
 | **Interpersonal Relationships And Communication Skills**<br>人际关系与沟通技能 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
 | **English Composition**<br>英语写作 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
 | **Intersections of Trauma, Addiction, and Healing**<br>创伤、成瘾与疗愈的交汇 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
 | **Assessment, Documentation, and Case Management in Addictions**<br>成瘾领域的评估、文档与个案管理 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
-| **Introduction to Counselling**<br>咨询导论 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
+| **Introduction to Counselling**<br>咨询入门 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
 | **Social Policy**<br>社会政策 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
 | **Indigenous Approaches to Healing and Wellness**<br>原住民疗愈与健康方法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |
 | **Approaches to Addiction Prevention and Early Intervention**<br>成瘾预防与早期干预方法 | (Definition pending) | （定义待补） | [Bow Valley College, n.d.](https://www.bowvalleycollege.ca/programs/addiction-studies-diploma) |

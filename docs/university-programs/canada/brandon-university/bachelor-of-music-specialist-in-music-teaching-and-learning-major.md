@@ -19,7 +19,7 @@ ms.date: 2026-11-11
 | **Aural and Keyboard Skills I/II**<br>听觉与键盘技能 I/II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=328) |
 | **Ensemble**<br>合奏 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=328) |
 | **Chromatic Harmony**<br>半音阶和声 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=328) |
-| **Introduction to Teaching and Learning in Music**<br>音乐教与学导论 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=328) |
+| **Introduction to Teaching and Learning in Music**<br>音乐教与学入门 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=328) |
 | **Instructional Methods**<br>教学方法 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=328) |
 | **Foundations of Music Education**<br>音乐教育基础 | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=328) |
 | **Elementary Conducting and Score Study I/II**<br>初级指挥与总谱研究 I/II | (Definition pending) | （定义待补） | [Brandon University, n.d.](https://www.brandonu.ca/calendar/files/2026/02/Undergraduate-Calendar-2026-27.pdf#page=328) |

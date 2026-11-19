@@ -1,10 +1,10 @@
 ---
-title: "3.3.146 Applied Physics, Doctor of Philosophy"
+title: "4.3.146 Applied Physics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Applied Physics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.146 Applied Physics, Doctor of Philosophy
+# 4.3.146 Applied Physics, Doctor of Philosophy
 
 ## Glossary
 
@@ -44,7 +44,7 @@ ms.date: 2026-11-18
 | **Electromagnetic Waves**<br>电磁波 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Computational Electromagnetics**<br>计算电磁学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Nanophotonics**<br>纳米光子学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
-| **Introduction to Nonlinear Optics**<br>非线性光学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
+| **Introduction to Nonlinear Optics**<br>非线性光学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Quantum Theory of Electronic and Optical Excitations in Materials**<br>材料中电子与光学激发的量子理论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Light and Plasma**<br>光与等离子体 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Classical Electrodynamics**<br>经典电动力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
@@ -71,8 +71,8 @@ ms.date: 2026-11-18
 | **X-Ray Science and Techniques**<br>X 射线科学与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Transmission Electron Microscopy Analysis and Simulation**<br>透射电子显微镜分析与模拟 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Graduate Observational Astrophysics**<br>研究生观测天体物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
-| **Introduction to Numerical Methods for Engineering**<br>工程数值方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
-| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
+| **Introduction to Numerical Methods for Engineering**<br>工程数值方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
+| **Introduction to parallel computing using MPI, openMP, and CUDA**<br>使用 MPI、openMP 和 CUDA 的并行计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Artificial Intelligence: Principles and Techniques**<br>人工智能：原理与技术 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Natural Language Processing with Deep Learning**<br>深度学习自然语言处理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Deep Reinforcement Learning**<br>深度强化学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
@@ -87,8 +87,8 @@ ms.date: 2026-11-18
 | **Information Theory**<br>信息论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Probability and Statistical Inference**<br>概率与统计推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Partial Differential Equations of Applied Mathematics**<br>应用数学中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
-| **Introduction to Theoretical Statistics**<br>理论统计学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
-| **Introduction to Biophysics**<br>生物物理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
+| **Introduction to Theoretical Statistics**<br>理论统计学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
+| **Introduction to Biophysics**<br>生物物理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Biotransport Phenomena**<br>生物传输现象 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Quantitative Evolutionary Dynamics and Genomics**<br>定量进化动力学与基因组学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |
 | **Cellular Biophysics**<br>细胞生物物理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/applied-physics/doctor-of-philosophy) |

@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Accounting Technician**<br>会计技术员 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/accounting-technician/) |
 | **Business Communications I**<br>商务沟通 I | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/accounting-technician/costs-and-courses/) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/accounting-technician/costs-and-courses/) |
-| **Introduction to Accounting**<br>会计导论 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/accounting-technician/costs-and-courses/) |
+| **Introduction to Accounting**<br>会计入门 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/accounting-technician/costs-and-courses/) |
 | **Business Computer Applications**<br>商务计算机应用 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/accounting-technician/costs-and-courses/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/accounting-technician/costs-and-courses/) |
 | **Payroll**<br>薪资管理 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/programs-and-courses/programs/accounting-technician/costs-and-courses/) |

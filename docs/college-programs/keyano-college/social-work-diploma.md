@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Social Work Diploma**<br>社会工作文凭 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
-| **Introduction to Critical Analysis**<br>批判性分析导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
+| **Introduction to Critical Analysis**<br>批判性分析入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Basic Psychological Processes**<br>基础心理过程 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
-| **Introduction to Human Services and Basic Counselling**<br>人类服务与基础咨询导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
+| **Introduction to Human Services and Basic Counselling**<br>人类服务与基础咨询入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Addictions and Mental Health**<br>成瘾与心理健康 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
-| **Introduction to Social Welfare and Social Work**<br>社会福利与社会工作导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
+| **Introduction to Social Welfare and Social Work**<br>社会福利与社会工作入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Aboriginal Writings**<br>原住民文学作品 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Individual and Social Behaviour**<br>个体与社会行为 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Rural and Northern Practice**<br>农村与北方实践 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
@@ -23,12 +23,12 @@ ms.date: 2026-11-08
 | **Practice with Families**<br>家庭实务 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Development Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Social Policy**<br>社会政策 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **A Canadian Indigenous Perspective to Helping**<br>加拿大原住民视角下的助人工作 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Social Work in Organizations**<br>组织中的社会工作 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
-| **Introduction to Government and Politics**<br>政府与政治导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
+| **Introduction to Government and Politics**<br>政府与政治入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Social Work with Groups**<br>团体社会工作 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 | **Practicum II**<br>实习 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/health-social-services/social-work-diploma/) |
 

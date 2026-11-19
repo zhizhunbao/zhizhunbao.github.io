@@ -12,10 +12,10 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Hispanic Studies Joint Honours Component (B.A.)**<br>西班牙语系研究联合荣誉组成部分（B.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
 | **Honours Thesis.**<br>荣誉论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
-| **Introduction to Hispanic Literature**<br>西班牙语文学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
+| **Introduction to Hispanic Literature**<br>西班牙语文学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
 | **Contemporary Issues in the Hispanic World**<br>西语世界当代议题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
-| **Introduction to Hispanic Popular Cultures**<br>西班牙语流行文化导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
-| **Introduction to Hispanic Cinema**<br>西班牙语电影导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
+| **Introduction to Hispanic Popular Cultures**<br>西班牙语流行文化入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
+| **Introduction to Hispanic Cinema**<br>西班牙语电影入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/) |
 
 ## Courses
 

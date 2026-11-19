@@ -26,20 +26,16 @@ ms.date: 2026-11-11
 | Level | Type | Course Code | Course Name | Credits | Source |
 |---|---|---|---|---|---|
 |  |  |  | The Program requires completion of 12.0 credits as described below. No more than 14.0 credits in Sociology may be included in a four-year degree. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  |  | 1. 1.0 credit as follows: |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  | SOCA05H3 | The Sociological Imagination | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  | SOCA06H3 | Sociology in the World: Careers and Applications | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  | SOCB05H3 | Logic of Social Inquiry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  | SOCB35H3 | Foundations of Social Data Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  | SOCB42H3 | Theory I: Discovering the Social | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  | SOCB43H3 | Theory II: Big Ideas in Sociology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  |  | 6. 3.0 credits at the B-level in Sociology |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  | SOCC40H3 | Contemporary Sociological Theory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  |  | SOCC23H3 | Research in Action: Gathering and Analyzing Qualitative Data | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 1. 1.0 credit as follows | SOCA05H3 | The Sociological Imagination | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 1. 1.0 credit as follows | SOCA06H3 | Sociology in the World: Careers and Applications | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 1. 1.0 credit as follows | SOCB05H3 | Logic of Social Inquiry | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 1. 1.0 credit as follows | SOCB35H3 | Foundations of Social Data Science | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 1. 1.0 credit as follows | SOCB42H3 | Theory I: Discovering the Social | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 1. 1.0 credit as follows | SOCB43H3 | Theory II: Big Ideas in Sociology | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 6. 3.0 credits at the B-level in Sociology | SOCC40H3 | Contemporary Sociological Theory | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 6. 3.0 credits at the B-level in Sociology | SOCC23H3 | Research in Action: Gathering and Analyzing Qualitative Data | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
 |  | or | SOCC31H3 | Research in Action: Quantitative Data and Statistical Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  | or |  | 9. 0.5 credit in SOC at the C-level that has been designated as an Applied Writing Skills course |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  | or |  | 10. 4.5 additional credits at the C- or D- level in SOC courses\*, of which at least 1.0 credit must be at the D-level. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
-|  | or |  | \*Students may substitute courses from cognate disciplines with the prior approval of the program supervisor. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
+|  | 10. 4.5 additional credits at the C- or D- level in SOC courses\*, of which at least 1.0 credit must be at the D-level. |  | \*Students may substitute courses from cognate disciplines with the prior approval of the program supervisor. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scspe1013) |
 
 ## References
 

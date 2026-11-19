@@ -11,7 +11,7 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diaspora and Transnational Studies - Major (Arts)**<br>散居与跨国研究－主修（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Classical Civilization**<br>古典文明导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Classical Civilization**<br>古典文明入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Topics in History**<br>历史专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **A History of Discoveries and Inventions in the Ancient, Medieval, and Early Modern World.**<br>古代、中世纪与近代早期世界的发现与发明史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Revolutions in History**<br>历史中的革命 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
@@ -20,11 +20,11 @@ ms.date: 2026-11-11
 | **A History of Sex**<br>性史 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Critical Historiography**<br>批判史学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Encounters Across the Atlantic**<br>跨大西洋的相遇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to the Study of Religion**<br>宗教研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Women and Gender Studies**<br>妇女与性别研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to the Study of Religion**<br>宗教研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Women and Gender Studies**<br>妇女与性别研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Reading and Writing in Women and Gender Studies**<br>女性与性别研究中的阅读与写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Diaspora and Transnational Studies I**<br>离散与跨国研究导论 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Diaspora and Transnational Studies II**<br>离散与跨国研究导论 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Diaspora and Transnational Studies I**<br>离散与跨国研究入门 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Diaspora and Transnational Studies II**<br>离散与跨国研究入门 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Advanced Topics in Diaspora and Transnational Studies**<br>离散与跨国研究高级专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **War, Trade and Aid: The Anthropology of Global Intervention**<br>战争、贸易与援助：全球干预人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Globalization and the Changing World of Work**<br>全球化与不断变化的工作世界 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
@@ -74,9 +74,9 @@ ms.date: 2026-11-11
 | **Modernity and Islam**<br>现代性与伊斯兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Race, Gender and Nation in Modern Latin America**<br>近代拉丁美洲的种族、性别与民族 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Cold War America**<br>冷战时期的美国 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Sikhism**<br>锡克教导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **The Religion of the Magi: Introduction to Zoroastrianism**<br>麻葛的宗教：琐罗亚斯德教导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Indigenous Traditions**<br>原住民传统导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Sikhism**<br>锡克教入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **The Religion of the Magi: Introduction to Zoroastrianism**<br>麻葛的宗教：琐罗亚斯德教入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Indigenous Traditions**<br>原住民传统入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Jews and Muslims: The Medieval Encounter**<br>犹太人与穆斯林：中世纪的相遇 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Persia and Beyond: Christianity in Asia to 1300**<br>波斯及其以远：1300年以前亚洲的基督教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Contemporary Global Christianity**<br>当代全球基督教 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
@@ -89,10 +89,10 @@ ms.date: 2026-11-11
 | **Italian-Canadian Studies: Historical and Socio-Linguistic Perspectives**<br>意大利裔加拿大研究：历史与社会语言学视角 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Ideas and Ideologies**<br>思想与意识形态 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Politics in a Global World**<br>全球化世界中的政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to International Relations**<br>国际关系导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to International Relations**<br>国际关系入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Contemporary Challenges in International Relations**<br>国际关系的当代挑战 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Comparative Politics: Institutions**<br>比较政治导论：制度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Comparative Politics: Processes and Identities**<br>比较政治导论：过程与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Comparative Politics: Institutions**<br>比较政治入门：制度 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Comparative Politics: Processes and Identities**<br>比较政治入门：过程与身份 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **The Politics of Islam**<br>伊斯兰政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Managing Military Conflict**<br>军事冲突管理 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Comparative Public Policy and Administration**<br>比较公共政策与行政 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
@@ -119,7 +119,7 @@ ms.date: 2026-11-11
 | **Power and Cultural Politics**<br>权力与文化政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Sociology of Race and Ethnicity**<br>种族与族裔社会学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Migrant Labour**<br>移民劳工 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
-| **Introduction to Women, Public Policy and the Law**<br>妇女、公共政策与法律导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
+| **Introduction to Women, Public Policy and the Law**<br>妇女、公共政策与法律入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Women in Families**<br>家庭中的妇女 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Representing Islam**<br>表现伊斯兰 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |
 | **Women, Migration and Diaspora**<br>妇女、移民与离散 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/ermaj1407) |

@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Indigenous Studies, 3-Year BA**<br>原住民研究，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
-| **Introduction to Indigenous Studies: Art, Culture and History**<br>原住民研究导论：艺术、文化与历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
-| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究导论：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Introduction to Indigenous Studies: Art, Culture and History**<br>原住民研究入门：艺术、文化与历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究入门：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **IS-**<br>IS- | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Indigenous Women and Resilience**<br>原住民女性与韧性 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Indigenous Peoples, Lands, and Resources**<br>原住民、土地与资源 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
@@ -38,7 +38,7 @@ ms.date: 2026-11-11
 | **on Turtle Island)**<br>在龟岛上） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Conflict & Development Issues in Indigenous**<br>原住民冲突与发展问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Indigenous Food Systems Field School**<br>原住民食物系统野外学校 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
-| **Postcolonial Literatures: an Introduction**<br>后殖民文学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Postcolonial Literatures: an Introduction**<br>后殖民文学入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Indigenous Literatures and Cultures**<br>原住民文学与文化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Topics in Indigenous Texts and Cultures**<br>原住民文本与文化专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Indigenous Policy**<br>原住民政策 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
@@ -76,7 +76,7 @@ ms.date: 2026-11-11
 | **Indigenous Justice & Canadian Law**<br>原住民司法与加拿大法律 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Colonization and Indigenous Peoples**<br>殖民化与原住民 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
-| **Introduction to Indigenous Spirituality**<br>原住民灵性导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Introduction to Indigenous Spirituality**<br>原住民灵性入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Management and Financial Administration**<br>管理与财务行政 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Indigenous & Christian Encounter**<br>原住民与基督教的相遇 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
 | **Indigenous Sacred Narratives Pre-Master's Courses**<br>原住民神圣叙事 硕士预备课程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |

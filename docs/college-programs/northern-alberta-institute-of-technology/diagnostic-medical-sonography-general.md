@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Diagnostic Medical Sonography - General**<br>医学超声诊断－普通 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
-| **Introduction to Diagnostic Medical Sonography**<br>诊断医学超声导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
+| **Introduction to Diagnostic Medical Sonography**<br>诊断医学超声入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
 | **Physical Principles and Instrumentation in Sonography**<br>超声物理原理与仪器 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
 | **Sonography of the Normal Abdominal and Superficial Structures**<br>正常腹部与浅表结构超声检查 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
-| **Introduction to the Cardiovascular System**<br>心血管系统导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
+| **Introduction to the Cardiovascular System**<br>心血管系统入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
 | **Gynaecologic Sonography**<br>妇科超声 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
 | **Pathology of the Abdomen and Superficial Structures in Sonography**<br>超声中的腹部与浅表结构病理学 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |
 | **Obstetrical Sonography of the First Trimester**<br>孕早期产科超声 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/diagnostic-medical-sonography-general) |

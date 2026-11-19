@@ -11,13 +11,13 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MAJOR IN MEDIEVAL STUDIES**<br>中世纪研究主修 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MEDIEVAL STUDIES**<br>中世纪研究导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO THE MEDIEVAL WORLD**<br>中世纪世界导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MEDIEVAL CULTURES AND LITERATURES**<br>中世纪文化与文学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MEDIEVAL STUDIES**<br>中世纪研究入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO THE MEDIEVAL WORLD**<br>中世纪世界入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MEDIEVAL CULTURES AND LITERATURES**<br>中世纪文化与文学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **FOOD AND HEALTH IN THE MIDDLE AGES**<br>中世纪的食物与健康 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **MEDIEVAL HEROES, VILLAINS AND OTHER OUTSIDERS**<br>中世纪的英雄、恶棍与其他局外人 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **MEDIEVAL EUROPE**<br>中世纪欧洲 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO MEDIEVAL MANUSCRIPTS**<br>中世纪手稿导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MEDIEVAL MANUSCRIPTS**<br>中世纪手稿入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **CLASSICAL MYTHOLOGY**<br>古典神话 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **ROMAN EMPERORS: THE GOOD, THE BAD, AND THE UGLY**<br>罗马皇帝：好、坏与丑 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **STUDY TOUR TO ITALY: ROMAN HISTORY, ARCHAEOLOGY AND CULTURE**<br>意大利研学之旅：罗马史、考古与文化 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
@@ -44,7 +44,7 @@ ms.date: 2026-11-11
 | **LATER MEDIEVAL PHILOSOPHY**<br>中世纪后期哲学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **THE EARLY CHURCH TO THE LATE MIDDLE AGES**<br>从早期教会到中世纪晚期 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **WORLD RELIGIONS: JUDAISM AND ISLAM**<br>世界宗教：犹太教与伊斯兰教 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ISLAM**<br>伊斯兰教导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ISLAM**<br>伊斯兰教入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **FAITH IN SOUND, STONE, & PAINT**<br>声音、石头与油彩中的信仰 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **LITURGICAL MUSIC**<br>礼仪音乐 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |
 | **NORTHERN RENAISSANCE ART**<br>北方文艺复兴艺术 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20764&SelectedCalendar=Live&ArchiveID=) |

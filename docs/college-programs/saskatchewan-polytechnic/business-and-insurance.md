@@ -13,15 +13,15 @@ ms.date: 2026-11-08
 | **Business and Insurance**<br>商业与保险 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Organizational Behaviour**<br>组织行为学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Business Communications**<br>商务沟通 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
-| **Introduction to Business**<br>商业导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
+| **Introduction to Business**<br>商业入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Career Planning & Development**<br>职业规划与发展 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Business Software and Decision Tools**<br>商务软件与决策工具 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Introductory Financial Accounting 1**<br>财务会计入门 1 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Accounting for Managers**<br>管理会计（面向管理者） | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Personal Finance**<br>个人理财 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
-| **Introduction to Human Resource Management**<br>人力资源管理导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
-| **Introduction to Indigenous Studies**<br>原住民研究导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
+| **Introduction to Human Resource Management**<br>人力资源管理入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
+| **Introduction to Indigenous Studies**<br>原住民研究入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Commercial Law**<br>商法 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Marketing**<br>市场营销 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Introductory Financial Accounting 2**<br>财务会计入门 2 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Business Study Tour**<br>商务考察 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Ideation, Innovation, and Design Thinking**<br>构思、创新与设计思维 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Principles and Practices of Insurance**<br>保险原理与实务 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
-| **Introduction to Sport Management**<br>体育管理导论 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
+| **Introduction to Sport Management**<br>体育管理入门 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Conflict Management**<br>冲突管理 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Insurance on Property**<br>财产保险 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |
 | **Essential Skills for the Insurance Broker and Agent**<br>保险经纪人与代理人必备技能 | (Definition pending) | （定义待补） | [Saskatchewan Polytechnic, n.d.](https://saskpolytech.ca/programs-and-courses/programs/Business-and-Insurance.aspx) |

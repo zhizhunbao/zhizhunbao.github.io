@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Advanced Medical Esthetics Practitioner**<br>高级医学美容从业者 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advanced-medical-esthetics-practitioner) |
 | **Intro To Medical Esthetics**<br>医学美容入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advanced-medical-esthetics-practitioner) |
-| **Introduction To Laser Devices And Procedures**<br>激光设备与操作导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advanced-medical-esthetics-practitioner) |
+| **Introduction To Laser Devices And Procedures**<br>激光设备与操作入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advanced-medical-esthetics-practitioner) |
 | **Controlled Treatments**<br>受控治疗 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advanced-medical-esthetics-practitioner) |
 | **Oncology Esthetics**<br>肿瘤美容护理 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advanced-medical-esthetics-practitioner) |
 | **Venous Systems-Diagnosis & Treatments**<br>静脉系统 - 诊断与治疗 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/advanced-medical-esthetics-practitioner) |

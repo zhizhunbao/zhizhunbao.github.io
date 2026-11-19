@@ -43,7 +43,7 @@ ms.date: 2026-11-11
 | **(cross-listed as HLTH-672) Epidemiologic Methods in Aging Research**<br>（与HLTH-672交叉列课）老龄化研究中的流行病学方法 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxYgJC0jn) |
 | **Mind-wandering and Inattention**<br>走神与注意力不集中 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxYgJC0jn) |
 | **Case Studies in Neuropsychology**<br>神经心理学案例研究 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxYgJC0jn) |
-| **An Introduction to Methods in Computational Neuroscience**<br>计算神经科学方法导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxYgJC0jn) |
+| **An Introduction to Methods in Computational Neuroscience**<br>计算神经科学方法入门 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxYgJC0jn) |
 | **Cognitive Neuroscience of Face Perception**<br>面孔感知的认知神经科学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxYgJC0jn) |
 | **Seminar in Cognitive Science**<br>认知科学研讨课 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxYgJC0jn) |
 | **Applied Practicum in Cognitive Psychology**<br>认知心理学应用实习 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/BkxYgJC0jn) |

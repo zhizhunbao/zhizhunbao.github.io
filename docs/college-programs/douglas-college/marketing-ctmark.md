@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctmark) |
 | **Business Math**<br>商业数学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctmark) |
 | **Commercial and Financial Mathematics**<br>商业与金融数学 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctmark) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctmark) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctmark) |
 | **Personal Selling**<br>人员推销 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctmark) |
 | **Digital Marketing I**<br>数字营销 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctmark) |
 | **Buyer Behaviour**<br>购买者行为 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/ctmark) |

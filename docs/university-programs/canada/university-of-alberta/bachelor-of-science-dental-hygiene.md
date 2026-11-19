@@ -26,11 +26,11 @@ ms.date: 2026-11-11
 | **Oral Health Sciences III**<br>口腔健康科学 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Oral Health Sciences IV**<br>口腔健康科学 IV | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Behavioural Sciences II**<br>行为科学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
-| **Introduction to Research**<br>研究导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
+| **Introduction to Research**<br>研究入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Dental Hygiene Collaborative Practice II**<br>口腔卫生协作实践 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Oral Biology II**<br>口腔生物学 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Pathology**<br>病理学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
-| **Introduction to Pharmacology**<br>药理学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
+| **Introduction to Pharmacology**<br>药理学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Dental Hygiene Theory and Practice II**<br>口腔卫生理论与实践 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Dental Hygiene Theory and Practice II Part A**<br>口腔卫生理论与实践 II A 部分 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Dental Hygiene Theory and Practice II Part B**<br>口腔卫生理论与实践 II B 部分 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
@@ -49,8 +49,8 @@ ms.date: 2026-11-11
 | **Topics in Dental Hygiene**<br>口腔卫生专题 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Advocacy for Change in Healthcare**<br>医疗保健变革倡导 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 | **Health Information and Policy**<br>健康信息与政策 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
-| **Introduction to Research Methods and Critical Appraisal (or equivalent health research course)**<br>研究方法与批判性评价导论（或同等健康研究课程） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
-| **Introduction to Social Statistics (or equivalent statistics course)**<br>社会统计学导论（或同等统计学课程） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
+| **Introduction to Research Methods and Critical Appraisal (or equivalent health research course)**<br>研究方法与批判性评价入门（或同等健康研究课程） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
+| **Introduction to Social Statistics (or equivalent statistics course)**<br>社会统计学入门（或同等统计学课程） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110504&returnto=20850) |
 
 ## Courses
 

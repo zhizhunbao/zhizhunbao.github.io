@@ -39,7 +39,7 @@ ms.date: 2026-11-08
 | **Brand Management**<br>品牌管理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-administration-marketing) |
 | **B2B Marketing & Channel Management**<br>B2B营销与渠道管理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-administration-marketing) |
 | **International Marketing**<br>国际营销 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-administration-marketing) |
-| **Introduction to Supply Chain and Business Operations**<br>供应链与企业运营导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-administration-marketing) |
+| **Introduction to Supply Chain and Business Operations**<br>供应链与企业运营入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-administration-marketing) |
 | **Careers**<br>职业 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-administration-marketing) |
 | **Creativity and Managing Innovation**<br>创造力与创新管理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-administration-marketing) |
 | **Marketing Analysis**<br>营销分析 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/business-administration-marketing) |

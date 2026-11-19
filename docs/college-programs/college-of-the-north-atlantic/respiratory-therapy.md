@@ -15,14 +15,14 @@ ms.date: 2026-11-08
 | **Medical Terminology**<br>医学术语 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Respiratory Mathematics**<br>呼吸数学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Human Biology**<br>人体生物学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
-| **Introduction to Respiratory Therapy**<br>呼吸治疗导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
+| **Introduction to Respiratory Therapy**<br>呼吸治疗入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Applied Science for Allied Health**<br>联合健康应用科学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Pharmacology**<br>药理学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Research Methods and Statistics**<br>研究方法与统计 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Cardiopulmonary Physiology**<br>心肺生理学 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Cardiopulmonary Patho I**<br>心肺病理学 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **RT Techniques**<br>射线检测技术 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
-| **Intro to Microbiology**<br>微生物学导论 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
+| **Intro to Microbiology**<br>微生物学入门 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Professional Practice & Ethics**<br>职业实践与伦理 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Health Care Organization and Structure**<br>医疗保健组织与结构 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |
 | **Airway Management I**<br>气道管理 I | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/program/respiratory-therapy) |

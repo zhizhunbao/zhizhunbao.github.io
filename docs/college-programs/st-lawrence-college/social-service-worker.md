@@ -13,12 +13,12 @@ ms.date: 2026-11-08
 | **Social Service Worker**<br>社会服务工作者 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **Communications for College**<br>大学沟通 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **Developmental Psychology**<br>发展心理学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
-| **Introduction to Social Service Practice**<br>社会服务实践导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
+| **Introduction to Social Service Practice**<br>社会服务实践入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **Addictions**<br>成瘾 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **Social Welfare**<br>社会福利 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **Interviewing and Counselling**<br>访谈与咨询 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **General Education Course**<br>通识教育课程 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
-| **Introduction to Field Placement**<br>实地实习导论 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
+| **Introduction to Field Placement**<br>实地实习入门 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **Mental Health and Practical Pharmacology**<br>心理健康与实用药理学 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **Community Resources and Case Management**<br>社区资源与个案管理 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |
 | **Diverse Populations**<br>多元人群 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/programs/social-service-worker/full-time/cornwall) |

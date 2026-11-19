@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Group Fitness Leadership I**<br>团体健身指导 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/fitness-and-health-promotion/courses?id=36152) |
 | **Exercise Science I**<br>运动科学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/fitness-and-health-promotion/courses?id=36152) |
 | **Fitness Assessment and Exercise Prescription I**<br>健身评估与运动处方 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/fitness-and-health-promotion/courses?id=36152) |
-| **Introduction to Nutrition for Fitness and Health Promotion**<br>健身与健康促进营养导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/fitness-and-health-promotion/courses?id=36152) |
+| **Introduction to Nutrition for Fitness and Health Promotion**<br>健身与健康促进营养入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/fitness-and-health-promotion/courses?id=36152) |
 | **Group Fitness Leadership II**<br>团体健身指导 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/fitness-and-health-promotion/courses?id=36152) |
 | **Exercise Science II**<br>运动科学 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/fitness-and-health-promotion/courses?id=36152) |
 | **Fitness Assessment and Exercise Prescription II**<br>健身评估与运动处方 II | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/fitness-and-health-promotion/courses?id=36152) |

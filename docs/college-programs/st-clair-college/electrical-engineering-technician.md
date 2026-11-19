@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **Intro To Computer Aided Design**<br>计算机辅助设计入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electrical-engineering-technician) |
 | **Introductory Fluid Power**<br>流体动力入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electrical-engineering-technician) |
 | **DC Fundamentals**<br>直流电基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electrical-engineering-technician) |
-| **Introduction To Software Platforms For Technicians**<br>技术员软件平台导论 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electrical-engineering-technician) |
+| **Introduction To Software Platforms For Technicians**<br>技术员软件平台入门 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electrical-engineering-technician) |
 | **Physics**<br>物理学 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electrical-engineering-technician) |
 | **AC Fundamentals**<br>交流电基础 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electrical-engineering-technician) |
 | **Codes, Wiring & Industrial Safety**<br>规范、布线与工业安全 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/programs/electrical-engineering-technician) |

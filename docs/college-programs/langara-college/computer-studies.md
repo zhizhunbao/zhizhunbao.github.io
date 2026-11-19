@@ -12,21 +12,21 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Computer Studies**<br>计算机研究 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma) |
 | **Web Development I**<br>Web 开发 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
-| **Introduction to Web Programming**<br>网络编程导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
+| **Introduction to Web Programming**<br>网络编程入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Algorithms and Data Structures I**<br>算法与数据结构 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Object-oriented Computing**<br>面向对象计算 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Unix Tools and Scripting**<br>Unix 工具与脚本编程 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Networking**<br>网络 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Data Base Systems**<br>数据库系统 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
-| **Introduction to Computer Science**<br>计算机科学导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
+| **Introduction to Computer Science**<br>计算机科学入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Systems Analysis & Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Program Design**<br>程序设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Program Design for Engineers**<br>工程师程序设计 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Interpersonal Communications**<br>人际沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Written Communications**<br>书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Advanced Written Communications**<br>高级书面沟通 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
-| **Introduction to Academic Writing**<br>学术写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
-| **Introduction to College Writing**<br>大学写作导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
+| **Introduction to Academic Writing**<br>学术写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
+| **Introduction to College Writing**<br>大学写作入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Short Prose Selections and Composition**<br>短篇散文选读与写作 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Modern Novel, Poetry, and Drama**<br>现代小说、诗歌与戏剧 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |
 | **Modern Novel, Poetry, and Film**<br>现代小说、诗歌与电影 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/computer-studies-diploma/courses) |

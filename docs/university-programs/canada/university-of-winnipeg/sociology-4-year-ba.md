@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Sociology, 4-Year BA**<br>社会学，4 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
-| **Introduction to Sociology I: Concepts & Methods**<br>社会学导论 I：概念与方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
-| **Introduction to Sociology II:**<br>社会学导论 II： | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
+| **Introduction to Sociology I: Concepts & Methods**<br>社会学入门 I：概念与方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
+| **Introduction to Sociology II:**<br>社会学入门 II： | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
 | **Classical Sociological Theory plus either**<br>古典社会学理论加以下任一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
 | **20th Century Sociological Theory Methods**<br>20 世纪社会学理论方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
 | **Contemporary Sociological Theory**<br>当代社会学理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
 | **Sociological Theory**<br>社会学理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
-| **Introduction to Quantitative Research Methods**<br>定量研究方法导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
-| **Introduction to Research Design and Qualitative Research**<br>研究设计与定性研究导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
+| **Introduction to Quantitative Research Methods**<br>定量研究方法入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
+| **Introduction to Research Design and Qualitative Research**<br>研究设计与定性研究入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/soc.pdf#page=2) |
 
 ## Courses
 

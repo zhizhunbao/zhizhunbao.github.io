@@ -13,7 +13,7 @@ ms.date: 2026-11-11
 | **Carpentry/Woodworking**<br>木工/木材加工 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=58) |
 | **Waskawimakanwa Meciwaci Isihwawina**<br>Waskawimakanwa Meciwaci Isihwawina | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=58) |
 | **Pre-employment Trades Communication**<br>就业前技工沟通 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=58) |
-| **Introduction to CNC**<br>CNC 导论 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=58) |
+| **Introduction to CNC**<br>CNC 入门 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=58) |
 | **Intermediate CNC Router**<br>中级 CNC 雕刻机 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=58) |
 | **Hand Tools**<br>手工工具 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=58) |
 | **Woodworking Machines**<br>木工机械 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/academiccalendar#page=58) |

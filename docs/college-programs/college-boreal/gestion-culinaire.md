@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Chiffrier électronique I**<br>电子表格 I | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/gestion-culinaire/) |
 | **Communication interpersonnelle**<br>人际沟通 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/gestion-culinaire/) |
 | **Gestion des opérations de cuisine II**<br>厨房运营管理 II | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/gestion-culinaire/) |
-| **Introduction à la cuisine internationale**<br>国际烹饪导论 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/gestion-culinaire/) |
+| **Introduction à la cuisine internationale**<br>国际烹饪入门 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/gestion-culinaire/) |
 | **La table du Chef - étudiant(e)**<br>主厨餐桌 - 学生 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/gestion-culinaire/) |
 | **Traiteur et garde-manger**<br>餐饮服务与冷盘制作 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/gestion-culinaire/) |
 | **GEN au choix**<br>通识选修课 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/programme/gestion-culinaire/) |

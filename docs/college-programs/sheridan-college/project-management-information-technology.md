@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Project Management – Information Technology**<br>项目管理：信息技术 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/project-management-information-technology) |
-| **Introduction to Project Technologies and Tools**<br>项目技术与工具导论 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/project-management-information-technology) |
+| **Introduction to Project Technologies and Tools**<br>项目技术与工具入门 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/project-management-information-technology) |
 | **Team Leadership and Stakeholder Management**<br>团队领导力与利益相关者管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/project-management-information-technology) |
 | **Business Mathematics for Project Management**<br>项目管理商业数学 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/project-management-information-technology) |
 | **Project Risk Management**<br>项目风险管理 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/programs/project-management-information-technology) |

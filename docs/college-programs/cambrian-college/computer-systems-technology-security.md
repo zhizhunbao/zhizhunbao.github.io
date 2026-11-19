@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Systems Technology - Security**<br>计算机系统技术—安全 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
-| **Introduction to Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
+| **Introduction to Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
 | **Windows Client for IT Professionals**<br>面向IT专业人员的Windows客户端 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
 | **IT Essentials**<br>IT 基础 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
 | **One General Education course**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |
 | **PowerShell**<br>PowerShell | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-systems-technology) |

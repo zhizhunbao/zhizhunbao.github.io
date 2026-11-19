@@ -12,9 +12,9 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Bachelor of Science - Nursing**<br>理学学士 - 护理 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
 | **Anatomy and Physiology 1**<br>解剖与生理学 1 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
-| **Introduction to the Nursing Profession**<br>护理专业导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
+| **Introduction to the Nursing Profession**<br>护理专业入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
 | **Academic Writing and Critical Thinking**<br>学术写作与批判性思维 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
-| **Introduction to Psychology**<br>心理学导论 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
+| **Introduction to Psychology**<br>心理学入门 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
 | **Anatomy and Physiology 2**<br>解剖与生理学 2 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
 | **Therapeutic Communication and Writing in Nursing**<br>护理中的治疗性沟通与写作 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |
 | **Interprofessional Education: Exploring Team Communication**<br>跨专业教育：探索团队沟通 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/programs/bachelor-of-science-nursing) |

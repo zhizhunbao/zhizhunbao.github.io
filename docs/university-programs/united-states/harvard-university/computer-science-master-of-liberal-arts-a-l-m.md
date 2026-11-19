@@ -1,10 +1,10 @@
 ---
-title: "3.1.47 Computer Science, Master of Liberal Arts (A.L.M.)"
+title: "4.1.47 Computer Science, Master of Liberal Arts (A.L.M.)"
 description: "University Programs > United States > Harvard University > Computer Science, Master of Liberal Arts (A.L.M.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.47 Computer Science, Master of Liberal Arts (A.L.M.)
+# 4.1.47 Computer Science, Master of Liberal Arts (A.L.M.)
 
 ## Glossary
 
@@ -12,7 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Computer Science, Master of Liberal Arts (A.L.M.)**<br>计算机科学（文科硕士，继续教育） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://extension.harvard.edu/academics/programs/computer-science-masters-degree-program/) |
 | **Data Structures**<br>数据结构 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://extension.harvard.edu/academics/programs/computer-science-masters-degree-program/) |
-| **Introduction to Computer Science Using Java II**<br>Java计算机科学导论 II | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://extension.harvard.edu/academics/programs/computer-science-masters-degree-program/) |
+| **Introduction to Computer Science Using Java II**<br>Java计算机科学入门 II | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://extension.harvard.edu/academics/programs/computer-science-masters-degree-program/) |
 
 ## Courses
 

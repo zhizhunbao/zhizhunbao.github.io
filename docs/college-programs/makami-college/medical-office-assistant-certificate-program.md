@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Medical Office Assistant Certificate Program**<br>医疗办公室助理证书项目 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/medical-office-assistant/) |
-| **Introduction to MS Word, Excel, PowerPoint and Outlook**<br>MS Word、Excel、PowerPoint与Outlook导论 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/medical-office-assistant/medical-office-assistant-program-curriculum/) |
+| **Introduction to MS Word, Excel, PowerPoint and Outlook**<br>MS Word、Excel、PowerPoint与Outlook入门 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/medical-office-assistant/medical-office-assistant-program-curriculum/) |
 | **Master Keyboarding**<br>键盘输入精通 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/medical-office-assistant/medical-office-assistant-program-curriculum/) |
 | **Computer and Software Skills**<br>计算机与软件技能 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/medical-office-assistant/medical-office-assistant-program-curriculum/) |
 | **Communication Skills & Conflict Management**<br>沟通技巧与冲突管理 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/programs/medical-office-assistant/medical-office-assistant-program-curriculum/) |

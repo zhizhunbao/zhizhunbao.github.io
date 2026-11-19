@@ -1,10 +1,10 @@
 ---
-title: "3.2.4 Architecture (Course 4)"
+title: "4.2.4 Architecture (Course 4)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Architecture (Course 4): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.4 Architecture (Course 4)
+# 4.2.4 Architecture (Course 4)
 
 ## Glossary
 
@@ -13,25 +13,25 @@ ms.date: 2026-11-18
 | **Architecture (Course 4)**<br>建筑学（Course 4） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Design Studio: How to Design**<br>设计工作室：如何设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Design Studio: How to Design Intensive**<br>设计工作室：如何设计（强化） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Architectural Design Techniques**<br>建筑设计技术导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Architectural Design Techniques**<br>建筑设计技术入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Architecture Design Studio I**<br>建筑设计工作室 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Architecture Design Studio II**<br>建筑设计工作室 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Foundations in Art, Design, and Spatial Practices (CI-M)**<br>艺术、设计与空间实践基础 (CI-M) | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Environmental Technologies in Buildings**<br>建筑环境技术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Structural Design**<br>结构设计导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Structural Design**<br>结构设计入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Design Through Computation and Making**<br>通过计算与制作进行设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Understanding Modern Architecture**<br>理解现代建筑 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Thesis Research Design Seminar (CI-M)**<br>论文研究设计研讨课（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Undergraduate Thesis**<br>本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Design Studio: Advanced Product Design**<br>设计工作室：高级产品设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Visual Communication Fundamentals**<br>视觉传达基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Urban Design and Development**<br>城市设计与开发导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Urban Design and Development**<br>城市设计与开发入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Art, Architecture, and Urbanism in Dialogue**<br>艺术、建筑与城市化的对话 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Advanced Workshop in Artistic Practice and Transdisciplinary Research**<br>艺术实践与跨学科研究高级工作坊 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Three-Dimensional Art Work**<br>三维艺术创作导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Photography and Related Media**<br>摄影及相关媒介导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Three-Dimensional Art Work**<br>三维艺术创作入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Photography and Related Media**<br>摄影及相关媒介入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Advanced Photography and Related Media**<br>高级摄影及相关媒介 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Video and Related Media**<br>视频及相关媒介导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Video and Related Media**<br>视频及相关媒介入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Cinematic Migrations**<br>电影中的迁徙 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Studio Seminar in Art and the Public Sphere**<br>艺术与公共领域工作室研讨课 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Advanced Projects in Art, Culture, and Technology**<br>艺术、文化与技术高级项目 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-18
 | **Computational Structural Design and Optimization**<br>计算结构设计与优化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Tiny Fab: Advancements in Rapid Design and Fabrication of Small Homes**<br>Tiny Fab：小型住宅快速设计与制造的进展 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Advanced Visualization: Architecture in Motion Graphics**<br>高级可视化：动态图形中的建筑 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Building Information Modeling in Architecture**<br>建筑信息建模导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Building Information Modeling in Architecture**<br>建筑信息建模入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Visual Computing**<br>视觉计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Software Design**<br>软件设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Computer Graphics**<br>计算机图形学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
@@ -48,10 +48,10 @@ ms.date: 2026-11-18
 | **Visual Design**<br>视觉设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Data Storytelling Studio**<br>数据叙事工作室 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Digital Humanities: Topics, Techniques, and Technologies**<br>数字人文：主题、方法与技术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Art History**<br>艺术史导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Art History**<br>艺术史入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Modern Art and Mass Culture**<br>现代艺术与大众文化 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **A Global History of Architecture**<br>建筑全球史 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
-| **Introduction to Islamic Architecture**<br>伊斯兰建筑导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
+| **Introduction to Islamic Architecture**<br>伊斯兰建筑入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Early Modern Architecture and Art**<br>近代早期建筑与艺术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Topics in European Medieval Architecture and Art**<br>欧洲中世纪建筑与艺术专题 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |
 | **Art Since 1940**<br>1940年以来的艺术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/architecture-course-4/) |

@@ -11,11 +11,11 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Computer Science**<br>计算机科学学士 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS.html) |
-| **Introduction to Database Management Systems**<br>数据库管理系统导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
+| **Introduction to Database Management Systems**<br>数据库管理系统入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Intro to Inclusive Problem Solving**<br>包容性问题解决入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Math Foundations**<br>数学基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
-| **Introduction to Unix**<br>Unix导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
-| **Introduction to Computer Programming**<br>计算机编程导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
+| **Introduction to Unix**<br>Unix入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
+| **Introduction to Computer Programming**<br>计算机编程入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Writing Strategies**<br>写作策略 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Discrete Mathematics and Logic**<br>离散数学与逻辑 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Networking Fundamentals**<br>网络基础 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
@@ -29,7 +29,7 @@ ms.date: 2026-11-08
 | **Business and Technical Writing**<br>商务与技术写作 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Web Programming Tools and Frameworks**<br>Web 编程工具与框架 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Computer Architecture and Organization**<br>计算机体系结构与组成 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
-| **Introduction to Security**<br>安全导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
+| **Introduction to Security**<br>安全入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **User Interface Design**<br>用户界面设计 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Artificial Intelligence**<br>人工智能 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |
 | **Research Methodologies**<br>研究方法论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/BCMS/courses.html) |

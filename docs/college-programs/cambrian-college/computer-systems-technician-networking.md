@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Systems Technician - Networking**<br>计算机系统技术员—网络 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
-| **Introduction to Networking**<br>计算机网络导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
+| **Introduction to Networking**<br>计算机网络入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
 | **Windows Client for IT Professionals**<br>面向IT专业人员的Windows客户端 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
 | **IT Essentials**<br>IT 基础 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
-| **Introduction to Programming**<br>编程导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
+| **Introduction to Programming**<br>编程入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
 | **College Communications**<br>学院交流 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
 | **One General Education Course.**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |
 | **Switching, Routing, and Wireless Essentials**<br>交换、路由与无线基础 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/computer-system-technician-networking) |

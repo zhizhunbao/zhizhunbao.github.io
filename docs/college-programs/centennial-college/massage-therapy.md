@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Legislation, Standards and Professionalism**<br>法规、标准与专业素养 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/massage-therapy) |
 | **Introductory Concepts of Anatomy and Physiology**<br>解剖学与生理学入门概念 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/massage-therapy) |
 | **Nutrition and Lifestyle Practices**<br>营养与生活方式实践 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/massage-therapy) |
-| **Introduction to Clinic**<br>临床导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/massage-therapy) |
+| **Introduction to Clinic**<br>临床入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/massage-therapy) |
 | **Circle of Care Academy 2**<br>关爱圈学院 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/massage-therapy) |
 | **College Communications 3**<br>学院交流 3 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/massage-therapy) |
 | **Massage Theory and Practice 2**<br>按摩理论与实践 2 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/massage-therapy) |

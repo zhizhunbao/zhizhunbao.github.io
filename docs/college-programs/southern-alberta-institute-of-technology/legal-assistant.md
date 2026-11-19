@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Grammar and Proofreading**<br>语法与校对 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/legal-assistant) |
 | **Keyboard Skill Building**<br>键盘技能训练 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/legal-assistant) |
 | **Legal Computer Applications I**<br>法律计算机应用 I | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/legal-assistant) |
-| **Introduction to Law**<br>法学导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/legal-assistant) |
+| **Introduction to Law**<br>法学入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/legal-assistant) |
 | **Corporate Law**<br>公司法 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/legal-assistant) |
 | **Law Office Procedures**<br>律师事务所程序 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/legal-assistant) |
 | **Legal Computer Applications II**<br>法律计算机应用 II | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/legal-assistant) |

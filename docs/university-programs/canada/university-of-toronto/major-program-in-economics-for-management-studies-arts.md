@@ -12,17 +12,17 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **MAJOR PROGRAM IN ECONOMICS FOR MANAGEMENT STUDIES (ARTS)**<br>管理研究经济学主修项目（文科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Calculus for Management**<br>管理学微积分 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学导论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+| **Introduction to Microeconomics: A Mathematical Approach**<br>微观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+| **Introduction to Macroeconomics: A Mathematical Approach**<br>宏观经济学入门：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Price Theory: A Mathematical Approach**<br>价格理论：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Macroeconomic Theory and Policy: A Mathematical Approach**<br>宏观经济理论与政策：数学方法 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Quantitative Methods in Economics I**<br>经济学定量方法 I | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Quantitative Methods in Economics II**<br>经济学定量方法 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Topics in Price Theory**<br>价格理论专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Topics in Macroeconomic Theory**<br>宏观经济理论专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-| **Introduction to Regression Analysis**<br>回归分析导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-| **Introduction to Microeconomics**<br>微观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-| **Introduction to Macroeconomics**<br>宏观经济学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+| **Introduction to Regression Analysis**<br>回归分析入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+| **Introduction to Microeconomics**<br>微观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+| **Introduction to Macroeconomics**<br>宏观经济学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Price Theory**<br>价格理论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Macroeconomic Theory and Policy**<br>宏观经济理论与政策 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Economics and Government**<br>经济学与政府 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
@@ -34,9 +34,9 @@ ms.date: 2026-11-11
 | **Calculus II for Biological Sciences**<br>生物科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Calculus II for Physical Sciences**<br>物理科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Calculus II for Mathematical Sciences**<br>数学科学微积分 II | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-| **An Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-| **Introduction to Applied Probability**<br>应用概率导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-| **An Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+| **An Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+| **Introduction to Applied Probability**<br>应用概率入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+| **An Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 | **Regression Analysis**<br>回归分析 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 
 ## Courses
@@ -93,21 +93,19 @@ ms.date: 2026-11-11
 |  | The Program consists of a total of 8.0 credits, and includes the following requirements; Note: Students who take | MGEB11H3 | Quantitative Methods in Economics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 |  | The Program consists of a total of 8.0 credits, and includes the following requirements; Note: Students who take | MGEB12H3 | Quantitative Methods in Economics II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 |  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS |  | For students who intend to pursue a major in Economics with a major or minor in Statistics, we advise the following recommended sequence of required courses. If the sequence outlined below is not followed, it may result in the student taking exclusions and incurring an "EXTRA" credit. And an "EXTRA" credit does NOT count towards the 20-credit degree requirement. |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS |  | 1) Students in the Minor Program in Applied Statistics and the Major Program in Economics should take (in order) |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | MGEB11H3 | Quantitative Methods in Economics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | MGEB12H3 | Quantitative Methods in Economics II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | MGEC11H3 | Introduction to Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS |  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). |  | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | STAB52H3 | An Introduction to Probability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS (or) | STAB53H3 | Introduction to Applied Probability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | STAB57H3 | An Introduction to Statistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | MGEB12H3 | Quantitative Methods in Economics II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | MGEC11H3 | Introduction to Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | STAC67H3 | Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | MGEC11H3 | Introduction to Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | STAC67H3 | Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | MGEC11H3 | Introduction to Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
-|  | STUDENTS WHO ARE CONSIDERING COMBINING PROGRAMS BETWEEN ECONOMICS AND STATISTICS | STAC67H3 | Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 1) Students in the Minor Program in Applied Statistics and the Major Program in Economics should take (in order) | MGEB11H3 | Quantitative Methods in Economics I | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 1) Students in the Minor Program in Applied Statistics and the Major Program in Economics should take (in order) | MGEB12H3 | Quantitative Methods in Economics II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 1) Students in the Minor Program in Applied Statistics and the Major Program in Economics should take (in order) | MGEC11H3 | Introduction to Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | STAB52H3 | An Introduction to Probability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). (or) | STAB53H3 | Introduction to Applied Probability | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | STAB57H3 | An Introduction to Statistics | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | MGEB12H3 | Quantitative Methods in Economics II | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | MGEC11H3 | Introduction to Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | STAC67H3 | Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | MGEC11H3 | Introduction to Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | STAC67H3 | Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | MGEC11H3 | Introduction to Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
+|  | 2) Students in all other Statistics programs and the Major Program in Economics should take (in order). | STAC67H3 | Regression Analysis | 0.5 | [University of Toronto, n.d.](https://utsc.calendar.utoronto.ca/program/scmaj0133) |
 
 ## References
 

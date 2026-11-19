@@ -11,9 +11,9 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Plant Operator - Certificate**<br>工厂操作员证书 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/industry-trades-training/plant-operator-certificate) |
-| **Introduction to Process Plant Systems**<br>工艺工厂系统导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/industry-trades-training/plant-operator-certificate) |
+| **Introduction to Process Plant Systems**<br>工艺工厂系统入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/industry-trades-training/plant-operator-certificate) |
 | **Process Fundamentals**<br>工艺基础 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/industry-trades-training/plant-operator-certificate) |
-| **Introduction to Process Plant Operations**<br>工艺工厂运营导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/industry-trades-training/plant-operator-certificate) |
+| **Introduction to Process Plant Operations**<br>工艺工厂运营入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/industry-trades-training/plant-operator-certificate) |
 | **Plant Tours**<br>植物参观 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/industry-trades-training/plant-operator-certificate) |
 | **Work Practicum**<br>工作实习 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/industry-trades-training/plant-operator-certificate) |
 

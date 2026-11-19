@@ -14,8 +14,8 @@ ms.date: 2026-11-08
 | **Marine Basic First Aid**<br>海上基础急救 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-marine-emergency-duties) |
 | **STCW Basic Safety**<br>STCW 基础安全 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-marine-emergency-duties) |
 | **Proficiency in Survival Craft and Rescue Boats Other Than Fast Rescue Boats**<br>快速救助艇以外的救生艇筏与救助艇操作能力 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-marine-emergency-duties) |
-| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-marine-emergency-duties) |
-| **Introduction to NS OH&S Act**<br>新斯科舍省职业健康与安全法导论 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-marine-emergency-duties) |
+| **Introduction to WHMIS (Workplace Hazardous Materials Information Systems)**<br>WHMIS（工作场所危险物料信息系统）入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-marine-emergency-duties) |
+| **Introduction to NS OH&S Act**<br>新斯科舍省职业健康与安全法入门 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-marine-emergency-duties) |
 | **Safety and Sustainability Basics**<br>安全与可持续发展基础 | (Definition pending) | （定义待补） | [Nova Scotia Community College, n.d.](https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx/marine-foundations-marine-emergency-duties) |
 
 ## Courses

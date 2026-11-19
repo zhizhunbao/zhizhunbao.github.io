@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Opticianry**<br>验光配镜 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OPTC.html) |
 | **Communicating Across Contexts**<br>跨情境沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OPTC/courses.html) |
 | **Interpersonal Communication**<br>人际沟通 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OPTC/courses.html) |
-| **Introduction to Optics**<br>光学导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OPTC/courses.html) |
+| **Introduction to Optics**<br>光学入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OPTC/courses.html) |
 | **Anatomy and Physiology of the Eye**<br>眼睛解剖学与生理学 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OPTC/courses.html) |
 | **Eyeglass Dispensing Lab - Fittings and Measurements**<br>眼镜验配实验室 - 配戴与测量 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OPTC/courses.html) |
 | **Eyeglass Dispensing Lab - Lens Verification**<br>眼镜验配实验室 - 镜片检验 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/OPTC/courses.html) |

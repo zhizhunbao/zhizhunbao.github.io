@@ -48,7 +48,7 @@ ms.date: 2026-11-08
 | **Package Design 1**<br>包装设计 1 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/graphic-design-program-g122) |
 | **Storyboarding**<br>故事板 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/graphic-design-program-g122) |
 | **Strategic Design**<br>战略设计 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/graphic-design-program-g122) |
-| **Introduction to Design Management**<br>设计管理导论 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/graphic-design-program-g122) |
+| **Introduction to Design Management**<br>设计管理入门 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/graphic-design-program-g122) |
 | **Editorial Design II**<br>编辑设计 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/graphic-design-program-g122) |
 | **Audio - Video Design I**<br>音频-视频设计 I | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/graphic-design-program-g122) |
 | **Art Direction II**<br>艺术指导 II | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/programs/graphic-design-program-g122) |

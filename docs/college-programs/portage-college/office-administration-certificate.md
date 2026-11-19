@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **INTEGRATED PROJECTS I**<br>综合项目 I | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Office-Administration) |
 | **INTEGRATED PROJECTS II**<br>综合项目 II | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Office-Administration) |
 | **BUSINESS MATH**<br>商务数学 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Office-Administration) |
-| **INTRODUCTION TO OPERATING SYSTEM SOFTWARE**<br>操作系统软件导论 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Office-Administration) |
+| **INTRODUCTION TO OPERATING SYSTEM SOFTWARE**<br>操作系统软件入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Office-Administration) |
 | **JOB SEARCH**<br>求职 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Office-Administration) |
 | **WORD PROCESSING-INTRODUCTORY**<br>文字处理入门 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Office-Administration) |
 | **WORD PROCESSING-INTERMEDIATE**<br>文字处理中级 | (Definition pending) | （定义待补） | [Portage College, n.d.](https://portagecollege.ca/Office-Administration) |

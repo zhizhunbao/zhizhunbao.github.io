@@ -11,20 +11,20 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Science in Computer Engineering Co-op**<br>理学学士（计算机工程，合作教育） | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Accelerated Introduction to the Foundations of Computation I**<br>计算基础加速导论 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Accelerated Introduction to the Foundations of Computation I**<br>计算基础加速入门 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Electrical Circuits I**<br>电路 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Digital Logic Design**<br>数字逻辑设计导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Digital Logic Design**<br>数字逻辑设计入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Orientation to Cooperative Education**<br>合作教育说明 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Calculus for Engineering III**<br>工程微积分 III | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Formal Systems and Logic in Computing Science**<br>计算科学中的形式系统与逻辑 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Accelerated Introduction to the Foundations of Computation II**<br>计算基础加速导论 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Accelerated Introduction to the Foundations of Computation II**<br>计算基础加速入门 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Electrical Circuits II**<br>电路 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Microprocessors**<br>微处理器导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Microprocessors**<br>微处理器入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Continuous Time Signals and Systems**<br>连续时间信号与系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Electricity and Magnetism**<br>电与磁 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Engineering Work Experience I**<br>工程工作经历 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to File and Database Management**<br>文件与数据库管理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to File and Database Management**<br>文件与数据库管理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Electronic Devices**<br>电子器件 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Computer Organization and Architecture**<br>计算机组成与体系结构 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Object-Oriented Software Design**<br>面向对象软件设计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
@@ -35,7 +35,7 @@ ms.date: 2026-11-11
 | **Digital Electronics**<br>数字电子学 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Probability for Electrical and Computer Engineers**<br>电气与计算机工程师的概率论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Advanced Digital Logic Design**<br>高级数字逻辑设计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Software Engineering**<br>软件工程导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Software Engineering**<br>软件工程入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Computer Interfacing**<br>计算机接口 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Parallel and Distributed Programming**<br>并行与分布式编程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Engineering Work Experience IV**<br>工程工作经历 IV | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
@@ -52,13 +52,13 @@ ms.date: 2026-11-11
 | **Computers and Games**<br>计算机与游戏 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Algorithms II**<br>算法 II | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **3D Modeling and Animation**<br>3D 建模与动画 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Robotics and Mechatronics**<br>机器人与机电一体化导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Robotics and Mechatronics**<br>机器人与机电一体化入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Non-Procedural Programming Languages**<br>非过程式编程语言 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Advanced Games Programming**<br>高级游戏编程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Reinforcement Learning**<br>强化学习导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Reinforcement Learning**<br>强化学习入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Search and Planning in Artificial Intelligence**<br>人工智能中的搜索与规划 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Database Management Systems**<br>数据库管理系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Computer Graphics**<br>计算机图形学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Computer Graphics**<br>计算机图形学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Compiler Design**<br>编译器设计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Computer Vision**<br>计算机视觉 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Machine Learning Essentials**<br>机器学习要点 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
@@ -66,7 +66,7 @@ ms.date: 2026-11-11
 | **Software Requirements Engineering**<br>软件需求工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Software Testing and Maintenance Engineering**<br>软件测试与维护工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Control Systems I**<br>控制系统 I | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Communication Systems**<br>通信系统导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Communication Systems**<br>通信系统入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **RF Communication Circuits**<br>射频通信电路 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Integrated Circuit Design**<br>集成电路设计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Biophysical Measurement and Instrumentation**<br>生物物理测量与仪器 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
@@ -76,12 +76,12 @@ ms.date: 2026-11-11
 | **Reliable and Secure Systems Design**<br>可靠与安全系统设计 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Distributed Computing System**<br>分布式计算系统 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Digital Computer Processing of Images**<br>数字图像计算机处理 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Multimedia Signal Processing**<br>多媒体信号处理导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Multimedia Signal Processing**<br>多媒体信号处理入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Data Analysis and Machine Learning for Engineers**<br>工程师的数据分析与机器学习 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Intelligent Systems Engineering**<br>智能系统工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Nanoscale Phenomena in Electronic Devices**<br>电子器件中的纳米尺度现象 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Engineering of Nanobiotechnological Systems**<br>纳米生物技术系统工程 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
-| **Introduction to Nanoelectronics and Quantum Mechanics for Electrical Engineers**<br>电气工程师的纳米电子学与量子力学导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
+| **Introduction to Nanoelectronics and Quantum Mechanics for Electrical Engineers**<br>电气工程师的纳米电子学与量子力学入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 | **Optoelectronic and Photovoltaic Devices**<br>光电与光伏器件 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110567&returnto=20848) |
 
 ## Courses

@@ -12,7 +12,7 @@ ms.date: 2026-11-08
 |---|---|---|---|
 | **Criminal Justice - Bachelor of (Post-Diploma)**<br>刑事司法学士（文凭后） | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-bachelor-post-diploma) |
 | **Ethics in Justice**<br>司法伦理 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-bachelor-post-diploma) |
-| **Introduction to Research Methods in Justice**<br>司法研究方法导论 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-bachelor-post-diploma) |
+| **Introduction to Research Methods in Justice**<br>司法研究方法入门 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-bachelor-post-diploma) |
 | **Indigenous Peoples and Culture in Justice**<br>司法中的原住民与文化 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-bachelor-post-diploma) |
 | **Leadership in Justice Organizations**<br>司法组织中的领导力 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-bachelor-post-diploma) |
 | **Breadth Elective**<br>广度选修课 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/programs-and-courses/criminal-justice-bachelor-post-diploma) |

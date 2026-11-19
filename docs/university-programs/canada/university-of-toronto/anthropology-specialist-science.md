@@ -11,14 +11,14 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Anthropology - Specialist (Science)**<br>人类学－专精（理科） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
-| **Introduction to Biological Anthropology and Archaeology**<br>生物人类学与考古学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
-| **Introduction to Sociocultural and Linguistic Anthropology**<br>社会文化与语言人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
+| **Introduction to Biological Anthropology and Archaeology**<br>生物人类学与考古学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
+| **Introduction to Sociocultural and Linguistic Anthropology**<br>社会文化与语言人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
 | **Writing for University and Beyond**<br>面向大学及以后的写作 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
-| **Introduction to the Practice of Archaeology**<br>考古实践导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
+| **Introduction to the Practice of Archaeology**<br>考古实践入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
 | **World Archaeology**<br>世界考古学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
 | **Biological Anthropology: Human Variation and Adaptation**<br>生物人类学：人类变异与适应 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
 | **Biological Anthropology: Primatology and Palaeoanthropology**<br>生物人类学：灵长类学与古人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
-| **Introduction to the Anthropology of Health**<br>健康人类学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
+| **Introduction to the Anthropology of Health**<br>健康人类学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
 | **Sociocultural Anthropology**<br>社会文化人类学 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
 | **Culture and Communication**<br>文化与传播 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |
 | **Being Human: Classic Thought on Self and Society**<br>成为人：关于自我与社会的经典思想 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://utm.calendar.utoronto.ca/program/erspe0105) |

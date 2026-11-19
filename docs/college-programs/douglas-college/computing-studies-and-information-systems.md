@@ -19,14 +19,14 @@ ms.date: 2026-11-08
 | **Principles of Macroeconomics**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Business Communication**<br>商务沟通 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Introductory Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
-| **Introduction to Programming I**<br>编程导论 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
+| **Introduction to Programming I**<br>编程入门 1 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Multimedia Web Development**<br>多媒体网页开发 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Advanced Integrated Software Development**<br>高级集成软件开发 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Systems Analysis & Design**<br>系统分析与设计 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Virtualization and Computer Networking**<br>虚拟化与计算机网络 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Database I**<br>数据库 I | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
-| **Introduction to Mobile Application Development**<br>移动应用开发导论 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
+| **Introduction to Mobile Application Development**<br>移动应用开发入门 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Fundamentals of Machine Learning in Data Science**<br>数据科学中的机器学习基础 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Advanced Web Programming with Javascript & AJAX**<br>JavaScript 与 AJAX 高级网页编程 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |
 | **Scripting for CyberSecurity**<br>网络安全脚本编程 | (Definition pending) | （定义待补） | [Douglas College, n.d.](https://www.douglascollege.ca/program/dpcsti) |

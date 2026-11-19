@@ -21,7 +21,7 @@ ms.date: 2026-11-11
 | **Biomaterials and Bioperformance.**<br>生物材料与生物性能 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/oral-health-sciences-phd/) |
 | **Advanced Research Topics**<br>高级研究专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/oral-health-sciences-phd/) |
 | **Research Protocol Development**<br>研究方案制定 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/oral-health-sciences-phd/) |
-| **Introduction to Craniofacial Research.**<br>颅面研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/oral-health-sciences-phd/) |
+| **Introduction to Craniofacial Research.**<br>颅面研究入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/oral-health-sciences-phd/) |
 | **Mechanisms and Management of Pain.**<br>疼痛的机制与管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/oral-health-sciences-phd/) |
 | **Extracellular Matrix Biology.**<br>细胞外基质生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/oral-health-sciences-phd/) |
 | **Readings in Dentistry and Health Research 1.**<br>牙科与健康研究选读 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/dentistry/oral-health-sciences-phd/) |

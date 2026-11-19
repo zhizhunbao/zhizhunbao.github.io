@@ -11,13 +11,13 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Computer Systems Technology Diploma**<br>计算机系统技术文凭 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
-| **Introduction to Computing**<br>计算导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
-| **Introduction to the Foundation of Computation I**<br>计算基础导论 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
-| **Introduction to PC Hardware and Systems Configuration**<br>PC硬件与系统配置导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
+| **Introduction to Computing**<br>计算入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
+| **Introduction to the Foundation of Computation I**<br>计算基础入门 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
+| **Introduction to PC Hardware and Systems Configuration**<br>PC硬件与系统配置入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Any 100-level English (Recommended: ENGL 126)**<br>任意100级英语（建议：ENGL 126） | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
-| **Introduction to Applied Statistics I**<br>应用统计学导论 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
+| **Introduction to Applied Statistics I**<br>应用统计学入门 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Formal Systems and Logic in Computing Science**<br>计算机科学中的形式系统与逻辑 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
-| **Introduction Foundation Computation II**<br>计算基础导论 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
+| **Introduction Foundation Computation II**<br>计算基础入门 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Data Communications and Networking**<br>数据通信与网络 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Basic Linear Algebra I**<br>基础线性代数 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Approved University Studies Elective**<br>经批准的大学学习选修课 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
@@ -25,9 +25,9 @@ ms.date: 2026-11-08
 | **Computer Organization and Architecture I**<br>计算机组成与体系结构 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Algorithms I**<br>算法 I | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Operating Systems**<br>操作系统 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
-| **Introduction to Computer Graphics**<br>计算机图形学导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
+| **Introduction to Computer Graphics**<br>计算机图形学入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Computer Organization and Architecture II**<br>计算机组成与体系结构 II | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
-| **Introduction to File and Database Management**<br>文件与数据库管理导论 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
+| **Introduction to File and Database Management**<br>文件与数据库管理入门 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **User Interfaces**<br>用户界面 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 | **Web Based Internet Technology**<br>基于网络的互联网技术 | (Definition pending) | （定义待补） | [Keyano College, n.d.](https://www.keyano.ca/programs/business-computing/computer-systems-technology-diploma/) |
 

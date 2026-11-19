@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **NoSQL Database Systems**<br>NoSQL数据库系统 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAD/courses.html) |
 | **Relational Database Design and Implementation**<br>关系数据库设计与实现 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAD/courses.html) |
 | **Java Programming**<br>Java 编程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAD/courses.html) |
-| **Introduction to Cloud Computing**<br>云计算导论 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAD/courses.html) |
+| **Introduction to Cloud Computing**<br>云计算入门 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAD/courses.html) |
 | **Database Administration and Management**<br>数据库管理与运维 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAD/courses.html) |
 | **Web Programming**<br>Web 编程 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAD/courses.html) |
 | **Applied Capstone Project**<br>应用毕业设计项目 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/programs/fulltime/DAD/courses.html) |

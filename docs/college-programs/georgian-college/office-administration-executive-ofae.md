@@ -45,7 +45,7 @@ ms.date: 2026-11-08
 | **Macroeconomics**<br>宏观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Social Entrepreneurship**<br>社会创业 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Student Teams for Entrepreneurship Projects**<br>创业项目学生团队 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
-| **Introduction to Entrepreneurship**<br>创业学导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
+| **Introduction to Entrepreneurship**<br>创业学入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Entrepreneurship and Small Business**<br>创业与小型企业 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Human Resources Management Foundations**<br>人力资源管理基础 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Labour Relations**<br>劳资关系 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
@@ -58,10 +58,10 @@ ms.date: 2026-11-08
 | **Retail Management**<br>零售管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Production and Operations Management**<br>生产与运营管理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Principles of Management**<br>管理学原理 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
-| **Introduction to Logistics**<br>物流导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
+| **Introduction to Logistics**<br>物流入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Introduction to Legal Office Administration**<br>法律办公行政入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
-| **Introduction to Medical Terminology**<br>医学术语导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
+| **Introduction to Medical Terminology**<br>医学术语入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Statistics 1**<br>统计学 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 | **Statistics 2**<br>统计学 2 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/ofae/) |
 

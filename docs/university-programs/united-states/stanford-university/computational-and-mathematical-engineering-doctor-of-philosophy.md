@@ -1,10 +1,10 @@
 ---
-title: "3.3.163 Computational and Mathematical Engineering, Doctor of Philosophy"
+title: "4.3.163 Computational and Mathematical Engineering, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Computational and Mathematical Engineering, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.163 Computational and Mathematical Engineering, Doctor of Philosophy
+# 4.3.163 Computational and Mathematical Engineering, Doctor of Philosophy
 
 ## Glossary
 
@@ -30,7 +30,7 @@ ms.date: 2026-11-18
 | **Partial Differential Equations of Applied Mathematics**<br>应用数学中的偏微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Stochastic Methods in Engineering**<br>工程中的随机方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Probability and Stochastic Differential Equations for Applications**<br>应用中的概率与随机微分方程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
-| **Introduction to Stochastic Differential Equations**<br>随机微分方程导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
+| **Introduction to Stochastic Differential Equations**<br>随机微分方程入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Combinatorial Optimization**<br>组合优化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Parallel Computing**<br>并行计算 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Hardware Accelerators for Machine Learning**<br>机器学习硬件加速器 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
@@ -97,13 +97,13 @@ ms.date: 2026-11-18
 | **Advanced Dynamics, Modeling and Analysis**<br>高级动力学、建模与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Finite Element Analysis**<br>有限元分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Discontinuous Galerkin Methods for Fluid-Flow Simulations**<br>流体流动模拟的间断伽辽金方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
-| **Introduction to High Performance Computing**<br>高性能计算导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
-| **Introduction to Statistical Mechanics**<br>统计力学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
+| **Introduction to High Performance Computing**<br>高性能计算入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
+| **Introduction to Statistical Mechanics**<br>统计力学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Turbulence**<br>湍流 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Spectral Methods in Computational Physics**<br>计算物理中的谱方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Uncertainty Quantification**<br>不确定性量化 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
-| **Introduction to Game Theory (Accelerated)**<br>博弈论导论（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
+| **Introduction to Game Theory (Accelerated)**<br>博弈论入门（加速版） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Reinforcement Learning: Behaviors and Applications**<br>强化学习：行为与应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Stochastic Systems**<br>随机系统 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Stochastic Simulation**<br>随机模拟 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
@@ -113,8 +113,8 @@ ms.date: 2026-11-18
 | **Financial Statistics**<br>金融统计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Advanced Topics in Quantum Mechanics**<br>量子力学高级专题 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Regression Models and Analysis of Variance**<br>回归模型与方差分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
-| **Introduction to Stochastic Processes I**<br>随机过程导论 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
-| **Introduction to Stochastic Processes II**<br>随机过程导论 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
+| **Introduction to Stochastic Processes I**<br>随机过程入门 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
+| **Introduction to Stochastic Processes II**<br>随机过程入门 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Stochastic Processes**<br>随机过程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Applied Statistics I**<br>应用统计学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |
 | **Applied Statistics II**<br>应用统计学 II | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/computational-and-mathematical-engineering/doctor-of-philosophy) |

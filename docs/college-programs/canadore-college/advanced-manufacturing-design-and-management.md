@@ -16,7 +16,7 @@ ms.date: 2026-11-08
 | **CNC Programming**<br>CNC编程 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/advanced-manufacturing-design-and-management) |
 | **Design of Experiments**<br>实验设计 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/advanced-manufacturing-design-and-management) |
 | **Operations Research**<br>运筹学 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/advanced-manufacturing-design-and-management) |
-| **Introduction to Industry 4.0**<br>工业4.0导论 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/advanced-manufacturing-design-and-management) |
+| **Introduction to Industry 4.0**<br>工业4.0入门 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/advanced-manufacturing-design-and-management) |
 | **First Peoples of Canada**<br>加拿大第一民族 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/advanced-manufacturing-design-and-management) |
 | **Computer Aided Engineering**<br>计算机辅助工程 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/advanced-manufacturing-design-and-management) |
 | **Additive Manufacturing**<br>增材制造 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/programs/advanced-manufacturing-design-and-management) |

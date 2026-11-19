@@ -17,7 +17,7 @@ ms.date: 2026-11-08
 | **Foundation of Social Service Work Practice**<br>社会服务工作实践基础 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/social-service-worker/) |
 | **Intimate Personal Violence**<br>亲密伴侣暴力 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/social-service-worker/) |
 | **Family Dynamics**<br>家庭动力学 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/social-service-worker/) |
-| **Introduction to Sociology**<br>社会学导论 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/social-service-worker/) |
+| **Introduction to Sociology**<br>社会学入门 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/social-service-worker/) |
 | **Addictions**<br>成瘾 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/social-service-worker/) |
 | **Communications for Community Services**<br>社区服务沟通 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/social-service-worker/) |
 | **Community Practice**<br>社区实践 | (Definition pending) | （定义待补） | [Confederation College, n.d.](https://www.confederationcollege.ca/program/social-service-worker/) |

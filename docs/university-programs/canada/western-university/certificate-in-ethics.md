@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **CERTIFICATE IN ETHICS**<br>伦理学证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21547&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21547&SelectedCalendar=Live&ArchiveID=) |
-| **INTRODUCTION TO ENVIRONMENTAL PHILOSOPHY**<br>环境哲学导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21547&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ETHICS AND VALUE THEORY**<br>伦理学与价值理论入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21547&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ENVIRONMENTAL PHILOSOPHY**<br>环境哲学入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21547&SelectedCalendar=Live&ArchiveID=) |
 | **NATURE, ECOLOGY AND THE FUTURE**<br>自然、生态与未来 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21547&SelectedCalendar=Live&ArchiveID=) |
 | **POWER, OPPRESSION, AND PRIVILEGE**<br>权力、压迫与特权 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21547&SelectedCalendar=Live&ArchiveID=) |
 | **EVIL, SUFFERING, AND PESSIMISM**<br>恶、苦难与悲观主义 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21547&SelectedCalendar=Live&ArchiveID=) |

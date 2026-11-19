@@ -14,7 +14,7 @@ ms.date: 2026-11-08
 | **Exploring the Environment I**<br>环境探索 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-certificate-we/courses) |
 | **Foundations of Early Childhood Education**<br>幼儿教育基础 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-certificate-we/courses) |
 | **Knowing the Individual Child**<br>了解儿童个体 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-certificate-we/courses) |
-| **Introduction to Program Planning**<br>项目规划导论 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-certificate-we/courses) |
+| **Introduction to Program Planning**<br>项目规划入门 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-certificate-we/courses) |
 | **Practicum I**<br>实习 I | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-certificate-we/courses) |
 | **Exploring the Environment II**<br>环境探索 II | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-certificate-we/courses) |
 | **Human Relations in Early Childhood Programs**<br>幼儿项目中的人际关系 | (Definition pending) | （定义待补） | [Langara College, n.d.](https://langara.ca/programs-courses/early-childhood-education-certificate-we/courses) |

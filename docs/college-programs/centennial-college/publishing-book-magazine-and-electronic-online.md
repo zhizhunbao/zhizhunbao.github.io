@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Publishing - Book, Magazine and Electronic (Online)**<br>出版 - 图书、杂志与电子出版（线上） | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/publishing-book-magazine-electronic-online) |
-| **Introduction to Publishing**<br>出版导论 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/publishing-book-magazine-electronic-online) |
+| **Introduction to Publishing**<br>出版入门 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/publishing-book-magazine-electronic-online) |
 | **Writing for Publication**<br>出版写作 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/publishing-book-magazine-electronic-online) |
 | **Editing**<br>剪辑 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/publishing-book-magazine-electronic-online) |
 | **Content Management**<br>内容管理 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time/publishing-book-magazine-electronic-online) |

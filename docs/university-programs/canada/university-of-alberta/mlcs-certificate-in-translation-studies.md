@@ -11,9 +11,9 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MLCS Certificate in Translation Studies**<br>MLCS 翻译研究证书 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |
-| **Introduction to Translation**<br>翻译导论 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |
+| **Introduction to Translation**<br>翻译入门 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |
 | **The History of Translation**<br>翻译史 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |
-| **Introduction to Translation Theory and Practice: French-English-French**<br>翻译理论与实践导论：法英法互译 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |
+| **Introduction to Translation Theory and Practice: French-English-French**<br>翻译理论与实践入门：法英法互译 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |
 | **Translation: French into English**<br>翻译：法译英 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |
 | **Translation: English into French**<br>翻译：英译法 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |
 | **Exercises in Translation: Spanish into English**<br>翻译练习：西译英 | (Definition pending) | （定义待补） | [University of Alberta, n.d.](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110023&returnto=20844) |

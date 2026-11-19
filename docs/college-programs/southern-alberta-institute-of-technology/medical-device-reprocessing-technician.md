@@ -11,7 +11,7 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Medical Device Reprocessing Technician**<br>医疗器械再处理技术员 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-device-reprocessing-technician) |
-| **Introduction to Digital Productivity Applications**<br>数字办公应用导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-device-reprocessing-technician) |
+| **Introduction to Digital Productivity Applications**<br>数字办公应用入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-device-reprocessing-technician) |
 | **Clinical Practicum Integration**<br>临床实习整合 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-device-reprocessing-technician) |
 | **Medical Device Reprocessing Assembly**<br>医疗器械再处理组装 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-device-reprocessing-technician) |
 | **Medical Device Reprocessing Departments**<br>医疗器械再处理部门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/certificates/medical-device-reprocessing-technician) |

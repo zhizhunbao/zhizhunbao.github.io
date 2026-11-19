@@ -13,16 +13,16 @@ ms.date: 2026-11-08
 | **Media Communications**<br>媒体传播 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Digital Design I**<br>数字设计 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **MS Office for Communications**<br>面向传播的MS Office | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
-| **Introduction to Media Communications**<br>媒体传播导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
+| **Introduction to Media Communications**<br>媒体传播入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Workplace Communication Skills**<br>职场沟通技巧 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Digital Imaging I**<br>数字成像 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Media in Society**<br>社会中的媒体 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **One General Education Course.**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Digital Design II**<br>数字设计 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
-| **Introduction to Business Management**<br>企业管理导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
+| **Introduction to Business Management**<br>企业管理入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Workplace Writing Skills**<br>职场写作技能 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Multimedia I**<br>多媒体 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
-| **Introduction to Digital Marketing**<br>数字营销导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
+| **Introduction to Digital Marketing**<br>数字营销入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Digital Imaging II**<br>数字成像 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **One General Education course.**<br>一门通识教育课程 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Website Design**<br>网站设计 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
@@ -30,7 +30,7 @@ ms.date: 2026-11-08
 | **Project Communication Management**<br>项目沟通管理 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Media Writing I**<br>媒体写作 I | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Multimedia II**<br>多媒体 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
-| **Introduction to Social Media Marketing**<br>社交媒体营销导论 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
+| **Introduction to Social Media Marketing**<br>社交媒体营销入门 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Media Writing II**<br>媒体写作 II | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Multimedia III**<br>多媒体 III | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |
 | **Communications Agency**<br>传播代理机构 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/programs/media-communications) |

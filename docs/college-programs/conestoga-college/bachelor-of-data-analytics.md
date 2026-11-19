@@ -11,10 +11,10 @@ ms.date: 2026-11-08
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Bachelor of Data Analytics**<br>数据分析学士 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics) |
-| **Introduction to Business Analysis**<br>商业分析导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |
+| **Introduction to Business Analysis**<br>商业分析入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |
 | **Conestoga 101**<br>Conestoga 101 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |
 | **Scientific and Technical Communications**<br>科学与技术传播 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |
-| **Introduction to Data Analytics**<br>数据分析导论 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |
+| **Introduction to Data Analytics**<br>数据分析入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |
 | **Databases**<br>数据库 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |
 | **Math I**<br>数学 I | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |
 | **Introduction to Programming with Python**<br>Python编程入门 | (Definition pending) | （定义待补） | [Conestoga College, n.d.](https://www.conestogac.on.ca/fulltime/bachelor-of-data-analytics/courses?id=34720) |

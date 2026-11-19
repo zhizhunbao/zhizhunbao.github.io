@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Fondement des statistiques pour les sciences de données**<br>数据科学统计基础 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Techniques de bases de données**<br>数据库技术 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Mathématiques**<br>数学 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
-| **Introduction à la science des données**<br>数据科学导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
+| **Introduction à la science des données**<br>数据科学入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Stratégies de communication en milieu professionnel**<br>职场沟通策略 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Communication orale en milieu professionnel**<br>职业口头沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Communication écrite en milieu professionnel**<br>职场书面沟通 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
@@ -28,7 +28,7 @@ ms.date: 2026-11-08
 | **Outils infonuagiques**<br>云计算工具 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Structures de données**<br>数据结构 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Initiation à l'intelligence artificielle**<br>人工智能入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
-| **Introduction aux bases de données massives**<br>大数据导论 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
+| **Introduction aux bases de données massives**<br>大数据入门 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Intelligence Artificielle appliquée au prétraitement des données**<br>应用于数据预处理的人工智能 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Collecte et nettoyage des données**<br>数据收集与清洗 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |
 | **Projet Analyse de données**<br>数据分析项目 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/programmes/51837) |

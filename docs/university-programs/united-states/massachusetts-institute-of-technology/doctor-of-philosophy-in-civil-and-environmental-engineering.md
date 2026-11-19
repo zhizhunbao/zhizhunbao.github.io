@@ -1,10 +1,10 @@
 ---
-title: "3.2.106 Doctor of Philosophy in Civil and Environmental Engineering"
+title: "4.2.106 Doctor of Philosophy in Civil and Environmental Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Civil and Environmental Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.106 Doctor of Philosophy in Civil and Environmental Engineering
+# 4.2.106 Doctor of Philosophy in Civil and Environmental Engineering
 
 ## Glossary
 
@@ -18,7 +18,7 @@ ms.date: 2026-11-18
 | **Transport Processes in the Environment**<br>环境中的传递过程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Advanced Fluid Dynamics**<br>高级流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Atmospheric Boundary Layer Flows and Wind Energy**<br>大气边界层流动与风能 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
-| **Introduction to Coastal Engineering**<br>海岸工程导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
+| **Introduction to Coastal Engineering**<br>海岸工程入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Groundwater Hydrology**<br>地下水水文学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Fluid Mechanics**<br>流体力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Waves, Instability and Turbulence at Small Scales**<br>小尺度上的波、不稳定性与湍流 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
@@ -31,7 +31,7 @@ ms.date: 2026-11-18
 | **Mathematical Modeling of Ecological Systems**<br>生态系统的数学建模 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Resilience of Living Systems to Environmental Change**<br>生命系统对环境变化的韧性 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Modeling Environmental Complexity**<br>环境复杂性建模 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
-| **Introduction to the Terrestrial Carbon Cycle and Ecosystem Ecology**<br>陆地碳循环与生态系统生态学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
+| **Introduction to the Terrestrial Carbon Cycle and Ecosystem Ecology**<br>陆地碳循环与生态系统生态学入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Systems Biology**<br>系统生物学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Land-Atmosphere Interactions**<br>陆气相互作用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Surface Hydrology**<br>地表水文学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
@@ -54,9 +54,9 @@ ms.date: 2026-11-18
 | **Resilient Networks**<br>弹性网络 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Logistics Systems**<br>物流系统 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Applied Probability and Stochastic Models**<br>应用概率与随机模型 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
-| **Introduction to Probability**<br>概率论导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
+| **Introduction to Probability**<br>概率论入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Fundamentals of Probability**<br>概率论基础 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
-| **Introduction to Mathematical Programming**<br>数学规划导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
+| **Introduction to Mathematical Programming**<br>数学规划入门 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Optimization Methods**<br>优化方法 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Machine Learning for Sustainable Systems**<br>可持续系统中的机器学习 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |
 | **Modeling with Machine Learning: from Algorithms to Applications**<br>机器学习建模：从算法到应用 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/) |

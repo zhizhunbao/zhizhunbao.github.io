@@ -12,7 +12,7 @@ ms.date: 2026-11-11
 |---|---|---|---|
 | **Pediatrics and Child Health, Ph.D.**<br>儿科学与儿童健康，Ph.D. | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pediatrics-child-health-phd/) |
 | **Equity, Diversity and Inclusion for Professionals**<br>专业人员的公平、多元与包容 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pediatrics-child-health-phd/) |
-| **Introduction to a Clinical Environment or Considerations in the Delivery of Virtual Care in Pediatrics**<br>临床环境导论或儿科虚拟医疗提供的考量 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pediatrics-child-health-phd/) |
+| **Introduction to a Clinical Environment or Considerations in the Delivery of Virtual Care in Pediatrics**<br>临床环境入门或儿科虚拟医疗提供的考量 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pediatrics-child-health-phd/) |
 | **Ethics and Equity in Child Health Research**<br>儿童健康研究中的伦理与公平 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pediatrics-child-health-phd/) |
 | **Indigenous Child Health**<br>原住民儿童健康 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pediatrics-child-health-phd/) |
 | **Research Integrity Tutorial**<br>研究诚信辅导课 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/medicine/pediatrics-child-health-phd/) |

@@ -23,7 +23,7 @@ ms.date: 2026-11-08
 | **Financial Accounting Principles 1**<br>财务会计原理 1 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Microcomputer Applications**<br>微型计算机应用 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Mathematics of Finance**<br>金融数学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
-| **Introduction to Marketing**<br>市场营销导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
+| **Introduction to Marketing**<br>市场营销入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Communication Essentials**<br>沟通要点 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Microeconomics**<br>微观经济学 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Employment Law**<br>劳动法 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
@@ -40,7 +40,7 @@ ms.date: 2026-11-08
 | **Select 1 course from the available list during registration. Contact the program co-ordinator for further details.**<br>注册时从可选列表中选修1门课程。详情请联系专业协调员。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Current Issues in Human Resources**<br>人力资源时事议题 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Employment Legislation - Application and Compliance**<br>就业法规：应用与合规 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
-| **Introduction to Project Management**<br>项目管理导论 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
+| **Introduction to Project Management**<br>项目管理入门 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Select 2 courses from the available list during registration. Contact the program co-ordinator for further details.**<br>注册时从可选列表中选修2门课程。详情请联系专业协调员。 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Business Work Term 1 ( Fall intake - occurs after Semester 2, Winter intake - occurs after Semester 3 )**<br>商业实习学期 1（秋季入学：第 2 学期后；冬季入学：第 3 学期后） | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |
 | **Business Human Resources Work Term 2 ( Fall intake - occurs after Semester 3, Winter intake - occurs immediately after Work Term 1 )**<br>商业人力资源工作学期 2（秋季入学：第3学期后；冬季入学：紧接工作学期 1） | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://cat.georgiancollege.ca/programs/bahr/) |

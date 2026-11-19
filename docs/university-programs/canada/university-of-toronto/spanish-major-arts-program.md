@@ -11,8 +11,8 @@ ms.date: 2026-11-11
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Spanish Major (Arts Program)**<br>西班牙语主修（文科项目） | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
-| **Introduction to Hispanic Literary Studies**<br>西语文学研究导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
-| **Introduction to Hispanic Linguistics**<br>西语语言学导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
+| **Introduction to Hispanic Literary Studies**<br>西语文学研究入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
+| **Introduction to Hispanic Linguistics**<br>西语语言学入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
 | **Spanish Bilingualism**<br>西班牙语双语现象 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
 | **Latin American Varieties of Spanish Through the Media**<br>通过媒体认识拉丁美洲的西班牙语变体 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
 | **Spanish and the Empire: Migration in Language and Literature**<br>西班牙语与帝国：语言与文学中的迁移 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-11
 | **Political Violence and Human Rights in Latin America**<br>拉丁美洲的政治暴力与人权 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
 | **Psycholinguistics: Language Acquisition in Children**<br>心理语言学：儿童语言习得 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
 | **Latin American and Caribbean Music**<br>拉丁美洲与加勒比音乐 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
-| **Introduction to Latin American Politics and Societies**<br>拉丁美洲政治与社会导论 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
+| **Introduction to Latin American Politics and Societies**<br>拉丁美洲政治与社会入门 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
 | **Contemporary Latin American Politics**<br>当代拉丁美洲政治 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
 | **Topics in Latin American Politics**<br>拉丁美洲政治专题 | (Definition pending) | （定义待补） | [University of Toronto, n.d.](https://artsci.calendar.utoronto.ca/program/asmaj0623) |
 

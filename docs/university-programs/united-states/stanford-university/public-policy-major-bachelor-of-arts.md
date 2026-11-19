@@ -1,10 +1,10 @@
 ---
-title: "3.3.58 Public Policy, Major: Bachelor of Arts"
+title: "4.3.58 Public Policy, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Public Policy, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.58 Public Policy, Major: Bachelor of Arts
+# 4.3.58 Public Policy, Major: Bachelor of Arts
 
 ## Glossary
 
@@ -12,12 +12,12 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Public Policy, Major: Bachelor of Arts**<br>公共政策，主修：文学学士 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Principles of Economics**<br>经济学原理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法导论（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Statistical Methods (Postcalculus) for Social Scientists**<br>社会科学家统计方法入门（微积分后） | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Applied Econometrics**<br>应用计量经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Intermediate Microeconomics for Public Policy**<br>公共政策中级微观经济学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Economic Analysis I**<br>经济分析 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Organizations: Theory and Management**<br>组织：理论与管理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Self and Society: Introduction to Social Psychology**<br>自我与社会：社会心理学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Wise Interventions**<br>明智的干预 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **American Politics and Policy: In Defense of Democracy**<br>美国政治与政策：捍卫民主 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Economic Policy Analysis**<br>经济政策分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
@@ -39,16 +39,16 @@ ms.date: 2026-11-18
 | **Senior Practicum**<br>高年级实习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Market Design**<br>市场设计 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Decision Modeling and Information**<br>决策建模与信息 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **(FIN I) Introduction to Corporate Finance**<br>（金融 I）公司金融入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Imperfect Competition**<br>不完全竞争 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Game Theory and Economic Applications**<br>博弈论及其经济应用 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Microeconomics I**<br>微观经济学 I | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Qualitative Research Methods**<br>定性研究方法导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Psychometrics**<br>心理测量学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Qualitative Research Methods**<br>定性研究方法入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Psychometrics**<br>心理测量学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Social Network Methods**<br>社会网络方法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Probability**<br>概率导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Finance and Investment**<br>金融与投资导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Decision Analysis**<br>决策分析导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Probability**<br>概率入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Finance and Investment**<br>金融与投资入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Decision Analysis**<br>决策分析入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Reliability and Resilience of Engineered Systems**<br>工程系统的可靠性与韧性 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Project Course in Engineering Risk Analysis**<br>工程风险分析项目课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **The Ethical Analyst**<br>伦理分析师 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
@@ -69,7 +69,7 @@ ms.date: 2026-11-18
 | **Quasi-Experimental Research Design & Analysis**<br>准实验研究设计与分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Machine Learning for Social Scientists**<br>社会科学家的机器学习 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Causal Inference for Social Science**<br>社会科学因果推断 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Causal Inference**<br>因果推断导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Causal Inference**<br>因果推断入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **The Psychology of Communication About Politics in America**<br>美国政治传播的心理学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Money and Banking**<br>货币与银行 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Campaigns, Voting, Media, and Elections**<br>竞选、投票、媒体与选举 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
@@ -95,15 +95,15 @@ ms.date: 2026-11-18
 | **Chinese Politics**<br>中国政治 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Global Education Policy & Organization**<br>全球教育政策与组织 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **China Under Mao**<br>毛泽东治下的中国 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Urban Studies**<br>城市研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Urban Studies**<br>城市研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **CAPITALS: How Cities Shape Cultures, States, and People**<br>首都：城市如何塑造文化、国家与人 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Poverty and Prosperity**<br>贫困与繁荣 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Governance and Poverty**<br>治理与贫困 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Well-Being in Immigrant Children & Youth: A Service Learning Course**<br>移民儿童与青少年的福祉：服务学习课程 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Comparative Studies in Race and Ethnicity**<br>种族与族裔比较研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Social and Economic Networks**<br>社会与经济网络 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Race, Ethnicity, and Linguistic Diversity in Classrooms: Sociocultural Theory and Practices**<br>课堂中的种族、族裔与语言多样性：社会文化理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Feminist, Gender, and Sexuality Studies**<br>女性主义、性别与性学研究导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Feminist, Gender, and Sexuality Studies**<br>女性主义、性别与性学研究入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Challenging the Status Quo: Innovation in the Public Sector**<br>挑战现状：公共部门创新 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Sociology of Gender**<br>性别社会学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Race and Ethnic Relations in the USA**<br>美国的种族与族裔关系 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
@@ -112,13 +112,13 @@ ms.date: 2026-11-18
 | **History of Education in the United States**<br>美国教育史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **EAST House Seminar: Current Issues and Debates in Equity, Access & Society**<br>EAST House 研讨课：公平、通行与社会中的当前议题与争论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **EAST House Seminar: Readings on Equity, Access & Society**<br>EAST House 研讨课：公平、通行与社会读物 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Teaching and Learning**<br>教与学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Teaching and Learning**<br>教与学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Research and Policy on Postsecondary Access**<br>高等教育入学机会的研究与政策 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Education and Society**<br>教育与社会 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **History of Higher Education in the U.S.**<br>美国高等教育史 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Data Analysis and Interpretation**<br>数据分析与解释导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Global and Comparative Education**<br>全球与比较教育导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Philosophy of Education**<br>教育哲学导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Data Analysis and Interpretation**<br>数据分析与解释入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Global and Comparative Education**<br>全球与比较教育入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Philosophy of Education**<br>教育哲学入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Resource Allocation in Education**<br>教育中的资源配置 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Educational Neuroscience**<br>教育神经科学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Organizational Analysis**<br>组织分析 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
@@ -177,17 +177,17 @@ ms.date: 2026-11-18
 | **Energy and the Environment**<br>能源与环境 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Fundamentals of Renewable Energy Processes**<br>可再生能源过程基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Conservation Biology: A Latin American Perspective**<br>保护生物学：拉丁美洲视角 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Land Use Policy and Planning**<br>土地利用政策与规划入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Fundamentals of Geographic Information Science (GIS)**<br>地理信息科学（GIS）基础 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Environmental Governance**<br>环境治理 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Energy Efficient Buildings**<br>节能建筑 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Energy and Climate Cooperation in the Western Hemisphere**<br>西半球的能源与气候合作 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义导论：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Environmental Justice: Race, Class, Gender and Place**<br>环境正义入门：种族、阶级、性别与地方 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Housing Affordability Crisis in California: Causes, Impacts, and Solutions**<br>加利福尼亚的住房可负担性危机：成因、影响与解决方案 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计导论：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Urban Design: Contemporary Urban Design in Theory and Practice**<br>城市设计入门：当代城市设计的理论与实践 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **The Urban Century: The City in Global Perspective**<br>城市世纪：全球视野下的城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Sustainable Cities**<br>可持续城市 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
-| **Introduction to Real Estate Development**<br>房地产开发导论 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
+| **Introduction to Real Estate Development**<br>房地产开发入门 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Construction Project Assessment and Budgeting: The First 100 Days as a Project Manager**<br>建设项目评估与预算：项目经理的前100天 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Local Government Law**<br>地方政府法 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |
 | **Senior Honors Thesis Research**<br>高年级荣誉论文研究 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/undergraduate/public-policy/bachelor-of-arts) |

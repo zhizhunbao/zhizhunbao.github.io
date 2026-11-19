@@ -22,7 +22,7 @@ ms.date: 2026-11-08
 | **Radiation Protection**<br>辐射防护 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/medical-radiologic-technology) |
 | **Infection Prevention and Control**<br>感染预防与控制 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/medical-radiologic-technology) |
 | **Research in Allied Health**<br>联合健康研究 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/medical-radiologic-technology) |
-| **Introduction to Practicum**<br>实习导论 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/medical-radiologic-technology) |
+| **Introduction to Practicum**<br>实习入门 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/medical-radiologic-technology) |
 | **Quality Assurance and Control**<br>质量保证与控制 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/medical-radiologic-technology) |
 | **Computed Tomography 2**<br>计算机断层扫描 2 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/medical-radiologic-technology) |
 | **Specialized Imaging 1**<br>特殊成像 1 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/programs-and-courses/diplomas/medical-radiologic-technology) |

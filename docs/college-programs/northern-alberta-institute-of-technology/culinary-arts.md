@@ -15,7 +15,7 @@ ms.date: 2026-11-08
 | **Health & Safety**<br>健康与安全 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/culinary-arts) |
 | **Soup, Vegetables and Starches**<br>汤、蔬菜与淀粉类食物 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/culinary-arts) |
 | **Meat, Poultry and Seafood**<br>肉类、禽类与海鲜 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/culinary-arts) |
-| **Introduction to Cold Kitchen**<br>冷厨房导论 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/culinary-arts) |
+| **Introduction to Cold Kitchen**<br>冷厨房入门 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/culinary-arts) |
 | **The Culinary Professional**<br>烹饪专业人员 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/culinary-arts) |
 | **Purchasing and Financial Controls**<br>采购与财务控制 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/culinary-arts) |
 | **Baking and Pastry**<br>烘焙与西点 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/programs/culinary-arts) |

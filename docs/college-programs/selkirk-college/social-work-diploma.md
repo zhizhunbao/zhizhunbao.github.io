@@ -13,7 +13,7 @@ ms.date: 2026-11-08
 | **Social Work - Diploma**<br>社会工作文凭 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-diploma) |
 | **Core Concepts in Human Services**<br>人类服务核心概念 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-diploma) |
 | **Fundamentals of Change I**<br>变革基础 I | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-diploma) |
-| **Introduction to Indigenous Teachings and Practices**<br>原住民教导与实践导论 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-diploma) |
+| **Introduction to Indigenous Teachings and Practices**<br>原住民教导与实践入门 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-diploma) |
 | **Issues in Youth**<br>青年问题 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-diploma) |
 | **ELECTIVE - Course**<br>选修课 - 课程 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-diploma) |
 | **Child Development**<br>儿童发展 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/programs/health-human-services/social-work-diploma) |

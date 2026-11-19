@@ -13,8 +13,8 @@ ms.date: 2026-11-11
 | **BNSc Four-Year Track of Study (Incoming 2026-2027 Students)**<br>BNSc 4 年制学习路径（2026-2027 年入学学生） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
 | **Professional Relationships**<br>职业关系 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
 | **Philosophy and Healthcare**<br>哲学与医疗保健 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
-| **Introduction to Statistics**<br>统计学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
-| **Introduction to Biochemistry**<br>生物化学导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
+| **Introduction to Statistics**<br>统计学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
+| **Introduction to Biochemistry**<br>生物化学入门 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
 | **Principles of Psychology**<br>心理学原理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
 | **Nutrition and Health**<br>营养与健康 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
 | **Health Assessment**<br>健康评估 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/nursing/bnsc-four-year-track-study-secondary-school-graduates/) |
