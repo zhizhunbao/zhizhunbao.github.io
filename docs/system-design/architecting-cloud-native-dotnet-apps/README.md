@@ -1,12 +1,14 @@
 # Architecting Cloud-Native .NET Apps for Azure: allowed pages and term checklist
 
-Published 2026-11-11 (CST8915 Week 10, Backing Service I): the Overview, chapter 1 and page 1.1, in the menu after System Design's Overview. The same day (user: 补全) every chapter and article of the table below got its page and menu entry: chapter pages list their articles as Glossary rows (definitions pending), article pages are stubs ("Sources:" line, "Not written yet."). No figures yet. Source: *Architecting Cloud-Native .NET Apps for Azure*, a Microsoft Learn e-book in the .NET architecture guides (https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/). Its table of contents is cached as `references/official-docs/cache/cloud_native_dotnet_toc.json` and its pages in the batch `urls_kb_cloud_native_dotnet.txt` (2026-11-11; "What is Cloud Native?" was cached on 2026-10-18).
+Published 2026-11-11 (CST8915 Week 10, Backing Service I): the Overview, chapter 1 and page 1.1, in the menu after System Design's Overview. The same day (user: 补全) every chapter and article of the table below got its page and menu entry: chapter pages list their articles as Glossary rows (definitions pending), article pages are stubs ("Sources:" line, "Not written yet."). No figures yet. Figures (2026-11-18, CST8915 Week 11): chapters 2 and 4 and pages 2.1 and 4.2, sources in `figures/system-design/architecting-cloud-native-dotnet-apps/` (chapter figures in the format of `linear-algebra.html`, page figures a group per part; unwritten groups drawn empty); the Overview, chapter 1 and 1.1 still have none. Source: *Architecting Cloud-Native .NET Apps for Azure*, a Microsoft Learn e-book in the .NET architecture guides (https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/). Its table of contents is cached as `references/official-docs/cache/cloud_native_dotnet_toc.json` and its pages in the batch `urls_kb_cloud_native_dotnet.txt` (2026-11-11; "What is Cloud Native?" was cached on 2026-10-18).
 
 License: the pages come from the `dotnet/docs` repository, CC BY 4.0, so definitions are quoted word for word.
 
 Why it is here (2026-11-11): CST8915 Lecture 6 (Container Orchestration I) takes its pillars, its table of container orchestrator tasks, the Twelve-Factor note and the Kubernetes paragraph word for word from "What is Cloud Native?", section Containers.
 
 Status (2026-11-11): skeleton. The ten chapters are pages numbered in the book's order (the web edition has no numbers); each article is a page under its chapter. 1.1 is renamed to the term it defines (the title "What is Cloud Native?" names Cloud Native) and lists its seven sections that hold terms as groups. The other pages keep their table-of-contents titles until they are read.
+
+Abbreviation full forms: AMQP (4.2) = "Advanced Message Queuing Protocol", from Microsoft Learn, *Overview of AMQP 1.0 in Azure Service Bus* (https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-overview, cached).
 
 Left out (no terms): "Deploying eShopOnContainers to Azure" (a how-to: deployment steps for the reference app) and "Summary - Architecting cloud-native .NET apps for Azure" (a closing recap).
 
@@ -16,7 +18,7 @@ Left out (no terms): "Deploying eShopOnContainers to Azure" (a how-to: deploymen
 | 1.1 Cloud Native | definition | groups listed; 1.1.6 Backing services written 2026-11-11 (managed backing services, attached resource, Statelessness) |
 | 1.2 Candidate Apps for Cloud Native | candidate-apps | no |
 | 2. Introducing the eShopOnContainers Reference App | introduce-eshoponcontainers-reference-app | no |
-| 2.1 Mapping eShopOnContainers to Azure Services | map-eshoponcontainers-azure-services | no |
+| 2.1 Mapping eShopOnContainers to Azure Services | map-eshoponcontainers-azure-services | groups listed; 2.1.4 Event Bus written 2026-11-18 (RabbitMQ, Azure Service Bus and topics as context rows; CST8915 Week 11) |
 | 2.2 Centralized Configuration | centralized-configuration | no |
 | 3. Scaling Cloud-Native .NET Applications | scale-applications | no |
 | 3.1 Leveraging Containers and Orchestrators | leverage-containers-orchestrators | no |
@@ -27,7 +29,7 @@ Left out (no terms): "Deploying eShopOnContainers to Azure" (a how-to: deploymen
 | 3.6 Other Deployment Options | other-deployment-options | no |
 | 4. Cloud-Native Communication Patterns | communication-patterns | no |
 | 4.1 Front-End Client Communication | front-end-communication | no |
-| 4.2 Service to Service Communication | service-to-service-communication | no |
+| 4.2 Service to Service Communication | service-to-service-communication | written 2026-11-18 except 4.2.1 Queries (pending): opening interaction types, 4.2.2 Commands, 4.2.3 Events (CST8915 Week 11) |
 | 4.3 gRPC | grpc | no |
 | 4.4 Service Mesh Communication Infrastructure | service-mesh-communication-infrastructure | no |
 | 5. Cloud-Native Data Patterns | distributed-data | no |
